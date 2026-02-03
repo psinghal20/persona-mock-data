@@ -1,0 +1,65 @@
+[
+  {
+    "name": "mercari-jp_search_mercari_jp",
+    "title": null,
+    "description": "Search Mercari for items, excluding keywords and filtering by price and specific model name.\n                Args:\n                    keyword (str): The main keyword to search for (e.g., 'iPhone15 Pro 256GB'). Optimize this to ensure the product name is correct, sometimes it has to be in Japanese.\n                    exclude_keywords (str): Space-separated keywords to exclude. Think about exclude keywords that can make the search more precise. Generate this in japanese. For example, '\u30b8\u30e3\u30f3\u30af', 'max', 'plus', '11', '12', '13', '14', '16', '\u30b1\u30fc\u30b9', '\u30ab\u30d0\u30fc', '\u30d5\u30a3\u30eb\u30e0' when searching for iPhone15 Pro 256GB. Don't forget to separate them with space. Do not include '\u65b0\u54c1', '\u672a\u4f7f\u7528', or '\u4e2d\u53e4' in this list if not requested.\n                    min_price (int, optional): Minimum price in JPY. Think about the minimum price that you are willing to pay for the item. For example, if you are looking for a new iPhone15 Pro 256GB, you might want to set a minimum price of 100000 JPY.\n                    max_price (int, optional): Maximum price in JPY. Think about the maximum price that you are willing to pay for the item. For example, if you are looking for a new iPhone15 Pro 256GB, you might want to set a maximum price of 200000 JPY.\n                    limit (int): Maximum number of items to return.",
+    "inputSchema": {
+      "additionalProperties": false,
+      "properties": {
+        "keyword": {
+          "description": "The main keyword to search for (e.g., 'iPhone15 Pro 256GB').",
+          "title": "Keyword",
+          "type": "string"
+        },
+        "exclude_keywords": {
+          "default": "",
+          "description": "Space-separated keywords to exclude (e.g., '\u30b8\u30e3\u30f3\u30af max').",
+          "title": "Exclude Keywords",
+          "type": "string"
+        },
+        "min_price": {
+          "anyOf": [
+            {
+              "minimum": 0,
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "Minimum price in JPY.",
+          "title": "Min Price"
+        },
+        "max_price": {
+          "anyOf": [
+            {
+              "minimum": 0,
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "Maximum price in JPY.",
+          "title": "Max Price"
+        },
+        "limit": {
+          "default": 20,
+          "description": "Maximum number of items to return.",
+          "minimum": 1,
+          "title": "Limit",
+          "type": "integer"
+        }
+      },
+      "required": [
+        "keyword"
+      ],
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  }
+]

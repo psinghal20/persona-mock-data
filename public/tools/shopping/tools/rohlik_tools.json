@@ -1,0 +1,377 @@
+[
+  {
+    "name": "rohlik_search_products",
+    "title": null,
+    "description": "Search for products on Rohlik.cz by name",
+    "inputSchema": {
+      "type": "object",
+      "properties": {
+        "product_name": {
+          "type": "string",
+          "minLength": 1,
+          "description": "The name or search term for the product"
+        },
+        "limit": {
+          "type": "number",
+          "minimum": 1,
+          "maximum": 50,
+          "default": 10,
+          "description": "Maximum number of products to return (1-50, default: 10)"
+        },
+        "favourite_only": {
+          "type": "boolean",
+          "default": false,
+          "description": "Whether to return only favourite products (default: false)"
+        }
+      },
+      "required": [
+        "product_name"
+      ],
+      "additionalProperties": false,
+      "$schema": "http://json-schema.org/draft-07/schema#"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "rohlik_add_to_cart",
+    "title": null,
+    "description": "Add products to the shopping cart",
+    "inputSchema": {
+      "type": "object",
+      "properties": {
+        "products": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "product_id": {
+                "type": "number",
+                "description": "The ID of the product to add"
+              },
+              "quantity": {
+                "type": "number",
+                "minimum": 1,
+                "description": "Quantity of the product to add"
+              }
+            },
+            "required": [
+              "product_id",
+              "quantity"
+            ],
+            "additionalProperties": false
+          },
+          "minItems": 1,
+          "description": "Array of products to add to cart"
+        }
+      },
+      "required": [
+        "products"
+      ],
+      "additionalProperties": false,
+      "$schema": "http://json-schema.org/draft-07/schema#"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "rohlik_get_cart_content",
+    "title": null,
+    "description": "Get the current contents of the shopping cart",
+    "inputSchema": {
+      "$schema": "http://json-schema.org/draft-07/schema#",
+      "type": "object",
+      "properties": {}
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "rohlik_remove_from_cart",
+    "title": null,
+    "description": "Remove an item from the shopping cart",
+    "inputSchema": {
+      "type": "object",
+      "properties": {
+        "order_field_id": {
+          "type": "string",
+          "minLength": 1,
+          "description": "The order field ID of the item to remove (cart_item_id from cart content)"
+        }
+      },
+      "required": [
+        "order_field_id"
+      ],
+      "additionalProperties": false,
+      "$schema": "http://json-schema.org/draft-07/schema#"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "rohlik_get_shopping_list",
+    "title": null,
+    "description": "Get a shopping list by ID",
+    "inputSchema": {
+      "type": "object",
+      "properties": {
+        "shopping_list_id": {
+          "type": "string",
+          "minLength": 1,
+          "description": "The ID of the shopping list to retrieve"
+        }
+      },
+      "required": [
+        "shopping_list_id"
+      ],
+      "additionalProperties": false,
+      "$schema": "http://json-schema.org/draft-07/schema#"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "rohlik_get_account_data",
+    "title": null,
+    "description": "Get comprehensive account information including delivery details, orders, announcements, cart, and more",
+    "inputSchema": {
+      "$schema": "http://json-schema.org/draft-07/schema#",
+      "type": "object",
+      "properties": {}
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "rohlik_get_order_history",
+    "title": null,
+    "description": "Get your past delivered orders",
+    "inputSchema": {
+      "type": "object",
+      "properties": {
+        "limit": {
+          "type": "number",
+          "minimum": 1,
+          "maximum": 100,
+          "default": 10,
+          "description": "Maximum number of orders to return (1-100, default: 10)"
+        }
+      },
+      "additionalProperties": false,
+      "$schema": "http://json-schema.org/draft-07/schema#"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "rohlik_get_order_detail",
+    "title": null,
+    "description": "Get detailed information about a specific order by its ID, including all products",
+    "inputSchema": {
+      "type": "object",
+      "properties": {
+        "orderId": {
+          "type": "string",
+          "description": "The order ID to fetch details for"
+        }
+      },
+      "required": [
+        "orderId"
+      ],
+      "additionalProperties": false,
+      "$schema": "http://json-schema.org/draft-07/schema#"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "rohlik_get_upcoming_orders",
+    "title": null,
+    "description": "Get your scheduled upcoming orders",
+    "inputSchema": {
+      "$schema": "http://json-schema.org/draft-07/schema#",
+      "type": "object",
+      "properties": {}
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "rohlik_get_delivery_info",
+    "title": null,
+    "description": "Get current delivery information and available time slots",
+    "inputSchema": {
+      "$schema": "http://json-schema.org/draft-07/schema#",
+      "type": "object",
+      "properties": {}
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "rohlik_get_delivery_slots",
+    "title": null,
+    "description": "Get available delivery time slots for your address",
+    "inputSchema": {
+      "$schema": "http://json-schema.org/draft-07/schema#",
+      "type": "object",
+      "properties": {}
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "rohlik_get_premium_info",
+    "title": null,
+    "description": "Get information about your Rohlik Premium subscription",
+    "inputSchema": {
+      "$schema": "http://json-schema.org/draft-07/schema#",
+      "type": "object",
+      "properties": {}
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "rohlik_get_announcements",
+    "title": null,
+    "description": "Get current announcements and notifications from Rohlik",
+    "inputSchema": {
+      "$schema": "http://json-schema.org/draft-07/schema#",
+      "type": "object",
+      "properties": {}
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "rohlik_get_reusable_bags_info",
+    "title": null,
+    "description": "Get information about your reusable bags and environmental impact",
+    "inputSchema": {
+      "$schema": "http://json-schema.org/draft-07/schema#",
+      "type": "object",
+      "properties": {}
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "rohlik_get_frequent_items",
+    "title": null,
+    "description": "Analyze your order history to find the most frequently purchased items",
+    "inputSchema": {
+      "type": "object",
+      "properties": {
+        "orders_to_analyze": {
+          "type": "number",
+          "minimum": 1,
+          "maximum": 20,
+          "default": 5,
+          "description": "Number of recent orders to analyze (1-20, default: 5)"
+        },
+        "top_items": {
+          "type": "number",
+          "minimum": 3,
+          "maximum": 30,
+          "default": 10,
+          "description": "Number of top items to return overall (3-30, default: 10)"
+        },
+        "top_per_category": {
+          "type": "number",
+          "minimum": 1,
+          "maximum": 20,
+          "default": 10,
+          "description": "Number of top items to show per category (1-20, default: 10)"
+        },
+        "show_categories": {
+          "type": "boolean",
+          "default": true,
+          "description": "Whether to show per-category breakdown (default: true)"
+        }
+      },
+      "additionalProperties": false,
+      "$schema": "http://json-schema.org/draft-07/schema#"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "rohlik_get_meal_suggestions",
+    "title": null,
+    "description": "Get smart shopping suggestions for specific meal types (breakfast, lunch, dinner, etc.) based on your purchase history",
+    "inputSchema": {
+      "type": "object",
+      "properties": {
+        "meal_type": {
+          "type": "string",
+          "enum": [
+            "breakfast",
+            "lunch",
+            "dinner",
+            "snack",
+            "baking",
+            "drinks",
+            "healthy"
+          ],
+          "description": "Type of meal or occasion (enum): breakfast, lunch, dinner, snack, baking, drinks, or healthy"
+        },
+        "items_count": {
+          "type": "number",
+          "minimum": 3,
+          "maximum": 30,
+          "default": 10,
+          "description": "Number of items to suggest (3-30, default: 10)"
+        },
+        "orders_to_analyze": {
+          "type": "number",
+          "minimum": 1,
+          "maximum": 20,
+          "default": 5,
+          "description": "Number of recent orders to analyze (1-20, default: 5)"
+        },
+        "prefer_frequent": {
+          "type": "boolean",
+          "default": true,
+          "description": "Prefer items you order frequently (default: true)"
+        }
+      },
+      "required": [
+        "meal_type"
+      ],
+      "additionalProperties": false,
+      "$schema": "http://json-schema.org/draft-07/schema#"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "rohlik_get_shopping_scenarios",
+    "title": null,
+    "description": "Shows example scenarios and use cases for the Rohlik MCP - helps users understand what's possible",
+    "inputSchema": {
+      "$schema": "http://json-schema.org/draft-07/schema#",
+      "type": "object",
+      "properties": {}
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  }
+]

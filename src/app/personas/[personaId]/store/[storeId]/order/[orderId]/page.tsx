@@ -189,9 +189,11 @@ export default async function OrderPage({ params }: PageProps) {
       <nav className="breadcrumb">
         <Link href="/">Home</Link>
         <span className="breadcrumb-separator">/</span>
-        <Link href={`/persona/${personaId}`}>{personaName}</Link>
+        <Link href="/personas">Personas</Link>
         <span className="breadcrumb-separator">/</span>
-        <Link href={`/persona/${personaId}/store/${storeId}`}>{storeName}</Link>
+        <Link href={`/personas/${personaId}`}>{personaName}</Link>
+        <span className="breadcrumb-separator">/</span>
+        <Link href={`/personas/${personaId}/store/${storeId}`}>{storeName}</Link>
         <span className="breadcrumb-separator">/</span>
         <span className="breadcrumb-current font-mono">{order.order_id}</span>
       </nav>

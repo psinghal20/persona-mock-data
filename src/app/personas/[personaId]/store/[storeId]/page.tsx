@@ -135,7 +135,7 @@ function CategorySection({
         {category.items.map((item) => (
           <Link
             key={item.order_id}
-            href={`/persona/${personaId}/store/${storeId}/order/${item.order_id}`}
+            href={`/personas/${personaId}/store/${storeId}/order/${item.order_id}`}
             className="order-row"
           >
             <div className="flex items-center gap-4">
@@ -211,7 +211,9 @@ export default async function StorePage({ params }: PageProps) {
       <nav className="breadcrumb">
         <Link href="/">Home</Link>
         <span className="breadcrumb-separator">/</span>
-        <Link href={`/persona/${personaId}`}>{personaName}</Link>
+        <Link href="/personas">Personas</Link>
+        <span className="breadcrumb-separator">/</span>
+        <Link href={`/personas/${personaId}`}>{personaName}</Link>
         <span className="breadcrumb-separator">/</span>
         <span className="breadcrumb-current">{storeData.store_name}</span>
       </nav>

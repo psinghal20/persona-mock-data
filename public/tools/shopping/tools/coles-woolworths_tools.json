@@ -1,0 +1,59 @@
+[
+  {
+    "name": "coles-woolworths_get_coles_products",
+    "title": null,
+    "description": "Search for products at Coles.\n\n    Args:\n        query: The product search query.\n        store_id: The Coles store ID to search in.\n        limit: Maximum number of products to return.\n    ",
+    "inputSchema": {
+      "properties": {
+        "query": {
+          "title": "Query",
+          "type": "string"
+        },
+        "store_id": {
+          "default": "0584",
+          "title": "Store Id",
+          "type": "string"
+        },
+        "limit": {
+          "default": 10,
+          "title": "Limit",
+          "type": "integer"
+        }
+      },
+      "required": [
+        "query"
+      ],
+      "title": "get_coles_productsArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "coles-woolworths_get_woolworths_products",
+    "title": null,
+    "description": "Search for products at Woolworths.\n\n    Args:\n        query: The product search query.\n        limit: Maximum number of products to return.\n    ",
+    "inputSchema": {
+      "properties": {
+        "query": {
+          "title": "Query",
+          "type": "string"
+        },
+        "limit": {
+          "default": 10,
+          "title": "Limit",
+          "type": "integer"
+        }
+      },
+      "required": [
+        "query"
+      ],
+      "title": "get_woolworths_productsArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  }
+]

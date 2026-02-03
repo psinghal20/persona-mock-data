@@ -56,6 +56,8 @@ export default async function PersonaPage({ params }: PageProps) {
       <nav className="breadcrumb">
         <Link href="/">Home</Link>
         <span className="breadcrumb-separator">/</span>
+        <Link href="/personas">Personas</Link>
+        <span className="breadcrumb-separator">/</span>
         <span className="breadcrumb-current">{profile.name}</span>
       </nav>
 
@@ -178,7 +180,7 @@ export default async function PersonaPage({ params }: PageProps) {
               {profile.stores.map((store) => (
                 <Link
                   key={store.id}
-                  href={`/persona/${personaId}/store/${store.id}`}
+                  href={`/personas/${personaId}/store/${store.id}`}
                   className="card p-4"
                 >
                   <div className="flex justify-between items-start">

@@ -1,0 +1,377 @@
+[
+  {
+    "name": "electronics-store_get_all_products",
+    "title": null,
+    "description": "Get all products, optionally filtered by category.\n\nArgs:\n    category: Filter by category (TVs, Phones, Laptops, Smart Home, Audio)\n    limit: Maximum number of products to return (default 50)\n\nReturns:\n    List of products with basic information\n",
+    "inputSchema": {
+      "properties": {
+        "category": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Category"
+        },
+        "limit": {
+          "default": 50,
+          "title": "Limit",
+          "type": "integer"
+        }
+      },
+      "title": "get_all_productsArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "electronics-store_get_product_by_id",
+    "title": null,
+    "description": "Get detailed information about a specific product.\n\nArgs:\n    product_id: The unique ID of the product (e.g., \"TV001\")\n\nReturns:\n    Product details including specifications, warranty info, and price match eligibility\n",
+    "inputSchema": {
+      "properties": {
+        "product_id": {
+          "title": "Product Id",
+          "type": "string"
+        }
+      },
+      "required": [
+        "product_id"
+      ],
+      "title": "get_product_by_idArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "electronics-store_search_products",
+    "title": null,
+    "description": "Search products with multiple filters.\n\nArgs:\n    query: Search term to match against name, description, brand\n    category: Filter by category (TVs, Phones, Laptops, Smart Home, Audio)\n    brand: Filter by brand (Samsung, Apple, Sony, etc.)\n    min_price: Minimum price filter\n    max_price: Maximum price filter\n    in_stock_only: Only show products that are in stock\n    limit: Maximum number of results (default 20)\n\nReturns:\n    List of matching products\n",
+    "inputSchema": {
+      "properties": {
+        "query": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Query"
+        },
+        "category": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Category"
+        },
+        "brand": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Brand"
+        },
+        "min_price": {
+          "anyOf": [
+            {
+              "type": "number"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Min Price"
+        },
+        "max_price": {
+          "anyOf": [
+            {
+              "type": "number"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Max Price"
+        },
+        "in_stock_only": {
+          "default": false,
+          "title": "In Stock Only",
+          "type": "boolean"
+        },
+        "limit": {
+          "default": 20,
+          "title": "Limit",
+          "type": "integer"
+        }
+      },
+      "title": "search_productsArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "electronics-store_get_categories",
+    "title": null,
+    "description": "Get all available product categories.\n\nReturns:\n    List of unique categories\n",
+    "inputSchema": {
+      "properties": {},
+      "title": "get_categoriesArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "electronics-store_get_brands",
+    "title": null,
+    "description": "Get all available brands.\n\nReturns:\n    List of unique brands\n",
+    "inputSchema": {
+      "properties": {},
+      "title": "get_brandsArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "electronics-store_check_price_match",
+    "title": null,
+    "description": "Check if a product is eligible for price matching.\n\nArgs:\n    product_id: The product ID to check\n    competitor_price: The competitor's price\n    competitor_name: Name of the competitor (e.g., \"Amazon\", \"Walmart\")\n\nReturns:\n    Price match eligibility and potential savings\n",
+    "inputSchema": {
+      "properties": {
+        "product_id": {
+          "title": "Product Id",
+          "type": "string"
+        },
+        "competitor_price": {
+          "title": "Competitor Price",
+          "type": "number"
+        },
+        "competitor_name": {
+          "title": "Competitor Name",
+          "type": "string"
+        }
+      },
+      "required": [
+        "product_id",
+        "competitor_price",
+        "competitor_name"
+      ],
+      "title": "check_price_matchArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "electronics-store_request_price_match",
+    "title": null,
+    "description": "Request a price match for a product.\n\nArgs:\n    product_id: The product ID to price match\n    competitor_price: The competitor's lower price\n    competitor_name: Name of the competitor\n\nReturns:\n    Price match confirmation with savings amount\n",
+    "inputSchema": {
+      "properties": {
+        "product_id": {
+          "title": "Product Id",
+          "type": "string"
+        },
+        "competitor_price": {
+          "title": "Competitor Price",
+          "type": "number"
+        },
+        "competitor_name": {
+          "title": "Competitor Name",
+          "type": "string"
+        }
+      },
+      "required": [
+        "product_id",
+        "competitor_price",
+        "competitor_name"
+      ],
+      "title": "request_price_matchArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "electronics-store_get_warranty_options",
+    "title": null,
+    "description": "Get available extended warranty options for a product.\n\nArgs:\n    product_id: The product ID to get warranty options for\n\nReturns:\n    List of available warranty plans with pricing and coverage details\n",
+    "inputSchema": {
+      "properties": {
+        "product_id": {
+          "title": "Product Id",
+          "type": "string"
+        }
+      },
+      "required": [
+        "product_id"
+      ],
+      "title": "get_warranty_optionsArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "electronics-store_add_to_cart",
+    "title": null,
+    "description": "Add a product to the shopping cart.\n\nArgs:\n    product_id: The product ID to add\n    quantity: Number of units to add (default 1)\n    warranty_id: Optional extended warranty ID to add\n\nReturns:\n    Confirmation message\n",
+    "inputSchema": {
+      "properties": {
+        "product_id": {
+          "title": "Product Id",
+          "type": "string"
+        },
+        "quantity": {
+          "default": 1,
+          "title": "Quantity",
+          "type": "integer"
+        },
+        "warranty_id": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Warranty Id"
+        }
+      },
+      "required": [
+        "product_id"
+      ],
+      "title": "add_to_cartArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "electronics-store_get_cart",
+    "title": null,
+    "description": "Get the current shopping cart contents.\n\nReturns:\n    Cart items with quantities, prices, warranties, and subtotal\n",
+    "inputSchema": {
+      "properties": {},
+      "title": "get_cartArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "electronics-store_remove_from_cart",
+    "title": null,
+    "description": "Remove an item from the cart.\n\nArgs:\n    cart_item_id: The cart item ID to remove\n\nReturns:\n    Confirmation message\n",
+    "inputSchema": {
+      "properties": {
+        "cart_item_id": {
+          "title": "Cart Item Id",
+          "type": "integer"
+        }
+      },
+      "required": [
+        "cart_item_id"
+      ],
+      "title": "remove_from_cartArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "electronics-store_clear_cart",
+    "title": null,
+    "description": "Clear all items from the shopping cart.\n\nReturns:\n    Confirmation message\n",
+    "inputSchema": {
+      "properties": {},
+      "title": "clear_cartArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "electronics-store_checkout",
+    "title": null,
+    "description": "Complete the purchase of items in the cart.\n\nCreates an order and clears the cart. Uses the user's default shipping address.\n\nReturns:\n    Order confirmation with order ID and total\n",
+    "inputSchema": {
+      "properties": {},
+      "title": "checkoutArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "electronics-store_get_purchase_history",
+    "title": null,
+    "description": "Get the current user's purchase history.\n\nArgs:\n    limit: Maximum number of orders to return (default 20)\n\nReturns:\n    List of past orders with items and totals\n",
+    "inputSchema": {
+      "properties": {
+        "limit": {
+          "default": 20,
+          "title": "Limit",
+          "type": "integer"
+        }
+      },
+      "title": "get_purchase_historyArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "electronics-store_get_current_user",
+    "title": null,
+    "description": "Get the current logged-in user's profile information.\n\nReturns:\n    User profile with user_id, name, email, phone, and default_address\n",
+    "inputSchema": {
+      "properties": {},
+      "title": "get_current_userArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  }
+]

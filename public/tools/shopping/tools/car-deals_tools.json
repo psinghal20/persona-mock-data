@@ -1,0 +1,360 @@
+[
+  {
+    "name": "car-deals_search_car_deals",
+    "title": null,
+    "description": "Search for used car deals across multiple marketplaces.\n\nArgs:\n    make: Car manufacturer (required). E.g., \"Toyota\", \"Honda\", \"BMW\".\n    model: Specific model (optional). E.g., \"Camry\", \"Accord\", \"X5\".\n    zip_code: Location ZIP code for nearby dealers (default: \"90210\").\n    year_min: Minimum model year.\n    year_max: Maximum model year.\n    price_max: Maximum price in USD.\n    price_min: Minimum price in USD.\n    mileage_max: Maximum mileage.\n    one_owner: If true, only show single-owner vehicles.\n    no_accidents: If true, only show accident-free vehicles.\n    personal_use: If true, only show non-commercial vehicles.\n    fuel_type: Filter by fuel type (\"Gasoline\", \"Electric\", \"Hybrid\").\n    drivetrain: Filter by drivetrain (\"FWD\", \"RWD\", \"AWD\", \"4WD\").\n    sources: Specific marketplaces to search (\"Cars.com\", \"Autotrader\", \"KBB\").\n    max_results: Maximum number of results per source (default: 10).\n\nReturns:\n    JSON with matching car listings including price, mileage,\n    dealer info, deal rating, and CARFAX-style indicators.\n",
+    "inputSchema": {
+      "properties": {
+        "make": {
+          "title": "Make",
+          "type": "string"
+        },
+        "model": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Model"
+        },
+        "zip_code": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Zip Code"
+        },
+        "year_min": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Year Min"
+        },
+        "year_max": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Year Max"
+        },
+        "price_max": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Price Max"
+        },
+        "price_min": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Price Min"
+        },
+        "mileage_max": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Mileage Max"
+        },
+        "one_owner": {
+          "anyOf": [
+            {
+              "type": "boolean"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "One Owner"
+        },
+        "no_accidents": {
+          "anyOf": [
+            {
+              "type": "boolean"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "No Accidents"
+        },
+        "personal_use": {
+          "anyOf": [
+            {
+              "type": "boolean"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Personal Use"
+        },
+        "fuel_type": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Fuel Type"
+        },
+        "drivetrain": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Drivetrain"
+        },
+        "sources": {
+          "anyOf": [
+            {
+              "items": {
+                "type": "string"
+              },
+              "type": "array"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Sources"
+        },
+        "max_results": {
+          "default": 10,
+          "title": "Max Results",
+          "type": "integer"
+        }
+      },
+      "required": [
+        "make"
+      ],
+      "title": "search_car_dealsArguments",
+      "type": "object"
+    },
+    "outputSchema": {
+      "properties": {
+        "result": {
+          "title": "Result",
+          "type": "string"
+        }
+      },
+      "required": [
+        "result"
+      ],
+      "title": "search_car_dealsOutput",
+      "type": "object"
+    },
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "car-deals_get_available_makes",
+    "title": null,
+    "description": "Get list of all available car makes in the database.\n\nReturns:\n    JSON list of car manufacturers.\n",
+    "inputSchema": {
+      "properties": {},
+      "title": "get_available_makesArguments",
+      "type": "object"
+    },
+    "outputSchema": {
+      "properties": {
+        "result": {
+          "title": "Result",
+          "type": "string"
+        }
+      },
+      "required": [
+        "result"
+      ],
+      "title": "get_available_makesOutput",
+      "type": "object"
+    },
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "car-deals_get_models_for_make",
+    "title": null,
+    "description": "Get all available models for a specific make.\n\nArgs:\n    make: Car manufacturer (e.g., \"Toyota\", \"Honda\").\n\nReturns:\n    JSON list of models for the specified make.\n",
+    "inputSchema": {
+      "properties": {
+        "make": {
+          "title": "Make",
+          "type": "string"
+        }
+      },
+      "required": [
+        "make"
+      ],
+      "title": "get_models_for_makeArguments",
+      "type": "object"
+    },
+    "outputSchema": {
+      "properties": {
+        "result": {
+          "title": "Result",
+          "type": "string"
+        }
+      },
+      "required": [
+        "result"
+      ],
+      "title": "get_models_for_makeOutput",
+      "type": "object"
+    },
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "car-deals_get_listing_details",
+    "title": null,
+    "description": "Get detailed information about a specific listing.\n\nArgs:\n    listing_id: The listing ID (e.g., \"CAR001\").\n\nReturns:\n    JSON with full listing details.\n",
+    "inputSchema": {
+      "properties": {
+        "listing_id": {
+          "title": "Listing Id",
+          "type": "string"
+        }
+      },
+      "required": [
+        "listing_id"
+      ],
+      "title": "get_listing_detailsArguments",
+      "type": "object"
+    },
+    "outputSchema": {
+      "properties": {
+        "result": {
+          "title": "Result",
+          "type": "string"
+        }
+      },
+      "required": [
+        "result"
+      ],
+      "title": "get_listing_detailsOutput",
+      "type": "object"
+    },
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "car-deals_get_market_stats",
+    "title": null,
+    "description": "Get market statistics for a make/model.\n\nArgs:\n    make: Car manufacturer (e.g., \"Toyota\").\n    model: Specific model (optional, e.g., \"Camry\").\n\nReturns:\n    JSON with price range, mileage stats, and deal rating distribution.\n",
+    "inputSchema": {
+      "properties": {
+        "make": {
+          "title": "Make",
+          "type": "string"
+        },
+        "model": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Model"
+        }
+      },
+      "required": [
+        "make"
+      ],
+      "title": "get_market_statsArguments",
+      "type": "object"
+    },
+    "outputSchema": {
+      "properties": {
+        "result": {
+          "title": "Result",
+          "type": "string"
+        }
+      },
+      "required": [
+        "result"
+      ],
+      "title": "get_market_statsOutput",
+      "type": "object"
+    },
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "car-deals_get_filter_options",
+    "title": null,
+    "description": "Get all available filter options for searching.\n\nReturns:\n    JSON with available fuel types, drivetrains, and sources.\n",
+    "inputSchema": {
+      "properties": {},
+      "title": "get_filter_optionsArguments",
+      "type": "object"
+    },
+    "outputSchema": {
+      "properties": {
+        "result": {
+          "title": "Result",
+          "type": "string"
+        }
+      },
+      "required": [
+        "result"
+      ],
+      "title": "get_filter_optionsOutput",
+      "type": "object"
+    },
+    "annotations": null,
+    "_meta": null
+  }
+]

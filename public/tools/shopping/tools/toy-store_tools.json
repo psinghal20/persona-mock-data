@@ -1,0 +1,697 @@
+[
+  {
+    "name": "toy-store_get_all_products",
+    "title": null,
+    "description": "Get all toys, optionally filtered by category and/or child's age.\n\nArgs:\n    category: Filter by category (Action Figures, Building, Games, Outdoor, etc.)\n    age: Filter by child's age (returns toys appropriate for that age)\n    limit: Maximum number of products to return (default: 100)\n\nReturns:\n    List of toys with details including age range and educational status\n",
+    "inputSchema": {
+      "properties": {
+        "category": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Category"
+        },
+        "age": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Age"
+        },
+        "limit": {
+          "default": 100,
+          "title": "Limit",
+          "type": "integer"
+        }
+      },
+      "title": "get_all_productsArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "toy-store_get_product_by_id",
+    "title": null,
+    "description": "Get detailed information about a specific toy.\n\nArgs:\n    product_id: The unique product identifier (e.g., 'TOY-001')\n\nReturns:\n    Product details including features, age range, and battery requirements\n",
+    "inputSchema": {
+      "properties": {
+        "product_id": {
+          "title": "Product Id",
+          "type": "string"
+        }
+      },
+      "required": [
+        "product_id"
+      ],
+      "title": "get_product_by_idArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "toy-store_search_products",
+    "title": null,
+    "description": "Search toys with multiple filters.\n\nArgs:\n    query: Search term for name/description\n    category: Filter by category\n    brand: Filter by brand (LEGO, Fisher-Price, Hasbro, etc.)\n    age_min: Minimum age for toy\n    age_max: Maximum age for toy\n    educational_only: Only show educational toys\n    max_price: Maximum price filter\n    in_stock_only: Only show in-stock items\n    limit: Maximum results (default: 20)\n\nReturns:\n    List of matching toys\n",
+    "inputSchema": {
+      "properties": {
+        "query": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Query"
+        },
+        "category": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Category"
+        },
+        "brand": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Brand"
+        },
+        "age_min": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Age Min"
+        },
+        "age_max": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Age Max"
+        },
+        "educational_only": {
+          "default": false,
+          "title": "Educational Only",
+          "type": "boolean"
+        },
+        "max_price": {
+          "anyOf": [
+            {
+              "type": "number"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Max Price"
+        },
+        "in_stock_only": {
+          "default": false,
+          "title": "In Stock Only",
+          "type": "boolean"
+        },
+        "limit": {
+          "default": 20,
+          "title": "Limit",
+          "type": "integer"
+        }
+      },
+      "title": "search_productsArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "toy-store_get_categories",
+    "title": null,
+    "description": "Get all toy categories.\n\nReturns:\n    List of category names\n",
+    "inputSchema": {
+      "properties": {},
+      "title": "get_categoriesArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "toy-store_get_brands",
+    "title": null,
+    "description": "Get all toy brands.\n\nReturns:\n    List of brand names\n",
+    "inputSchema": {
+      "properties": {},
+      "title": "get_brandsArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "toy-store_get_age_groups",
+    "title": null,
+    "description": "Get age group definitions for shopping guidance.\n\nReturns:\n    List of age groups with name, age range, and description\n",
+    "inputSchema": {
+      "properties": {},
+      "title": "get_age_groupsArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "toy-store_get_top_toys",
+    "title": null,
+    "description": "Get top/popular toys, optionally filtered by age range.\n\nArgs:\n    age_min: Minimum age filter\n    age_max: Maximum age filter\n    limit: Number of results (default: 10)\n\nReturns:\n    List of popular toys for the age range\n",
+    "inputSchema": {
+      "properties": {
+        "age_min": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Age Min"
+        },
+        "age_max": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Age Max"
+        },
+        "limit": {
+          "default": 10,
+          "title": "Limit",
+          "type": "integer"
+        }
+      },
+      "title": "get_top_toysArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "toy-store_get_educational_toys",
+    "title": null,
+    "description": "Get educational toys for learning and development.\n\nArgs:\n    age_min: Minimum age filter\n    age_max: Maximum age filter\n    limit: Maximum results (default: 20)\n\nReturns:\n    List of educational toys appropriate for the age range\n",
+    "inputSchema": {
+      "properties": {
+        "age_min": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Age Min"
+        },
+        "age_max": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Age Max"
+        },
+        "limit": {
+          "default": 20,
+          "title": "Limit",
+          "type": "integer"
+        }
+      },
+      "title": "get_educational_toysArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "toy-store_create_wishlist",
+    "title": null,
+    "description": "Create a new wishlist.\n\nArgs:\n    name: Name for the wishlist (e.g., \"Emma's Birthday Wishes\")\n    is_public: Whether others can view this wishlist\n\nReturns:\n    Confirmation with wishlist ID\n",
+    "inputSchema": {
+      "properties": {
+        "name": {
+          "title": "Name",
+          "type": "string"
+        },
+        "is_public": {
+          "default": false,
+          "title": "Is Public",
+          "type": "boolean"
+        }
+      },
+      "required": [
+        "name"
+      ],
+      "title": "create_wishlistArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "toy-store_get_my_wishlists",
+    "title": null,
+    "description": "Get all wishlists for the current user.\n\nReturns:\n    List of wishlists with item counts\n",
+    "inputSchema": {
+      "properties": {},
+      "title": "get_my_wishlistsArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "toy-store_add_to_wishlist",
+    "title": null,
+    "description": "Add a toy to a wishlist.\n\nArgs:\n    wishlist_id: The wishlist to add to\n    product_id: The toy to add\n    quantity: Number desired (default: 1)\n    priority: 1 (most wanted) to 5 (nice to have), default: 3\n    notes: Optional notes (e.g., \"Wants the blue one\")\n\nReturns:\n    Confirmation of item added\n",
+    "inputSchema": {
+      "properties": {
+        "wishlist_id": {
+          "title": "Wishlist Id",
+          "type": "integer"
+        },
+        "product_id": {
+          "title": "Product Id",
+          "type": "string"
+        },
+        "quantity": {
+          "default": 1,
+          "title": "Quantity",
+          "type": "integer"
+        },
+        "priority": {
+          "default": 3,
+          "title": "Priority",
+          "type": "integer"
+        },
+        "notes": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Notes"
+        }
+      },
+      "required": [
+        "wishlist_id",
+        "product_id"
+      ],
+      "title": "add_to_wishlistArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "toy-store_get_wishlist",
+    "title": null,
+    "description": "Get a wishlist with all its items.\n\nArgs:\n    wishlist_id: The wishlist ID\n\nReturns:\n    Wishlist details with all items and total value\n",
+    "inputSchema": {
+      "properties": {
+        "wishlist_id": {
+          "title": "Wishlist Id",
+          "type": "integer"
+        }
+      },
+      "required": [
+        "wishlist_id"
+      ],
+      "title": "get_wishlistArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "toy-store_remove_from_wishlist",
+    "title": null,
+    "description": "Remove a toy from a wishlist.\n\nArgs:\n    wishlist_id: The wishlist ID\n    product_id: The product to remove\n\nReturns:\n    Confirmation of removal\n",
+    "inputSchema": {
+      "properties": {
+        "wishlist_id": {
+          "title": "Wishlist Id",
+          "type": "integer"
+        },
+        "product_id": {
+          "title": "Product Id",
+          "type": "string"
+        }
+      },
+      "required": [
+        "wishlist_id",
+        "product_id"
+      ],
+      "title": "remove_from_wishlistArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "toy-store_create_gift_registry",
+    "title": null,
+    "description": "Create a gift registry for a child's special occasion.\n\nArgs:\n    child_name: The child's name\n    event_type: Type of event (birthday, holiday, other)\n    event_date: Date of event (YYYY-MM-DD format)\n    is_public: Whether others can view and purchase from registry\n\nReturns:\n    Confirmation with registry ID\n",
+    "inputSchema": {
+      "properties": {
+        "child_name": {
+          "title": "Child Name",
+          "type": "string"
+        },
+        "event_type": {
+          "title": "Event Type",
+          "type": "string"
+        },
+        "event_date": {
+          "title": "Event Date",
+          "type": "string"
+        },
+        "is_public": {
+          "default": true,
+          "title": "Is Public",
+          "type": "boolean"
+        }
+      },
+      "required": [
+        "child_name",
+        "event_type",
+        "event_date"
+      ],
+      "title": "create_gift_registryArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "toy-store_get_my_registries",
+    "title": null,
+    "description": "Get all gift registries for the current user.\n\nReturns:\n    List of registries with item counts and remaining items\n",
+    "inputSchema": {
+      "properties": {},
+      "title": "get_my_registriesArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "toy-store_add_to_registry",
+    "title": null,
+    "description": "Add a toy to a gift registry.\n\nArgs:\n    registry_id: The registry to add to\n    product_id: The toy to add\n    quantity: Number requested (default: 1)\n\nReturns:\n    Confirmation of item added\n",
+    "inputSchema": {
+      "properties": {
+        "registry_id": {
+          "title": "Registry Id",
+          "type": "integer"
+        },
+        "product_id": {
+          "title": "Product Id",
+          "type": "string"
+        },
+        "quantity": {
+          "default": 1,
+          "title": "Quantity",
+          "type": "integer"
+        }
+      },
+      "required": [
+        "registry_id",
+        "product_id"
+      ],
+      "title": "add_to_registryArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "toy-store_get_registry",
+    "title": null,
+    "description": "Get a gift registry with all items and purchase status.\n\nArgs:\n    registry_id: The registry ID\n\nReturns:\n    Registry details with items, quantities requested/purchased, and values\n",
+    "inputSchema": {
+      "properties": {
+        "registry_id": {
+          "title": "Registry Id",
+          "type": "integer"
+        }
+      },
+      "required": [
+        "registry_id"
+      ],
+      "title": "get_registryArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "toy-store_remove_from_registry",
+    "title": null,
+    "description": "Remove a toy from a gift registry.\n\nArgs:\n    registry_id: The registry ID\n    product_id: The product to remove\n\nReturns:\n    Confirmation of removal\n",
+    "inputSchema": {
+      "properties": {
+        "registry_id": {
+          "title": "Registry Id",
+          "type": "integer"
+        },
+        "product_id": {
+          "title": "Product Id",
+          "type": "string"
+        }
+      },
+      "required": [
+        "registry_id",
+        "product_id"
+      ],
+      "title": "remove_from_registryArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "toy-store_add_to_cart",
+    "title": null,
+    "description": "Add a toy to the shopping cart.\n\nArgs:\n    product_id: The toy to add\n    quantity: Number of items (default: 1)\n\nReturns:\n    Confirmation of item added to cart\n",
+    "inputSchema": {
+      "properties": {
+        "product_id": {
+          "title": "Product Id",
+          "type": "string"
+        },
+        "quantity": {
+          "default": 1,
+          "title": "Quantity",
+          "type": "integer"
+        }
+      },
+      "required": [
+        "product_id"
+      ],
+      "title": "add_to_cartArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "toy-store_get_cart",
+    "title": null,
+    "description": "Get the current shopping cart contents.\n\nReturns:\n    Cart items with prices and totals\n",
+    "inputSchema": {
+      "properties": {},
+      "title": "get_cartArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "toy-store_update_cart_quantity",
+    "title": null,
+    "description": "Update the quantity of an item in the cart.\n\nArgs:\n    product_id: The product to update\n    quantity: New quantity (0 to remove)\n\nReturns:\n    Confirmation of update\n",
+    "inputSchema": {
+      "properties": {
+        "product_id": {
+          "title": "Product Id",
+          "type": "string"
+        },
+        "quantity": {
+          "title": "Quantity",
+          "type": "integer"
+        }
+      },
+      "required": [
+        "product_id",
+        "quantity"
+      ],
+      "title": "update_cart_quantityArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "toy-store_remove_from_cart",
+    "title": null,
+    "description": "Remove a toy from the shopping cart.\n\nArgs:\n    product_id: The product to remove\n\nReturns:\n    Confirmation of removal\n",
+    "inputSchema": {
+      "properties": {
+        "product_id": {
+          "title": "Product Id",
+          "type": "string"
+        }
+      },
+      "required": [
+        "product_id"
+      ],
+      "title": "remove_from_cartArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "toy-store_clear_cart",
+    "title": null,
+    "description": "Remove all items from the shopping cart.\n\nReturns:\n    Confirmation that cart was cleared\n",
+    "inputSchema": {
+      "properties": {},
+      "title": "clear_cartArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "toy-store_checkout",
+    "title": null,
+    "description": "Complete the purchase of all items in cart.\n\nCreates an order, decreases stock, and clears the cart.\n\nReturns:\n    Order confirmation with order ID and total\n",
+    "inputSchema": {
+      "properties": {},
+      "title": "checkoutArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "toy-store_get_purchase_history",
+    "title": null,
+    "description": "Get the customer's order history.\n\nArgs:\n    limit: Maximum number of orders to return (default: 20)\n\nReturns:\n    List of past orders with items\n",
+    "inputSchema": {
+      "properties": {
+        "limit": {
+          "default": 20,
+          "title": "Limit",
+          "type": "integer"
+        }
+      },
+      "title": "get_purchase_historyArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "toy-store_get_current_user",
+    "title": null,
+    "description": "Get the currently logged-in customer's information.\n\nReturns:\n    User details including name, email, phone, and default shipping address\n",
+    "inputSchema": {
+      "properties": {},
+      "title": "get_current_userArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  }
+]
