@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-157",
+  "persona_id": "persona_031",
+  "store_id": "pharmacy",
+  "status": "completed",
+  "created_at": "2025-10-05T05:25:16",
+  "items": [
+    {
+      "product_id": "306",
+      "name": "Zicam",
+      "category": "Cold & Flu",
+      "quantity": 2,
+      "price": 14.99,
+      "subtotal": 29.98
+    }
+  ],
+  "total": 29.98,
+  "currency": "USD"
+}

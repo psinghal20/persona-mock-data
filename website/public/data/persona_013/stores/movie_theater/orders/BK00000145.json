@@ -1,0 +1,23 @@
+{
+  "order_id": "BK00000145",
+  "persona_id": "persona_013",
+  "store_id": "movie_theater",
+  "type": "booking",
+  "status": "pending",
+  "created_at": "2026-01-06T17:09:52",
+  "confirmation_code": "AMC-C0VCJX",
+  "items": [
+    {
+      "product_id": "MOV031",
+      "name": "Oppenheimer",
+      "showtime": "",
+      "theater": "",
+      "seats": "R9,R10,R11,R12,R13,R14",
+      "quantity": 6,
+      "price": 19.99,
+      "subtotal": 119.94
+    }
+  ],
+  "total": 119.94,
+  "currency": "USD"
+}

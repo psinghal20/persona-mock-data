@@ -1,0 +1,26 @@
+{
+  "order_id": "SAVED-116",
+  "persona_id": "persona_016",
+  "store_id": "zillow",
+  "type": "saved_property",
+  "status": "saved",
+  "created_at": "2025-10-11T19:36:46",
+  "notes": "Good price",
+  "items": [
+    {
+      "product_id": "3152",
+      "name": "2119 Garden Boulevard",
+      "address": "2119 Garden Boulevard",
+      "city": "",
+      "price": 878725.0,
+      "bedrooms": "",
+      "bathrooms": "",
+      "sqft": "",
+      "home_type": "",
+      "quantity": 1,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

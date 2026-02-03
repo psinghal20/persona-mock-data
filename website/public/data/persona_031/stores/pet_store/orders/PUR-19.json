@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-19",
+  "persona_id": "persona_031",
+  "store_id": "pet_store",
+  "status": "completed",
+  "created_at": "2025-10-10T01:44:02",
+  "items": [
+    {
+      "product_id": "DOG112",
+      "name": "K9 Sport Sack AIR 2",
+      "category": "Accessories",
+      "quantity": 1,
+      "price": 89.99,
+      "subtotal": 89.99
+    }
+  ],
+  "total": 89.99,
+  "currency": "USD"
+}

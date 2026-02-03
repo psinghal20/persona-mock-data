@@ -1,0 +1,30 @@
+{
+  "order_id": "WMT-XAEM5N5H",
+  "persona_id": "persona_010",
+  "store_id": "walmart",
+  "status": "shipped",
+  "created_at": "2025-11-27T00:01:28",
+  "shipped_at": "2025-11-29T00:01:28",
+  "delivered_at": "",
+  "shipping_address": "321 French Quarter Ave, New Orleans, LA 70116",
+  "items": [
+    {
+      "product_id": "WMT00003068",
+      "name": "Ecovacs Deebot X2 Omni Robot Vacuum",
+      "category": "Home Appliances",
+      "quantity": 2,
+      "price": 1569.1,
+      "subtotal": 3138.2
+    },
+    {
+      "product_id": "WMT00003045",
+      "name": "Bosch 800 Series French Door Refrigerator",
+      "category": "Home Appliances",
+      "quantity": 2,
+      "price": 3650.24,
+      "subtotal": 7300.48
+    }
+  ],
+  "total": 10438.68,
+  "currency": "USD"
+}

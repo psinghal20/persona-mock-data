@@ -1,0 +1,22 @@
+{
+  "order_id": "ORD-20251214-PF0006",
+  "persona_id": "persona_014",
+  "store_id": "perfume_shop",
+  "status": "delivered",
+  "created_at": "2025-12-30T00:51:16",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "888 Design District Ln, San Francisco, CA 94102",
+  "items": [
+    {
+      "product_id": "PF073",
+      "name": "Sedley",
+      "category": "men",
+      "quantity": 1,
+      "price": 265.0,
+      "subtotal": 265.0
+    }
+  ],
+  "total": 265.0,
+  "currency": "USD"
+}

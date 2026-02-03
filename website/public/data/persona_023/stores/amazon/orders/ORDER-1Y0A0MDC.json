@@ -1,0 +1,46 @@
+{
+  "order_id": "ORDER-1Y0A0MDC",
+  "persona_id": "persona_023",
+  "store_id": "amazon",
+  "status": "cancelled",
+  "created_at": "2025-11-02T06:04:19",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "777 East Side Ave, Cleveland, OH 44114",
+  "items": [
+    {
+      "product_id": "B0BOOK0241",
+      "name": "Cracking the Coding Interview by Gayle Laakmann McDowell",
+      "category": "Books",
+      "quantity": 3,
+      "price": 39.22,
+      "subtotal": 117.66
+    },
+    {
+      "product_id": "B0ELEC0044",
+      "name": "HP HP Spectre x360 16",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 1461.68,
+      "subtotal": 1461.68
+    },
+    {
+      "product_id": "B0ELEC0105",
+      "name": "Sony PlayStation 5 Digital Edition",
+      "category": "Electronics",
+      "quantity": 2,
+      "price": 504.37,
+      "subtotal": 1008.74
+    },
+    {
+      "product_id": "B0PCPT0021",
+      "name": "ASUS TUF Gaming A620M-Plus WiFi Motherboard",
+      "category": "Electronics",
+      "quantity": 3,
+      "price": 143.98,
+      "subtotal": 431.94
+    }
+  ],
+  "total": 3020.02,
+  "currency": "USD"
+}

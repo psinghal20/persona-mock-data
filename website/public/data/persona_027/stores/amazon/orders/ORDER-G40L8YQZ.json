@@ -1,0 +1,38 @@
+{
+  "order_id": "ORDER-G40L8YQZ",
+  "persona_id": "persona_027",
+  "store_id": "amazon",
+  "status": "shipped",
+  "created_at": "2025-12-22T17:23:02",
+  "shipped_at": "2025-12-24T17:23:02",
+  "delivered_at": "",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "items": [
+    {
+      "product_id": "B0BOOK0163",
+      "name": "On Earth We're Briefly Gorgeous by Ocean Vuong",
+      "category": "Books",
+      "quantity": 2,
+      "price": 19.9,
+      "subtotal": 39.8
+    },
+    {
+      "product_id": "B0B5GHR23L",
+      "name": "Barbie Dreamhouse 2023",
+      "category": "Toys",
+      "quantity": 2,
+      "price": 199.99,
+      "subtotal": 399.98
+    },
+    {
+      "product_id": "B0B5GI023K",
+      "name": "Tempo Studio",
+      "category": "Sports & Outdoors",
+      "quantity": 1,
+      "price": 2495.0,
+      "subtotal": 2495.0
+    }
+  ],
+  "total": 2934.78,
+  "currency": "USD"
+}

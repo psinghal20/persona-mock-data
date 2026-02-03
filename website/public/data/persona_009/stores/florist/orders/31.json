@@ -1,0 +1,24 @@
+{
+  "order_id": "31",
+  "persona_id": "persona_009",
+  "store_id": "florist",
+  "status": "delivered",
+  "created_at": "2025-11-20T12:39:31",
+  "shipped_at": "",
+  "delivered_at": "2025-11-27",
+  "shipping_address": "789 Veterans Blvd, Tampa, FL 33602",
+  "recipient_name": "Wife",
+  "card_message": "",
+  "items": [
+    {
+      "product_id": "12",
+      "name": "Classic Orchid Plant",
+      "category": "Orchids",
+      "quantity": 1,
+      "price": 65.99,
+      "subtotal": 65.99
+    }
+  ],
+  "total": 75.98,
+  "currency": "USD"
+}

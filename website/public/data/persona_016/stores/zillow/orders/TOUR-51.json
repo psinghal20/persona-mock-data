@@ -1,0 +1,26 @@
+{
+  "order_id": "TOUR-51",
+  "persona_id": "persona_016",
+  "store_id": "zillow",
+  "type": "tour",
+  "status": "cancelled",
+  "scheduled_time": "2025-11-02T10:00:00",
+  "notes": "Want to see the garage",
+  "items": [
+    {
+      "product_id": "479",
+      "name": "3344 Jefferson Avenue",
+      "address": "3344 Jefferson Avenue",
+      "city": "",
+      "price": 1089594.0,
+      "bedrooms": "",
+      "bathrooms": "",
+      "sqft": "",
+      "home_type": "",
+      "quantity": 1,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

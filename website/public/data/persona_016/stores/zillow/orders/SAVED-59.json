@@ -1,0 +1,26 @@
+{
+  "order_id": "SAVED-59",
+  "persona_id": "persona_016",
+  "store_id": "zillow",
+  "type": "saved_property",
+  "status": "saved",
+  "created_at": "2025-10-22T21:52:01",
+  "notes": "Great location",
+  "items": [
+    {
+      "product_id": "3719",
+      "name": "3303 Maple Circle",
+      "address": "3303 Maple Circle",
+      "city": "",
+      "price": 582490.0,
+      "bedrooms": "",
+      "bathrooms": "",
+      "sqft": "",
+      "home_type": "",
+      "quantity": 1,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

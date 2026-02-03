@@ -1,0 +1,30 @@
+{
+  "order_id": "WMT-W04EZFXN",
+  "persona_id": "persona_027",
+  "store_id": "walmart",
+  "status": "delivered",
+  "created_at": "2025-10-01T08:37:06",
+  "shipped_at": "2025-10-03T08:37:06",
+  "delivered_at": "2025-10-07T08:37:06",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "items": [
+    {
+      "product_id": "WMT00000987",
+      "name": "Samsung Samsung HW-Q990D Soundbar",
+      "category": "Electronics",
+      "quantity": 3,
+      "price": 1625.98,
+      "subtotal": 4877.94
+    },
+    {
+      "product_id": "WMT00000337",
+      "name": "Home Style Basil Dried",
+      "category": "Grocery",
+      "quantity": 1,
+      "price": 4.12,
+      "subtotal": 4.12
+    }
+  ],
+  "total": 4882.06,
+  "currency": "USD"
+}

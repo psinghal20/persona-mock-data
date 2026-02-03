@@ -1,0 +1,30 @@
+{
+  "order_id": "JWL000028",
+  "persona_id": "persona_009",
+  "store_id": "jewelry_store",
+  "status": "delivered",
+  "created_at": "2025-12-07T11:38:43",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "789 Veterans Blvd, Tampa, FL 33602",
+  "items": [
+    {
+      "product_id": "JWL-004",
+      "name": "Classic Gold Wedding Band",
+      "category": "Rings",
+      "quantity": 1,
+      "price": 899.99,
+      "subtotal": 899.99
+    },
+    {
+      "product_id": "JWL-193",
+      "name": "Rose Gold Stack Set",
+      "category": "Sets",
+      "quantity": 1,
+      "price": 1299.99,
+      "subtotal": 1299.99
+    }
+  ],
+  "total": 2199.98,
+  "currency": "USD"
+}

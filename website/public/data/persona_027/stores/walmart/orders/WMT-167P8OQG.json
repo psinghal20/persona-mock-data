@@ -1,0 +1,22 @@
+{
+  "order_id": "WMT-167P8OQG",
+  "persona_id": "persona_027",
+  "store_id": "walmart",
+  "status": "delivered",
+  "created_at": "2025-11-30T21:39:57",
+  "shipped_at": "2025-12-02T21:39:57",
+  "delivered_at": "2025-12-04T21:39:57",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "items": [
+    {
+      "product_id": "WMT00000244",
+      "name": "Home Style Ice Cream Strawberry",
+      "category": "Grocery",
+      "quantity": 4,
+      "price": 6.15,
+      "subtotal": 24.6
+    }
+  ],
+  "total": 24.6,
+  "currency": "USD"
+}

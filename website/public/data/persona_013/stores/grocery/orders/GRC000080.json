@@ -1,0 +1,110 @@
+{
+  "order_id": "GRC000080",
+  "persona_id": "persona_013",
+  "store_id": "grocery",
+  "status": "cancelled",
+  "created_at": "2025-12-16T07:12:12",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "555 Community Center Rd, Houston, TX 77001",
+  "items": [
+    {
+      "product_id": "GRO-2202",
+      "name": "Planters Fruit Leather",
+      "category": "Snacks",
+      "quantity": 2,
+      "price": 5.63,
+      "subtotal": 11.26
+    },
+    {
+      "product_id": "prod_720",
+      "name": "Premium Select Peanuts",
+      "category": "Snacks",
+      "quantity": 2,
+      "price": 6.45,
+      "subtotal": 12.9
+    },
+    {
+      "product_id": "GRO-2190",
+      "name": "Jack Link's Cookies Nutter Butter",
+      "category": "Snacks",
+      "quantity": 1,
+      "price": 9.27,
+      "subtotal": 9.27
+    },
+    {
+      "product_id": "GRO-2140",
+      "name": "Lay's Potato Chips BBQ",
+      "category": "Snacks",
+      "quantity": 2,
+      "price": 9.06,
+      "subtotal": 18.12
+    },
+    {
+      "product_id": "GRO-2181",
+      "name": "Kellogg's Crackers Wheat Thins",
+      "category": "Snacks",
+      "quantity": 2,
+      "price": 6.32,
+      "subtotal": 12.64
+    },
+    {
+      "product_id": "prod_506",
+      "name": "Country Best Hot Dog Buns",
+      "category": "Bakery",
+      "quantity": 1,
+      "price": 3.3,
+      "subtotal": 3.3
+    },
+    {
+      "product_id": "prod_453",
+      "name": "Farm Fresh Lentils",
+      "category": "Pantry",
+      "quantity": 5,
+      "price": 2.22,
+      "subtotal": 11.1
+    },
+    {
+      "product_id": "GRO-1560",
+      "name": "Huggies Fruit Snacks",
+      "category": "Baby",
+      "quantity": 5,
+      "price": 35.08,
+      "subtotal": 175.4
+    },
+    {
+      "product_id": "GRO-2171",
+      "name": "Jack Link's Trail Mix Original",
+      "category": "Snacks",
+      "quantity": 5,
+      "price": 2.81,
+      "subtotal": 14.05
+    },
+    {
+      "product_id": "GRO-1399",
+      "name": "Vital Farms Protein Pancake Mix",
+      "category": "Breakfast",
+      "quantity": 4,
+      "price": 6.1,
+      "subtotal": 24.4
+    },
+    {
+      "product_id": "GRO-2155",
+      "name": "Frito-Lay Pretzels Twists",
+      "category": "Snacks",
+      "quantity": 3,
+      "price": 9.29,
+      "subtotal": 27.87
+    },
+    {
+      "product_id": "prod_227",
+      "name": "Quality First Soy Milk",
+      "category": "Dairy",
+      "quantity": 3,
+      "price": 3.59,
+      "subtotal": 10.77
+    }
+  ],
+  "total": 331.08,
+  "currency": "USD"
+}

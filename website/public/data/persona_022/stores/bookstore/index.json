@@ -1,0 +1,721 @@
+{
+  "persona_id": "persona_022",
+  "store_id": "bookstore",
+  "store_name": "Bookstore",
+  "transaction_type": "purchases",
+  "transaction_label": "purchases",
+  "has_cost": true,
+  "summary": {
+    "total_count": 43,
+    "total_spent": 1289.37,
+    "first_date": "2025-10-04",
+    "last_date": "2026-01-17"
+  },
+  "items": [
+    {
+      "order_id": "PUR-81",
+      "status": "completed",
+      "total": 35.9,
+      "item_count": 2,
+      "created_at": "2026-01-17T01:24:15",
+      "item_preview": "Kafka on the Shore"
+    },
+    {
+      "order_id": "PUR-70",
+      "status": "completed",
+      "total": 18.99,
+      "item_count": 1,
+      "created_at": "2026-01-15T09:26:54",
+      "item_preview": "The Four Winds"
+    },
+    {
+      "order_id": "PUR-224",
+      "status": "completed",
+      "total": 17.99,
+      "item_count": 1,
+      "created_at": "2026-01-15T04:58:25",
+      "item_preview": "The Underground Railroad"
+    },
+    {
+      "order_id": "PUR-74",
+      "status": "completed",
+      "total": 37.98,
+      "item_count": 2,
+      "created_at": "2026-01-06T19:25:11",
+      "item_preview": "Where the Crawdads Sing"
+    },
+    {
+      "order_id": "PUR-228",
+      "status": "completed",
+      "total": 17.0,
+      "item_count": 1,
+      "created_at": "2025-12-31T16:53:37",
+      "item_preview": "The House of the Spirits"
+    },
+    {
+      "order_id": "PUR-88",
+      "status": "completed",
+      "total": 15.99,
+      "item_count": 1,
+      "created_at": "2025-12-31T13:35:51",
+      "item_preview": "The Great Gatsby"
+    },
+    {
+      "order_id": "PUR-214",
+      "status": "completed",
+      "total": 36.0,
+      "item_count": 2,
+      "created_at": "2025-12-30T00:21:26",
+      "item_preview": "Bad Blood"
+    },
+    {
+      "order_id": "PUR-89",
+      "status": "completed",
+      "total": 33.98,
+      "item_count": 2,
+      "created_at": "2025-12-29T14:22:29",
+      "item_preview": "The Alchemist"
+    },
+    {
+      "order_id": "PUR-217",
+      "status": "completed",
+      "total": 17.0,
+      "item_count": 1,
+      "created_at": "2025-12-28T11:23:26",
+      "item_preview": "The House of the Spirits"
+    },
+    {
+      "order_id": "PUR-87",
+      "status": "completed",
+      "total": 18.99,
+      "item_count": 1,
+      "created_at": "2025-12-23T04:34:20",
+      "item_preview": "The Four Winds"
+    },
+    {
+      "order_id": "PUR-227",
+      "status": "completed",
+      "total": 39.98,
+      "item_count": 2,
+      "created_at": "2025-12-19T14:11:02",
+      "item_preview": "A Column of Fire"
+    },
+    {
+      "order_id": "PUR-79",
+      "status": "completed",
+      "total": 18.99,
+      "item_count": 1,
+      "created_at": "2025-12-16T20:47:11",
+      "item_preview": "Anxious People"
+    },
+    {
+      "order_id": "PUR-76",
+      "status": "completed",
+      "total": 17.99,
+      "item_count": 1,
+      "created_at": "2025-12-15T04:11:39",
+      "item_preview": "Daisy Jones & The Six"
+    },
+    {
+      "order_id": "PUR-84",
+      "status": "completed",
+      "total": 35.9,
+      "item_count": 2,
+      "created_at": "2025-12-13T21:20:33",
+      "item_preview": "Kafka on the Shore"
+    },
+    {
+      "order_id": "PUR-73",
+      "status": "completed",
+      "total": 17.0,
+      "item_count": 1,
+      "created_at": "2025-12-12T07:10:33",
+      "item_preview": "The Love Hypothesis"
+    },
+    {
+      "order_id": "PUR-219",
+      "status": "completed",
+      "total": 35.98,
+      "item_count": 2,
+      "created_at": "2025-12-10T15:07:40",
+      "item_preview": "And the Mountains Echoed"
+    },
+    {
+      "order_id": "PUR-75",
+      "status": "completed",
+      "total": 33.98,
+      "item_count": 2,
+      "created_at": "2025-12-09T19:49:33",
+      "item_preview": "Old Man's War"
+    },
+    {
+      "order_id": "PUR-218",
+      "status": "completed",
+      "total": 35.98,
+      "item_count": 2,
+      "created_at": "2025-12-09T17:41:46",
+      "item_preview": "And the Mountains Echoed"
+    },
+    {
+      "order_id": "PUR-220",
+      "status": "completed",
+      "total": 35.98,
+      "item_count": 2,
+      "created_at": "2025-12-06T08:03:16",
+      "item_preview": "Children of Time"
+    },
+    {
+      "order_id": "PUR-230",
+      "status": "completed",
+      "total": 80.0,
+      "item_count": 2,
+      "created_at": "2025-12-05T21:38:24",
+      "item_preview": "The Joy of Cooking"
+    },
+    {
+      "order_id": "PUR-221",
+      "status": "completed",
+      "total": 31.98,
+      "item_count": 2,
+      "created_at": "2025-12-05T13:20:46",
+      "item_preview": "The Murder of Roger Ackroyd"
+    },
+    {
+      "order_id": "PUR-226",
+      "status": "completed",
+      "total": 31.98,
+      "item_count": 2,
+      "created_at": "2025-12-04T20:49:28",
+      "item_preview": "And Then There Were None"
+    },
+    {
+      "order_id": "PUR-216",
+      "status": "completed",
+      "total": 17.99,
+      "item_count": 1,
+      "created_at": "2025-12-04T08:17:12",
+      "item_preview": "The Paris Wife"
+    },
+    {
+      "order_id": "PUR-233",
+      "status": "completed",
+      "total": 10.99,
+      "item_count": 1,
+      "created_at": "2025-12-02T18:49:16",
+      "item_preview": "Wuthering Heights"
+    },
+    {
+      "order_id": "PUR-82",
+      "status": "completed",
+      "total": 37.98,
+      "item_count": 2,
+      "created_at": "2025-12-02T18:08:42",
+      "item_preview": "Anxious People"
+    },
+    {
+      "order_id": "PUR-85",
+      "status": "completed",
+      "total": 36.0,
+      "item_count": 2,
+      "created_at": "2025-11-14T06:57:37",
+      "item_preview": "Carrie Soto Is Back"
+    },
+    {
+      "order_id": "PUR-223",
+      "status": "completed",
+      "total": 17.99,
+      "item_count": 1,
+      "created_at": "2025-11-13T17:13:17",
+      "item_preview": "Abaddon's Gate"
+    },
+    {
+      "order_id": "PUR-83",
+      "status": "completed",
+      "total": 39.98,
+      "item_count": 2,
+      "created_at": "2025-11-12T18:29:43",
+      "item_preview": "A Column of Fire"
+    },
+    {
+      "order_id": "PUR-80",
+      "status": "completed",
+      "total": 18.0,
+      "item_count": 1,
+      "created_at": "2025-11-11T12:12:22",
+      "item_preview": "Carrie Soto Is Back"
+    },
+    {
+      "order_id": "PUR-215",
+      "status": "completed",
+      "total": 40.0,
+      "item_count": 1,
+      "created_at": "2025-11-06T09:17:45",
+      "item_preview": "The Joy of Cooking"
+    },
+    {
+      "order_id": "PUR-229",
+      "status": "completed",
+      "total": 36.0,
+      "item_count": 2,
+      "created_at": "2025-11-06T05:38:50",
+      "item_preview": "Bad Blood"
+    },
+    {
+      "order_id": "PUR-71",
+      "status": "completed",
+      "total": 80.0,
+      "item_count": 2,
+      "created_at": "2025-11-05T10:20:57",
+      "item_preview": "The Flavor Bible"
+    },
+    {
+      "order_id": "PUR-225",
+      "status": "completed",
+      "total": 17.99,
+      "item_count": 1,
+      "created_at": "2025-11-04T05:05:41",
+      "item_preview": "Leviathan Wakes"
+    },
+    {
+      "order_id": "PUR-86",
+      "status": "completed",
+      "total": 35.98,
+      "item_count": 2,
+      "created_at": "2025-11-01T22:53:10",
+      "item_preview": "Foundation"
+    },
+    {
+      "order_id": "PUR-232",
+      "status": "completed",
+      "total": 17.99,
+      "item_count": 1,
+      "created_at": "2025-11-01T20:46:31",
+      "item_preview": "Abaddon's Gate"
+    },
+    {
+      "order_id": "PUR-77",
+      "status": "completed",
+      "total": 18.99,
+      "item_count": 1,
+      "created_at": "2025-11-01T02:14:54",
+      "item_preview": "Outliers"
+    },
+    {
+      "order_id": "PUR-231",
+      "status": "completed",
+      "total": 34.0,
+      "item_count": 2,
+      "created_at": "2025-10-29T06:54:33",
+      "item_preview": "The Spanish Love Deception"
+    },
+    {
+      "order_id": "PUR-222",
+      "status": "completed",
+      "total": 21.98,
+      "item_count": 2,
+      "created_at": "2025-10-24T16:25:06",
+      "item_preview": "Wuthering Heights"
+    },
+    {
+      "order_id": "PUR-91",
+      "status": "completed",
+      "total": 37.98,
+      "item_count": 2,
+      "created_at": "2025-10-24T08:31:36",
+      "item_preview": "Where the Crawdads Sing"
+    },
+    {
+      "order_id": "PUR-78",
+      "status": "completed",
+      "total": 14.99,
+      "item_count": 1,
+      "created_at": "2025-10-22T03:34:48",
+      "item_preview": "Crime and Punishment"
+    },
+    {
+      "order_id": "PUR-72",
+      "status": "completed",
+      "total": 17.0,
+      "item_count": 1,
+      "created_at": "2025-10-19T03:49:26",
+      "item_preview": "Daisy Jones & The Six"
+    },
+    {
+      "order_id": "PUR-90",
+      "status": "completed",
+      "total": 34.0,
+      "item_count": 2,
+      "created_at": "2025-10-13T04:08:06",
+      "item_preview": "Daisy Jones & The Six"
+    },
+    {
+      "order_id": "PUR-234",
+      "status": "completed",
+      "total": 37.98,
+      "item_count": 2,
+      "created_at": "2025-10-04T06:52:49",
+      "item_preview": "Outliers"
+    }
+  ],
+  "categories": [
+    {
+      "id": "purchases",
+      "name": "Purchases",
+      "type": "purchases",
+      "label": "purchases",
+      "has_cost": true,
+      "summary": {
+        "total_count": 43,
+        "total_spent": 1289.37,
+        "first_date": "2025-10-04",
+        "last_date": "2026-01-17"
+      },
+      "items": [
+        {
+          "order_id": "PUR-81",
+          "status": "completed",
+          "total": 35.9,
+          "item_count": 2,
+          "created_at": "2026-01-17T01:24:15",
+          "item_preview": "Kafka on the Shore"
+        },
+        {
+          "order_id": "PUR-70",
+          "status": "completed",
+          "total": 18.99,
+          "item_count": 1,
+          "created_at": "2026-01-15T09:26:54",
+          "item_preview": "The Four Winds"
+        },
+        {
+          "order_id": "PUR-224",
+          "status": "completed",
+          "total": 17.99,
+          "item_count": 1,
+          "created_at": "2026-01-15T04:58:25",
+          "item_preview": "The Underground Railroad"
+        },
+        {
+          "order_id": "PUR-74",
+          "status": "completed",
+          "total": 37.98,
+          "item_count": 2,
+          "created_at": "2026-01-06T19:25:11",
+          "item_preview": "Where the Crawdads Sing"
+        },
+        {
+          "order_id": "PUR-228",
+          "status": "completed",
+          "total": 17.0,
+          "item_count": 1,
+          "created_at": "2025-12-31T16:53:37",
+          "item_preview": "The House of the Spirits"
+        },
+        {
+          "order_id": "PUR-88",
+          "status": "completed",
+          "total": 15.99,
+          "item_count": 1,
+          "created_at": "2025-12-31T13:35:51",
+          "item_preview": "The Great Gatsby"
+        },
+        {
+          "order_id": "PUR-214",
+          "status": "completed",
+          "total": 36.0,
+          "item_count": 2,
+          "created_at": "2025-12-30T00:21:26",
+          "item_preview": "Bad Blood"
+        },
+        {
+          "order_id": "PUR-89",
+          "status": "completed",
+          "total": 33.98,
+          "item_count": 2,
+          "created_at": "2025-12-29T14:22:29",
+          "item_preview": "The Alchemist"
+        },
+        {
+          "order_id": "PUR-217",
+          "status": "completed",
+          "total": 17.0,
+          "item_count": 1,
+          "created_at": "2025-12-28T11:23:26",
+          "item_preview": "The House of the Spirits"
+        },
+        {
+          "order_id": "PUR-87",
+          "status": "completed",
+          "total": 18.99,
+          "item_count": 1,
+          "created_at": "2025-12-23T04:34:20",
+          "item_preview": "The Four Winds"
+        },
+        {
+          "order_id": "PUR-227",
+          "status": "completed",
+          "total": 39.98,
+          "item_count": 2,
+          "created_at": "2025-12-19T14:11:02",
+          "item_preview": "A Column of Fire"
+        },
+        {
+          "order_id": "PUR-79",
+          "status": "completed",
+          "total": 18.99,
+          "item_count": 1,
+          "created_at": "2025-12-16T20:47:11",
+          "item_preview": "Anxious People"
+        },
+        {
+          "order_id": "PUR-76",
+          "status": "completed",
+          "total": 17.99,
+          "item_count": 1,
+          "created_at": "2025-12-15T04:11:39",
+          "item_preview": "Daisy Jones & The Six"
+        },
+        {
+          "order_id": "PUR-84",
+          "status": "completed",
+          "total": 35.9,
+          "item_count": 2,
+          "created_at": "2025-12-13T21:20:33",
+          "item_preview": "Kafka on the Shore"
+        },
+        {
+          "order_id": "PUR-73",
+          "status": "completed",
+          "total": 17.0,
+          "item_count": 1,
+          "created_at": "2025-12-12T07:10:33",
+          "item_preview": "The Love Hypothesis"
+        },
+        {
+          "order_id": "PUR-219",
+          "status": "completed",
+          "total": 35.98,
+          "item_count": 2,
+          "created_at": "2025-12-10T15:07:40",
+          "item_preview": "And the Mountains Echoed"
+        },
+        {
+          "order_id": "PUR-75",
+          "status": "completed",
+          "total": 33.98,
+          "item_count": 2,
+          "created_at": "2025-12-09T19:49:33",
+          "item_preview": "Old Man's War"
+        },
+        {
+          "order_id": "PUR-218",
+          "status": "completed",
+          "total": 35.98,
+          "item_count": 2,
+          "created_at": "2025-12-09T17:41:46",
+          "item_preview": "And the Mountains Echoed"
+        },
+        {
+          "order_id": "PUR-220",
+          "status": "completed",
+          "total": 35.98,
+          "item_count": 2,
+          "created_at": "2025-12-06T08:03:16",
+          "item_preview": "Children of Time"
+        },
+        {
+          "order_id": "PUR-230",
+          "status": "completed",
+          "total": 80.0,
+          "item_count": 2,
+          "created_at": "2025-12-05T21:38:24",
+          "item_preview": "The Joy of Cooking"
+        },
+        {
+          "order_id": "PUR-221",
+          "status": "completed",
+          "total": 31.98,
+          "item_count": 2,
+          "created_at": "2025-12-05T13:20:46",
+          "item_preview": "The Murder of Roger Ackroyd"
+        },
+        {
+          "order_id": "PUR-226",
+          "status": "completed",
+          "total": 31.98,
+          "item_count": 2,
+          "created_at": "2025-12-04T20:49:28",
+          "item_preview": "And Then There Were None"
+        },
+        {
+          "order_id": "PUR-216",
+          "status": "completed",
+          "total": 17.99,
+          "item_count": 1,
+          "created_at": "2025-12-04T08:17:12",
+          "item_preview": "The Paris Wife"
+        },
+        {
+          "order_id": "PUR-233",
+          "status": "completed",
+          "total": 10.99,
+          "item_count": 1,
+          "created_at": "2025-12-02T18:49:16",
+          "item_preview": "Wuthering Heights"
+        },
+        {
+          "order_id": "PUR-82",
+          "status": "completed",
+          "total": 37.98,
+          "item_count": 2,
+          "created_at": "2025-12-02T18:08:42",
+          "item_preview": "Anxious People"
+        },
+        {
+          "order_id": "PUR-85",
+          "status": "completed",
+          "total": 36.0,
+          "item_count": 2,
+          "created_at": "2025-11-14T06:57:37",
+          "item_preview": "Carrie Soto Is Back"
+        },
+        {
+          "order_id": "PUR-223",
+          "status": "completed",
+          "total": 17.99,
+          "item_count": 1,
+          "created_at": "2025-11-13T17:13:17",
+          "item_preview": "Abaddon's Gate"
+        },
+        {
+          "order_id": "PUR-83",
+          "status": "completed",
+          "total": 39.98,
+          "item_count": 2,
+          "created_at": "2025-11-12T18:29:43",
+          "item_preview": "A Column of Fire"
+        },
+        {
+          "order_id": "PUR-80",
+          "status": "completed",
+          "total": 18.0,
+          "item_count": 1,
+          "created_at": "2025-11-11T12:12:22",
+          "item_preview": "Carrie Soto Is Back"
+        },
+        {
+          "order_id": "PUR-215",
+          "status": "completed",
+          "total": 40.0,
+          "item_count": 1,
+          "created_at": "2025-11-06T09:17:45",
+          "item_preview": "The Joy of Cooking"
+        },
+        {
+          "order_id": "PUR-229",
+          "status": "completed",
+          "total": 36.0,
+          "item_count": 2,
+          "created_at": "2025-11-06T05:38:50",
+          "item_preview": "Bad Blood"
+        },
+        {
+          "order_id": "PUR-71",
+          "status": "completed",
+          "total": 80.0,
+          "item_count": 2,
+          "created_at": "2025-11-05T10:20:57",
+          "item_preview": "The Flavor Bible"
+        },
+        {
+          "order_id": "PUR-225",
+          "status": "completed",
+          "total": 17.99,
+          "item_count": 1,
+          "created_at": "2025-11-04T05:05:41",
+          "item_preview": "Leviathan Wakes"
+        },
+        {
+          "order_id": "PUR-86",
+          "status": "completed",
+          "total": 35.98,
+          "item_count": 2,
+          "created_at": "2025-11-01T22:53:10",
+          "item_preview": "Foundation"
+        },
+        {
+          "order_id": "PUR-232",
+          "status": "completed",
+          "total": 17.99,
+          "item_count": 1,
+          "created_at": "2025-11-01T20:46:31",
+          "item_preview": "Abaddon's Gate"
+        },
+        {
+          "order_id": "PUR-77",
+          "status": "completed",
+          "total": 18.99,
+          "item_count": 1,
+          "created_at": "2025-11-01T02:14:54",
+          "item_preview": "Outliers"
+        },
+        {
+          "order_id": "PUR-231",
+          "status": "completed",
+          "total": 34.0,
+          "item_count": 2,
+          "created_at": "2025-10-29T06:54:33",
+          "item_preview": "The Spanish Love Deception"
+        },
+        {
+          "order_id": "PUR-222",
+          "status": "completed",
+          "total": 21.98,
+          "item_count": 2,
+          "created_at": "2025-10-24T16:25:06",
+          "item_preview": "Wuthering Heights"
+        },
+        {
+          "order_id": "PUR-91",
+          "status": "completed",
+          "total": 37.98,
+          "item_count": 2,
+          "created_at": "2025-10-24T08:31:36",
+          "item_preview": "Where the Crawdads Sing"
+        },
+        {
+          "order_id": "PUR-78",
+          "status": "completed",
+          "total": 14.99,
+          "item_count": 1,
+          "created_at": "2025-10-22T03:34:48",
+          "item_preview": "Crime and Punishment"
+        },
+        {
+          "order_id": "PUR-72",
+          "status": "completed",
+          "total": 17.0,
+          "item_count": 1,
+          "created_at": "2025-10-19T03:49:26",
+          "item_preview": "Daisy Jones & The Six"
+        },
+        {
+          "order_id": "PUR-90",
+          "status": "completed",
+          "total": 34.0,
+          "item_count": 2,
+          "created_at": "2025-10-13T04:08:06",
+          "item_preview": "Daisy Jones & The Six"
+        },
+        {
+          "order_id": "PUR-234",
+          "status": "completed",
+          "total": 37.98,
+          "item_count": 2,
+          "created_at": "2025-10-04T06:52:49",
+          "item_preview": "Outliers"
+        }
+      ]
+    }
+  ]
+}

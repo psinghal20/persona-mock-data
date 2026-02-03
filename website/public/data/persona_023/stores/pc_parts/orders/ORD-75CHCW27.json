@@ -1,0 +1,22 @@
+{
+  "order_id": "ORD-75CHCW27",
+  "persona_id": "persona_023",
+  "store_id": "pc_parts",
+  "status": "delivered",
+  "created_at": "2025-10-23T09:05:05",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "777 East Side Ave, Cleveland, OH 44114",
+  "items": [
+    {
+      "product_id": "GPU016",
+      "name": "Radeon RX 7600 XT",
+      "category": "gpus",
+      "quantity": 2,
+      "price": 329.99,
+      "subtotal": 659.98
+    }
+  ],
+  "total": 659.98,
+  "currency": "USD"
+}

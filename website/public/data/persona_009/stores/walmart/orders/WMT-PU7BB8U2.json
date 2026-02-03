@@ -1,0 +1,38 @@
+{
+  "order_id": "WMT-PU7BB8U2",
+  "persona_id": "persona_009",
+  "store_id": "walmart",
+  "status": "delivered",
+  "created_at": "2025-12-20T09:26:36",
+  "shipped_at": "2025-12-21T09:26:36",
+  "delivered_at": "2025-12-25T09:26:36",
+  "shipping_address": "789 Veterans Blvd, Tampa, FL 33602",
+  "items": [
+    {
+      "product_id": "WMT00001328",
+      "name": "Melissa & Doug Melissa & Doug Wooden Kitchen",
+      "category": "Toys",
+      "quantity": 1,
+      "price": 162.42,
+      "subtotal": 162.42
+    },
+    {
+      "product_id": "WMT00001321",
+      "name": "Nintendo Nintendo Switch Game - Zelda TOTK",
+      "category": "Toys",
+      "quantity": 2,
+      "price": 62.7,
+      "subtotal": 125.4
+    },
+    {
+      "product_id": "WMT00001364",
+      "name": "Stream Machine Stream Machine Water Launcher",
+      "category": "Toys",
+      "quantity": 2,
+      "price": 19.6,
+      "subtotal": 39.2
+    }
+  ],
+  "total": 327.02,
+  "currency": "USD"
+}

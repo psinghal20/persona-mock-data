@@ -1,0 +1,30 @@
+{
+  "order_id": "EL000055",
+  "persona_id": "persona_014",
+  "store_id": "electronics_store",
+  "status": "cancelled",
+  "created_at": "2025-12-03T19:23:59",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "888 Design District Ln, San Francisco, CA 94102",
+  "items": [
+    {
+      "product_id": "DK002",
+      "name": "Apple Mac mini M2 Pro",
+      "category": "Desktops",
+      "quantity": 2,
+      "price": 1299.99,
+      "subtotal": 2599.98
+    },
+    {
+      "product_id": "TV001",
+      "name": "Samsung 65\" QLED 4K Smart TV",
+      "category": "TVs",
+      "quantity": 2,
+      "price": 1299.99,
+      "subtotal": 2599.98
+    }
+  ],
+  "total": 5199.96,
+  "currency": "USD"
+}

@@ -1,0 +1,46 @@
+{
+  "order_id": "ORDER-RZ4WM4MC",
+  "persona_id": "persona_022",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-11-14T21:53:23",
+  "shipped_at": "2025-11-16T21:53:23",
+  "delivered_at": "2025-11-19T21:53:23",
+  "shipping_address": "444 Polish Hill St, Philadelphia, PA 19123",
+  "items": [
+    {
+      "product_id": "B0B2WQWSXF",
+      "name": "Nespresso Vertuo Next Coffee Machine",
+      "category": "Home & Kitchen",
+      "quantity": 1,
+      "price": 179.0,
+      "subtotal": 179.0
+    },
+    {
+      "product_id": "B0C7GL324K",
+      "name": "Technivorm Moccamaster KBGV Select",
+      "category": "Home & Kitchen",
+      "quantity": 1,
+      "price": 359.0,
+      "subtotal": 359.0
+    },
+    {
+      "product_id": "B0B8GL246K",
+      "name": "Black+Decker 4-Slice Toaster Oven",
+      "category": "Home & Kitchen",
+      "quantity": 3,
+      "price": 39.99,
+      "subtotal": 119.97
+    },
+    {
+      "product_id": "B088714010",
+      "name": "KitchenAid K400 Variable Speed Blender",
+      "category": "Home & Kitchen",
+      "quantity": 2,
+      "price": 239.18,
+      "subtotal": 478.36
+    }
+  ],
+  "total": 1136.33,
+  "currency": "USD"
+}

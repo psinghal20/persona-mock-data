@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-141",
+  "persona_id": "persona_013",
+  "store_id": "pharmacy",
+  "status": "completed",
+  "created_at": "2025-10-11T21:33:32",
+  "items": [
+    {
+      "product_id": "248",
+      "name": "Centrum Adults",
+      "category": "Vitamins",
+      "quantity": 1,
+      "price": 16.99,
+      "subtotal": 16.99
+    }
+  ],
+  "total": 16.99,
+  "currency": "USD"
+}

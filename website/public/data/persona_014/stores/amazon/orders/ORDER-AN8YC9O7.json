@@ -1,0 +1,22 @@
+{
+  "order_id": "ORDER-AN8YC9O7",
+  "persona_id": "persona_014",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-12-26T23:28:36",
+  "shipped_at": "2025-12-29T23:28:36",
+  "delivered_at": "2026-01-02T23:28:36",
+  "shipping_address": "888 Design District Ln, San Francisco, CA 94102",
+  "items": [
+    {
+      "product_id": "B0TOYS0115",
+      "name": "Franklin Lawn Darts Set",
+      "category": "Toys & Games",
+      "quantity": 1,
+      "price": 22.86,
+      "subtotal": 22.86
+    }
+  ],
+  "total": 22.86,
+  "currency": "USD"
+}

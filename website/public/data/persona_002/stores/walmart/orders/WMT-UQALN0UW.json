@@ -1,0 +1,54 @@
+{
+  "order_id": "WMT-UQALN0UW",
+  "persona_id": "persona_002",
+  "store_id": "walmart",
+  "status": "delivered",
+  "created_at": "2025-12-25T09:34:21",
+  "shipped_at": "2025-12-27T09:34:21",
+  "delivered_at": "2026-01-01T09:34:21",
+  "shipping_address": "456 Tech Park Drive, San Jose, CA 95110",
+  "items": [
+    {
+      "product_id": "WMT00001158",
+      "name": "Arlo Arlo Essential Indoor Camera",
+      "category": "Electronics",
+      "quantity": 2,
+      "price": 48.19,
+      "subtotal": 96.38
+    },
+    {
+      "product_id": "WMT00001109",
+      "name": "Canon Canon imageCLASS MF753Cdw",
+      "category": "Electronics",
+      "quantity": 4,
+      "price": 566.64,
+      "subtotal": 2266.56
+    },
+    {
+      "product_id": "WMT00000961",
+      "name": "Amazon Amazon Fire HD 8 32GB",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 95.1,
+      "subtotal": 95.1
+    },
+    {
+      "product_id": "WMT00001003",
+      "name": "Apple Apple Watch Ultra 2",
+      "category": "Electronics",
+      "quantity": 3,
+      "price": 756.3,
+      "subtotal": 2268.9
+    },
+    {
+      "product_id": "WMT00001918",
+      "name": "Speedo Endurance+ Jammer",
+      "category": "Sports",
+      "quantity": 1,
+      "price": 45.41,
+      "subtotal": 45.41
+    }
+  ],
+  "total": 4772.35,
+  "currency": "USD"
+}

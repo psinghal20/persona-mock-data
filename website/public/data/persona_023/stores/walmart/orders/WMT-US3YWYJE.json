@@ -1,0 +1,30 @@
+{
+  "order_id": "WMT-US3YWYJE",
+  "persona_id": "persona_023",
+  "store_id": "walmart",
+  "status": "delivered",
+  "created_at": "2025-12-11T04:35:26",
+  "shipped_at": "2025-12-12T04:35:26",
+  "delivered_at": "2025-12-14T04:35:26",
+  "shipping_address": "777 East Side Ave, Cleveland, OH 44114",
+  "items": [
+    {
+      "product_id": "WMT00001132",
+      "name": "OWC OWC Express 1M2",
+      "category": "Electronics",
+      "quantity": 2,
+      "price": 199.43,
+      "subtotal": 398.86
+    },
+    {
+      "product_id": "WMT00001093",
+      "name": "CyberPowerPC CyberPowerPC Gamer Xtreme",
+      "category": "Electronics",
+      "quantity": 3,
+      "price": 1140.33,
+      "subtotal": 3420.99
+    }
+  ],
+  "total": 3819.85,
+  "currency": "USD"
+}

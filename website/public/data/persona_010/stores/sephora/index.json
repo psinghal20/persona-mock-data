@@ -1,0 +1,497 @@
+{
+  "persona_id": "persona_010",
+  "store_id": "sephora",
+  "store_name": "Sephora",
+  "transaction_type": "orders",
+  "transaction_label": "orders",
+  "has_cost": true,
+  "summary": {
+    "total_count": 29,
+    "total_spent": 4575.81,
+    "first_date": "2025-10-10",
+    "last_date": "2026-01-25"
+  },
+  "items": [
+    {
+      "order_id": "SPH000080",
+      "status": "shipped",
+      "total": 124.24,
+      "item_count": 2,
+      "created_at": "2026-01-25T10:50:29",
+      "item_preview": "Oil Cleanser, Night Cream"
+    },
+    {
+      "order_id": "SPH000081",
+      "status": "delivered",
+      "total": 288.72,
+      "item_count": 4,
+      "created_at": "2026-01-22T06:14:24",
+      "item_preview": "Chemical Sunscreen, Day Moisturizer, ..."
+    },
+    {
+      "order_id": "SPH000082",
+      "status": "delivered",
+      "total": 143.24,
+      "item_count": 3,
+      "created_at": "2026-01-15T08:11:13",
+      "item_preview": "Rich Cream, Overnight Mask, ..."
+    },
+    {
+      "order_id": "SPH000087",
+      "status": "shipped",
+      "total": 56.23,
+      "item_count": 1,
+      "created_at": "2026-01-08T09:22:56",
+      "item_preview": "Clay Mask"
+    },
+    {
+      "order_id": "SPH000084",
+      "status": "delivered",
+      "total": 223.44,
+      "item_count": 4,
+      "created_at": "2026-01-07T06:42:03",
+      "item_preview": "Chemical Sunscreen, Hydrating Eye Cream, ..."
+    },
+    {
+      "order_id": "SPH000016",
+      "status": "delivered",
+      "total": 113.6,
+      "item_count": 1,
+      "created_at": "2026-01-06T23:48:37",
+      "item_preview": "Oil Cleanser"
+    },
+    {
+      "order_id": "SPH000022",
+      "status": "shipped",
+      "total": 245.04,
+      "item_count": 3,
+      "created_at": "2026-01-05T08:19:59",
+      "item_preview": "Hydrating Toner, Exfoliating Toner, ..."
+    },
+    {
+      "order_id": "SPH000021",
+      "status": "shipped",
+      "total": 226.26,
+      "item_count": 3,
+      "created_at": "2026-01-01T14:50:00",
+      "item_preview": "Natural Lashes, Anti-Aging Eye Cream, ..."
+    },
+    {
+      "order_id": "SPH000077",
+      "status": "delivered",
+      "total": 49.1,
+      "item_count": 1,
+      "created_at": "2025-12-28T06:27:41",
+      "item_preview": "Oil Cleanser"
+    },
+    {
+      "order_id": "SPH000086",
+      "status": "shipped",
+      "total": 113.58,
+      "item_count": 1,
+      "created_at": "2025-12-19T17:05:44",
+      "item_preview": "Day Moisturizer"
+    },
+    {
+      "order_id": "SPH000091",
+      "status": "delivered",
+      "total": 110.54,
+      "item_count": 2,
+      "created_at": "2025-12-13T15:58:40",
+      "item_preview": "Natural Lashes, Clay Mask"
+    },
+    {
+      "order_id": "SPH000085",
+      "status": "pending",
+      "total": 108.22,
+      "item_count": 1,
+      "created_at": "2025-12-10T02:14:42",
+      "item_preview": "Hyaluronic Acid Serum"
+    },
+    {
+      "order_id": "SPH000090",
+      "status": "delivered",
+      "total": 186.54,
+      "item_count": 2,
+      "created_at": "2025-12-07T07:26:21",
+      "item_preview": "Vitamin C Serum, Micellar Water"
+    },
+    {
+      "order_id": "SPH000028",
+      "status": "pending",
+      "total": 533.6,
+      "item_count": 4,
+      "created_at": "2025-12-04T06:03:45",
+      "item_preview": "Anti-Aging Eye Cream, Retinol Serum, ..."
+    },
+    {
+      "order_id": "SPH000024",
+      "status": "delivered",
+      "total": 70.43,
+      "item_count": 2,
+      "created_at": "2025-11-22T14:25:16",
+      "item_preview": "Oil Cleanser, Gel Cleanser"
+    },
+    {
+      "order_id": "SPH000089",
+      "status": "shipped",
+      "total": 241.5,
+      "item_count": 3,
+      "created_at": "2025-11-18T09:33:27",
+      "item_preview": "Brightening Eye Cream, Hydrating Eye Cream, ..."
+    },
+    {
+      "order_id": "SPH000018",
+      "status": "delivered",
+      "total": 208.99,
+      "item_count": 3,
+      "created_at": "2025-11-17T01:53:14",
+      "item_preview": "Hydrating Eye Cream, Hydrating Toner, ..."
+    },
+    {
+      "order_id": "SPH000078",
+      "status": "delivered",
+      "total": 117.88,
+      "item_count": 2,
+      "created_at": "2025-11-08T01:51:35",
+      "item_preview": "Exfoliating Toner, Perfume Oil"
+    },
+    {
+      "order_id": "SPH000088",
+      "status": "delivered",
+      "total": 225.37,
+      "item_count": 2,
+      "created_at": "2025-11-06T04:21:32",
+      "item_preview": "Day Moisturizer, Day Moisturizer"
+    },
+    {
+      "order_id": "SPH000092",
+      "status": "shipped",
+      "total": 147.64,
+      "item_count": 3,
+      "created_at": "2025-11-04T15:17:38",
+      "item_preview": "Hydrating Eye Cream, Hyaluronic Acid Serum, ..."
+    },
+    {
+      "order_id": "SPH000025",
+      "status": "shipped",
+      "total": 114.01,
+      "item_count": 2,
+      "created_at": "2025-10-31T20:35:31",
+      "item_preview": "Sheet Mask, Oil Cleanser"
+    },
+    {
+      "order_id": "SPH000026",
+      "status": "cancelled",
+      "total": 41.49,
+      "item_count": 2,
+      "created_at": "2025-10-31T04:57:26",
+      "item_preview": "Micellar Water, Micellar Water"
+    },
+    {
+      "order_id": "SPH000027",
+      "status": "delivered",
+      "total": 137.6,
+      "item_count": 2,
+      "created_at": "2025-10-22T05:01:27",
+      "item_preview": "Gel Moisturizer, Brightening Eye Cream"
+    },
+    {
+      "order_id": "SPH000079",
+      "status": "delivered",
+      "total": 104.58,
+      "item_count": 2,
+      "created_at": "2025-10-19T05:44:26",
+      "item_preview": "Oil Cleanser, Exfoliating Toner"
+    },
+    {
+      "order_id": "SPH000017",
+      "status": "delivered",
+      "total": 163.34,
+      "item_count": 4,
+      "created_at": "2025-10-17T07:30:25",
+      "item_preview": "Rich Cream, Oil Cleanser, ..."
+    },
+    {
+      "order_id": "SPH000083",
+      "status": "shipped",
+      "total": 75.36,
+      "item_count": 2,
+      "created_at": "2025-10-14T20:33:43",
+      "item_preview": "Exfoliating Toner, Chemical Exfoliant"
+    },
+    {
+      "order_id": "SPH000019",
+      "status": "delivered",
+      "total": 61.0,
+      "item_count": 2,
+      "created_at": "2025-10-11T16:58:10",
+      "item_preview": "Micellar Water, Hydrating Eye Cream"
+    },
+    {
+      "order_id": "SPH000023",
+      "status": "delivered",
+      "total": 136.03,
+      "item_count": 2,
+      "created_at": "2025-10-11T10:09:15",
+      "item_preview": "Physical Exfoliant, Anti-Aging Eye Cream"
+    },
+    {
+      "order_id": "SPH000020",
+      "status": "delivered",
+      "total": 208.24,
+      "item_count": 3,
+      "created_at": "2025-10-10T22:37:20",
+      "item_preview": "Perfume Oil, Natural Lashes, ..."
+    }
+  ],
+  "categories": [
+    {
+      "id": "orders",
+      "name": "Orders",
+      "type": "orders",
+      "label": "orders",
+      "has_cost": true,
+      "summary": {
+        "total_count": 29,
+        "total_spent": 4575.81,
+        "first_date": "2025-10-10",
+        "last_date": "2026-01-25"
+      },
+      "items": [
+        {
+          "order_id": "SPH000080",
+          "status": "shipped",
+          "total": 124.24,
+          "item_count": 2,
+          "created_at": "2026-01-25T10:50:29",
+          "item_preview": "Oil Cleanser, Night Cream"
+        },
+        {
+          "order_id": "SPH000081",
+          "status": "delivered",
+          "total": 288.72,
+          "item_count": 4,
+          "created_at": "2026-01-22T06:14:24",
+          "item_preview": "Chemical Sunscreen, Day Moisturizer, ..."
+        },
+        {
+          "order_id": "SPH000082",
+          "status": "delivered",
+          "total": 143.24,
+          "item_count": 3,
+          "created_at": "2026-01-15T08:11:13",
+          "item_preview": "Rich Cream, Overnight Mask, ..."
+        },
+        {
+          "order_id": "SPH000087",
+          "status": "shipped",
+          "total": 56.23,
+          "item_count": 1,
+          "created_at": "2026-01-08T09:22:56",
+          "item_preview": "Clay Mask"
+        },
+        {
+          "order_id": "SPH000084",
+          "status": "delivered",
+          "total": 223.44,
+          "item_count": 4,
+          "created_at": "2026-01-07T06:42:03",
+          "item_preview": "Chemical Sunscreen, Hydrating Eye Cream, ..."
+        },
+        {
+          "order_id": "SPH000016",
+          "status": "delivered",
+          "total": 113.6,
+          "item_count": 1,
+          "created_at": "2026-01-06T23:48:37",
+          "item_preview": "Oil Cleanser"
+        },
+        {
+          "order_id": "SPH000022",
+          "status": "shipped",
+          "total": 245.04,
+          "item_count": 3,
+          "created_at": "2026-01-05T08:19:59",
+          "item_preview": "Hydrating Toner, Exfoliating Toner, ..."
+        },
+        {
+          "order_id": "SPH000021",
+          "status": "shipped",
+          "total": 226.26,
+          "item_count": 3,
+          "created_at": "2026-01-01T14:50:00",
+          "item_preview": "Natural Lashes, Anti-Aging Eye Cream, ..."
+        },
+        {
+          "order_id": "SPH000077",
+          "status": "delivered",
+          "total": 49.1,
+          "item_count": 1,
+          "created_at": "2025-12-28T06:27:41",
+          "item_preview": "Oil Cleanser"
+        },
+        {
+          "order_id": "SPH000086",
+          "status": "shipped",
+          "total": 113.58,
+          "item_count": 1,
+          "created_at": "2025-12-19T17:05:44",
+          "item_preview": "Day Moisturizer"
+        },
+        {
+          "order_id": "SPH000091",
+          "status": "delivered",
+          "total": 110.54,
+          "item_count": 2,
+          "created_at": "2025-12-13T15:58:40",
+          "item_preview": "Natural Lashes, Clay Mask"
+        },
+        {
+          "order_id": "SPH000085",
+          "status": "pending",
+          "total": 108.22,
+          "item_count": 1,
+          "created_at": "2025-12-10T02:14:42",
+          "item_preview": "Hyaluronic Acid Serum"
+        },
+        {
+          "order_id": "SPH000090",
+          "status": "delivered",
+          "total": 186.54,
+          "item_count": 2,
+          "created_at": "2025-12-07T07:26:21",
+          "item_preview": "Vitamin C Serum, Micellar Water"
+        },
+        {
+          "order_id": "SPH000028",
+          "status": "pending",
+          "total": 533.6,
+          "item_count": 4,
+          "created_at": "2025-12-04T06:03:45",
+          "item_preview": "Anti-Aging Eye Cream, Retinol Serum, ..."
+        },
+        {
+          "order_id": "SPH000024",
+          "status": "delivered",
+          "total": 70.43,
+          "item_count": 2,
+          "created_at": "2025-11-22T14:25:16",
+          "item_preview": "Oil Cleanser, Gel Cleanser"
+        },
+        {
+          "order_id": "SPH000089",
+          "status": "shipped",
+          "total": 241.5,
+          "item_count": 3,
+          "created_at": "2025-11-18T09:33:27",
+          "item_preview": "Brightening Eye Cream, Hydrating Eye Cream, ..."
+        },
+        {
+          "order_id": "SPH000018",
+          "status": "delivered",
+          "total": 208.99,
+          "item_count": 3,
+          "created_at": "2025-11-17T01:53:14",
+          "item_preview": "Hydrating Eye Cream, Hydrating Toner, ..."
+        },
+        {
+          "order_id": "SPH000078",
+          "status": "delivered",
+          "total": 117.88,
+          "item_count": 2,
+          "created_at": "2025-11-08T01:51:35",
+          "item_preview": "Exfoliating Toner, Perfume Oil"
+        },
+        {
+          "order_id": "SPH000088",
+          "status": "delivered",
+          "total": 225.37,
+          "item_count": 2,
+          "created_at": "2025-11-06T04:21:32",
+          "item_preview": "Day Moisturizer, Day Moisturizer"
+        },
+        {
+          "order_id": "SPH000092",
+          "status": "shipped",
+          "total": 147.64,
+          "item_count": 3,
+          "created_at": "2025-11-04T15:17:38",
+          "item_preview": "Hydrating Eye Cream, Hyaluronic Acid Serum, ..."
+        },
+        {
+          "order_id": "SPH000025",
+          "status": "shipped",
+          "total": 114.01,
+          "item_count": 2,
+          "created_at": "2025-10-31T20:35:31",
+          "item_preview": "Sheet Mask, Oil Cleanser"
+        },
+        {
+          "order_id": "SPH000026",
+          "status": "cancelled",
+          "total": 41.49,
+          "item_count": 2,
+          "created_at": "2025-10-31T04:57:26",
+          "item_preview": "Micellar Water, Micellar Water"
+        },
+        {
+          "order_id": "SPH000027",
+          "status": "delivered",
+          "total": 137.6,
+          "item_count": 2,
+          "created_at": "2025-10-22T05:01:27",
+          "item_preview": "Gel Moisturizer, Brightening Eye Cream"
+        },
+        {
+          "order_id": "SPH000079",
+          "status": "delivered",
+          "total": 104.58,
+          "item_count": 2,
+          "created_at": "2025-10-19T05:44:26",
+          "item_preview": "Oil Cleanser, Exfoliating Toner"
+        },
+        {
+          "order_id": "SPH000017",
+          "status": "delivered",
+          "total": 163.34,
+          "item_count": 4,
+          "created_at": "2025-10-17T07:30:25",
+          "item_preview": "Rich Cream, Oil Cleanser, ..."
+        },
+        {
+          "order_id": "SPH000083",
+          "status": "shipped",
+          "total": 75.36,
+          "item_count": 2,
+          "created_at": "2025-10-14T20:33:43",
+          "item_preview": "Exfoliating Toner, Chemical Exfoliant"
+        },
+        {
+          "order_id": "SPH000019",
+          "status": "delivered",
+          "total": 61.0,
+          "item_count": 2,
+          "created_at": "2025-10-11T16:58:10",
+          "item_preview": "Micellar Water, Hydrating Eye Cream"
+        },
+        {
+          "order_id": "SPH000023",
+          "status": "delivered",
+          "total": 136.03,
+          "item_count": 2,
+          "created_at": "2025-10-11T10:09:15",
+          "item_preview": "Physical Exfoliant, Anti-Aging Eye Cream"
+        },
+        {
+          "order_id": "SPH000020",
+          "status": "delivered",
+          "total": 208.24,
+          "item_count": 3,
+          "created_at": "2025-10-10T22:37:20",
+          "item_preview": "Perfume Oil, Natural Lashes, ..."
+        }
+      ]
+    }
+  ]
+}

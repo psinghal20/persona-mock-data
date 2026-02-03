@@ -1,0 +1,22 @@
+{
+  "order_id": "WMT-FPP5KVR9",
+  "persona_id": "persona_031",
+  "store_id": "walmart",
+  "status": "delivered",
+  "created_at": "2025-11-17T03:52:19",
+  "shipped_at": "2025-11-20T03:52:19",
+  "delivered_at": "2025-11-24T03:52:19",
+  "shipping_address": "999 Suburban Lane, Phoenix, AZ 85001",
+  "items": [
+    {
+      "product_id": "WMT00001212",
+      "name": "Epoch Calico Critters Family Set",
+      "category": "Toys",
+      "quantity": 1,
+      "price": 24.0,
+      "subtotal": 24.0
+    }
+  ],
+  "total": 24.0,
+  "currency": "USD"
+}

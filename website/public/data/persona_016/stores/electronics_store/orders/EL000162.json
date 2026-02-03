@@ -1,0 +1,22 @@
+{
+  "order_id": "EL000162",
+  "persona_id": "persona_016",
+  "store_id": "electronics_store",
+  "status": "delivered",
+  "created_at": "2025-12-06T05:04:50",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "222 Tech Campus Way, Austin, TX 78701",
+  "items": [
+    {
+      "product_id": "LP009",
+      "name": "Microsoft Surface Laptop 6",
+      "category": "Laptops",
+      "quantity": 2,
+      "price": 1199.99,
+      "subtotal": 2399.98
+    }
+  ],
+  "total": 2399.98,
+  "currency": "USD"
+}

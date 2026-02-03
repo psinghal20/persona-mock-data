@@ -1,0 +1,26 @@
+{
+  "order_id": "SAVED-64",
+  "persona_id": "persona_027",
+  "store_id": "zillow",
+  "type": "saved_property",
+  "status": "saved",
+  "created_at": "2025-10-23T06:16:06",
+  "notes": "",
+  "items": [
+    {
+      "product_id": "3900",
+      "name": "5905 Church Court",
+      "address": "5905 Church Court",
+      "city": "",
+      "price": 891729.0,
+      "bedrooms": "",
+      "bathrooms": "",
+      "sqft": "",
+      "home_type": "",
+      "quantity": 1,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

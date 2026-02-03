@@ -1,0 +1,169 @@
+{
+  "persona_id": "persona_009",
+  "store_id": "florist",
+  "store_name": "Florist",
+  "transaction_type": "orders",
+  "transaction_label": "orders",
+  "has_cost": true,
+  "summary": {
+    "total_count": 15,
+    "total_spent": 1468.71,
+    "first_date": "2025-10-01",
+    "last_date": "2026-01-24"
+  },
+  "items": [],
+  "categories": [
+    {
+      "id": "orders",
+      "name": "Orders",
+      "type": "orders",
+      "label": "orders",
+      "has_cost": true,
+      "summary": {
+        "total_count": 13,
+        "total_spent": 1283.73,
+        "first_date": "2025-10-01",
+        "last_date": "2026-01-24"
+      },
+      "items": [
+        {
+          "order_id": "69",
+          "status": "delivered",
+          "total": 209.98,
+          "item_count": 1,
+          "created_at": "2026-01-24T01:46:13",
+          "item_preview": "Bridal Bouquet Classic"
+        },
+        {
+          "order_id": "30",
+          "status": "delivered",
+          "total": 64.99,
+          "item_count": 1,
+          "created_at": "2026-01-23T01:08:19",
+          "item_preview": "Hydrangea Classic Blue"
+        },
+        {
+          "order_id": "66",
+          "status": "pending",
+          "total": 90.98,
+          "item_count": 2,
+          "created_at": "2026-01-21T22:45:51",
+          "item_preview": "Retirement Wishes, Sympathy Card"
+        },
+        {
+          "order_id": "70",
+          "status": "scheduled",
+          "total": 125.96,
+          "item_count": 3,
+          "created_at": "2026-01-17T19:25:56",
+          "item_preview": "Heartfelt Condolences, Ferrero Rocher Box (12pc), ..."
+        },
+        {
+          "order_id": "67",
+          "status": "delivered",
+          "total": 79.98,
+          "item_count": 1,
+          "created_at": "2025-12-03T17:43:23",
+          "item_preview": "Yellow Joy Roses"
+        },
+        {
+          "order_id": "65",
+          "status": "pending",
+          "total": 87.96,
+          "item_count": 3,
+          "created_at": "2025-11-29T15:43:48",
+          "item_preview": "Wedding Boutonniere, Gourmet Cookie Box, ..."
+        },
+        {
+          "order_id": "31",
+          "status": "delivered",
+          "total": 75.98,
+          "item_count": 1,
+          "created_at": "2025-11-20T12:39:31",
+          "item_preview": "Classic Orchid Plant"
+        },
+        {
+          "order_id": "68",
+          "status": "pending",
+          "total": 87.97,
+          "item_count": 2,
+          "created_at": "2025-11-17T14:57:41",
+          "item_preview": "French Tulip Vase, Blank Premium Card"
+        },
+        {
+          "order_id": "29",
+          "status": "scheduled",
+          "total": 74.99,
+          "item_count": 1,
+          "created_at": "2025-11-12T02:43:27",
+          "item_preview": "Elegant White Lilies"
+        },
+        {
+          "order_id": "28",
+          "status": "pending",
+          "total": 139.98,
+          "item_count": 1,
+          "created_at": "2025-10-31T02:11:09",
+          "item_preview": "Two Dozen Red Roses"
+        },
+        {
+          "order_id": "63",
+          "status": "scheduled",
+          "total": 74.99,
+          "item_count": 1,
+          "created_at": "2025-10-29T19:57:31",
+          "item_preview": "Elegant White Lilies"
+        },
+        {
+          "order_id": "32",
+          "status": "delivered",
+          "total": 74.99,
+          "item_count": 1,
+          "created_at": "2025-10-23T19:34:37",
+          "item_preview": "Elegant White Lilies"
+        },
+        {
+          "order_id": "64",
+          "status": "delivered",
+          "total": 94.98,
+          "item_count": 2,
+          "created_at": "2025-10-01T21:28:40",
+          "item_preview": "Elegant White Lilies, Modern Cylinder Vase"
+        }
+      ]
+    },
+    {
+      "id": "subscriptions",
+      "name": "Subscriptions",
+      "type": "subscriptions",
+      "label": "subscriptions",
+      "has_cost": true,
+      "summary": {
+        "total_count": 2,
+        "total_spent": 184.98,
+        "first_date": "2025-12-18",
+        "last_date": "2026-01-04"
+      },
+      "items": [
+        {
+          "order_id": "SUB-14",
+          "display_name": "Luxury Collection",
+          "description": "Monthly \u00b7 Roses Only",
+          "status": "active",
+          "total": 149.99,
+          "item_count": 1,
+          "created_at": "2026-01-04T23:05:08"
+        },
+        {
+          "order_id": "SUB-6",
+          "display_name": "Succulent Club",
+          "description": "Monthly \u00b7 Classic & Elegant",
+          "status": "active",
+          "total": 34.99,
+          "item_count": 1,
+          "created_at": "2025-12-18T07:18:43"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "order_id": "SAVED-78",
+  "persona_id": "persona_027",
+  "store_id": "zillow",
+  "type": "saved_property",
+  "status": "saved",
+  "created_at": "2025-12-23T13:04:57",
+  "notes": "Need to schedule tour",
+  "items": [
+    {
+      "product_id": "2022",
+      "name": "1726 Park Avenue",
+      "address": "1726 Park Avenue",
+      "city": "",
+      "price": 1546772.0,
+      "bedrooms": "",
+      "bathrooms": "",
+      "sqft": "",
+      "home_type": "",
+      "quantity": 1,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

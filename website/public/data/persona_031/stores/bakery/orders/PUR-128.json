@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-128",
+  "persona_id": "persona_031",
+  "store_id": "bakery",
+  "status": "completed",
+  "created_at": "2025-12-13T19:41:13",
+  "items": [
+    {
+      "product_id": "66",
+      "name": "Key Lime Pie (slice)",
+      "category": "Pies",
+      "quantity": 1,
+      "price": 5.99,
+      "subtotal": 5.99
+    }
+  ],
+  "total": 5.99,
+  "currency": "USD"
+}

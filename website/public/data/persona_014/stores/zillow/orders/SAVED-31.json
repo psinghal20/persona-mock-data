@@ -1,0 +1,26 @@
+{
+  "order_id": "SAVED-31",
+  "persona_id": "persona_014",
+  "store_id": "zillow",
+  "type": "saved_property",
+  "status": "saved",
+  "created_at": "2026-01-04T14:20:26",
+  "notes": "Close to work",
+  "items": [
+    {
+      "product_id": "1608",
+      "name": "836 Second Avenue",
+      "address": "836 Second Avenue",
+      "city": "",
+      "price": 1646290.0,
+      "bedrooms": "",
+      "bathrooms": "",
+      "sqft": "",
+      "home_type": "",
+      "quantity": 1,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

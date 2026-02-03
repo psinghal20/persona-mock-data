@@ -1,0 +1,22 @@
+{
+  "order_id": "TOY000136",
+  "persona_id": "persona_023",
+  "store_id": "toy_store",
+  "status": "delivered",
+  "created_at": "2025-10-19T03:11:58",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "777 East Side Ave, Cleveland, OH 44114",
+  "items": [
+    {
+      "product_id": "TOY-001",
+      "name": "LEGO City Police Station",
+      "category": "Building & Construction",
+      "quantity": 1,
+      "price": 99.99,
+      "subtotal": 99.99
+    }
+  ],
+  "total": 99.99,
+  "currency": "USD"
+}

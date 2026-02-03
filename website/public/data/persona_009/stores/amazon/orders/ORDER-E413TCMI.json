@@ -1,0 +1,46 @@
+{
+  "order_id": "ORDER-E413TCMI",
+  "persona_id": "persona_009",
+  "store_id": "amazon",
+  "status": "pending",
+  "created_at": "2026-01-20T10:01:53",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "789 Veterans Blvd, Tampa, FL 33602",
+  "items": [
+    {
+      "product_id": "B0AMZN1277",
+      "name": "Gozney Roccbox",
+      "category": "Patio Lawn & Garden",
+      "quantity": 2,
+      "price": 499.0,
+      "subtotal": 998.0
+    },
+    {
+      "product_id": "B0TOYS0225",
+      "name": "Hasbro Transformers Optimus Prime",
+      "category": "Toys & Games",
+      "quantity": 1,
+      "price": 53.73,
+      "subtotal": 53.73
+    },
+    {
+      "product_id": "B0BOOK0103",
+      "name": "The House in the Cerulean Sea by TJ Klune",
+      "category": "Books",
+      "quantity": 2,
+      "price": 19.21,
+      "subtotal": 38.42
+    },
+    {
+      "product_id": "B0BOOK0152",
+      "name": "Don Quixote by Miguel de Cervantes",
+      "category": "Books",
+      "quantity": 2,
+      "price": 25.68,
+      "subtotal": 51.36
+    }
+  ],
+  "total": 1141.51,
+  "currency": "USD"
+}

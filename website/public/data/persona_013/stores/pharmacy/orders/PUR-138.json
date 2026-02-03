@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-138",
+  "persona_id": "persona_013",
+  "store_id": "pharmacy",
+  "status": "completed",
+  "created_at": "2026-01-10T17:14:17",
+  "items": [
+    {
+      "product_id": "260",
+      "name": "Melatonin 5mg",
+      "category": "Vitamins",
+      "quantity": 2,
+      "price": 12.99,
+      "subtotal": 25.98
+    }
+  ],
+  "total": 25.98,
+  "currency": "USD"
+}

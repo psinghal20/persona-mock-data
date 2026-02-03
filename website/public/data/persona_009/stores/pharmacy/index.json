@@ -1,0 +1,721 @@
+{
+  "persona_id": "persona_009",
+  "store_id": "pharmacy",
+  "store_name": "Pharmacy",
+  "transaction_type": "purchases",
+  "transaction_label": "purchases",
+  "has_cost": true,
+  "summary": {
+    "total_count": 43,
+    "total_spent": 1292.13,
+    "first_date": "2025-10-01",
+    "last_date": "2026-01-21"
+  },
+  "items": [
+    {
+      "order_id": "PUR-13",
+      "status": "completed",
+      "total": 25.98,
+      "item_count": 2,
+      "created_at": "2026-01-21T11:46:21",
+      "item_preview": "Salonpas"
+    },
+    {
+      "order_id": "PUR-106",
+      "status": "completed",
+      "total": 89.97,
+      "item_count": 3,
+      "created_at": "2026-01-21T08:39:36",
+      "item_preview": "CoQ10"
+    },
+    {
+      "order_id": "PUR-11",
+      "status": "completed",
+      "total": 12.99,
+      "item_count": 1,
+      "created_at": "2026-01-18T10:41:02",
+      "item_preview": "Melatonin 5mg"
+    },
+    {
+      "order_id": "PUR-99",
+      "status": "completed",
+      "total": 27.98,
+      "item_count": 2,
+      "created_at": "2026-01-16T20:51:23",
+      "item_preview": "Calcium + D3"
+    },
+    {
+      "order_id": "PUR-109",
+      "status": "completed",
+      "total": 16.99,
+      "item_count": 1,
+      "created_at": "2026-01-14T01:59:00",
+      "item_preview": "Vitamin D3 5000 IU"
+    },
+    {
+      "order_id": "PUR-14",
+      "status": "completed",
+      "total": 23.98,
+      "item_count": 2,
+      "created_at": "2026-01-10T15:35:19",
+      "item_preview": "Vitamin B12"
+    },
+    {
+      "order_id": "PUR-22",
+      "status": "completed",
+      "total": 49.98,
+      "item_count": 2,
+      "created_at": "2026-01-10T09:28:42",
+      "item_preview": "Fish Oil Triple Strength"
+    },
+    {
+      "order_id": "PUR-94",
+      "status": "completed",
+      "total": 17.98,
+      "item_count": 2,
+      "created_at": "2026-01-06T20:56:34",
+      "item_preview": "Zinc"
+    },
+    {
+      "order_id": "PUR-101",
+      "status": "completed",
+      "total": 29.97,
+      "item_count": 3,
+      "created_at": "2026-01-01T02:36:54",
+      "item_preview": "Bengay Ultra Strength"
+    },
+    {
+      "order_id": "PUR-15",
+      "status": "completed",
+      "total": 19.98,
+      "item_count": 2,
+      "created_at": "2025-12-29T21:25:56",
+      "item_preview": "Iron"
+    },
+    {
+      "order_id": "PUR-102",
+      "status": "completed",
+      "total": 9.99,
+      "item_count": 1,
+      "created_at": "2025-12-29T08:14:32",
+      "item_preview": "Iron"
+    },
+    {
+      "order_id": "PUR-6",
+      "status": "completed",
+      "total": 16.99,
+      "item_count": 1,
+      "created_at": "2025-12-28T14:29:03",
+      "item_preview": "Vitamin D3 5000 IU"
+    },
+    {
+      "order_id": "PUR-100",
+      "status": "completed",
+      "total": 11.99,
+      "item_count": 1,
+      "created_at": "2025-12-28T08:42:29",
+      "item_preview": "Biotin"
+    },
+    {
+      "order_id": "PUR-103",
+      "status": "completed",
+      "total": 50.97,
+      "item_count": 3,
+      "created_at": "2025-12-25T10:14:49",
+      "item_preview": "Turmeric Curcumin"
+    },
+    {
+      "order_id": "PUR-104",
+      "status": "completed",
+      "total": 27.98,
+      "item_count": 2,
+      "created_at": "2025-12-23T17:58:37",
+      "item_preview": "B-Complex"
+    },
+    {
+      "order_id": "PUR-112",
+      "status": "completed",
+      "total": 29.97,
+      "item_count": 3,
+      "created_at": "2025-12-22T17:27:10",
+      "item_preview": "Motrin IB"
+    },
+    {
+      "order_id": "PUR-92",
+      "status": "completed",
+      "total": 33.98,
+      "item_count": 2,
+      "created_at": "2025-12-21T05:15:14",
+      "item_preview": "Turmeric Curcumin"
+    },
+    {
+      "order_id": "PUR-7",
+      "status": "completed",
+      "total": 13.99,
+      "item_count": 1,
+      "created_at": "2025-12-13T18:14:12",
+      "item_preview": "Aleve"
+    },
+    {
+      "order_id": "PUR-20",
+      "status": "completed",
+      "total": 11.99,
+      "item_count": 1,
+      "created_at": "2025-12-10T14:28:04",
+      "item_preview": "Biotin"
+    },
+    {
+      "order_id": "PUR-12",
+      "status": "completed",
+      "total": 37.98,
+      "item_count": 2,
+      "created_at": "2025-12-03T06:51:38",
+      "item_preview": "One A Day Men's"
+    },
+    {
+      "order_id": "PUR-96",
+      "status": "completed",
+      "total": 59.97,
+      "item_count": 3,
+      "created_at": "2025-11-29T15:32:05",
+      "item_preview": "Fish Oil"
+    },
+    {
+      "order_id": "PUR-23",
+      "status": "completed",
+      "total": 11.99,
+      "item_count": 1,
+      "created_at": "2025-11-27T15:55:52",
+      "item_preview": "Advil"
+    },
+    {
+      "order_id": "PUR-10",
+      "status": "completed",
+      "total": 27.98,
+      "item_count": 2,
+      "created_at": "2025-11-27T13:54:38",
+      "item_preview": "B-Complex"
+    },
+    {
+      "order_id": "PUR-8",
+      "status": "completed",
+      "total": 23.98,
+      "item_count": 2,
+      "created_at": "2025-11-25T21:50:16",
+      "item_preview": "Vitamin B12"
+    },
+    {
+      "order_id": "PUR-98",
+      "status": "completed",
+      "total": 12.99,
+      "item_count": 1,
+      "created_at": "2025-11-24T15:52:24",
+      "item_preview": "Melatonin 5mg"
+    },
+    {
+      "order_id": "PUR-105",
+      "status": "completed",
+      "total": 9.99,
+      "item_count": 1,
+      "created_at": "2025-11-20T02:02:18",
+      "item_preview": "Azo Urinary Pain Relief"
+    },
+    {
+      "order_id": "PUR-21",
+      "status": "completed",
+      "total": 19.98,
+      "item_count": 2,
+      "created_at": "2025-11-16T19:38:21",
+      "item_preview": "Vitamin C 1000mg"
+    },
+    {
+      "order_id": "PUR-25",
+      "status": "completed",
+      "total": 35.97,
+      "item_count": 3,
+      "created_at": "2025-11-14T13:52:35",
+      "item_preview": "Icy Hot"
+    },
+    {
+      "order_id": "PUR-114",
+      "status": "completed",
+      "total": 74.97,
+      "item_count": 3,
+      "created_at": "2025-11-13T10:27:57",
+      "item_preview": "Probiotics"
+    },
+    {
+      "order_id": "PUR-111",
+      "status": "completed",
+      "total": 43.98,
+      "item_count": 2,
+      "created_at": "2025-11-11T18:09:52",
+      "item_preview": "Prenatal Vitamins"
+    },
+    {
+      "order_id": "PUR-17",
+      "status": "completed",
+      "total": 19.98,
+      "item_count": 2,
+      "created_at": "2025-11-07T12:00:19",
+      "item_preview": "Motrin IB"
+    },
+    {
+      "order_id": "PUR-93",
+      "status": "completed",
+      "total": 56.97,
+      "item_count": 3,
+      "created_at": "2025-11-01T18:51:57",
+      "item_preview": "One A Day Women's"
+    },
+    {
+      "order_id": "PUR-16",
+      "status": "completed",
+      "total": 24.99,
+      "item_count": 1,
+      "created_at": "2025-11-01T16:23:40",
+      "item_preview": "Fish Oil Triple Strength"
+    },
+    {
+      "order_id": "PUR-9",
+      "status": "completed",
+      "total": 50.97,
+      "item_count": 3,
+      "created_at": "2025-10-29T01:17:48",
+      "item_preview": "Centrum Adults"
+    },
+    {
+      "order_id": "PUR-24",
+      "status": "completed",
+      "total": 41.97,
+      "item_count": 3,
+      "created_at": "2025-10-23T19:18:05",
+      "item_preview": "Calcium + D3"
+    },
+    {
+      "order_id": "PUR-19",
+      "status": "completed",
+      "total": 9.99,
+      "item_count": 1,
+      "created_at": "2025-10-23T07:05:18",
+      "item_preview": "Iron"
+    },
+    {
+      "order_id": "PUR-107",
+      "status": "completed",
+      "total": 29.97,
+      "item_count": 3,
+      "created_at": "2025-10-19T21:20:44",
+      "item_preview": "Azo Urinary Pain Relief"
+    },
+    {
+      "order_id": "PUR-95",
+      "status": "completed",
+      "total": 29.97,
+      "item_count": 3,
+      "created_at": "2025-10-19T16:24:50",
+      "item_preview": "Aspirin Low Dose"
+    },
+    {
+      "order_id": "PUR-110",
+      "status": "completed",
+      "total": 37.98,
+      "item_count": 2,
+      "created_at": "2025-10-18T07:24:07",
+      "item_preview": "One A Day Men's"
+    },
+    {
+      "order_id": "PUR-113",
+      "status": "completed",
+      "total": 35.97,
+      "item_count": 3,
+      "created_at": "2025-10-17T17:52:23",
+      "item_preview": "Biotin"
+    },
+    {
+      "order_id": "PUR-18",
+      "status": "completed",
+      "total": 17.98,
+      "item_count": 2,
+      "created_at": "2025-10-11T10:34:15",
+      "item_preview": "Zinc"
+    },
+    {
+      "order_id": "PUR-108",
+      "status": "completed",
+      "total": 23.98,
+      "item_count": 2,
+      "created_at": "2025-10-08T11:29:38",
+      "item_preview": "Icy Hot"
+    },
+    {
+      "order_id": "PUR-97",
+      "status": "completed",
+      "total": 27.98,
+      "item_count": 2,
+      "created_at": "2025-10-01T04:34:03",
+      "item_preview": "Calcium + D3"
+    }
+  ],
+  "categories": [
+    {
+      "id": "purchases",
+      "name": "Purchases",
+      "type": "purchases",
+      "label": "purchases",
+      "has_cost": true,
+      "summary": {
+        "total_count": 43,
+        "total_spent": 1292.13,
+        "first_date": "2025-10-01",
+        "last_date": "2026-01-21"
+      },
+      "items": [
+        {
+          "order_id": "PUR-13",
+          "status": "completed",
+          "total": 25.98,
+          "item_count": 2,
+          "created_at": "2026-01-21T11:46:21",
+          "item_preview": "Salonpas"
+        },
+        {
+          "order_id": "PUR-106",
+          "status": "completed",
+          "total": 89.97,
+          "item_count": 3,
+          "created_at": "2026-01-21T08:39:36",
+          "item_preview": "CoQ10"
+        },
+        {
+          "order_id": "PUR-11",
+          "status": "completed",
+          "total": 12.99,
+          "item_count": 1,
+          "created_at": "2026-01-18T10:41:02",
+          "item_preview": "Melatonin 5mg"
+        },
+        {
+          "order_id": "PUR-99",
+          "status": "completed",
+          "total": 27.98,
+          "item_count": 2,
+          "created_at": "2026-01-16T20:51:23",
+          "item_preview": "Calcium + D3"
+        },
+        {
+          "order_id": "PUR-109",
+          "status": "completed",
+          "total": 16.99,
+          "item_count": 1,
+          "created_at": "2026-01-14T01:59:00",
+          "item_preview": "Vitamin D3 5000 IU"
+        },
+        {
+          "order_id": "PUR-14",
+          "status": "completed",
+          "total": 23.98,
+          "item_count": 2,
+          "created_at": "2026-01-10T15:35:19",
+          "item_preview": "Vitamin B12"
+        },
+        {
+          "order_id": "PUR-22",
+          "status": "completed",
+          "total": 49.98,
+          "item_count": 2,
+          "created_at": "2026-01-10T09:28:42",
+          "item_preview": "Fish Oil Triple Strength"
+        },
+        {
+          "order_id": "PUR-94",
+          "status": "completed",
+          "total": 17.98,
+          "item_count": 2,
+          "created_at": "2026-01-06T20:56:34",
+          "item_preview": "Zinc"
+        },
+        {
+          "order_id": "PUR-101",
+          "status": "completed",
+          "total": 29.97,
+          "item_count": 3,
+          "created_at": "2026-01-01T02:36:54",
+          "item_preview": "Bengay Ultra Strength"
+        },
+        {
+          "order_id": "PUR-15",
+          "status": "completed",
+          "total": 19.98,
+          "item_count": 2,
+          "created_at": "2025-12-29T21:25:56",
+          "item_preview": "Iron"
+        },
+        {
+          "order_id": "PUR-102",
+          "status": "completed",
+          "total": 9.99,
+          "item_count": 1,
+          "created_at": "2025-12-29T08:14:32",
+          "item_preview": "Iron"
+        },
+        {
+          "order_id": "PUR-6",
+          "status": "completed",
+          "total": 16.99,
+          "item_count": 1,
+          "created_at": "2025-12-28T14:29:03",
+          "item_preview": "Vitamin D3 5000 IU"
+        },
+        {
+          "order_id": "PUR-100",
+          "status": "completed",
+          "total": 11.99,
+          "item_count": 1,
+          "created_at": "2025-12-28T08:42:29",
+          "item_preview": "Biotin"
+        },
+        {
+          "order_id": "PUR-103",
+          "status": "completed",
+          "total": 50.97,
+          "item_count": 3,
+          "created_at": "2025-12-25T10:14:49",
+          "item_preview": "Turmeric Curcumin"
+        },
+        {
+          "order_id": "PUR-104",
+          "status": "completed",
+          "total": 27.98,
+          "item_count": 2,
+          "created_at": "2025-12-23T17:58:37",
+          "item_preview": "B-Complex"
+        },
+        {
+          "order_id": "PUR-112",
+          "status": "completed",
+          "total": 29.97,
+          "item_count": 3,
+          "created_at": "2025-12-22T17:27:10",
+          "item_preview": "Motrin IB"
+        },
+        {
+          "order_id": "PUR-92",
+          "status": "completed",
+          "total": 33.98,
+          "item_count": 2,
+          "created_at": "2025-12-21T05:15:14",
+          "item_preview": "Turmeric Curcumin"
+        },
+        {
+          "order_id": "PUR-7",
+          "status": "completed",
+          "total": 13.99,
+          "item_count": 1,
+          "created_at": "2025-12-13T18:14:12",
+          "item_preview": "Aleve"
+        },
+        {
+          "order_id": "PUR-20",
+          "status": "completed",
+          "total": 11.99,
+          "item_count": 1,
+          "created_at": "2025-12-10T14:28:04",
+          "item_preview": "Biotin"
+        },
+        {
+          "order_id": "PUR-12",
+          "status": "completed",
+          "total": 37.98,
+          "item_count": 2,
+          "created_at": "2025-12-03T06:51:38",
+          "item_preview": "One A Day Men's"
+        },
+        {
+          "order_id": "PUR-96",
+          "status": "completed",
+          "total": 59.97,
+          "item_count": 3,
+          "created_at": "2025-11-29T15:32:05",
+          "item_preview": "Fish Oil"
+        },
+        {
+          "order_id": "PUR-23",
+          "status": "completed",
+          "total": 11.99,
+          "item_count": 1,
+          "created_at": "2025-11-27T15:55:52",
+          "item_preview": "Advil"
+        },
+        {
+          "order_id": "PUR-10",
+          "status": "completed",
+          "total": 27.98,
+          "item_count": 2,
+          "created_at": "2025-11-27T13:54:38",
+          "item_preview": "B-Complex"
+        },
+        {
+          "order_id": "PUR-8",
+          "status": "completed",
+          "total": 23.98,
+          "item_count": 2,
+          "created_at": "2025-11-25T21:50:16",
+          "item_preview": "Vitamin B12"
+        },
+        {
+          "order_id": "PUR-98",
+          "status": "completed",
+          "total": 12.99,
+          "item_count": 1,
+          "created_at": "2025-11-24T15:52:24",
+          "item_preview": "Melatonin 5mg"
+        },
+        {
+          "order_id": "PUR-105",
+          "status": "completed",
+          "total": 9.99,
+          "item_count": 1,
+          "created_at": "2025-11-20T02:02:18",
+          "item_preview": "Azo Urinary Pain Relief"
+        },
+        {
+          "order_id": "PUR-21",
+          "status": "completed",
+          "total": 19.98,
+          "item_count": 2,
+          "created_at": "2025-11-16T19:38:21",
+          "item_preview": "Vitamin C 1000mg"
+        },
+        {
+          "order_id": "PUR-25",
+          "status": "completed",
+          "total": 35.97,
+          "item_count": 3,
+          "created_at": "2025-11-14T13:52:35",
+          "item_preview": "Icy Hot"
+        },
+        {
+          "order_id": "PUR-114",
+          "status": "completed",
+          "total": 74.97,
+          "item_count": 3,
+          "created_at": "2025-11-13T10:27:57",
+          "item_preview": "Probiotics"
+        },
+        {
+          "order_id": "PUR-111",
+          "status": "completed",
+          "total": 43.98,
+          "item_count": 2,
+          "created_at": "2025-11-11T18:09:52",
+          "item_preview": "Prenatal Vitamins"
+        },
+        {
+          "order_id": "PUR-17",
+          "status": "completed",
+          "total": 19.98,
+          "item_count": 2,
+          "created_at": "2025-11-07T12:00:19",
+          "item_preview": "Motrin IB"
+        },
+        {
+          "order_id": "PUR-93",
+          "status": "completed",
+          "total": 56.97,
+          "item_count": 3,
+          "created_at": "2025-11-01T18:51:57",
+          "item_preview": "One A Day Women's"
+        },
+        {
+          "order_id": "PUR-16",
+          "status": "completed",
+          "total": 24.99,
+          "item_count": 1,
+          "created_at": "2025-11-01T16:23:40",
+          "item_preview": "Fish Oil Triple Strength"
+        },
+        {
+          "order_id": "PUR-9",
+          "status": "completed",
+          "total": 50.97,
+          "item_count": 3,
+          "created_at": "2025-10-29T01:17:48",
+          "item_preview": "Centrum Adults"
+        },
+        {
+          "order_id": "PUR-24",
+          "status": "completed",
+          "total": 41.97,
+          "item_count": 3,
+          "created_at": "2025-10-23T19:18:05",
+          "item_preview": "Calcium + D3"
+        },
+        {
+          "order_id": "PUR-19",
+          "status": "completed",
+          "total": 9.99,
+          "item_count": 1,
+          "created_at": "2025-10-23T07:05:18",
+          "item_preview": "Iron"
+        },
+        {
+          "order_id": "PUR-107",
+          "status": "completed",
+          "total": 29.97,
+          "item_count": 3,
+          "created_at": "2025-10-19T21:20:44",
+          "item_preview": "Azo Urinary Pain Relief"
+        },
+        {
+          "order_id": "PUR-95",
+          "status": "completed",
+          "total": 29.97,
+          "item_count": 3,
+          "created_at": "2025-10-19T16:24:50",
+          "item_preview": "Aspirin Low Dose"
+        },
+        {
+          "order_id": "PUR-110",
+          "status": "completed",
+          "total": 37.98,
+          "item_count": 2,
+          "created_at": "2025-10-18T07:24:07",
+          "item_preview": "One A Day Men's"
+        },
+        {
+          "order_id": "PUR-113",
+          "status": "completed",
+          "total": 35.97,
+          "item_count": 3,
+          "created_at": "2025-10-17T17:52:23",
+          "item_preview": "Biotin"
+        },
+        {
+          "order_id": "PUR-18",
+          "status": "completed",
+          "total": 17.98,
+          "item_count": 2,
+          "created_at": "2025-10-11T10:34:15",
+          "item_preview": "Zinc"
+        },
+        {
+          "order_id": "PUR-108",
+          "status": "completed",
+          "total": 23.98,
+          "item_count": 2,
+          "created_at": "2025-10-08T11:29:38",
+          "item_preview": "Icy Hot"
+        },
+        {
+          "order_id": "PUR-97",
+          "status": "completed",
+          "total": 27.98,
+          "item_count": 2,
+          "created_at": "2025-10-01T04:34:03",
+          "item_preview": "Calcium + D3"
+        }
+      ]
+    }
+  ]
+}

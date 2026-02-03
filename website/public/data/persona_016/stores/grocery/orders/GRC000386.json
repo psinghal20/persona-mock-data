@@ -1,0 +1,110 @@
+{
+  "order_id": "GRC000386",
+  "persona_id": "persona_016",
+  "store_id": "grocery",
+  "status": "delivered",
+  "created_at": "2025-12-03T06:48:30",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "222 Tech Campus Way, Austin, TX 78701",
+  "items": [
+    {
+      "product_id": "prod_124",
+      "name": "Sunrise Farms Organic Zucchini",
+      "category": "Produce",
+      "quantity": 4,
+      "price": 7.7,
+      "subtotal": 30.8
+    },
+    {
+      "product_id": "prod_287",
+      "name": "Daily Delight Tuna Steak",
+      "category": "Meat & Seafood",
+      "quantity": 4,
+      "price": 17.93,
+      "subtotal": 71.72
+    },
+    {
+      "product_id": "GRO-2114",
+      "name": "Gatorade Chai Tea Concentrate",
+      "category": "Beverages",
+      "quantity": 3,
+      "price": 2.48,
+      "subtotal": 7.44
+    },
+    {
+      "product_id": "GRO-1041",
+      "name": "Organic Valley Pecorino Romano",
+      "category": "Dairy",
+      "quantity": 5,
+      "price": 19.39,
+      "subtotal": 96.95
+    },
+    {
+      "product_id": "prod_713",
+      "name": "Market Fresh Organic Almonds",
+      "category": "Snacks",
+      "quantity": 2,
+      "price": 12.47,
+      "subtotal": 24.94
+    },
+    {
+      "product_id": "prod_833",
+      "name": "Mountain Fresh Basil Dried",
+      "category": "Condiments & Spices",
+      "quantity": 1,
+      "price": 3.91,
+      "subtotal": 3.91
+    },
+    {
+      "product_id": "prod_933",
+      "name": "Premium Select Organic Diapers",
+      "category": "Baby",
+      "quantity": 2,
+      "price": 40.07,
+      "subtotal": 80.14
+    },
+    {
+      "product_id": "prod_574",
+      "name": "Organic Choice Frozen Meatballs",
+      "category": "Frozen",
+      "quantity": 1,
+      "price": 10.71,
+      "subtotal": 10.71
+    },
+    {
+      "product_id": "GRO-1089",
+      "name": "D'Artagnan Hanger Steak",
+      "category": "Meat & Seafood",
+      "quantity": 2,
+      "price": 47.29,
+      "subtotal": 94.58
+    },
+    {
+      "product_id": "prod_044",
+      "name": "Simply Good Organic Lemons",
+      "category": "Produce",
+      "quantity": 1,
+      "price": 1.7,
+      "subtotal": 1.7
+    },
+    {
+      "product_id": "prod_202",
+      "name": "Organic Choice Feta Cheese",
+      "category": "Dairy",
+      "quantity": 2,
+      "price": 7.09,
+      "subtotal": 14.18
+    },
+    {
+      "product_id": "GRO-1306",
+      "name": "GT's Rooibos Tea",
+      "category": "Beverages",
+      "quantity": 3,
+      "price": 12.38,
+      "subtotal": 37.14
+    }
+  ],
+  "total": 474.21,
+  "currency": "USD"
+}

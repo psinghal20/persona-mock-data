@@ -1,0 +1,23 @@
+{
+  "order_id": "WISH-64",
+  "persona_id": "persona_013",
+  "store_id": "toy_store",
+  "type": "wishlist",
+  "status": "medium",
+  "created_at": "2026-01-13T11:54:44",
+  "items": [
+    {
+      "product_id": "TOY-124",
+      "name": "Pandemic",
+      "category": "Games & Puzzles",
+      "child_name": "Diego",
+      "occasion": "Birthday",
+      "priority": "medium",
+      "quantity": 1,
+      "price": 44.99,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

@@ -1,0 +1,225 @@
+{
+  "persona_id": "persona_013",
+  "store_id": "jewelry_store",
+  "store_name": "Jewelry Store",
+  "transaction_type": "orders",
+  "transaction_label": "orders",
+  "has_cost": true,
+  "summary": {
+    "total_count": 12,
+    "total_spent": 16949.86,
+    "first_date": "2025-10-15",
+    "last_date": "2026-01-19"
+  },
+  "items": [
+    {
+      "order_id": "JWL000037",
+      "status": "pending",
+      "total": 4299.99,
+      "item_count": 1,
+      "created_at": "2026-01-19T04:12:32",
+      "item_preview": "Emerald Tennis Bracelet"
+    },
+    {
+      "order_id": "JWL000038",
+      "status": "delivered",
+      "total": 1999.98,
+      "item_count": 2,
+      "created_at": "2026-01-18T15:49:07",
+      "item_preview": "Gold Dress Watch, Mens Leather Bracelet Gold"
+    },
+    {
+      "order_id": "JWL000035",
+      "status": "delivered",
+      "total": 2999.99,
+      "item_count": 1,
+      "created_at": "2026-01-15T22:03:27",
+      "item_preview": "Classic Gold Dress Watch"
+    },
+    {
+      "order_id": "JWL000034",
+      "status": "shipped",
+      "total": 99.99,
+      "item_count": 1,
+      "created_at": "2026-01-13T01:00:36",
+      "item_preview": "Cartilage Hoop Gold"
+    },
+    {
+      "order_id": "JWL000016",
+      "status": "shipped",
+      "total": 299.99,
+      "item_count": 1,
+      "created_at": "2026-01-11T04:43:00",
+      "item_preview": "Gold Chain Anklet"
+    },
+    {
+      "order_id": "JWL000014",
+      "status": "delivered",
+      "total": 1899.99,
+      "item_count": 1,
+      "created_at": "2025-12-23T19:29:23",
+      "item_preview": "Mens Gold Chain Necklace"
+    },
+    {
+      "order_id": "JWL000015",
+      "status": "delivered",
+      "total": 799.99,
+      "item_count": 1,
+      "created_at": "2025-12-13T05:58:45",
+      "item_preview": "Gold Bangle Bracelet"
+    },
+    {
+      "order_id": "JWL000017",
+      "status": "delivered",
+      "total": 299.99,
+      "item_count": 1,
+      "created_at": "2025-12-11T20:27:18",
+      "item_preview": "Gold Chain Anklet"
+    },
+    {
+      "order_id": "JWL000036",
+      "status": "shipped",
+      "total": 1549.98,
+      "item_count": 2,
+      "created_at": "2025-12-03T05:21:43",
+      "item_preview": "Classic Gold Hoops Medium, Cuff Bracelet Gold"
+    },
+    {
+      "order_id": "JWL000039",
+      "status": "delivered",
+      "total": 1599.99,
+      "item_count": 1,
+      "created_at": "2025-11-19T21:09:04",
+      "item_preview": "Gold Dress Watch"
+    },
+    {
+      "order_id": "JWL000040",
+      "status": "delivered",
+      "total": 799.99,
+      "item_count": 1,
+      "created_at": "2025-11-12T16:49:47",
+      "item_preview": "Gold Bar Cufflinks"
+    },
+    {
+      "order_id": "JWL000041",
+      "status": "shipped",
+      "total": 299.99,
+      "item_count": 1,
+      "created_at": "2025-10-15T01:57:58",
+      "item_preview": "Gold Crawler Earrings"
+    }
+  ],
+  "categories": [
+    {
+      "id": "orders",
+      "name": "Orders",
+      "type": "orders",
+      "label": "orders",
+      "has_cost": true,
+      "summary": {
+        "total_count": 12,
+        "total_spent": 16949.86,
+        "first_date": "2025-10-15",
+        "last_date": "2026-01-19"
+      },
+      "items": [
+        {
+          "order_id": "JWL000037",
+          "status": "pending",
+          "total": 4299.99,
+          "item_count": 1,
+          "created_at": "2026-01-19T04:12:32",
+          "item_preview": "Emerald Tennis Bracelet"
+        },
+        {
+          "order_id": "JWL000038",
+          "status": "delivered",
+          "total": 1999.98,
+          "item_count": 2,
+          "created_at": "2026-01-18T15:49:07",
+          "item_preview": "Gold Dress Watch, Mens Leather Bracelet Gold"
+        },
+        {
+          "order_id": "JWL000035",
+          "status": "delivered",
+          "total": 2999.99,
+          "item_count": 1,
+          "created_at": "2026-01-15T22:03:27",
+          "item_preview": "Classic Gold Dress Watch"
+        },
+        {
+          "order_id": "JWL000034",
+          "status": "shipped",
+          "total": 99.99,
+          "item_count": 1,
+          "created_at": "2026-01-13T01:00:36",
+          "item_preview": "Cartilage Hoop Gold"
+        },
+        {
+          "order_id": "JWL000016",
+          "status": "shipped",
+          "total": 299.99,
+          "item_count": 1,
+          "created_at": "2026-01-11T04:43:00",
+          "item_preview": "Gold Chain Anklet"
+        },
+        {
+          "order_id": "JWL000014",
+          "status": "delivered",
+          "total": 1899.99,
+          "item_count": 1,
+          "created_at": "2025-12-23T19:29:23",
+          "item_preview": "Mens Gold Chain Necklace"
+        },
+        {
+          "order_id": "JWL000015",
+          "status": "delivered",
+          "total": 799.99,
+          "item_count": 1,
+          "created_at": "2025-12-13T05:58:45",
+          "item_preview": "Gold Bangle Bracelet"
+        },
+        {
+          "order_id": "JWL000017",
+          "status": "delivered",
+          "total": 299.99,
+          "item_count": 1,
+          "created_at": "2025-12-11T20:27:18",
+          "item_preview": "Gold Chain Anklet"
+        },
+        {
+          "order_id": "JWL000036",
+          "status": "shipped",
+          "total": 1549.98,
+          "item_count": 2,
+          "created_at": "2025-12-03T05:21:43",
+          "item_preview": "Classic Gold Hoops Medium, Cuff Bracelet Gold"
+        },
+        {
+          "order_id": "JWL000039",
+          "status": "delivered",
+          "total": 1599.99,
+          "item_count": 1,
+          "created_at": "2025-11-19T21:09:04",
+          "item_preview": "Gold Dress Watch"
+        },
+        {
+          "order_id": "JWL000040",
+          "status": "delivered",
+          "total": 799.99,
+          "item_count": 1,
+          "created_at": "2025-11-12T16:49:47",
+          "item_preview": "Gold Bar Cufflinks"
+        },
+        {
+          "order_id": "JWL000041",
+          "status": "shipped",
+          "total": 299.99,
+          "item_count": 1,
+          "created_at": "2025-10-15T01:57:58",
+          "item_preview": "Gold Crawler Earrings"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "order_id": "WISH-7",
+  "persona_id": "persona_031",
+  "store_id": "toy_store",
+  "type": "wishlist",
+  "status": "medium",
+  "created_at": "2025-12-09T12:01:32",
+  "items": [
+    {
+      "product_id": "TOY-016",
+      "name": "Fisher-Price Little People Farm",
+      "category": "Action Figures & Dolls",
+      "child_name": "Isabella",
+      "occasion": "Christmas",
+      "priority": "medium",
+      "quantity": 1,
+      "price": 39.99,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

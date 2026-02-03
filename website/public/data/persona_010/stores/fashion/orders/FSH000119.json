@@ -1,0 +1,38 @@
+{
+  "order_id": "FSH000119",
+  "persona_id": "persona_010",
+  "store_id": "fashion",
+  "status": "delivered",
+  "created_at": "2025-11-24T15:00:38",
+  "shipped_at": "2025-11-26T15:00:38",
+  "delivered_at": "2025-11-28T15:00:38",
+  "shipping_address": "321 French Quarter Ave, New Orleans, LA 70116",
+  "items": [
+    {
+      "product_id": "prod_245",
+      "name": "Sunset Studios Chiffon Slip Dress",
+      "category": "Dresses",
+      "quantity": 1,
+      "price": 103.66,
+      "subtotal": 103.66
+    },
+    {
+      "product_id": "prod_251",
+      "name": "Silk & Stone Suede Slip Dress",
+      "category": "Dresses",
+      "quantity": 1,
+      "price": 117.6,
+      "subtotal": 117.6
+    },
+    {
+      "product_id": "prod_279",
+      "name": "Fashion Forward Linen Sundress",
+      "category": "Dresses",
+      "quantity": 1,
+      "price": 94.57,
+      "subtotal": 94.57
+    }
+  ],
+  "total": 315.83,
+  "currency": "USD"
+}

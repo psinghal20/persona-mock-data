@@ -1,0 +1,30 @@
+{
+  "order_id": "FSH000034",
+  "persona_id": "persona_016",
+  "store_id": "fashion",
+  "status": "delivered",
+  "created_at": "2025-10-29T10:49:41",
+  "shipped_at": "2025-11-01T10:49:41",
+  "delivered_at": "2025-11-03T10:49:41",
+  "shipping_address": "222 Tech Campus Way, Austin, TX 78701",
+  "items": [
+    {
+      "product_id": "prod_071",
+      "name": "Pure Cotton Co Velvet Hoodie",
+      "category": "Tops",
+      "quantity": 2,
+      "price": 88.98,
+      "subtotal": 177.96
+    },
+    {
+      "product_id": "prod_163",
+      "name": "Everyday Elegance Leather Joggers",
+      "category": "Bottoms",
+      "quantity": 1,
+      "price": 84.88,
+      "subtotal": 84.88
+    }
+  ],
+  "total": 262.84,
+  "currency": "USD"
+}

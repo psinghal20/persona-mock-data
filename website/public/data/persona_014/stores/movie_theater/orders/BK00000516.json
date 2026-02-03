@@ -1,0 +1,23 @@
+{
+  "order_id": "BK00000516",
+  "persona_id": "persona_014",
+  "store_id": "movie_theater",
+  "type": "booking",
+  "status": "confirmed",
+  "created_at": "2025-12-06T11:51:04",
+  "confirmation_code": "AMC-PBV3KS",
+  "items": [
+    {
+      "product_id": "MOV068",
+      "name": "The Crow",
+      "showtime": "",
+      "theater": "",
+      "seats": "G10,G11,G12",
+      "quantity": 3,
+      "price": 21.99,
+      "subtotal": 65.97
+    }
+  ],
+  "total": 65.97,
+  "currency": "USD"
+}

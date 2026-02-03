@@ -1,0 +1,30 @@
+{
+  "order_id": "WMT-CMRML1QA",
+  "persona_id": "persona_002",
+  "store_id": "walmart",
+  "status": "shipped",
+  "created_at": "2025-12-28T11:56:57",
+  "shipped_at": "2025-12-30T11:56:57",
+  "delivered_at": "",
+  "shipping_address": "456 Tech Park Drive, San Jose, CA 95110",
+  "items": [
+    {
+      "product_id": "WMT00001045",
+      "name": "Ubiquiti Ubiquiti Dream Machine Pro",
+      "category": "Electronics",
+      "quantity": 3,
+      "price": 365.61,
+      "subtotal": 1096.83
+    },
+    {
+      "product_id": "WMT00001918",
+      "name": "Speedo Endurance+ Jammer",
+      "category": "Sports",
+      "quantity": 3,
+      "price": 45.41,
+      "subtotal": 136.23
+    }
+  ],
+  "total": 1233.06,
+  "currency": "USD"
+}

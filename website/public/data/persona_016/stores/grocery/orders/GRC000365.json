@@ -1,0 +1,78 @@
+{
+  "order_id": "GRC000365",
+  "persona_id": "persona_016",
+  "store_id": "grocery",
+  "status": "delivered",
+  "created_at": "2026-01-26T12:40:19",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "222 Tech Campus Way, Austin, TX 78701",
+  "items": [
+    {
+      "product_id": "prod_191",
+      "name": "Sunrise Farms Organic Mozzarella",
+      "category": "Dairy",
+      "quantity": 2,
+      "price": 5.86,
+      "subtotal": 11.72
+    },
+    {
+      "product_id": "prod_785",
+      "name": "Country Best Organic Steel Cut Oats",
+      "category": "Breakfast",
+      "quantity": 4,
+      "price": 9.52,
+      "subtotal": 38.08
+    },
+    {
+      "product_id": "prod_869",
+      "name": "Premium Select Pickles",
+      "category": "Condiments & Spices",
+      "quantity": 2,
+      "price": 3.9,
+      "subtotal": 7.8
+    },
+    {
+      "product_id": "prod_169",
+      "name": "Heritage Foods Organic Skim Milk",
+      "category": "Dairy",
+      "quantity": 1,
+      "price": 6.98,
+      "subtotal": 6.98
+    },
+    {
+      "product_id": "GRO-1603",
+      "name": "Organic Valley Bosc Pear",
+      "category": "Produce",
+      "quantity": 3,
+      "price": 7.34,
+      "subtotal": 22.02
+    },
+    {
+      "product_id": "prod_085",
+      "name": "Organic Choice Grapefruit",
+      "category": "Produce",
+      "quantity": 1,
+      "price": 3.45,
+      "subtotal": 3.45
+    },
+    {
+      "product_id": "prod_862",
+      "name": "Golden Harvest Caesar Dressing",
+      "category": "Condiments & Spices",
+      "quantity": 4,
+      "price": 4.5,
+      "subtotal": 18.0
+    },
+    {
+      "product_id": "prod_750",
+      "name": "Daily Delight Organic Chocolate Chips",
+      "category": "Snacks",
+      "quantity": 4,
+      "price": 4.62,
+      "subtotal": 18.48
+    }
+  ],
+  "total": 126.53,
+  "currency": "USD"
+}

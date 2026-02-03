@@ -1,0 +1,22 @@
+{
+  "order_id": "SPH000133",
+  "persona_id": "persona_031",
+  "store_id": "sephora",
+  "status": "delivered",
+  "created_at": "2025-11-10T19:29:22",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "999 Suburban Lane, Phoenix, AZ 85001",
+  "items": [
+    {
+      "product_id": "SPH0504",
+      "name": "Tinted Sunscreen",
+      "category": "Skincare",
+      "quantity": 1,
+      "price": 26.82,
+      "subtotal": 26.82
+    }
+  ],
+  "total": 26.82,
+  "currency": "USD"
+}

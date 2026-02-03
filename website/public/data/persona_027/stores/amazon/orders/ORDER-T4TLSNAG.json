@@ -1,0 +1,30 @@
+{
+  "order_id": "ORDER-T4TLSNAG",
+  "persona_id": "persona_027",
+  "store_id": "amazon",
+  "status": "shipped",
+  "created_at": "2025-11-09T04:26:30",
+  "shipped_at": "2025-11-10T04:26:30",
+  "delivered_at": "",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "items": [
+    {
+      "product_id": "B0TOYS0160",
+      "name": "LeapFrog LeapFrog LeapPad Academy",
+      "category": "Toys & Games",
+      "quantity": 1,
+      "price": 129.24,
+      "subtotal": 129.24
+    },
+    {
+      "product_id": "B0AMZN1327",
+      "name": "Sonos Arc",
+      "category": "Electronics",
+      "quantity": 2,
+      "price": 899.0,
+      "subtotal": 1798.0
+    }
+  ],
+  "total": 1927.24,
+  "currency": "USD"
+}

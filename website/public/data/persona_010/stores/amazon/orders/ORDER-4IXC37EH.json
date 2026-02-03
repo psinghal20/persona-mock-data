@@ -1,0 +1,30 @@
+{
+  "order_id": "ORDER-4IXC37EH",
+  "persona_id": "persona_010",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-11-24T08:45:22",
+  "shipped_at": "2025-11-27T08:45:22",
+  "delivered_at": "2025-11-29T08:45:22",
+  "shipping_address": "321 French Quarter Ave, New Orleans, LA 70116",
+  "items": [
+    {
+      "product_id": "B0BCGJ180K",
+      "name": "Rachio 3 Smart Sprinkler Controller 8-Zone",
+      "category": "Patio Lawn Garden",
+      "quantity": 2,
+      "price": 229.99,
+      "subtotal": 459.98
+    },
+    {
+      "product_id": "B0AMZN1228",
+      "name": "Dreametech H12 Pro",
+      "category": "Home & Kitchen",
+      "quantity": 1,
+      "price": 499.99,
+      "subtotal": 499.99
+    }
+  ],
+  "total": 959.97,
+  "currency": "USD"
+}

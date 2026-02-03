@@ -1,0 +1,23 @@
+{
+  "order_id": "BK00000653",
+  "persona_id": "persona_031",
+  "store_id": "movie_theater",
+  "type": "booking",
+  "status": "cancelled",
+  "created_at": "2025-12-20T21:40:42",
+  "confirmation_code": "AMC-V98JM5",
+  "items": [
+    {
+      "product_id": "MOV010",
+      "name": "Furiosa: A Mad Max Saga",
+      "showtime": "",
+      "theater": "",
+      "seats": "I10,I11,I12,I13",
+      "quantity": 4,
+      "price": 21.99,
+      "subtotal": 87.96
+    }
+  ],
+  "total": 87.96,
+  "currency": "USD"
+}

@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-78",
+  "persona_id": "persona_022",
+  "store_id": "bookstore",
+  "status": "completed",
+  "created_at": "2025-10-22T03:34:48",
+  "items": [
+    {
+      "product_id": "11",
+      "name": "Crime and Punishment",
+      "category": "Psychological Fiction",
+      "quantity": 1,
+      "price": 14.99,
+      "subtotal": 14.99
+    }
+  ],
+  "total": 14.99,
+  "currency": "USD"
+}

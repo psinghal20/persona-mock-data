@@ -1,0 +1,22 @@
+{
+  "order_id": "WMT-RJVCMDA2",
+  "persona_id": "persona_027",
+  "store_id": "walmart",
+  "status": "delivered",
+  "created_at": "2025-10-02T20:53:49",
+  "shipped_at": "2025-10-05T20:53:49",
+  "delivered_at": "2025-10-09T20:53:49",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "items": [
+    {
+      "product_id": "WMT00000541",
+      "name": "RXBar Cassava Chips",
+      "category": "Grocery",
+      "quantity": 3,
+      "price": 9.3,
+      "subtotal": 27.9
+    }
+  ],
+  "total": 27.9,
+  "currency": "USD"
+}

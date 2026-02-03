@@ -1,0 +1,46 @@
+{
+  "order_id": "WMT-L2M2JU2A",
+  "persona_id": "persona_013",
+  "store_id": "walmart",
+  "status": "delivered",
+  "created_at": "2025-10-06T02:25:43",
+  "shipped_at": "2025-10-09T02:25:43",
+  "delivered_at": "2025-10-12T02:25:43",
+  "shipping_address": "555 Community Center Rd, Houston, TX 77001",
+  "items": [
+    {
+      "product_id": "WMT00001991",
+      "name": "Eddyline Eddyline Sitka LT Kayak",
+      "category": "Sports",
+      "quantity": 3,
+      "price": 2295.7,
+      "subtotal": 6887.1
+    },
+    {
+      "product_id": "WMT00001983",
+      "name": "Jetboil Jetboil MiniMo",
+      "category": "Sports",
+      "quantity": 2,
+      "price": 142.05,
+      "subtotal": 284.1
+    },
+    {
+      "product_id": "WMT00001255",
+      "name": "GoSports Bocce Ball Set",
+      "category": "Toys",
+      "quantity": 2,
+      "price": 39.61,
+      "subtotal": 79.22
+    },
+    {
+      "product_id": "WMT00001864",
+      "name": "Nike Alphafly 3",
+      "category": "Sports",
+      "quantity": 2,
+      "price": 273.73,
+      "subtotal": 547.46
+    }
+  ],
+  "total": 7797.88,
+  "currency": "USD"
+}

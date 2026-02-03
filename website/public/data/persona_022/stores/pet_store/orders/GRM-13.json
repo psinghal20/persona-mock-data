@@ -1,0 +1,25 @@
+{
+  "order_id": "GRM-13",
+  "persona_id": "persona_022",
+  "store_id": "pet_store",
+  "type": "grooming",
+  "status": "scheduled",
+  "appointment_date": "2026-01-03",
+  "appointment_time": "11:00",
+  "items": [
+    {
+      "product_id": "GRM036",
+      "name": "Sanitary Trim",
+      "description": "Trimming of sanitary areas only",
+      "pet_name": "Mittens",
+      "pet_type": "Cats",
+      "pet_breed": "Domestic Shorthair",
+      "duration_minutes": "20",
+      "quantity": 1,
+      "price": 20.0,
+      "subtotal": 20.0
+    }
+  ],
+  "total": 20.0,
+  "currency": "USD"
+}

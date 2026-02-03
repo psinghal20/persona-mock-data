@@ -1,0 +1,30 @@
+{
+  "order_id": "ORDER-HAK7WO44",
+  "persona_id": "persona_027",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-10-08T13:16:08",
+  "shipped_at": "2025-10-10T13:16:08",
+  "delivered_at": "2025-10-15T13:16:08",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "items": [
+    {
+      "product_id": "B0B5GI023L",
+      "name": "Lululemon The Mat 5mm",
+      "category": "Sports & Outdoors",
+      "quantity": 1,
+      "price": 98.0,
+      "subtotal": 98.0
+    },
+    {
+      "product_id": "B0ELEC0062",
+      "name": "Sonos Sonos Arc Soundbar",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 1040.02,
+      "subtotal": 1040.02
+    }
+  ],
+  "total": 1138.02,
+  "currency": "USD"
+}

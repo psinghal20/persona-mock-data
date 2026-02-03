@@ -1,0 +1,134 @@
+{
+  "order_id": "GRC000265",
+  "persona_id": "persona_010",
+  "store_id": "grocery",
+  "status": "delivered",
+  "created_at": "2025-12-10T06:54:44",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "321 French Quarter Ave, New Orleans, LA 70116",
+  "items": [
+    {
+      "product_id": "prod_171",
+      "name": "Country Best Organic Heavy Cream",
+      "category": "Dairy",
+      "quantity": 3,
+      "price": 8.76,
+      "subtotal": 26.28
+    },
+    {
+      "product_id": "prod_218",
+      "name": "Premium Select Organic Almond Milk",
+      "category": "Dairy",
+      "quantity": 3,
+      "price": 5.84,
+      "subtotal": 17.52
+    },
+    {
+      "product_id": "GRO-1699",
+      "name": "Local Farm Fresh Green Beans",
+      "category": "Produce",
+      "quantity": 2,
+      "price": 4.34,
+      "subtotal": 8.68
+    },
+    {
+      "product_id": "prod_279",
+      "name": "Mountain Fresh Organic Shrimp",
+      "category": "Meat & Seafood",
+      "quantity": 3,
+      "price": 19.12,
+      "subtotal": 57.36
+    },
+    {
+      "product_id": "prod_217",
+      "name": "Mountain Fresh Organic Yogurt",
+      "category": "Dairy",
+      "quantity": 4,
+      "price": 1.59,
+      "subtotal": 6.36
+    },
+    {
+      "product_id": "prod_894",
+      "name": "Quality First Organic Dishwasher Pods",
+      "category": "Household",
+      "quantity": 2,
+      "price": 14.7,
+      "subtotal": 29.4
+    },
+    {
+      "product_id": "prod_229",
+      "name": "Pure & Simple Organic Ribeye Steak",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 59.05,
+      "subtotal": 59.05
+    },
+    {
+      "product_id": "prod_919",
+      "name": "Farm Fresh Aluminum Foil",
+      "category": "Household",
+      "quantity": 1,
+      "price": 5.85,
+      "subtotal": 5.85
+    },
+    {
+      "product_id": "prod_910",
+      "name": "Farm Fresh Disinfecting Wipes",
+      "category": "Household",
+      "quantity": 4,
+      "price": 7.59,
+      "subtotal": 30.36
+    },
+    {
+      "product_id": "prod_833",
+      "name": "Mountain Fresh Basil Dried",
+      "category": "Condiments & Spices",
+      "quantity": 1,
+      "price": 3.91,
+      "subtotal": 3.91
+    },
+    {
+      "product_id": "prod_564",
+      "name": "Market Fresh Fish Sticks",
+      "category": "Frozen",
+      "quantity": 1,
+      "price": 7.55,
+      "subtotal": 7.55
+    },
+    {
+      "product_id": "prod_341",
+      "name": "Daily Delight Organic Brown Rice",
+      "category": "Pantry",
+      "quantity": 2,
+      "price": 5.29,
+      "subtotal": 10.58
+    },
+    {
+      "product_id": "prod_477",
+      "name": "Golden Harvest Organic Whole Wheat Bread",
+      "category": "Bakery",
+      "quantity": 3,
+      "price": 4.62,
+      "subtotal": 13.86
+    },
+    {
+      "product_id": "prod_411",
+      "name": "Heritage Foods Organic Honey",
+      "category": "Pantry",
+      "quantity": 2,
+      "price": 9.88,
+      "subtotal": 19.76
+    },
+    {
+      "product_id": "prod_354",
+      "name": "Daily Delight Organic All Purpose Flour",
+      "category": "Pantry",
+      "quantity": 4,
+      "price": 5.64,
+      "subtotal": 22.56
+    }
+  ],
+  "total": 319.08,
+  "currency": "USD"
+}

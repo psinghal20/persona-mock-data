@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-73",
+  "persona_id": "persona_022",
+  "store_id": "bakery",
+  "status": "completed",
+  "created_at": "2025-12-19T10:48:59",
+  "items": [
+    {
+      "product_id": "125",
+      "name": "Parker House Rolls (6 pack)",
+      "category": "Bread",
+      "quantity": 3,
+      "price": 5.49,
+      "subtotal": 16.47
+    }
+  ],
+  "total": 16.47,
+  "currency": "USD"
+}

@@ -1,0 +1,23 @@
+{
+  "order_id": "WISH-67",
+  "persona_id": "persona_013",
+  "store_id": "toy_store",
+  "type": "wishlist",
+  "status": "medium",
+  "created_at": "2025-11-14T21:37:22",
+  "items": [
+    {
+      "product_id": "TOY-004",
+      "name": "LEGO Technic Excavator",
+      "category": "Building & Construction",
+      "child_name": "Maria",
+      "occasion": "Just Because",
+      "priority": "medium",
+      "quantity": 1,
+      "price": 199.99,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

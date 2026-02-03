@@ -1,0 +1,32 @@
+{
+  "order_id": "81",
+  "persona_id": "persona_027",
+  "store_id": "florist",
+  "status": "pending",
+  "created_at": "2025-11-10T09:35:46",
+  "shipped_at": "",
+  "delivered_at": "2025-11-13",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "recipient_name": "Friend",
+  "card_message": "Just because I love you!",
+  "items": [
+    {
+      "product_id": "12",
+      "name": "Classic Orchid Plant",
+      "category": "Orchids",
+      "quantity": 1,
+      "price": 65.99,
+      "subtotal": 65.99
+    },
+    {
+      "product_id": "3",
+      "name": "Lindt Truffle Collection",
+      "category": "Add-on",
+      "quantity": 1,
+      "price": 19.99,
+      "subtotal": 19.99
+    }
+  ],
+  "total": 85.98,
+  "currency": "USD"
+}

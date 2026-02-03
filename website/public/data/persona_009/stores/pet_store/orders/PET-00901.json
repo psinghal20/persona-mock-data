@@ -1,0 +1,24 @@
+{
+  "order_id": "PET-00901",
+  "persona_id": "persona_009",
+  "store_id": "pet_store",
+  "type": "pet_profile",
+  "status": "active",
+  "items": [
+    {
+      "product_id": "PET-00901",
+      "name": "Max",
+      "pet_type": "Dogs",
+      "breed": "Golden Retriever",
+      "age_years": "4",
+      "weight_lbs": "68",
+      "dietary_restrictions": "",
+      "notes": "Friendly family dog of William Thompson",
+      "quantity": 1,
+      "price": 0,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

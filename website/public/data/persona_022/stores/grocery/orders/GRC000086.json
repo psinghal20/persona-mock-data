@@ -1,0 +1,134 @@
+{
+  "order_id": "GRC000086",
+  "persona_id": "persona_022",
+  "store_id": "grocery",
+  "status": "delivered",
+  "created_at": "2025-10-07T21:06:16",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "444 Polish Hill St, Philadelphia, PA 19123",
+  "items": [
+    {
+      "product_id": "prod_188",
+      "name": "Home Style Organic Cream Cheese",
+      "category": "Dairy",
+      "quantity": 2,
+      "price": 4.73,
+      "subtotal": 9.46
+    },
+    {
+      "product_id": "prod_831",
+      "name": "Green Valley Basil Dried",
+      "category": "Condiments & Spices",
+      "quantity": 2,
+      "price": 4.56,
+      "subtotal": 9.12
+    },
+    {
+      "product_id": "prod_865",
+      "name": "Market Fresh Relish",
+      "category": "Condiments & Spices",
+      "quantity": 1,
+      "price": 3.0,
+      "subtotal": 3.0
+    },
+    {
+      "product_id": "prod_143",
+      "name": "Market Fresh Cauliflower",
+      "category": "Produce",
+      "quantity": 2,
+      "price": 3.62,
+      "subtotal": 7.24
+    },
+    {
+      "product_id": "prod_261",
+      "name": "Fresh Farms Pork Ribs",
+      "category": "Meat & Seafood",
+      "quantity": 3,
+      "price": 10.72,
+      "subtotal": 32.16
+    },
+    {
+      "product_id": "prod_692",
+      "name": "Mountain Fresh Tortilla Chips",
+      "category": "Snacks",
+      "quantity": 1,
+      "price": 4.14,
+      "subtotal": 4.14
+    },
+    {
+      "product_id": "prod_624",
+      "name": "Mountain Fresh Cranberry Juice",
+      "category": "Beverages",
+      "quantity": 1,
+      "price": 5.66,
+      "subtotal": 5.66
+    },
+    {
+      "product_id": "prod_790",
+      "name": "Home Style Organic Waffle Mix",
+      "category": "Breakfast",
+      "quantity": 2,
+      "price": 5.55,
+      "subtotal": 11.1
+    },
+    {
+      "product_id": "prod_091",
+      "name": "Mountain Fresh Papaya",
+      "category": "Produce",
+      "quantity": 1,
+      "price": 7.52,
+      "subtotal": 7.52
+    },
+    {
+      "product_id": "prod_063",
+      "name": "Farm Fresh Peaches",
+      "category": "Produce",
+      "quantity": 3,
+      "price": 3.35,
+      "subtotal": 10.05
+    },
+    {
+      "product_id": "prod_901",
+      "name": "Country Best Organic Fabric Softener",
+      "category": "Household",
+      "quantity": 1,
+      "price": 12.23,
+      "subtotal": 12.23
+    },
+    {
+      "product_id": "prod_301",
+      "name": "Mountain Fresh Clams",
+      "category": "Meat & Seafood",
+      "quantity": 3,
+      "price": 10.01,
+      "subtotal": 30.03
+    },
+    {
+      "product_id": "prod_777",
+      "name": "Farm Fresh Cereal Rice Krispies",
+      "category": "Breakfast",
+      "quantity": 5,
+      "price": 4.65,
+      "subtotal": 23.25
+    },
+    {
+      "product_id": "prod_037",
+      "name": "Nature's Best Organic Strawberries",
+      "category": "Produce",
+      "quantity": 1,
+      "price": 5.53,
+      "subtotal": 5.53
+    },
+    {
+      "product_id": "prod_531",
+      "name": "Local Pride Organic Frozen Vegetables Mix",
+      "category": "Frozen",
+      "quantity": 2,
+      "price": 3.71,
+      "subtotal": 7.42
+    }
+  ],
+  "total": 177.91,
+  "currency": "USD"
+}

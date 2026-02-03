@@ -1,0 +1,30 @@
+{
+  "order_id": "WMT-JTYXRG3V",
+  "persona_id": "persona_016",
+  "store_id": "walmart",
+  "status": "delivered",
+  "created_at": "2025-11-21T20:42:34",
+  "shipped_at": "2025-11-23T20:42:34",
+  "delivered_at": "2025-11-26T20:42:34",
+  "shipping_address": "222 Tech Campus Way, Austin, TX 78701",
+  "items": [
+    {
+      "product_id": "WMT00000138",
+      "name": "Farm Fresh Organic Deli Turkey",
+      "category": "Grocery",
+      "quantity": 1,
+      "price": 15.3,
+      "subtotal": 15.3
+    },
+    {
+      "product_id": "WMT00000002",
+      "name": "Organic Avocados",
+      "category": "Grocery",
+      "quantity": 3,
+      "price": 2.68,
+      "subtotal": 8.04
+    }
+  ],
+  "total": 23.34,
+  "currency": "USD"
+}

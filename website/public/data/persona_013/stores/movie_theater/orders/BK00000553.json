@@ -1,0 +1,23 @@
+{
+  "order_id": "BK00000553",
+  "persona_id": "persona_013",
+  "store_id": "movie_theater",
+  "type": "booking",
+  "status": "confirmed",
+  "created_at": "2025-12-17T07:35:18",
+  "confirmation_code": "AMC-ID4YK0",
+  "items": [
+    {
+      "product_id": "MOV012",
+      "name": "Twisters",
+      "showtime": "",
+      "theater": "",
+      "seats": "G2,G3,G4,G5",
+      "quantity": 4,
+      "price": 21.99,
+      "subtotal": 87.96
+    }
+  ],
+  "total": 87.96,
+  "currency": "USD"
+}

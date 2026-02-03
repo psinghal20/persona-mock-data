@@ -1,0 +1,23 @@
+{
+  "order_id": "WISH-50",
+  "persona_id": "persona_031",
+  "store_id": "toy_store",
+  "type": "wishlist",
+  "status": "high",
+  "created_at": "2025-12-14T03:05:09",
+  "items": [
+    {
+      "product_id": "TOY-170",
+      "name": "Lawn Darts Set",
+      "category": "Outdoor Play",
+      "child_name": "Isabella",
+      "occasion": "Just Because",
+      "priority": "high",
+      "quantity": 1,
+      "price": 24.99,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

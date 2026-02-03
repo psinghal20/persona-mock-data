@@ -1,0 +1,38 @@
+{
+  "order_id": "WMT-1E502DHK",
+  "persona_id": "persona_014",
+  "store_id": "walmart",
+  "status": "shipped",
+  "created_at": "2026-01-25T09:49:30",
+  "shipped_at": "2026-01-26T09:49:30",
+  "delivered_at": "",
+  "shipping_address": "888 Design District Ln, San Francisco, CA 94102",
+  "items": [
+    {
+      "product_id": "WMT00002156",
+      "name": "Fashion Forward Polyester Leather Jacket",
+      "category": "Clothing",
+      "quantity": 4,
+      "price": 278.54,
+      "subtotal": 1114.16
+    },
+    {
+      "product_id": "WMT00001790",
+      "name": "Old Fashioned Donut",
+      "category": "Bakery",
+      "quantity": 1,
+      "price": 2.54,
+      "subtotal": 2.54
+    },
+    {
+      "product_id": "WMT00001240",
+      "name": "Spirograph Spirograph Deluxe Set",
+      "category": "Toys",
+      "quantity": 3,
+      "price": 31.02,
+      "subtotal": 93.06
+    }
+  ],
+  "total": 1209.76,
+  "currency": "USD"
+}

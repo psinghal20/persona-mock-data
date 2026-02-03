@@ -1,0 +1,26 @@
+{
+  "order_id": "TOUR-32",
+  "persona_id": "persona_009",
+  "store_id": "zillow",
+  "type": "tour",
+  "status": "scheduled",
+  "scheduled_time": "2025-11-12T14:00:00",
+  "notes": "Checking the neighborhood",
+  "items": [
+    {
+      "product_id": "66",
+      "name": "123 Portland Pearl District",
+      "address": "123 Portland Pearl District",
+      "city": "",
+      "price": 725000.0,
+      "bedrooms": "",
+      "bathrooms": "",
+      "sqft": "",
+      "home_type": "",
+      "quantity": 1,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

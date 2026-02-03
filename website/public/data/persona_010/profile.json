@@ -1,0 +1,280 @@
+{
+  "id": "persona_010",
+  "name": "Sophie Laurent",
+  "initials": "SL",
+  "demographics": {
+    "age_group": "middle-aged",
+    "gender": "female",
+    "ethnicity": "French-American",
+    "marital_status": "married",
+    "family_role": "mother"
+  },
+  "professional": {
+    "profession": "pastry chef / bakery owner",
+    "industry": "food service",
+    "experience_level": "experienced"
+  },
+  "location": {
+    "city": "New Orleans",
+    "region": "Louisiana",
+    "country": "USA",
+    "address": "321 French Quarter Ave, New Orleans, LA 70116"
+  },
+  "personality_traits": [
+    "creative",
+    "passionate",
+    "hardworking"
+  ],
+  "interests": [
+    "baking",
+    "pastry",
+    "art",
+    "jazz",
+    "cuisine",
+    "cooking",
+    "kitchen",
+    "French",
+    "gourmet"
+  ],
+  "summary": "You are Sophie Laurent, an experienced pastry chef who owns a French bakery in New Orleans. You're a middle-aged French-American woman, married with children, who trained in Paris before moving to Louisiana for love. You're creative, passionate, and hardworking\u2014often putting in long hours. You value quality, tradition, and locally-sourced ingredients. You've blended French technique with Southern flavors. You dream of opening a second location and writing a cookbook. You worry about rising costs and finding time for family.",
+  "stores": [
+    {
+      "id": "amazon",
+      "name": "Amazon",
+      "item_count": 77,
+      "total_spent": 130752.22,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 77,
+          "total_spent": 130752.22,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "walmart",
+      "name": "Walmart",
+      "item_count": 62,
+      "total_spent": 59353.23,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 62,
+          "total_spent": 59353.23,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "bakery",
+      "name": "Bakery",
+      "item_count": 51,
+      "total_spent": 904.39,
+      "transaction_type": "purchases",
+      "transaction_label": "purchases",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "purchases",
+          "name": "Purchases",
+          "type": "purchases",
+          "item_count": 44,
+          "total_spent": 470.39,
+          "has_cost": true
+        },
+        {
+          "id": "preorders",
+          "name": "Custom Cake Preorders",
+          "type": "preorders",
+          "item_count": 7,
+          "total_spent": 434.0,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "grocery",
+      "name": "Grocery",
+      "item_count": 47,
+      "total_spent": 11250.61,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 47,
+          "total_spent": 11250.61,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "electronics_store",
+      "name": "Electronics Store",
+      "item_count": 37,
+      "total_spent": 49314.42,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 37,
+          "total_spent": 49314.42,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "fashion",
+      "name": "Fashion",
+      "item_count": 33,
+      "total_spent": 12066.8,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 33,
+          "total_spent": 12066.8,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "sephora",
+      "name": "Sephora",
+      "item_count": 29,
+      "total_spent": 4575.81,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 29,
+          "total_spent": 4575.81,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "coffee_roaster",
+      "name": "Coffee Roaster",
+      "item_count": 25,
+      "total_spent": 1169.46,
+      "transaction_type": "purchases",
+      "transaction_label": "purchases",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "purchases",
+          "name": "Purchases",
+          "type": "purchases",
+          "item_count": 21,
+          "total_spent": 1036.5,
+          "has_cost": true
+        },
+        {
+          "id": "subscriptions",
+          "name": "Subscriptions",
+          "type": "subscriptions",
+          "item_count": 4,
+          "total_spent": 132.96,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "florist",
+      "name": "Florist",
+      "item_count": 23,
+      "total_spent": 2459.49,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 21,
+          "total_spent": 2244.51,
+          "has_cost": true
+        },
+        {
+          "id": "subscriptions",
+          "name": "Subscriptions",
+          "type": "subscriptions",
+          "item_count": 2,
+          "total_spent": 214.98,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "perfume_shop",
+      "name": "Perfume Shop",
+      "item_count": 18,
+      "total_spent": 3295.0,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 18,
+          "total_spent": 3295.0,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "furniture_store",
+      "name": "Furniture Store",
+      "item_count": 14,
+      "total_spent": 17849.82,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 14,
+          "total_spent": 17849.82,
+          "has_cost": true
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total_orders": 416,
+    "total_spent": 292991.25,
+    "stores_count": 11
+  }
+}

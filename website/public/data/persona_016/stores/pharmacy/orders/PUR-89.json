@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-89",
+  "persona_id": "persona_016",
+  "store_id": "pharmacy",
+  "status": "completed",
+  "created_at": "2025-10-23T02:00:24",
+  "items": [
+    {
+      "product_id": "256",
+      "name": "CoQ10",
+      "category": "Vitamins",
+      "quantity": 1,
+      "price": 29.99,
+      "subtotal": 29.99
+    }
+  ],
+  "total": 29.99,
+  "currency": "USD"
+}

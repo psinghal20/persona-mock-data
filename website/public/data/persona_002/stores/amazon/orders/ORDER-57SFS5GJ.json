@@ -1,0 +1,38 @@
+{
+  "order_id": "ORDER-57SFS5GJ",
+  "persona_id": "persona_002",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-11-21T08:02:23",
+  "shipped_at": "2025-11-23T08:02:23",
+  "delivered_at": "2025-11-26T08:02:23",
+  "shipping_address": "456 Tech Park Drive, San Jose, CA 95110",
+  "items": [
+    {
+      "product_id": "B0AMZN1781",
+      "name": "Logitech MX Ergo Trackball",
+      "category": "Electronics",
+      "quantity": 2,
+      "price": 99.99,
+      "subtotal": 199.98
+    },
+    {
+      "product_id": "B0B8GK880K",
+      "name": "Native Union Drop XL Wireless Charger",
+      "category": "Electronics",
+      "quantity": 3,
+      "price": 89.99,
+      "subtotal": 269.97
+    },
+    {
+      "product_id": "B0ELEC0103",
+      "name": "Keychron Keychron Q1 Pro Keyboard",
+      "category": "Electronics",
+      "quantity": 2,
+      "price": 207.3,
+      "subtotal": 414.6
+    }
+  ],
+  "total": 884.55,
+  "currency": "USD"
+}

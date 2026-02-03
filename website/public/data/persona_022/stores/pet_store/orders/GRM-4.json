@@ -1,0 +1,25 @@
+{
+  "order_id": "GRM-4",
+  "persona_id": "persona_022",
+  "store_id": "pet_store",
+  "type": "grooming",
+  "status": "completed",
+  "appointment_date": "2026-01-20",
+  "appointment_time": "13:00",
+  "items": [
+    {
+      "product_id": "GRM016",
+      "name": "Full Grooming Package",
+      "description": "Bath brush nail trim ear cleaning and sanitary trim",
+      "pet_name": "Whiskers",
+      "pet_type": "Cats",
+      "pet_breed": "Maine Coon",
+      "duration_minutes": "90",
+      "quantity": 1,
+      "price": 75.0,
+      "subtotal": 75.0
+    }
+  ],
+  "total": 75.0,
+  "currency": "USD"
+}

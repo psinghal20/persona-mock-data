@@ -1,0 +1,26 @@
+{
+  "order_id": "TOUR-17",
+  "persona_id": "persona_014",
+  "store_id": "zillow",
+  "type": "tour",
+  "status": "cancelled",
+  "scheduled_time": "2026-01-06T10:00:00",
+  "notes": "Second viewing",
+  "items": [
+    {
+      "product_id": "3003",
+      "name": "2399 Sunset Road Unit 3369",
+      "address": "2399 Sunset Road Unit 3369",
+      "city": "",
+      "price": 433001.0,
+      "bedrooms": "",
+      "bathrooms": "",
+      "sqft": "",
+      "home_type": "",
+      "quantity": 1,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

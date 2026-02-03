@@ -1,0 +1,22 @@
+{
+  "order_id": "ORDER-BD7HTS19",
+  "persona_id": "persona_027",
+  "store_id": "amazon",
+  "status": "shipped",
+  "created_at": "2026-01-15T16:21:17",
+  "shipped_at": "2026-01-17T16:21:17",
+  "delivered_at": "",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "items": [
+    {
+      "product_id": "B0AMZN1319",
+      "name": "Blink Outdoor 4 Camera System",
+      "category": "Electronics",
+      "quantity": 2,
+      "price": 259.99,
+      "subtotal": 519.98
+    }
+  ],
+  "total": 519.98,
+  "currency": "USD"
+}

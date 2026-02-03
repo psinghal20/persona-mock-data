@@ -1,0 +1,22 @@
+{
+  "order_id": "SUB-10",
+  "persona_id": "persona_010",
+  "store_id": "florist",
+  "type": "subscription",
+  "status": "active",
+  "created_at": "2025-12-17T23:18:51",
+  "items": [
+    {
+      "product_id": "plan-10",
+      "name": "Luxury Collection",
+      "description": "Monthly delivery - Roses Only",
+      "recipient": "Sophie Laurent",
+      "next_delivery": "2026-01-16",
+      "quantity": 1,
+      "price": 149.99,
+      "subtotal": 149.99
+    }
+  ],
+  "total": 149.99,
+  "currency": "USD"
+}

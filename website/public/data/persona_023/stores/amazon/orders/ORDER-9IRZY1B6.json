@@ -1,0 +1,22 @@
+{
+  "order_id": "ORDER-9IRZY1B6",
+  "persona_id": "persona_023",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-10-16T23:48:54",
+  "shipped_at": "2025-10-18T23:48:54",
+  "delivered_at": "2025-10-21T23:48:54",
+  "shipping_address": "777 East Side Ave, Cleveland, OH 44114",
+  "items": [
+    {
+      "product_id": "B0BCGHX34K",
+      "name": "Amazon Smart Thermostat",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 79.99,
+      "subtotal": 79.99
+    }
+  ],
+  "total": 79.99,
+  "currency": "USD"
+}

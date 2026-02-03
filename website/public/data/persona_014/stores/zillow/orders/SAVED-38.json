@@ -1,0 +1,26 @@
+{
+  "order_id": "SAVED-38",
+  "persona_id": "persona_014",
+  "store_id": "zillow",
+  "type": "saved_property",
+  "status": "saved",
+  "created_at": "2025-11-28T19:48:54",
+  "notes": "Good schools nearby",
+  "items": [
+    {
+      "product_id": "17",
+      "name": "890 Lake Shore Drive Unit 3201",
+      "address": "890 Lake Shore Drive Unit 3201",
+      "city": "",
+      "price": 2450000.0,
+      "bedrooms": "",
+      "bathrooms": "",
+      "sqft": "",
+      "home_type": "",
+      "quantity": 1,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

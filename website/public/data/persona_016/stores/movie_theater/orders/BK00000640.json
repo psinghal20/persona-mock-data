@@ -1,0 +1,23 @@
+{
+  "order_id": "BK00000640",
+  "persona_id": "persona_016",
+  "store_id": "movie_theater",
+  "type": "booking",
+  "status": "confirmed",
+  "created_at": "2026-01-10T14:03:36",
+  "confirmation_code": "AMC-9OPDQ6",
+  "items": [
+    {
+      "product_id": "MOV038",
+      "name": "The Holdovers",
+      "showtime": "",
+      "theater": "",
+      "seats": "E13,E14,E15",
+      "quantity": 3,
+      "price": 21.99,
+      "subtotal": 65.97
+    }
+  ],
+  "total": 65.97,
+  "currency": "USD"
+}

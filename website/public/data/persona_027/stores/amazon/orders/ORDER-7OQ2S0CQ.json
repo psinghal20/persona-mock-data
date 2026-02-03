@@ -1,0 +1,22 @@
+{
+  "order_id": "ORDER-7OQ2S0CQ",
+  "persona_id": "persona_027",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-10-03T22:10:52",
+  "shipped_at": "2025-10-06T22:10:52",
+  "delivered_at": "2025-10-11T22:10:52",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "items": [
+    {
+      "product_id": "B0TOYS0043",
+      "name": "Barbie Barbie Fashionistas Doll Pack",
+      "category": "Toys & Games",
+      "quantity": 3,
+      "price": 46.04,
+      "subtotal": 138.12
+    }
+  ],
+  "total": 138.12,
+  "currency": "USD"
+}

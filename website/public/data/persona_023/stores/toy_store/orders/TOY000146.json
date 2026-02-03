@@ -1,0 +1,38 @@
+{
+  "order_id": "TOY000146",
+  "persona_id": "persona_023",
+  "store_id": "toy_store",
+  "status": "delivered",
+  "created_at": "2026-01-07T02:27:01",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "777 East Side Ave, Cleveland, OH 44114",
+  "items": [
+    {
+      "product_id": "TOY-217",
+      "name": "Tamagotchi Pix",
+      "category": "Electronics & Tech",
+      "quantity": 1,
+      "price": 59.99,
+      "subtotal": 59.99
+    },
+    {
+      "product_id": "TOY-042",
+      "name": "Sphero Mini Robot Ball",
+      "category": "Electronics & Tech",
+      "quantity": 1,
+      "price": 49.99,
+      "subtotal": 49.99
+    },
+    {
+      "product_id": "TOY-268",
+      "name": "Klutz Maker Lab Circuit",
+      "category": "Science & Discovery",
+      "quantity": 1,
+      "price": 24.99,
+      "subtotal": 24.99
+    }
+  ],
+  "total": 134.97,
+  "currency": "USD"
+}

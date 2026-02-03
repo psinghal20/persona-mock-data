@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-166",
+  "persona_id": "persona_009",
+  "store_id": "bookstore",
+  "status": "completed",
+  "created_at": "2025-10-15T17:54:40",
+  "items": [
+    {
+      "product_id": "101",
+      "name": "The Secret History",
+      "category": "Literary Thriller",
+      "quantity": 1,
+      "price": 18.99,
+      "subtotal": 18.99
+    }
+  ],
+  "total": 18.99,
+  "currency": "USD"
+}

@@ -1,0 +1,26 @@
+{
+  "order_id": "TOUR-3",
+  "persona_id": "USR001",
+  "store_id": "zillow",
+  "type": "tour",
+  "status": "completed",
+  "scheduled_time": "2025-01-18T11:00:00",
+  "notes": "Great property - considering making an offer",
+  "items": [
+    {
+      "product_id": "5",
+      "name": "567 Marina Boulevard",
+      "address": "567 Marina Boulevard",
+      "city": "",
+      "price": 2950000.0,
+      "bedrooms": "",
+      "bathrooms": "",
+      "sqft": "",
+      "home_type": "",
+      "quantity": 1,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

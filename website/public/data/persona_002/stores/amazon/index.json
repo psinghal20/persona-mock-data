@@ -1,0 +1,1329 @@
+{
+  "persona_id": "persona_002",
+  "store_id": "amazon",
+  "store_name": "Amazon",
+  "transaction_type": "orders",
+  "transaction_label": "orders",
+  "has_cost": true,
+  "summary": {
+    "total_count": 81,
+    "total_spent": 90174.51,
+    "first_date": "2025-10-01",
+    "last_date": "2026-01-23"
+  },
+  "items": [
+    {
+      "order_id": "ORDER-WRGTXUYH",
+      "status": "pending",
+      "total": 471.63,
+      "item_count": 2,
+      "created_at": "2026-01-23T08:24:30",
+      "item_preview": "Samsung Samsung 45W USB-C Charger, Logitech MX Master 3S Wireless Mouse"
+    },
+    {
+      "order_id": "ORDER-W8ITUAGK",
+      "status": "delivered",
+      "total": 6638.89,
+      "item_count": 2,
+      "created_at": "2026-01-21T12:09:20",
+      "item_preview": "ASUS ROG Zephyrus G16 Gaming Laptop, Corsair Corsair K100 RGB Keyboard"
+    },
+    {
+      "order_id": "ORDER-ZCT3W7WL",
+      "status": "shipped",
+      "total": 290.49,
+      "item_count": 2,
+      "created_at": "2026-01-19T19:21:52",
+      "item_preview": "Corsair MP700 SSD, Samsung Samsung 45W USB-C Charger"
+    },
+    {
+      "order_id": "ORDER-P7IP9W9Z",
+      "status": "delivered",
+      "total": 2228.3,
+      "item_count": 1,
+      "created_at": "2026-01-19T01:57:28",
+      "item_preview": "\"LG LG 48\"\" OLED C4\""
+    },
+    {
+      "order_id": "ORDER-5D5TEVD8",
+      "status": "delivered",
+      "total": 1067.49,
+      "item_count": 3,
+      "created_at": "2026-01-18T23:31:40",
+      "item_preview": "Montech Sky Two PC Case, Samsung 45W Super Fast Charger 2.0, ..."
+    },
+    {
+      "order_id": "ORDER-YW5FV3GN",
+      "status": "delivered",
+      "total": 2791.92,
+      "item_count": 3,
+      "created_at": "2026-01-18T22:11:01",
+      "item_preview": "ASUS ROG Strix B550-F Gaming WiFi II Motherboard, Eizo Eizo ColorEdge CG2700S, ..."
+    },
+    {
+      "order_id": "ORDER-2Y4EN6I0",
+      "status": "shipped",
+      "total": 281.81,
+      "item_count": 2,
+      "created_at": "2026-01-14T18:41:22",
+      "item_preview": "Samsung Samsung 65W Trio Charger, Logitech MX Ergo Trackball"
+    },
+    {
+      "order_id": "ORDER-B9RNQVH4",
+      "status": "pending",
+      "total": 835.13,
+      "item_count": 4,
+      "created_at": "2026-01-14T05:22:39",
+      "item_preview": "Anker USB-C Hub 7-in-1, ADATA Legend 970 SSD, ..."
+    },
+    {
+      "order_id": "ORDER-3P3FHXR8",
+      "status": "delivered",
+      "total": 2143.6,
+      "item_count": 4,
+      "created_at": "2026-01-13T10:48:38",
+      "item_preview": "Logitech G Pro X Superlight, PlayStation 5 Console, ..."
+    },
+    {
+      "order_id": "ORDER-4K3APR74",
+      "status": "delivered",
+      "total": 126.52,
+      "item_count": 1,
+      "created_at": "2026-01-12T17:50:54",
+      "item_preview": "Ugreen Ugreen USB-C Hub 9-in-1"
+    },
+    {
+      "order_id": "ORDER-6KCQWN3L",
+      "status": "delivered",
+      "total": 1628.74,
+      "item_count": 2,
+      "created_at": "2026-01-12T09:52:42",
+      "item_preview": "WD Red SN700 SSD, CyberPowerPC CyberPowerPC Gamer Xtreme"
+    },
+    {
+      "order_id": "ORDER-GWKU7VLM",
+      "status": "delivered",
+      "total": 768.88,
+      "item_count": 4,
+      "created_at": "2026-01-12T03:32:51",
+      "item_preview": "Noctua NH-D15 chromax.black, Logitech G Pro X Superlight, ..."
+    },
+    {
+      "order_id": "ORDER-XCL53K6A",
+      "status": "delivered",
+      "total": 2581.05,
+      "item_count": 2,
+      "created_at": "2026-01-11T08:24:33",
+      "item_preview": "ASUS ASUS ROG Strix G16 Desktop, Keychron Q1 Pro"
+    },
+    {
+      "order_id": "ORDER-LD2B54TI",
+      "status": "cancelled",
+      "total": 295.0,
+      "item_count": 1,
+      "created_at": "2026-01-10T09:15:23",
+      "item_preview": "HHKB Professional Hybrid"
+    },
+    {
+      "order_id": "ORDER-RLQC69MF",
+      "status": "delivered",
+      "total": 199.98,
+      "item_count": 1,
+      "created_at": "2026-01-09T20:54:47",
+      "item_preview": "Logitech MX Master 3S Wireless Mouse"
+    },
+    {
+      "order_id": "ORDER-ZTSFUI8N",
+      "status": "delivered",
+      "total": 188.76,
+      "item_count": 1,
+      "created_at": "2026-01-09T12:15:02",
+      "item_preview": "ASUS TUF Gaming B760-Plus WiFi D4 Motherboard"
+    },
+    {
+      "order_id": "ORDER-38FVY1RA",
+      "status": "delivered",
+      "total": 71.98,
+      "item_count": 1,
+      "created_at": "2026-01-08T23:57:20",
+      "item_preview": "Anker USB-C Hub 7-in-1"
+    },
+    {
+      "order_id": "ORDER-61P8UCE9",
+      "status": "cancelled",
+      "total": 1089.91,
+      "item_count": 4,
+      "created_at": "2026-01-08T04:22:32",
+      "item_preview": "CableMod Pro ModMesh Sleeved Cable Kit, Razer Huntsman V2, ..."
+    },
+    {
+      "order_id": "ORDER-MNIIKS38",
+      "status": "pending",
+      "total": 1753.07,
+      "item_count": 4,
+      "created_at": "2026-01-04T07:02:00",
+      "item_preview": "Glorious PC Gaming Wrist Rest, Logitech MX Master 3S Wireless Mouse, ..."
+    },
+    {
+      "order_id": "ORDER-BIY25F96",
+      "status": "delivered",
+      "total": 318.0,
+      "item_count": 1,
+      "created_at": "2025-12-31T22:18:46",
+      "item_preview": "Nespresso Vertuo Next Coffee Machine"
+    },
+    {
+      "order_id": "ORDER-X7NO4OMZ",
+      "status": "delivered",
+      "total": 5405.62,
+      "item_count": 2,
+      "created_at": "2025-12-31T04:34:20",
+      "item_preview": "WD Black SN850X 2TB, MSI Gaming X Trio RTX 4090 Graphics Card"
+    },
+    {
+      "order_id": "ORDER-WE30B790",
+      "status": "delivered",
+      "total": 333.2,
+      "item_count": 1,
+      "created_at": "2025-12-30T05:24:22",
+      "item_preview": "Seagate FireCuda 530 SSD"
+    },
+    {
+      "order_id": "ORDER-5ZYNBSJJ",
+      "status": "delivered",
+      "total": 2725.09,
+      "item_count": 4,
+      "created_at": "2025-12-27T00:09:03",
+      "item_preview": "Sabrent Rocket 4 Plus SSD, SanDisk Extreme Pro 4TB, ..."
+    },
+    {
+      "order_id": "ORDER-UEQMFXEZ",
+      "status": "delivered",
+      "total": 269.77,
+      "item_count": 2,
+      "created_at": "2025-12-26T17:52:59",
+      "item_preview": "Glorious Model O 2, Ugreen Ugreen USB-C Hub 9-in-1"
+    },
+    {
+      "order_id": "ORDER-KGAL1JJA",
+      "status": "delivered",
+      "total": 99.99,
+      "item_count": 1,
+      "created_at": "2025-12-24T12:35:14",
+      "item_preview": "Logitech MX Master 3S Mouse"
+    },
+    {
+      "order_id": "ORDER-R0A34NE0",
+      "status": "delivered",
+      "total": 755.97,
+      "item_count": 3,
+      "created_at": "2025-12-22T11:11:54",
+      "item_preview": "Artisan FX Zero XL, Apple MagSafe Charger, ..."
+    },
+    {
+      "order_id": "ORDER-BOH33ECL",
+      "status": "delivered",
+      "total": 199.0,
+      "item_count": 1,
+      "created_at": "2025-12-21T11:12:58",
+      "item_preview": "Keychron Q1 Pro Mechanical Keyboard"
+    },
+    {
+      "order_id": "ORDER-Q8IE0644",
+      "status": "delivered",
+      "total": 311.45,
+      "item_count": 2,
+      "created_at": "2025-12-18T13:44:06",
+      "item_preview": "Logitech MX Master 3S Mouse, WD Black SN770M SSD"
+    },
+    {
+      "order_id": "ORDER-8AI0I7JC",
+      "status": "delivered",
+      "total": 149.99,
+      "item_count": 1,
+      "created_at": "2025-12-18T13:22:34",
+      "item_preview": "Belkin 3-in-1 Wireless Charger (MagSafe)"
+    },
+    {
+      "order_id": "ORDER-L03J42V0",
+      "status": "delivered",
+      "total": 650.34,
+      "item_count": 2,
+      "created_at": "2025-12-15T21:24:47",
+      "item_preview": "ASUS TUF Gaming 750B Power Supply, Samsung 870 EVO SSD"
+    },
+    {
+      "order_id": "ORDER-4V9NQINU",
+      "status": "delivered",
+      "total": 962.84,
+      "item_count": 3,
+      "created_at": "2025-12-15T15:12:32",
+      "item_preview": "Samsung Samsung 45W USB-C Charger, Structure and Interpretation of Computer Programs by Harold Abelson, ..."
+    },
+    {
+      "order_id": "ORDER-0RYT4DCF",
+      "status": "delivered",
+      "total": 7790.49,
+      "item_count": 4,
+      "created_at": "2025-12-13T13:30:40",
+      "item_preview": "Lenovo Lenovo ThinkBook 14s Gen 4, ADATA Legend 970 SSD, ..."
+    },
+    {
+      "order_id": "ORDER-UL6827RR",
+      "status": "delivered",
+      "total": 1533.17,
+      "item_count": 2,
+      "created_at": "2025-12-13T08:14:21",
+      "item_preview": "Seagate FireCuda 530 SSD, CalDigit TS4 Thunderbolt 4 Dock"
+    },
+    {
+      "order_id": "ORDER-0Z5KFOKM",
+      "status": "pending",
+      "total": 531.93,
+      "item_count": 3,
+      "created_at": "2025-12-13T05:00:38",
+      "item_preview": "ASUS ROG Strix B550-F Gaming WiFi II Motherboard, WD Blue SN580 SSD, ..."
+    },
+    {
+      "order_id": "ORDER-7A184JML",
+      "status": "delivered",
+      "total": 2413.3,
+      "item_count": 2,
+      "created_at": "2025-12-12T17:32:33",
+      "item_preview": "Lenovo ThinkPad X1 Carbon Gen 11, Crucial P3 Plus SSD"
+    },
+    {
+      "order_id": "ORDER-ZJW1KJXO",
+      "status": "delivered",
+      "total": 278.0,
+      "item_count": 2,
+      "created_at": "2025-12-08T23:43:52",
+      "item_preview": "Ergotron LX Desk Monitor Arm, Apple 140W USB-C Power Adapter"
+    },
+    {
+      "order_id": "ORDER-Q6MUI89Q",
+      "status": "delivered",
+      "total": 275.07,
+      "item_count": 2,
+      "created_at": "2025-12-04T15:21:01",
+      "item_preview": "UGREEN HDMI 2.1 Cable 6ft, Sabrent Rocket 2230 SSD"
+    },
+    {
+      "order_id": "ORDER-ZTOUJLX3",
+      "status": "cancelled",
+      "total": 417.18,
+      "item_count": 2,
+      "created_at": "2025-12-02T16:53:25",
+      "item_preview": "WD Black SN770M SSD, Logitech MX Ergo Trackball"
+    },
+    {
+      "order_id": "ORDER-97R3CS9E",
+      "status": "delivered",
+      "total": 2419.92,
+      "item_count": 4,
+      "created_at": "2025-11-30T22:09:20",
+      "item_preview": "Kensington Expert Mouse Trackball, ASUS ROG Maximus Z790 Hero, ..."
+    },
+    {
+      "order_id": "ORDER-T0YQBD27",
+      "status": "delivered",
+      "total": 49.99,
+      "item_count": 1,
+      "created_at": "2025-11-30T16:43:26",
+      "item_preview": "Samsung 45W Super Fast Charger 2.0"
+    },
+    {
+      "order_id": "ORDER-X47WPFB5",
+      "status": "delivered",
+      "total": 1091.53,
+      "item_count": 2,
+      "created_at": "2025-11-30T00:22:41",
+      "item_preview": "Wooting 60HE, ADATA Legend 970 SSD"
+    },
+    {
+      "order_id": "ORDER-8NC1LYR9",
+      "status": "shipped",
+      "total": 1080.21,
+      "item_count": 4,
+      "created_at": "2025-11-27T18:04:27",
+      "item_preview": "ADATA Legend 970 SSD, Corsair MP700 SSD, ..."
+    },
+    {
+      "order_id": "ORDER-XYO7816U",
+      "status": "pending",
+      "total": 49.99,
+      "item_count": 1,
+      "created_at": "2025-11-25T09:55:20",
+      "item_preview": "UGREEN USB-C Hub 10-in-1"
+    },
+    {
+      "order_id": "ORDER-BRP688B8",
+      "status": "delivered",
+      "total": 929.74,
+      "item_count": 3,
+      "created_at": "2025-11-25T02:35:15",
+      "item_preview": "AmazonBasics Single Monitor Stand, Samsung Samsung Smart Monitor M8, ..."
+    },
+    {
+      "order_id": "ORDER-BCEZVPYH",
+      "status": "delivered",
+      "total": 398.0,
+      "item_count": 1,
+      "created_at": "2025-11-24T23:01:55",
+      "item_preview": "Keychron Q1 Pro"
+    },
+    {
+      "order_id": "ORDER-IH0B0D4Z",
+      "status": "delivered",
+      "total": 827.92,
+      "item_count": 4,
+      "created_at": "2025-11-23T16:25:36",
+      "item_preview": "Razer DeathAdder V3 Pro, UGREEN HDMI 2.1 Cable 6ft, ..."
+    },
+    {
+      "order_id": "ORDER-JF2K06UG",
+      "status": "delivered",
+      "total": 458.9,
+      "item_count": 2,
+      "created_at": "2025-11-22T01:39:56",
+      "item_preview": "Nuphy Air75, Ergotron LX Desk Monitor Arm"
+    },
+    {
+      "order_id": "ORDER-57SFS5GJ",
+      "status": "delivered",
+      "total": 884.55,
+      "item_count": 3,
+      "created_at": "2025-11-21T08:02:23",
+      "item_preview": "Logitech MX Ergo Trackball, Native Union Drop XL Wireless Charger, ..."
+    },
+    {
+      "order_id": "ORDER-OH3NM5CS",
+      "status": "delivered",
+      "total": 49.99,
+      "item_count": 1,
+      "created_at": "2025-11-19T13:32:54",
+      "item_preview": "Samsung 45W Super Fast Charger 2.0"
+    },
+    {
+      "order_id": "ORDER-Y9FHE3ZL",
+      "status": "delivered",
+      "total": 326.17,
+      "item_count": 2,
+      "created_at": "2025-11-18T05:27:43",
+      "item_preview": "TeamGroup T-Force Cardea A440 Pro SSD, Anker Anker 735 Charger GaNPrime 65W"
+    },
+    {
+      "order_id": "ORDER-T4XSRBK6",
+      "status": "delivered",
+      "total": 538.49,
+      "item_count": 2,
+      "created_at": "2025-11-17T18:53:24",
+      "item_preview": "Logitech MX Keys S Keyboard, Apple Apple Magic Mouse"
+    },
+    {
+      "order_id": "ORDER-NC6XR7XH",
+      "status": "delivered",
+      "total": 115.8,
+      "item_count": 1,
+      "created_at": "2025-11-17T16:12:01",
+      "item_preview": "Seagate Seagate Expansion 4TB HDD"
+    },
+    {
+      "order_id": "ORDER-3CGDEATJ",
+      "status": "cancelled",
+      "total": 573.16,
+      "item_count": 2,
+      "created_at": "2025-11-16T12:44:42",
+      "item_preview": "Whoop 4.0, HyperX HyperX Alloy Origins Core"
+    },
+    {
+      "order_id": "ORDER-V1RPQ07Z",
+      "status": "shipped",
+      "total": 702.25,
+      "item_count": 3,
+      "created_at": "2025-11-15T14:45:48",
+      "item_preview": "LG LG 27UK850-W, Mophie Powerstation XXL 20000mAh, ..."
+    },
+    {
+      "order_id": "ORDER-5K4QODKX",
+      "status": "delivered",
+      "total": 832.34,
+      "item_count": 1,
+      "created_at": "2025-11-13T15:23:47",
+      "item_preview": "ASUS ROG Strix Z790-E Gaming WiFi Motherboard"
+    },
+    {
+      "order_id": "ORDER-EC2G7E2W",
+      "status": "delivered",
+      "total": 757.84,
+      "item_count": 4,
+      "created_at": "2025-11-13T12:04:17",
+      "item_preview": "Silicon Power US75 SSD, Crucial X9 Pro 2TB, ..."
+    },
+    {
+      "order_id": "ORDER-0F44D1GJ",
+      "status": "shipped",
+      "total": 7279.71,
+      "item_count": 1,
+      "created_at": "2025-11-13T10:02:26",
+      "item_preview": "MSI MSI Stealth 16 Studio"
+    },
+    {
+      "order_id": "ORDER-TC8E298A",
+      "status": "delivered",
+      "total": 1204.15,
+      "item_count": 4,
+      "created_at": "2025-11-13T09:59:15",
+      "item_preview": "Samsung 983 DCT SSD, Crucial MX500 2TB, ..."
+    },
+    {
+      "order_id": "ORDER-S4NE40SW",
+      "status": "delivered",
+      "total": 2573.0,
+      "item_count": 2,
+      "created_at": "2025-11-12T14:11:07",
+      "item_preview": "ASUS ASUS ROG Strix G16 Desktop, ASUS ROG Strix Z790-I Gaming WiFi Motherboard"
+    },
+    {
+      "order_id": "ORDER-02DKKUVJ",
+      "status": "delivered",
+      "total": 634.16,
+      "item_count": 2,
+      "created_at": "2025-11-10T23:48:11",
+      "item_preview": "Gigabyte AORUS Gen4 7300 SSD, Samsung Samsung 45W USB-C Charger"
+    },
+    {
+      "order_id": "ORDER-TZVH32EI",
+      "status": "delivered",
+      "total": 264.43,
+      "item_count": 2,
+      "created_at": "2025-11-09T02:02:48",
+      "item_preview": "Belkin 3-in-1 Wireless Charger (MagSafe), Samsung Samsung 45W USB-C Charger"
+    },
+    {
+      "order_id": "ORDER-DD2V7CMF",
+      "status": "delivered",
+      "total": 683.98,
+      "item_count": 2,
+      "created_at": "2025-11-07T14:38:49",
+      "item_preview": "ADATA Legend 970 SSD, Turtle Beach Turtle Beach Stealth 700 Gen 2 Max"
+    },
+    {
+      "order_id": "ORDER-LBRPTKLD",
+      "status": "shipped",
+      "total": 890.04,
+      "item_count": 2,
+      "created_at": "2025-11-06T00:32:06",
+      "item_preview": "Sabrent Rocket 4 Plus SSD, ASUS ROG Strix X670E-E Gaming WiFi Motherboard"
+    },
+    {
+      "order_id": "ORDER-KN6WZC7E",
+      "status": "delivered",
+      "total": 317.19,
+      "item_count": 1,
+      "created_at": "2025-11-04T20:41:08",
+      "item_preview": "WD Black SN770M SSD"
+    },
+    {
+      "order_id": "ORDER-RZ40RZXX",
+      "status": "shipped",
+      "total": 320.43,
+      "item_count": 2,
+      "created_at": "2025-11-04T05:31:45",
+      "item_preview": "Anker 521 Magnetic Battery 5000mAh, TeamGroup T-Force Cardea A440 Pro SSD"
+    },
+    {
+      "order_id": "ORDER-7T8ORZTY",
+      "status": "shipped",
+      "total": 346.5,
+      "item_count": 2,
+      "created_at": "2025-10-31T21:34:12",
+      "item_preview": "Ugreen Ugreen USB-C Hub 9-in-1, Logitech MX Keys S Keyboard"
+    },
+    {
+      "order_id": "ORDER-U0QJS87X",
+      "status": "shipped",
+      "total": 211.46,
+      "item_count": 1,
+      "created_at": "2025-10-31T17:30:23",
+      "item_preview": "WD Black SN770M SSD"
+    },
+    {
+      "order_id": "ORDER-DB8SK07P",
+      "status": "cancelled",
+      "total": 994.35,
+      "item_count": 4,
+      "created_at": "2025-10-30T10:48:17",
+      "item_preview": "SanDisk Extreme Pro 4TB, Apple Apple Magic Mouse, ..."
+    },
+    {
+      "order_id": "ORDER-WED0FBSY",
+      "status": "delivered",
+      "total": 701.14,
+      "item_count": 3,
+      "created_at": "2025-10-27T12:25:39",
+      "item_preview": "Apple Apple Magic Mouse, Crucial P3 Plus SSD, ..."
+    },
+    {
+      "order_id": "ORDER-IHGYTPGJ",
+      "status": "delivered",
+      "total": 479.97,
+      "item_count": 1,
+      "created_at": "2025-10-26T00:22:48",
+      "item_preview": "HyperX QuadCast S"
+    },
+    {
+      "order_id": "ORDER-40PNJOJ4",
+      "status": "delivered",
+      "total": 1165.5,
+      "item_count": 2,
+      "created_at": "2025-10-25T12:07:44",
+      "item_preview": "Solidigm P41 Plus SSD, \"LG LG 48\"\" OLED C4\""
+    },
+    {
+      "order_id": "ORDER-S8N54CBP",
+      "status": "delivered",
+      "total": 3155.6,
+      "item_count": 3,
+      "created_at": "2025-10-23T23:48:32",
+      "item_preview": "Anker 521 Magnetic Battery 5000mAh, Gigabyte Gaming OC RTX 4080 Super Graphics Card, ..."
+    },
+    {
+      "order_id": "ORDER-DWJWS45R",
+      "status": "shipped",
+      "total": 124.74,
+      "item_count": 1,
+      "created_at": "2025-10-23T01:31:43",
+      "item_preview": "Lexar NM790 SSD"
+    },
+    {
+      "order_id": "ORDER-JYXSCT94",
+      "status": "delivered",
+      "total": 351.69,
+      "item_count": 2,
+      "created_at": "2025-10-21T23:48:27",
+      "item_preview": "Samsung 990 Pro SSD, PNY CS3140 SSD"
+    },
+    {
+      "order_id": "ORDER-WXST4C54",
+      "status": "delivered",
+      "total": 953.88,
+      "item_count": 2,
+      "created_at": "2025-10-15T23:08:36",
+      "item_preview": "Inland Performance Plus SSD, ASUS ROG Strix Z790-E Gaming WiFi Motherboard"
+    },
+    {
+      "order_id": "ORDER-XHH93L12",
+      "status": "delivered",
+      "total": 1190.27,
+      "item_count": 4,
+      "created_at": "2025-10-09T22:41:19",
+      "item_preview": "HyperX HyperX Alloy Origins Core, Belkin BoostCharge Pro, ..."
+    },
+    {
+      "order_id": "ORDER-QCAV86NG",
+      "status": "delivered",
+      "total": 581.95,
+      "item_count": 2,
+      "created_at": "2025-10-09T01:49:50",
+      "item_preview": "Sabrent Rocket 4 Plus SSD, Kingston KC3000 SSD"
+    },
+    {
+      "order_id": "ORDER-15V9DH1D",
+      "status": "delivered",
+      "total": 1499.93,
+      "item_count": 3,
+      "created_at": "2025-10-07T06:35:15",
+      "item_preview": "Belkin 3-in-1 Wireless Charger (MagSafe), ASUS ROG Strix B650E-F Gaming WiFi, ..."
+    },
+    {
+      "order_id": "ORDER-7QL2D0AT",
+      "status": "pending",
+      "total": 825.26,
+      "item_count": 2,
+      "created_at": "2025-10-03T00:33:51",
+      "item_preview": "Blue Yeti USB Microphone, ASUS ASUS ROG Ally"
+    },
+    {
+      "order_id": "ORDER-1SJCFLV9",
+      "status": "delivered",
+      "total": 281.59,
+      "item_count": 2,
+      "created_at": "2025-10-02T17:07:10",
+      "item_preview": "Samsung 45W Super Fast Charger 2.0, Seagate Seagate Expansion 4TB HDD"
+    },
+    {
+      "order_id": "ORDER-R0OJ2XTM",
+      "status": "delivered",
+      "total": 183.25,
+      "item_count": 2,
+      "created_at": "2025-10-01T14:29:05",
+      "item_preview": "HyperDrive USB-C Hub, Ugreen Ugreen USB-C Hub 9-in-1"
+    }
+  ],
+  "categories": [
+    {
+      "id": "orders",
+      "name": "Orders",
+      "type": "orders",
+      "label": "orders",
+      "has_cost": true,
+      "summary": {
+        "total_count": 81,
+        "total_spent": 90174.51,
+        "first_date": "2025-10-01",
+        "last_date": "2026-01-23"
+      },
+      "items": [
+        {
+          "order_id": "ORDER-WRGTXUYH",
+          "status": "pending",
+          "total": 471.63,
+          "item_count": 2,
+          "created_at": "2026-01-23T08:24:30",
+          "item_preview": "Samsung Samsung 45W USB-C Charger, Logitech MX Master 3S Wireless Mouse"
+        },
+        {
+          "order_id": "ORDER-W8ITUAGK",
+          "status": "delivered",
+          "total": 6638.89,
+          "item_count": 2,
+          "created_at": "2026-01-21T12:09:20",
+          "item_preview": "ASUS ROG Zephyrus G16 Gaming Laptop, Corsair Corsair K100 RGB Keyboard"
+        },
+        {
+          "order_id": "ORDER-ZCT3W7WL",
+          "status": "shipped",
+          "total": 290.49,
+          "item_count": 2,
+          "created_at": "2026-01-19T19:21:52",
+          "item_preview": "Corsair MP700 SSD, Samsung Samsung 45W USB-C Charger"
+        },
+        {
+          "order_id": "ORDER-P7IP9W9Z",
+          "status": "delivered",
+          "total": 2228.3,
+          "item_count": 1,
+          "created_at": "2026-01-19T01:57:28",
+          "item_preview": "\"LG LG 48\"\" OLED C4\""
+        },
+        {
+          "order_id": "ORDER-5D5TEVD8",
+          "status": "delivered",
+          "total": 1067.49,
+          "item_count": 3,
+          "created_at": "2026-01-18T23:31:40",
+          "item_preview": "Montech Sky Two PC Case, Samsung 45W Super Fast Charger 2.0, ..."
+        },
+        {
+          "order_id": "ORDER-YW5FV3GN",
+          "status": "delivered",
+          "total": 2791.92,
+          "item_count": 3,
+          "created_at": "2026-01-18T22:11:01",
+          "item_preview": "ASUS ROG Strix B550-F Gaming WiFi II Motherboard, Eizo Eizo ColorEdge CG2700S, ..."
+        },
+        {
+          "order_id": "ORDER-2Y4EN6I0",
+          "status": "shipped",
+          "total": 281.81,
+          "item_count": 2,
+          "created_at": "2026-01-14T18:41:22",
+          "item_preview": "Samsung Samsung 65W Trio Charger, Logitech MX Ergo Trackball"
+        },
+        {
+          "order_id": "ORDER-B9RNQVH4",
+          "status": "pending",
+          "total": 835.13,
+          "item_count": 4,
+          "created_at": "2026-01-14T05:22:39",
+          "item_preview": "Anker USB-C Hub 7-in-1, ADATA Legend 970 SSD, ..."
+        },
+        {
+          "order_id": "ORDER-3P3FHXR8",
+          "status": "delivered",
+          "total": 2143.6,
+          "item_count": 4,
+          "created_at": "2026-01-13T10:48:38",
+          "item_preview": "Logitech G Pro X Superlight, PlayStation 5 Console, ..."
+        },
+        {
+          "order_id": "ORDER-4K3APR74",
+          "status": "delivered",
+          "total": 126.52,
+          "item_count": 1,
+          "created_at": "2026-01-12T17:50:54",
+          "item_preview": "Ugreen Ugreen USB-C Hub 9-in-1"
+        },
+        {
+          "order_id": "ORDER-6KCQWN3L",
+          "status": "delivered",
+          "total": 1628.74,
+          "item_count": 2,
+          "created_at": "2026-01-12T09:52:42",
+          "item_preview": "WD Red SN700 SSD, CyberPowerPC CyberPowerPC Gamer Xtreme"
+        },
+        {
+          "order_id": "ORDER-GWKU7VLM",
+          "status": "delivered",
+          "total": 768.88,
+          "item_count": 4,
+          "created_at": "2026-01-12T03:32:51",
+          "item_preview": "Noctua NH-D15 chromax.black, Logitech G Pro X Superlight, ..."
+        },
+        {
+          "order_id": "ORDER-XCL53K6A",
+          "status": "delivered",
+          "total": 2581.05,
+          "item_count": 2,
+          "created_at": "2026-01-11T08:24:33",
+          "item_preview": "ASUS ASUS ROG Strix G16 Desktop, Keychron Q1 Pro"
+        },
+        {
+          "order_id": "ORDER-LD2B54TI",
+          "status": "cancelled",
+          "total": 295.0,
+          "item_count": 1,
+          "created_at": "2026-01-10T09:15:23",
+          "item_preview": "HHKB Professional Hybrid"
+        },
+        {
+          "order_id": "ORDER-RLQC69MF",
+          "status": "delivered",
+          "total": 199.98,
+          "item_count": 1,
+          "created_at": "2026-01-09T20:54:47",
+          "item_preview": "Logitech MX Master 3S Wireless Mouse"
+        },
+        {
+          "order_id": "ORDER-ZTSFUI8N",
+          "status": "delivered",
+          "total": 188.76,
+          "item_count": 1,
+          "created_at": "2026-01-09T12:15:02",
+          "item_preview": "ASUS TUF Gaming B760-Plus WiFi D4 Motherboard"
+        },
+        {
+          "order_id": "ORDER-38FVY1RA",
+          "status": "delivered",
+          "total": 71.98,
+          "item_count": 1,
+          "created_at": "2026-01-08T23:57:20",
+          "item_preview": "Anker USB-C Hub 7-in-1"
+        },
+        {
+          "order_id": "ORDER-61P8UCE9",
+          "status": "cancelled",
+          "total": 1089.91,
+          "item_count": 4,
+          "created_at": "2026-01-08T04:22:32",
+          "item_preview": "CableMod Pro ModMesh Sleeved Cable Kit, Razer Huntsman V2, ..."
+        },
+        {
+          "order_id": "ORDER-MNIIKS38",
+          "status": "pending",
+          "total": 1753.07,
+          "item_count": 4,
+          "created_at": "2026-01-04T07:02:00",
+          "item_preview": "Glorious PC Gaming Wrist Rest, Logitech MX Master 3S Wireless Mouse, ..."
+        },
+        {
+          "order_id": "ORDER-BIY25F96",
+          "status": "delivered",
+          "total": 318.0,
+          "item_count": 1,
+          "created_at": "2025-12-31T22:18:46",
+          "item_preview": "Nespresso Vertuo Next Coffee Machine"
+        },
+        {
+          "order_id": "ORDER-X7NO4OMZ",
+          "status": "delivered",
+          "total": 5405.62,
+          "item_count": 2,
+          "created_at": "2025-12-31T04:34:20",
+          "item_preview": "WD Black SN850X 2TB, MSI Gaming X Trio RTX 4090 Graphics Card"
+        },
+        {
+          "order_id": "ORDER-WE30B790",
+          "status": "delivered",
+          "total": 333.2,
+          "item_count": 1,
+          "created_at": "2025-12-30T05:24:22",
+          "item_preview": "Seagate FireCuda 530 SSD"
+        },
+        {
+          "order_id": "ORDER-5ZYNBSJJ",
+          "status": "delivered",
+          "total": 2725.09,
+          "item_count": 4,
+          "created_at": "2025-12-27T00:09:03",
+          "item_preview": "Sabrent Rocket 4 Plus SSD, SanDisk Extreme Pro 4TB, ..."
+        },
+        {
+          "order_id": "ORDER-UEQMFXEZ",
+          "status": "delivered",
+          "total": 269.77,
+          "item_count": 2,
+          "created_at": "2025-12-26T17:52:59",
+          "item_preview": "Glorious Model O 2, Ugreen Ugreen USB-C Hub 9-in-1"
+        },
+        {
+          "order_id": "ORDER-KGAL1JJA",
+          "status": "delivered",
+          "total": 99.99,
+          "item_count": 1,
+          "created_at": "2025-12-24T12:35:14",
+          "item_preview": "Logitech MX Master 3S Mouse"
+        },
+        {
+          "order_id": "ORDER-R0A34NE0",
+          "status": "delivered",
+          "total": 755.97,
+          "item_count": 3,
+          "created_at": "2025-12-22T11:11:54",
+          "item_preview": "Artisan FX Zero XL, Apple MagSafe Charger, ..."
+        },
+        {
+          "order_id": "ORDER-BOH33ECL",
+          "status": "delivered",
+          "total": 199.0,
+          "item_count": 1,
+          "created_at": "2025-12-21T11:12:58",
+          "item_preview": "Keychron Q1 Pro Mechanical Keyboard"
+        },
+        {
+          "order_id": "ORDER-Q8IE0644",
+          "status": "delivered",
+          "total": 311.45,
+          "item_count": 2,
+          "created_at": "2025-12-18T13:44:06",
+          "item_preview": "Logitech MX Master 3S Mouse, WD Black SN770M SSD"
+        },
+        {
+          "order_id": "ORDER-8AI0I7JC",
+          "status": "delivered",
+          "total": 149.99,
+          "item_count": 1,
+          "created_at": "2025-12-18T13:22:34",
+          "item_preview": "Belkin 3-in-1 Wireless Charger (MagSafe)"
+        },
+        {
+          "order_id": "ORDER-L03J42V0",
+          "status": "delivered",
+          "total": 650.34,
+          "item_count": 2,
+          "created_at": "2025-12-15T21:24:47",
+          "item_preview": "ASUS TUF Gaming 750B Power Supply, Samsung 870 EVO SSD"
+        },
+        {
+          "order_id": "ORDER-4V9NQINU",
+          "status": "delivered",
+          "total": 962.84,
+          "item_count": 3,
+          "created_at": "2025-12-15T15:12:32",
+          "item_preview": "Samsung Samsung 45W USB-C Charger, Structure and Interpretation of Computer Programs by Harold Abelson, ..."
+        },
+        {
+          "order_id": "ORDER-0RYT4DCF",
+          "status": "delivered",
+          "total": 7790.49,
+          "item_count": 4,
+          "created_at": "2025-12-13T13:30:40",
+          "item_preview": "Lenovo Lenovo ThinkBook 14s Gen 4, ADATA Legend 970 SSD, ..."
+        },
+        {
+          "order_id": "ORDER-UL6827RR",
+          "status": "delivered",
+          "total": 1533.17,
+          "item_count": 2,
+          "created_at": "2025-12-13T08:14:21",
+          "item_preview": "Seagate FireCuda 530 SSD, CalDigit TS4 Thunderbolt 4 Dock"
+        },
+        {
+          "order_id": "ORDER-0Z5KFOKM",
+          "status": "pending",
+          "total": 531.93,
+          "item_count": 3,
+          "created_at": "2025-12-13T05:00:38",
+          "item_preview": "ASUS ROG Strix B550-F Gaming WiFi II Motherboard, WD Blue SN580 SSD, ..."
+        },
+        {
+          "order_id": "ORDER-7A184JML",
+          "status": "delivered",
+          "total": 2413.3,
+          "item_count": 2,
+          "created_at": "2025-12-12T17:32:33",
+          "item_preview": "Lenovo ThinkPad X1 Carbon Gen 11, Crucial P3 Plus SSD"
+        },
+        {
+          "order_id": "ORDER-ZJW1KJXO",
+          "status": "delivered",
+          "total": 278.0,
+          "item_count": 2,
+          "created_at": "2025-12-08T23:43:52",
+          "item_preview": "Ergotron LX Desk Monitor Arm, Apple 140W USB-C Power Adapter"
+        },
+        {
+          "order_id": "ORDER-Q6MUI89Q",
+          "status": "delivered",
+          "total": 275.07,
+          "item_count": 2,
+          "created_at": "2025-12-04T15:21:01",
+          "item_preview": "UGREEN HDMI 2.1 Cable 6ft, Sabrent Rocket 2230 SSD"
+        },
+        {
+          "order_id": "ORDER-ZTOUJLX3",
+          "status": "cancelled",
+          "total": 417.18,
+          "item_count": 2,
+          "created_at": "2025-12-02T16:53:25",
+          "item_preview": "WD Black SN770M SSD, Logitech MX Ergo Trackball"
+        },
+        {
+          "order_id": "ORDER-97R3CS9E",
+          "status": "delivered",
+          "total": 2419.92,
+          "item_count": 4,
+          "created_at": "2025-11-30T22:09:20",
+          "item_preview": "Kensington Expert Mouse Trackball, ASUS ROG Maximus Z790 Hero, ..."
+        },
+        {
+          "order_id": "ORDER-T0YQBD27",
+          "status": "delivered",
+          "total": 49.99,
+          "item_count": 1,
+          "created_at": "2025-11-30T16:43:26",
+          "item_preview": "Samsung 45W Super Fast Charger 2.0"
+        },
+        {
+          "order_id": "ORDER-X47WPFB5",
+          "status": "delivered",
+          "total": 1091.53,
+          "item_count": 2,
+          "created_at": "2025-11-30T00:22:41",
+          "item_preview": "Wooting 60HE, ADATA Legend 970 SSD"
+        },
+        {
+          "order_id": "ORDER-8NC1LYR9",
+          "status": "shipped",
+          "total": 1080.21,
+          "item_count": 4,
+          "created_at": "2025-11-27T18:04:27",
+          "item_preview": "ADATA Legend 970 SSD, Corsair MP700 SSD, ..."
+        },
+        {
+          "order_id": "ORDER-XYO7816U",
+          "status": "pending",
+          "total": 49.99,
+          "item_count": 1,
+          "created_at": "2025-11-25T09:55:20",
+          "item_preview": "UGREEN USB-C Hub 10-in-1"
+        },
+        {
+          "order_id": "ORDER-BRP688B8",
+          "status": "delivered",
+          "total": 929.74,
+          "item_count": 3,
+          "created_at": "2025-11-25T02:35:15",
+          "item_preview": "AmazonBasics Single Monitor Stand, Samsung Samsung Smart Monitor M8, ..."
+        },
+        {
+          "order_id": "ORDER-BCEZVPYH",
+          "status": "delivered",
+          "total": 398.0,
+          "item_count": 1,
+          "created_at": "2025-11-24T23:01:55",
+          "item_preview": "Keychron Q1 Pro"
+        },
+        {
+          "order_id": "ORDER-IH0B0D4Z",
+          "status": "delivered",
+          "total": 827.92,
+          "item_count": 4,
+          "created_at": "2025-11-23T16:25:36",
+          "item_preview": "Razer DeathAdder V3 Pro, UGREEN HDMI 2.1 Cable 6ft, ..."
+        },
+        {
+          "order_id": "ORDER-JF2K06UG",
+          "status": "delivered",
+          "total": 458.9,
+          "item_count": 2,
+          "created_at": "2025-11-22T01:39:56",
+          "item_preview": "Nuphy Air75, Ergotron LX Desk Monitor Arm"
+        },
+        {
+          "order_id": "ORDER-57SFS5GJ",
+          "status": "delivered",
+          "total": 884.55,
+          "item_count": 3,
+          "created_at": "2025-11-21T08:02:23",
+          "item_preview": "Logitech MX Ergo Trackball, Native Union Drop XL Wireless Charger, ..."
+        },
+        {
+          "order_id": "ORDER-OH3NM5CS",
+          "status": "delivered",
+          "total": 49.99,
+          "item_count": 1,
+          "created_at": "2025-11-19T13:32:54",
+          "item_preview": "Samsung 45W Super Fast Charger 2.0"
+        },
+        {
+          "order_id": "ORDER-Y9FHE3ZL",
+          "status": "delivered",
+          "total": 326.17,
+          "item_count": 2,
+          "created_at": "2025-11-18T05:27:43",
+          "item_preview": "TeamGroup T-Force Cardea A440 Pro SSD, Anker Anker 735 Charger GaNPrime 65W"
+        },
+        {
+          "order_id": "ORDER-T4XSRBK6",
+          "status": "delivered",
+          "total": 538.49,
+          "item_count": 2,
+          "created_at": "2025-11-17T18:53:24",
+          "item_preview": "Logitech MX Keys S Keyboard, Apple Apple Magic Mouse"
+        },
+        {
+          "order_id": "ORDER-NC6XR7XH",
+          "status": "delivered",
+          "total": 115.8,
+          "item_count": 1,
+          "created_at": "2025-11-17T16:12:01",
+          "item_preview": "Seagate Seagate Expansion 4TB HDD"
+        },
+        {
+          "order_id": "ORDER-3CGDEATJ",
+          "status": "cancelled",
+          "total": 573.16,
+          "item_count": 2,
+          "created_at": "2025-11-16T12:44:42",
+          "item_preview": "Whoop 4.0, HyperX HyperX Alloy Origins Core"
+        },
+        {
+          "order_id": "ORDER-V1RPQ07Z",
+          "status": "shipped",
+          "total": 702.25,
+          "item_count": 3,
+          "created_at": "2025-11-15T14:45:48",
+          "item_preview": "LG LG 27UK850-W, Mophie Powerstation XXL 20000mAh, ..."
+        },
+        {
+          "order_id": "ORDER-5K4QODKX",
+          "status": "delivered",
+          "total": 832.34,
+          "item_count": 1,
+          "created_at": "2025-11-13T15:23:47",
+          "item_preview": "ASUS ROG Strix Z790-E Gaming WiFi Motherboard"
+        },
+        {
+          "order_id": "ORDER-EC2G7E2W",
+          "status": "delivered",
+          "total": 757.84,
+          "item_count": 4,
+          "created_at": "2025-11-13T12:04:17",
+          "item_preview": "Silicon Power US75 SSD, Crucial X9 Pro 2TB, ..."
+        },
+        {
+          "order_id": "ORDER-0F44D1GJ",
+          "status": "shipped",
+          "total": 7279.71,
+          "item_count": 1,
+          "created_at": "2025-11-13T10:02:26",
+          "item_preview": "MSI MSI Stealth 16 Studio"
+        },
+        {
+          "order_id": "ORDER-TC8E298A",
+          "status": "delivered",
+          "total": 1204.15,
+          "item_count": 4,
+          "created_at": "2025-11-13T09:59:15",
+          "item_preview": "Samsung 983 DCT SSD, Crucial MX500 2TB, ..."
+        },
+        {
+          "order_id": "ORDER-S4NE40SW",
+          "status": "delivered",
+          "total": 2573.0,
+          "item_count": 2,
+          "created_at": "2025-11-12T14:11:07",
+          "item_preview": "ASUS ASUS ROG Strix G16 Desktop, ASUS ROG Strix Z790-I Gaming WiFi Motherboard"
+        },
+        {
+          "order_id": "ORDER-02DKKUVJ",
+          "status": "delivered",
+          "total": 634.16,
+          "item_count": 2,
+          "created_at": "2025-11-10T23:48:11",
+          "item_preview": "Gigabyte AORUS Gen4 7300 SSD, Samsung Samsung 45W USB-C Charger"
+        },
+        {
+          "order_id": "ORDER-TZVH32EI",
+          "status": "delivered",
+          "total": 264.43,
+          "item_count": 2,
+          "created_at": "2025-11-09T02:02:48",
+          "item_preview": "Belkin 3-in-1 Wireless Charger (MagSafe), Samsung Samsung 45W USB-C Charger"
+        },
+        {
+          "order_id": "ORDER-DD2V7CMF",
+          "status": "delivered",
+          "total": 683.98,
+          "item_count": 2,
+          "created_at": "2025-11-07T14:38:49",
+          "item_preview": "ADATA Legend 970 SSD, Turtle Beach Turtle Beach Stealth 700 Gen 2 Max"
+        },
+        {
+          "order_id": "ORDER-LBRPTKLD",
+          "status": "shipped",
+          "total": 890.04,
+          "item_count": 2,
+          "created_at": "2025-11-06T00:32:06",
+          "item_preview": "Sabrent Rocket 4 Plus SSD, ASUS ROG Strix X670E-E Gaming WiFi Motherboard"
+        },
+        {
+          "order_id": "ORDER-KN6WZC7E",
+          "status": "delivered",
+          "total": 317.19,
+          "item_count": 1,
+          "created_at": "2025-11-04T20:41:08",
+          "item_preview": "WD Black SN770M SSD"
+        },
+        {
+          "order_id": "ORDER-RZ40RZXX",
+          "status": "shipped",
+          "total": 320.43,
+          "item_count": 2,
+          "created_at": "2025-11-04T05:31:45",
+          "item_preview": "Anker 521 Magnetic Battery 5000mAh, TeamGroup T-Force Cardea A440 Pro SSD"
+        },
+        {
+          "order_id": "ORDER-7T8ORZTY",
+          "status": "shipped",
+          "total": 346.5,
+          "item_count": 2,
+          "created_at": "2025-10-31T21:34:12",
+          "item_preview": "Ugreen Ugreen USB-C Hub 9-in-1, Logitech MX Keys S Keyboard"
+        },
+        {
+          "order_id": "ORDER-U0QJS87X",
+          "status": "shipped",
+          "total": 211.46,
+          "item_count": 1,
+          "created_at": "2025-10-31T17:30:23",
+          "item_preview": "WD Black SN770M SSD"
+        },
+        {
+          "order_id": "ORDER-DB8SK07P",
+          "status": "cancelled",
+          "total": 994.35,
+          "item_count": 4,
+          "created_at": "2025-10-30T10:48:17",
+          "item_preview": "SanDisk Extreme Pro 4TB, Apple Apple Magic Mouse, ..."
+        },
+        {
+          "order_id": "ORDER-WED0FBSY",
+          "status": "delivered",
+          "total": 701.14,
+          "item_count": 3,
+          "created_at": "2025-10-27T12:25:39",
+          "item_preview": "Apple Apple Magic Mouse, Crucial P3 Plus SSD, ..."
+        },
+        {
+          "order_id": "ORDER-IHGYTPGJ",
+          "status": "delivered",
+          "total": 479.97,
+          "item_count": 1,
+          "created_at": "2025-10-26T00:22:48",
+          "item_preview": "HyperX QuadCast S"
+        },
+        {
+          "order_id": "ORDER-40PNJOJ4",
+          "status": "delivered",
+          "total": 1165.5,
+          "item_count": 2,
+          "created_at": "2025-10-25T12:07:44",
+          "item_preview": "Solidigm P41 Plus SSD, \"LG LG 48\"\" OLED C4\""
+        },
+        {
+          "order_id": "ORDER-S8N54CBP",
+          "status": "delivered",
+          "total": 3155.6,
+          "item_count": 3,
+          "created_at": "2025-10-23T23:48:32",
+          "item_preview": "Anker 521 Magnetic Battery 5000mAh, Gigabyte Gaming OC RTX 4080 Super Graphics Card, ..."
+        },
+        {
+          "order_id": "ORDER-DWJWS45R",
+          "status": "shipped",
+          "total": 124.74,
+          "item_count": 1,
+          "created_at": "2025-10-23T01:31:43",
+          "item_preview": "Lexar NM790 SSD"
+        },
+        {
+          "order_id": "ORDER-JYXSCT94",
+          "status": "delivered",
+          "total": 351.69,
+          "item_count": 2,
+          "created_at": "2025-10-21T23:48:27",
+          "item_preview": "Samsung 990 Pro SSD, PNY CS3140 SSD"
+        },
+        {
+          "order_id": "ORDER-WXST4C54",
+          "status": "delivered",
+          "total": 953.88,
+          "item_count": 2,
+          "created_at": "2025-10-15T23:08:36",
+          "item_preview": "Inland Performance Plus SSD, ASUS ROG Strix Z790-E Gaming WiFi Motherboard"
+        },
+        {
+          "order_id": "ORDER-XHH93L12",
+          "status": "delivered",
+          "total": 1190.27,
+          "item_count": 4,
+          "created_at": "2025-10-09T22:41:19",
+          "item_preview": "HyperX HyperX Alloy Origins Core, Belkin BoostCharge Pro, ..."
+        },
+        {
+          "order_id": "ORDER-QCAV86NG",
+          "status": "delivered",
+          "total": 581.95,
+          "item_count": 2,
+          "created_at": "2025-10-09T01:49:50",
+          "item_preview": "Sabrent Rocket 4 Plus SSD, Kingston KC3000 SSD"
+        },
+        {
+          "order_id": "ORDER-15V9DH1D",
+          "status": "delivered",
+          "total": 1499.93,
+          "item_count": 3,
+          "created_at": "2025-10-07T06:35:15",
+          "item_preview": "Belkin 3-in-1 Wireless Charger (MagSafe), ASUS ROG Strix B650E-F Gaming WiFi, ..."
+        },
+        {
+          "order_id": "ORDER-7QL2D0AT",
+          "status": "pending",
+          "total": 825.26,
+          "item_count": 2,
+          "created_at": "2025-10-03T00:33:51",
+          "item_preview": "Blue Yeti USB Microphone, ASUS ASUS ROG Ally"
+        },
+        {
+          "order_id": "ORDER-1SJCFLV9",
+          "status": "delivered",
+          "total": 281.59,
+          "item_count": 2,
+          "created_at": "2025-10-02T17:07:10",
+          "item_preview": "Samsung 45W Super Fast Charger 2.0, Seagate Seagate Expansion 4TB HDD"
+        },
+        {
+          "order_id": "ORDER-R0OJ2XTM",
+          "status": "delivered",
+          "total": 183.25,
+          "item_count": 2,
+          "created_at": "2025-10-01T14:29:05",
+          "item_preview": "HyperDrive USB-C Hub, Ugreen Ugreen USB-C Hub 9-in-1"
+        }
+      ]
+    }
+  ]
+}

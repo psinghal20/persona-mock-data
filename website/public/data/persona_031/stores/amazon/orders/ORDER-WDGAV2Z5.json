@@ -1,0 +1,30 @@
+{
+  "order_id": "ORDER-WDGAV2Z5",
+  "persona_id": "persona_031",
+  "store_id": "amazon",
+  "status": "shipped",
+  "created_at": "2025-12-07T04:36:58",
+  "shipped_at": "2025-12-08T04:36:58",
+  "delivered_at": "",
+  "shipping_address": "999 Suburban Lane, Phoenix, AZ 85001",
+  "items": [
+    {
+      "product_id": "B0AMZN1637",
+      "name": "Ticket to Ride",
+      "category": "Toys & Games",
+      "quantity": 1,
+      "price": 47.99,
+      "subtotal": 47.99
+    },
+    {
+      "product_id": "B0TOYS0190",
+      "name": "LEGO LEGO City Police Station",
+      "category": "Toys & Games",
+      "quantity": 3,
+      "price": 99.97,
+      "subtotal": 299.91
+    }
+  ],
+  "total": 347.9,
+  "currency": "USD"
+}

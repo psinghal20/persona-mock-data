@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-77",
+  "persona_id": "persona_022",
+  "store_id": "bakery",
+  "status": "completed",
+  "created_at": "2025-11-13T21:17:06",
+  "items": [
+    {
+      "product_id": "78",
+      "name": "Strawberry Shortcake",
+      "category": "Cakes",
+      "quantity": 1,
+      "price": 5.99,
+      "subtotal": 5.99
+    }
+  ],
+  "total": 5.99,
+  "currency": "USD"
+}

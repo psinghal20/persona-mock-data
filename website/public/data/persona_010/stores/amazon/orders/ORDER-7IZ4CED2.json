@@ -1,0 +1,30 @@
+{
+  "order_id": "ORDER-7IZ4CED2",
+  "persona_id": "persona_010",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-12-26T22:30:42",
+  "shipped_at": "2025-12-27T22:30:42",
+  "delivered_at": "2025-12-31T22:30:42",
+  "shipping_address": "321 French Quarter Ave, New Orleans, LA 70116",
+  "items": [
+    {
+      "product_id": "B0AMZN1635",
+      "name": "LEGO Harry Potter Hogwarts Castle 71043",
+      "category": "Toys & Games",
+      "quantity": 1,
+      "price": 469.99,
+      "subtotal": 469.99
+    },
+    {
+      "product_id": "B0AMZN1898",
+      "name": "Adam Audio T5V",
+      "category": "Musical Instruments",
+      "quantity": 1,
+      "price": 399.0,
+      "subtotal": 399.0
+    }
+  ],
+  "total": 868.99,
+  "currency": "USD"
+}

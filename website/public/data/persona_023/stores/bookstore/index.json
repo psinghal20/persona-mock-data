@@ -1,0 +1,401 @@
+{
+  "persona_id": "persona_023",
+  "store_id": "bookstore",
+  "store_name": "Bookstore",
+  "transaction_type": "purchases",
+  "transaction_label": "purchases",
+  "has_cost": true,
+  "summary": {
+    "total_count": 23,
+    "total_spent": 685.67,
+    "first_date": "2025-10-03",
+    "last_date": "2026-01-26"
+  },
+  "items": [
+    {
+      "order_id": "PUR-236",
+      "status": "completed",
+      "total": 59.98,
+      "item_count": 2,
+      "created_at": "2026-01-26T21:14:54",
+      "item_preview": "The Lord of the Rings"
+    },
+    {
+      "order_id": "PUR-238",
+      "status": "completed",
+      "total": 35.98,
+      "item_count": 2,
+      "created_at": "2026-01-17T14:30:17",
+      "item_preview": "Artemis"
+    },
+    {
+      "order_id": "PUR-103",
+      "status": "completed",
+      "total": 39.95,
+      "item_count": 1,
+      "created_at": "2026-01-09T12:45:06",
+      "item_preview": "Cracking the Coding Interview"
+    },
+    {
+      "order_id": "PUR-239",
+      "status": "completed",
+      "total": 18.99,
+      "item_count": 1,
+      "created_at": "2026-01-06T09:49:05",
+      "item_preview": "American Gods"
+    },
+    {
+      "order_id": "PUR-235",
+      "status": "completed",
+      "total": 31.98,
+      "item_count": 2,
+      "created_at": "2026-01-03T21:18:29",
+      "item_preview": "The Hitchhiker's Guide to the Galaxy"
+    },
+    {
+      "order_id": "PUR-102",
+      "status": "completed",
+      "total": 33.98,
+      "item_count": 2,
+      "created_at": "2025-12-31T05:53:55",
+      "item_preview": "A Closed and Common Orbit"
+    },
+    {
+      "order_id": "PUR-100",
+      "status": "completed",
+      "total": 37.98,
+      "item_count": 2,
+      "created_at": "2025-12-29T07:44:52",
+      "item_preview": "American Gods"
+    },
+    {
+      "order_id": "PUR-93",
+      "status": "completed",
+      "total": 16.99,
+      "item_count": 1,
+      "created_at": "2025-12-25T12:32:41",
+      "item_preview": "A Closed and Common Orbit"
+    },
+    {
+      "order_id": "PUR-98",
+      "status": "completed",
+      "total": 17.0,
+      "item_count": 1,
+      "created_at": "2025-12-24T06:06:04",
+      "item_preview": "The Dark Tower: The Gunslinger"
+    },
+    {
+      "order_id": "PUR-97",
+      "status": "completed",
+      "total": 35.98,
+      "item_count": 2,
+      "created_at": "2025-12-21T01:40:41",
+      "item_preview": "Foundation"
+    },
+    {
+      "order_id": "PUR-237",
+      "status": "completed",
+      "total": 34.0,
+      "item_count": 2,
+      "created_at": "2025-12-20T03:47:03",
+      "item_preview": "Piranesi"
+    },
+    {
+      "order_id": "PUR-240",
+      "status": "completed",
+      "total": 31.98,
+      "item_count": 2,
+      "created_at": "2025-12-13T18:08:52",
+      "item_preview": "The Hobbit"
+    },
+    {
+      "order_id": "PUR-241",
+      "status": "completed",
+      "total": 16.99,
+      "item_count": 1,
+      "created_at": "2025-12-12T08:16:55",
+      "item_preview": "The Ocean at the End of the Lane"
+    },
+    {
+      "order_id": "PUR-92",
+      "status": "completed",
+      "total": 40.0,
+      "item_count": 2,
+      "created_at": "2025-11-21T21:37:27",
+      "item_preview": "Project Hail Mary"
+    },
+    {
+      "order_id": "PUR-95",
+      "status": "completed",
+      "total": 18.99,
+      "item_count": 1,
+      "created_at": "2025-11-21T21:29:22",
+      "item_preview": "The Wheel of Time: Eye of the World"
+    },
+    {
+      "order_id": "PUR-244",
+      "status": "completed",
+      "total": 31.98,
+      "item_count": 2,
+      "created_at": "2025-11-18T19:17:20",
+      "item_preview": "The Hobbit"
+    },
+    {
+      "order_id": "PUR-99",
+      "status": "completed",
+      "total": 37.98,
+      "item_count": 2,
+      "created_at": "2025-11-15T07:05:26",
+      "item_preview": "The Dark Forest"
+    },
+    {
+      "order_id": "PUR-101",
+      "status": "completed",
+      "total": 18.99,
+      "item_count": 1,
+      "created_at": "2025-11-10T11:36:55",
+      "item_preview": "The Dragon Republic"
+    },
+    {
+      "order_id": "PUR-94",
+      "status": "completed",
+      "total": 34.0,
+      "item_count": 2,
+      "created_at": "2025-10-24T08:01:38",
+      "item_preview": "The Dark Tower: The Gunslinger"
+    },
+    {
+      "order_id": "PUR-104",
+      "status": "completed",
+      "total": 18.99,
+      "item_count": 1,
+      "created_at": "2025-10-15T00:54:45",
+      "item_preview": "Hyperion"
+    },
+    {
+      "order_id": "PUR-96",
+      "status": "completed",
+      "total": 18.99,
+      "item_count": 1,
+      "created_at": "2025-10-14T10:53:11",
+      "item_preview": "The Dragon Republic"
+    },
+    {
+      "order_id": "PUR-243",
+      "status": "completed",
+      "total": 17.99,
+      "item_count": 1,
+      "created_at": "2025-10-04T08:41:10",
+      "item_preview": "The Poppy War"
+    },
+    {
+      "order_id": "PUR-242",
+      "status": "completed",
+      "total": 35.98,
+      "item_count": 2,
+      "created_at": "2025-10-03T03:44:36",
+      "item_preview": "The Poppy War"
+    }
+  ],
+  "categories": [
+    {
+      "id": "purchases",
+      "name": "Purchases",
+      "type": "purchases",
+      "label": "purchases",
+      "has_cost": true,
+      "summary": {
+        "total_count": 23,
+        "total_spent": 685.67,
+        "first_date": "2025-10-03",
+        "last_date": "2026-01-26"
+      },
+      "items": [
+        {
+          "order_id": "PUR-236",
+          "status": "completed",
+          "total": 59.98,
+          "item_count": 2,
+          "created_at": "2026-01-26T21:14:54",
+          "item_preview": "The Lord of the Rings"
+        },
+        {
+          "order_id": "PUR-238",
+          "status": "completed",
+          "total": 35.98,
+          "item_count": 2,
+          "created_at": "2026-01-17T14:30:17",
+          "item_preview": "Artemis"
+        },
+        {
+          "order_id": "PUR-103",
+          "status": "completed",
+          "total": 39.95,
+          "item_count": 1,
+          "created_at": "2026-01-09T12:45:06",
+          "item_preview": "Cracking the Coding Interview"
+        },
+        {
+          "order_id": "PUR-239",
+          "status": "completed",
+          "total": 18.99,
+          "item_count": 1,
+          "created_at": "2026-01-06T09:49:05",
+          "item_preview": "American Gods"
+        },
+        {
+          "order_id": "PUR-235",
+          "status": "completed",
+          "total": 31.98,
+          "item_count": 2,
+          "created_at": "2026-01-03T21:18:29",
+          "item_preview": "The Hitchhiker's Guide to the Galaxy"
+        },
+        {
+          "order_id": "PUR-102",
+          "status": "completed",
+          "total": 33.98,
+          "item_count": 2,
+          "created_at": "2025-12-31T05:53:55",
+          "item_preview": "A Closed and Common Orbit"
+        },
+        {
+          "order_id": "PUR-100",
+          "status": "completed",
+          "total": 37.98,
+          "item_count": 2,
+          "created_at": "2025-12-29T07:44:52",
+          "item_preview": "American Gods"
+        },
+        {
+          "order_id": "PUR-93",
+          "status": "completed",
+          "total": 16.99,
+          "item_count": 1,
+          "created_at": "2025-12-25T12:32:41",
+          "item_preview": "A Closed and Common Orbit"
+        },
+        {
+          "order_id": "PUR-98",
+          "status": "completed",
+          "total": 17.0,
+          "item_count": 1,
+          "created_at": "2025-12-24T06:06:04",
+          "item_preview": "The Dark Tower: The Gunslinger"
+        },
+        {
+          "order_id": "PUR-97",
+          "status": "completed",
+          "total": 35.98,
+          "item_count": 2,
+          "created_at": "2025-12-21T01:40:41",
+          "item_preview": "Foundation"
+        },
+        {
+          "order_id": "PUR-237",
+          "status": "completed",
+          "total": 34.0,
+          "item_count": 2,
+          "created_at": "2025-12-20T03:47:03",
+          "item_preview": "Piranesi"
+        },
+        {
+          "order_id": "PUR-240",
+          "status": "completed",
+          "total": 31.98,
+          "item_count": 2,
+          "created_at": "2025-12-13T18:08:52",
+          "item_preview": "The Hobbit"
+        },
+        {
+          "order_id": "PUR-241",
+          "status": "completed",
+          "total": 16.99,
+          "item_count": 1,
+          "created_at": "2025-12-12T08:16:55",
+          "item_preview": "The Ocean at the End of the Lane"
+        },
+        {
+          "order_id": "PUR-92",
+          "status": "completed",
+          "total": 40.0,
+          "item_count": 2,
+          "created_at": "2025-11-21T21:37:27",
+          "item_preview": "Project Hail Mary"
+        },
+        {
+          "order_id": "PUR-95",
+          "status": "completed",
+          "total": 18.99,
+          "item_count": 1,
+          "created_at": "2025-11-21T21:29:22",
+          "item_preview": "The Wheel of Time: Eye of the World"
+        },
+        {
+          "order_id": "PUR-244",
+          "status": "completed",
+          "total": 31.98,
+          "item_count": 2,
+          "created_at": "2025-11-18T19:17:20",
+          "item_preview": "The Hobbit"
+        },
+        {
+          "order_id": "PUR-99",
+          "status": "completed",
+          "total": 37.98,
+          "item_count": 2,
+          "created_at": "2025-11-15T07:05:26",
+          "item_preview": "The Dark Forest"
+        },
+        {
+          "order_id": "PUR-101",
+          "status": "completed",
+          "total": 18.99,
+          "item_count": 1,
+          "created_at": "2025-11-10T11:36:55",
+          "item_preview": "The Dragon Republic"
+        },
+        {
+          "order_id": "PUR-94",
+          "status": "completed",
+          "total": 34.0,
+          "item_count": 2,
+          "created_at": "2025-10-24T08:01:38",
+          "item_preview": "The Dark Tower: The Gunslinger"
+        },
+        {
+          "order_id": "PUR-104",
+          "status": "completed",
+          "total": 18.99,
+          "item_count": 1,
+          "created_at": "2025-10-15T00:54:45",
+          "item_preview": "Hyperion"
+        },
+        {
+          "order_id": "PUR-96",
+          "status": "completed",
+          "total": 18.99,
+          "item_count": 1,
+          "created_at": "2025-10-14T10:53:11",
+          "item_preview": "The Dragon Republic"
+        },
+        {
+          "order_id": "PUR-243",
+          "status": "completed",
+          "total": 17.99,
+          "item_count": 1,
+          "created_at": "2025-10-04T08:41:10",
+          "item_preview": "The Poppy War"
+        },
+        {
+          "order_id": "PUR-242",
+          "status": "completed",
+          "total": 35.98,
+          "item_count": 2,
+          "created_at": "2025-10-03T03:44:36",
+          "item_preview": "The Poppy War"
+        }
+      ]
+    }
+  ]
+}

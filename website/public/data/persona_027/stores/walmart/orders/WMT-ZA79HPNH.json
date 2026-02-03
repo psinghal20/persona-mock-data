@@ -1,0 +1,30 @@
+{
+  "order_id": "WMT-ZA79HPNH",
+  "persona_id": "persona_027",
+  "store_id": "walmart",
+  "status": "delivered",
+  "created_at": "2026-01-08T16:18:29",
+  "shipped_at": "2026-01-11T16:18:29",
+  "delivered_at": "2026-01-14T16:18:29",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "items": [
+    {
+      "product_id": "WMT00001840",
+      "name": "Hoka Clifton 9",
+      "category": "Sports",
+      "quantity": 1,
+      "price": 142.05,
+      "subtotal": 142.05
+    },
+    {
+      "product_id": "WMT00001922",
+      "name": "Nike KD 16",
+      "category": "Sports",
+      "quantity": 1,
+      "price": 141.89,
+      "subtotal": 141.89
+    }
+  ],
+  "total": 283.94,
+  "currency": "USD"
+}

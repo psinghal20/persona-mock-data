@@ -1,0 +1,78 @@
+{
+  "order_id": "GRC000359",
+  "persona_id": "persona_027",
+  "store_id": "grocery",
+  "status": "delivered",
+  "created_at": "2025-10-17T20:16:38",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "items": [
+    {
+      "product_id": "prod_259",
+      "name": "Meadow Gold Organic Ground Pork",
+      "category": "Meat & Seafood",
+      "quantity": 4,
+      "price": 19.84,
+      "subtotal": 79.36
+    },
+    {
+      "product_id": "GRO-1842",
+      "name": "Smithfield Turkey Thigh",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 9.73,
+      "subtotal": 9.73
+    },
+    {
+      "product_id": "prod_574",
+      "name": "Organic Choice Frozen Meatballs",
+      "category": "Frozen",
+      "quantity": 3,
+      "price": 10.71,
+      "subtotal": 32.13
+    },
+    {
+      "product_id": "prod_306",
+      "name": "Simply Good Bratwurst",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 18.55,
+      "subtotal": 18.55
+    },
+    {
+      "product_id": "prod_244",
+      "name": "Mountain Fresh Ground Turkey",
+      "category": "Meat & Seafood",
+      "quantity": 3,
+      "price": 21.3,
+      "subtotal": 63.9
+    },
+    {
+      "product_id": "GRO-1870",
+      "name": "Applegate Cod Fillet",
+      "category": "Meat & Seafood",
+      "quantity": 4,
+      "price": 13.34,
+      "subtotal": 53.36
+    },
+    {
+      "product_id": "GRO-1821",
+      "name": "Foster Farms Bone In Ribeye",
+      "category": "Meat & Seafood",
+      "quantity": 3,
+      "price": 10.36,
+      "subtotal": 31.08
+    },
+    {
+      "product_id": "GRO-1135",
+      "name": "D'Artagnan Bresaola",
+      "category": "Meat & Seafood",
+      "quantity": 4,
+      "price": 9.04,
+      "subtotal": 36.16
+    }
+  ],
+  "total": 324.27,
+  "currency": "USD"
+}

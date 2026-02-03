@@ -1,0 +1,38 @@
+{
+  "order_id": "FSH000102",
+  "persona_id": "persona_016",
+  "store_id": "fashion",
+  "status": "shipped",
+  "created_at": "2025-10-30T00:44:33",
+  "shipped_at": "2025-10-31T00:44:33",
+  "delivered_at": "",
+  "shipping_address": "222 Tech Campus Way, Austin, TX 78701",
+  "items": [
+    {
+      "product_id": "prod_165",
+      "name": "Pure Cotton Co Rayon Joggers",
+      "category": "Bottoms",
+      "quantity": 2,
+      "price": 83.58,
+      "subtotal": 167.16
+    },
+    {
+      "product_id": "prod_150",
+      "name": "Sunset Studios Velvet Shorts",
+      "category": "Bottoms",
+      "quantity": 2,
+      "price": 55.34,
+      "subtotal": 110.68
+    },
+    {
+      "product_id": "prod_160",
+      "name": "Chic Studio Denim Shorts",
+      "category": "Bottoms",
+      "quantity": 1,
+      "price": 58.58,
+      "subtotal": 58.58
+    }
+  ],
+  "total": 336.42,
+  "currency": "USD"
+}

@@ -1,0 +1,26 @@
+{
+  "order_id": "TOUR-28",
+  "persona_id": "persona_016",
+  "store_id": "zillow",
+  "type": "tour",
+  "status": "scheduled",
+  "scheduled_time": "2025-12-25T13:00:00",
+  "notes": "Bringing spouse to see",
+  "items": [
+    {
+      "product_id": "1747",
+      "name": "5389 Palm Street",
+      "address": "5389 Palm Street",
+      "city": "",
+      "price": 1651023.0,
+      "bedrooms": "",
+      "bathrooms": "",
+      "sqft": "",
+      "home_type": "",
+      "quantity": 1,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

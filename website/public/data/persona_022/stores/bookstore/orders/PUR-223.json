@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-223",
+  "persona_id": "persona_022",
+  "store_id": "bookstore",
+  "status": "completed",
+  "created_at": "2025-11-13T17:13:17",
+  "items": [
+    {
+      "product_id": "135",
+      "name": "Abaddon's Gate",
+      "category": "Science Fiction",
+      "quantity": 1,
+      "price": 17.99,
+      "subtotal": 17.99
+    }
+  ],
+  "total": 17.99,
+  "currency": "USD"
+}

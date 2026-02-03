@@ -1,0 +1,30 @@
+{
+  "order_id": "SPG000123",
+  "persona_id": "persona_009",
+  "store_id": "sporting_goods",
+  "status": "shipped",
+  "created_at": "2025-12-19T01:37:28",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "789 Veterans Blvd, Tampa, FL 33602",
+  "items": [
+    {
+      "product_id": "ARC002",
+      "name": "Hoyt Carbon RX-7 Bow",
+      "category": "Bows",
+      "quantity": 2,
+      "price": 1799.99,
+      "subtotal": 3599.98
+    },
+    {
+      "product_id": "GLF016",
+      "name": "FlexTech Crossover Stand Bag",
+      "category": "Bags",
+      "quantity": 2,
+      "price": 249.99,
+      "subtotal": 499.98
+    }
+  ],
+  "total": 4099.96,
+  "currency": "USD"
+}

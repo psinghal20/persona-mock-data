@@ -1,0 +1,38 @@
+{
+  "order_id": "WMT-FTB7UCXI",
+  "persona_id": "persona_002",
+  "store_id": "walmart",
+  "status": "delivered",
+  "created_at": "2025-11-07T22:57:46",
+  "shipped_at": "2025-11-08T22:57:46",
+  "delivered_at": "2025-11-10T22:57:46",
+  "shipping_address": "456 Tech Park Drive, San Jose, CA 95110",
+  "items": [
+    {
+      "product_id": "WMT00001895",
+      "name": "Titleist Scotty Cameron Special Select",
+      "category": "Sports",
+      "quantity": 1,
+      "price": 465.54,
+      "subtotal": 465.54
+    },
+    {
+      "product_id": "WMT00001998",
+      "name": "Petzl Petzl Corax Harness",
+      "category": "Sports",
+      "quantity": 4,
+      "price": 71.53,
+      "subtotal": 286.12
+    },
+    {
+      "product_id": "WMT00001054",
+      "name": "Samsung Samsung 75\" Neo QLED 4K QN85D",
+      "category": "Electronics",
+      "quantity": 2,
+      "price": 1938.92,
+      "subtotal": 3877.84
+    }
+  ],
+  "total": 4629.5,
+  "currency": "USD"
+}

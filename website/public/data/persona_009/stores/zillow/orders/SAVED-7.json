@@ -1,0 +1,26 @@
+{
+  "order_id": "SAVED-7",
+  "persona_id": "persona_009",
+  "store_id": "zillow",
+  "type": "saved_property",
+  "status": "saved",
+  "created_at": "2025-10-10T11:04:04",
+  "notes": "Nice backyard",
+  "items": [
+    {
+      "product_id": "98",
+      "name": "567 Tampa Harbour Island",
+      "address": "567 Tampa Harbour Island",
+      "city": "",
+      "price": 685000.0,
+      "bedrooms": "",
+      "bathrooms": "",
+      "sqft": "",
+      "home_type": "",
+      "quantity": 1,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

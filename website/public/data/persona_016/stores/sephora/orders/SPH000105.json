@@ -1,0 +1,38 @@
+{
+  "order_id": "SPH000105",
+  "persona_id": "persona_016",
+  "store_id": "sephora",
+  "status": "delivered",
+  "created_at": "2025-10-03T04:12:08",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "222 Tech Campus Way, Austin, TX 78701",
+  "items": [
+    {
+      "product_id": "SPH0497",
+      "name": "Retinol Serum",
+      "category": "Skincare",
+      "quantity": 2,
+      "price": 29.22,
+      "subtotal": 58.44
+    },
+    {
+      "product_id": "SPH0066",
+      "name": "Natural Lashes",
+      "category": "Eyes",
+      "quantity": 2,
+      "price": 54.31,
+      "subtotal": 108.62
+    },
+    {
+      "product_id": "SPH0360",
+      "name": "Gel Moisturizer",
+      "category": "Skincare",
+      "quantity": 2,
+      "price": 19.56,
+      "subtotal": 39.12
+    }
+  ],
+  "total": 206.18,
+  "currency": "USD"
+}

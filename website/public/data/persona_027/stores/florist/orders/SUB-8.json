@@ -1,0 +1,22 @@
+{
+  "order_id": "SUB-8",
+  "persona_id": "persona_027",
+  "store_id": "florist",
+  "type": "subscription",
+  "status": "active",
+  "created_at": "2025-10-11T05:33:41",
+  "items": [
+    {
+      "product_id": "plan-8",
+      "name": "Weekly Fresh",
+      "description": "Weekly delivery - Roses Only",
+      "recipient": "Mom of Patrick Murphy",
+      "next_delivery": "2025-10-18",
+      "quantity": 1,
+      "price": 39.99,
+      "subtotal": 39.99
+    }
+  ],
+  "total": 39.99,
+  "currency": "USD"
+}

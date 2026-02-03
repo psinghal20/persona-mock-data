@@ -1,0 +1,689 @@
+{
+  "persona_id": "persona_016",
+  "store_id": "electronics_store",
+  "store_name": "Electronics Store",
+  "transaction_type": "orders",
+  "transaction_label": "orders",
+  "has_cost": true,
+  "summary": {
+    "total_count": 41,
+    "total_spent": 80027.25,
+    "first_date": "2025-10-05",
+    "last_date": "2026-01-21"
+  },
+  "items": [
+    {
+      "order_id": "EL000062",
+      "status": "delivered",
+      "total": 1899.97,
+      "item_count": 2,
+      "created_at": "2026-01-21T21:18:32",
+      "item_preview": "HP Envy x360 15, Arlo Pro 4 Security Camera 3-Pack"
+    },
+    {
+      "order_id": "EL000074",
+      "status": "delivered",
+      "total": 1999.98,
+      "item_count": 1,
+      "created_at": "2026-01-20T21:18:10",
+      "item_preview": "ASUS ProArt PA27DCE-K"
+    },
+    {
+      "order_id": "EL000058",
+      "status": "delivered",
+      "total": 1544.95,
+      "item_count": 3,
+      "created_at": "2026-01-20T05:58:15",
+      "item_preview": "Dough Spectrum One, Matter Smart Plug by Eve, ..."
+    },
+    {
+      "order_id": "EL000076",
+      "status": "delivered",
+      "total": 49.98,
+      "item_count": 1,
+      "created_at": "2026-01-09T18:54:04",
+      "item_preview": "Wemo Smart Plug"
+    },
+    {
+      "order_id": "EL000165",
+      "status": "pending",
+      "total": 1799.98,
+      "item_count": 1,
+      "created_at": "2026-01-08T23:15:43",
+      "item_preview": "Acer Nitro 5"
+    },
+    {
+      "order_id": "EL000173",
+      "status": "delivered",
+      "total": 1359.97,
+      "item_count": 2,
+      "created_at": "2025-12-31T20:37:58",
+      "item_preview": "ViewSonic VP3268a-4K, Philips Hue Play Gradient Lightstrip"
+    },
+    {
+      "order_id": "EL000077",
+      "status": "shipped",
+      "total": 2199.97,
+      "item_count": 2,
+      "created_at": "2025-12-31T03:49:47",
+      "item_preview": "Logitech G915 TKL, Dell G15"
+    },
+    {
+      "order_id": "EL000070",
+      "status": "delivered",
+      "total": 2979.95,
+      "item_count": 3,
+      "created_at": "2025-12-30T05:08:46",
+      "item_preview": "Dyson Purifier Hot+Cool, Gigabyte M32U, ..."
+    },
+    {
+      "order_id": "EL000071",
+      "status": "delivered",
+      "total": 499.99,
+      "item_count": 1,
+      "created_at": "2025-12-18T09:49:58",
+      "item_preview": "Arlo Pro 4 Security Camera 3-Pack"
+    },
+    {
+      "order_id": "EL000164",
+      "status": "delivered",
+      "total": 2844.01,
+      "item_count": 2,
+      "created_at": "2025-12-13T00:32:59",
+      "item_preview": "MacBook Air 13\" M3, Coway Airmega 400S Smart Air Purifier"
+    },
+    {
+      "order_id": "EL000079",
+      "status": "delivered",
+      "total": 999.99,
+      "item_count": 1,
+      "created_at": "2025-12-12T22:18:21",
+      "item_preview": "ASUS ProArt PA27DCE-K"
+    },
+    {
+      "order_id": "EL000167",
+      "status": "delivered",
+      "total": 2999.95,
+      "item_count": 3,
+      "created_at": "2025-12-12T20:17:58",
+      "item_preview": "Meross Smart Garage Door Opener, Acer Nitro 5, ..."
+    },
+    {
+      "order_id": "EL000066",
+      "status": "pending",
+      "total": 599.98,
+      "item_count": 1,
+      "created_at": "2025-12-10T23:02:03",
+      "item_preview": "Logitech G Cloud Gaming Handheld"
+    },
+    {
+      "order_id": "EL000174",
+      "status": "delivered",
+      "total": 1929.96,
+      "item_count": 3,
+      "created_at": "2025-12-08T12:25:20",
+      "item_preview": "Arlo Essential Indoor Camera, Philips Hue Play Gradient Lightstrip, ..."
+    },
+    {
+      "order_id": "EL000162",
+      "status": "delivered",
+      "total": 2399.98,
+      "item_count": 1,
+      "created_at": "2025-12-06T05:04:50",
+      "item_preview": "Microsoft Surface Laptop 6"
+    },
+    {
+      "order_id": "EL000171",
+      "status": "delivered",
+      "total": 219.98,
+      "item_count": 1,
+      "created_at": "2025-12-05T18:33:48",
+      "item_preview": "Logitech MX Keys S"
+    },
+    {
+      "order_id": "EL000161",
+      "status": "pending",
+      "total": 1399.99,
+      "item_count": 1,
+      "created_at": "2025-11-30T11:20:17",
+      "item_preview": "Dell Latitude 5540"
+    },
+    {
+      "order_id": "EL000163",
+      "status": "shipped",
+      "total": 744.28,
+      "item_count": 1,
+      "created_at": "2025-11-28T06:53:25",
+      "item_preview": "GE 45-Pint Smart Dehumidifier"
+    },
+    {
+      "order_id": "EL000065",
+      "status": "pending",
+      "total": 644.98,
+      "item_count": 2,
+      "created_at": "2025-11-25T18:24:48",
+      "item_preview": "Gigabyte M32U, Matter Smart Plug by Eve"
+    },
+    {
+      "order_id": "EL000073",
+      "status": "delivered",
+      "total": 6199.97,
+      "item_count": 2,
+      "created_at": "2025-11-25T15:11:35",
+      "item_preview": "ASUS ProArt PA32UCG-K, Nanoleaf Shapes Hexagons Starter Kit"
+    },
+    {
+      "order_id": "EL000068",
+      "status": "delivered",
+      "total": 2599.98,
+      "item_count": 1,
+      "created_at": "2025-11-25T10:16:47",
+      "item_preview": "Samsung Odyssey G9 49\""
+    },
+    {
+      "order_id": "EL000069",
+      "status": "delivered",
+      "total": 1999.99,
+      "item_count": 1,
+      "created_at": "2025-11-18T06:20:19",
+      "item_preview": "Sony 75\" Bravia XR 4K Smart TV"
+    },
+    {
+      "order_id": "EL000072",
+      "status": "delivered",
+      "total": 7999.98,
+      "item_count": 1,
+      "created_at": "2025-11-17T19:29:30",
+      "item_preview": "NEC MultiSync PA311D"
+    },
+    {
+      "order_id": "EL000061",
+      "status": "shipped",
+      "total": 999.99,
+      "item_count": 1,
+      "created_at": "2025-11-16T11:14:35",
+      "item_preview": "ASUS ProArt PA27DCE-K"
+    },
+    {
+      "order_id": "EL000166",
+      "status": "delivered",
+      "total": 2299.98,
+      "item_count": 2,
+      "created_at": "2025-11-15T01:07:52",
+      "item_preview": "Sony 75\" Bravia XR 4K Smart TV, Schlage Encode Plus"
+    },
+    {
+      "order_id": "EL000168",
+      "status": "delivered",
+      "total": 79.98,
+      "item_count": 1,
+      "created_at": "2025-11-11T11:02:17",
+      "item_preview": "Eve Door and Window Sensor"
+    },
+    {
+      "order_id": "EL000064",
+      "status": "pending",
+      "total": 499.98,
+      "item_count": 1,
+      "created_at": "2025-11-10T19:35:33",
+      "item_preview": "Ecobee Smart Thermostat Premium"
+    },
+    {
+      "order_id": "EL000075",
+      "status": "delivered",
+      "total": 2199.97,
+      "item_count": 2,
+      "created_at": "2025-11-09T13:21:35",
+      "item_preview": "Samsung Smart Monitor M8, Dyson Purifier Hot+Cool"
+    },
+    {
+      "order_id": "EL000172",
+      "status": "delivered",
+      "total": 1819.97,
+      "item_count": 2,
+      "created_at": "2025-11-05T23:04:57",
+      "item_preview": "Dell XPS 15, Logitech MX Keys S"
+    },
+    {
+      "order_id": "EL000170",
+      "status": "delivered",
+      "total": 199.99,
+      "item_count": 1,
+      "created_at": "2025-11-04T06:09:14",
+      "item_preview": "HP M27 FHD Monitor"
+    },
+    {
+      "order_id": "EL000078",
+      "status": "shipped",
+      "total": 1949.96,
+      "item_count": 3,
+      "created_at": "2025-10-26T16:39:29",
+      "item_preview": "IKEA Dirigera Hub, LG 55\" OLED 4K Smart TV, ..."
+    },
+    {
+      "order_id": "EL000169",
+      "status": "cancelled",
+      "total": 3299.96,
+      "item_count": 2,
+      "created_at": "2025-10-19T02:02:11",
+      "item_preview": "Dell XPS 15, Arlo Essential Indoor Camera"
+    },
+    {
+      "order_id": "EL000060",
+      "status": "shipped",
+      "total": 1299.98,
+      "item_count": 1,
+      "created_at": "2025-10-17T19:19:53",
+      "item_preview": "Google Pixelbook Go"
+    },
+    {
+      "order_id": "EL000176",
+      "status": "pending",
+      "total": 99.98,
+      "item_count": 1,
+      "created_at": "2025-10-16T02:25:57",
+      "item_preview": "Arlo Essential Indoor Camera"
+    },
+    {
+      "order_id": "EL000175",
+      "status": "delivered",
+      "total": 459.98,
+      "item_count": 1,
+      "created_at": "2025-10-14T21:35:55",
+      "item_preview": "Philips Hue Play Gradient Lightstrip"
+    },
+    {
+      "order_id": "EL000179",
+      "status": "delivered",
+      "total": 1399.99,
+      "item_count": 1,
+      "created_at": "2025-10-14T08:18:06",
+      "item_preview": "Dell Latitude 5540"
+    },
+    {
+      "order_id": "EL000059",
+      "status": "delivered",
+      "total": 4799.94,
+      "item_count": 3,
+      "created_at": "2025-10-11T21:25:58",
+      "item_preview": "Google Nest Hub 2nd Gen, Sony 75\" Bravia XR 4K Smart TV, ..."
+    },
+    {
+      "order_id": "EL000063",
+      "status": "delivered",
+      "total": 3199.96,
+      "item_count": 3,
+      "created_at": "2025-10-10T17:15:58",
+      "item_preview": "Gigabyte M32U, Dell G15, ..."
+    },
+    {
+      "order_id": "EL000067",
+      "status": "cancelled",
+      "total": 3399.95,
+      "item_count": 3,
+      "created_at": "2025-10-08T16:36:52",
+      "item_preview": "IKEA Dirigera Hub, Dell G15, ..."
+    },
+    {
+      "order_id": "EL000177",
+      "status": "shipped",
+      "total": 799.97,
+      "item_count": 2,
+      "created_at": "2025-10-06T18:45:48",
+      "item_preview": "HP M27 FHD Monitor, Samsung 32\" Class M50B Smart Monitor"
+    },
+    {
+      "order_id": "EL000178",
+      "status": "delivered",
+      "total": 3299.96,
+      "item_count": 2,
+      "created_at": "2025-10-05T01:36:30",
+      "item_preview": "Dell XPS 15, Meross Smart Garage Door Opener"
+    }
+  ],
+  "categories": [
+    {
+      "id": "orders",
+      "name": "Orders",
+      "type": "orders",
+      "label": "orders",
+      "has_cost": true,
+      "summary": {
+        "total_count": 41,
+        "total_spent": 80027.25,
+        "first_date": "2025-10-05",
+        "last_date": "2026-01-21"
+      },
+      "items": [
+        {
+          "order_id": "EL000062",
+          "status": "delivered",
+          "total": 1899.97,
+          "item_count": 2,
+          "created_at": "2026-01-21T21:18:32",
+          "item_preview": "HP Envy x360 15, Arlo Pro 4 Security Camera 3-Pack"
+        },
+        {
+          "order_id": "EL000074",
+          "status": "delivered",
+          "total": 1999.98,
+          "item_count": 1,
+          "created_at": "2026-01-20T21:18:10",
+          "item_preview": "ASUS ProArt PA27DCE-K"
+        },
+        {
+          "order_id": "EL000058",
+          "status": "delivered",
+          "total": 1544.95,
+          "item_count": 3,
+          "created_at": "2026-01-20T05:58:15",
+          "item_preview": "Dough Spectrum One, Matter Smart Plug by Eve, ..."
+        },
+        {
+          "order_id": "EL000076",
+          "status": "delivered",
+          "total": 49.98,
+          "item_count": 1,
+          "created_at": "2026-01-09T18:54:04",
+          "item_preview": "Wemo Smart Plug"
+        },
+        {
+          "order_id": "EL000165",
+          "status": "pending",
+          "total": 1799.98,
+          "item_count": 1,
+          "created_at": "2026-01-08T23:15:43",
+          "item_preview": "Acer Nitro 5"
+        },
+        {
+          "order_id": "EL000173",
+          "status": "delivered",
+          "total": 1359.97,
+          "item_count": 2,
+          "created_at": "2025-12-31T20:37:58",
+          "item_preview": "ViewSonic VP3268a-4K, Philips Hue Play Gradient Lightstrip"
+        },
+        {
+          "order_id": "EL000077",
+          "status": "shipped",
+          "total": 2199.97,
+          "item_count": 2,
+          "created_at": "2025-12-31T03:49:47",
+          "item_preview": "Logitech G915 TKL, Dell G15"
+        },
+        {
+          "order_id": "EL000070",
+          "status": "delivered",
+          "total": 2979.95,
+          "item_count": 3,
+          "created_at": "2025-12-30T05:08:46",
+          "item_preview": "Dyson Purifier Hot+Cool, Gigabyte M32U, ..."
+        },
+        {
+          "order_id": "EL000071",
+          "status": "delivered",
+          "total": 499.99,
+          "item_count": 1,
+          "created_at": "2025-12-18T09:49:58",
+          "item_preview": "Arlo Pro 4 Security Camera 3-Pack"
+        },
+        {
+          "order_id": "EL000164",
+          "status": "delivered",
+          "total": 2844.01,
+          "item_count": 2,
+          "created_at": "2025-12-13T00:32:59",
+          "item_preview": "MacBook Air 13\" M3, Coway Airmega 400S Smart Air Purifier"
+        },
+        {
+          "order_id": "EL000079",
+          "status": "delivered",
+          "total": 999.99,
+          "item_count": 1,
+          "created_at": "2025-12-12T22:18:21",
+          "item_preview": "ASUS ProArt PA27DCE-K"
+        },
+        {
+          "order_id": "EL000167",
+          "status": "delivered",
+          "total": 2999.95,
+          "item_count": 3,
+          "created_at": "2025-12-12T20:17:58",
+          "item_preview": "Meross Smart Garage Door Opener, Acer Nitro 5, ..."
+        },
+        {
+          "order_id": "EL000066",
+          "status": "pending",
+          "total": 599.98,
+          "item_count": 1,
+          "created_at": "2025-12-10T23:02:03",
+          "item_preview": "Logitech G Cloud Gaming Handheld"
+        },
+        {
+          "order_id": "EL000174",
+          "status": "delivered",
+          "total": 1929.96,
+          "item_count": 3,
+          "created_at": "2025-12-08T12:25:20",
+          "item_preview": "Arlo Essential Indoor Camera, Philips Hue Play Gradient Lightstrip, ..."
+        },
+        {
+          "order_id": "EL000162",
+          "status": "delivered",
+          "total": 2399.98,
+          "item_count": 1,
+          "created_at": "2025-12-06T05:04:50",
+          "item_preview": "Microsoft Surface Laptop 6"
+        },
+        {
+          "order_id": "EL000171",
+          "status": "delivered",
+          "total": 219.98,
+          "item_count": 1,
+          "created_at": "2025-12-05T18:33:48",
+          "item_preview": "Logitech MX Keys S"
+        },
+        {
+          "order_id": "EL000161",
+          "status": "pending",
+          "total": 1399.99,
+          "item_count": 1,
+          "created_at": "2025-11-30T11:20:17",
+          "item_preview": "Dell Latitude 5540"
+        },
+        {
+          "order_id": "EL000163",
+          "status": "shipped",
+          "total": 744.28,
+          "item_count": 1,
+          "created_at": "2025-11-28T06:53:25",
+          "item_preview": "GE 45-Pint Smart Dehumidifier"
+        },
+        {
+          "order_id": "EL000065",
+          "status": "pending",
+          "total": 644.98,
+          "item_count": 2,
+          "created_at": "2025-11-25T18:24:48",
+          "item_preview": "Gigabyte M32U, Matter Smart Plug by Eve"
+        },
+        {
+          "order_id": "EL000073",
+          "status": "delivered",
+          "total": 6199.97,
+          "item_count": 2,
+          "created_at": "2025-11-25T15:11:35",
+          "item_preview": "ASUS ProArt PA32UCG-K, Nanoleaf Shapes Hexagons Starter Kit"
+        },
+        {
+          "order_id": "EL000068",
+          "status": "delivered",
+          "total": 2599.98,
+          "item_count": 1,
+          "created_at": "2025-11-25T10:16:47",
+          "item_preview": "Samsung Odyssey G9 49\""
+        },
+        {
+          "order_id": "EL000069",
+          "status": "delivered",
+          "total": 1999.99,
+          "item_count": 1,
+          "created_at": "2025-11-18T06:20:19",
+          "item_preview": "Sony 75\" Bravia XR 4K Smart TV"
+        },
+        {
+          "order_id": "EL000072",
+          "status": "delivered",
+          "total": 7999.98,
+          "item_count": 1,
+          "created_at": "2025-11-17T19:29:30",
+          "item_preview": "NEC MultiSync PA311D"
+        },
+        {
+          "order_id": "EL000061",
+          "status": "shipped",
+          "total": 999.99,
+          "item_count": 1,
+          "created_at": "2025-11-16T11:14:35",
+          "item_preview": "ASUS ProArt PA27DCE-K"
+        },
+        {
+          "order_id": "EL000166",
+          "status": "delivered",
+          "total": 2299.98,
+          "item_count": 2,
+          "created_at": "2025-11-15T01:07:52",
+          "item_preview": "Sony 75\" Bravia XR 4K Smart TV, Schlage Encode Plus"
+        },
+        {
+          "order_id": "EL000168",
+          "status": "delivered",
+          "total": 79.98,
+          "item_count": 1,
+          "created_at": "2025-11-11T11:02:17",
+          "item_preview": "Eve Door and Window Sensor"
+        },
+        {
+          "order_id": "EL000064",
+          "status": "pending",
+          "total": 499.98,
+          "item_count": 1,
+          "created_at": "2025-11-10T19:35:33",
+          "item_preview": "Ecobee Smart Thermostat Premium"
+        },
+        {
+          "order_id": "EL000075",
+          "status": "delivered",
+          "total": 2199.97,
+          "item_count": 2,
+          "created_at": "2025-11-09T13:21:35",
+          "item_preview": "Samsung Smart Monitor M8, Dyson Purifier Hot+Cool"
+        },
+        {
+          "order_id": "EL000172",
+          "status": "delivered",
+          "total": 1819.97,
+          "item_count": 2,
+          "created_at": "2025-11-05T23:04:57",
+          "item_preview": "Dell XPS 15, Logitech MX Keys S"
+        },
+        {
+          "order_id": "EL000170",
+          "status": "delivered",
+          "total": 199.99,
+          "item_count": 1,
+          "created_at": "2025-11-04T06:09:14",
+          "item_preview": "HP M27 FHD Monitor"
+        },
+        {
+          "order_id": "EL000078",
+          "status": "shipped",
+          "total": 1949.96,
+          "item_count": 3,
+          "created_at": "2025-10-26T16:39:29",
+          "item_preview": "IKEA Dirigera Hub, LG 55\" OLED 4K Smart TV, ..."
+        },
+        {
+          "order_id": "EL000169",
+          "status": "cancelled",
+          "total": 3299.96,
+          "item_count": 2,
+          "created_at": "2025-10-19T02:02:11",
+          "item_preview": "Dell XPS 15, Arlo Essential Indoor Camera"
+        },
+        {
+          "order_id": "EL000060",
+          "status": "shipped",
+          "total": 1299.98,
+          "item_count": 1,
+          "created_at": "2025-10-17T19:19:53",
+          "item_preview": "Google Pixelbook Go"
+        },
+        {
+          "order_id": "EL000176",
+          "status": "pending",
+          "total": 99.98,
+          "item_count": 1,
+          "created_at": "2025-10-16T02:25:57",
+          "item_preview": "Arlo Essential Indoor Camera"
+        },
+        {
+          "order_id": "EL000175",
+          "status": "delivered",
+          "total": 459.98,
+          "item_count": 1,
+          "created_at": "2025-10-14T21:35:55",
+          "item_preview": "Philips Hue Play Gradient Lightstrip"
+        },
+        {
+          "order_id": "EL000179",
+          "status": "delivered",
+          "total": 1399.99,
+          "item_count": 1,
+          "created_at": "2025-10-14T08:18:06",
+          "item_preview": "Dell Latitude 5540"
+        },
+        {
+          "order_id": "EL000059",
+          "status": "delivered",
+          "total": 4799.94,
+          "item_count": 3,
+          "created_at": "2025-10-11T21:25:58",
+          "item_preview": "Google Nest Hub 2nd Gen, Sony 75\" Bravia XR 4K Smart TV, ..."
+        },
+        {
+          "order_id": "EL000063",
+          "status": "delivered",
+          "total": 3199.96,
+          "item_count": 3,
+          "created_at": "2025-10-10T17:15:58",
+          "item_preview": "Gigabyte M32U, Dell G15, ..."
+        },
+        {
+          "order_id": "EL000067",
+          "status": "cancelled",
+          "total": 3399.95,
+          "item_count": 3,
+          "created_at": "2025-10-08T16:36:52",
+          "item_preview": "IKEA Dirigera Hub, Dell G15, ..."
+        },
+        {
+          "order_id": "EL000177",
+          "status": "shipped",
+          "total": 799.97,
+          "item_count": 2,
+          "created_at": "2025-10-06T18:45:48",
+          "item_preview": "HP M27 FHD Monitor, Samsung 32\" Class M50B Smart Monitor"
+        },
+        {
+          "order_id": "EL000178",
+          "status": "delivered",
+          "total": 3299.96,
+          "item_count": 2,
+          "created_at": "2025-10-05T01:36:30",
+          "item_preview": "Dell XPS 15, Meross Smart Garage Door Opener"
+        }
+      ]
+    }
+  ]
+}

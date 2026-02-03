@@ -1,0 +1,30 @@
+{
+  "order_id": "EL000085",
+  "persona_id": "persona_010",
+  "store_id": "electronics_store",
+  "status": "shipped",
+  "created_at": "2025-12-29T03:04:40",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "321 French Quarter Ave, New Orleans, LA 70116",
+  "items": [
+    {
+      "product_id": "SH038",
+      "name": "Aqara Hub M3",
+      "category": "Smart Home",
+      "quantity": 2,
+      "price": 79.99,
+      "subtotal": 159.98
+    },
+    {
+      "product_id": "NW004",
+      "name": "Google Nest WiFi Pro 3-Pack",
+      "category": "Networking",
+      "quantity": 2,
+      "price": 399.99,
+      "subtotal": 799.98
+    }
+  ],
+  "total": 959.96,
+  "currency": "USD"
+}

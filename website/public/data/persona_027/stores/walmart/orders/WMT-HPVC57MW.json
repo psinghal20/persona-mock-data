@@ -1,0 +1,30 @@
+{
+  "order_id": "WMT-HPVC57MW",
+  "persona_id": "persona_027",
+  "store_id": "walmart",
+  "status": "delivered",
+  "created_at": "2026-01-21T07:43:25",
+  "shipped_at": "2026-01-22T07:43:25",
+  "delivered_at": "2026-01-27T07:43:25",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "items": [
+    {
+      "product_id": "WMT00001466",
+      "name": "Big Barker Big Barker Orthopedic Bed",
+      "category": "Pets",
+      "quantity": 2,
+      "price": 283.78,
+      "subtotal": 567.56
+    },
+    {
+      "product_id": "WMT00003066",
+      "name": "Maytag Bravos XL Electric Dryer",
+      "category": "Home Appliances",
+      "quantity": 4,
+      "price": 918.71,
+      "subtotal": 3674.84
+    }
+  ],
+  "total": 4242.4,
+  "currency": "USD"
+}

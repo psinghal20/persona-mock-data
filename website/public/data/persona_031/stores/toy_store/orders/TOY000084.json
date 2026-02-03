@@ -1,0 +1,46 @@
+{
+  "order_id": "TOY000084",
+  "persona_id": "persona_031",
+  "store_id": "toy_store",
+  "status": "delivered",
+  "created_at": "2025-11-27T19:53:00",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "999 Suburban Lane, Phoenix, AZ 85001",
+  "items": [
+    {
+      "product_id": "TOY-177",
+      "name": "Bocce Ball Set",
+      "category": "Outdoor Play",
+      "quantity": 1,
+      "price": 39.99,
+      "subtotal": 39.99
+    },
+    {
+      "product_id": "TOY-398",
+      "name": "Melissa & Doug Scratch Art",
+      "category": "Arts & Crafts",
+      "quantity": 1,
+      "price": 9.99,
+      "subtotal": 9.99
+    },
+    {
+      "product_id": "TOY-025",
+      "name": "Play-Doh Ultimate Color Collection",
+      "category": "Arts & Crafts",
+      "quantity": 1,
+      "price": 24.99,
+      "subtotal": 24.99
+    },
+    {
+      "product_id": "TOY-329",
+      "name": "Kan Jam Ultimate Game",
+      "category": "Sports Toys",
+      "quantity": 2,
+      "price": 44.99,
+      "subtotal": 89.98
+    }
+  ],
+  "total": 164.95,
+  "currency": "USD"
+}

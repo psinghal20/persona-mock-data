@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-15",
+  "persona_id": "persona_010",
+  "store_id": "coffee_roaster",
+  "status": "completed",
+  "created_at": "2025-11-02T09:26:16",
+  "items": [
+    {
+      "product_id": "85",
+      "name": "French Roast",
+      "category": "",
+      "quantity": 1,
+      "price": 26.0,
+      "subtotal": 26.0
+    }
+  ],
+  "total": 26.0,
+  "currency": "USD"
+}

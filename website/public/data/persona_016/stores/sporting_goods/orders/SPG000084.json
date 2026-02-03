@@ -1,0 +1,30 @@
+{
+  "order_id": "SPG000084",
+  "persona_id": "persona_016",
+  "store_id": "sporting_goods",
+  "status": "delivered",
+  "created_at": "2026-01-18T12:24:38",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "222 Tech Campus Way, Austin, TX 78701",
+  "items": [
+    {
+      "product_id": "FIT027",
+      "name": "Foam Roller 18in",
+      "category": "Recovery",
+      "quantity": 2,
+      "price": 34.99,
+      "subtotal": 69.98
+    },
+    {
+      "product_id": "YGA008",
+      "name": "Yoga Strap 8ft",
+      "category": "Props",
+      "quantity": 1,
+      "price": 12.99,
+      "subtotal": 12.99
+    }
+  ],
+  "total": 82.97,
+  "currency": "USD"
+}

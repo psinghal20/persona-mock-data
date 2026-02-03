@@ -1,0 +1,38 @@
+{
+  "order_id": "WMT-6ANQUJ6T",
+  "persona_id": "persona_016",
+  "store_id": "walmart",
+  "status": "pending",
+  "created_at": "2026-01-08T14:29:08",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "222 Tech Campus Way, Austin, TX 78701",
+  "items": [
+    {
+      "product_id": "WMT00000122",
+      "name": "Sunrise Farms Organic Crab Legs",
+      "category": "Grocery",
+      "quantity": 1,
+      "price": 34.3,
+      "subtotal": 34.3
+    },
+    {
+      "product_id": "WMT00003045",
+      "name": "Bosch 800 Series French Door Refrigerator",
+      "category": "Home Appliances",
+      "quantity": 2,
+      "price": 3650.24,
+      "subtotal": 7300.48
+    },
+    {
+      "product_id": "WMT00000408",
+      "name": "Cal-Organic Chayote",
+      "category": "Grocery",
+      "quantity": 4,
+      "price": 2.32,
+      "subtotal": 9.28
+    }
+  ],
+  "total": 7344.06,
+  "currency": "USD"
+}

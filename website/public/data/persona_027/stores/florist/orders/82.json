@@ -1,0 +1,40 @@
+{
+  "order_id": "82",
+  "persona_id": "persona_027",
+  "store_id": "florist",
+  "status": "delivered",
+  "created_at": "2025-12-11T07:02:34",
+  "shipped_at": "",
+  "delivered_at": "2025-12-15",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "recipient_name": "Grandmother",
+  "card_message": "Thinking of you!",
+  "items": [
+    {
+      "product_id": "91",
+      "name": "Wedding Corsage White",
+      "category": "Corsages",
+      "quantity": 1,
+      "price": 34.99,
+      "subtotal": 34.99
+    },
+    {
+      "product_id": "4",
+      "name": "Premium Chocolate Strawberries (6)",
+      "category": "Add-on",
+      "quantity": 1,
+      "price": 29.99,
+      "subtotal": 29.99
+    },
+    {
+      "product_id": "64",
+      "name": "Candle Gift Box",
+      "category": "Add-on",
+      "quantity": 1,
+      "price": 29.99,
+      "subtotal": 29.99
+    }
+  ],
+  "total": 104.96,
+  "currency": "USD"
+}

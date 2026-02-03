@@ -1,0 +1,38 @@
+{
+  "order_id": "ORDER-S3UJ7Q4O",
+  "persona_id": "persona_022",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2026-01-16T15:18:30",
+  "shipped_at": "2026-01-17T15:18:30",
+  "delivered_at": "2026-01-20T15:18:30",
+  "shipping_address": "444 Polish Hill St, Philadelphia, PA 19123",
+  "items": [
+    {
+      "product_id": "B0PETS0167",
+      "name": "Pet Naturals Pet Naturals Calming Chews Cats",
+      "category": "Pet Supplies",
+      "quantity": 1,
+      "price": 10.31,
+      "subtotal": 10.31
+    },
+    {
+      "product_id": "B0C7GL324K",
+      "name": "Technivorm Moccamaster KBGV Select",
+      "category": "Home & Kitchen",
+      "quantity": 2,
+      "price": 359.0,
+      "subtotal": 718.0
+    },
+    {
+      "product_id": "B0AMZN1249",
+      "name": "Baratza Encore ESP",
+      "category": "Home & Kitchen",
+      "quantity": 3,
+      "price": 199.0,
+      "subtotal": 597.0
+    }
+  ],
+  "total": 1325.31,
+  "currency": "USD"
+}

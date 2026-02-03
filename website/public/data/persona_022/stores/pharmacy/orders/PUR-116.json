@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-116",
+  "persona_id": "persona_022",
+  "store_id": "pharmacy",
+  "status": "completed",
+  "created_at": "2025-12-11T05:40:11",
+  "items": [
+    {
+      "product_id": "61",
+      "name": "Rolaids",
+      "category": "Digestive Health",
+      "quantity": 3,
+      "price": 7.99,
+      "subtotal": 23.97
+    }
+  ],
+  "total": 23.97,
+  "currency": "USD"
+}

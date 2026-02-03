@@ -1,0 +1,30 @@
+{
+  "order_id": "ORDER-ZJW1KJXO",
+  "persona_id": "persona_002",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-12-08T23:43:52",
+  "shipped_at": "2025-12-11T23:43:52",
+  "delivered_at": "2025-12-16T23:43:52",
+  "shipping_address": "456 Tech Park Drive, San Jose, CA 95110",
+  "items": [
+    {
+      "product_id": "B0AMZN1778",
+      "name": "Ergotron LX Desk Monitor Arm",
+      "category": "Office Products",
+      "quantity": 1,
+      "price": 179.0,
+      "subtotal": 179.0
+    },
+    {
+      "product_id": "B0AMZN1354",
+      "name": "Apple 140W USB-C Power Adapter",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 99.0,
+      "subtotal": 99.0
+    }
+  ],
+  "total": 278.0,
+  "currency": "USD"
+}

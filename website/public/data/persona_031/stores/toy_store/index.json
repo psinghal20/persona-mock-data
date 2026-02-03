@@ -1,0 +1,654 @@
+{
+  "persona_id": "persona_031",
+  "store_id": "toy_store",
+  "store_name": "Toy Store",
+  "transaction_type": "orders",
+  "transaction_label": "orders",
+  "has_cost": true,
+  "summary": {
+    "total_count": 73,
+    "total_spent": 6354.32,
+    "first_date": "2025-10-01",
+    "last_date": "2026-01-26"
+  },
+  "items": [],
+  "categories": [
+    {
+      "id": "orders",
+      "name": "Orders",
+      "type": "orders",
+      "label": "orders",
+      "has_cost": true,
+      "summary": {
+        "total_count": 50,
+        "total_spent": 6354.32,
+        "first_date": "2025-10-05",
+        "last_date": "2026-01-26"
+      },
+      "items": [
+        {
+          "order_id": "TOY000082",
+          "status": "delivered",
+          "total": 229.95,
+          "item_count": 3,
+          "created_at": "2026-01-26T15:32:43",
+          "item_preview": "Monopoly Classic, Step2 Water Table, ..."
+        },
+        {
+          "order_id": "TOY000012",
+          "status": "shipped",
+          "total": 177.97,
+          "item_count": 3,
+          "created_at": "2026-01-22T02:21:29",
+          "item_preview": "Crossnet Four Square, Alex Spa Hair Chalk Pens, ..."
+        },
+        {
+          "order_id": "TOY000014",
+          "status": "shipped",
+          "total": 99.96,
+          "item_count": 2,
+          "created_at": "2026-01-20T08:40:55",
+          "item_preview": "Aquabeads Mega Set, Kanoodle Genius"
+        },
+        {
+          "order_id": "TOY000017",
+          "status": "delivered",
+          "total": 14.99,
+          "item_count": 1,
+          "created_at": "2026-01-15T18:38:03",
+          "item_preview": "Chutes and Ladders"
+        },
+        {
+          "order_id": "TOY000077",
+          "status": "shipped",
+          "total": 19.99,
+          "item_count": 1,
+          "created_at": "2026-01-14T22:12:47",
+          "item_preview": "Tie Dye Kit"
+        },
+        {
+          "order_id": "TOY000011",
+          "status": "delivered",
+          "total": 184.95,
+          "item_count": 3,
+          "created_at": "2026-01-11T14:29:08",
+          "item_preview": "7 Wonders Board Game, Frisbee Golf Set, ..."
+        },
+        {
+          "order_id": "TOY000094",
+          "status": "shipped",
+          "total": 179.96,
+          "item_count": 3,
+          "created_at": "2026-01-10T13:35:43",
+          "item_preview": "Glow Battle Light Up Swords, Qwirkle Board Game, ..."
+        },
+        {
+          "order_id": "TOY000022",
+          "status": "delivered",
+          "total": 84.97,
+          "item_count": 2,
+          "created_at": "2026-01-09T17:58:06",
+          "item_preview": "Crayola Light Up Tracing Pad, Stomp Rocket"
+        },
+        {
+          "order_id": "TOY000007",
+          "status": "pending",
+          "total": 49.98,
+          "item_count": 1,
+          "created_at": "2026-01-07T18:47:51",
+          "item_preview": "Super Soaker XP100"
+        },
+        {
+          "order_id": "TOY000019",
+          "status": "delivered",
+          "total": 104.98,
+          "item_count": 2,
+          "created_at": "2026-01-03T12:19:23",
+          "item_preview": "Schwinn Balance Bike, Rainbow Loom"
+        },
+        {
+          "order_id": "TOY000079",
+          "status": "pending",
+          "total": 169.95,
+          "item_count": 3,
+          "created_at": "2026-01-02T08:27:09",
+          "item_preview": "Azul Board Game, Qwirkle Board Game, ..."
+        },
+        {
+          "order_id": "TOY000004",
+          "status": "delivered",
+          "total": 99.96,
+          "item_count": 3,
+          "created_at": "2026-01-01T15:28:19",
+          "item_preview": "Stomp Rocket, Kids Against Maturity, ..."
+        },
+        {
+          "order_id": "TOY000073",
+          "status": "delivered",
+          "total": 509.94,
+          "item_count": 3,
+          "created_at": "2025-12-30T20:35:57",
+          "item_preview": "Klutz Friendship Bracelets, Azul Board Game, ..."
+        },
+        {
+          "order_id": "TOY000075",
+          "status": "delivered",
+          "total": 159.96,
+          "item_count": 2,
+          "created_at": "2025-12-29T08:44:46",
+          "item_preview": "Stomp Rocket, Crayola Inspiration Art Case"
+        },
+        {
+          "order_id": "TOY000001",
+          "status": "cancelled",
+          "total": 79.96,
+          "item_count": 2,
+          "created_at": "2025-12-28T10:14:57",
+          "item_preview": "Cards Against Humanity Family, Crayola Washable Paint Set"
+        },
+        {
+          "order_id": "TOY000021",
+          "status": "shipped",
+          "total": 29.99,
+          "item_count": 1,
+          "created_at": "2025-12-28T02:33:13",
+          "item_preview": "Spirograph Deluxe Set"
+        },
+        {
+          "order_id": "TOY000076",
+          "status": "delivered",
+          "total": 114.97,
+          "item_count": 2,
+          "created_at": "2025-12-26T07:32:32",
+          "item_preview": "Kan Jam Ultimate Game, Crayola Light Up Tracing Pad"
+        },
+        {
+          "order_id": "TOY000081",
+          "status": "delivered",
+          "total": 49.98,
+          "item_count": 2,
+          "created_at": "2025-12-24T11:38:59",
+          "item_preview": "Nerf Fortnite Blaster, Crayola Silly Scents Set"
+        },
+        {
+          "order_id": "TOY000078",
+          "status": "shipped",
+          "total": 29.99,
+          "item_count": 1,
+          "created_at": "2025-12-22T00:34:48",
+          "item_preview": "Rainbow Loom Deluxe"
+        },
+        {
+          "order_id": "TOY000018",
+          "status": "shipped",
+          "total": 104.96,
+          "item_count": 3,
+          "created_at": "2025-12-21T06:28:26",
+          "item_preview": "Klutz Friendship Bracelets, Aquabeads Mega Set, ..."
+        },
+        {
+          "order_id": "TOY000083",
+          "status": "pending",
+          "total": 114.95,
+          "item_count": 3,
+          "created_at": "2025-12-17T13:50:23",
+          "item_preview": "Calico Critters Family Set, Mouse Trap, ..."
+        },
+        {
+          "order_id": "TOY000006",
+          "status": "delivered",
+          "total": 129.94,
+          "item_count": 3,
+          "created_at": "2025-12-17T00:31:45",
+          "item_preview": "Diamond Art Kit, Tie Dye Kit, ..."
+        },
+        {
+          "order_id": "TOY000072",
+          "status": "shipped",
+          "total": 79.97,
+          "item_count": 2,
+          "created_at": "2025-12-15T23:29:48",
+          "item_preview": "Badminton Set, Rainbow Loom"
+        },
+        {
+          "order_id": "TOY000091",
+          "status": "delivered",
+          "total": 219.97,
+          "item_count": 2,
+          "created_at": "2025-12-14T08:07:30",
+          "item_preview": "Splendor Board Game, Little Tikes Cozy Coupe"
+        },
+        {
+          "order_id": "TOY000020",
+          "status": "delivered",
+          "total": 99.98,
+          "item_count": 1,
+          "created_at": "2025-12-11T20:45:36",
+          "item_preview": "Super Soaker Hydra"
+        },
+        {
+          "order_id": "TOY000005",
+          "status": "delivered",
+          "total": 34.99,
+          "item_count": 1,
+          "created_at": "2025-12-09T16:48:11",
+          "item_preview": "Aquabeads Mega Set"
+        },
+        {
+          "order_id": "TOY000088",
+          "status": "shipped",
+          "total": 439.95,
+          "item_count": 3,
+          "created_at": "2025-12-09T14:27:36",
+          "item_preview": "Crossnet Four Square, Razor A Kick Scooter, ..."
+        },
+        {
+          "order_id": "TOY000016",
+          "status": "delivered",
+          "total": 179.95,
+          "item_count": 3,
+          "created_at": "2025-12-08T17:05:19",
+          "item_preview": "Pogo Stick, Educational Insights GeoSafari Jr, ..."
+        },
+        {
+          "order_id": "TOY000003",
+          "status": "pending",
+          "total": 149.96,
+          "item_count": 3,
+          "created_at": "2025-12-07T12:04:33",
+          "item_preview": "Spirograph Deluxe Set, Minecraft Creeper Plush, ..."
+        },
+        {
+          "order_id": "TOY000008",
+          "status": "delivered",
+          "total": 124.96,
+          "item_count": 3,
+          "created_at": "2025-12-05T08:45:09",
+          "item_preview": "Rainbow Loom Deluxe, Frisbee Golf Set, ..."
+        },
+        {
+          "order_id": "TOY000090",
+          "status": "cancelled",
+          "total": 169.98,
+          "item_count": 2,
+          "created_at": "2025-12-04T08:50:11",
+          "item_preview": "Crossnet Four Square, Tie Dye Kit"
+        },
+        {
+          "order_id": "TOY000092",
+          "status": "delivered",
+          "total": 85.95,
+          "item_count": 3,
+          "created_at": "2025-11-28T06:28:51",
+          "item_preview": "Kanoodle, Crayola Washable Paint Set, ..."
+        },
+        {
+          "order_id": "TOY000084",
+          "status": "delivered",
+          "total": 164.95,
+          "item_count": 4,
+          "created_at": "2025-11-27T19:53:00",
+          "item_preview": "Bocce Ball Set, Melissa & Doug Scratch Art, ..."
+        },
+        {
+          "order_id": "TOY000089",
+          "status": "delivered",
+          "total": 109.96,
+          "item_count": 2,
+          "created_at": "2025-11-27T03:06:21",
+          "item_preview": "Melissa & Doug Scratch Art, KanJam Original"
+        },
+        {
+          "order_id": "TOY000086",
+          "status": "pending",
+          "total": 189.96,
+          "item_count": 3,
+          "created_at": "2025-11-24T14:04:29",
+          "item_preview": "Azul Board Game, LEGO Classic Large Creative Box, ..."
+        },
+        {
+          "order_id": "TOY000074",
+          "status": "pending",
+          "total": 179.96,
+          "item_count": 2,
+          "created_at": "2025-11-23T22:38:01",
+          "item_preview": "Spikeball Standard Set, Spirograph Deluxe Set"
+        },
+        {
+          "order_id": "TOY000010",
+          "status": "delivered",
+          "total": 99.95,
+          "item_count": 3,
+          "created_at": "2025-11-21T23:49:07",
+          "item_preview": "Kids Against Maturity, LEGO DOTS Bracelet Kit, ..."
+        },
+        {
+          "order_id": "TOY000087",
+          "status": "delivered",
+          "total": 39.99,
+          "item_count": 1,
+          "created_at": "2025-11-12T11:46:43",
+          "item_preview": "Azul Board Game"
+        },
+        {
+          "order_id": "TOY000009",
+          "status": "delivered",
+          "total": 49.99,
+          "item_count": 1,
+          "created_at": "2025-11-10T04:23:42",
+          "item_preview": "Guidecraft Rainbow Blocks"
+        },
+        {
+          "order_id": "TOY000015",
+          "status": "shipped",
+          "total": 70.97,
+          "item_count": 2,
+          "created_at": "2025-11-09T19:02:41",
+          "item_preview": "Alex Spa Hair Chalk Pens, KanJam Original"
+        },
+        {
+          "order_id": "TOY000095",
+          "status": "delivered",
+          "total": 159.98,
+          "item_count": 1,
+          "created_at": "2025-10-20T00:27:47",
+          "item_preview": "Schwinn Balance Bike"
+        },
+        {
+          "order_id": "TOY000096",
+          "status": "cancelled",
+          "total": 19.98,
+          "item_count": 1,
+          "created_at": "2025-10-19T14:44:55",
+          "item_preview": "Melissa & Doug Scratch Art"
+        },
+        {
+          "order_id": "TOY000025",
+          "status": "delivered",
+          "total": 185.94,
+          "item_count": 4,
+          "created_at": "2025-10-17T19:15:08",
+          "item_preview": "Calico Critters Family Set, Kanoodle, ..."
+        },
+        {
+          "order_id": "TOY000093",
+          "status": "delivered",
+          "total": 149.96,
+          "item_count": 2,
+          "created_at": "2025-10-15T04:07:06",
+          "item_preview": "Crayola Inspiration Art Case, Cards Against Humanity Family"
+        },
+        {
+          "order_id": "TOY000002",
+          "status": "delivered",
+          "total": 79.97,
+          "item_count": 2,
+          "created_at": "2025-10-15T01:03:23",
+          "item_preview": "Minecraft Creeper Plush, Perler Beads Mega Kit"
+        },
+        {
+          "order_id": "TOY000013",
+          "status": "pending",
+          "total": 79.98,
+          "item_count": 2,
+          "created_at": "2025-10-14T14:58:23",
+          "item_preview": "Nerf Elite 2.0 Commander, Bluey Family Home Playset"
+        },
+        {
+          "order_id": "TOY000024",
+          "status": "delivered",
+          "total": 69.99,
+          "item_count": 1,
+          "created_at": "2025-10-13T17:42:43",
+          "item_preview": "Radio Flyer My First Wagon"
+        },
+        {
+          "order_id": "TOY000023",
+          "status": "delivered",
+          "total": 124.97,
+          "item_count": 2,
+          "created_at": "2025-10-13T06:02:41",
+          "item_preview": "Play-Doh Ultimate Color Collection, Croquet Set"
+        },
+        {
+          "order_id": "TOY000080",
+          "status": "delivered",
+          "total": 219.92,
+          "item_count": 4,
+          "created_at": "2025-10-09T09:51:26",
+          "item_preview": "Bocce Ball Set, Cards Against Humanity Family, ..."
+        },
+        {
+          "order_id": "TOY000085",
+          "status": "delivered",
+          "total": 29.99,
+          "item_count": 1,
+          "created_at": "2025-10-05T07:35:01",
+          "item_preview": "Kids Against Maturity"
+        }
+      ]
+    },
+    {
+      "id": "wishlists",
+      "name": "Wishlists",
+      "type": "wishlists",
+      "label": "wishlist items",
+      "has_cost": false,
+      "summary": {
+        "total_count": 23,
+        "total_spent": 0,
+        "first_date": "2025-10-01",
+        "last_date": "2026-01-26"
+      },
+      "items": [
+        {
+          "order_id": "WISH-3",
+          "display_name": "Qwirkle",
+          "description": "For Sophia \u2022 Good Grades",
+          "status": "low",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2026-01-26T06:54:08"
+        },
+        {
+          "order_id": "WISH-49",
+          "display_name": "Playmobil City Life Hospital",
+          "description": "For Isabella \u2022 Birthday",
+          "status": "high",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2026-01-17T16:48:46"
+        },
+        {
+          "order_id": "WISH-46",
+          "display_name": "Barbie Career Doctor Playset",
+          "description": "For Miguel \u2022 Christmas",
+          "status": "low",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2026-01-17T06:36:13"
+        },
+        {
+          "order_id": "WISH-5",
+          "display_name": "Super Soaker Hydra",
+          "description": "For Miguel \u2022 Just Because",
+          "status": "high",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2026-01-04T22:23:55"
+        },
+        {
+          "order_id": "WISH-11",
+          "display_name": "Learning Resources Gears",
+          "description": "For Isabella \u2022 Good Grades",
+          "status": "medium",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-12-29T15:38:03"
+        },
+        {
+          "order_id": "WISH-45",
+          "display_name": "Celestron Telescope for Kids",
+          "description": "For Sophia \u2022 Good Grades",
+          "status": "high",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-12-28T09:08:17"
+        },
+        {
+          "order_id": "WISH-8",
+          "display_name": "Nintendo Mario Plush",
+          "description": "For Isabella \u2022 Christmas",
+          "status": "high",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-12-26T17:38:01"
+        },
+        {
+          "order_id": "WISH-13",
+          "display_name": "Mad Mattr Sensory Dough",
+          "description": "For Isabella \u2022 Birthday",
+          "status": "high",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-12-26T05:54:38"
+        },
+        {
+          "order_id": "WISH-10",
+          "display_name": "Tonka Steel Classics Dump Truck",
+          "description": "For Isabella \u2022 Christmas",
+          "status": "high",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-12-16T10:05:57"
+        },
+        {
+          "order_id": "WISH-50",
+          "display_name": "Lawn Darts Set",
+          "description": "For Isabella \u2022 Just Because",
+          "status": "high",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-12-14T03:05:09"
+        },
+        {
+          "order_id": "WISH-7",
+          "display_name": "Fisher-Price Little People Farm",
+          "description": "For Isabella \u2022 Christmas",
+          "status": "medium",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-12-09T12:01:32"
+        },
+        {
+          "order_id": "WISH-44",
+          "display_name": "Nintendo Labo Vehicle Kit",
+          "description": "For Sophia \u2022 Birthday",
+          "status": "low",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-12-07T07:54:00"
+        },
+        {
+          "order_id": "WISH-2",
+          "display_name": "7 Wonders Board Game",
+          "description": "For Sophia \u2022 Good Grades",
+          "status": "low",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-12-02T14:20:47"
+        },
+        {
+          "order_id": "WISH-14",
+          "display_name": "Aquabeads Mega Set",
+          "description": "For Isabella \u2022 Christmas",
+          "status": "medium",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-11-22T10:46:51"
+        },
+        {
+          "order_id": "WISH-9",
+          "display_name": "Nintendo Switch Game - Mario Kart 8",
+          "description": "For Isabella \u2022 Just Because",
+          "status": "low",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-11-21T07:20:52"
+        },
+        {
+          "order_id": "WISH-48",
+          "display_name": "Paw Patrol Lookout Tower",
+          "description": "For Miguel \u2022 Birthday",
+          "status": "high",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-11-09T18:23:42"
+        },
+        {
+          "order_id": "WISH-43",
+          "display_name": "Osmo Genius Starter Kit",
+          "description": "For Sophia \u2022 Birthday",
+          "status": "high",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-11-09T15:58:38"
+        },
+        {
+          "order_id": "WISH-51",
+          "display_name": "Swimline Giant Inflatable Pizza",
+          "description": "For Isabella \u2022 Good Grades",
+          "status": "high",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-10-19T01:24:07"
+        },
+        {
+          "order_id": "WISH-4",
+          "display_name": "Wild Republic Tiger",
+          "description": "For Miguel \u2022 Good Grades",
+          "status": "high",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-10-18T02:34:41"
+        },
+        {
+          "order_id": "WISH-12",
+          "display_name": "LEGO Speed Champions",
+          "description": "For Isabella \u2022 Just Because",
+          "status": "high",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-10-12T16:52:34"
+        },
+        {
+          "order_id": "WISH-47",
+          "display_name": "Jenga Classic",
+          "description": "For Miguel \u2022 Good Grades",
+          "status": "medium",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-10-04T05:31:48"
+        },
+        {
+          "order_id": "WISH-6",
+          "display_name": "Yahtzee",
+          "description": "For Miguel \u2022 Birthday",
+          "status": "high",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-10-03T16:34:15"
+        },
+        {
+          "order_id": "WISH-1",
+          "display_name": "LEGO Technic RC Car",
+          "description": "For Sophia \u2022 Christmas",
+          "status": "high",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-10-01T19:54:01"
+        }
+      ]
+    }
+  ]
+}

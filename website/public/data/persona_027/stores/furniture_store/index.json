@@ -1,0 +1,209 @@
+{
+  "persona_id": "persona_027",
+  "store_id": "furniture_store",
+  "store_name": "Furniture Store",
+  "transaction_type": "orders",
+  "transaction_label": "orders",
+  "has_cost": true,
+  "summary": {
+    "total_count": 11,
+    "total_spent": 10229.85,
+    "first_date": "2025-10-11",
+    "last_date": "2026-01-15"
+  },
+  "items": [
+    {
+      "order_id": "FRN000027",
+      "status": "delivered",
+      "total": 1649.98,
+      "item_count": 2,
+      "created_at": "2026-01-15T05:45:44",
+      "item_preview": "Nelson Style Platform Bench, Reykjavik Armoire"
+    },
+    {
+      "order_id": "FRN000031",
+      "status": "shipped",
+      "total": 1199.98,
+      "item_count": 2,
+      "created_at": "2026-01-08T21:35:03",
+      "item_preview": "Aarhus Bar Cart, Harbor Bar Height Set"
+    },
+    {
+      "order_id": "FRN000029",
+      "status": "delivered",
+      "total": 399.99,
+      "item_count": 1,
+      "created_at": "2025-12-22T05:40:03",
+      "item_preview": "Driftwood Console"
+    },
+    {
+      "order_id": "FRN000030",
+      "status": "shipped",
+      "total": 1199.99,
+      "item_count": 1,
+      "created_at": "2025-12-18T13:49:56",
+      "item_preview": "Reykjavik Armoire"
+    },
+    {
+      "order_id": "FRN000007",
+      "status": "delivered",
+      "total": 449.99,
+      "item_count": 1,
+      "created_at": "2025-12-15T18:32:22",
+      "item_preview": "Copenhagen Twin Bed"
+    },
+    {
+      "order_id": "FRN000028",
+      "status": "delivered",
+      "total": 1799.98,
+      "item_count": 2,
+      "created_at": "2025-11-29T03:51:41",
+      "item_preview": "Reclaimed Wood Table, Harbor Bar Height Set"
+    },
+    {
+      "order_id": "FRN000006",
+      "status": "shipped",
+      "total": 449.98,
+      "item_count": 2,
+      "created_at": "2025-11-24T23:26:50",
+      "item_preview": "Coastal Adirondack Chair, Malmo Garden Bench"
+    },
+    {
+      "order_id": "FRN000005",
+      "status": "delivered",
+      "total": 89.99,
+      "item_count": 1,
+      "created_at": "2025-11-10T16:41:23",
+      "item_preview": "Helsinki Trellis Set"
+    },
+    {
+      "order_id": "FRN000032",
+      "status": "delivered",
+      "total": 2499.99,
+      "item_count": 1,
+      "created_at": "2025-10-25T19:01:23",
+      "item_preview": "Chesterfield Sofa"
+    },
+    {
+      "order_id": "FRN000008",
+      "status": "delivered",
+      "total": 449.99,
+      "item_count": 1,
+      "created_at": "2025-10-17T09:01:56",
+      "item_preview": "Barnwood Bookcase"
+    },
+    {
+      "order_id": "FRN000004",
+      "status": "shipped",
+      "total": 39.99,
+      "item_count": 1,
+      "created_at": "2025-10-11T06:05:00",
+      "item_preview": "Simple Wood Tray"
+    }
+  ],
+  "categories": [
+    {
+      "id": "orders",
+      "name": "Orders",
+      "type": "orders",
+      "label": "orders",
+      "has_cost": true,
+      "summary": {
+        "total_count": 11,
+        "total_spent": 10229.85,
+        "first_date": "2025-10-11",
+        "last_date": "2026-01-15"
+      },
+      "items": [
+        {
+          "order_id": "FRN000027",
+          "status": "delivered",
+          "total": 1649.98,
+          "item_count": 2,
+          "created_at": "2026-01-15T05:45:44",
+          "item_preview": "Nelson Style Platform Bench, Reykjavik Armoire"
+        },
+        {
+          "order_id": "FRN000031",
+          "status": "shipped",
+          "total": 1199.98,
+          "item_count": 2,
+          "created_at": "2026-01-08T21:35:03",
+          "item_preview": "Aarhus Bar Cart, Harbor Bar Height Set"
+        },
+        {
+          "order_id": "FRN000029",
+          "status": "delivered",
+          "total": 399.99,
+          "item_count": 1,
+          "created_at": "2025-12-22T05:40:03",
+          "item_preview": "Driftwood Console"
+        },
+        {
+          "order_id": "FRN000030",
+          "status": "shipped",
+          "total": 1199.99,
+          "item_count": 1,
+          "created_at": "2025-12-18T13:49:56",
+          "item_preview": "Reykjavik Armoire"
+        },
+        {
+          "order_id": "FRN000007",
+          "status": "delivered",
+          "total": 449.99,
+          "item_count": 1,
+          "created_at": "2025-12-15T18:32:22",
+          "item_preview": "Copenhagen Twin Bed"
+        },
+        {
+          "order_id": "FRN000028",
+          "status": "delivered",
+          "total": 1799.98,
+          "item_count": 2,
+          "created_at": "2025-11-29T03:51:41",
+          "item_preview": "Reclaimed Wood Table, Harbor Bar Height Set"
+        },
+        {
+          "order_id": "FRN000006",
+          "status": "shipped",
+          "total": 449.98,
+          "item_count": 2,
+          "created_at": "2025-11-24T23:26:50",
+          "item_preview": "Coastal Adirondack Chair, Malmo Garden Bench"
+        },
+        {
+          "order_id": "FRN000005",
+          "status": "delivered",
+          "total": 89.99,
+          "item_count": 1,
+          "created_at": "2025-11-10T16:41:23",
+          "item_preview": "Helsinki Trellis Set"
+        },
+        {
+          "order_id": "FRN000032",
+          "status": "delivered",
+          "total": 2499.99,
+          "item_count": 1,
+          "created_at": "2025-10-25T19:01:23",
+          "item_preview": "Chesterfield Sofa"
+        },
+        {
+          "order_id": "FRN000008",
+          "status": "delivered",
+          "total": 449.99,
+          "item_count": 1,
+          "created_at": "2025-10-17T09:01:56",
+          "item_preview": "Barnwood Bookcase"
+        },
+        {
+          "order_id": "FRN000004",
+          "status": "shipped",
+          "total": 39.99,
+          "item_count": 1,
+          "created_at": "2025-10-11T06:05:00",
+          "item_preview": "Simple Wood Tray"
+        }
+      ]
+    }
+  ]
+}

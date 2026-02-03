@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-191",
+  "persona_id": "persona_016",
+  "store_id": "bookstore",
+  "status": "completed",
+  "created_at": "2025-12-30T02:06:02",
+  "items": [
+    {
+      "product_id": "412",
+      "name": "The Overstory",
+      "category": "Fiction",
+      "quantity": 1,
+      "price": 18.95,
+      "subtotal": 18.95
+    }
+  ],
+  "total": 18.95,
+  "currency": "USD"
+}

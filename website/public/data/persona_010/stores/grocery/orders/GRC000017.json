@@ -1,0 +1,134 @@
+{
+  "order_id": "GRC000017",
+  "persona_id": "persona_010",
+  "store_id": "grocery",
+  "status": "cancelled",
+  "created_at": "2025-10-14T16:57:03",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "321 French Quarter Ave, New Orleans, LA 70116",
+  "items": [
+    {
+      "product_id": "GRO-1789",
+      "name": "Philadelphia Gouda Cheese",
+      "category": "Dairy",
+      "quantity": 4,
+      "price": 7.3,
+      "subtotal": 29.2
+    },
+    {
+      "product_id": "prod_049",
+      "name": "Fresh Farms Mangoes",
+      "category": "Produce",
+      "quantity": 2,
+      "price": 4.75,
+      "subtotal": 9.5
+    },
+    {
+      "product_id": "GRO-2186",
+      "name": "Tostitos Cheese Crackers",
+      "category": "Snacks",
+      "quantity": 2,
+      "price": 2.68,
+      "subtotal": 5.36
+    },
+    {
+      "product_id": "prod_870",
+      "name": "Golden Harvest Organic Pickles",
+      "category": "Condiments & Spices",
+      "quantity": 2,
+      "price": 5.86,
+      "subtotal": 11.72
+    },
+    {
+      "product_id": "prod_803",
+      "name": "Pure & Simple Organic Salt",
+      "category": "Condiments & Spices",
+      "quantity": 2,
+      "price": 2.02,
+      "subtotal": 4.04
+    },
+    {
+      "product_id": "prod_633",
+      "name": "Fresh Farms Organic Green Tea",
+      "category": "Beverages",
+      "quantity": 2,
+      "price": 5.12,
+      "subtotal": 10.24
+    },
+    {
+      "product_id": "prod_504",
+      "name": "Fresh Farms Organic Dinner Rolls",
+      "category": "Bakery",
+      "quantity": 2,
+      "price": 5.63,
+      "subtotal": 11.26
+    },
+    {
+      "product_id": "prod_851",
+      "name": "Simply Good Organic Taco Seasoning",
+      "category": "Condiments & Spices",
+      "quantity": 5,
+      "price": 2.0,
+      "subtotal": 10.0
+    },
+    {
+      "product_id": "prod_345",
+      "name": "Fresh Farms Quinoa",
+      "category": "Pantry",
+      "quantity": 1,
+      "price": 6.5,
+      "subtotal": 6.5
+    },
+    {
+      "product_id": "prod_575",
+      "name": "Simply Good Organic Frozen Meatballs",
+      "category": "Frozen",
+      "quantity": 1,
+      "price": 10.28,
+      "subtotal": 10.28
+    },
+    {
+      "product_id": "prod_310",
+      "name": "Local Pride Organic Hot Dogs",
+      "category": "Meat & Seafood",
+      "quantity": 3,
+      "price": 8.48,
+      "subtotal": 25.44
+    },
+    {
+      "product_id": "prod_653",
+      "name": "Fresh Farms Instant Coffee",
+      "category": "Beverages",
+      "quantity": 3,
+      "price": 9.52,
+      "subtotal": 28.56
+    },
+    {
+      "product_id": "prod_837",
+      "name": "Daily Delight Organic Thyme",
+      "category": "Condiments & Spices",
+      "quantity": 4,
+      "price": 5.53,
+      "subtotal": 22.12
+    },
+    {
+      "product_id": "GRO-1733",
+      "name": "Organic Valley Fresh Blueberries",
+      "category": "Produce",
+      "quantity": 4,
+      "price": 1.02,
+      "subtotal": 4.08
+    },
+    {
+      "product_id": "GRO-1005",
+      "name": "Fresh Express Collard Greens",
+      "category": "Produce",
+      "quantity": 2,
+      "price": 8.37,
+      "subtotal": 16.74
+    }
+  ],
+  "total": 205.04,
+  "currency": "USD"
+}

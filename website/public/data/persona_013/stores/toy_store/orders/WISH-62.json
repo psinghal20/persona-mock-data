@@ -1,0 +1,23 @@
+{
+  "order_id": "WISH-62",
+  "persona_id": "persona_013",
+  "store_id": "toy_store",
+  "type": "wishlist",
+  "status": "high",
+  "created_at": "2025-12-11T06:42:57",
+  "items": [
+    {
+      "product_id": "TOY-057",
+      "name": "LEGO Jurassic World T-Rex",
+      "category": "Building & Construction",
+      "child_name": "Diego",
+      "occasion": "Birthday",
+      "priority": "high",
+      "quantity": 1,
+      "price": 59.99,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

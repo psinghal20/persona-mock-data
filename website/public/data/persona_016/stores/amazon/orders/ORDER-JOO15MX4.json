@@ -1,0 +1,38 @@
+{
+  "order_id": "ORDER-JOO15MX4",
+  "persona_id": "persona_016",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-12-08T06:38:10",
+  "shipped_at": "2025-12-09T06:38:10",
+  "delivered_at": "2025-12-14T06:38:10",
+  "shipping_address": "222 Tech Campus Way, Austin, TX 78701",
+  "items": [
+    {
+      "product_id": "B0BOOK0101",
+      "name": "Crime and Punishment by Fyodor Dostoevsky",
+      "category": "Books",
+      "quantity": 2,
+      "price": 14.87,
+      "subtotal": 29.74
+    },
+    {
+      "product_id": "B0ELEC0039",
+      "name": "\"Apple MacBook Air 15\"\" M3\"",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 1128.99,
+      "subtotal": 1128.99
+    },
+    {
+      "product_id": "B0AMZN1774",
+      "name": "AmazonBasics Standing Desk Converter",
+      "category": "Office Products",
+      "quantity": 1,
+      "price": 189.99,
+      "subtotal": 189.99
+    }
+  ],
+  "total": 1348.72,
+  "currency": "USD"
+}

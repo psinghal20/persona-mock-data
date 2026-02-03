@@ -1,0 +1,23 @@
+{
+  "order_id": "WISH-60",
+  "persona_id": "persona_009",
+  "store_id": "toy_store",
+  "type": "wishlist",
+  "status": "medium",
+  "created_at": "2025-11-29T03:17:47",
+  "items": [
+    {
+      "product_id": "TOY-027",
+      "name": "Squishmallows 16 inch Cat",
+      "category": "Plush & Stuffed Animals",
+      "child_name": "Sarah",
+      "occasion": "Birthday",
+      "priority": "medium",
+      "quantity": 1,
+      "price": 24.99,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

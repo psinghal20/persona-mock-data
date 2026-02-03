@@ -1,0 +1,24 @@
+{
+  "order_id": "45",
+  "persona_id": "persona_010",
+  "store_id": "florist",
+  "status": "pending",
+  "created_at": "2025-12-19T15:10:58",
+  "shipped_at": "",
+  "delivered_at": "2025-12-23",
+  "shipping_address": "321 French Quarter Ave, New Orleans, LA 70116",
+  "recipient_name": "Friend",
+  "card_message": "Just because I love you!",
+  "items": [
+    {
+      "product_id": "16",
+      "name": "Peaceful Tribute",
+      "category": "Mixed Flowers",
+      "quantity": 1,
+      "price": 89.99,
+      "subtotal": 89.99
+    }
+  ],
+  "total": 104.98,
+  "currency": "USD"
+}

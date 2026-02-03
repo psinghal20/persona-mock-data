@@ -1,0 +1,30 @@
+{
+  "order_id": "ORDER-VS3PJJ1P",
+  "persona_id": "persona_013",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2026-01-26T21:23:26",
+  "shipped_at": "2026-01-29T21:23:26",
+  "delivered_at": "2026-02-01T21:23:26",
+  "shipping_address": "555 Community Center Rd, Houston, TX 77001",
+  "items": [
+    {
+      "product_id": "B0B5GI023K",
+      "name": "Tempo Studio",
+      "category": "Sports & Outdoors",
+      "quantity": 2,
+      "price": 2495.0,
+      "subtotal": 4990.0
+    },
+    {
+      "product_id": "B0BCGI224K",
+      "name": "Wellness CORE Grain-Free Dog Food 26 lb",
+      "category": "Pet Supplies",
+      "quantity": 1,
+      "price": 69.99,
+      "subtotal": 69.99
+    }
+  ],
+  "total": 5059.99,
+  "currency": "USD"
+}

@@ -1,0 +1,38 @@
+{
+  "order_id": "WMT-RHFY47OP",
+  "persona_id": "persona_013",
+  "store_id": "walmart",
+  "status": "delivered",
+  "created_at": "2026-01-22T03:47:04",
+  "shipped_at": "2026-01-23T03:47:04",
+  "delivered_at": "2026-01-25T03:47:04",
+  "shipping_address": "555 Community Center Rd, Houston, TX 77001",
+  "items": [
+    {
+      "product_id": "WMT00001002",
+      "name": "Apple Apple Watch Series 9 45mm",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 444.47,
+      "subtotal": 444.47
+    },
+    {
+      "product_id": "WMT00001985",
+      "name": "Sea to Summit Sea to Summit Ultra-Sil Dry Sack",
+      "category": "Sports",
+      "quantity": 3,
+      "price": 24.56,
+      "subtotal": 73.68
+    },
+    {
+      "product_id": "WMT00001851",
+      "name": "REI Co-op Magma 15 Sleeping Bag",
+      "category": "Sports",
+      "quantity": 2,
+      "price": 345.89,
+      "subtotal": 691.78
+    }
+  ],
+  "total": 1209.93,
+  "currency": "USD"
+}

@@ -1,0 +1,134 @@
+{
+  "order_id": "GRC000374",
+  "persona_id": "persona_016",
+  "store_id": "grocery",
+  "status": "delivered",
+  "created_at": "2025-11-05T09:44:48",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "222 Tech Campus Way, Austin, TX 78701",
+  "items": [
+    {
+      "product_id": "prod_454",
+      "name": "Country Best Lentils",
+      "category": "Pantry",
+      "quantity": 1,
+      "price": 2.25,
+      "subtotal": 2.25
+    },
+    {
+      "product_id": "prod_512",
+      "name": "Quality First Organic Muffins",
+      "category": "Bakery",
+      "quantity": 4,
+      "price": 6.88,
+      "subtotal": 27.52
+    },
+    {
+      "product_id": "GRO-0987",
+      "name": "Organic Valley Persimmon",
+      "category": "Produce",
+      "quantity": 2,
+      "price": 3.17,
+      "subtotal": 6.34
+    },
+    {
+      "product_id": "prod_833",
+      "name": "Mountain Fresh Basil Dried",
+      "category": "Condiments & Spices",
+      "quantity": 1,
+      "price": 3.91,
+      "subtotal": 3.91
+    },
+    {
+      "product_id": "GRO-1103",
+      "name": "Bell & Evans Organic Chicken Thighs",
+      "category": "Meat & Seafood",
+      "quantity": 3,
+      "price": 31.17,
+      "subtotal": 93.51
+    },
+    {
+      "product_id": "prod_823",
+      "name": "Organic Choice Chili Powder",
+      "category": "Condiments & Spices",
+      "quantity": 3,
+      "price": 4.8,
+      "subtotal": 14.4
+    },
+    {
+      "product_id": "prod_340",
+      "name": "Meadow Gold Brown Rice",
+      "category": "Pantry",
+      "quantity": 3,
+      "price": 4.6,
+      "subtotal": 13.8
+    },
+    {
+      "product_id": "prod_286",
+      "name": "Pure & Simple Tuna Steak",
+      "category": "Meat & Seafood",
+      "quantity": 2,
+      "price": 19.68,
+      "subtotal": 39.36
+    },
+    {
+      "product_id": "GRO-1301",
+      "name": "Fever-Tree Chamomile Tea",
+      "category": "Beverages",
+      "quantity": 1,
+      "price": 5.04,
+      "subtotal": 5.04
+    },
+    {
+      "product_id": "GRO-1306",
+      "name": "GT's Rooibos Tea",
+      "category": "Beverages",
+      "quantity": 1,
+      "price": 12.38,
+      "subtotal": 12.38
+    },
+    {
+      "product_id": "GRO-2003",
+      "name": "Hunt's Allspice",
+      "category": "Pantry",
+      "quantity": 3,
+      "price": 5.67,
+      "subtotal": 17.01
+    },
+    {
+      "product_id": "prod_236",
+      "name": "Country Best Organic Filet Mignon",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 34.68,
+      "subtotal": 34.68
+    },
+    {
+      "product_id": "prod_199",
+      "name": "Simply Good Organic Feta Cheese",
+      "category": "Dairy",
+      "quantity": 2,
+      "price": 7.5,
+      "subtotal": 15.0
+    },
+    {
+      "product_id": "GRO-1089",
+      "name": "D'Artagnan Hanger Steak",
+      "category": "Meat & Seafood",
+      "quantity": 3,
+      "price": 47.29,
+      "subtotal": 141.87
+    },
+    {
+      "product_id": "prod_204",
+      "name": "Nature's Best Organic Brie",
+      "category": "Dairy",
+      "quantity": 3,
+      "price": 10.89,
+      "subtotal": 32.67
+    }
+  ],
+  "total": 459.74,
+  "currency": "USD"
+}

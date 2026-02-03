@@ -1,0 +1,22 @@
+{
+  "order_id": "SPG000003",
+  "persona_id": "persona_002",
+  "store_id": "sporting_goods",
+  "status": "delivered",
+  "created_at": "2025-11-25T06:18:50",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "456 Tech Park Drive, San Jose, CA 95110",
+  "items": [
+    {
+      "product_id": "RUN021",
+      "name": "Endorphin Elite",
+      "category": "Shoes",
+      "quantity": 1,
+      "price": 274.99,
+      "subtotal": 274.99
+    }
+  ],
+  "total": 274.99,
+  "currency": "USD"
+}

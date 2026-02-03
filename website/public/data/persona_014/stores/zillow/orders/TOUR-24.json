@@ -1,0 +1,26 @@
+{
+  "order_id": "TOUR-24",
+  "persona_id": "persona_014",
+  "store_id": "zillow",
+  "type": "tour",
+  "status": "completed",
+  "scheduled_time": "2025-10-28T13:00:00",
+  "notes": "Second viewing",
+  "items": [
+    {
+      "product_id": "9434",
+      "name": "5798 Jackson Way",
+      "address": "5798 Jackson Way",
+      "city": "",
+      "price": 318244.0,
+      "bedrooms": "",
+      "bathrooms": "",
+      "sqft": "",
+      "home_type": "",
+      "quantity": 1,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

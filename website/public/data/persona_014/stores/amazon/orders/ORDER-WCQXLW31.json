@@ -1,0 +1,38 @@
+{
+  "order_id": "ORDER-WCQXLW31",
+  "persona_id": "persona_014",
+  "store_id": "amazon",
+  "status": "shipped",
+  "created_at": "2025-10-05T10:57:37",
+  "shipped_at": "2025-10-07T10:57:37",
+  "delivered_at": "",
+  "shipping_address": "888 Design District Ln, San Francisco, CA 94102",
+  "items": [
+    {
+      "product_id": "B0B6GI424K",
+      "name": "Fi Series 3 Smart Dog Collar",
+      "category": "Pet Supplies",
+      "quantity": 3,
+      "price": 149.0,
+      "subtotal": 447.0
+    },
+    {
+      "product_id": "B0ELEC0087",
+      "name": "Montblanc Montblanc Summit 3",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 1136.06,
+      "subtotal": 1136.06
+    },
+    {
+      "product_id": "B0C8GK035L",
+      "name": "Cricut Explore 3 Cutting Machine",
+      "category": "Arts Crafts",
+      "quantity": 2,
+      "price": 299.0,
+      "subtotal": 598.0
+    }
+  ],
+  "total": 2181.06,
+  "currency": "USD"
+}

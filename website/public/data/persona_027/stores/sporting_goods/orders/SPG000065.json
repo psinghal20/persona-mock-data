@@ -1,0 +1,30 @@
+{
+  "order_id": "SPG000065",
+  "persona_id": "persona_027",
+  "store_id": "sporting_goods",
+  "status": "delivered",
+  "created_at": "2025-11-30T04:24:40",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "items": [
+    {
+      "product_id": "BKB008",
+      "name": "The Rock Basketball",
+      "category": "Equipment",
+      "quantity": 1,
+      "price": 599.99,
+      "subtotal": 599.99
+    },
+    {
+      "product_id": "GLF021",
+      "name": "Garmin Approach S62",
+      "category": "Accessories",
+      "quantity": 1,
+      "price": 499.99,
+      "subtotal": 499.99
+    }
+  ],
+  "total": 1099.98,
+  "currency": "USD"
+}

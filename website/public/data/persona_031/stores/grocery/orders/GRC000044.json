@@ -1,0 +1,134 @@
+{
+  "order_id": "GRC000044",
+  "persona_id": "persona_031",
+  "store_id": "grocery",
+  "status": "delivered",
+  "created_at": "2026-01-10T14:23:19",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "999 Suburban Lane, Phoenix, AZ 85001",
+  "items": [
+    {
+      "product_id": "prod_039",
+      "name": "Mountain Fresh Blueberries",
+      "category": "Produce",
+      "quantity": 1,
+      "price": 6.09,
+      "subtotal": 6.09
+    },
+    {
+      "product_id": "prod_164",
+      "name": "Local Pride Organic Ginger",
+      "category": "Produce",
+      "quantity": 1,
+      "price": 23.44,
+      "subtotal": 23.44
+    },
+    {
+      "product_id": "prod_805",
+      "name": "Market Fresh Salt",
+      "category": "Condiments & Spices",
+      "quantity": 1,
+      "price": 1.14,
+      "subtotal": 1.14
+    },
+    {
+      "product_id": "prod_031",
+      "name": "Fresh Farms Oranges",
+      "category": "Produce",
+      "quantity": 2,
+      "price": 2.29,
+      "subtotal": 4.58
+    },
+    {
+      "product_id": "prod_249",
+      "name": "Meadow Gold Organic Turkey Breast",
+      "category": "Meat & Seafood",
+      "quantity": 3,
+      "price": 30.11,
+      "subtotal": 90.33
+    },
+    {
+      "product_id": "prod_611",
+      "name": "Quality First Organic Popsicles",
+      "category": "Frozen",
+      "quantity": 1,
+      "price": 6.93,
+      "subtotal": 6.93
+    },
+    {
+      "product_id": "prod_738",
+      "name": "Premium Select Organic Hummus",
+      "category": "Snacks",
+      "quantity": 1,
+      "price": 6.1,
+      "subtotal": 6.1
+    },
+    {
+      "product_id": "GRO-1362",
+      "name": "Skinny Pop Golden Raisins",
+      "category": "Snacks",
+      "quantity": 2,
+      "price": 2.87,
+      "subtotal": 5.74
+    },
+    {
+      "product_id": "prod_446",
+      "name": "Farm Fresh Organic Kidney Beans",
+      "category": "Pantry",
+      "quantity": 2,
+      "price": 2.57,
+      "subtotal": 5.14
+    },
+    {
+      "product_id": "prod_664",
+      "name": "Sunrise Farms Organic Sports Drink",
+      "category": "Beverages",
+      "quantity": 5,
+      "price": 2.61,
+      "subtotal": 13.05
+    },
+    {
+      "product_id": "GRO-1023",
+      "name": "Cal-Organic Fresh Tarragon",
+      "category": "Produce",
+      "quantity": 1,
+      "price": 6.83,
+      "subtotal": 6.83
+    },
+    {
+      "product_id": "prod_543",
+      "name": "Market Fresh Frozen Spinach",
+      "category": "Frozen",
+      "quantity": 1,
+      "price": 2.84,
+      "subtotal": 2.84
+    },
+    {
+      "product_id": "prod_005",
+      "name": "Organic Whole Milk",
+      "category": "Dairy",
+      "quantity": 5,
+      "price": 6.49,
+      "subtotal": 32.45
+    },
+    {
+      "product_id": "prod_857",
+      "name": "Mountain Fresh Italian Dressing",
+      "category": "Condiments & Spices",
+      "quantity": 5,
+      "price": 3.57,
+      "subtotal": 17.85
+    },
+    {
+      "product_id": "prod_236",
+      "name": "Country Best Organic Filet Mignon",
+      "category": "Meat & Seafood",
+      "quantity": 4,
+      "price": 34.68,
+      "subtotal": 138.72
+    }
+  ],
+  "total": 361.23,
+  "currency": "USD"
+}

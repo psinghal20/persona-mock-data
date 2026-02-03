@@ -1,0 +1,22 @@
+{
+  "order_id": "ORDER-S8PM55DZ",
+  "persona_id": "persona_009",
+  "store_id": "amazon",
+  "status": "cancelled",
+  "created_at": "2025-10-21T00:58:01",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "789 Veterans Blvd, Tampa, FL 33602",
+  "items": [
+    {
+      "product_id": "B0TOYS0191",
+      "name": "Little Tikes Little Tikes Slide",
+      "category": "Toys & Games",
+      "quantity": 3,
+      "price": 57.59,
+      "subtotal": 172.77
+    }
+  ],
+  "total": 172.77,
+  "currency": "USD"
+}

@@ -1,0 +1,38 @@
+{
+  "order_id": "EL000195",
+  "persona_id": "persona_010",
+  "store_id": "electronics_store",
+  "status": "shipped",
+  "created_at": "2025-12-03T18:43:11",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "321 French Quarter Ave, New Orleans, LA 70116",
+  "items": [
+    {
+      "product_id": "HA060",
+      "name": "GE Profile Smart Slide-In Double Oven Gas Range",
+      "category": "Home Appliances",
+      "quantity": 1,
+      "price": 2474.92,
+      "subtotal": 2474.92
+    },
+    {
+      "product_id": "SH011",
+      "name": "Amazon Echo Dot 5th Gen",
+      "category": "Smart Home",
+      "quantity": 2,
+      "price": 49.99,
+      "subtotal": 99.98
+    },
+    {
+      "product_id": "SH042",
+      "name": "LIFX Beam",
+      "category": "Smart Home",
+      "quantity": 1,
+      "price": 149.99,
+      "subtotal": 149.99
+    }
+  ],
+  "total": 2724.89,
+  "currency": "USD"
+}

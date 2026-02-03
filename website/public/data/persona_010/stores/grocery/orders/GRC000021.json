@@ -1,0 +1,110 @@
+{
+  "order_id": "GRC000021",
+  "persona_id": "persona_010",
+  "store_id": "grocery",
+  "status": "delivered",
+  "created_at": "2025-12-08T02:15:43",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "321 French Quarter Ave, New Orleans, LA 70116",
+  "items": [
+    {
+      "product_id": "prod_887",
+      "name": "Green Valley Organic Napkins",
+      "category": "Household",
+      "quantity": 1,
+      "price": 6.32,
+      "subtotal": 6.32
+    },
+    {
+      "product_id": "prod_713",
+      "name": "Market Fresh Organic Almonds",
+      "category": "Snacks",
+      "quantity": 2,
+      "price": 12.47,
+      "subtotal": 24.94
+    },
+    {
+      "product_id": "GRO-1734",
+      "name": "Chiquita Fresh Raspberries",
+      "category": "Produce",
+      "quantity": 4,
+      "price": 8.5,
+      "subtotal": 34.0
+    },
+    {
+      "product_id": "GRO-1725",
+      "name": "Organic Valley Baby Pineapple",
+      "category": "Produce",
+      "quantity": 2,
+      "price": 8.07,
+      "subtotal": 16.14
+    },
+    {
+      "product_id": "GRO-1699",
+      "name": "Local Farm Fresh Green Beans",
+      "category": "Produce",
+      "quantity": 2,
+      "price": 4.34,
+      "subtotal": 8.68
+    },
+    {
+      "product_id": "GRO-1733",
+      "name": "Organic Valley Fresh Blueberries",
+      "category": "Produce",
+      "quantity": 2,
+      "price": 1.02,
+      "subtotal": 2.04
+    },
+    {
+      "product_id": "GRO-1769",
+      "name": "Tillamook Whipped Cream Cheese",
+      "category": "Dairy",
+      "quantity": 2,
+      "price": 6.7,
+      "subtotal": 13.4
+    },
+    {
+      "product_id": "prod_624",
+      "name": "Mountain Fresh Cranberry Juice",
+      "category": "Beverages",
+      "quantity": 2,
+      "price": 5.66,
+      "subtotal": 11.32
+    },
+    {
+      "product_id": "GRO-1744",
+      "name": "Driscoll's Fresh Leek",
+      "category": "Produce",
+      "quantity": 3,
+      "price": 4.39,
+      "subtotal": 13.17
+    },
+    {
+      "product_id": "GRO-1041",
+      "name": "Organic Valley Pecorino Romano",
+      "category": "Dairy",
+      "quantity": 2,
+      "price": 19.39,
+      "subtotal": 38.78
+    },
+    {
+      "product_id": "prod_941",
+      "name": "Mountain Fresh Baby Food",
+      "category": "Baby",
+      "quantity": 4,
+      "price": 1.45,
+      "subtotal": 5.8
+    },
+    {
+      "product_id": "prod_651",
+      "name": "Mountain Fresh Instant Coffee",
+      "category": "Beverages",
+      "quantity": 1,
+      "price": 9.32,
+      "subtotal": 9.32
+    }
+  ],
+  "total": 183.91,
+  "currency": "USD"
+}

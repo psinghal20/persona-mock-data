@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-34",
+  "persona_id": "persona_022",
+  "store_id": "pharmacy",
+  "status": "completed",
+  "created_at": "2025-11-05T00:43:06",
+  "items": [
+    {
+      "product_id": "282",
+      "name": "Monistat 1",
+      "category": "Women's Health",
+      "quantity": 1,
+      "price": 19.99,
+      "subtotal": 19.99
+    }
+  ],
+  "total": 19.99,
+  "currency": "USD"
+}

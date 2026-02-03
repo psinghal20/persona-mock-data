@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-50",
+  "persona_id": "persona_031",
+  "store_id": "bakery",
+  "status": "completed",
+  "created_at": "2026-01-12T03:19:08",
+  "items": [
+    {
+      "product_id": "130",
+      "name": "Bundt Cake (Chocolate)",
+      "category": "Cakes",
+      "quantity": 1,
+      "price": 26.99,
+      "subtotal": 26.99
+    }
+  ],
+  "total": 26.99,
+  "currency": "USD"
+}

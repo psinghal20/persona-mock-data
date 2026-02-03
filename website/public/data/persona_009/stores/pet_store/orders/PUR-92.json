@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-92",
+  "persona_id": "persona_009",
+  "store_id": "pet_store",
+  "status": "completed",
+  "created_at": "2026-01-01T18:57:18",
+  "items": [
+    {
+      "product_id": "DOG139",
+      "name": "Earth Rated Dog Poop Bags 900ct",
+      "category": "Accessories",
+      "quantity": 1,
+      "price": 24.99,
+      "subtotal": 24.99
+    }
+  ],
+  "total": 24.99,
+  "currency": "USD"
+}

@@ -1,0 +1,134 @@
+{
+  "order_id": "GRC000381",
+  "persona_id": "persona_016",
+  "store_id": "grocery",
+  "status": "delivered",
+  "created_at": "2025-10-17T05:25:56",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "222 Tech Campus Way, Austin, TX 78701",
+  "items": [
+    {
+      "product_id": "prod_195",
+      "name": "Fresh Farms Organic Swiss Cheese",
+      "category": "Dairy",
+      "quantity": 1,
+      "price": 9.26,
+      "subtotal": 9.26
+    },
+    {
+      "product_id": "prod_711",
+      "name": "Country Best Organic Mixed Nuts",
+      "category": "Snacks",
+      "quantity": 2,
+      "price": 12.56,
+      "subtotal": 25.12
+    },
+    {
+      "product_id": "prod_850",
+      "name": "Home Style Organic Taco Seasoning",
+      "category": "Condiments & Spices",
+      "quantity": 1,
+      "price": 3.15,
+      "subtotal": 3.15
+    },
+    {
+      "product_id": "GRO-1825",
+      "name": "Sea Best T-Bone Steak",
+      "category": "Meat & Seafood",
+      "quantity": 2,
+      "price": 25.52,
+      "subtotal": 51.04
+    },
+    {
+      "product_id": "prod_108",
+      "name": "Farm Fresh Organic Tomatoes",
+      "category": "Produce",
+      "quantity": 1,
+      "price": 9.02,
+      "subtotal": 9.02
+    },
+    {
+      "product_id": "prod_869",
+      "name": "Premium Select Pickles",
+      "category": "Condiments & Spices",
+      "quantity": 2,
+      "price": 3.9,
+      "subtotal": 7.8
+    },
+    {
+      "product_id": "GRO-1603",
+      "name": "Organic Valley Bosc Pear",
+      "category": "Produce",
+      "quantity": 1,
+      "price": 7.34,
+      "subtotal": 7.34
+    },
+    {
+      "product_id": "prod_168",
+      "name": "Organic Choice Milk 2%",
+      "category": "Dairy",
+      "quantity": 2,
+      "price": 2.02,
+      "subtotal": 4.04
+    },
+    {
+      "product_id": "prod_973",
+      "name": "Quality First Organic Cat Litter",
+      "category": "Pet",
+      "quantity": 3,
+      "price": 19.47,
+      "subtotal": 58.41
+    },
+    {
+      "product_id": "prod_044",
+      "name": "Simply Good Organic Lemons",
+      "category": "Produce",
+      "quantity": 2,
+      "price": 0.68,
+      "subtotal": 1.36
+    },
+    {
+      "product_id": "prod_926",
+      "name": "Sunrise Farms Organic Zip Lock Bags",
+      "category": "Household",
+      "quantity": 1,
+      "price": 7.49,
+      "subtotal": 7.49
+    },
+    {
+      "product_id": "prod_867",
+      "name": "Quality First Relish",
+      "category": "Condiments & Spices",
+      "quantity": 1,
+      "price": 3.82,
+      "subtotal": 3.82
+    },
+    {
+      "product_id": "prod_828",
+      "name": "Farm Fresh Cinnamon",
+      "category": "Condiments & Spices",
+      "quantity": 3,
+      "price": 5.04,
+      "subtotal": 15.12
+    },
+    {
+      "product_id": "prod_807",
+      "name": "Farm Fresh Black Pepper",
+      "category": "Condiments & Spices",
+      "quantity": 2,
+      "price": 5.94,
+      "subtotal": 11.88
+    },
+    {
+      "product_id": "GRO-1302",
+      "name": "GT's Chai Tea",
+      "category": "Beverages",
+      "quantity": 2,
+      "price": 6.59,
+      "subtotal": 13.18
+    }
+  ],
+  "total": 228.03,
+  "currency": "USD"
+}

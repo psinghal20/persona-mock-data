@@ -1,0 +1,46 @@
+{
+  "order_id": "ORDER-DVVLHS54",
+  "persona_id": "persona_027",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-10-28T12:10:44",
+  "shipped_at": "2025-10-31T12:10:44",
+  "delivered_at": "2025-11-02T12:10:44",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "items": [
+    {
+      "product_id": "B0C7GJ435L",
+      "name": "Keter Oakland Outdoor Storage Shed 7.5x7",
+      "category": "Patio Lawn Garden",
+      "quantity": 2,
+      "price": 1199.99,
+      "subtotal": 2399.98
+    },
+    {
+      "product_id": "B0AMZN1202",
+      "name": "CAP Barbell Olympic Weight Set 300 lb",
+      "category": "Sports & Outdoors",
+      "quantity": 2,
+      "price": 399.99,
+      "subtotal": 799.98
+    },
+    {
+      "product_id": "B0ELEC0245",
+      "name": "Coros Coros Pace 3",
+      "category": "Electronics",
+      "quantity": 3,
+      "price": 227.5,
+      "subtotal": 682.5
+    },
+    {
+      "product_id": "B0AMZN1887",
+      "name": "Tribit StormBox Micro 2",
+      "category": "Electronics",
+      "quantity": 2,
+      "price": 59.99,
+      "subtotal": 119.98
+    }
+  ],
+  "total": 4002.44,
+  "currency": "USD"
+}

@@ -1,0 +1,22 @@
+{
+  "order_id": "ORDER-CNRS36ZO",
+  "persona_id": "persona_022",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-12-20T03:50:08",
+  "shipped_at": "2025-12-23T03:50:08",
+  "delivered_at": "2025-12-25T03:50:08",
+  "shipping_address": "444 Polish Hill St, Philadelphia, PA 19123",
+  "items": [
+    {
+      "product_id": "B0AMZN1096",
+      "name": "Thermapen ONE Instant Read Thermometer",
+      "category": "Home & Kitchen",
+      "quantity": 1,
+      "price": 105.0,
+      "subtotal": 105.0
+    }
+  ],
+  "total": 105.0,
+  "currency": "USD"
+}

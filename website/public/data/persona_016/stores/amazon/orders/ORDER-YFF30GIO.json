@@ -1,0 +1,30 @@
+{
+  "order_id": "ORDER-YFF30GIO",
+  "persona_id": "persona_016",
+  "store_id": "amazon",
+  "status": "pending",
+  "created_at": "2025-11-12T11:10:13",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "222 Tech Campus Way, Austin, TX 78701",
+  "items": [
+    {
+      "product_id": "B0AMZN1751",
+      "name": "Moleskine Classic Notebook Large",
+      "category": "Office Products",
+      "quantity": 3,
+      "price": 22.99,
+      "subtotal": 68.97
+    },
+    {
+      "product_id": "B0BOOK0093",
+      "name": "1984 by George Orwell",
+      "category": "Books",
+      "quantity": 1,
+      "price": 14.79,
+      "subtotal": 14.79
+    }
+  ],
+  "total": 83.76,
+  "currency": "USD"
+}

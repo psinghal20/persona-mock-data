@@ -1,0 +1,22 @@
+{
+  "order_id": "WMT-MNOBUBCQ",
+  "persona_id": "persona_013",
+  "store_id": "walmart",
+  "status": "delivered",
+  "created_at": "2025-11-21T13:17:51",
+  "shipped_at": "2025-11-23T13:17:51",
+  "delivered_at": "2025-11-25T13:17:51",
+  "shipping_address": "555 Community Center Rd, Houston, TX 77001",
+  "items": [
+    {
+      "product_id": "WMT00001909",
+      "name": "Head Radical MP",
+      "category": "Sports",
+      "quantity": 1,
+      "price": 240.01,
+      "subtotal": 240.01
+    }
+  ],
+  "total": 240.01,
+  "currency": "USD"
+}

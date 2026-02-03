@@ -1,0 +1,22 @@
+{
+  "order_id": "WMT-U7PIQDZ9",
+  "persona_id": "persona_027",
+  "store_id": "walmart",
+  "status": "cancelled",
+  "created_at": "2025-12-08T04:21:59",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "items": [
+    {
+      "product_id": "WMT00000371",
+      "name": "Home Style All Purpose Cleaner",
+      "category": "Grocery",
+      "quantity": 3,
+      "price": 4.85,
+      "subtotal": 14.55
+    }
+  ],
+  "total": 14.55,
+  "currency": "USD"
+}

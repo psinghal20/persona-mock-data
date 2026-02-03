@@ -1,0 +1,26 @@
+{
+  "order_id": "TOUR-42",
+  "persona_id": "persona_027",
+  "store_id": "zillow",
+  "type": "tour",
+  "status": "cancelled",
+  "scheduled_time": "2025-11-13T16:00:00",
+  "notes": "Want to see the garage",
+  "items": [
+    {
+      "product_id": "3336",
+      "name": "9328 Garden Avenue",
+      "address": "9328 Garden Avenue",
+      "city": "",
+      "price": 1125734.0,
+      "bedrooms": "",
+      "bathrooms": "",
+      "sqft": "",
+      "home_type": "",
+      "quantity": 1,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

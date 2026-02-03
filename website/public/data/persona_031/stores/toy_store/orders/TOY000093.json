@@ -1,0 +1,30 @@
+{
+  "order_id": "TOY000093",
+  "persona_id": "persona_031",
+  "store_id": "toy_store",
+  "status": "delivered",
+  "created_at": "2025-10-15T04:07:06",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "999 Suburban Lane, Phoenix, AZ 85001",
+  "items": [
+    {
+      "product_id": "TOY-146",
+      "name": "Crayola Inspiration Art Case",
+      "category": "Arts & Crafts",
+      "quantity": 2,
+      "price": 49.99,
+      "subtotal": 99.98
+    },
+    {
+      "product_id": "TOY-126",
+      "name": "Cards Against Humanity Family",
+      "category": "Games & Puzzles",
+      "quantity": 2,
+      "price": 24.99,
+      "subtotal": 49.98
+    }
+  ],
+  "total": 149.96,
+  "currency": "USD"
+}

@@ -1,0 +1,38 @@
+{
+  "order_id": "TOY000110",
+  "persona_id": "persona_009",
+  "store_id": "toy_store",
+  "status": "delivered",
+  "created_at": "2025-10-20T08:52:32",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "789 Veterans Blvd, Tampa, FL 33602",
+  "items": [
+    {
+      "product_id": "TOY-448",
+      "name": "Splendor Board Game",
+      "category": "Games & Puzzles",
+      "quantity": 2,
+      "price": 39.99,
+      "subtotal": 79.98
+    },
+    {
+      "product_id": "TOY-065",
+      "name": "Tinkertoy Super Building Set",
+      "category": "Building & Construction",
+      "quantity": 1,
+      "price": 39.99,
+      "subtotal": 39.99
+    },
+    {
+      "product_id": "TOY-199",
+      "name": "Gund Snuffles Bear",
+      "category": "Plush & Stuffed Animals",
+      "quantity": 2,
+      "price": 29.99,
+      "subtotal": 59.98
+    }
+  ],
+  "total": 179.95,
+  "currency": "USD"
+}

@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-158",
+  "persona_id": "persona_031",
+  "store_id": "pharmacy",
+  "status": "completed",
+  "created_at": "2025-10-15T04:16:53",
+  "items": [
+    {
+      "product_id": "297",
+      "name": "NyQuil",
+      "category": "Cold & Flu",
+      "quantity": 1,
+      "price": 14.99,
+      "subtotal": 14.99
+    }
+  ],
+  "total": 14.99,
+  "currency": "USD"
+}

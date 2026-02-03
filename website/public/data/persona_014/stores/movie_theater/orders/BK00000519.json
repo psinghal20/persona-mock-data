@@ -1,0 +1,23 @@
+{
+  "order_id": "BK00000519",
+  "persona_id": "persona_014",
+  "store_id": "movie_theater",
+  "type": "booking",
+  "status": "confirmed",
+  "created_at": "2025-10-01T13:04:25",
+  "confirmation_code": "AMC-RT1PX2",
+  "items": [
+    {
+      "product_id": "MOV015",
+      "name": "Beetlejuice Beetlejuice",
+      "showtime": "",
+      "theater": "",
+      "seats": "A1,A2",
+      "quantity": 2,
+      "price": 21.99,
+      "subtotal": 43.98
+    }
+  ],
+  "total": 43.98,
+  "currency": "USD"
+}

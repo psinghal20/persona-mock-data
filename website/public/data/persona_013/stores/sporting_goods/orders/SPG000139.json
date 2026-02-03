@@ -1,0 +1,30 @@
+{
+  "order_id": "SPG000139",
+  "persona_id": "persona_013",
+  "store_id": "sporting_goods",
+  "status": "delivered",
+  "created_at": "2026-01-07T06:26:45",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "555 Community Center Rd, Houston, TX 77001",
+  "items": [
+    {
+      "product_id": "RUN001",
+      "name": "Air Zoom Pegasus 40",
+      "category": "Shoes",
+      "quantity": 1,
+      "price": 129.99,
+      "subtotal": 129.99
+    },
+    {
+      "product_id": "BOX007",
+      "name": "Everlast Pro Style Training",
+      "category": "Gloves",
+      "quantity": 1,
+      "price": 39.99,
+      "subtotal": 39.99
+    }
+  ],
+  "total": 169.98,
+  "currency": "USD"
+}

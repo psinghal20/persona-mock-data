@@ -1,0 +1,24 @@
+{
+  "order_id": "PET-SAMPLE01",
+  "persona_id": "USR001",
+  "store_id": "pet_store",
+  "type": "pet_profile",
+  "status": "active",
+  "items": [
+    {
+      "product_id": "PET-SAMPLE01",
+      "name": "Max",
+      "pet_type": "Dogs",
+      "breed": "Golden Retriever",
+      "age_years": "5",
+      "weight_lbs": "72",
+      "dietary_restrictions": "",
+      "notes": "Friendly and loves to play fetch",
+      "quantity": 1,
+      "price": 0,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

@@ -1,0 +1,26 @@
+{
+  "order_id": "SAVED-55",
+  "persona_id": "persona_016",
+  "store_id": "zillow",
+  "type": "saved_property",
+  "status": "saved",
+  "created_at": "2026-01-16T17:54:50",
+  "notes": "Close to work",
+  "items": [
+    {
+      "product_id": "1173",
+      "name": "1604 School Drive",
+      "address": "1604 School Drive",
+      "city": "",
+      "price": 1298005.0,
+      "bedrooms": "",
+      "bathrooms": "",
+      "sqft": "",
+      "home_type": "",
+      "quantity": 1,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

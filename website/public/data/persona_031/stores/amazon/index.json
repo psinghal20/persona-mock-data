@@ -1,0 +1,1249 @@
+{
+  "persona_id": "persona_031",
+  "store_id": "amazon",
+  "store_name": "Amazon",
+  "transaction_type": "orders",
+  "transaction_label": "orders",
+  "has_cost": true,
+  "summary": {
+    "total_count": 76,
+    "total_spent": 14871.79,
+    "first_date": "2025-10-02",
+    "last_date": "2026-01-21"
+  },
+  "items": [
+    {
+      "order_id": "ORDER-1H8LAS8S",
+      "status": "delivered",
+      "total": 118.36,
+      "item_count": 2,
+      "created_at": "2026-01-21T09:33:15",
+      "item_preview": "Pokemon Pokemon Pikachu 16 inch, Minecraft Minecraft Creeper Plush"
+    },
+    {
+      "order_id": "ORDER-WJ5QFTDX",
+      "status": "shipped",
+      "total": 85.32,
+      "item_count": 2,
+      "created_at": "2026-01-20T21:20:44",
+      "item_preview": "Everdell, Fat Brain Toys Fat Brain Dimpl"
+    },
+    {
+      "order_id": "ORDER-LZC665FK",
+      "status": "shipped",
+      "total": 148.5,
+      "item_count": 2,
+      "created_at": "2026-01-19T00:19:35",
+      "item_preview": "Insect Lore Butterfly Garden, Hasbro Jenga Classic"
+    },
+    {
+      "order_id": "ORDER-1JOFQ8YH",
+      "status": "pending",
+      "total": 682.2,
+      "item_count": 1,
+      "created_at": "2026-01-18T08:01:54",
+      "item_preview": "LEGO LEGO Ideas Tree House"
+    },
+    {
+      "order_id": "ORDER-PCU8QQVX",
+      "status": "delivered",
+      "total": 267.21,
+      "item_count": 4,
+      "created_at": "2026-01-17T07:38:34",
+      "item_preview": "Tegu Tegu Magnetic Blocks, UNO Card Game, ..."
+    },
+    {
+      "order_id": "ORDER-4FB14O7G",
+      "status": "delivered",
+      "total": 107.31,
+      "item_count": 2,
+      "created_at": "2026-01-14T02:48:28",
+      "item_preview": "Panini NBA Trading Cards Box, Squishmallows Squishmallows 8 inch Pack"
+    },
+    {
+      "order_id": "ORDER-X7E1AV8Z",
+      "status": "delivered",
+      "total": 80.26,
+      "item_count": 2,
+      "created_at": "2026-01-14T02:07:15",
+      "item_preview": "Spin Master Hatchimals Pixies Crystal, VTech VTech Switch and Go Dino"
+    },
+    {
+      "order_id": "ORDER-RFGLIDV5",
+      "status": "shipped",
+      "total": 64.53,
+      "item_count": 2,
+      "created_at": "2026-01-07T19:48:11",
+      "item_preview": "LEGO LEGO BrickHeadz Mandalorian, Melissa & Doug Melissa & Doug Shape Sorter"
+    },
+    {
+      "order_id": "ORDER-PKWJDX1T",
+      "status": "delivered",
+      "total": 487.96,
+      "item_count": 2,
+      "created_at": "2026-01-06T09:43:44",
+      "item_preview": "KidKraft KidKraft Dollhouse, Crayola Crayola Inspiration Art Case"
+    },
+    {
+      "order_id": "ORDER-DI63R90D",
+      "status": "pending",
+      "total": 147.8,
+      "item_count": 3,
+      "created_at": "2026-01-04T12:47:58",
+      "item_preview": "War and Peace by Leo Tolstoy, Nerf Nerf Fortnite Blaster, ..."
+    },
+    {
+      "order_id": "ORDER-NSP58OGT",
+      "status": "shipped",
+      "total": 543.0,
+      "item_count": 1,
+      "created_at": "2026-01-02T17:54:24",
+      "item_preview": "Nintendo Nintendo Switch Lite"
+    },
+    {
+      "order_id": "ORDER-HERN79TX",
+      "status": "pending",
+      "total": 129.34,
+      "item_count": 3,
+      "created_at": "2026-01-02T00:35:36",
+      "item_preview": "VTech VTech Switch and Go Dino, Hasbro Scrabble, ..."
+    },
+    {
+      "order_id": "ORDER-QVFJGYFN",
+      "status": "delivered",
+      "total": 43.91,
+      "item_count": 2,
+      "created_at": "2026-01-01T18:09:28",
+      "item_preview": "Bandai Digimon Card Game Starter, Nerf Nerf N-Strike Elite Football"
+    },
+    {
+      "order_id": "ORDER-D72G0CD4",
+      "status": "delivered",
+      "total": 381.75,
+      "item_count": 3,
+      "created_at": "2025-12-31T23:27:31",
+      "item_preview": "Hot Wheels Hot Wheels Ultimate Garage, Stonemaier Games Wingspan, ..."
+    },
+    {
+      "order_id": "ORDER-JICD8B7V",
+      "status": "delivered",
+      "total": 139.62,
+      "item_count": 2,
+      "created_at": "2025-12-30T23:10:27",
+      "item_preview": "Educational Insights Kanoodle, Celestron Celestron Telescope for Kids"
+    },
+    {
+      "order_id": "ORDER-IH2TSIPM",
+      "status": "delivered",
+      "total": 87.8,
+      "item_count": 2,
+      "created_at": "2025-12-30T21:36:00",
+      "item_preview": "B. toys B. toys Bristle Blocks, WOWmazing Giant Bubbles Kit"
+    },
+    {
+      "order_id": "ORDER-8GS9QH6Q",
+      "status": "delivered",
+      "total": 281.33,
+      "item_count": 2,
+      "created_at": "2025-12-30T10:35:51",
+      "item_preview": "LeapFrog LeapFrog LeapPad Academy, 4M 4M Solar Robot"
+    },
+    {
+      "order_id": "ORDER-85B9DQYT",
+      "status": "delivered",
+      "total": 120.0,
+      "item_count": 1,
+      "created_at": "2025-12-28T20:34:20",
+      "item_preview": "Wingspan"
+    },
+    {
+      "order_id": "ORDER-B7BYUM5R",
+      "status": "delivered",
+      "total": 31.98,
+      "item_count": 1,
+      "created_at": "2025-12-26T06:22:51",
+      "item_preview": "Codenames Board Game"
+    },
+    {
+      "order_id": "ORDER-28SDZ8C9",
+      "status": "delivered",
+      "total": 55.06,
+      "item_count": 2,
+      "created_at": "2025-12-24T19:48:09",
+      "item_preview": "Hasbro Candy Land, Plan B Games Azul"
+    },
+    {
+      "order_id": "ORDER-U4GFAU9U",
+      "status": "delivered",
+      "total": 303.37,
+      "item_count": 2,
+      "created_at": "2025-12-21T00:10:04",
+      "item_preview": "Stonemaier Games Wingspan, LEGO LEGO City Police Station"
+    },
+    {
+      "order_id": "ORDER-8XZNQDPP",
+      "status": "pending",
+      "total": 134.38,
+      "item_count": 2,
+      "created_at": "2025-12-18T13:57:04",
+      "item_preview": "MGA Entertainment Rainbow High Fashion Doll, Plan B Games Azul Board Game"
+    },
+    {
+      "order_id": "ORDER-BD80MU85",
+      "status": "delivered",
+      "total": 377.36,
+      "item_count": 2,
+      "created_at": "2025-12-17T19:32:00",
+      "item_preview": "LEGO LEGO Star Wars Millennium Falcon, Spin Master Hatchimals Pixies Crystal"
+    },
+    {
+      "order_id": "ORDER-Y48A9BRN",
+      "status": "pending",
+      "total": 44.08,
+      "item_count": 1,
+      "created_at": "2025-12-16T20:08:05",
+      "item_preview": "Brackitz Brackitz STEM Building Set"
+    },
+    {
+      "order_id": "ORDER-EIY1R8HQ",
+      "status": "shipped",
+      "total": 150.91,
+      "item_count": 2,
+      "created_at": "2025-12-15T10:06:11",
+      "item_preview": "Catan Board Game, A Game of Thrones by George R.R. Martin"
+    },
+    {
+      "order_id": "ORDER-W1IOKA1Y",
+      "status": "delivered",
+      "total": 248.3,
+      "item_count": 2,
+      "created_at": "2025-12-15T06:04:50",
+      "item_preview": "Elenco Snap Circuits Pro, Guidecraft Guidecraft Rainbow Blocks"
+    },
+    {
+      "order_id": "ORDER-CVUXV8F7",
+      "status": "delivered",
+      "total": 360.48,
+      "item_count": 2,
+      "created_at": "2025-12-15T03:58:11",
+      "item_preview": "Sphero littleBits Base Kit, Hasbro Transformers Optimus Prime"
+    },
+    {
+      "order_id": "ORDER-FKXBW3MQ",
+      "status": "pending",
+      "total": 214.51,
+      "item_count": 2,
+      "created_at": "2025-12-14T04:38:38",
+      "item_preview": "Hasbro Transformers Optimus Prime, Repos Production 7 Wonders Board Game"
+    },
+    {
+      "order_id": "ORDER-KRQGJK2V",
+      "status": "delivered",
+      "total": 78.32,
+      "item_count": 2,
+      "created_at": "2025-12-11T20:12:31",
+      "item_preview": "Calico Critters Calico Critters Family Set, Crayola Crayola Model Magic"
+    },
+    {
+      "order_id": "ORDER-7MUVJRBS",
+      "status": "delivered",
+      "total": 69.98,
+      "item_count": 1,
+      "created_at": "2025-12-10T15:27:12",
+      "item_preview": "Azul"
+    },
+    {
+      "order_id": "ORDER-GGZNP1BL",
+      "status": "shipped",
+      "total": 154.42,
+      "item_count": 2,
+      "created_at": "2025-12-08T23:58:01",
+      "item_preview": "Melissa & Doug Melissa & Doug Shape Sorter, Marble Genius Marble Genius Marble Run"
+    },
+    {
+      "order_id": "ORDER-Y6TDC3TR",
+      "status": "pending",
+      "total": 53.72,
+      "item_count": 1,
+      "created_at": "2025-12-07T22:59:33",
+      "item_preview": "Spirograph Spirograph Deluxe Set"
+    },
+    {
+      "order_id": "ORDER-XDXFK23L",
+      "status": "cancelled",
+      "total": 598.0,
+      "item_count": 4,
+      "created_at": "2025-12-07T12:27:10",
+      "item_preview": "Catan Studio Catan, Intex Intex Inflatable Play Center, ..."
+    },
+    {
+      "order_id": "ORDER-WDGAV2Z5",
+      "status": "shipped",
+      "total": 347.9,
+      "item_count": 2,
+      "created_at": "2025-12-07T04:36:58",
+      "item_preview": "Ticket to Ride, LEGO LEGO City Police Station"
+    },
+    {
+      "order_id": "ORDER-3CUKOJ7P",
+      "status": "delivered",
+      "total": 133.71,
+      "item_count": 3,
+      "created_at": "2025-12-04T10:15:30",
+      "item_preview": "Codenames Board Game, Moose Toys Little Live Pets Bird, ..."
+    },
+    {
+      "order_id": "ORDER-IOQ0QSJF",
+      "status": "delivered",
+      "total": 258.06,
+      "item_count": 2,
+      "created_at": "2025-12-04T05:53:06",
+      "item_preview": "Crayola Crayola Washable Paint Set, LEGO LEGO Ideas Tree House"
+    },
+    {
+      "order_id": "ORDER-SJQJB0ZS",
+      "status": "shipped",
+      "total": 31.86,
+      "item_count": 1,
+      "created_at": "2025-12-02T11:23:09",
+      "item_preview": "Epoch Aquabeads Mega Set"
+    },
+    {
+      "order_id": "ORDER-7EVS2KTU",
+      "status": "shipped",
+      "total": 93.29,
+      "item_count": 3,
+      "created_at": "2025-12-01T05:45:16",
+      "item_preview": "Alex Toys Shrinky Dinks Deluxe, Smart Games Smart Games IQ Puzzler Pro, ..."
+    },
+    {
+      "order_id": "ORDER-2X9TTMRF",
+      "status": "delivered",
+      "total": 26.23,
+      "item_count": 1,
+      "created_at": "2025-11-30T10:02:31",
+      "item_preview": "Hasbro Scrabble"
+    },
+    {
+      "order_id": "ORDER-PFXOTZT0",
+      "status": "pending",
+      "total": 323.64,
+      "item_count": 2,
+      "created_at": "2025-11-30T08:29:18",
+      "item_preview": "LEGO LEGO Friends Heartlake City, Libellud Dixit Board Game"
+    },
+    {
+      "order_id": "ORDER-K1G5CIA3",
+      "status": "delivered",
+      "total": 31.86,
+      "item_count": 1,
+      "created_at": "2025-11-29T14:59:25",
+      "item_preview": "Epoch Aquabeads Mega Set"
+    },
+    {
+      "order_id": "ORDER-2CAOWQ76",
+      "status": "delivered",
+      "total": 333.75,
+      "item_count": 2,
+      "created_at": "2025-11-28T22:12:19",
+      "item_preview": "Traxxas Traxxas Slash RC Truck, Moose Toys Little Live Pets Bird"
+    },
+    {
+      "order_id": "ORDER-J32VM901",
+      "status": "delivered",
+      "total": 57.68,
+      "item_count": 1,
+      "created_at": "2025-11-27T20:54:27",
+      "item_preview": "BiOBUDDi BiOBUDDi Eco Building Blocks"
+    },
+    {
+      "order_id": "ORDER-AYZQVGNW",
+      "status": "delivered",
+      "total": 299.78,
+      "item_count": 2,
+      "created_at": "2025-11-25T13:56:07",
+      "item_preview": "LeapFrog LeapFrog LeapPad Academy, Sphero littleBits Base Kit"
+    },
+    {
+      "order_id": "ORDER-2OW5MD19",
+      "status": "delivered",
+      "total": 166.4,
+      "item_count": 3,
+      "created_at": "2025-11-23T17:26:56",
+      "item_preview": "Wingspan, Stonemaier Games Wingspan, ..."
+    },
+    {
+      "order_id": "ORDER-4OCWT9R2",
+      "status": "shipped",
+      "total": 162.89,
+      "item_count": 2,
+      "created_at": "2025-11-21T20:16:13",
+      "item_preview": "Marble Genius Marble Genius Marble Run, Fat Brain Toys Fat Brain Dimpl"
+    },
+    {
+      "order_id": "ORDER-HLNFS7J4",
+      "status": "delivered",
+      "total": 186.33,
+      "item_count": 4,
+      "created_at": "2025-11-21T00:22:29",
+      "item_preview": "War and Peace by Leo Tolstoy, VTech VTech KidiBeats Drum Set, ..."
+    },
+    {
+      "order_id": "ORDER-I7NOMTRM",
+      "status": "shipped",
+      "total": 136.18,
+      "item_count": 2,
+      "created_at": "2025-11-19T11:29:16",
+      "item_preview": "Spin Master Hatchimals Pixies Crystal, Hohner Hohner Kids Glockenspiel"
+    },
+    {
+      "order_id": "ORDER-EB2INC05",
+      "status": "delivered",
+      "total": 179.68,
+      "item_count": 3,
+      "created_at": "2025-11-19T06:32:26",
+      "item_preview": "Breyer Breyer Horse Collectible, A Game of Thrones by George R.R. Martin, ..."
+    },
+    {
+      "order_id": "ORDER-66ZWOTOE",
+      "status": "delivered",
+      "total": 74.83,
+      "item_count": 2,
+      "created_at": "2025-11-15T23:17:25",
+      "item_preview": "CITIBLOCS CITIBLOCS Original, Creativity for Kids Rock Painting Kit"
+    },
+    {
+      "order_id": "ORDER-RJUUHZQL",
+      "status": "cancelled",
+      "total": 99.72,
+      "item_count": 2,
+      "created_at": "2025-11-15T05:21:31",
+      "item_preview": "B. toys B. toys Bristle Blocks, Relevant Play Mad Mattr Sensory Dough"
+    },
+    {
+      "order_id": "ORDER-XRZU0AAW",
+      "status": "shipped",
+      "total": 114.59,
+      "item_count": 2,
+      "created_at": "2025-11-15T04:52:01",
+      "item_preview": "Microsoft Xbox Game - Forza Motorsport, LEGO LEGO BrickHeadz Mandalorian"
+    },
+    {
+      "order_id": "ORDER-Y3KBEBC0",
+      "status": "delivered",
+      "total": 74.62,
+      "item_count": 2,
+      "created_at": "2025-11-14T10:27:12",
+      "item_preview": "National Geographic National Geographic Volcano, UNO Card Game"
+    },
+    {
+      "order_id": "ORDER-CM3R5F51",
+      "status": "delivered",
+      "total": 217.65,
+      "item_count": 2,
+      "created_at": "2025-11-13T02:09:02",
+      "item_preview": "Panini NBA Trading Cards Box, Celestron Celestron Telescope for Kids"
+    },
+    {
+      "order_id": "ORDER-WX9Z2DO8",
+      "status": "delivered",
+      "total": 186.52,
+      "item_count": 4,
+      "created_at": "2025-11-12T20:02:32",
+      "item_preview": "Codenames Board Game, Ty Ty Beanie Boo Medium, ..."
+    },
+    {
+      "order_id": "ORDER-ALY6K54H",
+      "status": "delivered",
+      "total": 250.9,
+      "item_count": 2,
+      "created_at": "2025-11-10T11:58:59",
+      "item_preview": "Magna-Tiles Magna-Tiles Metropolis, Spin Master Bitzee Interactive Pet"
+    },
+    {
+      "order_id": "ORDER-H2CQS2CV",
+      "status": "delivered",
+      "total": 785.7,
+      "item_count": 4,
+      "created_at": "2025-11-10T01:00:38",
+      "item_preview": "Traxxas Traxxas Slash RC Truck, Fisher-Price Fisher-Price Little People Farm, ..."
+    },
+    {
+      "order_id": "ORDER-WVET54M4",
+      "status": "delivered",
+      "total": 88.27,
+      "item_count": 2,
+      "created_at": "2025-11-10T00:05:00",
+      "item_preview": "Brackitz Brackitz STEM Building Set, Marble Genius Marble Genius Marble Run"
+    },
+    {
+      "order_id": "ORDER-X1PAL2QJ",
+      "status": "delivered",
+      "total": 172.29,
+      "item_count": 2,
+      "created_at": "2025-11-09T15:34:26",
+      "item_preview": "Tegu Tegu Magnetic Blocks, Melissa & Doug Melissa & Doug Shape Sorter"
+    },
+    {
+      "order_id": "ORDER-7NFYPYMJ",
+      "status": "shipped",
+      "total": 108.02,
+      "item_count": 2,
+      "created_at": "2025-11-09T08:20:18",
+      "item_preview": "Klutz Klutz Friendship Bracelets, Catan Board Game"
+    },
+    {
+      "order_id": "ORDER-N8QA5EUN",
+      "status": "delivered",
+      "total": 284.2,
+      "item_count": 3,
+      "created_at": "2025-11-07T10:38:28",
+      "item_preview": "Schleich Schleich Dinosaur Set, Primo Toys Cubetto Coding Robot, ..."
+    },
+    {
+      "order_id": "ORDER-90LWTR2C",
+      "status": "delivered",
+      "total": 76.98,
+      "item_count": 1,
+      "created_at": "2025-11-05T18:53:55",
+      "item_preview": "Catan Board Game"
+    },
+    {
+      "order_id": "ORDER-887M22YT",
+      "status": "delivered",
+      "total": 97.51,
+      "item_count": 2,
+      "created_at": "2025-11-04T18:13:10",
+      "item_preview": "Moose Toys Little Live Pets Bird, Learning Resources Learning Resources Gears"
+    },
+    {
+      "order_id": "ORDER-PLWNI2RV",
+      "status": "delivered",
+      "total": 96.64,
+      "item_count": 1,
+      "created_at": "2025-10-28T18:58:33",
+      "item_preview": "LEGO LEGO Ninjago Dragon"
+    },
+    {
+      "order_id": "ORDER-U4HW48RH",
+      "status": "shipped",
+      "total": 853.05,
+      "item_count": 3,
+      "created_at": "2025-10-28T02:32:24",
+      "item_preview": "Korg Korg tinyPIANO, Schleich Schleich Dinosaur Set, ..."
+    },
+    {
+      "order_id": "ORDER-6G92P277",
+      "status": "shipped",
+      "total": 312.32,
+      "item_count": 3,
+      "created_at": "2025-10-17T17:58:00",
+      "item_preview": "B. toys B. toys Bristle Blocks, Magna-Tiles Magna-Tiles Metropolis, ..."
+    },
+    {
+      "order_id": "ORDER-4WEZV2N8",
+      "status": "delivered",
+      "total": 86.52,
+      "item_count": 1,
+      "created_at": "2025-10-16T09:45:31",
+      "item_preview": "BiOBUDDi BiOBUDDi Eco Building Blocks"
+    },
+    {
+      "order_id": "ORDER-6JH7F4K9",
+      "status": "delivered",
+      "total": 64.02,
+      "item_count": 1,
+      "created_at": "2025-10-13T16:23:46",
+      "item_preview": "Moose Toys Little Live Pets Bird"
+    },
+    {
+      "order_id": "ORDER-DGN5FR7U",
+      "status": "delivered",
+      "total": 171.84,
+      "item_count": 2,
+      "created_at": "2025-10-13T08:31:34",
+      "item_preview": "Calico Critters Calico Critters Family Set, Barbie Barbie Dream Camper"
+    },
+    {
+      "order_id": "ORDER-4S07AMWX",
+      "status": "delivered",
+      "total": 227.4,
+      "item_count": 1,
+      "created_at": "2025-10-10T17:33:42",
+      "item_preview": "LEGO LEGO Ideas Tree House"
+    },
+    {
+      "order_id": "ORDER-8Q4PB9C0",
+      "status": "pending",
+      "total": 67.56,
+      "item_count": 1,
+      "created_at": "2025-10-08T00:38:15",
+      "item_preview": "Stonemaier Games Wingspan Board Game"
+    },
+    {
+      "order_id": "ORDER-RCE30IJH",
+      "status": "cancelled",
+      "total": 38.31,
+      "item_count": 2,
+      "created_at": "2025-10-07T22:44:37",
+      "item_preview": "Smart Games Smart Games IQ Puzzler Pro, Tangle Tangle Jr Textured"
+    },
+    {
+      "order_id": "ORDER-UQ0N9GD5",
+      "status": "delivered",
+      "total": 351.16,
+      "item_count": 4,
+      "created_at": "2025-10-04T01:52:20",
+      "item_preview": "Disney Frozen 2 Elsa Singing Doll, Libellud Dixit, ..."
+    },
+    {
+      "order_id": "ORDER-GG30THLF",
+      "status": "pending",
+      "total": 41.82,
+      "item_count": 1,
+      "created_at": "2025-10-03T10:48:36",
+      "item_preview": "Mattel WWE Championship Belt"
+    },
+    {
+      "order_id": "ORDER-149D1CBT",
+      "status": "delivered",
+      "total": 198.91,
+      "item_count": 4,
+      "created_at": "2025-10-03T03:29:09",
+      "item_preview": "Hohner Hohner Kids Glockenspiel, Disney Encanto Mirabel Doll, ..."
+    },
+    {
+      "order_id": "ORDER-02XW2KZB",
+      "status": "delivered",
+      "total": 170.13,
+      "item_count": 2,
+      "created_at": "2025-10-02T15:10:29",
+      "item_preview": "Plan B Games Azul Board Game, Minecraft Minecraft Creeper Plush"
+    }
+  ],
+  "categories": [
+    {
+      "id": "orders",
+      "name": "Orders",
+      "type": "orders",
+      "label": "orders",
+      "has_cost": true,
+      "summary": {
+        "total_count": 76,
+        "total_spent": 14871.79,
+        "first_date": "2025-10-02",
+        "last_date": "2026-01-21"
+      },
+      "items": [
+        {
+          "order_id": "ORDER-1H8LAS8S",
+          "status": "delivered",
+          "total": 118.36,
+          "item_count": 2,
+          "created_at": "2026-01-21T09:33:15",
+          "item_preview": "Pokemon Pokemon Pikachu 16 inch, Minecraft Minecraft Creeper Plush"
+        },
+        {
+          "order_id": "ORDER-WJ5QFTDX",
+          "status": "shipped",
+          "total": 85.32,
+          "item_count": 2,
+          "created_at": "2026-01-20T21:20:44",
+          "item_preview": "Everdell, Fat Brain Toys Fat Brain Dimpl"
+        },
+        {
+          "order_id": "ORDER-LZC665FK",
+          "status": "shipped",
+          "total": 148.5,
+          "item_count": 2,
+          "created_at": "2026-01-19T00:19:35",
+          "item_preview": "Insect Lore Butterfly Garden, Hasbro Jenga Classic"
+        },
+        {
+          "order_id": "ORDER-1JOFQ8YH",
+          "status": "pending",
+          "total": 682.2,
+          "item_count": 1,
+          "created_at": "2026-01-18T08:01:54",
+          "item_preview": "LEGO LEGO Ideas Tree House"
+        },
+        {
+          "order_id": "ORDER-PCU8QQVX",
+          "status": "delivered",
+          "total": 267.21,
+          "item_count": 4,
+          "created_at": "2026-01-17T07:38:34",
+          "item_preview": "Tegu Tegu Magnetic Blocks, UNO Card Game, ..."
+        },
+        {
+          "order_id": "ORDER-4FB14O7G",
+          "status": "delivered",
+          "total": 107.31,
+          "item_count": 2,
+          "created_at": "2026-01-14T02:48:28",
+          "item_preview": "Panini NBA Trading Cards Box, Squishmallows Squishmallows 8 inch Pack"
+        },
+        {
+          "order_id": "ORDER-X7E1AV8Z",
+          "status": "delivered",
+          "total": 80.26,
+          "item_count": 2,
+          "created_at": "2026-01-14T02:07:15",
+          "item_preview": "Spin Master Hatchimals Pixies Crystal, VTech VTech Switch and Go Dino"
+        },
+        {
+          "order_id": "ORDER-RFGLIDV5",
+          "status": "shipped",
+          "total": 64.53,
+          "item_count": 2,
+          "created_at": "2026-01-07T19:48:11",
+          "item_preview": "LEGO LEGO BrickHeadz Mandalorian, Melissa & Doug Melissa & Doug Shape Sorter"
+        },
+        {
+          "order_id": "ORDER-PKWJDX1T",
+          "status": "delivered",
+          "total": 487.96,
+          "item_count": 2,
+          "created_at": "2026-01-06T09:43:44",
+          "item_preview": "KidKraft KidKraft Dollhouse, Crayola Crayola Inspiration Art Case"
+        },
+        {
+          "order_id": "ORDER-DI63R90D",
+          "status": "pending",
+          "total": 147.8,
+          "item_count": 3,
+          "created_at": "2026-01-04T12:47:58",
+          "item_preview": "War and Peace by Leo Tolstoy, Nerf Nerf Fortnite Blaster, ..."
+        },
+        {
+          "order_id": "ORDER-NSP58OGT",
+          "status": "shipped",
+          "total": 543.0,
+          "item_count": 1,
+          "created_at": "2026-01-02T17:54:24",
+          "item_preview": "Nintendo Nintendo Switch Lite"
+        },
+        {
+          "order_id": "ORDER-HERN79TX",
+          "status": "pending",
+          "total": 129.34,
+          "item_count": 3,
+          "created_at": "2026-01-02T00:35:36",
+          "item_preview": "VTech VTech Switch and Go Dino, Hasbro Scrabble, ..."
+        },
+        {
+          "order_id": "ORDER-QVFJGYFN",
+          "status": "delivered",
+          "total": 43.91,
+          "item_count": 2,
+          "created_at": "2026-01-01T18:09:28",
+          "item_preview": "Bandai Digimon Card Game Starter, Nerf Nerf N-Strike Elite Football"
+        },
+        {
+          "order_id": "ORDER-D72G0CD4",
+          "status": "delivered",
+          "total": 381.75,
+          "item_count": 3,
+          "created_at": "2025-12-31T23:27:31",
+          "item_preview": "Hot Wheels Hot Wheels Ultimate Garage, Stonemaier Games Wingspan, ..."
+        },
+        {
+          "order_id": "ORDER-JICD8B7V",
+          "status": "delivered",
+          "total": 139.62,
+          "item_count": 2,
+          "created_at": "2025-12-30T23:10:27",
+          "item_preview": "Educational Insights Kanoodle, Celestron Celestron Telescope for Kids"
+        },
+        {
+          "order_id": "ORDER-IH2TSIPM",
+          "status": "delivered",
+          "total": 87.8,
+          "item_count": 2,
+          "created_at": "2025-12-30T21:36:00",
+          "item_preview": "B. toys B. toys Bristle Blocks, WOWmazing Giant Bubbles Kit"
+        },
+        {
+          "order_id": "ORDER-8GS9QH6Q",
+          "status": "delivered",
+          "total": 281.33,
+          "item_count": 2,
+          "created_at": "2025-12-30T10:35:51",
+          "item_preview": "LeapFrog LeapFrog LeapPad Academy, 4M 4M Solar Robot"
+        },
+        {
+          "order_id": "ORDER-85B9DQYT",
+          "status": "delivered",
+          "total": 120.0,
+          "item_count": 1,
+          "created_at": "2025-12-28T20:34:20",
+          "item_preview": "Wingspan"
+        },
+        {
+          "order_id": "ORDER-B7BYUM5R",
+          "status": "delivered",
+          "total": 31.98,
+          "item_count": 1,
+          "created_at": "2025-12-26T06:22:51",
+          "item_preview": "Codenames Board Game"
+        },
+        {
+          "order_id": "ORDER-28SDZ8C9",
+          "status": "delivered",
+          "total": 55.06,
+          "item_count": 2,
+          "created_at": "2025-12-24T19:48:09",
+          "item_preview": "Hasbro Candy Land, Plan B Games Azul"
+        },
+        {
+          "order_id": "ORDER-U4GFAU9U",
+          "status": "delivered",
+          "total": 303.37,
+          "item_count": 2,
+          "created_at": "2025-12-21T00:10:04",
+          "item_preview": "Stonemaier Games Wingspan, LEGO LEGO City Police Station"
+        },
+        {
+          "order_id": "ORDER-8XZNQDPP",
+          "status": "pending",
+          "total": 134.38,
+          "item_count": 2,
+          "created_at": "2025-12-18T13:57:04",
+          "item_preview": "MGA Entertainment Rainbow High Fashion Doll, Plan B Games Azul Board Game"
+        },
+        {
+          "order_id": "ORDER-BD80MU85",
+          "status": "delivered",
+          "total": 377.36,
+          "item_count": 2,
+          "created_at": "2025-12-17T19:32:00",
+          "item_preview": "LEGO LEGO Star Wars Millennium Falcon, Spin Master Hatchimals Pixies Crystal"
+        },
+        {
+          "order_id": "ORDER-Y48A9BRN",
+          "status": "pending",
+          "total": 44.08,
+          "item_count": 1,
+          "created_at": "2025-12-16T20:08:05",
+          "item_preview": "Brackitz Brackitz STEM Building Set"
+        },
+        {
+          "order_id": "ORDER-EIY1R8HQ",
+          "status": "shipped",
+          "total": 150.91,
+          "item_count": 2,
+          "created_at": "2025-12-15T10:06:11",
+          "item_preview": "Catan Board Game, A Game of Thrones by George R.R. Martin"
+        },
+        {
+          "order_id": "ORDER-W1IOKA1Y",
+          "status": "delivered",
+          "total": 248.3,
+          "item_count": 2,
+          "created_at": "2025-12-15T06:04:50",
+          "item_preview": "Elenco Snap Circuits Pro, Guidecraft Guidecraft Rainbow Blocks"
+        },
+        {
+          "order_id": "ORDER-CVUXV8F7",
+          "status": "delivered",
+          "total": 360.48,
+          "item_count": 2,
+          "created_at": "2025-12-15T03:58:11",
+          "item_preview": "Sphero littleBits Base Kit, Hasbro Transformers Optimus Prime"
+        },
+        {
+          "order_id": "ORDER-FKXBW3MQ",
+          "status": "pending",
+          "total": 214.51,
+          "item_count": 2,
+          "created_at": "2025-12-14T04:38:38",
+          "item_preview": "Hasbro Transformers Optimus Prime, Repos Production 7 Wonders Board Game"
+        },
+        {
+          "order_id": "ORDER-KRQGJK2V",
+          "status": "delivered",
+          "total": 78.32,
+          "item_count": 2,
+          "created_at": "2025-12-11T20:12:31",
+          "item_preview": "Calico Critters Calico Critters Family Set, Crayola Crayola Model Magic"
+        },
+        {
+          "order_id": "ORDER-7MUVJRBS",
+          "status": "delivered",
+          "total": 69.98,
+          "item_count": 1,
+          "created_at": "2025-12-10T15:27:12",
+          "item_preview": "Azul"
+        },
+        {
+          "order_id": "ORDER-GGZNP1BL",
+          "status": "shipped",
+          "total": 154.42,
+          "item_count": 2,
+          "created_at": "2025-12-08T23:58:01",
+          "item_preview": "Melissa & Doug Melissa & Doug Shape Sorter, Marble Genius Marble Genius Marble Run"
+        },
+        {
+          "order_id": "ORDER-Y6TDC3TR",
+          "status": "pending",
+          "total": 53.72,
+          "item_count": 1,
+          "created_at": "2025-12-07T22:59:33",
+          "item_preview": "Spirograph Spirograph Deluxe Set"
+        },
+        {
+          "order_id": "ORDER-XDXFK23L",
+          "status": "cancelled",
+          "total": 598.0,
+          "item_count": 4,
+          "created_at": "2025-12-07T12:27:10",
+          "item_preview": "Catan Studio Catan, Intex Intex Inflatable Play Center, ..."
+        },
+        {
+          "order_id": "ORDER-WDGAV2Z5",
+          "status": "shipped",
+          "total": 347.9,
+          "item_count": 2,
+          "created_at": "2025-12-07T04:36:58",
+          "item_preview": "Ticket to Ride, LEGO LEGO City Police Station"
+        },
+        {
+          "order_id": "ORDER-3CUKOJ7P",
+          "status": "delivered",
+          "total": 133.71,
+          "item_count": 3,
+          "created_at": "2025-12-04T10:15:30",
+          "item_preview": "Codenames Board Game, Moose Toys Little Live Pets Bird, ..."
+        },
+        {
+          "order_id": "ORDER-IOQ0QSJF",
+          "status": "delivered",
+          "total": 258.06,
+          "item_count": 2,
+          "created_at": "2025-12-04T05:53:06",
+          "item_preview": "Crayola Crayola Washable Paint Set, LEGO LEGO Ideas Tree House"
+        },
+        {
+          "order_id": "ORDER-SJQJB0ZS",
+          "status": "shipped",
+          "total": 31.86,
+          "item_count": 1,
+          "created_at": "2025-12-02T11:23:09",
+          "item_preview": "Epoch Aquabeads Mega Set"
+        },
+        {
+          "order_id": "ORDER-7EVS2KTU",
+          "status": "shipped",
+          "total": 93.29,
+          "item_count": 3,
+          "created_at": "2025-12-01T05:45:16",
+          "item_preview": "Alex Toys Shrinky Dinks Deluxe, Smart Games Smart Games IQ Puzzler Pro, ..."
+        },
+        {
+          "order_id": "ORDER-2X9TTMRF",
+          "status": "delivered",
+          "total": 26.23,
+          "item_count": 1,
+          "created_at": "2025-11-30T10:02:31",
+          "item_preview": "Hasbro Scrabble"
+        },
+        {
+          "order_id": "ORDER-PFXOTZT0",
+          "status": "pending",
+          "total": 323.64,
+          "item_count": 2,
+          "created_at": "2025-11-30T08:29:18",
+          "item_preview": "LEGO LEGO Friends Heartlake City, Libellud Dixit Board Game"
+        },
+        {
+          "order_id": "ORDER-K1G5CIA3",
+          "status": "delivered",
+          "total": 31.86,
+          "item_count": 1,
+          "created_at": "2025-11-29T14:59:25",
+          "item_preview": "Epoch Aquabeads Mega Set"
+        },
+        {
+          "order_id": "ORDER-2CAOWQ76",
+          "status": "delivered",
+          "total": 333.75,
+          "item_count": 2,
+          "created_at": "2025-11-28T22:12:19",
+          "item_preview": "Traxxas Traxxas Slash RC Truck, Moose Toys Little Live Pets Bird"
+        },
+        {
+          "order_id": "ORDER-J32VM901",
+          "status": "delivered",
+          "total": 57.68,
+          "item_count": 1,
+          "created_at": "2025-11-27T20:54:27",
+          "item_preview": "BiOBUDDi BiOBUDDi Eco Building Blocks"
+        },
+        {
+          "order_id": "ORDER-AYZQVGNW",
+          "status": "delivered",
+          "total": 299.78,
+          "item_count": 2,
+          "created_at": "2025-11-25T13:56:07",
+          "item_preview": "LeapFrog LeapFrog LeapPad Academy, Sphero littleBits Base Kit"
+        },
+        {
+          "order_id": "ORDER-2OW5MD19",
+          "status": "delivered",
+          "total": 166.4,
+          "item_count": 3,
+          "created_at": "2025-11-23T17:26:56",
+          "item_preview": "Wingspan, Stonemaier Games Wingspan, ..."
+        },
+        {
+          "order_id": "ORDER-4OCWT9R2",
+          "status": "shipped",
+          "total": 162.89,
+          "item_count": 2,
+          "created_at": "2025-11-21T20:16:13",
+          "item_preview": "Marble Genius Marble Genius Marble Run, Fat Brain Toys Fat Brain Dimpl"
+        },
+        {
+          "order_id": "ORDER-HLNFS7J4",
+          "status": "delivered",
+          "total": 186.33,
+          "item_count": 4,
+          "created_at": "2025-11-21T00:22:29",
+          "item_preview": "War and Peace by Leo Tolstoy, VTech VTech KidiBeats Drum Set, ..."
+        },
+        {
+          "order_id": "ORDER-I7NOMTRM",
+          "status": "shipped",
+          "total": 136.18,
+          "item_count": 2,
+          "created_at": "2025-11-19T11:29:16",
+          "item_preview": "Spin Master Hatchimals Pixies Crystal, Hohner Hohner Kids Glockenspiel"
+        },
+        {
+          "order_id": "ORDER-EB2INC05",
+          "status": "delivered",
+          "total": 179.68,
+          "item_count": 3,
+          "created_at": "2025-11-19T06:32:26",
+          "item_preview": "Breyer Breyer Horse Collectible, A Game of Thrones by George R.R. Martin, ..."
+        },
+        {
+          "order_id": "ORDER-66ZWOTOE",
+          "status": "delivered",
+          "total": 74.83,
+          "item_count": 2,
+          "created_at": "2025-11-15T23:17:25",
+          "item_preview": "CITIBLOCS CITIBLOCS Original, Creativity for Kids Rock Painting Kit"
+        },
+        {
+          "order_id": "ORDER-RJUUHZQL",
+          "status": "cancelled",
+          "total": 99.72,
+          "item_count": 2,
+          "created_at": "2025-11-15T05:21:31",
+          "item_preview": "B. toys B. toys Bristle Blocks, Relevant Play Mad Mattr Sensory Dough"
+        },
+        {
+          "order_id": "ORDER-XRZU0AAW",
+          "status": "shipped",
+          "total": 114.59,
+          "item_count": 2,
+          "created_at": "2025-11-15T04:52:01",
+          "item_preview": "Microsoft Xbox Game - Forza Motorsport, LEGO LEGO BrickHeadz Mandalorian"
+        },
+        {
+          "order_id": "ORDER-Y3KBEBC0",
+          "status": "delivered",
+          "total": 74.62,
+          "item_count": 2,
+          "created_at": "2025-11-14T10:27:12",
+          "item_preview": "National Geographic National Geographic Volcano, UNO Card Game"
+        },
+        {
+          "order_id": "ORDER-CM3R5F51",
+          "status": "delivered",
+          "total": 217.65,
+          "item_count": 2,
+          "created_at": "2025-11-13T02:09:02",
+          "item_preview": "Panini NBA Trading Cards Box, Celestron Celestron Telescope for Kids"
+        },
+        {
+          "order_id": "ORDER-WX9Z2DO8",
+          "status": "delivered",
+          "total": 186.52,
+          "item_count": 4,
+          "created_at": "2025-11-12T20:02:32",
+          "item_preview": "Codenames Board Game, Ty Ty Beanie Boo Medium, ..."
+        },
+        {
+          "order_id": "ORDER-ALY6K54H",
+          "status": "delivered",
+          "total": 250.9,
+          "item_count": 2,
+          "created_at": "2025-11-10T11:58:59",
+          "item_preview": "Magna-Tiles Magna-Tiles Metropolis, Spin Master Bitzee Interactive Pet"
+        },
+        {
+          "order_id": "ORDER-H2CQS2CV",
+          "status": "delivered",
+          "total": 785.7,
+          "item_count": 4,
+          "created_at": "2025-11-10T01:00:38",
+          "item_preview": "Traxxas Traxxas Slash RC Truck, Fisher-Price Fisher-Price Little People Farm, ..."
+        },
+        {
+          "order_id": "ORDER-WVET54M4",
+          "status": "delivered",
+          "total": 88.27,
+          "item_count": 2,
+          "created_at": "2025-11-10T00:05:00",
+          "item_preview": "Brackitz Brackitz STEM Building Set, Marble Genius Marble Genius Marble Run"
+        },
+        {
+          "order_id": "ORDER-X1PAL2QJ",
+          "status": "delivered",
+          "total": 172.29,
+          "item_count": 2,
+          "created_at": "2025-11-09T15:34:26",
+          "item_preview": "Tegu Tegu Magnetic Blocks, Melissa & Doug Melissa & Doug Shape Sorter"
+        },
+        {
+          "order_id": "ORDER-7NFYPYMJ",
+          "status": "shipped",
+          "total": 108.02,
+          "item_count": 2,
+          "created_at": "2025-11-09T08:20:18",
+          "item_preview": "Klutz Klutz Friendship Bracelets, Catan Board Game"
+        },
+        {
+          "order_id": "ORDER-N8QA5EUN",
+          "status": "delivered",
+          "total": 284.2,
+          "item_count": 3,
+          "created_at": "2025-11-07T10:38:28",
+          "item_preview": "Schleich Schleich Dinosaur Set, Primo Toys Cubetto Coding Robot, ..."
+        },
+        {
+          "order_id": "ORDER-90LWTR2C",
+          "status": "delivered",
+          "total": 76.98,
+          "item_count": 1,
+          "created_at": "2025-11-05T18:53:55",
+          "item_preview": "Catan Board Game"
+        },
+        {
+          "order_id": "ORDER-887M22YT",
+          "status": "delivered",
+          "total": 97.51,
+          "item_count": 2,
+          "created_at": "2025-11-04T18:13:10",
+          "item_preview": "Moose Toys Little Live Pets Bird, Learning Resources Learning Resources Gears"
+        },
+        {
+          "order_id": "ORDER-PLWNI2RV",
+          "status": "delivered",
+          "total": 96.64,
+          "item_count": 1,
+          "created_at": "2025-10-28T18:58:33",
+          "item_preview": "LEGO LEGO Ninjago Dragon"
+        },
+        {
+          "order_id": "ORDER-U4HW48RH",
+          "status": "shipped",
+          "total": 853.05,
+          "item_count": 3,
+          "created_at": "2025-10-28T02:32:24",
+          "item_preview": "Korg Korg tinyPIANO, Schleich Schleich Dinosaur Set, ..."
+        },
+        {
+          "order_id": "ORDER-6G92P277",
+          "status": "shipped",
+          "total": 312.32,
+          "item_count": 3,
+          "created_at": "2025-10-17T17:58:00",
+          "item_preview": "B. toys B. toys Bristle Blocks, Magna-Tiles Magna-Tiles Metropolis, ..."
+        },
+        {
+          "order_id": "ORDER-4WEZV2N8",
+          "status": "delivered",
+          "total": 86.52,
+          "item_count": 1,
+          "created_at": "2025-10-16T09:45:31",
+          "item_preview": "BiOBUDDi BiOBUDDi Eco Building Blocks"
+        },
+        {
+          "order_id": "ORDER-6JH7F4K9",
+          "status": "delivered",
+          "total": 64.02,
+          "item_count": 1,
+          "created_at": "2025-10-13T16:23:46",
+          "item_preview": "Moose Toys Little Live Pets Bird"
+        },
+        {
+          "order_id": "ORDER-DGN5FR7U",
+          "status": "delivered",
+          "total": 171.84,
+          "item_count": 2,
+          "created_at": "2025-10-13T08:31:34",
+          "item_preview": "Calico Critters Calico Critters Family Set, Barbie Barbie Dream Camper"
+        },
+        {
+          "order_id": "ORDER-4S07AMWX",
+          "status": "delivered",
+          "total": 227.4,
+          "item_count": 1,
+          "created_at": "2025-10-10T17:33:42",
+          "item_preview": "LEGO LEGO Ideas Tree House"
+        },
+        {
+          "order_id": "ORDER-8Q4PB9C0",
+          "status": "pending",
+          "total": 67.56,
+          "item_count": 1,
+          "created_at": "2025-10-08T00:38:15",
+          "item_preview": "Stonemaier Games Wingspan Board Game"
+        },
+        {
+          "order_id": "ORDER-RCE30IJH",
+          "status": "cancelled",
+          "total": 38.31,
+          "item_count": 2,
+          "created_at": "2025-10-07T22:44:37",
+          "item_preview": "Smart Games Smart Games IQ Puzzler Pro, Tangle Tangle Jr Textured"
+        },
+        {
+          "order_id": "ORDER-UQ0N9GD5",
+          "status": "delivered",
+          "total": 351.16,
+          "item_count": 4,
+          "created_at": "2025-10-04T01:52:20",
+          "item_preview": "Disney Frozen 2 Elsa Singing Doll, Libellud Dixit, ..."
+        },
+        {
+          "order_id": "ORDER-GG30THLF",
+          "status": "pending",
+          "total": 41.82,
+          "item_count": 1,
+          "created_at": "2025-10-03T10:48:36",
+          "item_preview": "Mattel WWE Championship Belt"
+        },
+        {
+          "order_id": "ORDER-149D1CBT",
+          "status": "delivered",
+          "total": 198.91,
+          "item_count": 4,
+          "created_at": "2025-10-03T03:29:09",
+          "item_preview": "Hohner Hohner Kids Glockenspiel, Disney Encanto Mirabel Doll, ..."
+        },
+        {
+          "order_id": "ORDER-02XW2KZB",
+          "status": "delivered",
+          "total": 170.13,
+          "item_count": 2,
+          "created_at": "2025-10-02T15:10:29",
+          "item_preview": "Plan B Games Azul Board Game, Minecraft Minecraft Creeper Plush"
+        }
+      ]
+    }
+  ]
+}

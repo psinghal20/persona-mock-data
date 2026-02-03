@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-135",
+  "persona_id": "persona_013",
+  "store_id": "pharmacy",
+  "status": "completed",
+  "created_at": "2025-10-31T13:31:02",
+  "items": [
+    {
+      "product_id": "247",
+      "name": "Fish Oil Triple Strength",
+      "category": "Vitamins",
+      "quantity": 1,
+      "price": 24.99,
+      "subtotal": 24.99
+    }
+  ],
+  "total": 24.99,
+  "currency": "USD"
+}

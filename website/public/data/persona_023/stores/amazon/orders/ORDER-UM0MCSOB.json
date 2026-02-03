@@ -1,0 +1,30 @@
+{
+  "order_id": "ORDER-UM0MCSOB",
+  "persona_id": "persona_023",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-11-20T01:09:10",
+  "shipped_at": "2025-11-21T01:09:10",
+  "delivered_at": "2025-11-23T01:09:10",
+  "shipping_address": "777 East Side Ave, Cleveland, OH 44114",
+  "items": [
+    {
+      "product_id": "B0TOYS0054",
+      "name": "LEGO LEGO Super Mario Starter Course",
+      "category": "Toys & Games",
+      "quantity": 1,
+      "price": 63.48,
+      "subtotal": 63.48
+    },
+    {
+      "product_id": "B0BCGL013L",
+      "name": "Eufy Security SmartTrack Card",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 29.99,
+      "subtotal": 29.99
+    }
+  ],
+  "total": 93.47,
+  "currency": "USD"
+}

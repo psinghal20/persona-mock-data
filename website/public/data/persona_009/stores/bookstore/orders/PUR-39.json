@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-39",
+  "persona_id": "persona_009",
+  "store_id": "bookstore",
+  "status": "completed",
+  "created_at": "2025-12-29T07:30:21",
+  "items": [
+    {
+      "product_id": "216",
+      "name": "A Short History of Nearly Everything",
+      "category": "Science",
+      "quantity": 2,
+      "price": 18.0,
+      "subtotal": 36.0
+    }
+  ],
+  "total": 36.0,
+  "currency": "USD"
+}

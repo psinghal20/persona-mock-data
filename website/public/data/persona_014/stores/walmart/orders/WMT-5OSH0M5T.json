@@ -1,0 +1,38 @@
+{
+  "order_id": "WMT-5OSH0M5T",
+  "persona_id": "persona_014",
+  "store_id": "walmart",
+  "status": "delivered",
+  "created_at": "2025-11-02T01:47:08",
+  "shipped_at": "2025-11-03T01:47:08",
+  "delivered_at": "2025-11-06T01:47:08",
+  "shipping_address": "888 Design District Ln, San Francisco, CA 94102",
+  "items": [
+    {
+      "product_id": "WMT00000940",
+      "name": "Apple MacBook Air 13\" M3",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 1104.74,
+      "subtotal": 1104.74
+    },
+    {
+      "product_id": "WMT00001191",
+      "name": "LEGO LEGO Classic Large Creative Box",
+      "category": "Toys",
+      "quantity": 1,
+      "price": 51.85,
+      "subtotal": 51.85
+    },
+    {
+      "product_id": "WMT00001204",
+      "name": "Barbie Ken Doll Fashionista",
+      "category": "Toys",
+      "quantity": 2,
+      "price": 11.5,
+      "subtotal": 23.0
+    }
+  ],
+  "total": 1179.59,
+  "currency": "USD"
+}

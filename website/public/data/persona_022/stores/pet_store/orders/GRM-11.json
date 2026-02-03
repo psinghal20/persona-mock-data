@@ -1,0 +1,25 @@
+{
+  "order_id": "GRM-11",
+  "persona_id": "persona_022",
+  "store_id": "pet_store",
+  "type": "grooming",
+  "status": "completed",
+  "appointment_date": "2025-11-20",
+  "appointment_time": "10:00",
+  "items": [
+    {
+      "product_id": "GRM014",
+      "name": "Basic Bath & Brush",
+      "description": "Gentle bath with cat-safe shampoo and brushing",
+      "pet_name": "Mittens",
+      "pet_type": "Cats",
+      "pet_breed": "Domestic Shorthair",
+      "duration_minutes": "60",
+      "quantity": 1,
+      "price": 50.0,
+      "subtotal": 50.0
+    }
+  ],
+  "total": 50.0,
+  "currency": "USD"
+}

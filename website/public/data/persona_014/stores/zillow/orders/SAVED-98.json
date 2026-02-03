@@ -1,0 +1,26 @@
+{
+  "order_id": "SAVED-98",
+  "persona_id": "persona_014",
+  "store_id": "zillow",
+  "type": "saved_property",
+  "status": "saved",
+  "created_at": "2026-01-16T10:13:24",
+  "notes": "Love the layout",
+  "items": [
+    {
+      "product_id": "8623",
+      "name": "3694 Pine Boulevard Unit 1987",
+      "address": "3694 Pine Boulevard Unit 1987",
+      "city": "",
+      "price": 634078.0,
+      "bedrooms": "",
+      "bathrooms": "",
+      "sqft": "",
+      "home_type": "",
+      "quantity": 1,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

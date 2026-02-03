@@ -1,0 +1,30 @@
+{
+  "order_id": "ORD-ILL5KWB9",
+  "persona_id": "persona_014",
+  "store_id": "pc_parts",
+  "status": "shipped",
+  "created_at": "2025-11-05T13:38:58",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "888 Design District Ln, San Francisco, CA 94102",
+  "items": [
+    {
+      "product_id": "PSU049",
+      "name": "SFX L Power",
+      "category": "psus",
+      "quantity": 1,
+      "price": 119.99,
+      "subtotal": 119.99
+    },
+    {
+      "product_id": "PSU019",
+      "name": "Straight Power 12",
+      "category": "psus",
+      "quantity": 1,
+      "price": 189.99,
+      "subtotal": 189.99
+    }
+  ],
+  "total": 309.98,
+  "currency": "USD"
+}

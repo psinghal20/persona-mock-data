@@ -1,0 +1,22 @@
+{
+  "order_id": "FRN000046",
+  "persona_id": "persona_010",
+  "store_id": "furniture_store",
+  "status": "pending",
+  "created_at": "2026-01-08T05:14:20",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "321 French Quarter Ave, New Orleans, LA 70116",
+  "items": [
+    {
+      "product_id": "MD005",
+      "name": "Tulip Style Dining Table",
+      "category": "Tables",
+      "quantity": 1,
+      "price": 799.99,
+      "subtotal": 799.99
+    }
+  ],
+  "total": 799.99,
+  "currency": "USD"
+}

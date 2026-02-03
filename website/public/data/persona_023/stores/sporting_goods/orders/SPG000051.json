@@ -1,0 +1,22 @@
+{
+  "order_id": "SPG000051",
+  "persona_id": "persona_023",
+  "store_id": "sporting_goods",
+  "status": "shipped",
+  "created_at": "2025-11-27T07:10:46",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "777 East Side Ave, Cleveland, OH 44114",
+  "items": [
+    {
+      "product_id": "BKB005",
+      "name": "Harden Vol 7",
+      "category": "Shoes",
+      "quantity": 1,
+      "price": 159.99,
+      "subtotal": 159.99
+    }
+  ],
+  "total": 159.99,
+  "currency": "USD"
+}

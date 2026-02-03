@@ -1,0 +1,23 @@
+{
+  "order_id": "PRE-43",
+  "persona_id": "persona_027",
+  "store_id": "bakery",
+  "type": "preorder",
+  "status": "pending",
+  "created_at": "2026-01-11T09:41:27",
+  "pickup_date": "2026-01-20",
+  "pickup_time": "14:00",
+  "special_instructions": "",
+  "items": [
+    {
+      "product_id": "preorder-43",
+      "name": "Custom lemon 12-inch Cake",
+      "description": "fondant frosting, ganache filling, minimal decoration",
+      "quantity": 1,
+      "price": 112.0,
+      "subtotal": 112.0
+    }
+  ],
+  "total": 112.0,
+  "currency": "USD"
+}

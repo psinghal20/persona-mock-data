@@ -1,0 +1,22 @@
+{
+  "order_id": "SPH000058",
+  "persona_id": "persona_031",
+  "store_id": "sephora",
+  "status": "delivered",
+  "created_at": "2025-10-05T17:32:03",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "999 Suburban Lane, Phoenix, AZ 85001",
+  "items": [
+    {
+      "product_id": "SPH0236",
+      "name": "Mineral Sunscreen",
+      "category": "Skincare",
+      "quantity": 1,
+      "price": 42.49,
+      "subtotal": 42.49
+    }
+  ],
+  "total": 42.49,
+  "currency": "USD"
+}

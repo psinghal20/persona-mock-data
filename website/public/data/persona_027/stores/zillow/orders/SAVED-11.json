@@ -1,0 +1,26 @@
+{
+  "order_id": "SAVED-11",
+  "persona_id": "persona_027",
+  "store_id": "zillow",
+  "type": "saved_property",
+  "status": "saved",
+  "created_at": "2025-10-15T17:09:26",
+  "notes": "Love the layout",
+  "items": [
+    {
+      "product_id": "5269",
+      "name": "1441 Kennedy Circle",
+      "address": "1441 Kennedy Circle",
+      "city": "",
+      "price": 3661683.0,
+      "bedrooms": "",
+      "bathrooms": "",
+      "sqft": "",
+      "home_type": "",
+      "quantity": 1,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

@@ -1,0 +1,545 @@
+{
+  "persona_id": "persona_023",
+  "store_id": "pc_parts",
+  "store_name": "PC Parts",
+  "transaction_type": "orders",
+  "transaction_label": "orders",
+  "has_cost": true,
+  "summary": {
+    "total_count": 32,
+    "total_spent": 73439.15,
+    "first_date": "2025-10-03",
+    "last_date": "2026-01-27"
+  },
+  "items": [
+    {
+      "order_id": "ORD-2JKJXDX1",
+      "status": "pending",
+      "total": 4999.98,
+      "item_count": 1,
+      "created_at": "2026-01-27T22:20:34",
+      "item_preview": "Ryzen Threadripper 7970X"
+    },
+    {
+      "order_id": "ORD-AQLQC5UU",
+      "status": "delivered",
+      "total": 959.98,
+      "item_count": 1,
+      "created_at": "2026-01-26T08:56:49",
+      "item_preview": "RTX A2000"
+    },
+    {
+      "order_id": "ORD-BIE5CQZH",
+      "status": "cancelled",
+      "total": 3999.99,
+      "item_count": 1,
+      "created_at": "2026-01-19T13:39:45",
+      "item_preview": "Radeon Pro W7900"
+    },
+    {
+      "order_id": "ORD-EMZYLTI1",
+      "status": "shipped",
+      "total": 1599.99,
+      "item_count": 1,
+      "created_at": "2026-01-14T18:05:35",
+      "item_preview": "GeForce RTX 4090"
+    },
+    {
+      "order_id": "ORD-PYUDW0MF",
+      "status": "delivered",
+      "total": 3239.96,
+      "item_count": 2,
+      "created_at": "2026-01-10T01:58:40",
+      "item_preview": "Ryzen 5 5600G, GeForce RTX 4090 D"
+    },
+    {
+      "order_id": "ORD-ATHVMPXR",
+      "status": "delivered",
+      "total": 8599.96,
+      "item_count": 2,
+      "created_at": "2026-01-08T02:50:24",
+      "item_preview": "Ryzen 7 5800X3D, Radeon Pro W7900"
+    },
+    {
+      "order_id": "ORD-U9H475NE",
+      "status": "delivered",
+      "total": 1049.97,
+      "item_count": 3,
+      "created_at": "2025-12-27T06:02:23",
+      "item_preview": "Radeon RX 7700 XT, Radeon RX 7900 GRE, ..."
+    },
+    {
+      "order_id": "ORD-G1QM28AT",
+      "status": "delivered",
+      "total": 5169.98,
+      "item_count": 2,
+      "created_at": "2025-12-25T16:03:31",
+      "item_preview": "Ryzen Threadripper 7980X, Ryzen 7 5700X"
+    },
+    {
+      "order_id": "ORD-PKZQAJUK",
+      "status": "delivered",
+      "total": 4799.97,
+      "item_count": 2,
+      "created_at": "2025-12-23T04:31:41",
+      "item_preview": "Radeon RX 6500 XT, Quadro RTX A6000"
+    },
+    {
+      "order_id": "ORD-K0C5PV57",
+      "status": "shipped",
+      "total": 749.99,
+      "item_count": 1,
+      "created_at": "2025-12-19T04:50:36",
+      "item_preview": "Radeon RX 7900 XT"
+    },
+    {
+      "order_id": "ORD-RW3H9578",
+      "status": "delivered",
+      "total": 4299.96,
+      "item_count": 3,
+      "created_at": "2025-12-05T05:02:12",
+      "item_preview": "GeForce RTX 4070 Ti Super, GeForce RTX 4090 D, ..."
+    },
+    {
+      "order_id": "ORD-G40N6GSM",
+      "status": "delivered",
+      "total": 9449.95,
+      "item_count": 3,
+      "created_at": "2025-12-04T09:02:36",
+      "item_preview": "Quadro RTX A6000, GeForce GTX 1650, ..."
+    },
+    {
+      "order_id": "ORD-9XAS7JJL",
+      "status": "delivered",
+      "total": 1149.97,
+      "item_count": 2,
+      "created_at": "2025-11-29T04:10:08",
+      "item_preview": "Radeon RX 7900 XT, Ryzen 7 5800X"
+    },
+    {
+      "order_id": "ORD-M4ZG425Q",
+      "status": "delivered",
+      "total": 699.98,
+      "item_count": 1,
+      "created_at": "2025-11-28T15:23:19",
+      "item_preview": "GeForce RTX 3060 Ti"
+    },
+    {
+      "order_id": "ORD-XIDBP3QV",
+      "status": "delivered",
+      "total": 459.98,
+      "item_count": 1,
+      "created_at": "2025-11-25T12:09:24",
+      "item_preview": "GeForce RTX 3050"
+    },
+    {
+      "order_id": "ORD-I3D8R6UH",
+      "status": "pending",
+      "total": 799.98,
+      "item_count": 2,
+      "created_at": "2025-11-24T07:19:12",
+      "item_preview": "Ryzen 7 5800X3D, Radeon RX 7800 XT"
+    },
+    {
+      "order_id": "ORD-86UL3IM9",
+      "status": "delivered",
+      "total": 5329.97,
+      "item_count": 2,
+      "created_at": "2025-11-21T22:31:17",
+      "item_preview": "Ryzen Threadripper 7970X, Ryzen 7 8700G"
+    },
+    {
+      "order_id": "ORD-HRCNIM65",
+      "status": "delivered",
+      "total": 3699.96,
+      "item_count": 3,
+      "created_at": "2025-11-21T15:21:24",
+      "item_preview": "GeForce RTX 4090 D, Radeon RX 7900 XTX, ..."
+    },
+    {
+      "order_id": "ORD-IZEVQAVN",
+      "status": "shipped",
+      "total": 79.99,
+      "item_count": 1,
+      "created_at": "2025-11-21T06:47:39",
+      "item_preview": "Ryzen 5 4500"
+    },
+    {
+      "order_id": "ORD-NC1FEH80",
+      "status": "delivered",
+      "total": 199.99,
+      "item_count": 1,
+      "created_at": "2025-11-20T16:37:18",
+      "item_preview": "Ryzen 7 5800X"
+    },
+    {
+      "order_id": "ORD-DID7SBV0",
+      "status": "delivered",
+      "total": 1079.97,
+      "item_count": 2,
+      "created_at": "2025-11-14T05:38:19",
+      "item_preview": "Radeon RX 7600 XT, Radeon RX 7700 XT"
+    },
+    {
+      "order_id": "ORD-G78S1X8P",
+      "status": "delivered",
+      "total": 859.97,
+      "item_count": 2,
+      "created_at": "2025-11-11T21:14:48",
+      "item_preview": "Ryzen 7 5700G, Radeon RX 7800 XT"
+    },
+    {
+      "order_id": "ORD-Z0N0XLSK",
+      "status": "delivered",
+      "total": 439.98,
+      "item_count": 2,
+      "created_at": "2025-11-07T11:49:55",
+      "item_preview": "Ryzen 7 PRO 7745, Ryzen 5 5600G"
+    },
+    {
+      "order_id": "ORD-0JNJT7Y2",
+      "status": "delivered",
+      "total": 479.98,
+      "item_count": 2,
+      "created_at": "2025-11-06T13:48:57",
+      "item_preview": "Ryzen 7 5800X3D, Ryzen 7 5700G"
+    },
+    {
+      "order_id": "ORD-MV98RNKD",
+      "status": "delivered",
+      "total": 3159.96,
+      "item_count": 2,
+      "created_at": "2025-10-27T14:57:03",
+      "item_preview": "Ryzen Threadripper 7960X, Ryzen 5 4500"
+    },
+    {
+      "order_id": "ORD-75CHCW27",
+      "status": "delivered",
+      "total": 659.98,
+      "item_count": 1,
+      "created_at": "2025-10-23T09:05:05",
+      "item_preview": "Radeon RX 7600 XT"
+    },
+    {
+      "order_id": "ORD-T78TYTGY",
+      "status": "delivered",
+      "total": 1149.97,
+      "item_count": 2,
+      "created_at": "2025-10-20T02:02:28",
+      "item_preview": "GeForce RTX 3060 Ti, Ryzen 9 5950X"
+    },
+    {
+      "order_id": "ORD-AT5V9XZX",
+      "status": "delivered",
+      "total": 999.99,
+      "item_count": 1,
+      "created_at": "2025-10-18T11:05:40",
+      "item_preview": "GeForce RTX 4080 Super"
+    },
+    {
+      "order_id": "ORD-7X4LT0XD",
+      "status": "shipped",
+      "total": 919.94,
+      "item_count": 3,
+      "created_at": "2025-10-16T01:26:30",
+      "item_preview": "Ryzen 5 4500, Radeon RX 6500 XT, ..."
+    },
+    {
+      "order_id": "ORD-W7UPB46C",
+      "status": "delivered",
+      "total": 1049.97,
+      "item_count": 3,
+      "created_at": "2025-10-11T05:43:58",
+      "item_preview": "Radeon RX 6500 XT, GeForce GTX 1650, ..."
+    },
+    {
+      "order_id": "ORD-DEAGR84P",
+      "status": "delivered",
+      "total": 879.96,
+      "item_count": 2,
+      "created_at": "2025-10-06T14:37:59",
+      "item_preview": "Ryzen 7 7700X, Radeon RX 580"
+    },
+    {
+      "order_id": "ORD-9XWC8ZJ3",
+      "status": "delivered",
+      "total": 419.98,
+      "item_count": 1,
+      "created_at": "2025-10-03T13:01:32",
+      "item_preview": "Ryzen 5 PRO 7545"
+    }
+  ],
+  "categories": [
+    {
+      "id": "orders",
+      "name": "Orders",
+      "type": "orders",
+      "label": "orders",
+      "has_cost": true,
+      "summary": {
+        "total_count": 32,
+        "total_spent": 73439.15,
+        "first_date": "2025-10-03",
+        "last_date": "2026-01-27"
+      },
+      "items": [
+        {
+          "order_id": "ORD-2JKJXDX1",
+          "status": "pending",
+          "total": 4999.98,
+          "item_count": 1,
+          "created_at": "2026-01-27T22:20:34",
+          "item_preview": "Ryzen Threadripper 7970X"
+        },
+        {
+          "order_id": "ORD-AQLQC5UU",
+          "status": "delivered",
+          "total": 959.98,
+          "item_count": 1,
+          "created_at": "2026-01-26T08:56:49",
+          "item_preview": "RTX A2000"
+        },
+        {
+          "order_id": "ORD-BIE5CQZH",
+          "status": "cancelled",
+          "total": 3999.99,
+          "item_count": 1,
+          "created_at": "2026-01-19T13:39:45",
+          "item_preview": "Radeon Pro W7900"
+        },
+        {
+          "order_id": "ORD-EMZYLTI1",
+          "status": "shipped",
+          "total": 1599.99,
+          "item_count": 1,
+          "created_at": "2026-01-14T18:05:35",
+          "item_preview": "GeForce RTX 4090"
+        },
+        {
+          "order_id": "ORD-PYUDW0MF",
+          "status": "delivered",
+          "total": 3239.96,
+          "item_count": 2,
+          "created_at": "2026-01-10T01:58:40",
+          "item_preview": "Ryzen 5 5600G, GeForce RTX 4090 D"
+        },
+        {
+          "order_id": "ORD-ATHVMPXR",
+          "status": "delivered",
+          "total": 8599.96,
+          "item_count": 2,
+          "created_at": "2026-01-08T02:50:24",
+          "item_preview": "Ryzen 7 5800X3D, Radeon Pro W7900"
+        },
+        {
+          "order_id": "ORD-U9H475NE",
+          "status": "delivered",
+          "total": 1049.97,
+          "item_count": 3,
+          "created_at": "2025-12-27T06:02:23",
+          "item_preview": "Radeon RX 7700 XT, Radeon RX 7900 GRE, ..."
+        },
+        {
+          "order_id": "ORD-G1QM28AT",
+          "status": "delivered",
+          "total": 5169.98,
+          "item_count": 2,
+          "created_at": "2025-12-25T16:03:31",
+          "item_preview": "Ryzen Threadripper 7980X, Ryzen 7 5700X"
+        },
+        {
+          "order_id": "ORD-PKZQAJUK",
+          "status": "delivered",
+          "total": 4799.97,
+          "item_count": 2,
+          "created_at": "2025-12-23T04:31:41",
+          "item_preview": "Radeon RX 6500 XT, Quadro RTX A6000"
+        },
+        {
+          "order_id": "ORD-K0C5PV57",
+          "status": "shipped",
+          "total": 749.99,
+          "item_count": 1,
+          "created_at": "2025-12-19T04:50:36",
+          "item_preview": "Radeon RX 7900 XT"
+        },
+        {
+          "order_id": "ORD-RW3H9578",
+          "status": "delivered",
+          "total": 4299.96,
+          "item_count": 3,
+          "created_at": "2025-12-05T05:02:12",
+          "item_preview": "GeForce RTX 4070 Ti Super, GeForce RTX 4090 D, ..."
+        },
+        {
+          "order_id": "ORD-G40N6GSM",
+          "status": "delivered",
+          "total": 9449.95,
+          "item_count": 3,
+          "created_at": "2025-12-04T09:02:36",
+          "item_preview": "Quadro RTX A6000, GeForce GTX 1650, ..."
+        },
+        {
+          "order_id": "ORD-9XAS7JJL",
+          "status": "delivered",
+          "total": 1149.97,
+          "item_count": 2,
+          "created_at": "2025-11-29T04:10:08",
+          "item_preview": "Radeon RX 7900 XT, Ryzen 7 5800X"
+        },
+        {
+          "order_id": "ORD-M4ZG425Q",
+          "status": "delivered",
+          "total": 699.98,
+          "item_count": 1,
+          "created_at": "2025-11-28T15:23:19",
+          "item_preview": "GeForce RTX 3060 Ti"
+        },
+        {
+          "order_id": "ORD-XIDBP3QV",
+          "status": "delivered",
+          "total": 459.98,
+          "item_count": 1,
+          "created_at": "2025-11-25T12:09:24",
+          "item_preview": "GeForce RTX 3050"
+        },
+        {
+          "order_id": "ORD-I3D8R6UH",
+          "status": "pending",
+          "total": 799.98,
+          "item_count": 2,
+          "created_at": "2025-11-24T07:19:12",
+          "item_preview": "Ryzen 7 5800X3D, Radeon RX 7800 XT"
+        },
+        {
+          "order_id": "ORD-86UL3IM9",
+          "status": "delivered",
+          "total": 5329.97,
+          "item_count": 2,
+          "created_at": "2025-11-21T22:31:17",
+          "item_preview": "Ryzen Threadripper 7970X, Ryzen 7 8700G"
+        },
+        {
+          "order_id": "ORD-HRCNIM65",
+          "status": "delivered",
+          "total": 3699.96,
+          "item_count": 3,
+          "created_at": "2025-11-21T15:21:24",
+          "item_preview": "GeForce RTX 4090 D, Radeon RX 7900 XTX, ..."
+        },
+        {
+          "order_id": "ORD-IZEVQAVN",
+          "status": "shipped",
+          "total": 79.99,
+          "item_count": 1,
+          "created_at": "2025-11-21T06:47:39",
+          "item_preview": "Ryzen 5 4500"
+        },
+        {
+          "order_id": "ORD-NC1FEH80",
+          "status": "delivered",
+          "total": 199.99,
+          "item_count": 1,
+          "created_at": "2025-11-20T16:37:18",
+          "item_preview": "Ryzen 7 5800X"
+        },
+        {
+          "order_id": "ORD-DID7SBV0",
+          "status": "delivered",
+          "total": 1079.97,
+          "item_count": 2,
+          "created_at": "2025-11-14T05:38:19",
+          "item_preview": "Radeon RX 7600 XT, Radeon RX 7700 XT"
+        },
+        {
+          "order_id": "ORD-G78S1X8P",
+          "status": "delivered",
+          "total": 859.97,
+          "item_count": 2,
+          "created_at": "2025-11-11T21:14:48",
+          "item_preview": "Ryzen 7 5700G, Radeon RX 7800 XT"
+        },
+        {
+          "order_id": "ORD-Z0N0XLSK",
+          "status": "delivered",
+          "total": 439.98,
+          "item_count": 2,
+          "created_at": "2025-11-07T11:49:55",
+          "item_preview": "Ryzen 7 PRO 7745, Ryzen 5 5600G"
+        },
+        {
+          "order_id": "ORD-0JNJT7Y2",
+          "status": "delivered",
+          "total": 479.98,
+          "item_count": 2,
+          "created_at": "2025-11-06T13:48:57",
+          "item_preview": "Ryzen 7 5800X3D, Ryzen 7 5700G"
+        },
+        {
+          "order_id": "ORD-MV98RNKD",
+          "status": "delivered",
+          "total": 3159.96,
+          "item_count": 2,
+          "created_at": "2025-10-27T14:57:03",
+          "item_preview": "Ryzen Threadripper 7960X, Ryzen 5 4500"
+        },
+        {
+          "order_id": "ORD-75CHCW27",
+          "status": "delivered",
+          "total": 659.98,
+          "item_count": 1,
+          "created_at": "2025-10-23T09:05:05",
+          "item_preview": "Radeon RX 7600 XT"
+        },
+        {
+          "order_id": "ORD-T78TYTGY",
+          "status": "delivered",
+          "total": 1149.97,
+          "item_count": 2,
+          "created_at": "2025-10-20T02:02:28",
+          "item_preview": "GeForce RTX 3060 Ti, Ryzen 9 5950X"
+        },
+        {
+          "order_id": "ORD-AT5V9XZX",
+          "status": "delivered",
+          "total": 999.99,
+          "item_count": 1,
+          "created_at": "2025-10-18T11:05:40",
+          "item_preview": "GeForce RTX 4080 Super"
+        },
+        {
+          "order_id": "ORD-7X4LT0XD",
+          "status": "shipped",
+          "total": 919.94,
+          "item_count": 3,
+          "created_at": "2025-10-16T01:26:30",
+          "item_preview": "Ryzen 5 4500, Radeon RX 6500 XT, ..."
+        },
+        {
+          "order_id": "ORD-W7UPB46C",
+          "status": "delivered",
+          "total": 1049.97,
+          "item_count": 3,
+          "created_at": "2025-10-11T05:43:58",
+          "item_preview": "Radeon RX 6500 XT, GeForce GTX 1650, ..."
+        },
+        {
+          "order_id": "ORD-DEAGR84P",
+          "status": "delivered",
+          "total": 879.96,
+          "item_count": 2,
+          "created_at": "2025-10-06T14:37:59",
+          "item_preview": "Ryzen 7 7700X, Radeon RX 580"
+        },
+        {
+          "order_id": "ORD-9XWC8ZJ3",
+          "status": "delivered",
+          "total": 419.98,
+          "item_count": 1,
+          "created_at": "2025-10-03T13:01:32",
+          "item_preview": "Ryzen 5 PRO 7545"
+        }
+      ]
+    }
+  ]
+}

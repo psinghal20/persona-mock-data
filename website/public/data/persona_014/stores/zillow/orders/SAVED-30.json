@@ -1,0 +1,26 @@
+{
+  "order_id": "SAVED-30",
+  "persona_id": "persona_014",
+  "store_id": "zillow",
+  "type": "saved_property",
+  "status": "saved",
+  "created_at": "2026-01-21T19:52:26",
+  "notes": "Close to work",
+  "items": [
+    {
+      "product_id": "64",
+      "name": "567 South Congress Lofts",
+      "address": "567 South Congress Lofts",
+      "city": "",
+      "price": 585000.0,
+      "bedrooms": "",
+      "bathrooms": "",
+      "sqft": "",
+      "home_type": "",
+      "quantity": 1,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

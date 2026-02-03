@@ -1,0 +1,38 @@
+{
+  "order_id": "WMT-VOSCOT0L",
+  "persona_id": "persona_014",
+  "store_id": "walmart",
+  "status": "shipped",
+  "created_at": "2025-12-08T16:26:52",
+  "shipped_at": "2025-12-09T16:26:52",
+  "delivered_at": "",
+  "shipping_address": "888 Design District Ln, San Francisco, CA 94102",
+  "items": [
+    {
+      "product_id": "WMT00001240",
+      "name": "Spirograph Spirograph Deluxe Set",
+      "category": "Toys",
+      "quantity": 4,
+      "price": 31.02,
+      "subtotal": 124.08
+    },
+    {
+      "product_id": "WMT00003047",
+      "name": "Smeg 4-Slice Toaster",
+      "category": "Home Appliances",
+      "quantity": 1,
+      "price": 210.16,
+      "subtotal": 210.16
+    },
+    {
+      "product_id": "WMT00001073",
+      "name": "Sony Sony LinkBuds Open",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 162.11,
+      "subtotal": 162.11
+    }
+  ],
+  "total": 496.35,
+  "currency": "USD"
+}

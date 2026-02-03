@@ -1,0 +1,26 @@
+{
+  "order_id": "TOUR-22",
+  "persona_id": "persona_014",
+  "store_id": "zillow",
+  "type": "tour",
+  "status": "scheduled",
+  "scheduled_time": "2025-12-11T13:00:00",
+  "notes": "Want to see the garage",
+  "items": [
+    {
+      "product_id": "7968",
+      "name": "3197 Elm Road Unit 3853",
+      "address": "3197 Elm Road Unit 3853",
+      "city": "",
+      "price": 1255992.0,
+      "bedrooms": "",
+      "bathrooms": "",
+      "sqft": "",
+      "home_type": "",
+      "quantity": 1,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

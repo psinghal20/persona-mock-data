@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-44",
+  "persona_id": "persona_014",
+  "store_id": "bookstore",
+  "status": "completed",
+  "created_at": "2025-12-17T08:14:13",
+  "items": [
+    {
+      "product_id": "76",
+      "name": "The Great Alone",
+      "category": "Fiction",
+      "quantity": 1,
+      "price": 17.99,
+      "subtotal": 17.99
+    }
+  ],
+  "total": 17.99,
+  "currency": "USD"
+}

@@ -1,0 +1,78 @@
+{
+  "order_id": "GRC000371",
+  "persona_id": "persona_016",
+  "store_id": "grocery",
+  "status": "cancelled",
+  "created_at": "2025-10-21T02:12:06",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "222 Tech Campus Way, Austin, TX 78701",
+  "items": [
+    {
+      "product_id": "GRO-1549",
+      "name": "Plum Organics Apple Puree",
+      "category": "Baby",
+      "quantity": 2,
+      "price": 41.74,
+      "subtotal": 83.48
+    },
+    {
+      "product_id": "prod_169",
+      "name": "Heritage Foods Organic Skim Milk",
+      "category": "Dairy",
+      "quantity": 4,
+      "price": 3.84,
+      "subtotal": 15.36
+    },
+    {
+      "product_id": "prod_232",
+      "name": "Local Pride Organic NY Strip Steak",
+      "category": "Meat & Seafood",
+      "quantity": 3,
+      "price": 54.3,
+      "subtotal": 162.9
+    },
+    {
+      "product_id": "prod_821",
+      "name": "Premium Select Cumin",
+      "category": "Condiments & Spices",
+      "quantity": 1,
+      "price": 4.01,
+      "subtotal": 4.01
+    },
+    {
+      "product_id": "prod_560",
+      "name": "Organic Choice Frozen Shrimp",
+      "category": "Frozen",
+      "quantity": 3,
+      "price": 13.14,
+      "subtotal": 39.42
+    },
+    {
+      "product_id": "prod_830",
+      "name": "Country Best Oregano",
+      "category": "Condiments & Spices",
+      "quantity": 3,
+      "price": 3.67,
+      "subtotal": 11.01
+    },
+    {
+      "product_id": "prod_611",
+      "name": "Quality First Organic Popsicles",
+      "category": "Frozen",
+      "quantity": 3,
+      "price": 6.93,
+      "subtotal": 20.79
+    },
+    {
+      "product_id": "prod_854",
+      "name": "Country Best Ranch Dressing",
+      "category": "Condiments & Spices",
+      "quantity": 3,
+      "price": 4.87,
+      "subtotal": 14.61
+    }
+  ],
+  "total": 351.58,
+  "currency": "USD"
+}

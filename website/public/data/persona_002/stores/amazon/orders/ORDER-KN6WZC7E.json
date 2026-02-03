@@ -1,0 +1,22 @@
+{
+  "order_id": "ORDER-KN6WZC7E",
+  "persona_id": "persona_002",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-11-04T20:41:08",
+  "shipped_at": "2025-11-07T20:41:08",
+  "delivered_at": "2025-11-11T20:41:08",
+  "shipping_address": "456 Tech Park Drive, San Jose, CA 95110",
+  "items": [
+    {
+      "product_id": "B0PCPT0125",
+      "name": "WD Black SN770M SSD",
+      "category": "Electronics",
+      "quantity": 3,
+      "price": 105.73,
+      "subtotal": 317.19
+    }
+  ],
+  "total": 317.19,
+  "currency": "USD"
+}

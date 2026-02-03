@@ -1,0 +1,38 @@
+{
+  "order_id": "SPG000112",
+  "persona_id": "persona_009",
+  "store_id": "sporting_goods",
+  "status": "delivered",
+  "created_at": "2026-01-18T13:46:00",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "789 Veterans Blvd, Tampa, FL 33602",
+  "items": [
+    {
+      "product_id": "CMP034",
+      "name": "MSR PocketRocket 2",
+      "category": "Equipment",
+      "quantity": 2,
+      "price": 49.99,
+      "subtotal": 99.98
+    },
+    {
+      "product_id": "GLF012",
+      "name": "Pro V1 Golf Balls",
+      "category": "Balls",
+      "quantity": 2,
+      "price": 54.99,
+      "subtotal": 109.98
+    },
+    {
+      "product_id": "GLF008",
+      "name": "Spider GT Putter",
+      "category": "Clubs",
+      "quantity": 1,
+      "price": 349.99,
+      "subtotal": 349.99
+    }
+  ],
+  "total": 559.95,
+  "currency": "USD"
+}

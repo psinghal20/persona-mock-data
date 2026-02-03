@@ -1,0 +1,497 @@
+{
+  "persona_id": "persona_031",
+  "store_id": "pharmacy",
+  "store_name": "Pharmacy",
+  "transaction_type": "purchases",
+  "transaction_label": "purchases",
+  "has_cost": true,
+  "summary": {
+    "total_count": 29,
+    "total_spent": 776.46,
+    "first_date": "2025-10-05",
+    "last_date": "2026-01-21"
+  },
+  "items": [
+    {
+      "order_id": "PUR-54",
+      "status": "completed",
+      "total": 33.98,
+      "item_count": 2,
+      "created_at": "2026-01-21T22:00:37",
+      "item_preview": "Turmeric Curcumin"
+    },
+    {
+      "order_id": "PUR-146",
+      "status": "completed",
+      "total": 33.98,
+      "item_count": 2,
+      "created_at": "2026-01-17T14:51:23",
+      "item_preview": "Pataday"
+    },
+    {
+      "order_id": "PUR-62",
+      "status": "completed",
+      "total": 38.97,
+      "item_count": 3,
+      "created_at": "2026-01-09T10:30:49",
+      "item_preview": "Melatonin 5mg"
+    },
+    {
+      "order_id": "PUR-153",
+      "status": "completed",
+      "total": 89.97,
+      "item_count": 3,
+      "created_at": "2026-01-08T02:14:29",
+      "item_preview": "CoQ10"
+    },
+    {
+      "order_id": "PUR-151",
+      "status": "completed",
+      "total": 33.98,
+      "item_count": 2,
+      "created_at": "2026-01-03T15:41:07",
+      "item_preview": "Mucinex"
+    },
+    {
+      "order_id": "PUR-161",
+      "status": "completed",
+      "total": 19.98,
+      "item_count": 2,
+      "created_at": "2025-12-30T16:27:37",
+      "item_preview": "Benadryl"
+    },
+    {
+      "order_id": "PUR-65",
+      "status": "completed",
+      "total": 13.99,
+      "item_count": 1,
+      "created_at": "2025-12-28T15:41:43",
+      "item_preview": "Calcium + D3"
+    },
+    {
+      "order_id": "PUR-55",
+      "status": "completed",
+      "total": 18.99,
+      "item_count": 1,
+      "created_at": "2025-12-27T00:21:39",
+      "item_preview": "Rhinocort"
+    },
+    {
+      "order_id": "PUR-64",
+      "status": "completed",
+      "total": 9.98,
+      "item_count": 2,
+      "created_at": "2025-12-25T21:48:08",
+      "item_preview": "Halls Cough Drops"
+    },
+    {
+      "order_id": "PUR-63",
+      "status": "completed",
+      "total": 16.99,
+      "item_count": 1,
+      "created_at": "2025-12-21T20:56:24",
+      "item_preview": "Centrum Adults"
+    },
+    {
+      "order_id": "PUR-66",
+      "status": "completed",
+      "total": 37.98,
+      "item_count": 2,
+      "created_at": "2025-12-21T05:08:14",
+      "item_preview": "Zyrtec"
+    },
+    {
+      "order_id": "PUR-147",
+      "status": "completed",
+      "total": 56.97,
+      "item_count": 3,
+      "created_at": "2025-12-21T04:04:34",
+      "item_preview": "One A Day Men's"
+    },
+    {
+      "order_id": "PUR-155",
+      "status": "completed",
+      "total": 25.98,
+      "item_count": 2,
+      "created_at": "2025-12-15T03:47:30",
+      "item_preview": "Melatonin 5mg"
+    },
+    {
+      "order_id": "PUR-60",
+      "status": "completed",
+      "total": 14.97,
+      "item_count": 3,
+      "created_at": "2025-12-07T10:47:39",
+      "item_preview": "Halls Cough Drops"
+    },
+    {
+      "order_id": "PUR-154",
+      "status": "completed",
+      "total": 29.98,
+      "item_count": 2,
+      "created_at": "2025-12-02T02:29:56",
+      "item_preview": "Zicam"
+    },
+    {
+      "order_id": "PUR-152",
+      "status": "completed",
+      "total": 8.99,
+      "item_count": 1,
+      "created_at": "2025-12-01T04:01:35",
+      "item_preview": "Zinc"
+    },
+    {
+      "order_id": "PUR-56",
+      "status": "completed",
+      "total": 21.99,
+      "item_count": 1,
+      "created_at": "2025-11-30T18:45:32",
+      "item_preview": "Prenatal Vitamins"
+    },
+    {
+      "order_id": "PUR-156",
+      "status": "completed",
+      "total": 13.98,
+      "item_count": 2,
+      "created_at": "2025-11-25T04:38:33",
+      "item_preview": "Cepacol"
+    },
+    {
+      "order_id": "PUR-57",
+      "status": "completed",
+      "total": 25.98,
+      "item_count": 2,
+      "created_at": "2025-11-01T00:44:22",
+      "item_preview": "Magnesium"
+    },
+    {
+      "order_id": "PUR-59",
+      "status": "completed",
+      "total": 23.98,
+      "item_count": 2,
+      "created_at": "2025-10-27T11:29:15",
+      "item_preview": "Robitussin DM"
+    },
+    {
+      "order_id": "PUR-159",
+      "status": "completed",
+      "total": 11.99,
+      "item_count": 1,
+      "created_at": "2025-10-18T09:54:09",
+      "item_preview": "Robitussin DM"
+    },
+    {
+      "order_id": "PUR-160",
+      "status": "completed",
+      "total": 23.98,
+      "item_count": 2,
+      "created_at": "2025-10-15T23:32:11",
+      "item_preview": "Vitamin B12"
+    },
+    {
+      "order_id": "PUR-158",
+      "status": "completed",
+      "total": 14.99,
+      "item_count": 1,
+      "created_at": "2025-10-15T04:16:53",
+      "item_preview": "NyQuil"
+    },
+    {
+      "order_id": "PUR-150",
+      "status": "completed",
+      "total": 23.98,
+      "item_count": 2,
+      "created_at": "2025-10-14T11:45:23",
+      "item_preview": "Biotin"
+    },
+    {
+      "order_id": "PUR-58",
+      "status": "completed",
+      "total": 25.98,
+      "item_count": 2,
+      "created_at": "2025-10-12T22:11:47",
+      "item_preview": "Melatonin 5mg"
+    },
+    {
+      "order_id": "PUR-148",
+      "status": "completed",
+      "total": 16.99,
+      "item_count": 1,
+      "created_at": "2025-10-09T03:00:24",
+      "item_preview": "Pataday"
+    },
+    {
+      "order_id": "PUR-61",
+      "status": "completed",
+      "total": 11.99,
+      "item_count": 1,
+      "created_at": "2025-10-06T06:13:30",
+      "item_preview": "Vitamin B12"
+    },
+    {
+      "order_id": "PUR-149",
+      "status": "completed",
+      "total": 44.97,
+      "item_count": 3,
+      "created_at": "2025-10-05T11:57:09",
+      "item_preview": "Cromolyn Sodium"
+    },
+    {
+      "order_id": "PUR-157",
+      "status": "completed",
+      "total": 29.98,
+      "item_count": 2,
+      "created_at": "2025-10-05T05:25:16",
+      "item_preview": "Zicam"
+    }
+  ],
+  "categories": [
+    {
+      "id": "purchases",
+      "name": "Purchases",
+      "type": "purchases",
+      "label": "purchases",
+      "has_cost": true,
+      "summary": {
+        "total_count": 29,
+        "total_spent": 776.46,
+        "first_date": "2025-10-05",
+        "last_date": "2026-01-21"
+      },
+      "items": [
+        {
+          "order_id": "PUR-54",
+          "status": "completed",
+          "total": 33.98,
+          "item_count": 2,
+          "created_at": "2026-01-21T22:00:37",
+          "item_preview": "Turmeric Curcumin"
+        },
+        {
+          "order_id": "PUR-146",
+          "status": "completed",
+          "total": 33.98,
+          "item_count": 2,
+          "created_at": "2026-01-17T14:51:23",
+          "item_preview": "Pataday"
+        },
+        {
+          "order_id": "PUR-62",
+          "status": "completed",
+          "total": 38.97,
+          "item_count": 3,
+          "created_at": "2026-01-09T10:30:49",
+          "item_preview": "Melatonin 5mg"
+        },
+        {
+          "order_id": "PUR-153",
+          "status": "completed",
+          "total": 89.97,
+          "item_count": 3,
+          "created_at": "2026-01-08T02:14:29",
+          "item_preview": "CoQ10"
+        },
+        {
+          "order_id": "PUR-151",
+          "status": "completed",
+          "total": 33.98,
+          "item_count": 2,
+          "created_at": "2026-01-03T15:41:07",
+          "item_preview": "Mucinex"
+        },
+        {
+          "order_id": "PUR-161",
+          "status": "completed",
+          "total": 19.98,
+          "item_count": 2,
+          "created_at": "2025-12-30T16:27:37",
+          "item_preview": "Benadryl"
+        },
+        {
+          "order_id": "PUR-65",
+          "status": "completed",
+          "total": 13.99,
+          "item_count": 1,
+          "created_at": "2025-12-28T15:41:43",
+          "item_preview": "Calcium + D3"
+        },
+        {
+          "order_id": "PUR-55",
+          "status": "completed",
+          "total": 18.99,
+          "item_count": 1,
+          "created_at": "2025-12-27T00:21:39",
+          "item_preview": "Rhinocort"
+        },
+        {
+          "order_id": "PUR-64",
+          "status": "completed",
+          "total": 9.98,
+          "item_count": 2,
+          "created_at": "2025-12-25T21:48:08",
+          "item_preview": "Halls Cough Drops"
+        },
+        {
+          "order_id": "PUR-63",
+          "status": "completed",
+          "total": 16.99,
+          "item_count": 1,
+          "created_at": "2025-12-21T20:56:24",
+          "item_preview": "Centrum Adults"
+        },
+        {
+          "order_id": "PUR-66",
+          "status": "completed",
+          "total": 37.98,
+          "item_count": 2,
+          "created_at": "2025-12-21T05:08:14",
+          "item_preview": "Zyrtec"
+        },
+        {
+          "order_id": "PUR-147",
+          "status": "completed",
+          "total": 56.97,
+          "item_count": 3,
+          "created_at": "2025-12-21T04:04:34",
+          "item_preview": "One A Day Men's"
+        },
+        {
+          "order_id": "PUR-155",
+          "status": "completed",
+          "total": 25.98,
+          "item_count": 2,
+          "created_at": "2025-12-15T03:47:30",
+          "item_preview": "Melatonin 5mg"
+        },
+        {
+          "order_id": "PUR-60",
+          "status": "completed",
+          "total": 14.97,
+          "item_count": 3,
+          "created_at": "2025-12-07T10:47:39",
+          "item_preview": "Halls Cough Drops"
+        },
+        {
+          "order_id": "PUR-154",
+          "status": "completed",
+          "total": 29.98,
+          "item_count": 2,
+          "created_at": "2025-12-02T02:29:56",
+          "item_preview": "Zicam"
+        },
+        {
+          "order_id": "PUR-152",
+          "status": "completed",
+          "total": 8.99,
+          "item_count": 1,
+          "created_at": "2025-12-01T04:01:35",
+          "item_preview": "Zinc"
+        },
+        {
+          "order_id": "PUR-56",
+          "status": "completed",
+          "total": 21.99,
+          "item_count": 1,
+          "created_at": "2025-11-30T18:45:32",
+          "item_preview": "Prenatal Vitamins"
+        },
+        {
+          "order_id": "PUR-156",
+          "status": "completed",
+          "total": 13.98,
+          "item_count": 2,
+          "created_at": "2025-11-25T04:38:33",
+          "item_preview": "Cepacol"
+        },
+        {
+          "order_id": "PUR-57",
+          "status": "completed",
+          "total": 25.98,
+          "item_count": 2,
+          "created_at": "2025-11-01T00:44:22",
+          "item_preview": "Magnesium"
+        },
+        {
+          "order_id": "PUR-59",
+          "status": "completed",
+          "total": 23.98,
+          "item_count": 2,
+          "created_at": "2025-10-27T11:29:15",
+          "item_preview": "Robitussin DM"
+        },
+        {
+          "order_id": "PUR-159",
+          "status": "completed",
+          "total": 11.99,
+          "item_count": 1,
+          "created_at": "2025-10-18T09:54:09",
+          "item_preview": "Robitussin DM"
+        },
+        {
+          "order_id": "PUR-160",
+          "status": "completed",
+          "total": 23.98,
+          "item_count": 2,
+          "created_at": "2025-10-15T23:32:11",
+          "item_preview": "Vitamin B12"
+        },
+        {
+          "order_id": "PUR-158",
+          "status": "completed",
+          "total": 14.99,
+          "item_count": 1,
+          "created_at": "2025-10-15T04:16:53",
+          "item_preview": "NyQuil"
+        },
+        {
+          "order_id": "PUR-150",
+          "status": "completed",
+          "total": 23.98,
+          "item_count": 2,
+          "created_at": "2025-10-14T11:45:23",
+          "item_preview": "Biotin"
+        },
+        {
+          "order_id": "PUR-58",
+          "status": "completed",
+          "total": 25.98,
+          "item_count": 2,
+          "created_at": "2025-10-12T22:11:47",
+          "item_preview": "Melatonin 5mg"
+        },
+        {
+          "order_id": "PUR-148",
+          "status": "completed",
+          "total": 16.99,
+          "item_count": 1,
+          "created_at": "2025-10-09T03:00:24",
+          "item_preview": "Pataday"
+        },
+        {
+          "order_id": "PUR-61",
+          "status": "completed",
+          "total": 11.99,
+          "item_count": 1,
+          "created_at": "2025-10-06T06:13:30",
+          "item_preview": "Vitamin B12"
+        },
+        {
+          "order_id": "PUR-149",
+          "status": "completed",
+          "total": 44.97,
+          "item_count": 3,
+          "created_at": "2025-10-05T11:57:09",
+          "item_preview": "Cromolyn Sodium"
+        },
+        {
+          "order_id": "PUR-157",
+          "status": "completed",
+          "total": 29.98,
+          "item_count": 2,
+          "created_at": "2025-10-05T05:25:16",
+          "item_preview": "Zicam"
+        }
+      ]
+    }
+  ]
+}

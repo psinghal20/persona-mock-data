@@ -1,0 +1,30 @@
+{
+  "order_id": "ORDER-YE653F15",
+  "persona_id": "persona_009",
+  "store_id": "amazon",
+  "status": "shipped",
+  "created_at": "2025-11-05T14:26:07",
+  "shipped_at": "2025-11-07T14:26:07",
+  "delivered_at": "",
+  "shipping_address": "789 Veterans Blvd, Tampa, FL 33602",
+  "items": [
+    {
+      "product_id": "B0TOYS0004",
+      "name": "Hasbro Jenga Classic",
+      "category": "Toys & Games",
+      "quantity": 1,
+      "price": 14.48,
+      "subtotal": 14.48
+    },
+    {
+      "product_id": "B0AMZN1278",
+      "name": "Solo Stove Bonfire 2.0",
+      "category": "Patio Lawn & Garden",
+      "quantity": 3,
+      "price": 349.99,
+      "subtotal": 1049.97
+    }
+  ],
+  "total": 1064.45,
+  "currency": "USD"
+}

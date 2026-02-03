@@ -1,0 +1,30 @@
+{
+  "order_id": "WMT-PJJ9WO8Y",
+  "persona_id": "persona_027",
+  "store_id": "walmart",
+  "status": "delivered",
+  "created_at": "2026-01-21T12:19:29",
+  "shipped_at": "2026-01-22T12:19:29",
+  "delivered_at": "2026-01-26T12:19:29",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "items": [
+    {
+      "product_id": "WMT00000062",
+      "name": "Home Style Bell Peppers",
+      "category": "Grocery",
+      "quantity": 1,
+      "price": 1.69,
+      "subtotal": 1.69
+    },
+    {
+      "product_id": "WMT00001911",
+      "name": "Adidas Barricade 13",
+      "category": "Sports",
+      "quantity": 1,
+      "price": 156.39,
+      "subtotal": 156.39
+    }
+  ],
+  "total": 158.08,
+  "currency": "USD"
+}

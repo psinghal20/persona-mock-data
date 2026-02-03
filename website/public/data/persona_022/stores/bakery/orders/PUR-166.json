@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-166",
+  "persona_id": "persona_022",
+  "store_id": "bakery",
+  "status": "completed",
+  "created_at": "2025-10-19T22:33:31",
+  "items": [
+    {
+      "product_id": "124",
+      "name": "Dinner Roll (6 pack)",
+      "category": "Bread",
+      "quantity": 1,
+      "price": 4.99,
+      "subtotal": 4.99
+    }
+  ],
+  "total": 4.99,
+  "currency": "USD"
+}

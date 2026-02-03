@@ -1,0 +1,78 @@
+{
+  "order_id": "GRC000048",
+  "persona_id": "persona_013",
+  "store_id": "grocery",
+  "status": "cancelled",
+  "created_at": "2026-01-07T08:07:01",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "555 Community Center Rd, Houston, TX 77001",
+  "items": [
+    {
+      "product_id": "GRO-2172",
+      "name": "Lay's Trail Mix Tropical",
+      "category": "Snacks",
+      "quantity": 1,
+      "price": 6.39,
+      "subtotal": 6.39
+    },
+    {
+      "product_id": "GRO-2195",
+      "name": "Lay's Granola Bar Oats Honey",
+      "category": "Snacks",
+      "quantity": 1,
+      "price": 7.39,
+      "subtotal": 7.39
+    },
+    {
+      "product_id": "GRO-2197",
+      "name": "Frito-Lay Protein Bar Variety",
+      "category": "Snacks",
+      "quantity": 2,
+      "price": 7.17,
+      "subtotal": 14.34
+    },
+    {
+      "product_id": "GRO-1356",
+      "name": "Lesser Evil Dried Mango",
+      "category": "Snacks",
+      "quantity": 2,
+      "price": 7.47,
+      "subtotal": 14.94
+    },
+    {
+      "product_id": "prod_736",
+      "name": "Meadow Gold Beef Jerky",
+      "category": "Snacks",
+      "quantity": 3,
+      "price": 10.54,
+      "subtotal": 31.62
+    },
+    {
+      "product_id": "prod_227",
+      "name": "Quality First Soy Milk",
+      "category": "Dairy",
+      "quantity": 2,
+      "price": 3.59,
+      "subtotal": 7.18
+    },
+    {
+      "product_id": "prod_717",
+      "name": "Quality First Cashews",
+      "category": "Snacks",
+      "quantity": 3,
+      "price": 12.47,
+      "subtotal": 37.41
+    },
+    {
+      "product_id": "GRO-1350",
+      "name": "Kettle Brand Pecans",
+      "category": "Snacks",
+      "quantity": 1,
+      "price": 4.07,
+      "subtotal": 4.07
+    }
+  ],
+  "total": 123.34,
+  "currency": "USD"
+}

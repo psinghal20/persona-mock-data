@@ -1,0 +1,22 @@
+{
+  "order_id": "FSH000134",
+  "persona_id": "persona_031",
+  "store_id": "fashion",
+  "status": "delivered",
+  "created_at": "2025-12-12T03:45:49",
+  "shipped_at": "2025-12-14T03:45:49",
+  "delivered_at": "2025-12-17T03:45:49",
+  "shipping_address": "999 Suburban Lane, Phoenix, AZ 85001",
+  "items": [
+    {
+      "product_id": "prod_169",
+      "name": "Classic Comfort Leather Leggings",
+      "category": "Bottoms",
+      "quantity": 1,
+      "price": 40.82,
+      "subtotal": 40.82
+    }
+  ],
+  "total": 40.82,
+  "currency": "USD"
+}

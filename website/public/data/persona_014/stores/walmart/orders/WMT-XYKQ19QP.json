@@ -1,0 +1,30 @@
+{
+  "order_id": "WMT-XYKQ19QP",
+  "persona_id": "persona_014",
+  "store_id": "walmart",
+  "status": "delivered",
+  "created_at": "2025-12-16T20:21:15",
+  "shipped_at": "2025-12-18T20:21:15",
+  "delivered_at": "2025-12-23T20:21:15",
+  "shipping_address": "888 Design District Ln, San Francisco, CA 94102",
+  "items": [
+    {
+      "product_id": "WMT00002156",
+      "name": "Fashion Forward Polyester Leather Jacket",
+      "category": "Clothing",
+      "quantity": 1,
+      "price": 278.54,
+      "subtotal": 278.54
+    },
+    {
+      "product_id": "WMT00003031",
+      "name": "KitchenAid Artisan Series 5-Qt Stand Mixer",
+      "category": "Home Appliances",
+      "quantity": 4,
+      "price": 469.58,
+      "subtotal": 1878.32
+    }
+  ],
+  "total": 2156.86,
+  "currency": "USD"
+}

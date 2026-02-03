@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-119",
+  "persona_id": "persona_022",
+  "store_id": "pharmacy",
+  "status": "completed",
+  "created_at": "2026-01-26T21:41:14",
+  "items": [
+    {
+      "product_id": "72",
+      "name": "Gas-X",
+      "category": "Digestive Health",
+      "quantity": 1,
+      "price": 9.99,
+      "subtotal": 9.99
+    }
+  ],
+  "total": 9.99,
+  "currency": "USD"
+}

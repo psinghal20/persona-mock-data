@@ -1,0 +1,24 @@
+{
+  "order_id": "PET-SAMPLE17",
+  "persona_id": "persona_009",
+  "store_id": "pet_store",
+  "type": "pet_profile",
+  "status": "active",
+  "items": [
+    {
+      "product_id": "PET-SAMPLE17",
+      "name": "Tucker",
+      "pet_type": "Dogs",
+      "breed": "Australian Shepherd",
+      "age_years": "2",
+      "weight_lbs": "52",
+      "dietary_restrictions": "",
+      "notes": "Herding instinct needs mental stimulation",
+      "quantity": 1,
+      "price": 0,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

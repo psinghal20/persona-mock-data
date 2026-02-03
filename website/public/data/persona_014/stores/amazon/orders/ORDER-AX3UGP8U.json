@@ -1,0 +1,30 @@
+{
+  "order_id": "ORDER-AX3UGP8U",
+  "persona_id": "persona_014",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2026-01-19T03:13:16",
+  "shipped_at": "2026-01-22T03:13:16",
+  "delivered_at": "2026-01-24T03:13:16",
+  "shipping_address": "888 Design District Ln, San Francisco, CA 94102",
+  "items": [
+    {
+      "product_id": "B08G1N5LWK",
+      "name": "Hanes Men's EcoSmart Fleece Sweatshirt",
+      "category": "Clothing",
+      "quantity": 2,
+      "price": 18.0,
+      "subtotal": 36.0
+    },
+    {
+      "product_id": "B0B6GK135L",
+      "name": "Crayola Crayons 120 Count Box",
+      "category": "Arts Crafts",
+      "quantity": 2,
+      "price": 12.99,
+      "subtotal": 25.98
+    }
+  ],
+  "total": 61.98,
+  "currency": "USD"
+}

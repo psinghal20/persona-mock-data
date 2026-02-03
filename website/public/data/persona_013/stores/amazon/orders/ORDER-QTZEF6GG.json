@@ -1,0 +1,38 @@
+{
+  "order_id": "ORDER-QTZEF6GG",
+  "persona_id": "persona_013",
+  "store_id": "amazon",
+  "status": "shipped",
+  "created_at": "2025-12-11T19:16:33",
+  "shipped_at": "2025-12-14T19:16:33",
+  "delivered_at": "",
+  "shipping_address": "555 Community Center Rd, Houston, TX 77001",
+  "items": [
+    {
+      "product_id": "B0ELEC0225",
+      "name": "Apple Apple Watch Series 9 45mm",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 467.24,
+      "subtotal": 467.24
+    },
+    {
+      "product_id": "B07W6JKN6J",
+      "name": "Hydro Flask Wide Mouth Water Bottle 32oz",
+      "category": "Sports & Outdoors",
+      "quantity": 1,
+      "price": 44.95,
+      "subtotal": 44.95
+    },
+    {
+      "product_id": "B0AMZN1267",
+      "name": "Weber Genesis E-325s",
+      "category": "Patio Lawn & Garden",
+      "quantity": 2,
+      "price": 1049.0,
+      "subtotal": 2098.0
+    }
+  ],
+  "total": 2610.19,
+  "currency": "USD"
+}

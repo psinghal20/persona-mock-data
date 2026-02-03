@@ -1,0 +1,38 @@
+{
+  "order_id": "ORDER-3CUKOJ7P",
+  "persona_id": "persona_031",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-12-04T10:15:30",
+  "shipped_at": "2025-12-05T10:15:30",
+  "delivered_at": "2025-12-08T10:15:30",
+  "shipping_address": "999 Suburban Lane, Phoenix, AZ 85001",
+  "items": [
+    {
+      "product_id": "B0B8GHR89L",
+      "name": "Codenames Board Game",
+      "category": "Toys",
+      "quantity": 3,
+      "price": 15.99,
+      "subtotal": 47.97
+    },
+    {
+      "product_id": "B0TOYS0014",
+      "name": "Moose Toys Little Live Pets Bird",
+      "category": "Toys & Games",
+      "quantity": 1,
+      "price": 32.01,
+      "subtotal": 32.01
+    },
+    {
+      "product_id": "B0TOYS0225",
+      "name": "Hasbro Transformers Optimus Prime",
+      "category": "Toys & Games",
+      "quantity": 1,
+      "price": 53.73,
+      "subtotal": 53.73
+    }
+  ],
+  "total": 133.71,
+  "currency": "USD"
+}

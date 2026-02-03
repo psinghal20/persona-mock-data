@@ -1,0 +1,30 @@
+{
+  "order_id": "ORDER-Y9FHE3ZL",
+  "persona_id": "persona_002",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-11-18T05:27:43",
+  "shipped_at": "2025-11-19T05:27:43",
+  "delivered_at": "2025-11-24T05:27:43",
+  "shipping_address": "456 Tech Park Drive, San Jose, CA 95110",
+  "items": [
+    {
+      "product_id": "B0PCPT0118",
+      "name": "TeamGroup T-Force Cardea A440 Pro SSD",
+      "category": "Electronics",
+      "quantity": 3,
+      "price": 91.48,
+      "subtotal": 274.44
+    },
+    {
+      "product_id": "B0ELEC0235",
+      "name": "Anker Anker 735 Charger GaNPrime 65W",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 51.73,
+      "subtotal": 51.73
+    }
+  ],
+  "total": 326.17,
+  "currency": "USD"
+}

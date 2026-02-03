@@ -1,0 +1,38 @@
+{
+  "order_id": "ORDER-RBAFXJ5E",
+  "persona_id": "persona_022",
+  "store_id": "amazon",
+  "status": "shipped",
+  "created_at": "2025-12-02T07:25:28",
+  "shipped_at": "2025-12-05T07:25:28",
+  "delivered_at": "",
+  "shipping_address": "444 Polish Hill St, Philadelphia, PA 19123",
+  "items": [
+    {
+      "product_id": "B0PETS0032",
+      "name": "Frisco Frisco Cat Tree 72-inch",
+      "category": "Pet Supplies",
+      "quantity": 1,
+      "price": 95.17,
+      "subtotal": 95.17
+    },
+    {
+      "product_id": "B037326368",
+      "name": "Samsung Bespoke AI Electric Dryer",
+      "category": "Home & Kitchen",
+      "quantity": 1,
+      "price": 988.72,
+      "subtotal": 988.72
+    },
+    {
+      "product_id": "B0BDGL402K",
+      "name": "Chemex Classic Series Pour-Over 8-Cup",
+      "category": "Home & Kitchen",
+      "quantity": 3,
+      "price": 47.5,
+      "subtotal": 142.5
+    }
+  ],
+  "total": 1226.39,
+  "currency": "USD"
+}

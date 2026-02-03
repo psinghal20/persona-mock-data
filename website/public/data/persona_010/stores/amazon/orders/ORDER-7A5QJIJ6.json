@@ -1,0 +1,22 @@
+{
+  "order_id": "ORDER-7A5QJIJ6",
+  "persona_id": "persona_010",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-10-22T12:20:36",
+  "shipped_at": "2025-10-23T12:20:36",
+  "delivered_at": "2025-10-25T12:20:36",
+  "shipping_address": "321 French Quarter Ave, New Orleans, LA 70116",
+  "items": [
+    {
+      "product_id": "B0BCGHW01K",
+      "name": "Philips Hue Starter Kit (4 bulbs)",
+      "category": "Electronics",
+      "quantity": 2,
+      "price": 179.99,
+      "subtotal": 359.98
+    }
+  ],
+  "total": 359.98,
+  "currency": "USD"
+}

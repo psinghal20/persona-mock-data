@@ -1,0 +1,38 @@
+{
+  "order_id": "ORDER-R0A34NE0",
+  "persona_id": "persona_002",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-12-22T11:11:54",
+  "shipped_at": "2025-12-24T11:11:54",
+  "delivered_at": "2025-12-27T11:11:54",
+  "shipping_address": "456 Tech Park Drive, San Jose, CA 95110",
+  "items": [
+    {
+      "product_id": "B0AMZN1803",
+      "name": "Artisan FX Zero XL",
+      "category": "Electronics",
+      "quantity": 3,
+      "price": 59.0,
+      "subtotal": 177.0
+    },
+    {
+      "product_id": "B0C6GK902K",
+      "name": "Apple MagSafe Charger",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 39.0,
+      "subtotal": 39.0
+    },
+    {
+      "product_id": "B0AMZN1378",
+      "name": "Kingston Fury Renegade 2TB",
+      "category": "Electronics",
+      "quantity": 3,
+      "price": 179.99,
+      "subtotal": 539.97
+    }
+  ],
+  "total": 755.97,
+  "currency": "USD"
+}

@@ -1,0 +1,449 @@
+{
+  "persona_id": "persona_002",
+  "store_id": "sporting_goods",
+  "store_name": "Sporting Goods",
+  "transaction_type": "orders",
+  "transaction_label": "orders",
+  "has_cost": true,
+  "summary": {
+    "total_count": 26,
+    "total_spent": 16152.36,
+    "first_date": "2025-10-01",
+    "last_date": "2026-01-25"
+  },
+  "items": [
+    {
+      "order_id": "SPG000102",
+      "status": "delivered",
+      "total": 759.96,
+      "item_count": 2,
+      "created_at": "2026-01-25T17:48:08",
+      "item_preview": "Flipbelt Running Belt, Black Diamond Camalot C4 4-Pack"
+    },
+    {
+      "order_id": "SPG000096",
+      "status": "pending",
+      "total": 235.99,
+      "item_count": 2,
+      "created_at": "2026-01-23T10:10:56",
+      "item_preview": "Mammut 9.5 Crag Dry Rope, Balega Hidden Comfort Socks"
+    },
+    {
+      "order_id": "SPG000101",
+      "status": "delivered",
+      "total": 2199.98,
+      "item_count": 1,
+      "created_at": "2025-12-18T14:16:25",
+      "item_preview": "Concept2 RowErg"
+    },
+    {
+      "order_id": "SPG000012",
+      "status": "delivered",
+      "total": 149.99,
+      "item_count": 1,
+      "created_at": "2025-12-16T12:48:15",
+      "item_preview": "Cloudsurfer"
+    },
+    {
+      "order_id": "SPG000004",
+      "status": "delivered",
+      "total": 999.98,
+      "item_count": 1,
+      "created_at": "2025-12-13T17:40:14",
+      "item_preview": "Winning Training Gloves"
+    },
+    {
+      "order_id": "SPG000006",
+      "status": "shipped",
+      "total": 359.98,
+      "item_count": 1,
+      "created_at": "2025-12-12T03:09:32",
+      "item_preview": "Scarpa Instinct VS Shoes"
+    },
+    {
+      "order_id": "SPG000103",
+      "status": "delivered",
+      "total": 699.98,
+      "item_count": 1,
+      "created_at": "2025-12-03T22:04:17",
+      "item_preview": "Black Diamond Camalot C4 4-Pack"
+    },
+    {
+      "order_id": "SPG000011",
+      "status": "delivered",
+      "total": 269.98,
+      "item_count": 2,
+      "created_at": "2025-12-02T16:12:54",
+      "item_preview": "Run Visible Vest, Scarpa Instinct VS Shoes"
+    },
+    {
+      "order_id": "SPG000091",
+      "status": "delivered",
+      "total": 50.0,
+      "item_count": 1,
+      "created_at": "2025-11-27T00:56:42",
+      "item_preview": "Goodr OG Sunglasses"
+    },
+    {
+      "order_id": "SPG000003",
+      "status": "delivered",
+      "total": 274.99,
+      "item_count": 1,
+      "created_at": "2025-11-25T06:18:50",
+      "item_preview": "Endorphin Elite"
+    },
+    {
+      "order_id": "SPG000097",
+      "status": "delivered",
+      "total": 1329.96,
+      "item_count": 2,
+      "created_at": "2025-11-10T02:31:06",
+      "item_preview": "Momentum DS Harness, The Rock Basketball"
+    },
+    {
+      "order_id": "SPG000002",
+      "status": "pending",
+      "total": 609.96,
+      "item_count": 2,
+      "created_at": "2025-11-09T18:13:42",
+      "item_preview": "Black Diamond Zone LV Shoes, Cloudsurfer"
+    },
+    {
+      "order_id": "SPG000095",
+      "status": "delivered",
+      "total": 143.56,
+      "item_count": 2,
+      "created_at": "2025-11-09T14:05:07",
+      "item_preview": "CAP Olympic Weight Plates, TF-1000 Basketball"
+    },
+    {
+      "order_id": "SPG000100",
+      "status": "delivered",
+      "total": 479.98,
+      "item_count": 2,
+      "created_at": "2025-11-08T21:39:37",
+      "item_preview": "Flipbelt Running Belt, Forerunner 265"
+    },
+    {
+      "order_id": "SPG000104",
+      "status": "pending",
+      "total": 1.79,
+      "item_count": 1,
+      "created_at": "2025-11-03T18:35:34",
+      "item_preview": "CAP Olympic Weight Plates"
+    },
+    {
+      "order_id": "SPG000005",
+      "status": "delivered",
+      "total": 1399.98,
+      "item_count": 1,
+      "created_at": "2025-11-02T11:16:03",
+      "item_preview": "Rep PR-4000 Power Rack"
+    },
+    {
+      "order_id": "SPG000099",
+      "status": "delivered",
+      "total": 162.97,
+      "item_count": 2,
+      "created_at": "2025-11-01T09:40:42",
+      "item_preview": "Momentum DS Harness, Petzl Reverso"
+    },
+    {
+      "order_id": "SPG000001",
+      "status": "delivered",
+      "total": 219.97,
+      "item_count": 2,
+      "created_at": "2025-10-30T02:09:06",
+      "item_preview": "Run Visible Vest, Everlast Pro Style Training"
+    },
+    {
+      "order_id": "SPG000010",
+      "status": "delivered",
+      "total": 874.96,
+      "item_count": 3,
+      "created_at": "2025-10-19T11:17:41",
+      "item_preview": "Flyvent Running Tee, Flyback Training Suit, ..."
+    },
+    {
+      "order_id": "SPG000009",
+      "status": "delivered",
+      "total": 509.98,
+      "item_count": 2,
+      "created_at": "2025-10-17T18:00:07",
+      "item_preview": "Forerunner 265, Flyback Training Suit"
+    },
+    {
+      "order_id": "SPG000098",
+      "status": "delivered",
+      "total": 1883.98,
+      "item_count": 3,
+      "created_at": "2025-10-17T16:33:38",
+      "item_preview": "Everlast Pro Style Training, Dri-FIT Running Tee, ..."
+    },
+    {
+      "order_id": "SPG000008",
+      "status": "shipped",
+      "total": 1008.98,
+      "item_count": 2,
+      "created_at": "2025-10-10T16:29:29",
+      "item_preview": "Boston Marathon Shorts, Schwinn IC4 Indoor Cycle"
+    },
+    {
+      "order_id": "SPG000092",
+      "status": "delivered",
+      "total": 569.98,
+      "item_count": 1,
+      "created_at": "2025-10-10T15:08:44",
+      "item_preview": "Alphafly 3"
+    },
+    {
+      "order_id": "SPG000094",
+      "status": "delivered",
+      "total": 303.56,
+      "item_count": 2,
+      "created_at": "2025-10-06T14:23:01",
+      "item_preview": "Ghost 15, CAP Olympic Weight Plates"
+    },
+    {
+      "order_id": "SPG000007",
+      "status": "shipped",
+      "total": 299.98,
+      "item_count": 1,
+      "created_at": "2025-10-05T02:17:08",
+      "item_preview": "Cloudsurfer"
+    },
+    {
+      "order_id": "SPG000093",
+      "status": "delivered",
+      "total": 351.94,
+      "item_count": 3,
+      "created_at": "2025-10-01T11:37:28",
+      "item_preview": "Own The Run Jacket, Everlast Pro Style Training, ..."
+    }
+  ],
+  "categories": [
+    {
+      "id": "orders",
+      "name": "Orders",
+      "type": "orders",
+      "label": "orders",
+      "has_cost": true,
+      "summary": {
+        "total_count": 26,
+        "total_spent": 16152.36,
+        "first_date": "2025-10-01",
+        "last_date": "2026-01-25"
+      },
+      "items": [
+        {
+          "order_id": "SPG000102",
+          "status": "delivered",
+          "total": 759.96,
+          "item_count": 2,
+          "created_at": "2026-01-25T17:48:08",
+          "item_preview": "Flipbelt Running Belt, Black Diamond Camalot C4 4-Pack"
+        },
+        {
+          "order_id": "SPG000096",
+          "status": "pending",
+          "total": 235.99,
+          "item_count": 2,
+          "created_at": "2026-01-23T10:10:56",
+          "item_preview": "Mammut 9.5 Crag Dry Rope, Balega Hidden Comfort Socks"
+        },
+        {
+          "order_id": "SPG000101",
+          "status": "delivered",
+          "total": 2199.98,
+          "item_count": 1,
+          "created_at": "2025-12-18T14:16:25",
+          "item_preview": "Concept2 RowErg"
+        },
+        {
+          "order_id": "SPG000012",
+          "status": "delivered",
+          "total": 149.99,
+          "item_count": 1,
+          "created_at": "2025-12-16T12:48:15",
+          "item_preview": "Cloudsurfer"
+        },
+        {
+          "order_id": "SPG000004",
+          "status": "delivered",
+          "total": 999.98,
+          "item_count": 1,
+          "created_at": "2025-12-13T17:40:14",
+          "item_preview": "Winning Training Gloves"
+        },
+        {
+          "order_id": "SPG000006",
+          "status": "shipped",
+          "total": 359.98,
+          "item_count": 1,
+          "created_at": "2025-12-12T03:09:32",
+          "item_preview": "Scarpa Instinct VS Shoes"
+        },
+        {
+          "order_id": "SPG000103",
+          "status": "delivered",
+          "total": 699.98,
+          "item_count": 1,
+          "created_at": "2025-12-03T22:04:17",
+          "item_preview": "Black Diamond Camalot C4 4-Pack"
+        },
+        {
+          "order_id": "SPG000011",
+          "status": "delivered",
+          "total": 269.98,
+          "item_count": 2,
+          "created_at": "2025-12-02T16:12:54",
+          "item_preview": "Run Visible Vest, Scarpa Instinct VS Shoes"
+        },
+        {
+          "order_id": "SPG000091",
+          "status": "delivered",
+          "total": 50.0,
+          "item_count": 1,
+          "created_at": "2025-11-27T00:56:42",
+          "item_preview": "Goodr OG Sunglasses"
+        },
+        {
+          "order_id": "SPG000003",
+          "status": "delivered",
+          "total": 274.99,
+          "item_count": 1,
+          "created_at": "2025-11-25T06:18:50",
+          "item_preview": "Endorphin Elite"
+        },
+        {
+          "order_id": "SPG000097",
+          "status": "delivered",
+          "total": 1329.96,
+          "item_count": 2,
+          "created_at": "2025-11-10T02:31:06",
+          "item_preview": "Momentum DS Harness, The Rock Basketball"
+        },
+        {
+          "order_id": "SPG000002",
+          "status": "pending",
+          "total": 609.96,
+          "item_count": 2,
+          "created_at": "2025-11-09T18:13:42",
+          "item_preview": "Black Diamond Zone LV Shoes, Cloudsurfer"
+        },
+        {
+          "order_id": "SPG000095",
+          "status": "delivered",
+          "total": 143.56,
+          "item_count": 2,
+          "created_at": "2025-11-09T14:05:07",
+          "item_preview": "CAP Olympic Weight Plates, TF-1000 Basketball"
+        },
+        {
+          "order_id": "SPG000100",
+          "status": "delivered",
+          "total": 479.98,
+          "item_count": 2,
+          "created_at": "2025-11-08T21:39:37",
+          "item_preview": "Flipbelt Running Belt, Forerunner 265"
+        },
+        {
+          "order_id": "SPG000104",
+          "status": "pending",
+          "total": 1.79,
+          "item_count": 1,
+          "created_at": "2025-11-03T18:35:34",
+          "item_preview": "CAP Olympic Weight Plates"
+        },
+        {
+          "order_id": "SPG000005",
+          "status": "delivered",
+          "total": 1399.98,
+          "item_count": 1,
+          "created_at": "2025-11-02T11:16:03",
+          "item_preview": "Rep PR-4000 Power Rack"
+        },
+        {
+          "order_id": "SPG000099",
+          "status": "delivered",
+          "total": 162.97,
+          "item_count": 2,
+          "created_at": "2025-11-01T09:40:42",
+          "item_preview": "Momentum DS Harness, Petzl Reverso"
+        },
+        {
+          "order_id": "SPG000001",
+          "status": "delivered",
+          "total": 219.97,
+          "item_count": 2,
+          "created_at": "2025-10-30T02:09:06",
+          "item_preview": "Run Visible Vest, Everlast Pro Style Training"
+        },
+        {
+          "order_id": "SPG000010",
+          "status": "delivered",
+          "total": 874.96,
+          "item_count": 3,
+          "created_at": "2025-10-19T11:17:41",
+          "item_preview": "Flyvent Running Tee, Flyback Training Suit, ..."
+        },
+        {
+          "order_id": "SPG000009",
+          "status": "delivered",
+          "total": 509.98,
+          "item_count": 2,
+          "created_at": "2025-10-17T18:00:07",
+          "item_preview": "Forerunner 265, Flyback Training Suit"
+        },
+        {
+          "order_id": "SPG000098",
+          "status": "delivered",
+          "total": 1883.98,
+          "item_count": 3,
+          "created_at": "2025-10-17T16:33:38",
+          "item_preview": "Everlast Pro Style Training, Dri-FIT Running Tee, ..."
+        },
+        {
+          "order_id": "SPG000008",
+          "status": "shipped",
+          "total": 1008.98,
+          "item_count": 2,
+          "created_at": "2025-10-10T16:29:29",
+          "item_preview": "Boston Marathon Shorts, Schwinn IC4 Indoor Cycle"
+        },
+        {
+          "order_id": "SPG000092",
+          "status": "delivered",
+          "total": 569.98,
+          "item_count": 1,
+          "created_at": "2025-10-10T15:08:44",
+          "item_preview": "Alphafly 3"
+        },
+        {
+          "order_id": "SPG000094",
+          "status": "delivered",
+          "total": 303.56,
+          "item_count": 2,
+          "created_at": "2025-10-06T14:23:01",
+          "item_preview": "Ghost 15, CAP Olympic Weight Plates"
+        },
+        {
+          "order_id": "SPG000007",
+          "status": "shipped",
+          "total": 299.98,
+          "item_count": 1,
+          "created_at": "2025-10-05T02:17:08",
+          "item_preview": "Cloudsurfer"
+        },
+        {
+          "order_id": "SPG000093",
+          "status": "delivered",
+          "total": 351.94,
+          "item_count": 3,
+          "created_at": "2025-10-01T11:37:28",
+          "item_preview": "Own The Run Jacket, Everlast Pro Style Training, ..."
+        }
+      ]
+    }
+  ]
+}

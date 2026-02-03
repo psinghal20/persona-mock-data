@@ -1,0 +1,22 @@
+{
+  "order_id": "EL000071",
+  "persona_id": "persona_016",
+  "store_id": "electronics_store",
+  "status": "delivered",
+  "created_at": "2025-12-18T09:49:58",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "222 Tech Campus Way, Austin, TX 78701",
+  "items": [
+    {
+      "product_id": "SH006",
+      "name": "Arlo Pro 4 Security Camera 3-Pack",
+      "category": "Smart Home",
+      "quantity": 1,
+      "price": 499.99,
+      "subtotal": 499.99
+    }
+  ],
+  "total": 499.99,
+  "currency": "USD"
+}

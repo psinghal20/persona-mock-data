@@ -1,0 +1,26 @@
+{
+  "order_id": "TOUR-41",
+  "persona_id": "persona_027",
+  "store_id": "zillow",
+  "type": "tour",
+  "status": "cancelled",
+  "scheduled_time": "2025-12-09T15:00:00",
+  "notes": "",
+  "items": [
+    {
+      "product_id": "4171",
+      "name": "7656 Ridge Street",
+      "address": "7656 Ridge Street",
+      "city": "",
+      "price": 697716.0,
+      "bedrooms": "",
+      "bathrooms": "",
+      "sqft": "",
+      "home_type": "",
+      "quantity": 1,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

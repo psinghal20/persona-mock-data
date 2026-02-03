@@ -1,0 +1,23 @@
+{
+  "order_id": "WISH-45",
+  "persona_id": "persona_031",
+  "store_id": "toy_store",
+  "type": "wishlist",
+  "status": "high",
+  "created_at": "2025-12-28T09:08:17",
+  "items": [
+    {
+      "product_id": "TOY-274",
+      "name": "Celestron Telescope for Kids",
+      "category": "Science & Discovery",
+      "child_name": "Sophia",
+      "occasion": "Good Grades",
+      "priority": "high",
+      "quantity": 1,
+      "price": 59.99,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

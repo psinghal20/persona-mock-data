@@ -1,0 +1,38 @@
+{
+  "order_id": "WMT-L5OGESZ8",
+  "persona_id": "persona_010",
+  "store_id": "walmart",
+  "status": "cancelled",
+  "created_at": "2025-10-05T15:42:27",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "321 French Quarter Ave, New Orleans, LA 70116",
+  "items": [
+    {
+      "product_id": "WMT00000321",
+      "name": "Heritage Foods Organic Pop Tarts",
+      "category": "Grocery",
+      "quantity": 1,
+      "price": 5.2,
+      "subtotal": 5.2
+    },
+    {
+      "product_id": "WMT00003054",
+      "name": "Hamilton Beach Stack & Snap Food Processor",
+      "category": "Home Appliances",
+      "quantity": 3,
+      "price": 47.22,
+      "subtotal": 141.66
+    },
+    {
+      "product_id": "WMT00003046",
+      "name": "Frigidaire 50-Pint Dehumidifier",
+      "category": "Home Appliances",
+      "quantity": 2,
+      "price": 306.51,
+      "subtotal": 613.02
+    }
+  ],
+  "total": 759.88,
+  "currency": "USD"
+}

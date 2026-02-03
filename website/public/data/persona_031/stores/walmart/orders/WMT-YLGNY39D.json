@@ -1,0 +1,22 @@
+{
+  "order_id": "WMT-YLGNY39D",
+  "persona_id": "persona_031",
+  "store_id": "walmart",
+  "status": "delivered",
+  "created_at": "2025-11-23T12:04:14",
+  "shipped_at": "2025-11-24T12:04:14",
+  "delivered_at": "2025-11-28T12:04:14",
+  "shipping_address": "999 Suburban Lane, Phoenix, AZ 85001",
+  "items": [
+    {
+      "product_id": "WMT00001344",
+      "name": "Waboba Waboba Moon Ball",
+      "category": "Toys",
+      "quantity": 3,
+      "price": 7.75,
+      "subtotal": 23.25
+    }
+  ],
+  "total": 23.25,
+  "currency": "USD"
+}

@@ -1,0 +1,22 @@
+{
+  "order_id": "ORDER-NC6XR7XH",
+  "persona_id": "persona_002",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-11-17T16:12:01",
+  "shipped_at": "2025-11-19T16:12:01",
+  "delivered_at": "2025-11-24T16:12:01",
+  "shipping_address": "456 Tech Park Drive, San Jose, CA 95110",
+  "items": [
+    {
+      "product_id": "B0ELEC0042",
+      "name": "Seagate Seagate Expansion 4TB HDD",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 115.8,
+      "subtotal": 115.8
+    }
+  ],
+  "total": 115.8,
+  "currency": "USD"
+}

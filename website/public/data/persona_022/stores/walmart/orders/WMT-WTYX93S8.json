@@ -1,0 +1,46 @@
+{
+  "order_id": "WMT-WTYX93S8",
+  "persona_id": "persona_022",
+  "store_id": "walmart",
+  "status": "pending",
+  "created_at": "2026-01-26T03:20:16",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "444 Polish Hill St, Philadelphia, PA 19123",
+  "items": [
+    {
+      "product_id": "WMT00000062",
+      "name": "Home Style Bell Peppers",
+      "category": "Grocery",
+      "quantity": 2,
+      "price": 1.69,
+      "subtotal": 3.38
+    },
+    {
+      "product_id": "WMT00001504",
+      "name": "Whole Hearted Whole Hearted Freeze-Dried Salmon",
+      "category": "Pets",
+      "quantity": 3,
+      "price": 12.34,
+      "subtotal": 37.02
+    },
+    {
+      "product_id": "WMT00000011",
+      "name": "Home Style Oranges",
+      "category": "Grocery",
+      "quantity": 1,
+      "price": 1.37,
+      "subtotal": 1.37
+    },
+    {
+      "product_id": "WMT00001604",
+      "name": "Catit Catit Creamy Treats",
+      "category": "Pets",
+      "quantity": 1,
+      "price": 9.66,
+      "subtotal": 9.66
+    }
+  ],
+  "total": 51.43,
+  "currency": "USD"
+}

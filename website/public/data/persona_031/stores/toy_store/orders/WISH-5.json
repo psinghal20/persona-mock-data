@@ -1,0 +1,23 @@
+{
+  "order_id": "WISH-5",
+  "persona_id": "persona_031",
+  "store_id": "toy_store",
+  "type": "wishlist",
+  "status": "high",
+  "created_at": "2026-01-04T22:23:55",
+  "items": [
+    {
+      "product_id": "TOY-164",
+      "name": "Super Soaker Hydra",
+      "category": "Outdoor Play",
+      "child_name": "Miguel",
+      "occasion": "Just Because",
+      "priority": "high",
+      "quantity": 1,
+      "price": 49.99,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

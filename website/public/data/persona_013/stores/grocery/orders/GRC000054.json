@@ -1,0 +1,110 @@
+{
+  "order_id": "GRC000054",
+  "persona_id": "persona_013",
+  "store_id": "grocery",
+  "status": "delivered",
+  "created_at": "2025-10-31T05:22:02",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "555 Community Center Rd, Houston, TX 77001",
+  "items": [
+    {
+      "product_id": "GRO-1382",
+      "name": "Blue Diamond Kettle Corn",
+      "category": "Snacks",
+      "quantity": 3,
+      "price": 14.71,
+      "subtotal": 44.13
+    },
+    {
+      "product_id": "GRO-2208",
+      "name": "Planters Chocolate Covered Raisins",
+      "category": "Snacks",
+      "quantity": 2,
+      "price": 3.92,
+      "subtotal": 7.84
+    },
+    {
+      "product_id": "GRO-2176",
+      "name": "Jack Link's Beef Jerky Teriyaki",
+      "category": "Snacks",
+      "quantity": 1,
+      "price": 3.35,
+      "subtotal": 3.35
+    },
+    {
+      "product_id": "GRO-2135",
+      "name": "Folgers Protein Shake Vanilla",
+      "category": "Beverages",
+      "quantity": 4,
+      "price": 18.72,
+      "subtotal": 74.88
+    },
+    {
+      "product_id": "GRO-1357",
+      "name": "Blue Diamond Dried Apricots",
+      "category": "Snacks",
+      "quantity": 1,
+      "price": 20.23,
+      "subtotal": 20.23
+    },
+    {
+      "product_id": "prod_691",
+      "name": "Mountain Fresh Tortilla Chips",
+      "category": "Snacks",
+      "quantity": 1,
+      "price": 4.54,
+      "subtotal": 4.54
+    },
+    {
+      "product_id": "prod_726",
+      "name": "Sunrise Farms Granola Bars",
+      "category": "Snacks",
+      "quantity": 2,
+      "price": 4.79,
+      "subtotal": 9.58
+    },
+    {
+      "product_id": "prod_705",
+      "name": "Local Pride Organic Saltine Crackers",
+      "category": "Snacks",
+      "quantity": 2,
+      "price": 4.11,
+      "subtotal": 8.22
+    },
+    {
+      "product_id": "GRO-1354",
+      "name": "Kettle Brand Sunflower Seeds",
+      "category": "Snacks",
+      "quantity": 1,
+      "price": 6.73,
+      "subtotal": 6.73
+    },
+    {
+      "product_id": "prod_752",
+      "name": "Pure & Simple Organic Chocolate Bar",
+      "category": "Snacks",
+      "quantity": 2,
+      "price": 5.2,
+      "subtotal": 10.4
+    },
+    {
+      "product_id": "GRO-2170",
+      "name": "Jack Link's Macadamia Nuts",
+      "category": "Snacks",
+      "quantity": 1,
+      "price": 7.3,
+      "subtotal": 7.3
+    },
+    {
+      "product_id": "GRO-2142",
+      "name": "Planters Potato Chips Salt Vinegar",
+      "category": "Snacks",
+      "quantity": 3,
+      "price": 7.49,
+      "subtotal": 22.47
+    }
+  ],
+  "total": 219.67,
+  "currency": "USD"
+}

@@ -1,0 +1,22 @@
+{
+  "order_id": "ORDER-3QK9I0AJ",
+  "persona_id": "persona_009",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-10-29T10:53:43",
+  "shipped_at": "2025-10-31T10:53:43",
+  "delivered_at": "2025-11-05T10:53:43",
+  "shipping_address": "789 Veterans Blvd, Tampa, FL 33602",
+  "items": [
+    {
+      "product_id": "B0AMZN1268",
+      "name": "Traeger Ironwood 650",
+      "category": "Patio Lawn & Garden",
+      "quantity": 3,
+      "price": 1499.99,
+      "subtotal": 4499.97
+    }
+  ],
+  "total": 4499.97,
+  "currency": "USD"
+}

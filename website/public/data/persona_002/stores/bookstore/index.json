@@ -1,0 +1,705 @@
+{
+  "persona_id": "persona_002",
+  "store_id": "bookstore",
+  "store_name": "Bookstore",
+  "transaction_type": "purchases",
+  "transaction_label": "purchases",
+  "has_cost": true,
+  "summary": {
+    "total_count": 42,
+    "total_spent": 1507.67,
+    "first_date": "2025-10-01",
+    "last_date": "2026-01-25"
+  },
+  "items": [
+    {
+      "order_id": "PUR-132",
+      "status": "completed",
+      "total": 16.99,
+      "item_count": 1,
+      "created_at": "2026-01-25T06:03:41",
+      "item_preview": "Old Man's War"
+    },
+    {
+      "order_id": "PUR-28",
+      "status": "completed",
+      "total": 64.99,
+      "item_count": 1,
+      "created_at": "2026-01-20T17:35:21",
+      "item_preview": "Learning Python"
+    },
+    {
+      "order_id": "PUR-141",
+      "status": "completed",
+      "total": 34.99,
+      "item_count": 1,
+      "created_at": "2026-01-18T14:41:32",
+      "item_preview": "The Mythical Man-Month"
+    },
+    {
+      "order_id": "PUR-14",
+      "status": "completed",
+      "total": 29.99,
+      "item_count": 1,
+      "created_at": "2026-01-18T10:38:23",
+      "item_preview": "JavaScript: The Good Parts"
+    },
+    {
+      "order_id": "PUR-135",
+      "status": "completed",
+      "total": 34.0,
+      "item_count": 2,
+      "created_at": "2026-01-14T21:37:08",
+      "item_preview": "And the Mountains Echoed"
+    },
+    {
+      "order_id": "PUR-134",
+      "status": "completed",
+      "total": 34.99,
+      "item_count": 1,
+      "created_at": "2026-01-14T00:05:53",
+      "item_preview": "The Mythical Man-Month"
+    },
+    {
+      "order_id": "PUR-13",
+      "status": "completed",
+      "total": 16.99,
+      "item_count": 1,
+      "created_at": "2026-01-13T16:15:18",
+      "item_preview": "The Remains of the Day"
+    },
+    {
+      "order_id": "PUR-131",
+      "status": "completed",
+      "total": 35.98,
+      "item_count": 2,
+      "created_at": "2026-01-12T15:12:48",
+      "item_preview": "The Invisible Life of Addie LaRue"
+    },
+    {
+      "order_id": "PUR-129",
+      "status": "completed",
+      "total": 34.0,
+      "item_count": 2,
+      "created_at": "2026-01-10T02:28:16",
+      "item_preview": "And the Mountains Echoed"
+    },
+    {
+      "order_id": "PUR-140",
+      "status": "completed",
+      "total": 17.99,
+      "item_count": 1,
+      "created_at": "2026-01-08T18:46:07",
+      "item_preview": "The House in the Cerulean Sea"
+    },
+    {
+      "order_id": "PUR-20",
+      "status": "completed",
+      "total": 18.0,
+      "item_count": 1,
+      "created_at": "2026-01-03T22:17:31",
+      "item_preview": "A Time to Kill"
+    },
+    {
+      "order_id": "PUR-128",
+      "status": "completed",
+      "total": 36.0,
+      "item_count": 2,
+      "created_at": "2025-12-31T14:56:51",
+      "item_preview": "Braiding Sweetgrass"
+    },
+    {
+      "order_id": "PUR-17",
+      "status": "completed",
+      "total": 34.0,
+      "item_count": 2,
+      "created_at": "2025-12-27T02:34:57",
+      "item_preview": "Spinning Silver"
+    },
+    {
+      "order_id": "PUR-139",
+      "status": "completed",
+      "total": 64.99,
+      "item_count": 1,
+      "created_at": "2025-12-15T01:16:37",
+      "item_preview": "Learning Python"
+    },
+    {
+      "order_id": "PUR-142",
+      "status": "completed",
+      "total": 9.99,
+      "item_count": 1,
+      "created_at": "2025-12-11T08:30:14",
+      "item_preview": "Kiss the Girls"
+    },
+    {
+      "order_id": "PUR-133",
+      "status": "completed",
+      "total": 17.99,
+      "item_count": 1,
+      "created_at": "2025-12-08T11:59:15",
+      "item_preview": "Zen and the Art of Motorcycle Maintenance"
+    },
+    {
+      "order_id": "PUR-9",
+      "status": "completed",
+      "total": 34.0,
+      "item_count": 2,
+      "created_at": "2025-12-05T04:43:39",
+      "item_preview": "The Firm"
+    },
+    {
+      "order_id": "PUR-138",
+      "status": "completed",
+      "total": 34.0,
+      "item_count": 2,
+      "created_at": "2025-12-01T22:08:03",
+      "item_preview": "The Whole-Brain Child"
+    },
+    {
+      "order_id": "PUR-127",
+      "status": "completed",
+      "total": 37.98,
+      "item_count": 2,
+      "created_at": "2025-12-01T13:15:31",
+      "item_preview": "The Wheel of Time: Eye of the World"
+    },
+    {
+      "order_id": "PUR-26",
+      "status": "completed",
+      "total": 36.0,
+      "item_count": 2,
+      "created_at": "2025-11-28T02:43:20",
+      "item_preview": "The Maid"
+    },
+    {
+      "order_id": "PUR-147",
+      "status": "completed",
+      "total": 36.0,
+      "item_count": 2,
+      "created_at": "2025-11-27T20:11:27",
+      "item_preview": "Braiding Sweetgrass"
+    },
+    {
+      "order_id": "PUR-143",
+      "status": "completed",
+      "total": 34.0,
+      "item_count": 2,
+      "created_at": "2025-11-27T19:41:49",
+      "item_preview": "The Whole-Brain Child"
+    },
+    {
+      "order_id": "PUR-21",
+      "status": "completed",
+      "total": 17.0,
+      "item_count": 1,
+      "created_at": "2025-11-27T18:43:35",
+      "item_preview": "The Dark Tower: The Gunslinger"
+    },
+    {
+      "order_id": "PUR-145",
+      "status": "completed",
+      "total": 17.99,
+      "item_count": 1,
+      "created_at": "2025-11-18T09:39:01",
+      "item_preview": "Leviathan Wakes"
+    },
+    {
+      "order_id": "PUR-27",
+      "status": "completed",
+      "total": 59.98,
+      "item_count": 2,
+      "created_at": "2025-11-16T03:18:00",
+      "item_preview": "JavaScript: The Good Parts"
+    },
+    {
+      "order_id": "PUR-24",
+      "status": "completed",
+      "total": 29.99,
+      "item_count": 1,
+      "created_at": "2025-11-09T07:43:41",
+      "item_preview": "The Lord of the Rings"
+    },
+    {
+      "order_id": "PUR-137",
+      "status": "completed",
+      "total": 36.0,
+      "item_count": 2,
+      "created_at": "2025-11-08T19:42:27",
+      "item_preview": "The Maid"
+    },
+    {
+      "order_id": "PUR-11",
+      "status": "completed",
+      "total": 36.0,
+      "item_count": 2,
+      "created_at": "2025-11-07T15:00:43",
+      "item_preview": "A Clash of Kings"
+    },
+    {
+      "order_id": "PUR-18",
+      "status": "completed",
+      "total": 37.98,
+      "item_count": 2,
+      "created_at": "2025-11-04T11:05:09",
+      "item_preview": "Gardens of the Moon"
+    },
+    {
+      "order_id": "PUR-130",
+      "status": "completed",
+      "total": 119.98,
+      "item_count": 2,
+      "created_at": "2025-10-28T00:09:20",
+      "item_preview": "Design Patterns"
+    },
+    {
+      "order_id": "PUR-23",
+      "status": "completed",
+      "total": 35.98,
+      "item_count": 2,
+      "created_at": "2025-10-26T02:23:47",
+      "item_preview": "Children of Time"
+    },
+    {
+      "order_id": "PUR-22",
+      "status": "completed",
+      "total": 18.99,
+      "item_count": 1,
+      "created_at": "2025-10-24T20:17:43",
+      "item_preview": "The Dark Forest"
+    },
+    {
+      "order_id": "PUR-136",
+      "status": "completed",
+      "total": 109.98,
+      "item_count": 2,
+      "created_at": "2025-10-24T12:56:18",
+      "item_preview": "Effective Java"
+    },
+    {
+      "order_id": "PUR-8",
+      "status": "completed",
+      "total": 17.0,
+      "item_count": 1,
+      "created_at": "2025-10-24T07:08:35",
+      "item_preview": "And the Mountains Echoed"
+    },
+    {
+      "order_id": "PUR-16",
+      "status": "completed",
+      "total": 34.0,
+      "item_count": 2,
+      "created_at": "2025-10-17T10:05:34",
+      "item_preview": "The Girl on the Train"
+    },
+    {
+      "order_id": "PUR-146",
+      "status": "completed",
+      "total": 17.99,
+      "item_count": 1,
+      "created_at": "2025-10-15T05:51:38",
+      "item_preview": "The Da Vinci Code"
+    },
+    {
+      "order_id": "PUR-19",
+      "status": "completed",
+      "total": 34.0,
+      "item_count": 2,
+      "created_at": "2025-10-13T02:22:04",
+      "item_preview": "The Dark Tower: The Gunslinger"
+    },
+    {
+      "order_id": "PUR-15",
+      "status": "completed",
+      "total": 34.0,
+      "item_count": 2,
+      "created_at": "2025-10-13T02:20:12",
+      "item_preview": "The Firm"
+    },
+    {
+      "order_id": "PUR-144",
+      "status": "completed",
+      "total": 17.99,
+      "item_count": 1,
+      "created_at": "2025-10-06T07:30:30",
+      "item_preview": "Zen and the Art of Motorcycle Maintenance"
+    },
+    {
+      "order_id": "PUR-25",
+      "status": "completed",
+      "total": 59.99,
+      "item_count": 1,
+      "created_at": "2025-10-01T19:13:58",
+      "item_preview": "Head First Design Patterns"
+    },
+    {
+      "order_id": "PUR-12",
+      "status": "completed",
+      "total": 18.99,
+      "item_count": 1,
+      "created_at": "2025-10-01T09:07:47",
+      "item_preview": "The Dark Forest"
+    },
+    {
+      "order_id": "PUR-10",
+      "status": "completed",
+      "total": 39.98,
+      "item_count": 2,
+      "created_at": "2025-10-01T00:10:35",
+      "item_preview": "The Way of Kings"
+    }
+  ],
+  "categories": [
+    {
+      "id": "purchases",
+      "name": "Purchases",
+      "type": "purchases",
+      "label": "purchases",
+      "has_cost": true,
+      "summary": {
+        "total_count": 42,
+        "total_spent": 1507.67,
+        "first_date": "2025-10-01",
+        "last_date": "2026-01-25"
+      },
+      "items": [
+        {
+          "order_id": "PUR-132",
+          "status": "completed",
+          "total": 16.99,
+          "item_count": 1,
+          "created_at": "2026-01-25T06:03:41",
+          "item_preview": "Old Man's War"
+        },
+        {
+          "order_id": "PUR-28",
+          "status": "completed",
+          "total": 64.99,
+          "item_count": 1,
+          "created_at": "2026-01-20T17:35:21",
+          "item_preview": "Learning Python"
+        },
+        {
+          "order_id": "PUR-141",
+          "status": "completed",
+          "total": 34.99,
+          "item_count": 1,
+          "created_at": "2026-01-18T14:41:32",
+          "item_preview": "The Mythical Man-Month"
+        },
+        {
+          "order_id": "PUR-14",
+          "status": "completed",
+          "total": 29.99,
+          "item_count": 1,
+          "created_at": "2026-01-18T10:38:23",
+          "item_preview": "JavaScript: The Good Parts"
+        },
+        {
+          "order_id": "PUR-135",
+          "status": "completed",
+          "total": 34.0,
+          "item_count": 2,
+          "created_at": "2026-01-14T21:37:08",
+          "item_preview": "And the Mountains Echoed"
+        },
+        {
+          "order_id": "PUR-134",
+          "status": "completed",
+          "total": 34.99,
+          "item_count": 1,
+          "created_at": "2026-01-14T00:05:53",
+          "item_preview": "The Mythical Man-Month"
+        },
+        {
+          "order_id": "PUR-13",
+          "status": "completed",
+          "total": 16.99,
+          "item_count": 1,
+          "created_at": "2026-01-13T16:15:18",
+          "item_preview": "The Remains of the Day"
+        },
+        {
+          "order_id": "PUR-131",
+          "status": "completed",
+          "total": 35.98,
+          "item_count": 2,
+          "created_at": "2026-01-12T15:12:48",
+          "item_preview": "The Invisible Life of Addie LaRue"
+        },
+        {
+          "order_id": "PUR-129",
+          "status": "completed",
+          "total": 34.0,
+          "item_count": 2,
+          "created_at": "2026-01-10T02:28:16",
+          "item_preview": "And the Mountains Echoed"
+        },
+        {
+          "order_id": "PUR-140",
+          "status": "completed",
+          "total": 17.99,
+          "item_count": 1,
+          "created_at": "2026-01-08T18:46:07",
+          "item_preview": "The House in the Cerulean Sea"
+        },
+        {
+          "order_id": "PUR-20",
+          "status": "completed",
+          "total": 18.0,
+          "item_count": 1,
+          "created_at": "2026-01-03T22:17:31",
+          "item_preview": "A Time to Kill"
+        },
+        {
+          "order_id": "PUR-128",
+          "status": "completed",
+          "total": 36.0,
+          "item_count": 2,
+          "created_at": "2025-12-31T14:56:51",
+          "item_preview": "Braiding Sweetgrass"
+        },
+        {
+          "order_id": "PUR-17",
+          "status": "completed",
+          "total": 34.0,
+          "item_count": 2,
+          "created_at": "2025-12-27T02:34:57",
+          "item_preview": "Spinning Silver"
+        },
+        {
+          "order_id": "PUR-139",
+          "status": "completed",
+          "total": 64.99,
+          "item_count": 1,
+          "created_at": "2025-12-15T01:16:37",
+          "item_preview": "Learning Python"
+        },
+        {
+          "order_id": "PUR-142",
+          "status": "completed",
+          "total": 9.99,
+          "item_count": 1,
+          "created_at": "2025-12-11T08:30:14",
+          "item_preview": "Kiss the Girls"
+        },
+        {
+          "order_id": "PUR-133",
+          "status": "completed",
+          "total": 17.99,
+          "item_count": 1,
+          "created_at": "2025-12-08T11:59:15",
+          "item_preview": "Zen and the Art of Motorcycle Maintenance"
+        },
+        {
+          "order_id": "PUR-9",
+          "status": "completed",
+          "total": 34.0,
+          "item_count": 2,
+          "created_at": "2025-12-05T04:43:39",
+          "item_preview": "The Firm"
+        },
+        {
+          "order_id": "PUR-138",
+          "status": "completed",
+          "total": 34.0,
+          "item_count": 2,
+          "created_at": "2025-12-01T22:08:03",
+          "item_preview": "The Whole-Brain Child"
+        },
+        {
+          "order_id": "PUR-127",
+          "status": "completed",
+          "total": 37.98,
+          "item_count": 2,
+          "created_at": "2025-12-01T13:15:31",
+          "item_preview": "The Wheel of Time: Eye of the World"
+        },
+        {
+          "order_id": "PUR-26",
+          "status": "completed",
+          "total": 36.0,
+          "item_count": 2,
+          "created_at": "2025-11-28T02:43:20",
+          "item_preview": "The Maid"
+        },
+        {
+          "order_id": "PUR-147",
+          "status": "completed",
+          "total": 36.0,
+          "item_count": 2,
+          "created_at": "2025-11-27T20:11:27",
+          "item_preview": "Braiding Sweetgrass"
+        },
+        {
+          "order_id": "PUR-143",
+          "status": "completed",
+          "total": 34.0,
+          "item_count": 2,
+          "created_at": "2025-11-27T19:41:49",
+          "item_preview": "The Whole-Brain Child"
+        },
+        {
+          "order_id": "PUR-21",
+          "status": "completed",
+          "total": 17.0,
+          "item_count": 1,
+          "created_at": "2025-11-27T18:43:35",
+          "item_preview": "The Dark Tower: The Gunslinger"
+        },
+        {
+          "order_id": "PUR-145",
+          "status": "completed",
+          "total": 17.99,
+          "item_count": 1,
+          "created_at": "2025-11-18T09:39:01",
+          "item_preview": "Leviathan Wakes"
+        },
+        {
+          "order_id": "PUR-27",
+          "status": "completed",
+          "total": 59.98,
+          "item_count": 2,
+          "created_at": "2025-11-16T03:18:00",
+          "item_preview": "JavaScript: The Good Parts"
+        },
+        {
+          "order_id": "PUR-24",
+          "status": "completed",
+          "total": 29.99,
+          "item_count": 1,
+          "created_at": "2025-11-09T07:43:41",
+          "item_preview": "The Lord of the Rings"
+        },
+        {
+          "order_id": "PUR-137",
+          "status": "completed",
+          "total": 36.0,
+          "item_count": 2,
+          "created_at": "2025-11-08T19:42:27",
+          "item_preview": "The Maid"
+        },
+        {
+          "order_id": "PUR-11",
+          "status": "completed",
+          "total": 36.0,
+          "item_count": 2,
+          "created_at": "2025-11-07T15:00:43",
+          "item_preview": "A Clash of Kings"
+        },
+        {
+          "order_id": "PUR-18",
+          "status": "completed",
+          "total": 37.98,
+          "item_count": 2,
+          "created_at": "2025-11-04T11:05:09",
+          "item_preview": "Gardens of the Moon"
+        },
+        {
+          "order_id": "PUR-130",
+          "status": "completed",
+          "total": 119.98,
+          "item_count": 2,
+          "created_at": "2025-10-28T00:09:20",
+          "item_preview": "Design Patterns"
+        },
+        {
+          "order_id": "PUR-23",
+          "status": "completed",
+          "total": 35.98,
+          "item_count": 2,
+          "created_at": "2025-10-26T02:23:47",
+          "item_preview": "Children of Time"
+        },
+        {
+          "order_id": "PUR-22",
+          "status": "completed",
+          "total": 18.99,
+          "item_count": 1,
+          "created_at": "2025-10-24T20:17:43",
+          "item_preview": "The Dark Forest"
+        },
+        {
+          "order_id": "PUR-136",
+          "status": "completed",
+          "total": 109.98,
+          "item_count": 2,
+          "created_at": "2025-10-24T12:56:18",
+          "item_preview": "Effective Java"
+        },
+        {
+          "order_id": "PUR-8",
+          "status": "completed",
+          "total": 17.0,
+          "item_count": 1,
+          "created_at": "2025-10-24T07:08:35",
+          "item_preview": "And the Mountains Echoed"
+        },
+        {
+          "order_id": "PUR-16",
+          "status": "completed",
+          "total": 34.0,
+          "item_count": 2,
+          "created_at": "2025-10-17T10:05:34",
+          "item_preview": "The Girl on the Train"
+        },
+        {
+          "order_id": "PUR-146",
+          "status": "completed",
+          "total": 17.99,
+          "item_count": 1,
+          "created_at": "2025-10-15T05:51:38",
+          "item_preview": "The Da Vinci Code"
+        },
+        {
+          "order_id": "PUR-19",
+          "status": "completed",
+          "total": 34.0,
+          "item_count": 2,
+          "created_at": "2025-10-13T02:22:04",
+          "item_preview": "The Dark Tower: The Gunslinger"
+        },
+        {
+          "order_id": "PUR-15",
+          "status": "completed",
+          "total": 34.0,
+          "item_count": 2,
+          "created_at": "2025-10-13T02:20:12",
+          "item_preview": "The Firm"
+        },
+        {
+          "order_id": "PUR-144",
+          "status": "completed",
+          "total": 17.99,
+          "item_count": 1,
+          "created_at": "2025-10-06T07:30:30",
+          "item_preview": "Zen and the Art of Motorcycle Maintenance"
+        },
+        {
+          "order_id": "PUR-25",
+          "status": "completed",
+          "total": 59.99,
+          "item_count": 1,
+          "created_at": "2025-10-01T19:13:58",
+          "item_preview": "Head First Design Patterns"
+        },
+        {
+          "order_id": "PUR-12",
+          "status": "completed",
+          "total": 18.99,
+          "item_count": 1,
+          "created_at": "2025-10-01T09:07:47",
+          "item_preview": "The Dark Forest"
+        },
+        {
+          "order_id": "PUR-10",
+          "status": "completed",
+          "total": 39.98,
+          "item_count": 2,
+          "created_at": "2025-10-01T00:10:35",
+          "item_preview": "The Way of Kings"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "order_id": "WMT-HGS7C3UF",
+  "persona_id": "persona_002",
+  "store_id": "walmart",
+  "status": "delivered",
+  "created_at": "2025-11-09T09:27:10",
+  "shipped_at": "2025-11-12T09:27:10",
+  "delivered_at": "2025-11-16T09:27:10",
+  "shipping_address": "456 Tech Park Drive, San Jose, CA 95110",
+  "items": [
+    {
+      "product_id": "WMT00000969",
+      "name": "Amazon Amazon Echo Dot 5th Gen",
+      "category": "Electronics",
+      "quantity": 3,
+      "price": 50.82,
+      "subtotal": 152.46
+    },
+    {
+      "product_id": "WMT00001042",
+      "name": "TP-Link TP-Link Deco XE75",
+      "category": "Electronics",
+      "quantity": 3,
+      "price": 347.2,
+      "subtotal": 1041.6
+    },
+    {
+      "product_id": "WMT00001031",
+      "name": "Logitech Logitech MX Keys S",
+      "category": "Electronics",
+      "quantity": 3,
+      "price": 104.04,
+      "subtotal": 312.12
+    }
+  ],
+  "total": 1506.18,
+  "currency": "USD"
+}

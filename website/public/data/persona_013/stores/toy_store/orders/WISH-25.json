@@ -1,0 +1,23 @@
+{
+  "order_id": "WISH-25",
+  "persona_id": "persona_013",
+  "store_id": "toy_store",
+  "type": "wishlist",
+  "status": "low",
+  "created_at": "2025-12-04T07:55:34",
+  "items": [
+    {
+      "product_id": "TOY-174",
+      "name": "Swingball",
+      "category": "Outdoor Play",
+      "child_name": "Diego",
+      "occasion": "Good Grades",
+      "priority": "low",
+      "quantity": 1,
+      "price": 39.99,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

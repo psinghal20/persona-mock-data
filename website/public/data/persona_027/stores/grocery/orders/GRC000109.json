@@ -1,0 +1,110 @@
+{
+  "order_id": "GRC000109",
+  "persona_id": "persona_027",
+  "store_id": "grocery",
+  "status": "delivered",
+  "created_at": "2025-12-18T05:42:06",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "items": [
+    {
+      "product_id": "GRO-1095",
+      "name": "D'Artagnan Pork Belly",
+      "category": "Meat & Seafood",
+      "quantity": 3,
+      "price": 72.8,
+      "subtotal": 218.4
+    },
+    {
+      "product_id": "GRO-1093",
+      "name": "D'Artagnan Pork Tenderloin",
+      "category": "Meat & Seafood",
+      "quantity": 2,
+      "price": 20.63,
+      "subtotal": 41.26
+    },
+    {
+      "product_id": "GRO-1843",
+      "name": "Perdue Turkey Drumstick",
+      "category": "Meat & Seafood",
+      "quantity": 3,
+      "price": 7.48,
+      "subtotal": 22.44
+    },
+    {
+      "product_id": "prod_283",
+      "name": "Local Pride Cod",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 35.18,
+      "subtotal": 35.18
+    },
+    {
+      "product_id": "prod_229",
+      "name": "Pure & Simple Organic Ribeye Steak",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 21.87,
+      "subtotal": 21.87
+    },
+    {
+      "product_id": "prod_256",
+      "name": "Heritage Foods Ground Pork",
+      "category": "Meat & Seafood",
+      "quantity": 2,
+      "price": 15.82,
+      "subtotal": 31.64
+    },
+    {
+      "product_id": "GRO-1821",
+      "name": "Foster Farms Bone In Ribeye",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 10.36,
+      "subtotal": 10.36
+    },
+    {
+      "product_id": "GRO-1714",
+      "name": "Del Monte Japanese Sweet Potato",
+      "category": "Produce",
+      "quantity": 3,
+      "price": 3.67,
+      "subtotal": 11.01
+    },
+    {
+      "product_id": "prod_314",
+      "name": "Premium Select Deli Ham",
+      "category": "Meat & Seafood",
+      "quantity": 2,
+      "price": 10.66,
+      "subtotal": 21.32
+    },
+    {
+      "product_id": "GRO-1130",
+      "name": "Snake River Farms Prosciutto di Parma",
+      "category": "Meat & Seafood",
+      "quantity": 3,
+      "price": 30.57,
+      "subtotal": 91.71
+    },
+    {
+      "product_id": "GRO-1654",
+      "name": "Dole Yukon Gold Potato",
+      "category": "Produce",
+      "quantity": 1,
+      "price": 1.53,
+      "subtotal": 1.53
+    },
+    {
+      "product_id": "GRO-1871",
+      "name": "Sea Best Haddock Fillet",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 19.42,
+      "subtotal": 19.42
+    }
+  ],
+  "total": 526.14,
+  "currency": "USD"
+}

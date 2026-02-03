@@ -1,0 +1,134 @@
+{
+  "order_id": "GRC000105",
+  "persona_id": "persona_027",
+  "store_id": "grocery",
+  "status": "shipped",
+  "created_at": "2025-11-11T04:21:08",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "items": [
+    {
+      "product_id": "prod_250",
+      "name": "Sunrise Farms Pork Chops",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 5.48,
+      "subtotal": 5.48
+    },
+    {
+      "product_id": "GRO-1887",
+      "name": "Tyson Lobster Meat",
+      "category": "Meat & Seafood",
+      "quantity": 2,
+      "price": 25.83,
+      "subtotal": 51.66
+    },
+    {
+      "product_id": "prod_279",
+      "name": "Mountain Fresh Organic Shrimp",
+      "category": "Meat & Seafood",
+      "quantity": 2,
+      "price": 19.12,
+      "subtotal": 38.24
+    },
+    {
+      "product_id": "prod_265",
+      "name": "Market Fresh Lamb Chops",
+      "category": "Meat & Seafood",
+      "quantity": 2,
+      "price": 19.18,
+      "subtotal": 38.36
+    },
+    {
+      "product_id": "GRO-1818",
+      "name": "Tyson Beef Brisket",
+      "category": "Meat & Seafood",
+      "quantity": 2,
+      "price": 22.25,
+      "subtotal": 44.5
+    },
+    {
+      "product_id": "GRO-1102",
+      "name": "Bell & Evans Free Range Chicken Breast",
+      "category": "Meat & Seafood",
+      "quantity": 3,
+      "price": 18.24,
+      "subtotal": 54.72
+    },
+    {
+      "product_id": "GRO-1849",
+      "name": "Smithfield Ground Pork",
+      "category": "Meat & Seafood",
+      "quantity": 2,
+      "price": 10.12,
+      "subtotal": 20.24
+    },
+    {
+      "product_id": "prod_295",
+      "name": "Quality First Scallops",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 20.65,
+      "subtotal": 20.65
+    },
+    {
+      "product_id": "GRO-1728",
+      "name": "Del Monte Coconut Meat",
+      "category": "Produce",
+      "quantity": 1,
+      "price": 3.92,
+      "subtotal": 3.92
+    },
+    {
+      "product_id": "prod_267",
+      "name": "Local Pride Ground Lamb",
+      "category": "Meat & Seafood",
+      "quantity": 2,
+      "price": 30.05,
+      "subtotal": 60.1
+    },
+    {
+      "product_id": "prod_115",
+      "name": "Simply Good Potatoes",
+      "category": "Produce",
+      "quantity": 1,
+      "price": 1.73,
+      "subtotal": 1.73
+    },
+    {
+      "product_id": "GRO-1882",
+      "name": "Sea Best Bay Scallops",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 18.97,
+      "subtotal": 18.97
+    },
+    {
+      "product_id": "GRO-1082",
+      "name": "Bell & Evans Wagyu Ribeye",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 79.26,
+      "subtotal": 79.26
+    },
+    {
+      "product_id": "GRO-2140",
+      "name": "Lay's Potato Chips BBQ",
+      "category": "Snacks",
+      "quantity": 2,
+      "price": 9.06,
+      "subtotal": 18.12
+    },
+    {
+      "product_id": "GRO-1106",
+      "name": "Bell & Evans Turkey Breast",
+      "category": "Meat & Seafood",
+      "quantity": 4,
+      "price": 12.71,
+      "subtotal": 50.84
+    }
+  ],
+  "total": 506.79,
+  "currency": "USD"
+}

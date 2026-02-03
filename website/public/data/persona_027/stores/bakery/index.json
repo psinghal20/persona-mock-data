@@ -1,0 +1,503 @@
+{
+  "persona_id": "persona_027",
+  "store_id": "bakery",
+  "store_name": "Bakery",
+  "transaction_type": "purchases",
+  "transaction_label": "purchases",
+  "has_cost": true,
+  "summary": {
+    "total_count": 57,
+    "total_spent": 1194.98,
+    "first_date": "2025-10-01",
+    "last_date": "2026-01-23"
+  },
+  "items": [],
+  "categories": [
+    {
+      "id": "purchases",
+      "name": "Purchases",
+      "type": "purchases",
+      "label": "purchases",
+      "has_cost": true,
+      "summary": {
+        "total_count": 47,
+        "total_spent": 549.98,
+        "first_date": "2025-10-01",
+        "last_date": "2026-01-23"
+      },
+      "items": [
+        {
+          "order_id": "PUR-106",
+          "status": "completed",
+          "total": 13.98,
+          "item_count": 2,
+          "created_at": "2026-01-23T03:30:44",
+          "item_preview": "Sourdough Loaf"
+        },
+        {
+          "order_id": "PUR-102",
+          "status": "completed",
+          "total": 17.97,
+          "item_count": 3,
+          "created_at": "2026-01-21T06:26:53",
+          "item_preview": "Coffee Cake"
+        },
+        {
+          "order_id": "PUR-198",
+          "status": "completed",
+          "total": 5.99,
+          "item_count": 1,
+          "created_at": "2026-01-20T03:05:08",
+          "item_preview": "Coffee Cake"
+        },
+        {
+          "order_id": "PUR-91",
+          "status": "completed",
+          "total": 11.98,
+          "item_count": 2,
+          "created_at": "2026-01-18T12:04:57",
+          "item_preview": "Coffee Cake"
+        },
+        {
+          "order_id": "PUR-107",
+          "status": "completed",
+          "total": 4.98,
+          "item_count": 2,
+          "created_at": "2026-01-16T09:14:12",
+          "item_preview": "Plain Bagel"
+        },
+        {
+          "order_id": "PUR-190",
+          "status": "completed",
+          "total": 4.98,
+          "item_count": 2,
+          "created_at": "2026-01-16T06:39:55",
+          "item_preview": "Shortbread Cookie"
+        },
+        {
+          "order_id": "PUR-83",
+          "status": "completed",
+          "total": 11.98,
+          "item_count": 2,
+          "created_at": "2026-01-15T06:01:29",
+          "item_preview": "Coffee Cake"
+        },
+        {
+          "order_id": "PUR-181",
+          "status": "completed",
+          "total": 17.97,
+          "item_count": 3,
+          "created_at": "2026-01-14T22:23:58",
+          "item_preview": "Coffee Cake"
+        },
+        {
+          "order_id": "PUR-184",
+          "status": "completed",
+          "total": 7.47,
+          "item_count": 3,
+          "created_at": "2026-01-12T02:39:26",
+          "item_preview": "Shortbread Cookie"
+        },
+        {
+          "order_id": "PUR-104",
+          "status": "completed",
+          "total": 11.98,
+          "item_count": 2,
+          "created_at": "2026-01-11T14:42:38",
+          "item_preview": "Coffee Cake"
+        },
+        {
+          "order_id": "PUR-99",
+          "status": "completed",
+          "total": 11.98,
+          "item_count": 2,
+          "created_at": "2025-12-21T07:19:47",
+          "item_preview": "Coffee Cake"
+        },
+        {
+          "order_id": "PUR-97",
+          "status": "completed",
+          "total": 17.97,
+          "item_count": 3,
+          "created_at": "2025-12-20T12:56:56",
+          "item_preview": "Rye Bread"
+        },
+        {
+          "order_id": "PUR-192",
+          "status": "completed",
+          "total": 2.49,
+          "item_count": 1,
+          "created_at": "2025-12-19T18:38:51",
+          "item_preview": "Shortbread Cookie"
+        },
+        {
+          "order_id": "PUR-84",
+          "status": "completed",
+          "total": 5.99,
+          "item_count": 1,
+          "created_at": "2025-12-17T18:26:28",
+          "item_preview": "Rye Bread"
+        },
+        {
+          "order_id": "PUR-105",
+          "status": "completed",
+          "total": 6.99,
+          "item_count": 1,
+          "created_at": "2025-12-10T15:39:11",
+          "item_preview": "Sourdough Loaf"
+        },
+        {
+          "order_id": "PUR-196",
+          "status": "completed",
+          "total": 31.96,
+          "item_count": 4,
+          "created_at": "2025-12-09T22:26:48",
+          "item_preview": "Challah"
+        },
+        {
+          "order_id": "PUR-182",
+          "status": "completed",
+          "total": 11.98,
+          "item_count": 2,
+          "created_at": "2025-12-05T04:13:10",
+          "item_preview": "Rye Bread"
+        },
+        {
+          "order_id": "PUR-187",
+          "status": "completed",
+          "total": 5.99,
+          "item_count": 1,
+          "created_at": "2025-12-04T21:57:41",
+          "item_preview": "Rye Bread"
+        },
+        {
+          "order_id": "PUR-185",
+          "status": "completed",
+          "total": 11.98,
+          "item_count": 2,
+          "created_at": "2025-12-04T21:08:17",
+          "item_preview": "Coffee Cake"
+        },
+        {
+          "order_id": "PUR-191",
+          "status": "completed",
+          "total": 15.98,
+          "item_count": 2,
+          "created_at": "2025-12-04T17:36:31",
+          "item_preview": "Challah"
+        },
+        {
+          "order_id": "PUR-87",
+          "status": "completed",
+          "total": 17.97,
+          "item_count": 3,
+          "created_at": "2025-12-02T16:33:46",
+          "item_preview": "Rye Bread"
+        },
+        {
+          "order_id": "PUR-88",
+          "status": "completed",
+          "total": 13.98,
+          "item_count": 2,
+          "created_at": "2025-12-01T20:15:18",
+          "item_preview": "Sourdough Loaf"
+        },
+        {
+          "order_id": "PUR-193",
+          "status": "completed",
+          "total": 23.96,
+          "item_count": 4,
+          "created_at": "2025-12-01T01:45:10",
+          "item_preview": "Rye Bread"
+        },
+        {
+          "order_id": "PUR-103",
+          "status": "completed",
+          "total": 4.98,
+          "item_count": 2,
+          "created_at": "2025-11-29T23:15:50",
+          "item_preview": "Plain Bagel"
+        },
+        {
+          "order_id": "PUR-183",
+          "status": "completed",
+          "total": 7.47,
+          "item_count": 3,
+          "created_at": "2025-11-24T02:58:29",
+          "item_preview": "Shortbread Cookie"
+        },
+        {
+          "order_id": "PUR-93",
+          "status": "completed",
+          "total": 7.47,
+          "item_count": 3,
+          "created_at": "2025-11-24T01:23:33",
+          "item_preview": "Plain Bagel"
+        },
+        {
+          "order_id": "PUR-197",
+          "status": "completed",
+          "total": 7.99,
+          "item_count": 1,
+          "created_at": "2025-11-23T04:04:22",
+          "item_preview": "Challah"
+        },
+        {
+          "order_id": "PUR-186",
+          "status": "completed",
+          "total": 7.99,
+          "item_count": 1,
+          "created_at": "2025-11-22T08:22:07",
+          "item_preview": "Challah"
+        },
+        {
+          "order_id": "PUR-85",
+          "status": "completed",
+          "total": 4.98,
+          "item_count": 2,
+          "created_at": "2025-11-21T13:11:28",
+          "item_preview": "Shortbread Cookie"
+        },
+        {
+          "order_id": "PUR-195",
+          "status": "completed",
+          "total": 7.47,
+          "item_count": 3,
+          "created_at": "2025-11-18T09:15:34",
+          "item_preview": "Plain Bagel"
+        },
+        {
+          "order_id": "PUR-81",
+          "status": "completed",
+          "total": 13.98,
+          "item_count": 2,
+          "created_at": "2025-11-16T04:47:20",
+          "item_preview": "Sourdough Loaf"
+        },
+        {
+          "order_id": "PUR-101",
+          "status": "completed",
+          "total": 31.96,
+          "item_count": 4,
+          "created_at": "2025-11-08T01:26:03",
+          "item_preview": "Challah"
+        },
+        {
+          "order_id": "PUR-82",
+          "status": "completed",
+          "total": 9.96,
+          "item_count": 4,
+          "created_at": "2025-11-04T00:11:55",
+          "item_preview": "Shortbread Cookie"
+        },
+        {
+          "order_id": "PUR-92",
+          "status": "completed",
+          "total": 7.47,
+          "item_count": 3,
+          "created_at": "2025-11-02T15:11:26",
+          "item_preview": "Shortbread Cookie"
+        },
+        {
+          "order_id": "PUR-94",
+          "status": "completed",
+          "total": 6.99,
+          "item_count": 1,
+          "created_at": "2025-11-01T23:05:02",
+          "item_preview": "Sourdough Loaf"
+        },
+        {
+          "order_id": "PUR-180",
+          "status": "completed",
+          "total": 5.99,
+          "item_count": 1,
+          "created_at": "2025-10-31T07:23:53",
+          "item_preview": "Coffee Cake"
+        },
+        {
+          "order_id": "PUR-90",
+          "status": "completed",
+          "total": 17.97,
+          "item_count": 3,
+          "created_at": "2025-10-28T19:03:30",
+          "item_preview": "Coffee Cake"
+        },
+        {
+          "order_id": "PUR-188",
+          "status": "completed",
+          "total": 2.49,
+          "item_count": 1,
+          "created_at": "2025-10-28T16:37:55",
+          "item_preview": "Shortbread Cookie"
+        },
+        {
+          "order_id": "PUR-89",
+          "status": "completed",
+          "total": 2.49,
+          "item_count": 1,
+          "created_at": "2025-10-28T12:19:10",
+          "item_preview": "Plain Bagel"
+        },
+        {
+          "order_id": "PUR-96",
+          "status": "completed",
+          "total": 5.99,
+          "item_count": 1,
+          "created_at": "2025-10-25T16:20:45",
+          "item_preview": "Rye Bread"
+        },
+        {
+          "order_id": "PUR-189",
+          "status": "completed",
+          "total": 5.99,
+          "item_count": 1,
+          "created_at": "2025-10-16T00:53:57",
+          "item_preview": "Coffee Cake"
+        },
+        {
+          "order_id": "PUR-194",
+          "status": "completed",
+          "total": 17.97,
+          "item_count": 3,
+          "created_at": "2025-10-13T08:22:48",
+          "item_preview": "Rye Bread"
+        },
+        {
+          "order_id": "PUR-86",
+          "status": "completed",
+          "total": 17.97,
+          "item_count": 3,
+          "created_at": "2025-10-10T09:29:48",
+          "item_preview": "Coffee Cake"
+        },
+        {
+          "order_id": "PUR-179",
+          "status": "completed",
+          "total": 23.97,
+          "item_count": 3,
+          "created_at": "2025-10-07T17:51:24",
+          "item_preview": "Challah"
+        },
+        {
+          "order_id": "PUR-100",
+          "status": "completed",
+          "total": 11.98,
+          "item_count": 2,
+          "created_at": "2025-10-02T01:37:26",
+          "item_preview": "Coffee Cake"
+        },
+        {
+          "order_id": "PUR-95",
+          "status": "completed",
+          "total": 23.97,
+          "item_count": 3,
+          "created_at": "2025-10-01T19:49:39",
+          "item_preview": "Challah"
+        },
+        {
+          "order_id": "PUR-98",
+          "status": "completed",
+          "total": 5.99,
+          "item_count": 1,
+          "created_at": "2025-10-01T06:03:39",
+          "item_preview": "Coffee Cake"
+        }
+      ]
+    },
+    {
+      "id": "preorders",
+      "name": "Custom Cake Preorders",
+      "type": "preorders",
+      "label": "preorders",
+      "has_cost": true,
+      "summary": {
+        "total_count": 10,
+        "total_spent": 645.0,
+        "first_date": "2025-10-14",
+        "last_date": "2026-01-11"
+      },
+      "items": [
+        {
+          "order_id": "PRE-43",
+          "status": "pending",
+          "total": 112.0,
+          "item_count": 1,
+          "created_at": "2026-01-11T09:41:27",
+          "item_preview": "Custom lemon 12-inch Cake"
+        },
+        {
+          "order_id": "PRE-42",
+          "status": "confirmed",
+          "total": 55.0,
+          "item_count": 1,
+          "created_at": "2026-01-08T15:01:24",
+          "item_preview": "Custom lemon 8-inch Cake"
+        },
+        {
+          "order_id": "PRE-18",
+          "status": "ready",
+          "total": 47.0,
+          "item_count": 1,
+          "created_at": "2026-01-04T23:27:36",
+          "item_preview": "Custom red velvet 6-inch Cake"
+        },
+        {
+          "order_id": "PRE-21",
+          "status": "completed",
+          "total": 42.0,
+          "item_count": 1,
+          "created_at": "2025-12-20T22:47:33",
+          "item_preview": "Custom red velvet 6-inch Cake"
+        },
+        {
+          "order_id": "PRE-22",
+          "status": "pending",
+          "total": 89.0,
+          "item_count": 1,
+          "created_at": "2025-12-11T04:22:57",
+          "item_preview": "Custom chocolate 10-inch Cake"
+        },
+        {
+          "order_id": "PRE-20",
+          "status": "completed",
+          "total": 39.0,
+          "item_count": 1,
+          "created_at": "2025-11-13T06:50:24",
+          "item_preview": "Custom carrot 6-inch Cake"
+        },
+        {
+          "order_id": "PRE-23",
+          "status": "ready",
+          "total": 70.0,
+          "item_count": 1,
+          "created_at": "2025-11-12T01:50:45",
+          "item_preview": "Custom vanilla 10-inch Cake"
+        },
+        {
+          "order_id": "PRE-19",
+          "status": "confirmed",
+          "total": 77.0,
+          "item_count": 1,
+          "created_at": "2025-11-05T20:10:48",
+          "item_preview": "Custom chocolate 10-inch Cake"
+        },
+        {
+          "order_id": "PRE-41",
+          "status": "pending",
+          "total": 57.0,
+          "item_count": 1,
+          "created_at": "2025-10-21T10:19:56",
+          "item_preview": "Custom vanilla 6-inch Cake"
+        },
+        {
+          "order_id": "PRE-17",
+          "status": "confirmed",
+          "total": 57.0,
+          "item_count": 1,
+          "created_at": "2025-10-14T19:11:15",
+          "item_preview": "Custom carrot 6-inch Cake"
+        }
+      ]
+    }
+  ]
+}

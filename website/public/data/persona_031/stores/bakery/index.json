@@ -1,0 +1,631 @@
+{
+  "persona_id": "persona_031",
+  "store_id": "bakery",
+  "store_name": "Bakery",
+  "transaction_type": "purchases",
+  "transaction_label": "purchases",
+  "has_cost": true,
+  "summary": {
+    "total_count": 73,
+    "total_spent": 1736.47,
+    "first_date": "2025-09-23",
+    "last_date": "2026-01-24"
+  },
+  "items": [],
+  "categories": [
+    {
+      "id": "purchases",
+      "name": "Purchases",
+      "type": "purchases",
+      "label": "purchases",
+      "has_cost": true,
+      "summary": {
+        "total_count": 59,
+        "total_spent": 564.47,
+        "first_date": "2025-10-07",
+        "last_date": "2026-01-24"
+      },
+      "items": [
+        {
+          "order_id": "PUR-131",
+          "status": "completed",
+          "total": 3.99,
+          "item_count": 1,
+          "created_at": "2026-01-24T13:20:18",
+          "item_preview": "Bear Claw"
+        },
+        {
+          "order_id": "PUR-39",
+          "status": "completed",
+          "total": 10.47,
+          "item_count": 3,
+          "created_at": "2026-01-21T00:43:28",
+          "item_preview": "Sugar-Free Oat Cookie"
+        },
+        {
+          "order_id": "PUR-50",
+          "status": "completed",
+          "total": 26.99,
+          "item_count": 1,
+          "created_at": "2026-01-12T03:19:08",
+          "item_preview": "Bundt Cake (Chocolate)"
+        },
+        {
+          "order_id": "PUR-133",
+          "status": "completed",
+          "total": 16.98,
+          "item_count": 2,
+          "created_at": "2026-01-11T04:50:12",
+          "item_preview": "Brioche Loaf"
+        },
+        {
+          "order_id": "PUR-45",
+          "status": "completed",
+          "total": 19.47,
+          "item_count": 3,
+          "created_at": "2026-01-10T07:04:18",
+          "item_preview": "Vegan Chocolate Tart"
+        },
+        {
+          "order_id": "PUR-42",
+          "status": "completed",
+          "total": 19.47,
+          "item_count": 3,
+          "created_at": "2026-01-05T16:16:36",
+          "item_preview": "Vegan Chocolate Tart"
+        },
+        {
+          "order_id": "PUR-56",
+          "status": "completed",
+          "total": 12.99,
+          "item_count": 1,
+          "created_at": "2025-12-29T21:11:59",
+          "item_preview": "Macarons (6 pack)"
+        },
+        {
+          "order_id": "PUR-129",
+          "status": "completed",
+          "total": 17.98,
+          "item_count": 2,
+          "created_at": "2025-12-29T14:13:59",
+          "item_preview": "Gluten-Free Multigrain"
+        },
+        {
+          "order_id": "PUR-145",
+          "status": "completed",
+          "total": 5.49,
+          "item_count": 1,
+          "created_at": "2025-12-27T19:17:54",
+          "item_preview": "Vegan Mushroom Hand Pie"
+        },
+        {
+          "order_id": "PUR-37",
+          "status": "completed",
+          "total": 7.47,
+          "item_count": 3,
+          "created_at": "2025-12-27T13:45:51",
+          "item_preview": "Chocolate Chip Cookie"
+        },
+        {
+          "order_id": "PUR-46",
+          "status": "completed",
+          "total": 4.49,
+          "item_count": 1,
+          "created_at": "2025-12-27T11:44:39",
+          "item_preview": "Sausage Roll"
+        },
+        {
+          "order_id": "PUR-143",
+          "status": "completed",
+          "total": 11.98,
+          "item_count": 2,
+          "created_at": "2025-12-27T07:46:28",
+          "item_preview": "Tomato Basil Quiche"
+        },
+        {
+          "order_id": "PUR-47",
+          "status": "completed",
+          "total": 4.98,
+          "item_count": 2,
+          "created_at": "2025-12-25T09:19:23",
+          "item_preview": "Chocolate Chip Cookie"
+        },
+        {
+          "order_id": "PUR-134",
+          "status": "completed",
+          "total": 10.98,
+          "item_count": 2,
+          "created_at": "2025-12-23T05:00:53",
+          "item_preview": "Ham and Cheese Croissant"
+        },
+        {
+          "order_id": "PUR-135",
+          "status": "completed",
+          "total": 7.99,
+          "item_count": 1,
+          "created_at": "2025-12-17T11:39:33",
+          "item_preview": "Asiago Cheese Bread"
+        },
+        {
+          "order_id": "PUR-54",
+          "status": "completed",
+          "total": 6.49,
+          "item_count": 1,
+          "created_at": "2025-12-16T15:07:11",
+          "item_preview": "Red Velvet Cake (slice)"
+        },
+        {
+          "order_id": "PUR-142",
+          "status": "completed",
+          "total": 4.99,
+          "item_count": 1,
+          "created_at": "2025-12-15T19:14:34",
+          "item_preview": "Lemon Pound Cake (slice)"
+        },
+        {
+          "order_id": "PUR-138",
+          "status": "completed",
+          "total": 9.98,
+          "item_count": 2,
+          "created_at": "2025-12-15T04:39:01",
+          "item_preview": "Veggie Focaccia"
+        },
+        {
+          "order_id": "PUR-128",
+          "status": "completed",
+          "total": 5.99,
+          "item_count": 1,
+          "created_at": "2025-12-13T19:41:13",
+          "item_preview": "Key Lime Pie (slice)"
+        },
+        {
+          "order_id": "PUR-35",
+          "status": "completed",
+          "total": 5.99,
+          "item_count": 1,
+          "created_at": "2025-12-09T03:15:38",
+          "item_preview": "Quiche Lorraine"
+        },
+        {
+          "order_id": "PUR-126",
+          "status": "completed",
+          "total": 2.49,
+          "item_count": 1,
+          "created_at": "2025-12-08T18:50:15",
+          "item_preview": "Chocolate Chip Cookie"
+        },
+        {
+          "order_id": "PUR-52",
+          "status": "completed",
+          "total": 12.98,
+          "item_count": 2,
+          "created_at": "2025-12-06T12:52:37",
+          "item_preview": "Vegan Chocolate Tart"
+        },
+        {
+          "order_id": "PUR-64",
+          "status": "completed",
+          "total": 10.47,
+          "item_count": 3,
+          "created_at": "2025-12-05T03:19:50",
+          "item_preview": "Gluten-Free Chocolate Cookie"
+        },
+        {
+          "order_id": "PUR-44",
+          "status": "completed",
+          "total": 6.49,
+          "item_count": 1,
+          "created_at": "2025-12-03T00:00:24",
+          "item_preview": "Vegan Chocolate Tart"
+        },
+        {
+          "order_id": "PUR-55",
+          "status": "completed",
+          "total": 6.49,
+          "item_count": 1,
+          "created_at": "2025-12-01T06:54:01",
+          "item_preview": "Red Velvet Cake (slice)"
+        },
+        {
+          "order_id": "PUR-40",
+          "status": "completed",
+          "total": 6.58,
+          "item_count": 2,
+          "created_at": "2025-11-28T16:03:25",
+          "item_preview": "Boston Cream Donut"
+        },
+        {
+          "order_id": "PUR-151",
+          "status": "completed",
+          "total": 10.98,
+          "item_count": 2,
+          "created_at": "2025-11-27T10:37:40",
+          "item_preview": "Parker House Rolls (6 pack)"
+        },
+        {
+          "order_id": "PUR-41",
+          "status": "completed",
+          "total": 4.99,
+          "item_count": 1,
+          "created_at": "2025-11-22T02:30:35",
+          "item_preview": "Keto Chocolate Brownie"
+        },
+        {
+          "order_id": "PUR-150",
+          "status": "completed",
+          "total": 13.98,
+          "item_count": 2,
+          "created_at": "2025-11-18T04:14:13",
+          "item_preview": "New York Cheesecake (slice)"
+        },
+        {
+          "order_id": "PUR-48",
+          "status": "completed",
+          "total": 6.98,
+          "item_count": 2,
+          "created_at": "2025-11-15T13:55:05",
+          "item_preview": "Vegan Glazed Donut"
+        },
+        {
+          "order_id": "PUR-59",
+          "status": "completed",
+          "total": 9.87,
+          "item_count": 3,
+          "created_at": "2025-11-13T11:35:17",
+          "item_preview": "Boston Cream Donut"
+        },
+        {
+          "order_id": "PUR-61",
+          "status": "completed",
+          "total": 4.99,
+          "item_count": 1,
+          "created_at": "2025-11-13T09:41:15",
+          "item_preview": "Kouign-Amann"
+        },
+        {
+          "order_id": "PUR-132",
+          "status": "completed",
+          "total": 5.49,
+          "item_count": 1,
+          "created_at": "2025-11-11T15:22:52",
+          "item_preview": "Pecan Tart"
+        },
+        {
+          "order_id": "PUR-63",
+          "status": "completed",
+          "total": 6.99,
+          "item_count": 1,
+          "created_at": "2025-11-08T18:24:54",
+          "item_preview": "Vegan Chocolate Cake (slice)"
+        },
+        {
+          "order_id": "PUR-43",
+          "status": "completed",
+          "total": 11.98,
+          "item_count": 2,
+          "created_at": "2025-11-06T10:03:38",
+          "item_preview": "Lemon Meringue Pie (slice)"
+        },
+        {
+          "order_id": "PUR-127",
+          "status": "completed",
+          "total": 20.97,
+          "item_count": 3,
+          "created_at": "2025-11-06T05:35:25",
+          "item_preview": "Sourdough Loaf"
+        },
+        {
+          "order_id": "PUR-130",
+          "status": "completed",
+          "total": 10.98,
+          "item_count": 2,
+          "created_at": "2025-11-05T19:34:23",
+          "item_preview": "Apple Pie (slice)"
+        },
+        {
+          "order_id": "PUR-53",
+          "status": "completed",
+          "total": 4.99,
+          "item_count": 1,
+          "created_at": "2025-11-04T23:09:45",
+          "item_preview": "Veggie Focaccia"
+        },
+        {
+          "order_id": "PUR-123",
+          "status": "completed",
+          "total": 9.98,
+          "item_count": 2,
+          "created_at": "2025-11-04T06:43:08",
+          "item_preview": "Almond Croissant"
+        },
+        {
+          "order_id": "PUR-38",
+          "status": "completed",
+          "total": 8.37,
+          "item_count": 3,
+          "created_at": "2025-11-03T05:22:57",
+          "item_preview": "Jelly Donut"
+        },
+        {
+          "order_id": "PUR-147",
+          "status": "completed",
+          "total": 2.29,
+          "item_count": 1,
+          "created_at": "2025-11-01T05:21:52",
+          "item_preview": "Sugar Cookie"
+        },
+        {
+          "order_id": "PUR-36",
+          "status": "completed",
+          "total": 4.99,
+          "item_count": 1,
+          "created_at": "2025-10-30T14:44:45",
+          "item_preview": "Keto Chocolate Brownie"
+        },
+        {
+          "order_id": "PUR-149",
+          "status": "completed",
+          "total": 10.98,
+          "item_count": 2,
+          "created_at": "2025-10-28T06:06:33",
+          "item_preview": "Apple Pie (slice)"
+        },
+        {
+          "order_id": "PUR-144",
+          "status": "completed",
+          "total": 5.49,
+          "item_count": 1,
+          "created_at": "2025-10-27T01:17:18",
+          "item_preview": "Pecan Tart"
+        },
+        {
+          "order_id": "PUR-62",
+          "status": "completed",
+          "total": 5.99,
+          "item_count": 1,
+          "created_at": "2025-10-26T07:08:25",
+          "item_preview": "Focaccia"
+        },
+        {
+          "order_id": "PUR-58",
+          "status": "completed",
+          "total": 7.47,
+          "item_count": 3,
+          "created_at": "2025-10-22T19:45:00",
+          "item_preview": "Classic Glazed Donut"
+        },
+        {
+          "order_id": "PUR-136",
+          "status": "completed",
+          "total": 14.98,
+          "item_count": 2,
+          "created_at": "2025-10-22T05:40:52",
+          "item_preview": "Flourless Chocolate Cake (slice)"
+        },
+        {
+          "order_id": "PUR-124",
+          "status": "completed",
+          "total": 12.98,
+          "item_count": 2,
+          "created_at": "2025-10-20T21:58:05",
+          "item_preview": "Pumpernickel"
+        },
+        {
+          "order_id": "PUR-49",
+          "status": "completed",
+          "total": 2.79,
+          "item_count": 1,
+          "created_at": "2025-10-17T16:52:55",
+          "item_preview": "Jelly Donut"
+        },
+        {
+          "order_id": "PUR-146",
+          "status": "completed",
+          "total": 10.98,
+          "item_count": 2,
+          "created_at": "2025-10-17T08:59:01",
+          "item_preview": "Apple Pie (slice)"
+        },
+        {
+          "order_id": "PUR-140",
+          "status": "completed",
+          "total": 8.98,
+          "item_count": 2,
+          "created_at": "2025-10-16T19:25:43",
+          "item_preview": "Sausage Roll"
+        },
+        {
+          "order_id": "PUR-137",
+          "status": "completed",
+          "total": 9.98,
+          "item_count": 2,
+          "created_at": "2025-10-16T01:57:33",
+          "item_preview": "Kouign-Amann"
+        },
+        {
+          "order_id": "PUR-60",
+          "status": "completed",
+          "total": 4.99,
+          "item_count": 1,
+          "created_at": "2025-10-12T01:21:45",
+          "item_preview": "Keto Chocolate Brownie"
+        },
+        {
+          "order_id": "PUR-141",
+          "status": "completed",
+          "total": 16.98,
+          "item_count": 2,
+          "created_at": "2025-10-11T11:59:57",
+          "item_preview": "Brioche Loaf"
+        },
+        {
+          "order_id": "PUR-148",
+          "status": "completed",
+          "total": 5.99,
+          "item_count": 1,
+          "created_at": "2025-10-10T22:25:43",
+          "item_preview": "Rye Bread"
+        },
+        {
+          "order_id": "PUR-139",
+          "status": "completed",
+          "total": 6.98,
+          "item_count": 2,
+          "created_at": "2025-10-10T10:03:36",
+          "item_preview": "Garlic Knots"
+        },
+        {
+          "order_id": "PUR-51",
+          "status": "completed",
+          "total": 13.98,
+          "item_count": 2,
+          "created_at": "2025-10-09T23:47:27",
+          "item_preview": "Vegan Chocolate Cake (slice)"
+        },
+        {
+          "order_id": "PUR-125",
+          "status": "completed",
+          "total": 5.98,
+          "item_count": 2,
+          "created_at": "2025-10-08T01:23:57",
+          "item_preview": "White Chocolate Macadamia Cookie"
+        },
+        {
+          "order_id": "PUR-57",
+          "status": "completed",
+          "total": 19.47,
+          "item_count": 3,
+          "created_at": "2025-10-07T23:13:31",
+          "item_preview": "Red Velvet Cake (slice)"
+        }
+      ]
+    },
+    {
+      "id": "preorders",
+      "name": "Custom Cake Preorders",
+      "type": "preorders",
+      "label": "preorders",
+      "has_cost": true,
+      "summary": {
+        "total_count": 14,
+        "total_spent": 1172.0,
+        "first_date": "2025-09-23",
+        "last_date": "2026-01-10"
+      },
+      "items": [
+        {
+          "order_id": "PRE-9",
+          "status": "ready",
+          "total": 37.0,
+          "item_count": 1,
+          "created_at": "2026-01-10T04:35:09",
+          "item_preview": "Custom vanilla 6-inch Cake"
+        },
+        {
+          "order_id": "PRE-27",
+          "status": "pending",
+          "total": 51.0,
+          "item_count": 1,
+          "created_at": "2026-01-06T12:39:34",
+          "item_preview": "Custom carrot 6-inch Cake"
+        },
+        {
+          "order_id": "PRE-30",
+          "status": "completed",
+          "total": 59.0,
+          "item_count": 1,
+          "created_at": "2025-12-27T18:25:52",
+          "item_preview": "Custom vanilla 6-inch Cake"
+        },
+        {
+          "order_id": "PRE-10",
+          "status": "completed",
+          "total": 118.0,
+          "item_count": 1,
+          "created_at": "2025-12-11T00:05:27",
+          "item_preview": "Custom vanilla 12-inch Cake"
+        },
+        {
+          "order_id": "PRE-31",
+          "status": "completed",
+          "total": 116.0,
+          "item_count": 1,
+          "created_at": "2025-12-10T06:08:19",
+          "item_preview": "Custom carrot 12-inch Cake"
+        },
+        {
+          "order_id": "PRE-12",
+          "status": "pending",
+          "total": 84.0,
+          "item_count": 1,
+          "created_at": "2025-12-08T07:17:24",
+          "item_preview": "Custom carrot 10-inch Cake"
+        },
+        {
+          "order_id": "PRE-34",
+          "status": "confirmed",
+          "total": 97.0,
+          "item_count": 1,
+          "created_at": "2025-12-03T23:51:04",
+          "item_preview": "Custom chocolate 10-inch Cake"
+        },
+        {
+          "order_id": "PRE-8",
+          "status": "completed",
+          "total": 59.0,
+          "item_count": 1,
+          "created_at": "2025-12-03T14:55:56",
+          "item_preview": "Custom lemon 8-inch Cake"
+        },
+        {
+          "order_id": "PRE-7",
+          "status": "confirmed",
+          "total": 75.0,
+          "item_count": 1,
+          "created_at": "2025-11-22T15:06:31",
+          "item_preview": "Custom carrot 10-inch Cake"
+        },
+        {
+          "order_id": "PRE-32",
+          "status": "completed",
+          "total": 118.0,
+          "item_count": 1,
+          "created_at": "2025-11-16T09:23:20",
+          "item_preview": "Custom chocolate 12-inch Cake"
+        },
+        {
+          "order_id": "PRE-11",
+          "status": "ready",
+          "total": 58.0,
+          "item_count": 1,
+          "created_at": "2025-11-07T04:54:22",
+          "item_preview": "Custom lemon 6-inch Cake"
+        },
+        {
+          "order_id": "PRE-33",
+          "status": "completed",
+          "total": 104.0,
+          "item_count": 1,
+          "created_at": "2025-10-29T17:15:35",
+          "item_preview": "Custom carrot 12-inch Cake"
+        },
+        {
+          "order_id": "PRE-28",
+          "status": "pending",
+          "total": 123.0,
+          "item_count": 1,
+          "created_at": "2025-10-11T14:23:43",
+          "item_preview": "Custom carrot 12-inch Cake"
+        },
+        {
+          "order_id": "PRE-29",
+          "status": "confirmed",
+          "total": 73.0,
+          "item_count": 1,
+          "created_at": "2025-09-23T11:27:40",
+          "item_preview": "Custom vanilla 10-inch Cake"
+        }
+      ]
+    }
+  ]
+}

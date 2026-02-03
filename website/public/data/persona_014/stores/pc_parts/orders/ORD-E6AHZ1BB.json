@@ -1,0 +1,38 @@
+{
+  "order_id": "ORD-E6AHZ1BB",
+  "persona_id": "persona_014",
+  "store_id": "pc_parts",
+  "status": "delivered",
+  "created_at": "2025-12-08T07:22:07",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "888 Design District Ln, San Francisco, CA 94102",
+  "items": [
+    {
+      "product_id": "CASE026",
+      "name": "Dark Base Pro 901",
+      "category": "cases",
+      "quantity": 2,
+      "price": 299.99,
+      "subtotal": 599.98
+    },
+    {
+      "product_id": "PSU047",
+      "name": "System Power 10",
+      "category": "psus",
+      "quantity": 2,
+      "price": 79.99,
+      "subtotal": 159.98
+    },
+    {
+      "product_id": "PSU019",
+      "name": "Straight Power 12",
+      "category": "psus",
+      "quantity": 2,
+      "price": 189.99,
+      "subtotal": 379.98
+    }
+  ],
+  "total": 1139.94,
+  "currency": "USD"
+}

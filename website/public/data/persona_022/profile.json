@@ -1,0 +1,250 @@
+{
+  "id": "persona_022",
+  "name": "Anna Kowalczyk",
+  "initials": "AK",
+  "demographics": {
+    "age_group": "middle-aged",
+    "gender": "female",
+    "ethnicity": "Polish-American",
+    "marital_status": "married",
+    "family_role": "mother"
+  },
+  "professional": {
+    "profession": "nurse",
+    "industry": "healthcare",
+    "experience_level": "experienced"
+  },
+  "location": {
+    "city": "Philadelphia",
+    "region": "Pennsylvania",
+    "country": "USA",
+    "address": "444 Polish Hill St, Philadelphia, PA 19123"
+  },
+  "personality_traits": [
+    "compassionate",
+    "resilient",
+    "dedicated"
+  ],
+  "interests": [
+    "reading",
+    "gardening",
+    "cooking",
+    "healthcare",
+    "nursing",
+    "cat",
+    "home",
+    "family",
+    "Polish"
+  ],
+  "summary": "You are Anna Kowalczyk, an experienced emergency room nurse at a hospital in Philadelphia. You're a middle-aged Polish-American mother who made a career change from banking to nursing after the 2008 financial crisis\u2014a decision you've never regretted despite the challenges. You're compassionate, resilient, and deeply dedicated to patient care. A practicing Catholic from a tight-knit Polish community, you value family and service. You worry about healthcare worker burnout and staffing shortages. You find peace in reading, gardening, cooking pierogi with your mom, and Eagles game days.",
+  "stores": [
+    {
+      "id": "walmart",
+      "name": "Walmart",
+      "item_count": 69,
+      "total_spent": 25271.68,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 69,
+          "total_spent": 25271.68,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "amazon",
+      "name": "Amazon",
+      "item_count": 67,
+      "total_spent": 101409.46,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 67,
+          "total_spent": 101409.46,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "bakery",
+      "name": "Bakery",
+      "item_count": 53,
+      "total_spent": 1134.24,
+      "transaction_type": "purchases",
+      "transaction_label": "purchases",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "purchases",
+          "name": "Purchases",
+          "type": "purchases",
+          "item_count": 43,
+          "total_spent": 392.24,
+          "has_cost": true
+        },
+        {
+          "id": "preorders",
+          "name": "Custom Cake Preorders",
+          "type": "preorders",
+          "item_count": 10,
+          "total_spent": 742.0,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "grocery",
+      "name": "Grocery",
+      "item_count": 51,
+      "total_spent": 11208.66,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 51,
+          "total_spent": 11208.66,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "bookstore",
+      "name": "Bookstore",
+      "item_count": 43,
+      "total_spent": 1289.37,
+      "transaction_type": "purchases",
+      "transaction_label": "purchases",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "purchases",
+          "name": "Purchases",
+          "type": "purchases",
+          "item_count": 43,
+          "total_spent": 1289.37,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "pet_store",
+      "name": "Pet Store",
+      "item_count": 41,
+      "total_spent": 4501.47,
+      "transaction_type": "purchases",
+      "transaction_label": "purchases",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "purchases",
+          "name": "Purchases",
+          "type": "purchases",
+          "item_count": 30,
+          "total_spent": 4026.47,
+          "has_cost": true
+        },
+        {
+          "id": "grooming",
+          "name": "Grooming Appointments",
+          "type": "grooming",
+          "item_count": 9,
+          "total_spent": 475.0,
+          "has_cost": true
+        },
+        {
+          "id": "pets",
+          "name": "Pet Profiles",
+          "type": "pets",
+          "item_count": 2,
+          "total_spent": 0,
+          "has_cost": false
+        }
+      ]
+    },
+    {
+      "id": "sephora",
+      "name": "Sephora",
+      "item_count": 35,
+      "total_spent": 5493.95,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 35,
+          "total_spent": 5493.95,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "pharmacy",
+      "name": "Pharmacy",
+      "item_count": 32,
+      "total_spent": 940.42,
+      "transaction_type": "purchases",
+      "transaction_label": "purchases",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "purchases",
+          "name": "Purchases",
+          "type": "purchases",
+          "item_count": 32,
+          "total_spent": 940.42,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "florist",
+      "name": "Florist",
+      "item_count": 16,
+      "total_spent": 1834.67,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 13,
+          "total_spent": 1584.7,
+          "has_cost": true
+        },
+        {
+          "id": "subscriptions",
+          "name": "Subscriptions",
+          "type": "subscriptions",
+          "item_count": 3,
+          "total_spent": 249.97,
+          "has_cost": true
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total_orders": 407,
+    "total_spent": 153083.92,
+    "stores_count": 9
+  }
+}

@@ -1,0 +1,449 @@
+{
+  "persona_id": "persona_014",
+  "store_id": "sephora",
+  "store_name": "Sephora",
+  "transaction_type": "orders",
+  "transaction_label": "orders",
+  "has_cost": true,
+  "summary": {
+    "total_count": 26,
+    "total_spent": 4104.89,
+    "first_date": "2025-10-03",
+    "last_date": "2026-01-21"
+  },
+  "items": [
+    {
+      "order_id": "SPH000005",
+      "status": "delivered",
+      "total": 173.46,
+      "item_count": 2,
+      "created_at": "2026-01-21T05:53:11",
+      "item_preview": "Oil Cleanser, Gel Cleanser"
+    },
+    {
+      "order_id": "SPH000002",
+      "status": "shipped",
+      "total": 152.68,
+      "item_count": 3,
+      "created_at": "2026-01-21T04:22:13",
+      "item_preview": "Gel Moisturizer, Brightening Eye Cream, ..."
+    },
+    {
+      "order_id": "SPH000003",
+      "status": "delivered",
+      "total": 242.94,
+      "item_count": 3,
+      "created_at": "2026-01-15T22:13:14",
+      "item_preview": "Night Cream, Day Moisturizer, ..."
+    },
+    {
+      "order_id": "SPH000001",
+      "status": "delivered",
+      "total": 201.98,
+      "item_count": 4,
+      "created_at": "2026-01-11T09:03:27",
+      "item_preview": "Exfoliating Toner, Mineral Sunscreen, ..."
+    },
+    {
+      "order_id": "SPH000076",
+      "status": "delivered",
+      "total": 319.52,
+      "item_count": 4,
+      "created_at": "2026-01-07T15:00:54",
+      "item_preview": "Gel Cleanser, Mineral Sunscreen, ..."
+    },
+    {
+      "order_id": "SPH000004",
+      "status": "delivered",
+      "total": 195.2,
+      "item_count": 3,
+      "created_at": "2025-12-22T15:39:23",
+      "item_preview": "Rich Cream, Hyaluronic Acid Serum, ..."
+    },
+    {
+      "order_id": "SPH000072",
+      "status": "cancelled",
+      "total": 323.24,
+      "item_count": 4,
+      "created_at": "2025-12-21T01:03:43",
+      "item_preview": "Vitamin C Serum, Retinol Serum, ..."
+    },
+    {
+      "order_id": "SPH000013",
+      "status": "shipped",
+      "total": 106.76,
+      "item_count": 2,
+      "created_at": "2025-12-19T16:10:17",
+      "item_preview": "Mineral Sunscreen, Gel Moisturizer"
+    },
+    {
+      "order_id": "SPH000067",
+      "status": "delivered",
+      "total": 98.16,
+      "item_count": 1,
+      "created_at": "2025-12-19T08:10:03",
+      "item_preview": "Chemical Sunscreen"
+    },
+    {
+      "order_id": "SPH000009",
+      "status": "delivered",
+      "total": 95.14,
+      "item_count": 2,
+      "created_at": "2025-12-05T12:19:25",
+      "item_preview": "Chemical Sunscreen, Gel Moisturizer"
+    },
+    {
+      "order_id": "SPH000074",
+      "status": "delivered",
+      "total": 70.74,
+      "item_count": 2,
+      "created_at": "2025-11-27T20:29:08",
+      "item_preview": "Exfoliating Toner, Rich Cream"
+    },
+    {
+      "order_id": "SPH000011",
+      "status": "pending",
+      "total": 108.18,
+      "item_count": 2,
+      "created_at": "2025-11-22T20:38:40",
+      "item_preview": "Niacinamide Serum, Chemical Sunscreen"
+    },
+    {
+      "order_id": "SPH000006",
+      "status": "delivered",
+      "total": 114.24,
+      "item_count": 3,
+      "created_at": "2025-11-21T18:48:32",
+      "item_preview": "Luminous Silk Foundation - Light, Rich Cream, ..."
+    },
+    {
+      "order_id": "SPH000066",
+      "status": "delivered",
+      "total": 51.78,
+      "item_count": 2,
+      "created_at": "2025-11-17T20:13:41",
+      "item_preview": "Oil Cleanser, Overnight Mask"
+    },
+    {
+      "order_id": "SPH000073",
+      "status": "cancelled",
+      "total": 199.72,
+      "item_count": 2,
+      "created_at": "2025-11-16T09:20:59",
+      "item_preview": "Chemical Sunscreen, Luminous Silk Foundation - Medium"
+    },
+    {
+      "order_id": "SPH000010",
+      "status": "cancelled",
+      "total": 173.56,
+      "item_count": 3,
+      "created_at": "2025-11-05T19:57:24",
+      "item_preview": "Night Cream, Natural Lashes, ..."
+    },
+    {
+      "order_id": "SPH000007",
+      "status": "delivered",
+      "total": 215.14,
+      "item_count": 3,
+      "created_at": "2025-10-29T09:01:38",
+      "item_preview": "Tinted Sunscreen, Natural Lashes, ..."
+    },
+    {
+      "order_id": "SPH000014",
+      "status": "delivered",
+      "total": 181.22,
+      "item_count": 2,
+      "created_at": "2025-10-29T07:36:55",
+      "item_preview": "Day Moisturizer, Mineral Sunscreen"
+    },
+    {
+      "order_id": "SPH000012",
+      "status": "shipped",
+      "total": 108.96,
+      "item_count": 2,
+      "created_at": "2025-10-26T16:39:16",
+      "item_preview": "Mineral Sunscreen, Night Cream"
+    },
+    {
+      "order_id": "SPH000069",
+      "status": "pending",
+      "total": 164.6,
+      "item_count": 3,
+      "created_at": "2025-10-18T11:00:35",
+      "item_preview": "Chemical Sunscreen, Hydrating Eye Cream, ..."
+    },
+    {
+      "order_id": "SPH000075",
+      "status": "delivered",
+      "total": 204.02,
+      "item_count": 4,
+      "created_at": "2025-10-16T09:16:53",
+      "item_preview": "Tinted Sunscreen, Hydrating Toner, ..."
+    },
+    {
+      "order_id": "SPH000070",
+      "status": "delivered",
+      "total": 98.49,
+      "item_count": 2,
+      "created_at": "2025-10-13T22:58:32",
+      "item_preview": "Exfoliating Toner, Clay Mask"
+    },
+    {
+      "order_id": "SPH000071",
+      "status": "cancelled",
+      "total": 81.72,
+      "item_count": 1,
+      "created_at": "2025-10-11T02:19:38",
+      "item_preview": "Niacinamide Serum"
+    },
+    {
+      "order_id": "SPH000068",
+      "status": "pending",
+      "total": 97.31,
+      "item_count": 2,
+      "created_at": "2025-10-09T10:10:24",
+      "item_preview": "Hydrating Toner, Chemical Sunscreen"
+    },
+    {
+      "order_id": "SPH000008",
+      "status": "delivered",
+      "total": 217.51,
+      "item_count": 3,
+      "created_at": "2025-10-07T17:56:34",
+      "item_preview": "Exfoliating Toner, Luminous Silk Foundation - Medium, ..."
+    },
+    {
+      "order_id": "SPH000015",
+      "status": "shipped",
+      "total": 108.62,
+      "item_count": 1,
+      "created_at": "2025-10-03T10:29:18",
+      "item_preview": "Natural Lashes"
+    }
+  ],
+  "categories": [
+    {
+      "id": "orders",
+      "name": "Orders",
+      "type": "orders",
+      "label": "orders",
+      "has_cost": true,
+      "summary": {
+        "total_count": 26,
+        "total_spent": 4104.89,
+        "first_date": "2025-10-03",
+        "last_date": "2026-01-21"
+      },
+      "items": [
+        {
+          "order_id": "SPH000005",
+          "status": "delivered",
+          "total": 173.46,
+          "item_count": 2,
+          "created_at": "2026-01-21T05:53:11",
+          "item_preview": "Oil Cleanser, Gel Cleanser"
+        },
+        {
+          "order_id": "SPH000002",
+          "status": "shipped",
+          "total": 152.68,
+          "item_count": 3,
+          "created_at": "2026-01-21T04:22:13",
+          "item_preview": "Gel Moisturizer, Brightening Eye Cream, ..."
+        },
+        {
+          "order_id": "SPH000003",
+          "status": "delivered",
+          "total": 242.94,
+          "item_count": 3,
+          "created_at": "2026-01-15T22:13:14",
+          "item_preview": "Night Cream, Day Moisturizer, ..."
+        },
+        {
+          "order_id": "SPH000001",
+          "status": "delivered",
+          "total": 201.98,
+          "item_count": 4,
+          "created_at": "2026-01-11T09:03:27",
+          "item_preview": "Exfoliating Toner, Mineral Sunscreen, ..."
+        },
+        {
+          "order_id": "SPH000076",
+          "status": "delivered",
+          "total": 319.52,
+          "item_count": 4,
+          "created_at": "2026-01-07T15:00:54",
+          "item_preview": "Gel Cleanser, Mineral Sunscreen, ..."
+        },
+        {
+          "order_id": "SPH000004",
+          "status": "delivered",
+          "total": 195.2,
+          "item_count": 3,
+          "created_at": "2025-12-22T15:39:23",
+          "item_preview": "Rich Cream, Hyaluronic Acid Serum, ..."
+        },
+        {
+          "order_id": "SPH000072",
+          "status": "cancelled",
+          "total": 323.24,
+          "item_count": 4,
+          "created_at": "2025-12-21T01:03:43",
+          "item_preview": "Vitamin C Serum, Retinol Serum, ..."
+        },
+        {
+          "order_id": "SPH000013",
+          "status": "shipped",
+          "total": 106.76,
+          "item_count": 2,
+          "created_at": "2025-12-19T16:10:17",
+          "item_preview": "Mineral Sunscreen, Gel Moisturizer"
+        },
+        {
+          "order_id": "SPH000067",
+          "status": "delivered",
+          "total": 98.16,
+          "item_count": 1,
+          "created_at": "2025-12-19T08:10:03",
+          "item_preview": "Chemical Sunscreen"
+        },
+        {
+          "order_id": "SPH000009",
+          "status": "delivered",
+          "total": 95.14,
+          "item_count": 2,
+          "created_at": "2025-12-05T12:19:25",
+          "item_preview": "Chemical Sunscreen, Gel Moisturizer"
+        },
+        {
+          "order_id": "SPH000074",
+          "status": "delivered",
+          "total": 70.74,
+          "item_count": 2,
+          "created_at": "2025-11-27T20:29:08",
+          "item_preview": "Exfoliating Toner, Rich Cream"
+        },
+        {
+          "order_id": "SPH000011",
+          "status": "pending",
+          "total": 108.18,
+          "item_count": 2,
+          "created_at": "2025-11-22T20:38:40",
+          "item_preview": "Niacinamide Serum, Chemical Sunscreen"
+        },
+        {
+          "order_id": "SPH000006",
+          "status": "delivered",
+          "total": 114.24,
+          "item_count": 3,
+          "created_at": "2025-11-21T18:48:32",
+          "item_preview": "Luminous Silk Foundation - Light, Rich Cream, ..."
+        },
+        {
+          "order_id": "SPH000066",
+          "status": "delivered",
+          "total": 51.78,
+          "item_count": 2,
+          "created_at": "2025-11-17T20:13:41",
+          "item_preview": "Oil Cleanser, Overnight Mask"
+        },
+        {
+          "order_id": "SPH000073",
+          "status": "cancelled",
+          "total": 199.72,
+          "item_count": 2,
+          "created_at": "2025-11-16T09:20:59",
+          "item_preview": "Chemical Sunscreen, Luminous Silk Foundation - Medium"
+        },
+        {
+          "order_id": "SPH000010",
+          "status": "cancelled",
+          "total": 173.56,
+          "item_count": 3,
+          "created_at": "2025-11-05T19:57:24",
+          "item_preview": "Night Cream, Natural Lashes, ..."
+        },
+        {
+          "order_id": "SPH000007",
+          "status": "delivered",
+          "total": 215.14,
+          "item_count": 3,
+          "created_at": "2025-10-29T09:01:38",
+          "item_preview": "Tinted Sunscreen, Natural Lashes, ..."
+        },
+        {
+          "order_id": "SPH000014",
+          "status": "delivered",
+          "total": 181.22,
+          "item_count": 2,
+          "created_at": "2025-10-29T07:36:55",
+          "item_preview": "Day Moisturizer, Mineral Sunscreen"
+        },
+        {
+          "order_id": "SPH000012",
+          "status": "shipped",
+          "total": 108.96,
+          "item_count": 2,
+          "created_at": "2025-10-26T16:39:16",
+          "item_preview": "Mineral Sunscreen, Night Cream"
+        },
+        {
+          "order_id": "SPH000069",
+          "status": "pending",
+          "total": 164.6,
+          "item_count": 3,
+          "created_at": "2025-10-18T11:00:35",
+          "item_preview": "Chemical Sunscreen, Hydrating Eye Cream, ..."
+        },
+        {
+          "order_id": "SPH000075",
+          "status": "delivered",
+          "total": 204.02,
+          "item_count": 4,
+          "created_at": "2025-10-16T09:16:53",
+          "item_preview": "Tinted Sunscreen, Hydrating Toner, ..."
+        },
+        {
+          "order_id": "SPH000070",
+          "status": "delivered",
+          "total": 98.49,
+          "item_count": 2,
+          "created_at": "2025-10-13T22:58:32",
+          "item_preview": "Exfoliating Toner, Clay Mask"
+        },
+        {
+          "order_id": "SPH000071",
+          "status": "cancelled",
+          "total": 81.72,
+          "item_count": 1,
+          "created_at": "2025-10-11T02:19:38",
+          "item_preview": "Niacinamide Serum"
+        },
+        {
+          "order_id": "SPH000068",
+          "status": "pending",
+          "total": 97.31,
+          "item_count": 2,
+          "created_at": "2025-10-09T10:10:24",
+          "item_preview": "Hydrating Toner, Chemical Sunscreen"
+        },
+        {
+          "order_id": "SPH000008",
+          "status": "delivered",
+          "total": 217.51,
+          "item_count": 3,
+          "created_at": "2025-10-07T17:56:34",
+          "item_preview": "Exfoliating Toner, Luminous Silk Foundation - Medium, ..."
+        },
+        {
+          "order_id": "SPH000015",
+          "status": "shipped",
+          "total": 108.62,
+          "item_count": 1,
+          "created_at": "2025-10-03T10:29:18",
+          "item_preview": "Natural Lashes"
+        }
+      ]
+    }
+  ]
+}

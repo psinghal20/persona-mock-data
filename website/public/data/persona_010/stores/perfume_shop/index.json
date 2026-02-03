@@ -1,0 +1,321 @@
+{
+  "persona_id": "persona_010",
+  "store_id": "perfume_shop",
+  "store_name": "Perfume Shop",
+  "transaction_type": "orders",
+  "transaction_label": "orders",
+  "has_cost": true,
+  "summary": {
+    "total_count": 18,
+    "total_spent": 3295.0,
+    "first_date": "2025-10-03",
+    "last_date": "2026-01-25"
+  },
+  "items": [
+    {
+      "order_id": "ORD-20251008-PF0019",
+      "status": "delivered",
+      "total": 140.0,
+      "item_count": 1,
+      "created_at": "2026-01-25T00:05:48",
+      "item_preview": "Gucci Bloom"
+    },
+    {
+      "order_id": "ORD-20251030-PF0015",
+      "status": "delivered",
+      "total": 115.0,
+      "item_count": 1,
+      "created_at": "2026-01-22T17:12:22",
+      "item_preview": "Daisy Love"
+    },
+    {
+      "order_id": "ORD-20251108-PF0020",
+      "status": "shipped",
+      "total": 390.0,
+      "item_count": 2,
+      "created_at": "2026-01-22T14:20:16",
+      "item_preview": "Xerjoff Erba Pura, Boss Bottled"
+    },
+    {
+      "order_id": "ORD-20251101-PF0021",
+      "status": "delivered",
+      "total": 275.0,
+      "item_count": 1,
+      "created_at": "2026-01-17T23:28:59",
+      "item_preview": "Grand Soir"
+    },
+    {
+      "order_id": "ORD-20251130-PF0039",
+      "status": "delivered",
+      "total": 85.0,
+      "item_count": 1,
+      "created_at": "2026-01-17T19:42:26",
+      "item_preview": "Burberry for Men"
+    },
+    {
+      "order_id": "ORD-20251229-PF0014",
+      "status": "shipped",
+      "total": 115.0,
+      "item_count": 1,
+      "created_at": "2026-01-15T04:50:03",
+      "item_preview": "Daisy Love"
+    },
+    {
+      "order_id": "ORD-20251108-PF0036",
+      "status": "delivered",
+      "total": 165.0,
+      "item_count": 1,
+      "created_at": "2026-01-05T00:35:47",
+      "item_preview": "Chance Eau Tendre"
+    },
+    {
+      "order_id": "ORD-20251002-PF0041",
+      "status": "delivered",
+      "total": 160.0,
+      "item_count": 1,
+      "created_at": "2025-12-25T20:05:34",
+      "item_preview": "Dior Homme Intense"
+    },
+    {
+      "order_id": "ORD-20251224-PF0044",
+      "status": "delivered",
+      "total": 92.0,
+      "item_count": 1,
+      "created_at": "2025-12-23T05:08:13",
+      "item_preview": "Yellow Diamond"
+    },
+    {
+      "order_id": "ORD-20260105-PF0043",
+      "status": "delivered",
+      "total": 155.0,
+      "item_count": 1,
+      "created_at": "2025-12-13T02:27:37",
+      "item_preview": "English Pear & Freesia"
+    },
+    {
+      "order_id": "ORD-20251215-PF0042",
+      "status": "delivered",
+      "total": 295.0,
+      "item_count": 1,
+      "created_at": "2025-12-02T03:37:13",
+      "item_preview": "Santal 33"
+    },
+    {
+      "order_id": "ORD-20251220-PF0037",
+      "status": "delivered",
+      "total": 360.0,
+      "item_count": 2,
+      "created_at": "2025-11-10T07:54:33",
+      "item_preview": "Flowerbomb, Coco Mademoiselle"
+    },
+    {
+      "order_id": "ORD-20251130-PF0017",
+      "status": "shipped",
+      "total": 98.0,
+      "item_count": 1,
+      "created_at": "2025-11-06T07:49:45",
+      "item_preview": "Versace Bright Crystal"
+    },
+    {
+      "order_id": "ORD-20251223-PF0018",
+      "status": "delivered",
+      "total": 185.0,
+      "item_count": 1,
+      "created_at": "2025-11-03T06:32:35",
+      "item_preview": "Coco Mademoiselle"
+    },
+    {
+      "order_id": "ORD-20251025-PF0040",
+      "status": "delivered",
+      "total": 115.0,
+      "item_count": 1,
+      "created_at": "2025-10-31T22:39:50",
+      "item_preview": "Brit for Her"
+    },
+    {
+      "order_id": "ORD-20251026-PF0038",
+      "status": "delivered",
+      "total": 175.0,
+      "item_count": 1,
+      "created_at": "2025-10-25T19:43:35",
+      "item_preview": "Flowerbomb"
+    },
+    {
+      "order_id": "ORD-20251109-PF0016",
+      "status": "delivered",
+      "total": 260.0,
+      "item_count": 2,
+      "created_at": "2025-10-19T18:53:50",
+      "item_preview": "Chance Eau Tendre, Issey Miyake L'Eau d'Issey"
+    },
+    {
+      "order_id": "ORD-20251113-PF0045",
+      "status": "delivered",
+      "total": 115.0,
+      "item_count": 1,
+      "created_at": "2025-10-03T10:02:11",
+      "item_preview": "The One"
+    }
+  ],
+  "categories": [
+    {
+      "id": "orders",
+      "name": "Orders",
+      "type": "orders",
+      "label": "orders",
+      "has_cost": true,
+      "summary": {
+        "total_count": 18,
+        "total_spent": 3295.0,
+        "first_date": "2025-10-03",
+        "last_date": "2026-01-25"
+      },
+      "items": [
+        {
+          "order_id": "ORD-20251008-PF0019",
+          "status": "delivered",
+          "total": 140.0,
+          "item_count": 1,
+          "created_at": "2026-01-25T00:05:48",
+          "item_preview": "Gucci Bloom"
+        },
+        {
+          "order_id": "ORD-20251030-PF0015",
+          "status": "delivered",
+          "total": 115.0,
+          "item_count": 1,
+          "created_at": "2026-01-22T17:12:22",
+          "item_preview": "Daisy Love"
+        },
+        {
+          "order_id": "ORD-20251108-PF0020",
+          "status": "shipped",
+          "total": 390.0,
+          "item_count": 2,
+          "created_at": "2026-01-22T14:20:16",
+          "item_preview": "Xerjoff Erba Pura, Boss Bottled"
+        },
+        {
+          "order_id": "ORD-20251101-PF0021",
+          "status": "delivered",
+          "total": 275.0,
+          "item_count": 1,
+          "created_at": "2026-01-17T23:28:59",
+          "item_preview": "Grand Soir"
+        },
+        {
+          "order_id": "ORD-20251130-PF0039",
+          "status": "delivered",
+          "total": 85.0,
+          "item_count": 1,
+          "created_at": "2026-01-17T19:42:26",
+          "item_preview": "Burberry for Men"
+        },
+        {
+          "order_id": "ORD-20251229-PF0014",
+          "status": "shipped",
+          "total": 115.0,
+          "item_count": 1,
+          "created_at": "2026-01-15T04:50:03",
+          "item_preview": "Daisy Love"
+        },
+        {
+          "order_id": "ORD-20251108-PF0036",
+          "status": "delivered",
+          "total": 165.0,
+          "item_count": 1,
+          "created_at": "2026-01-05T00:35:47",
+          "item_preview": "Chance Eau Tendre"
+        },
+        {
+          "order_id": "ORD-20251002-PF0041",
+          "status": "delivered",
+          "total": 160.0,
+          "item_count": 1,
+          "created_at": "2025-12-25T20:05:34",
+          "item_preview": "Dior Homme Intense"
+        },
+        {
+          "order_id": "ORD-20251224-PF0044",
+          "status": "delivered",
+          "total": 92.0,
+          "item_count": 1,
+          "created_at": "2025-12-23T05:08:13",
+          "item_preview": "Yellow Diamond"
+        },
+        {
+          "order_id": "ORD-20260105-PF0043",
+          "status": "delivered",
+          "total": 155.0,
+          "item_count": 1,
+          "created_at": "2025-12-13T02:27:37",
+          "item_preview": "English Pear & Freesia"
+        },
+        {
+          "order_id": "ORD-20251215-PF0042",
+          "status": "delivered",
+          "total": 295.0,
+          "item_count": 1,
+          "created_at": "2025-12-02T03:37:13",
+          "item_preview": "Santal 33"
+        },
+        {
+          "order_id": "ORD-20251220-PF0037",
+          "status": "delivered",
+          "total": 360.0,
+          "item_count": 2,
+          "created_at": "2025-11-10T07:54:33",
+          "item_preview": "Flowerbomb, Coco Mademoiselle"
+        },
+        {
+          "order_id": "ORD-20251130-PF0017",
+          "status": "shipped",
+          "total": 98.0,
+          "item_count": 1,
+          "created_at": "2025-11-06T07:49:45",
+          "item_preview": "Versace Bright Crystal"
+        },
+        {
+          "order_id": "ORD-20251223-PF0018",
+          "status": "delivered",
+          "total": 185.0,
+          "item_count": 1,
+          "created_at": "2025-11-03T06:32:35",
+          "item_preview": "Coco Mademoiselle"
+        },
+        {
+          "order_id": "ORD-20251025-PF0040",
+          "status": "delivered",
+          "total": 115.0,
+          "item_count": 1,
+          "created_at": "2025-10-31T22:39:50",
+          "item_preview": "Brit for Her"
+        },
+        {
+          "order_id": "ORD-20251026-PF0038",
+          "status": "delivered",
+          "total": 175.0,
+          "item_count": 1,
+          "created_at": "2025-10-25T19:43:35",
+          "item_preview": "Flowerbomb"
+        },
+        {
+          "order_id": "ORD-20251109-PF0016",
+          "status": "delivered",
+          "total": 260.0,
+          "item_count": 2,
+          "created_at": "2025-10-19T18:53:50",
+          "item_preview": "Chance Eau Tendre, Issey Miyake L'Eau d'Issey"
+        },
+        {
+          "order_id": "ORD-20251113-PF0045",
+          "status": "delivered",
+          "total": 115.0,
+          "item_count": 1,
+          "created_at": "2025-10-03T10:02:11",
+          "item_preview": "The One"
+        }
+      ]
+    }
+  ]
+}

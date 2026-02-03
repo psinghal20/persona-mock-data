@@ -1,0 +1,24 @@
+{
+  "order_id": "52",
+  "persona_id": "persona_010",
+  "store_id": "florist",
+  "status": "delivered",
+  "created_at": "2026-01-16T22:02:58",
+  "shipped_at": "",
+  "delivered_at": "2026-01-21",
+  "shipping_address": "321 French Quarter Ave, New Orleans, LA 70116",
+  "recipient_name": "Sophie Laurent",
+  "card_message": "Happy Anniversary!",
+  "items": [
+    {
+      "product_id": "8",
+      "name": "Elegant White Lilies",
+      "category": "Lilies",
+      "quantity": 1,
+      "price": 74.99,
+      "subtotal": 74.99
+    }
+  ],
+  "total": 89.98,
+  "currency": "USD"
+}

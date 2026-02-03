@@ -1,0 +1,30 @@
+{
+  "order_id": "ORDER-LDI6RRUW",
+  "persona_id": "persona_023",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2026-01-04T06:26:07",
+  "shipped_at": "2026-01-05T06:26:07",
+  "delivered_at": "2026-01-10T06:26:07",
+  "shipping_address": "777 East Side Ave, Cleveland, OH 44114",
+  "items": [
+    {
+      "product_id": "B0ELEC0088",
+      "name": "MSI MSI Stealth 16 Studio",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 2426.57,
+      "subtotal": 2426.57
+    },
+    {
+      "product_id": "B0ELEC0119",
+      "name": "Logitech Logitech G915 TKL",
+      "category": "Electronics",
+      "quantity": 3,
+      "price": 180.7,
+      "subtotal": 542.1
+    }
+  ],
+  "total": 2968.67,
+  "currency": "USD"
+}

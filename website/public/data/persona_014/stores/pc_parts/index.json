@@ -1,0 +1,481 @@
+{
+  "persona_id": "persona_014",
+  "store_id": "pc_parts",
+  "store_name": "PC Parts",
+  "transaction_type": "orders",
+  "transaction_label": "orders",
+  "has_cost": true,
+  "summary": {
+    "total_count": 28,
+    "total_spent": 12239.22,
+    "first_date": "2025-10-01",
+    "last_date": "2026-01-12"
+  },
+  "items": [
+    {
+      "order_id": "ORD-FAZJJCV5",
+      "status": "shipped",
+      "total": 469.97,
+      "item_count": 2,
+      "created_at": "2026-01-12T05:09:26",
+      "item_preview": "Pure Base 500, Silent Base 802"
+    },
+    {
+      "order_id": "ORD-NDGE0H1T",
+      "status": "delivered",
+      "total": 189.99,
+      "item_count": 1,
+      "created_at": "2026-01-06T02:47:33",
+      "item_preview": "Silent Base 802"
+    },
+    {
+      "order_id": "ORD-5L3FXKX5",
+      "status": "delivered",
+      "total": 259.98,
+      "item_count": 1,
+      "created_at": "2026-01-03T02:38:15",
+      "item_preview": "Pure Power 12 M"
+    },
+    {
+      "order_id": "ORD-U0J0QZD7",
+      "status": "shipped",
+      "total": 229.99,
+      "item_count": 1,
+      "created_at": "2025-12-29T10:12:00",
+      "item_preview": "Straight Power 12"
+    },
+    {
+      "order_id": "ORD-G2XVWXBO",
+      "status": "delivered",
+      "total": 719.95,
+      "item_count": 3,
+      "created_at": "2025-12-29T06:59:00",
+      "item_preview": "Pure Base 500DX, Pure Base 500FX, ..."
+    },
+    {
+      "order_id": "ORD-UJPHZEZH",
+      "status": "delivered",
+      "total": 179.98,
+      "item_count": 1,
+      "created_at": "2025-12-26T05:58:37",
+      "item_preview": "Pure Base 500"
+    },
+    {
+      "order_id": "ORD-7KFTLAXX",
+      "status": "delivered",
+      "total": 259.98,
+      "item_count": 1,
+      "created_at": "2025-12-26T03:08:49",
+      "item_preview": "Pure Power 12 M"
+    },
+    {
+      "order_id": "ORD-XRSIYXNC",
+      "status": "shipped",
+      "total": 439.97,
+      "item_count": 2,
+      "created_at": "2025-12-22T05:58:52",
+      "item_preview": "System Power 10, Dark Base 700"
+    },
+    {
+      "order_id": "ORD-OU26ABZZ",
+      "status": "delivered",
+      "total": 119.99,
+      "item_count": 1,
+      "created_at": "2025-12-21T11:12:55",
+      "item_preview": "Pure Base 500FX"
+    },
+    {
+      "order_id": "ORD-DWLY357Q",
+      "status": "shipped",
+      "total": 399.97,
+      "item_count": 2,
+      "created_at": "2025-12-14T01:04:22",
+      "item_preview": "Dark Base 700, Pure Base 500DX"
+    },
+    {
+      "order_id": "ORD-E6AHZ1BB",
+      "status": "delivered",
+      "total": 1139.94,
+      "item_count": 3,
+      "created_at": "2025-12-08T07:22:07",
+      "item_preview": "Dark Base Pro 901, System Power 10, ..."
+    },
+    {
+      "order_id": "ORD-L4MEH866",
+      "status": "delivered",
+      "total": 159.98,
+      "item_count": 1,
+      "created_at": "2025-12-07T18:32:06",
+      "item_preview": "System Power 10"
+    },
+    {
+      "order_id": "ORD-WF8OQ78T",
+      "status": "delivered",
+      "total": 219.98,
+      "item_count": 1,
+      "created_at": "2025-12-05T16:22:08",
+      "item_preview": "Pure Base 500DX"
+    },
+    {
+      "order_id": "ORD-HU3WQ212",
+      "status": "delivered",
+      "total": 379.96,
+      "item_count": 2,
+      "created_at": "2025-12-02T23:35:25",
+      "item_preview": "System Power 10, SFX L Power"
+    },
+    {
+      "order_id": "ORD-A1O5C84H",
+      "status": "delivered",
+      "total": 459.96,
+      "item_count": 2,
+      "created_at": "2025-11-26T03:39:06",
+      "item_preview": "Pure Power 12 M, Pure Base 500FX"
+    },
+    {
+      "order_id": "ORD-EVI3Q25T",
+      "status": "delivered",
+      "total": 109.99,
+      "item_count": 1,
+      "created_at": "2025-11-18T01:05:55",
+      "item_preview": "Pure Power 12 M"
+    },
+    {
+      "order_id": "ORD-U8Z2LHLT",
+      "status": "delivered",
+      "total": 139.98,
+      "item_count": 1,
+      "created_at": "2025-11-11T04:38:48",
+      "item_preview": "System Power 10"
+    },
+    {
+      "order_id": "ORD-ILL5KWB9",
+      "status": "shipped",
+      "total": 309.98,
+      "item_count": 2,
+      "created_at": "2025-11-05T13:38:58",
+      "item_preview": "SFX L Power, Straight Power 12"
+    },
+    {
+      "order_id": "ORD-DE9XGNP5",
+      "status": "shipped",
+      "total": 519.97,
+      "item_count": 2,
+      "created_at": "2025-11-05T08:25:03",
+      "item_preview": "Pure Base 500DX, Dark Base Pro 901"
+    },
+    {
+      "order_id": "ORD-OWR7M6VO",
+      "status": "delivered",
+      "total": 109.99,
+      "item_count": 1,
+      "created_at": "2025-11-04T06:45:19",
+      "item_preview": "Pure Base 500DX"
+    },
+    {
+      "order_id": "ORD-DHFKXOZ5",
+      "status": "delivered",
+      "total": 749.95,
+      "item_count": 3,
+      "created_at": "2025-10-23T02:45:52",
+      "item_preview": "Pure Power 12 M, Silent Base 802, ..."
+    },
+    {
+      "order_id": "ORD-YTJ28RRS",
+      "status": "delivered",
+      "total": 599.96,
+      "item_count": 2,
+      "created_at": "2025-10-18T00:47:32",
+      "item_preview": "Pure Base 500DX, Straight Power 12"
+    },
+    {
+      "order_id": "ORD-IQ1MUNZO",
+      "status": "pending",
+      "total": 259.98,
+      "item_count": 1,
+      "created_at": "2025-10-15T16:25:29",
+      "item_preview": "Pure Power 12 M"
+    },
+    {
+      "order_id": "ORD-5SUTEVEF",
+      "status": "pending",
+      "total": 1559.94,
+      "item_count": 3,
+      "created_at": "2025-10-14T07:31:56",
+      "item_preview": "Dark Power Pro 13, Pure Power 12 M, ..."
+    },
+    {
+      "order_id": "ORD-E9TTRCMN",
+      "status": "delivered",
+      "total": 359.98,
+      "item_count": 1,
+      "created_at": "2025-10-10T03:06:36",
+      "item_preview": "Dark Base 700"
+    },
+    {
+      "order_id": "ORD-USSP4BNM",
+      "status": "delivered",
+      "total": 459.98,
+      "item_count": 1,
+      "created_at": "2025-10-09T09:53:45",
+      "item_preview": "Straight Power 12"
+    },
+    {
+      "order_id": "ORD-U2YXDQ9K",
+      "status": "delivered",
+      "total": 1059.94,
+      "item_count": 3,
+      "created_at": "2025-10-03T20:33:42",
+      "item_preview": "SFX L Power, Pure Base 500DX, ..."
+    },
+    {
+      "order_id": "ORD-XKWUCGUW",
+      "status": "delivered",
+      "total": 369.99,
+      "item_count": 1,
+      "created_at": "2025-10-01T03:11:53",
+      "item_preview": "Dark Power Pro 13"
+    }
+  ],
+  "categories": [
+    {
+      "id": "orders",
+      "name": "Orders",
+      "type": "orders",
+      "label": "orders",
+      "has_cost": true,
+      "summary": {
+        "total_count": 28,
+        "total_spent": 12239.22,
+        "first_date": "2025-10-01",
+        "last_date": "2026-01-12"
+      },
+      "items": [
+        {
+          "order_id": "ORD-FAZJJCV5",
+          "status": "shipped",
+          "total": 469.97,
+          "item_count": 2,
+          "created_at": "2026-01-12T05:09:26",
+          "item_preview": "Pure Base 500, Silent Base 802"
+        },
+        {
+          "order_id": "ORD-NDGE0H1T",
+          "status": "delivered",
+          "total": 189.99,
+          "item_count": 1,
+          "created_at": "2026-01-06T02:47:33",
+          "item_preview": "Silent Base 802"
+        },
+        {
+          "order_id": "ORD-5L3FXKX5",
+          "status": "delivered",
+          "total": 259.98,
+          "item_count": 1,
+          "created_at": "2026-01-03T02:38:15",
+          "item_preview": "Pure Power 12 M"
+        },
+        {
+          "order_id": "ORD-U0J0QZD7",
+          "status": "shipped",
+          "total": 229.99,
+          "item_count": 1,
+          "created_at": "2025-12-29T10:12:00",
+          "item_preview": "Straight Power 12"
+        },
+        {
+          "order_id": "ORD-G2XVWXBO",
+          "status": "delivered",
+          "total": 719.95,
+          "item_count": 3,
+          "created_at": "2025-12-29T06:59:00",
+          "item_preview": "Pure Base 500DX, Pure Base 500FX, ..."
+        },
+        {
+          "order_id": "ORD-UJPHZEZH",
+          "status": "delivered",
+          "total": 179.98,
+          "item_count": 1,
+          "created_at": "2025-12-26T05:58:37",
+          "item_preview": "Pure Base 500"
+        },
+        {
+          "order_id": "ORD-7KFTLAXX",
+          "status": "delivered",
+          "total": 259.98,
+          "item_count": 1,
+          "created_at": "2025-12-26T03:08:49",
+          "item_preview": "Pure Power 12 M"
+        },
+        {
+          "order_id": "ORD-XRSIYXNC",
+          "status": "shipped",
+          "total": 439.97,
+          "item_count": 2,
+          "created_at": "2025-12-22T05:58:52",
+          "item_preview": "System Power 10, Dark Base 700"
+        },
+        {
+          "order_id": "ORD-OU26ABZZ",
+          "status": "delivered",
+          "total": 119.99,
+          "item_count": 1,
+          "created_at": "2025-12-21T11:12:55",
+          "item_preview": "Pure Base 500FX"
+        },
+        {
+          "order_id": "ORD-DWLY357Q",
+          "status": "shipped",
+          "total": 399.97,
+          "item_count": 2,
+          "created_at": "2025-12-14T01:04:22",
+          "item_preview": "Dark Base 700, Pure Base 500DX"
+        },
+        {
+          "order_id": "ORD-E6AHZ1BB",
+          "status": "delivered",
+          "total": 1139.94,
+          "item_count": 3,
+          "created_at": "2025-12-08T07:22:07",
+          "item_preview": "Dark Base Pro 901, System Power 10, ..."
+        },
+        {
+          "order_id": "ORD-L4MEH866",
+          "status": "delivered",
+          "total": 159.98,
+          "item_count": 1,
+          "created_at": "2025-12-07T18:32:06",
+          "item_preview": "System Power 10"
+        },
+        {
+          "order_id": "ORD-WF8OQ78T",
+          "status": "delivered",
+          "total": 219.98,
+          "item_count": 1,
+          "created_at": "2025-12-05T16:22:08",
+          "item_preview": "Pure Base 500DX"
+        },
+        {
+          "order_id": "ORD-HU3WQ212",
+          "status": "delivered",
+          "total": 379.96,
+          "item_count": 2,
+          "created_at": "2025-12-02T23:35:25",
+          "item_preview": "System Power 10, SFX L Power"
+        },
+        {
+          "order_id": "ORD-A1O5C84H",
+          "status": "delivered",
+          "total": 459.96,
+          "item_count": 2,
+          "created_at": "2025-11-26T03:39:06",
+          "item_preview": "Pure Power 12 M, Pure Base 500FX"
+        },
+        {
+          "order_id": "ORD-EVI3Q25T",
+          "status": "delivered",
+          "total": 109.99,
+          "item_count": 1,
+          "created_at": "2025-11-18T01:05:55",
+          "item_preview": "Pure Power 12 M"
+        },
+        {
+          "order_id": "ORD-U8Z2LHLT",
+          "status": "delivered",
+          "total": 139.98,
+          "item_count": 1,
+          "created_at": "2025-11-11T04:38:48",
+          "item_preview": "System Power 10"
+        },
+        {
+          "order_id": "ORD-ILL5KWB9",
+          "status": "shipped",
+          "total": 309.98,
+          "item_count": 2,
+          "created_at": "2025-11-05T13:38:58",
+          "item_preview": "SFX L Power, Straight Power 12"
+        },
+        {
+          "order_id": "ORD-DE9XGNP5",
+          "status": "shipped",
+          "total": 519.97,
+          "item_count": 2,
+          "created_at": "2025-11-05T08:25:03",
+          "item_preview": "Pure Base 500DX, Dark Base Pro 901"
+        },
+        {
+          "order_id": "ORD-OWR7M6VO",
+          "status": "delivered",
+          "total": 109.99,
+          "item_count": 1,
+          "created_at": "2025-11-04T06:45:19",
+          "item_preview": "Pure Base 500DX"
+        },
+        {
+          "order_id": "ORD-DHFKXOZ5",
+          "status": "delivered",
+          "total": 749.95,
+          "item_count": 3,
+          "created_at": "2025-10-23T02:45:52",
+          "item_preview": "Pure Power 12 M, Silent Base 802, ..."
+        },
+        {
+          "order_id": "ORD-YTJ28RRS",
+          "status": "delivered",
+          "total": 599.96,
+          "item_count": 2,
+          "created_at": "2025-10-18T00:47:32",
+          "item_preview": "Pure Base 500DX, Straight Power 12"
+        },
+        {
+          "order_id": "ORD-IQ1MUNZO",
+          "status": "pending",
+          "total": 259.98,
+          "item_count": 1,
+          "created_at": "2025-10-15T16:25:29",
+          "item_preview": "Pure Power 12 M"
+        },
+        {
+          "order_id": "ORD-5SUTEVEF",
+          "status": "pending",
+          "total": 1559.94,
+          "item_count": 3,
+          "created_at": "2025-10-14T07:31:56",
+          "item_preview": "Dark Power Pro 13, Pure Power 12 M, ..."
+        },
+        {
+          "order_id": "ORD-E9TTRCMN",
+          "status": "delivered",
+          "total": 359.98,
+          "item_count": 1,
+          "created_at": "2025-10-10T03:06:36",
+          "item_preview": "Dark Base 700"
+        },
+        {
+          "order_id": "ORD-USSP4BNM",
+          "status": "delivered",
+          "total": 459.98,
+          "item_count": 1,
+          "created_at": "2025-10-09T09:53:45",
+          "item_preview": "Straight Power 12"
+        },
+        {
+          "order_id": "ORD-U2YXDQ9K",
+          "status": "delivered",
+          "total": 1059.94,
+          "item_count": 3,
+          "created_at": "2025-10-03T20:33:42",
+          "item_preview": "SFX L Power, Pure Base 500DX, ..."
+        },
+        {
+          "order_id": "ORD-XKWUCGUW",
+          "status": "delivered",
+          "total": 369.99,
+          "item_count": 1,
+          "created_at": "2025-10-01T03:11:53",
+          "item_preview": "Dark Power Pro 13"
+        }
+      ]
+    }
+  ]
+}

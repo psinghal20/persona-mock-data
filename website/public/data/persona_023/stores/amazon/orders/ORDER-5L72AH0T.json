@@ -1,0 +1,30 @@
+{
+  "order_id": "ORDER-5L72AH0T",
+  "persona_id": "persona_023",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2026-01-27T02:47:07",
+  "shipped_at": "2026-01-28T02:47:07",
+  "delivered_at": "2026-02-02T02:47:07",
+  "shipping_address": "777 East Side Ave, Cleveland, OH 44114",
+  "items": [
+    {
+      "product_id": "B0PCPT0217",
+      "name": "ASRock B550 Phantom Gaming-ITX/ax Motherboard",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 183.6,
+      "subtotal": 183.6
+    },
+    {
+      "product_id": "B0C7GHW78L",
+      "name": "Arlo Pro 4 Spotlight Camera (3 pack)",
+      "category": "Electronics",
+      "quantity": 2,
+      "price": 549.99,
+      "subtotal": 1099.98
+    }
+  ],
+  "total": 1283.58,
+  "currency": "USD"
+}

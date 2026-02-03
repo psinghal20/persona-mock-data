@@ -1,0 +1,174 @@
+{
+  "order_id": "GRC000250",
+  "persona_id": "persona_010",
+  "store_id": "grocery",
+  "status": "shipped",
+  "created_at": "2025-11-08T05:41:33",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "321 French Quarter Ave, New Orleans, LA 70116",
+  "items": [
+    {
+      "product_id": "prod_937",
+      "name": "Golden Harvest Organic Baby Formula",
+      "category": "Baby",
+      "quantity": 2,
+      "price": 39.42,
+      "subtotal": 78.84
+    },
+    {
+      "product_id": "prod_501",
+      "name": "Simply Good Organic Dinner Rolls",
+      "category": "Bakery",
+      "quantity": 2,
+      "price": 5.65,
+      "subtotal": 11.3
+    },
+    {
+      "product_id": "GRO-1731",
+      "name": "Organic Valley Plantain Green",
+      "category": "Produce",
+      "quantity": 5,
+      "price": 6.96,
+      "subtotal": 34.8
+    },
+    {
+      "product_id": "prod_577",
+      "name": "Fresh Farms Organic Frozen Waffles",
+      "category": "Frozen",
+      "quantity": 5,
+      "price": 4.73,
+      "subtotal": 23.65
+    },
+    {
+      "product_id": "prod_179",
+      "name": "Organic Choice Butter",
+      "category": "Dairy",
+      "quantity": 5,
+      "price": 4.49,
+      "subtotal": 22.45
+    },
+    {
+      "product_id": "prod_469",
+      "name": "Organic Choice Canned Mandarin Oranges",
+      "category": "Pantry",
+      "quantity": 5,
+      "price": 3.38,
+      "subtotal": 16.9
+    },
+    {
+      "product_id": "prod_616",
+      "name": "Fresh Farms Organic Bottled Water",
+      "category": "Beverages",
+      "quantity": 1,
+      "price": 1.78,
+      "subtotal": 1.78
+    },
+    {
+      "product_id": "prod_746",
+      "name": "Fresh Farms Cheese Dip",
+      "category": "Snacks",
+      "quantity": 2,
+      "price": 6.62,
+      "subtotal": 13.24
+    },
+    {
+      "product_id": "prod_089",
+      "name": "Fresh Farms Papaya",
+      "category": "Produce",
+      "quantity": 2,
+      "price": 10.08,
+      "subtotal": 20.16
+    },
+    {
+      "product_id": "prod_653",
+      "name": "Fresh Farms Instant Coffee",
+      "category": "Beverages",
+      "quantity": 2,
+      "price": 9.52,
+      "subtotal": 19.04
+    },
+    {
+      "product_id": "prod_239",
+      "name": "Mountain Fresh Organic Filet Mignon",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 120.39,
+      "subtotal": 120.39
+    },
+    {
+      "product_id": "prod_274",
+      "name": "Meadow Gold Organic Whole Chicken",
+      "category": "Meat & Seafood",
+      "quantity": 5,
+      "price": 3.03,
+      "subtotal": 15.15
+    },
+    {
+      "product_id": "GRO-1631",
+      "name": "Organic Valley Bacon Avocado",
+      "category": "Produce",
+      "quantity": 1,
+      "price": 5.36,
+      "subtotal": 5.36
+    },
+    {
+      "product_id": "prod_324",
+      "name": "Mountain Fresh Penne Pasta",
+      "category": "Pantry",
+      "quantity": 1,
+      "price": 1.81,
+      "subtotal": 1.81
+    },
+    {
+      "product_id": "prod_633",
+      "name": "Fresh Farms Organic Green Tea",
+      "category": "Beverages",
+      "quantity": 3,
+      "price": 5.12,
+      "subtotal": 15.36
+    },
+    {
+      "product_id": "prod_558",
+      "name": "Classic Kitchen Organic Frozen Shrimp",
+      "category": "Frozen",
+      "quantity": 2,
+      "price": 21.31,
+      "subtotal": 42.62
+    },
+    {
+      "product_id": "prod_803",
+      "name": "Pure & Simple Organic Salt",
+      "category": "Condiments & Spices",
+      "quantity": 3,
+      "price": 2.02,
+      "subtotal": 6.06
+    },
+    {
+      "product_id": "prod_527",
+      "name": "Heritage Foods Organic Apple Pie",
+      "category": "Bakery",
+      "quantity": 5,
+      "price": 12.77,
+      "subtotal": 63.85
+    },
+    {
+      "product_id": "prod_762",
+      "name": "Mountain Fresh Cereal Corn Flakes",
+      "category": "Breakfast",
+      "quantity": 2,
+      "price": 4.09,
+      "subtotal": 8.18
+    },
+    {
+      "product_id": "prod_689",
+      "name": "Organic Choice Smoothie",
+      "category": "Beverages",
+      "quantity": 4,
+      "price": 6.64,
+      "subtotal": 26.56
+    }
+  ],
+  "total": 547.5,
+  "currency": "USD"
+}

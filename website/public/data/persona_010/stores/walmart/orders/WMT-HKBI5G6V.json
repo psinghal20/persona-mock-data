@@ -1,0 +1,54 @@
+{
+  "order_id": "WMT-HKBI5G6V",
+  "persona_id": "persona_010",
+  "store_id": "walmart",
+  "status": "delivered",
+  "created_at": "2025-11-27T08:35:14",
+  "shipped_at": "2025-11-29T08:35:14",
+  "delivered_at": "2025-12-04T08:35:14",
+  "shipping_address": "321 French Quarter Ave, New Orleans, LA 70116",
+  "items": [
+    {
+      "product_id": "WMT00000337",
+      "name": "Home Style Basil Dried",
+      "category": "Grocery",
+      "quantity": 3,
+      "price": 4.12,
+      "subtotal": 12.36
+    },
+    {
+      "product_id": "WMT00000043",
+      "name": "Golden Harvest Organic Onions",
+      "category": "Grocery",
+      "quantity": 3,
+      "price": 1.22,
+      "subtotal": 3.66
+    },
+    {
+      "product_id": "WMT00000044",
+      "name": "Premium Select Onions",
+      "category": "Grocery",
+      "quantity": 3,
+      "price": 0.94,
+      "subtotal": 2.82
+    },
+    {
+      "product_id": "WMT00000569",
+      "name": "Good Foods Frank's Red Hot",
+      "category": "Grocery",
+      "quantity": 1,
+      "price": 7.8,
+      "subtotal": 7.8
+    },
+    {
+      "product_id": "WMT00000602",
+      "name": "House Foods Garam Masala",
+      "category": "Grocery",
+      "quantity": 1,
+      "price": 4.94,
+      "subtotal": 4.94
+    }
+  ],
+  "total": 31.58,
+  "currency": "USD"
+}

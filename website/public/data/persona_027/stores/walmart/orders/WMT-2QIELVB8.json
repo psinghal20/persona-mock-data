@@ -1,0 +1,54 @@
+{
+  "order_id": "WMT-2QIELVB8",
+  "persona_id": "persona_027",
+  "store_id": "walmart",
+  "status": "delivered",
+  "created_at": "2025-11-16T11:07:25",
+  "shipped_at": "2025-11-17T11:07:25",
+  "delivered_at": "2025-11-20T11:07:25",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "items": [
+    {
+      "product_id": "WMT00003014",
+      "name": "Eufy Clean X9 Pro Robot Vacuum Mop",
+      "category": "Home Appliances",
+      "quantity": 1,
+      "price": 1049.8,
+      "subtotal": 1049.8
+    },
+    {
+      "product_id": "WMT00000081",
+      "name": "Home Style Parmesan",
+      "category": "Grocery",
+      "quantity": 1,
+      "price": 7.32,
+      "subtotal": 7.32
+    },
+    {
+      "product_id": "WMT00001998",
+      "name": "Petzl Petzl Corax Harness",
+      "category": "Sports",
+      "quantity": 2,
+      "price": 71.53,
+      "subtotal": 143.06
+    },
+    {
+      "product_id": "WMT00001963",
+      "name": "WOD Nation Jump Rope Speed",
+      "category": "Sports",
+      "quantity": 1,
+      "price": 19.01,
+      "subtotal": 19.01
+    },
+    {
+      "product_id": "WMT00000048",
+      "name": "Home Style Sweet Potatoes",
+      "category": "Grocery",
+      "quantity": 1,
+      "price": 1.73,
+      "subtotal": 1.73
+    }
+  ],
+  "total": 1220.92,
+  "currency": "USD"
+}

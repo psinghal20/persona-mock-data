@@ -1,0 +1,78 @@
+{
+  "order_id": "GRC000037",
+  "persona_id": "persona_031",
+  "store_id": "grocery",
+  "status": "delivered",
+  "created_at": "2025-10-28T04:09:58",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "999 Suburban Lane, Phoenix, AZ 85001",
+  "items": [
+    {
+      "product_id": "GRO-2167",
+      "name": "Planters Peanuts Dry Roasted",
+      "category": "Snacks",
+      "quantity": 2,
+      "price": 9.79,
+      "subtotal": 19.58
+    },
+    {
+      "product_id": "prod_202",
+      "name": "Organic Choice Feta Cheese",
+      "category": "Dairy",
+      "quantity": 2,
+      "price": 7.09,
+      "subtotal": 14.18
+    },
+    {
+      "product_id": "prod_900",
+      "name": "Organic Choice Fabric Softener",
+      "category": "Household",
+      "quantity": 2,
+      "price": 9.82,
+      "subtotal": 19.64
+    },
+    {
+      "product_id": "prod_297",
+      "name": "Organic Choice Mussels",
+      "category": "Meat & Seafood",
+      "quantity": 5,
+      "price": 9.08,
+      "subtotal": 45.4
+    },
+    {
+      "product_id": "prod_711",
+      "name": "Country Best Organic Mixed Nuts",
+      "category": "Snacks",
+      "quantity": 4,
+      "price": 12.56,
+      "subtotal": 50.24
+    },
+    {
+      "product_id": "GRO-2153",
+      "name": "Doritos Cheetos Crunchy",
+      "category": "Snacks",
+      "quantity": 1,
+      "price": 5.5,
+      "subtotal": 5.5
+    },
+    {
+      "product_id": "prod_392",
+      "name": "Farm Fresh BBQ Sauce",
+      "category": "Pantry",
+      "quantity": 2,
+      "price": 4.8,
+      "subtotal": 9.6
+    },
+    {
+      "product_id": "GRO-1754",
+      "name": "Kraft Organic Whole Milk",
+      "category": "Dairy",
+      "quantity": 5,
+      "price": 10.85,
+      "subtotal": 54.25
+    }
+  ],
+  "total": 218.39,
+  "currency": "USD"
+}

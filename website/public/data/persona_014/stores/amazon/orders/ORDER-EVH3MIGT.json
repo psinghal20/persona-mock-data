@@ -1,0 +1,38 @@
+{
+  "order_id": "ORDER-EVH3MIGT",
+  "persona_id": "persona_014",
+  "store_id": "amazon",
+  "status": "shipped",
+  "created_at": "2025-12-25T22:41:18",
+  "shipped_at": "2025-12-26T22:41:18",
+  "delivered_at": "",
+  "shipping_address": "888 Design District Ln, San Francisco, CA 94102",
+  "items": [
+    {
+      "product_id": "B0AMZN1992",
+      "name": "Silhouette Cameo 5",
+      "category": "Arts Crafts & Sewing",
+      "quantity": 1,
+      "price": 299.99,
+      "subtotal": 299.99
+    },
+    {
+      "product_id": "B09JQMJHXY",
+      "name": "Sony A7 IV Mirrorless Camera",
+      "category": "Electronics",
+      "quantity": 2,
+      "price": 2498.0,
+      "subtotal": 4996.0
+    },
+    {
+      "product_id": "B0B8GK168K",
+      "name": "Tombow Dual Brush Pen Set 96 Colors",
+      "category": "Arts Crafts",
+      "quantity": 1,
+      "price": 169.99,
+      "subtotal": 169.99
+    }
+  ],
+  "total": 5465.98,
+  "currency": "USD"
+}

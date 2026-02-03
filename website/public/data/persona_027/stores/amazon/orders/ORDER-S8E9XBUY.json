@@ -1,0 +1,22 @@
+{
+  "order_id": "ORDER-S8E9XBUY",
+  "persona_id": "persona_027",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-10-20T19:53:26",
+  "shipped_at": "2025-10-23T19:53:26",
+  "delivered_at": "2025-10-25T19:53:26",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "items": [
+    {
+      "product_id": "B0BOOK0212",
+      "name": "One Hundred Years of Solitude by Gabriel Garcia Marquez",
+      "category": "Books",
+      "quantity": 2,
+      "price": 19.85,
+      "subtotal": 39.7
+    }
+  ],
+  "total": 39.7,
+  "currency": "USD"
+}

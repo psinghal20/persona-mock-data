@@ -1,0 +1,26 @@
+{
+  "order_id": "TOUR-11",
+  "persona_id": "persona_027",
+  "store_id": "zillow",
+  "type": "tour",
+  "status": "scheduled",
+  "scheduled_time": "2025-10-19T16:00:00",
+  "notes": "Checking the neighborhood",
+  "items": [
+    {
+      "product_id": "6975",
+      "name": "2961 Meadow Way",
+      "address": "2961 Meadow Way",
+      "city": "",
+      "price": 846413.0,
+      "bedrooms": "",
+      "bathrooms": "",
+      "sqft": "",
+      "home_type": "",
+      "quantity": 1,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

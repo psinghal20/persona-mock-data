@@ -1,0 +1,22 @@
+{
+  "order_id": "ORDER-LD2B54TI",
+  "persona_id": "persona_002",
+  "store_id": "amazon",
+  "status": "cancelled",
+  "created_at": "2026-01-10T09:15:23",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "456 Tech Park Drive, San Jose, CA 95110",
+  "items": [
+    {
+      "product_id": "B0AMZN1787",
+      "name": "HHKB Professional Hybrid",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 295.0,
+      "subtotal": 295.0
+    }
+  ],
+  "total": 295.0,
+  "currency": "USD"
+}

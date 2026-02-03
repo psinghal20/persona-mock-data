@@ -1,0 +1,30 @@
+{
+  "order_id": "ORDER-L4T9B0J2",
+  "persona_id": "persona_016",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-10-12T14:05:08",
+  "shipped_at": "2025-10-15T14:05:08",
+  "delivered_at": "2025-10-18T14:05:08",
+  "shipping_address": "222 Tech Campus Way, Austin, TX 78701",
+  "items": [
+    {
+      "product_id": "B0AMZN1757",
+      "name": "Five Star Spiral Notebook 3-Subject",
+      "category": "Office Products",
+      "quantity": 3,
+      "price": 8.99,
+      "subtotal": 26.97
+    },
+    {
+      "product_id": "B0AMZN1790",
+      "name": "Logitech G Pro X Superlight",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 159.99,
+      "subtotal": 159.99
+    }
+  ],
+  "total": 186.96,
+  "currency": "USD"
+}

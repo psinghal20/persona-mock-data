@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-4",
+  "persona_id": "persona_022",
+  "store_id": "pet_store",
+  "status": "completed",
+  "created_at": "2025-10-08T22:33:51",
+  "items": [
+    {
+      "product_id": "CAT049",
+      "name": "Tidy Cats Breeze System Starter Kit",
+      "category": "Health",
+      "quantity": 1,
+      "price": 39.99,
+      "subtotal": 39.99
+    }
+  ],
+  "total": 39.99,
+  "currency": "USD"
+}

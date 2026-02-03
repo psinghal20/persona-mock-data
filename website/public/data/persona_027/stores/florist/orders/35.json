@@ -1,0 +1,32 @@
+{
+  "order_id": "35",
+  "persona_id": "persona_027",
+  "store_id": "florist",
+  "status": "delivered",
+  "created_at": "2025-11-27T04:58:10",
+  "shipped_at": "",
+  "delivered_at": "2025-11-30",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "recipient_name": "Wife",
+  "card_message": "Just because I love you!",
+  "items": [
+    {
+      "product_id": "5",
+      "name": "Garden Party Bouquet",
+      "category": "Mixed Flowers",
+      "quantity": 1,
+      "price": 54.99,
+      "subtotal": 54.99
+    },
+    {
+      "product_id": "56",
+      "name": "Wine - Pinot Noir",
+      "category": "Add-on",
+      "quantity": 1,
+      "price": 32.99,
+      "subtotal": 32.99
+    }
+  ],
+  "total": 87.98,
+  "currency": "USD"
+}

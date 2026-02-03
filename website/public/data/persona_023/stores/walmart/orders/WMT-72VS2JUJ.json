@@ -1,0 +1,30 @@
+{
+  "order_id": "WMT-72VS2JUJ",
+  "persona_id": "persona_023",
+  "store_id": "walmart",
+  "status": "shipped",
+  "created_at": "2025-12-25T23:19:16",
+  "shipped_at": "2025-12-27T23:19:16",
+  "delivered_at": "",
+  "shipping_address": "777 East Side Ave, Cleveland, OH 44114",
+  "items": [
+    {
+      "product_id": "WMT00000884",
+      "name": "Kellogg's Trail Mix Energy",
+      "category": "Grocery",
+      "quantity": 1,
+      "price": 10.37,
+      "subtotal": 10.37
+    },
+    {
+      "product_id": "WMT00000951",
+      "name": "Microsoft Microsoft Surface Laptop Studio 2",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 1834.12,
+      "subtotal": 1834.12
+    }
+  ],
+  "total": 1844.49,
+  "currency": "USD"
+}

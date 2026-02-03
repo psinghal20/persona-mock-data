@@ -1,0 +1,24 @@
+{
+  "order_id": "42",
+  "persona_id": "persona_027",
+  "store_id": "florist",
+  "status": "delivered",
+  "created_at": "2025-11-10T22:48:25",
+  "shipped_at": "",
+  "delivered_at": "2025-11-15",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "recipient_name": "Friend",
+  "card_message": "Happy Anniversary!",
+  "items": [
+    {
+      "product_id": "77",
+      "name": "Wedding Classic Centerpiece",
+      "category": "Centerpieces",
+      "quantity": 1,
+      "price": 129.99,
+      "subtotal": 129.99
+    }
+  ],
+  "total": 139.98,
+  "currency": "USD"
+}

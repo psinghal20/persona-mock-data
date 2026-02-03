@@ -1,0 +1,30 @@
+{
+  "order_id": "ORDER-MJ463F8X",
+  "persona_id": "persona_022",
+  "store_id": "amazon",
+  "status": "pending",
+  "created_at": "2025-12-31T16:11:45",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "444 Polish Hill St, Philadelphia, PA 19123",
+  "items": [
+    {
+      "product_id": "B0BOOK0129",
+      "name": "Educated by Tara Westover",
+      "category": "Books",
+      "quantity": 1,
+      "price": 19.55,
+      "subtotal": 19.55
+    },
+    {
+      "product_id": "B0PETS0220",
+      "name": "Catit Catit Creamy Treats",
+      "category": "Pet Supplies",
+      "quantity": 1,
+      "price": 9.59,
+      "subtotal": 9.59
+    }
+  ],
+  "total": 29.14,
+  "currency": "USD"
+}

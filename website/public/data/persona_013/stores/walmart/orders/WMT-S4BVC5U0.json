@@ -1,0 +1,30 @@
+{
+  "order_id": "WMT-S4BVC5U0",
+  "persona_id": "persona_013",
+  "store_id": "walmart",
+  "status": "cancelled",
+  "created_at": "2025-11-09T04:18:03",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "555 Community Center Rd, Houston, TX 77001",
+  "items": [
+    {
+      "product_id": "WMT00001966",
+      "name": "MSR Tent: Hubba Hubba NX 2",
+      "category": "Sports",
+      "quantity": 1,
+      "price": 489.88,
+      "subtotal": 489.88
+    },
+    {
+      "product_id": "WMT00001074",
+      "name": "Shokz Shokz OpenRun Pro",
+      "category": "Electronics",
+      "quantity": 3,
+      "price": 185.61,
+      "subtotal": 556.83
+    }
+  ],
+  "total": 1046.71,
+  "currency": "USD"
+}

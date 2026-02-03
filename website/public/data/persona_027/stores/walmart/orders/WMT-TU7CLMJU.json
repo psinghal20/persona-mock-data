@@ -1,0 +1,46 @@
+{
+  "order_id": "WMT-TU7CLMJU",
+  "persona_id": "persona_027",
+  "store_id": "walmart",
+  "status": "shipped",
+  "created_at": "2025-10-18T01:21:48",
+  "shipped_at": "2025-10-21T01:21:48",
+  "delivered_at": "",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "items": [
+    {
+      "product_id": "WMT00001337",
+      "name": "Franklin Franklin Sports Baseball Set",
+      "category": "Toys",
+      "quantity": 2,
+      "price": 22.82,
+      "subtotal": 45.64
+    },
+    {
+      "product_id": "WMT00002042",
+      "name": "K2 K2 Alexis 84 Boa Skates",
+      "category": "Sports",
+      "quantity": 2,
+      "price": 190.46,
+      "subtotal": 380.92
+    },
+    {
+      "product_id": "WMT00001904",
+      "name": "Titleist Titleist Players 4 StaDry Stand Bag",
+      "category": "Sports",
+      "quantity": 3,
+      "price": 278.64,
+      "subtotal": 835.92
+    },
+    {
+      "product_id": "WMT00000081",
+      "name": "Home Style Parmesan",
+      "category": "Grocery",
+      "quantity": 1,
+      "price": 7.32,
+      "subtotal": 7.32
+    }
+  ],
+  "total": 1269.8,
+  "currency": "USD"
+}

@@ -1,0 +1,38 @@
+{
+  "order_id": "ORDER-4V9NQINU",
+  "persona_id": "persona_002",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-12-15T15:12:32",
+  "shipped_at": "2025-12-16T15:12:32",
+  "delivered_at": "2025-12-21T15:12:32",
+  "shipping_address": "456 Tech Park Drive, San Jose, CA 95110",
+  "items": [
+    {
+      "product_id": "B0ELEC0133",
+      "name": "Samsung Samsung 45W USB-C Charger",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 57.22,
+      "subtotal": 57.22
+    },
+    {
+      "product_id": "B0BOOK0061",
+      "name": "Structure and Interpretation of Computer Programs by Harold Abelson",
+      "category": "Books",
+      "quantity": 2,
+      "price": 52.82,
+      "subtotal": 105.64
+    },
+    {
+      "product_id": "B0AMZN1358",
+      "name": "CalDigit TS4 Thunderbolt 4 Dock",
+      "category": "Electronics",
+      "quantity": 2,
+      "price": 399.99,
+      "subtotal": 799.98
+    }
+  ],
+  "total": 962.84,
+  "currency": "USD"
+}

@@ -1,0 +1,38 @@
+{
+  "order_id": "ORDER-YW5FV3GN",
+  "persona_id": "persona_002",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2026-01-18T22:11:01",
+  "shipped_at": "2026-01-21T22:11:01",
+  "delivered_at": "2026-01-23T22:11:01",
+  "shipping_address": "456 Tech Park Drive, San Jose, CA 95110",
+  "items": [
+    {
+      "product_id": "B0PCPT0224",
+      "name": "ASUS ROG Strix B550-F Gaming WiFi II Motherboard",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 201.63,
+      "subtotal": 201.63
+    },
+    {
+      "product_id": "B0ELEC0004",
+      "name": "Eizo Eizo ColorEdge CG2700S",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 2570.3,
+      "subtotal": 2570.3
+    },
+    {
+      "product_id": "B0AMZN1585",
+      "name": "AmazonBasics 8-Slot Battery Charger",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 19.99,
+      "subtotal": 19.99
+    }
+  ],
+  "total": 2791.92,
+  "currency": "USD"
+}

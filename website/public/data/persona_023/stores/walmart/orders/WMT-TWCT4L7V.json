@@ -1,0 +1,30 @@
+{
+  "order_id": "WMT-TWCT4L7V",
+  "persona_id": "persona_023",
+  "store_id": "walmart",
+  "status": "delivered",
+  "created_at": "2025-10-16T09:53:36",
+  "shipped_at": "2025-10-17T09:53:36",
+  "delivered_at": "2025-10-19T09:53:36",
+  "shipping_address": "777 East Side Ave, Cleveland, OH 44114",
+  "items": [
+    {
+      "product_id": "WMT00001059",
+      "name": "Hisense Hisense 75\" U7K",
+      "category": "Electronics",
+      "quantity": 2,
+      "price": 1023.18,
+      "subtotal": 2046.36
+    },
+    {
+      "product_id": "WMT00001083",
+      "name": "Astro Astro A50 Gen 5",
+      "category": "Electronics",
+      "quantity": 3,
+      "price": 299.95,
+      "subtotal": 899.85
+    }
+  ],
+  "total": 2946.21,
+  "currency": "USD"
+}

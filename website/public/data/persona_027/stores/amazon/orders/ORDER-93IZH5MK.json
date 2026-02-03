@@ -1,0 +1,22 @@
+{
+  "order_id": "ORDER-93IZH5MK",
+  "persona_id": "persona_027",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-12-05T03:35:52",
+  "shipped_at": "2025-12-08T03:35:52",
+  "delivered_at": "2025-12-11T03:35:52",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "items": [
+    {
+      "product_id": "B0BDGHY67K",
+      "name": "Samsung HW-Q990C Soundbar",
+      "category": "Electronics",
+      "quantity": 3,
+      "price": 1497.99,
+      "subtotal": 4493.97
+    }
+  ],
+  "total": 4493.97,
+  "currency": "USD"
+}

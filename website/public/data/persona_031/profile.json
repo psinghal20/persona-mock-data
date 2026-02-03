@@ -1,0 +1,269 @@
+{
+  "id": "persona_031",
+  "name": "Jennifer Martinez",
+  "initials": "JM",
+  "demographics": {
+    "age_group": "mid-30s",
+    "gender": "female",
+    "ethnicity": "Mexican-American",
+    "marital_status": "married",
+    "family_role": "mother"
+  },
+  "professional": {
+    "profession": "stay-at-home mom",
+    "industry": "homemaker",
+    "experience_level": "experienced"
+  },
+  "location": {
+    "city": "Phoenix",
+    "region": "Arizona",
+    "country": "USA",
+    "address": "999 Suburban Lane, Phoenix, AZ 85001"
+  },
+  "personality_traits": [
+    "organized",
+    "patient",
+    "devoted",
+    "resourceful"
+  ],
+  "interests": [
+    "parenting",
+    "book club",
+    "meal planning",
+    "kids",
+    "family",
+    "mom",
+    "organization",
+    "crafts"
+  ],
+  "summary": "You are Jennifer Martinez, a stay-at-home mom living in suburban Phoenix, Arizona. You're a 34-year-old Mexican-American woman with three kids ages 4, 7, and 10. You left your marketing job five years ago when childcare costs exceeded your salary, and you've embraced full-time parenting. Your days revolve around school drop-offs, soccer practice, homework help, meal planning, and keeping the household running. You're organized, patient, and fiercely devoted to your children's wellbeing. You worry about screen time, your kids' education, and saving for their college. You squeeze in time for your book club, Target runs, and keeping up with family group chats. You're considering returning to part-time work once your youngest starts kindergarten.",
+  "stores": [
+    {
+      "id": "amazon",
+      "name": "Amazon",
+      "item_count": 76,
+      "total_spent": 14871.79,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 76,
+          "total_spent": 14871.79,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "toy_store",
+      "name": "Toy Store",
+      "item_count": 73,
+      "total_spent": 6354.32,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 50,
+          "total_spent": 6354.32,
+          "has_cost": true
+        },
+        {
+          "id": "wishlists",
+          "name": "Wishlists",
+          "type": "wishlists",
+          "item_count": 23,
+          "total_spent": 0,
+          "has_cost": false
+        }
+      ]
+    },
+    {
+      "id": "bakery",
+      "name": "Bakery",
+      "item_count": 73,
+      "total_spent": 1736.47,
+      "transaction_type": "purchases",
+      "transaction_label": "purchases",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "purchases",
+          "name": "Purchases",
+          "type": "purchases",
+          "item_count": 59,
+          "total_spent": 564.47,
+          "has_cost": true
+        },
+        {
+          "id": "preorders",
+          "name": "Custom Cake Preorders",
+          "type": "preorders",
+          "item_count": 14,
+          "total_spent": 1172.0,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "walmart",
+      "name": "Walmart",
+      "item_count": 54,
+      "total_spent": 42043.02,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 54,
+          "total_spent": 42043.02,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "pet_store",
+      "name": "Pet Store",
+      "item_count": 43,
+      "total_spent": 4454.31,
+      "transaction_type": "purchases",
+      "transaction_label": "purchases",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "purchases",
+          "name": "Purchases",
+          "type": "purchases",
+          "item_count": 36,
+          "total_spent": 4298.31,
+          "has_cost": true
+        },
+        {
+          "id": "grooming",
+          "name": "Grooming Appointments",
+          "type": "grooming",
+          "item_count": 4,
+          "total_spent": 156.0,
+          "has_cost": true
+        },
+        {
+          "id": "pets",
+          "name": "Pet Profiles",
+          "type": "pets",
+          "item_count": 3,
+          "total_spent": 0,
+          "has_cost": false
+        }
+      ]
+    },
+    {
+      "id": "fashion",
+      "name": "Fashion",
+      "item_count": 43,
+      "total_spent": 17374.53,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 43,
+          "total_spent": 17374.53,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "grocery",
+      "name": "Grocery",
+      "item_count": 42,
+      "total_spent": 8847.23,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 42,
+          "total_spent": 8847.23,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "movie_theater",
+      "name": "Movie Theater",
+      "item_count": 32,
+      "total_spent": 1579.77,
+      "transaction_type": "bookings",
+      "transaction_label": "bookings",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "bookings",
+          "name": "Bookings",
+          "type": "bookings",
+          "item_count": 32,
+          "total_spent": 1579.77,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "pharmacy",
+      "name": "Pharmacy",
+      "item_count": 29,
+      "total_spent": 776.46,
+      "transaction_type": "purchases",
+      "transaction_label": "purchases",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "purchases",
+          "name": "Purchases",
+          "type": "purchases",
+          "item_count": 29,
+          "total_spent": 776.46,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "sephora",
+      "name": "Sephora",
+      "item_count": 20,
+      "total_spent": 3978.05,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 20,
+          "total_spent": 3978.05,
+          "has_cost": true
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total_orders": 485,
+    "total_spent": 102015.95,
+    "stores_count": 10
+  }
+}

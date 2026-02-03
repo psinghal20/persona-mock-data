@@ -1,0 +1,38 @@
+{
+  "order_id": "ORDER-ITTHGT17",
+  "persona_id": "persona_027",
+  "store_id": "amazon",
+  "status": "cancelled",
+  "created_at": "2025-10-04T05:08:55",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "items": [
+    {
+      "product_id": "B0BCGHZ01L",
+      "name": "Yamaha YAS-209 Soundbar",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 349.95,
+      "subtotal": 349.95
+    },
+    {
+      "product_id": "B0BDGK413L",
+      "name": "Staedtler Triplus Fineliner (20 pack)",
+      "category": "Office Products",
+      "quantity": 2,
+      "price": 17.99,
+      "subtotal": 35.98
+    },
+    {
+      "product_id": "B0AMZN1887",
+      "name": "Tribit StormBox Micro 2",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 59.99,
+      "subtotal": 59.99
+    }
+  ],
+  "total": 445.92,
+  "currency": "USD"
+}

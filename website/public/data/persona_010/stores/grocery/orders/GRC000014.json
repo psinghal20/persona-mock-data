@@ -1,0 +1,110 @@
+{
+  "order_id": "GRC000014",
+  "persona_id": "persona_010",
+  "store_id": "grocery",
+  "status": "pending",
+  "created_at": "2025-12-06T03:34:44",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "321 French Quarter Ave, New Orleans, LA 70116",
+  "items": [
+    {
+      "product_id": "prod_784",
+      "name": "Farm Fresh Organic Steel Cut Oats",
+      "category": "Breakfast",
+      "quantity": 4,
+      "price": 8.44,
+      "subtotal": 33.76
+    },
+    {
+      "product_id": "prod_734",
+      "name": "Mountain Fresh Organic Beef Jerky",
+      "category": "Snacks",
+      "quantity": 1,
+      "price": 10.93,
+      "subtotal": 10.93
+    },
+    {
+      "product_id": "prod_639",
+      "name": "Farm Fresh Herbal Tea",
+      "category": "Beverages",
+      "quantity": 5,
+      "price": 3.54,
+      "subtotal": 17.7
+    },
+    {
+      "product_id": "prod_212",
+      "name": "Golden Harvest Organic Ricotta",
+      "category": "Dairy",
+      "quantity": 2,
+      "price": 7.4,
+      "subtotal": 14.8
+    },
+    {
+      "product_id": "GRO-1793",
+      "name": "Cabot Goat Cheese Crumbles",
+      "category": "Dairy",
+      "quantity": 1,
+      "price": 9.79,
+      "subtotal": 9.79
+    },
+    {
+      "product_id": "prod_910",
+      "name": "Farm Fresh Disinfecting Wipes",
+      "category": "Household",
+      "quantity": 1,
+      "price": 7.59,
+      "subtotal": 7.59
+    },
+    {
+      "product_id": "prod_236",
+      "name": "Country Best Organic Filet Mignon",
+      "category": "Meat & Seafood",
+      "quantity": 3,
+      "price": 93.64,
+      "subtotal": 280.92
+    },
+    {
+      "product_id": "prod_894",
+      "name": "Quality First Organic Dishwasher Pods",
+      "category": "Household",
+      "quantity": 3,
+      "price": 14.7,
+      "subtotal": 44.1
+    },
+    {
+      "product_id": "prod_103",
+      "name": "Sunrise Farms Organic Cucumber",
+      "category": "Produce",
+      "quantity": 2,
+      "price": 3.57,
+      "subtotal": 7.14
+    },
+    {
+      "product_id": "GRO-1726",
+      "name": "Driscoll's Fresh Coconut",
+      "category": "Produce",
+      "quantity": 1,
+      "price": 6.19,
+      "subtotal": 6.19
+    },
+    {
+      "product_id": "prod_512",
+      "name": "Quality First Organic Muffins",
+      "category": "Bakery",
+      "quantity": 4,
+      "price": 6.88,
+      "subtotal": 27.52
+    },
+    {
+      "product_id": "prod_347",
+      "name": "Market Fresh Oatmeal",
+      "category": "Pantry",
+      "quantity": 2,
+      "price": 4.6,
+      "subtotal": 9.2
+    }
+  ],
+  "total": 469.64,
+  "currency": "USD"
+}

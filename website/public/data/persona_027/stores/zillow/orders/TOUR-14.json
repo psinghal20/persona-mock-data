@@ -1,0 +1,26 @@
+{
+  "order_id": "TOUR-14",
+  "persona_id": "persona_027",
+  "store_id": "zillow",
+  "type": "tour",
+  "status": "cancelled",
+  "scheduled_time": "2025-11-22T13:00:00",
+  "notes": "Checking the neighborhood",
+  "items": [
+    {
+      "product_id": "6041",
+      "name": "8057 Garden Lane",
+      "address": "8057 Garden Lane",
+      "city": "",
+      "price": 876908.0,
+      "bedrooms": "",
+      "bathrooms": "",
+      "sqft": "",
+      "home_type": "",
+      "quantity": 1,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

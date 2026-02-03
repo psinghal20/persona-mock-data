@@ -1,0 +1,22 @@
+{
+  "order_id": "EL000037",
+  "persona_id": "persona_023",
+  "store_id": "electronics_store",
+  "status": "delivered",
+  "created_at": "2025-10-18T16:35:18",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "777 East Side Ave, Cleveland, OH 44114",
+  "items": [
+    {
+      "product_id": "MN020",
+      "name": "Samsung Smart Monitor M8",
+      "category": "Monitors",
+      "quantity": 1,
+      "price": 699.99,
+      "subtotal": 699.99
+    }
+  ],
+  "total": 699.99,
+  "currency": "USD"
+}

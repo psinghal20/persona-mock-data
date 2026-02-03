@@ -1,0 +1,22 @@
+{
+  "order_id": "EL000110",
+  "persona_id": "persona_002",
+  "store_id": "electronics_store",
+  "status": "delivered",
+  "created_at": "2025-11-07T17:33:19",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "456 Tech Park Drive, San Jose, CA 95110",
+  "items": [
+    {
+      "product_id": "TV003",
+      "name": "Sony 75\" Bravia XR 4K Smart TV",
+      "category": "TVs",
+      "quantity": 1,
+      "price": 1999.99,
+      "subtotal": 1999.99
+    }
+  ],
+  "total": 1999.99,
+  "currency": "USD"
+}

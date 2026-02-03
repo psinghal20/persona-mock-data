@@ -1,0 +1,32 @@
+{
+  "order_id": "49",
+  "persona_id": "persona_010",
+  "store_id": "florist",
+  "status": "delivered",
+  "created_at": "2025-11-29T00:50:57",
+  "shipped_at": "",
+  "delivered_at": "2025-12-05",
+  "shipping_address": "321 French Quarter Ave, New Orleans, LA 70116",
+  "recipient_name": "Sister",
+  "card_message": "Thank you!",
+  "items": [
+    {
+      "product_id": "98",
+      "name": "Elegant Calla Boutonniere",
+      "category": "Boutonnieres",
+      "quantity": 1,
+      "price": 18.99,
+      "subtotal": 18.99
+    },
+    {
+      "product_id": "48",
+      "name": "Number Balloons (0-9)",
+      "category": "Add-on",
+      "quantity": 1,
+      "price": 5.99,
+      "subtotal": 5.99
+    }
+  ],
+  "total": 34.97,
+  "currency": "USD"
+}

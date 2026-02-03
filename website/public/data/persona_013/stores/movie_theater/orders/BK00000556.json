@@ -1,0 +1,23 @@
+{
+  "order_id": "BK00000556",
+  "persona_id": "persona_013",
+  "store_id": "movie_theater",
+  "type": "booking",
+  "status": "confirmed",
+  "created_at": "2025-12-09T18:28:12",
+  "confirmation_code": "AMC-B7QPAG",
+  "items": [
+    {
+      "product_id": "MOV013",
+      "name": "Deadpool & Wolverine",
+      "showtime": "",
+      "theater": "",
+      "seats": "G10,G11",
+      "quantity": 2,
+      "price": 17.49,
+      "subtotal": 34.98
+    }
+  ],
+  "total": 34.98,
+  "currency": "USD"
+}

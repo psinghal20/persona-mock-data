@@ -1,0 +1,30 @@
+{
+  "order_id": "WMT-NHT91D4E",
+  "persona_id": "persona_010",
+  "store_id": "walmart",
+  "status": "delivered",
+  "created_at": "2025-10-16T12:28:55",
+  "shipped_at": "2025-10-17T12:28:55",
+  "delivered_at": "2025-10-20T12:28:55",
+  "shipping_address": "321 French Quarter Ave, New Orleans, LA 70116",
+  "items": [
+    {
+      "product_id": "WMT00000161",
+      "name": "Market Fresh Vegetable Oil",
+      "category": "Grocery",
+      "quantity": 3,
+      "price": 5.25,
+      "subtotal": 15.75
+    },
+    {
+      "product_id": "WMT00000645",
+      "name": "Wellness Grain Free Cat Food",
+      "category": "Grocery",
+      "quantity": 1,
+      "price": 26.55,
+      "subtotal": 26.55
+    }
+  ],
+  "total": 42.3,
+  "currency": "USD"
+}

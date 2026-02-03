@@ -1,0 +1,134 @@
+{
+  "order_id": "GRC000172",
+  "persona_id": "persona_016",
+  "store_id": "grocery",
+  "status": "shipped",
+  "created_at": "2025-10-11T09:58:10",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "222 Tech Campus Way, Austin, TX 78701",
+  "items": [
+    {
+      "product_id": "prod_629",
+      "name": "Golden Harvest Organic Lemonade",
+      "category": "Beverages",
+      "quantity": 3,
+      "price": 5.68,
+      "subtotal": 17.04
+    },
+    {
+      "product_id": "GRO-1826",
+      "name": "Butterball Porterhouse Steak",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 16.92,
+      "subtotal": 16.92
+    },
+    {
+      "product_id": "prod_234",
+      "name": "Daily Delight NY Strip Steak",
+      "category": "Meat & Seafood",
+      "quantity": 2,
+      "price": 13.84,
+      "subtotal": 27.68
+    },
+    {
+      "product_id": "prod_635",
+      "name": "Premium Select Green Tea",
+      "category": "Beverages",
+      "quantity": 1,
+      "price": 3.82,
+      "subtotal": 3.82
+    },
+    {
+      "product_id": "prod_901",
+      "name": "Country Best Organic Fabric Softener",
+      "category": "Household",
+      "quantity": 3,
+      "price": 12.23,
+      "subtotal": 36.69
+    },
+    {
+      "product_id": "GRO-1746",
+      "name": "Organic Valley Green Onion Bunch",
+      "category": "Produce",
+      "quantity": 4,
+      "price": 4.19,
+      "subtotal": 16.76
+    },
+    {
+      "product_id": "prod_809",
+      "name": "Premium Select Black Pepper",
+      "category": "Condiments & Spices",
+      "quantity": 2,
+      "price": 5.48,
+      "subtotal": 10.96
+    },
+    {
+      "product_id": "prod_765",
+      "name": "Green Valley Organic Cereal Frosted Flakes",
+      "category": "Breakfast",
+      "quantity": 1,
+      "price": 6.86,
+      "subtotal": 6.86
+    },
+    {
+      "product_id": "prod_864",
+      "name": "Sunrise Farms Balsamic Vinaigrette",
+      "category": "Condiments & Spices",
+      "quantity": 2,
+      "price": 5.24,
+      "subtotal": 10.48
+    },
+    {
+      "product_id": "prod_889",
+      "name": "Sunrise Farms Organic Dish Soap",
+      "category": "Household",
+      "quantity": 2,
+      "price": 5.75,
+      "subtotal": 11.5
+    },
+    {
+      "product_id": "prod_258",
+      "name": "Classic Kitchen Organic Ground Pork",
+      "category": "Meat & Seafood",
+      "quantity": 3,
+      "price": 6.5,
+      "subtotal": 19.5
+    },
+    {
+      "product_id": "prod_587",
+      "name": "Heritage Foods Organic Frozen Lasagna",
+      "category": "Frozen",
+      "quantity": 3,
+      "price": 14.65,
+      "subtotal": 43.95
+    },
+    {
+      "product_id": "prod_599",
+      "name": "Golden Harvest Organic Ice Cream Strawberry",
+      "category": "Frozen",
+      "quantity": 2,
+      "price": 8.57,
+      "subtotal": 17.14
+    },
+    {
+      "product_id": "GRO-1983",
+      "name": "Hunt's Honey Raw Organic",
+      "category": "Pantry",
+      "quantity": 2,
+      "price": 7.76,
+      "subtotal": 15.52
+    },
+    {
+      "product_id": "prod_948",
+      "name": "Country Best Baby Shampoo",
+      "category": "Baby",
+      "quantity": 1,
+      "price": 6.06,
+      "subtotal": 6.06
+    }
+  ],
+  "total": 260.88,
+  "currency": "USD"
+}

@@ -1,0 +1,26 @@
+{
+  "order_id": "TOUR-49",
+  "persona_id": "persona_014",
+  "store_id": "zillow",
+  "type": "tour",
+  "status": "completed",
+  "scheduled_time": "2025-10-17T9:00:00",
+  "notes": "Looking at kitchen updates",
+  "items": [
+    {
+      "product_id": "5372",
+      "name": "7932 Mountain Way",
+      "address": "7932 Mountain Way",
+      "city": "",
+      "price": 1190822.0,
+      "bedrooms": "",
+      "bathrooms": "",
+      "sqft": "",
+      "home_type": "",
+      "quantity": 1,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

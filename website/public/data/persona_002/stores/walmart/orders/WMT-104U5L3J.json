@@ -1,0 +1,38 @@
+{
+  "order_id": "WMT-104U5L3J",
+  "persona_id": "persona_002",
+  "store_id": "walmart",
+  "status": "shipped",
+  "created_at": "2025-12-09T13:49:09",
+  "shipped_at": "2025-12-11T13:49:09",
+  "delivered_at": "",
+  "shipping_address": "456 Tech Park Drive, San Jose, CA 95110",
+  "items": [
+    {
+      "product_id": "WMT00001019",
+      "name": "DJI DJI Mini 4 Pro",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 717.65,
+      "subtotal": 717.65
+    },
+    {
+      "product_id": "WMT00000975",
+      "name": "SimpliSafe SimpliSafe Home Security System",
+      "category": "Electronics",
+      "quantity": 2,
+      "price": 232.05,
+      "subtotal": 464.1
+    },
+    {
+      "product_id": "WMT00001041",
+      "name": "ASUS ASUS ROG Swift PG27AQDM",
+      "category": "Electronics",
+      "quantity": 4,
+      "price": 763.53,
+      "subtotal": 3054.12
+    }
+  ],
+  "total": 4235.87,
+  "currency": "USD"
+}

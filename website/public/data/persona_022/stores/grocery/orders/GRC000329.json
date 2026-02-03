@@ -1,0 +1,110 @@
+{
+  "order_id": "GRC000329",
+  "persona_id": "persona_022",
+  "store_id": "grocery",
+  "status": "pending",
+  "created_at": "2026-01-03T02:02:41",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "444 Polish Hill St, Philadelphia, PA 19123",
+  "items": [
+    {
+      "product_id": "GRO-1384",
+      "name": "Birch Benders Organic Granola",
+      "category": "Breakfast",
+      "quantity": 3,
+      "price": 7.48,
+      "subtotal": 22.44
+    },
+    {
+      "product_id": "prod_383",
+      "name": "Mountain Fresh Organic Apple Cider Vinegar",
+      "category": "Pantry",
+      "quantity": 5,
+      "price": 5.9,
+      "subtotal": 29.5
+    },
+    {
+      "product_id": "prod_124",
+      "name": "Sunrise Farms Organic Zucchini",
+      "category": "Produce",
+      "quantity": 3,
+      "price": 7.7,
+      "subtotal": 23.1
+    },
+    {
+      "product_id": "GRO-1731",
+      "name": "Organic Valley Plantain Green",
+      "category": "Produce",
+      "quantity": 4,
+      "price": 6.96,
+      "subtotal": 27.84
+    },
+    {
+      "product_id": "prod_836",
+      "name": "Organic Choice Thyme",
+      "category": "Condiments & Spices",
+      "quantity": 4,
+      "price": 3.91,
+      "subtotal": 15.64
+    },
+    {
+      "product_id": "prod_485",
+      "name": "Sunrise Farms Organic English Muffins",
+      "category": "Bakery",
+      "quantity": 3,
+      "price": 4.54,
+      "subtotal": 13.62
+    },
+    {
+      "product_id": "prod_028",
+      "name": "Premium Select Organic Apples",
+      "category": "Produce",
+      "quantity": 3,
+      "price": 6.35,
+      "subtotal": 19.05
+    },
+    {
+      "product_id": "prod_589",
+      "name": "Market Fresh Frozen Mac and Cheese",
+      "category": "Frozen",
+      "quantity": 2,
+      "price": 7.91,
+      "subtotal": 15.82
+    },
+    {
+      "product_id": "GRO-1700",
+      "name": "Organic Valley Wax Beans",
+      "category": "Produce",
+      "quantity": 5,
+      "price": 3.25,
+      "subtotal": 16.25
+    },
+    {
+      "product_id": "GRO-1642",
+      "name": "Organic Valley Green Bell Pepper",
+      "category": "Produce",
+      "quantity": 5,
+      "price": 1.98,
+      "subtotal": 9.9
+    },
+    {
+      "product_id": "prod_837",
+      "name": "Daily Delight Organic Thyme",
+      "category": "Condiments & Spices",
+      "quantity": 2,
+      "price": 5.53,
+      "subtotal": 11.06
+    },
+    {
+      "product_id": "prod_345",
+      "name": "Fresh Farms Quinoa",
+      "category": "Pantry",
+      "quantity": 4,
+      "price": 6.5,
+      "subtotal": 26.0
+    }
+  ],
+  "total": 230.22,
+  "currency": "USD"
+}

@@ -1,0 +1,257 @@
+{
+  "persona_id": "persona_027",
+  "store_id": "jewelry_store",
+  "store_name": "Jewelry Store",
+  "transaction_type": "orders",
+  "transaction_label": "orders",
+  "has_cost": true,
+  "summary": {
+    "total_count": 14,
+    "total_spent": 16799.83,
+    "first_date": "2025-10-10",
+    "last_date": "2026-01-23"
+  },
+  "items": [
+    {
+      "order_id": "JWL000020",
+      "status": "delivered",
+      "total": 1849.98,
+      "item_count": 2,
+      "created_at": "2026-01-23T23:38:08",
+      "item_preview": "Diamond Solitaire Pendant, Classic Gold Hoops Medium"
+    },
+    {
+      "order_id": "JWL000023",
+      "status": "pending",
+      "total": 99.99,
+      "item_count": 1,
+      "created_at": "2026-01-01T06:48:19",
+      "item_preview": "Cartilage Hoop Gold"
+    },
+    {
+      "order_id": "JWL000048",
+      "status": "delivered",
+      "total": 899.99,
+      "item_count": 1,
+      "created_at": "2025-12-19T19:12:59",
+      "item_preview": "Classic Gold Wedding Band"
+    },
+    {
+      "order_id": "JWL000021",
+      "status": "delivered",
+      "total": 1799.98,
+      "item_count": 2,
+      "created_at": "2025-12-07T00:32:14",
+      "item_preview": "Wide Gold Cuff, Plain Gold Huggies"
+    },
+    {
+      "order_id": "JWL000044",
+      "status": "delivered",
+      "total": 499.99,
+      "item_count": 1,
+      "created_at": "2025-12-04T07:39:43",
+      "item_preview": "Pearl Drop Earrings"
+    },
+    {
+      "order_id": "JWL000019",
+      "status": "cancelled",
+      "total": 799.99,
+      "item_count": 1,
+      "created_at": "2025-12-04T04:33:33",
+      "item_preview": "Link Chain Bracelet"
+    },
+    {
+      "order_id": "JWL000042",
+      "status": "delivered",
+      "total": 899.99,
+      "item_count": 1,
+      "created_at": "2025-11-29T15:38:36",
+      "item_preview": "Classic Gold Wedding Band"
+    },
+    {
+      "order_id": "JWL000046",
+      "status": "cancelled",
+      "total": 1199.99,
+      "item_count": 1,
+      "created_at": "2025-11-26T18:14:13",
+      "item_preview": "Diamond Stud Earrings 0.5ct"
+    },
+    {
+      "order_id": "JWL000045",
+      "status": "delivered",
+      "total": 799.99,
+      "item_count": 1,
+      "created_at": "2025-11-26T16:36:41",
+      "item_preview": "Milgrain Wedding Band"
+    },
+    {
+      "order_id": "JWL000018",
+      "status": "delivered",
+      "total": 349.99,
+      "item_count": 1,
+      "created_at": "2025-11-25T12:46:19",
+      "item_preview": "Classic Box Chain"
+    },
+    {
+      "order_id": "JWL000049",
+      "status": "delivered",
+      "total": 3999.98,
+      "item_count": 2,
+      "created_at": "2025-10-29T00:14:48",
+      "item_preview": "Diamond Solitaire Pendant, Pearl Strand Necklace"
+    },
+    {
+      "order_id": "JWL000022",
+      "status": "delivered",
+      "total": 1499.99,
+      "item_count": 1,
+      "created_at": "2025-10-27T16:05:55",
+      "item_preview": "Rose Gold Fashion Watch"
+    },
+    {
+      "order_id": "JWL000043",
+      "status": "pending",
+      "total": 1199.99,
+      "item_count": 1,
+      "created_at": "2025-10-25T17:24:26",
+      "item_preview": "Cuff Bracelet Gold"
+    },
+    {
+      "order_id": "JWL000047",
+      "status": "shipped",
+      "total": 899.99,
+      "item_count": 1,
+      "created_at": "2025-10-10T23:05:25",
+      "item_preview": "Classic Gold Wedding Band"
+    }
+  ],
+  "categories": [
+    {
+      "id": "orders",
+      "name": "Orders",
+      "type": "orders",
+      "label": "orders",
+      "has_cost": true,
+      "summary": {
+        "total_count": 14,
+        "total_spent": 16799.83,
+        "first_date": "2025-10-10",
+        "last_date": "2026-01-23"
+      },
+      "items": [
+        {
+          "order_id": "JWL000020",
+          "status": "delivered",
+          "total": 1849.98,
+          "item_count": 2,
+          "created_at": "2026-01-23T23:38:08",
+          "item_preview": "Diamond Solitaire Pendant, Classic Gold Hoops Medium"
+        },
+        {
+          "order_id": "JWL000023",
+          "status": "pending",
+          "total": 99.99,
+          "item_count": 1,
+          "created_at": "2026-01-01T06:48:19",
+          "item_preview": "Cartilage Hoop Gold"
+        },
+        {
+          "order_id": "JWL000048",
+          "status": "delivered",
+          "total": 899.99,
+          "item_count": 1,
+          "created_at": "2025-12-19T19:12:59",
+          "item_preview": "Classic Gold Wedding Band"
+        },
+        {
+          "order_id": "JWL000021",
+          "status": "delivered",
+          "total": 1799.98,
+          "item_count": 2,
+          "created_at": "2025-12-07T00:32:14",
+          "item_preview": "Wide Gold Cuff, Plain Gold Huggies"
+        },
+        {
+          "order_id": "JWL000044",
+          "status": "delivered",
+          "total": 499.99,
+          "item_count": 1,
+          "created_at": "2025-12-04T07:39:43",
+          "item_preview": "Pearl Drop Earrings"
+        },
+        {
+          "order_id": "JWL000019",
+          "status": "cancelled",
+          "total": 799.99,
+          "item_count": 1,
+          "created_at": "2025-12-04T04:33:33",
+          "item_preview": "Link Chain Bracelet"
+        },
+        {
+          "order_id": "JWL000042",
+          "status": "delivered",
+          "total": 899.99,
+          "item_count": 1,
+          "created_at": "2025-11-29T15:38:36",
+          "item_preview": "Classic Gold Wedding Band"
+        },
+        {
+          "order_id": "JWL000046",
+          "status": "cancelled",
+          "total": 1199.99,
+          "item_count": 1,
+          "created_at": "2025-11-26T18:14:13",
+          "item_preview": "Diamond Stud Earrings 0.5ct"
+        },
+        {
+          "order_id": "JWL000045",
+          "status": "delivered",
+          "total": 799.99,
+          "item_count": 1,
+          "created_at": "2025-11-26T16:36:41",
+          "item_preview": "Milgrain Wedding Band"
+        },
+        {
+          "order_id": "JWL000018",
+          "status": "delivered",
+          "total": 349.99,
+          "item_count": 1,
+          "created_at": "2025-11-25T12:46:19",
+          "item_preview": "Classic Box Chain"
+        },
+        {
+          "order_id": "JWL000049",
+          "status": "delivered",
+          "total": 3999.98,
+          "item_count": 2,
+          "created_at": "2025-10-29T00:14:48",
+          "item_preview": "Diamond Solitaire Pendant, Pearl Strand Necklace"
+        },
+        {
+          "order_id": "JWL000022",
+          "status": "delivered",
+          "total": 1499.99,
+          "item_count": 1,
+          "created_at": "2025-10-27T16:05:55",
+          "item_preview": "Rose Gold Fashion Watch"
+        },
+        {
+          "order_id": "JWL000043",
+          "status": "pending",
+          "total": 1199.99,
+          "item_count": 1,
+          "created_at": "2025-10-25T17:24:26",
+          "item_preview": "Cuff Bracelet Gold"
+        },
+        {
+          "order_id": "JWL000047",
+          "status": "shipped",
+          "total": 899.99,
+          "item_count": 1,
+          "created_at": "2025-10-10T23:05:25",
+          "item_preview": "Classic Gold Wedding Band"
+        }
+      ]
+    }
+  ]
+}

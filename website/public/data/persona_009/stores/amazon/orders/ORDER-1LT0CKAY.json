@@ -1,0 +1,30 @@
+{
+  "order_id": "ORDER-1LT0CKAY",
+  "persona_id": "persona_009",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2026-01-17T07:58:38",
+  "shipped_at": "2026-01-19T07:58:38",
+  "delivered_at": "2026-01-24T07:58:38",
+  "shipping_address": "789 Veterans Blvd, Tampa, FL 33602",
+  "items": [
+    {
+      "product_id": "B0BOOK0203",
+      "name": "Norwegian Wood by Haruki Murakami",
+      "category": "Books",
+      "quantity": 1,
+      "price": 15.08,
+      "subtotal": 15.08
+    },
+    {
+      "product_id": "B0PETS0197",
+      "name": "Oxbow Oxbow Garden Select Adult Rabbit",
+      "category": "Pet Supplies",
+      "quantity": 1,
+      "price": 19.73,
+      "subtotal": 19.73
+    }
+  ],
+  "total": 34.81,
+  "currency": "USD"
+}

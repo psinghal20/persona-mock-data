@@ -1,0 +1,30 @@
+{
+  "order_id": "ORDER-EHCUTWC0",
+  "persona_id": "persona_010",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-10-15T12:50:19",
+  "shipped_at": "2025-10-18T12:50:19",
+  "delivered_at": "2025-10-23T12:50:19",
+  "shipping_address": "321 French Quarter Ave, New Orleans, LA 70116",
+  "items": [
+    {
+      "product_id": "B0C7GHY78L",
+      "name": "Bose Smart Soundbar 900",
+      "category": "Electronics",
+      "quantity": 3,
+      "price": 899.0,
+      "subtotal": 2697.0
+    },
+    {
+      "product_id": "B0B6GI424K",
+      "name": "Fi Series 3 Smart Dog Collar",
+      "category": "Pet Supplies",
+      "quantity": 3,
+      "price": 149.0,
+      "subtotal": 447.0
+    }
+  ],
+  "total": 3144.0,
+  "currency": "USD"
+}

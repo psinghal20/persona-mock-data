@@ -1,0 +1,134 @@
+{
+  "order_id": "GRC000142",
+  "persona_id": "persona_016",
+  "store_id": "grocery",
+  "status": "delivered",
+  "created_at": "2025-12-20T21:40:41",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "222 Tech Campus Way, Austin, TX 78701",
+  "items": [
+    {
+      "product_id": "prod_832",
+      "name": "Home Style Basil Dried",
+      "category": "Condiments & Spices",
+      "quantity": 2,
+      "price": 4.47,
+      "subtotal": 8.94
+    },
+    {
+      "product_id": "GRO-1646",
+      "name": "Organic Valley Ghost Pepper",
+      "category": "Produce",
+      "quantity": 1,
+      "price": 3.03,
+      "subtotal": 3.03
+    },
+    {
+      "product_id": "prod_734",
+      "name": "Mountain Fresh Organic Beef Jerky",
+      "category": "Snacks",
+      "quantity": 3,
+      "price": 10.93,
+      "subtotal": 32.79
+    },
+    {
+      "product_id": "prod_005",
+      "name": "Organic Whole Milk",
+      "category": "Dairy",
+      "quantity": 2,
+      "price": 3.99,
+      "subtotal": 7.98
+    },
+    {
+      "product_id": "GRO-1911",
+      "name": "Del Monte Brown Rice",
+      "category": "Pantry",
+      "quantity": 2,
+      "price": 4.38,
+      "subtotal": 8.76
+    },
+    {
+      "product_id": "prod_150",
+      "name": "Simply Good Organic Eggplant",
+      "category": "Produce",
+      "quantity": 1,
+      "price": 9.4,
+      "subtotal": 9.4
+    },
+    {
+      "product_id": "prod_471",
+      "name": "Golden Harvest Organic Applesauce",
+      "category": "Pantry",
+      "quantity": 1,
+      "price": 5.49,
+      "subtotal": 5.49
+    },
+    {
+      "product_id": "GRO-1020",
+      "name": "Organic Valley Fresh Rosemary",
+      "category": "Produce",
+      "quantity": 1,
+      "price": 1.93,
+      "subtotal": 1.93
+    },
+    {
+      "product_id": "GRO-1746",
+      "name": "Organic Valley Green Onion Bunch",
+      "category": "Produce",
+      "quantity": 2,
+      "price": 4.19,
+      "subtotal": 8.38
+    },
+    {
+      "product_id": "prod_858",
+      "name": "Mountain Fresh Italian Dressing",
+      "category": "Condiments & Spices",
+      "quantity": 2,
+      "price": 4.75,
+      "subtotal": 9.5
+    },
+    {
+      "product_id": "prod_477",
+      "name": "Golden Harvest Organic Whole Wheat Bread",
+      "category": "Bakery",
+      "quantity": 4,
+      "price": 4.62,
+      "subtotal": 18.48
+    },
+    {
+      "product_id": "prod_776",
+      "name": "Market Fresh Cereal Rice Krispies",
+      "category": "Breakfast",
+      "quantity": 2,
+      "price": 5.17,
+      "subtotal": 10.34
+    },
+    {
+      "product_id": "prod_634",
+      "name": "Home Style Green Tea",
+      "category": "Beverages",
+      "quantity": 3,
+      "price": 3.94,
+      "subtotal": 11.82
+    },
+    {
+      "product_id": "prod_846",
+      "name": "Golden Harvest Italian Seasoning",
+      "category": "Condiments & Spices",
+      "quantity": 1,
+      "price": 5.49,
+      "subtotal": 5.49
+    },
+    {
+      "product_id": "prod_204",
+      "name": "Nature's Best Organic Brie",
+      "category": "Dairy",
+      "quantity": 4,
+      "price": 10.89,
+      "subtotal": 43.56
+    }
+  ],
+  "total": 185.89,
+  "currency": "USD"
+}

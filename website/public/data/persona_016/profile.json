@@ -1,0 +1,291 @@
+{
+  "id": "persona_016",
+  "name": "Priya Sharma",
+  "initials": "PS",
+  "demographics": {
+    "age_group": "young",
+    "gender": "female",
+    "ethnicity": "Indian-American",
+    "marital_status": "single",
+    "family_role": ""
+  },
+  "professional": {
+    "profession": "data analyst",
+    "industry": "technology",
+    "experience_level": "junior"
+  },
+  "location": {
+    "city": "Austin",
+    "region": "Texas",
+    "country": "USA",
+    "address": "222 Tech Campus Way, Austin, TX 78701"
+  },
+  "personality_traits": [
+    "curious",
+    "analytical",
+    "eager"
+  ],
+  "interests": [
+    "technology",
+    "data",
+    "analytics",
+    "yoga",
+    "Bollywood",
+    "Indian",
+    "food",
+    "wellness",
+    "meditation"
+  ],
+  "summary": "You are Priya Sharma, a junior data analyst at a tech company in Austin, Texas. You're a young, single Indian-American woman who recently graduated from UT Austin. Your parents run a motel in a small Texas town. You're curious, analytical, and hungry to learn and prove yourself in the tech world. You dream of becoming a data scientist and eventually getting an MBA. Outside work, you enjoy yoga, Bollywood movies with your mom, trying Austin's food scene, and attending tech meetups. You're actively seeking mentorship.",
+  "stores": [
+    {
+      "id": "amazon",
+      "name": "Amazon",
+      "item_count": 83,
+      "total_spent": 56744.81,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 83,
+          "total_spent": 56744.81,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "walmart",
+      "name": "Walmart",
+      "item_count": 66,
+      "total_spent": 38186.77,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 66,
+          "total_spent": 38186.77,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "grocery",
+      "name": "Grocery",
+      "item_count": 60,
+      "total_spent": 15205.52,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 60,
+          "total_spent": 15205.52,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "pharmacy",
+      "name": "Pharmacy",
+      "item_count": 43,
+      "total_spent": 1251.22,
+      "transaction_type": "purchases",
+      "transaction_label": "purchases",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "purchases",
+          "name": "Purchases",
+          "type": "purchases",
+          "item_count": 43,
+          "total_spent": 1251.22,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "electronics_store",
+      "name": "Electronics Store",
+      "item_count": 41,
+      "total_spent": 80027.25,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 41,
+          "total_spent": 80027.25,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "bookstore",
+      "name": "Bookstore",
+      "item_count": 40,
+      "total_spent": 1216.34,
+      "transaction_type": "purchases",
+      "transaction_label": "purchases",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "purchases",
+          "name": "Purchases",
+          "type": "purchases",
+          "item_count": 40,
+          "total_spent": 1216.34,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "fashion",
+      "name": "Fashion",
+      "item_count": 36,
+      "total_spent": 12349.91,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 36,
+          "total_spent": 12349.91,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "zillow",
+      "name": "Zillow",
+      "item_count": 30,
+      "total_spent": 0,
+      "transaction_type": "tours",
+      "transaction_label": "tours",
+      "has_cost": false,
+      "categories": [
+        {
+          "id": "tours",
+          "name": "Scheduled Tours",
+          "type": "tours",
+          "item_count": 11,
+          "total_spent": 0,
+          "has_cost": false
+        },
+        {
+          "id": "saved",
+          "name": "Saved Properties",
+          "type": "saved",
+          "item_count": 19,
+          "total_spent": 0,
+          "has_cost": false
+        }
+      ]
+    },
+    {
+      "id": "sephora",
+      "name": "Sephora",
+      "item_count": 27,
+      "total_spent": 3392.39,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 27,
+          "total_spent": 3392.39,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "sporting_goods",
+      "name": "Sporting Goods",
+      "item_count": 25,
+      "total_spent": 10031.55,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 25,
+          "total_spent": 10031.55,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "movie_theater",
+      "name": "Movie Theater",
+      "item_count": 24,
+      "total_spent": 1190.42,
+      "transaction_type": "bookings",
+      "transaction_label": "bookings",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "bookings",
+          "name": "Bookings",
+          "type": "bookings",
+          "item_count": 24,
+          "total_spent": 1190.42,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "coffee_roaster",
+      "name": "Coffee Roaster",
+      "item_count": 20,
+      "total_spent": 1489.97,
+      "transaction_type": "purchases",
+      "transaction_label": "purchases",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "purchases",
+          "name": "Purchases",
+          "type": "purchases",
+          "item_count": 17,
+          "total_spent": 1386.0,
+          "has_cost": true
+        },
+        {
+          "id": "subscriptions",
+          "name": "Subscriptions",
+          "type": "subscriptions",
+          "item_count": 3,
+          "total_spent": 103.97,
+          "has_cost": true
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total_orders": 495,
+    "total_spent": 221086.15,
+    "stores_count": 12
+  }
+}

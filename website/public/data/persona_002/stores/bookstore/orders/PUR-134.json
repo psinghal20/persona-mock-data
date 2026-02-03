@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-134",
+  "persona_id": "persona_002",
+  "store_id": "bookstore",
+  "status": "completed",
+  "created_at": "2026-01-14T00:05:53",
+  "items": [
+    {
+      "product_id": "307",
+      "name": "The Mythical Man-Month",
+      "category": "Technology",
+      "quantity": 1,
+      "price": 34.99,
+      "subtotal": 34.99
+    }
+  ],
+  "total": 34.99,
+  "currency": "USD"
+}

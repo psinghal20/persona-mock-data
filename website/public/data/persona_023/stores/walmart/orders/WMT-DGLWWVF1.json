@@ -1,0 +1,30 @@
+{
+  "order_id": "WMT-DGLWWVF1",
+  "persona_id": "persona_023",
+  "store_id": "walmart",
+  "status": "delivered",
+  "created_at": "2025-12-17T00:43:16",
+  "shipped_at": "2025-12-20T00:43:16",
+  "delivered_at": "2025-12-23T00:43:16",
+  "shipping_address": "777 East Side Ave, Cleveland, OH 44114",
+  "items": [
+    {
+      "product_id": "WMT00001052",
+      "name": "Brother Brother HL-L2350DW",
+      "category": "Electronics",
+      "quantity": 2,
+      "price": 149.33,
+      "subtotal": 298.66
+    },
+    {
+      "product_id": "WMT00000991",
+      "name": "Anker Anker Soundcore Liberty 4",
+      "category": "Electronics",
+      "quantity": 3,
+      "price": 91.28,
+      "subtotal": 273.84
+    }
+  ],
+  "total": 572.5,
+  "currency": "USD"
+}

@@ -1,0 +1,30 @@
+{
+  "order_id": "ORDER-X75SCSDP",
+  "persona_id": "persona_010",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-11-09T12:56:25",
+  "shipped_at": "2025-11-10T12:56:25",
+  "delivered_at": "2025-11-12T12:56:25",
+  "shipping_address": "321 French Quarter Ave, New Orleans, LA 70116",
+  "items": [
+    {
+      "product_id": "B028566572",
+      "name": "Instant Pot Pro Plus WiFi Smart",
+      "category": "Home & Kitchen",
+      "quantity": 3,
+      "price": 170.38,
+      "subtotal": 511.14
+    },
+    {
+      "product_id": "B0BOOK0022",
+      "name": "The Secret History by Donna Tartt",
+      "category": "Books",
+      "quantity": 3,
+      "price": 17.01,
+      "subtotal": 51.03
+    }
+  ],
+  "total": 562.17,
+  "currency": "USD"
+}

@@ -1,0 +1,789 @@
+{
+  "persona_id": "persona_014",
+  "store_id": "movie_theater",
+  "store_name": "Movie Theater",
+  "transaction_type": "bookings",
+  "transaction_label": "bookings",
+  "has_cost": true,
+  "summary": {
+    "total_count": 42,
+    "total_spent": 2292.44,
+    "first_date": "2025-10-01",
+    "last_date": "2026-01-27"
+  },
+  "items": [
+    {
+      "order_id": "BK00000576",
+      "display_name": "Wicked",
+      "description": "1 seat",
+      "status": "confirmed",
+      "total": 26.99,
+      "item_count": 1,
+      "created_at": "2026-01-27T08:54:37"
+    },
+    {
+      "order_id": "BK00000574",
+      "display_name": "Furiosa: A Mad Max Saga",
+      "description": "3 seats",
+      "status": "confirmed",
+      "total": 59.97,
+      "item_count": 3,
+      "created_at": "2026-01-20T03:51:06"
+    },
+    {
+      "order_id": "BK00000196",
+      "display_name": "Longlegs",
+      "description": "4 seats",
+      "status": "confirmed",
+      "total": 69.96,
+      "item_count": 4,
+      "created_at": "2026-01-17T17:09:52"
+    },
+    {
+      "order_id": "BK00000245",
+      "display_name": "Love Lies Bleeding",
+      "description": "3 seats",
+      "status": "confirmed",
+      "total": 52.47,
+      "item_count": 3,
+      "created_at": "2026-01-17T17:09:52"
+    },
+    {
+      "order_id": "BK00000634",
+      "display_name": "The Crow",
+      "description": "2 seats",
+      "status": "confirmed",
+      "total": 39.98,
+      "item_count": 2,
+      "created_at": "2026-01-13T05:02:19"
+    },
+    {
+      "order_id": "BK00000077",
+      "display_name": "Fly Me to the Moon",
+      "description": "3 seats",
+      "status": "pending",
+      "total": 59.97,
+      "item_count": 3,
+      "created_at": "2026-01-12T17:09:52"
+    },
+    {
+      "order_id": "BK00000575",
+      "display_name": "Mean Girls",
+      "description": "2 seats",
+      "status": "confirmed",
+      "total": 47.98,
+      "item_count": 2,
+      "created_at": "2026-01-12T05:53:34"
+    },
+    {
+      "order_id": "BK00000527",
+      "display_name": "Unfrosted",
+      "description": "2 seats",
+      "status": "cancelled",
+      "total": 39.98,
+      "item_count": 2,
+      "created_at": "2026-01-11T19:37:35"
+    },
+    {
+      "order_id": "BK00000528",
+      "display_name": "Challengers",
+      "description": "2 seats",
+      "status": "confirmed",
+      "total": 34.98,
+      "item_count": 2,
+      "created_at": "2026-01-10T07:13:25"
+    },
+    {
+      "order_id": "BK00000059",
+      "display_name": "Longlegs",
+      "description": "1 seat",
+      "status": "confirmed",
+      "total": 26.99,
+      "item_count": 1,
+      "created_at": "2026-01-06T17:09:52"
+    },
+    {
+      "order_id": "BK00000632",
+      "display_name": "It Ends with Us",
+      "description": "1 seat",
+      "status": "confirmed",
+      "total": 17.49,
+      "item_count": 1,
+      "created_at": "2026-01-06T13:06:14"
+    },
+    {
+      "order_id": "BK00000226",
+      "display_name": "Reagan",
+      "description": "3 seats",
+      "status": "pending",
+      "total": 80.97,
+      "item_count": 3,
+      "created_at": "2026-01-04T17:09:52"
+    },
+    {
+      "order_id": "BK00000520",
+      "display_name": "Mean Girls",
+      "description": "2 seats",
+      "status": "confirmed",
+      "total": 47.98,
+      "item_count": 2,
+      "created_at": "2025-12-31T01:57:16"
+    },
+    {
+      "order_id": "BK00000573",
+      "display_name": "Trap",
+      "description": "4 seats",
+      "status": "cancelled",
+      "total": 103.96,
+      "item_count": 4,
+      "created_at": "2025-12-29T20:19:54"
+    },
+    {
+      "order_id": "BK00000633",
+      "display_name": "Argylle",
+      "description": "1 seat",
+      "status": "confirmed",
+      "total": 25.99,
+      "item_count": 1,
+      "created_at": "2025-12-28T16:55:53"
+    },
+    {
+      "order_id": "BK00000571",
+      "display_name": "Furiosa: A Mad Max Saga",
+      "description": "2 seats",
+      "status": "confirmed",
+      "total": 51.98,
+      "item_count": 2,
+      "created_at": "2025-12-28T16:02:42"
+    },
+    {
+      "order_id": "BK00000524",
+      "display_name": "Kung Fu Panda 4",
+      "description": "3 seats",
+      "status": "confirmed",
+      "total": 74.97,
+      "item_count": 3,
+      "created_at": "2025-12-24T21:46:51"
+    },
+    {
+      "order_id": "BK00000577",
+      "display_name": "Red One",
+      "description": "2 seats",
+      "status": "cancelled",
+      "total": 39.98,
+      "item_count": 2,
+      "created_at": "2025-12-19T03:34:13"
+    },
+    {
+      "order_id": "BK00000636",
+      "display_name": "Guardians of the Galaxy Vol. 3",
+      "description": "2 seats",
+      "status": "confirmed",
+      "total": 39.98,
+      "item_count": 2,
+      "created_at": "2025-12-15T01:39:46"
+    },
+    {
+      "order_id": "BK00000630",
+      "display_name": "The Watchers",
+      "description": "3 seats",
+      "status": "confirmed",
+      "total": 52.47,
+      "item_count": 3,
+      "created_at": "2025-12-10T22:47:13"
+    },
+    {
+      "order_id": "BK00000150",
+      "display_name": "Red One",
+      "description": "5 seats",
+      "status": "pending",
+      "total": 99.95,
+      "item_count": 5,
+      "created_at": "2025-12-08T17:09:52"
+    },
+    {
+      "order_id": "BK00000525",
+      "display_name": "Mission: Impossible - Dead Reckoning Part One",
+      "description": "3 seats",
+      "status": "confirmed",
+      "total": 65.97,
+      "item_count": 3,
+      "created_at": "2025-12-06T19:21:49"
+    },
+    {
+      "order_id": "BK00000516",
+      "display_name": "The Crow",
+      "description": "3 seats",
+      "status": "confirmed",
+      "total": 65.97,
+      "item_count": 3,
+      "created_at": "2025-12-06T11:51:04"
+    },
+    {
+      "order_id": "BK00000529",
+      "display_name": "Spider-Man: Across the Spider-Verse",
+      "description": "4 seats",
+      "status": "confirmed",
+      "total": 91.96,
+      "item_count": 4,
+      "created_at": "2025-12-05T19:54:47"
+    },
+    {
+      "order_id": "BK00000522",
+      "display_name": "The Crow",
+      "description": "2 seats",
+      "status": "confirmed",
+      "total": 43.98,
+      "item_count": 2,
+      "created_at": "2025-12-05T12:34:55"
+    },
+    {
+      "order_id": "BK00000336",
+      "display_name": "The Holdovers",
+      "description": "5 seats",
+      "status": "confirmed",
+      "total": 99.95,
+      "item_count": 5,
+      "created_at": "2025-12-04T17:09:52"
+    },
+    {
+      "order_id": "BK00000489",
+      "display_name": "It Ends with Us",
+      "description": "4 seats",
+      "status": "confirmed",
+      "total": 99.96,
+      "item_count": 4,
+      "created_at": "2025-12-04T17:09:52"
+    },
+    {
+      "order_id": "BK00000052",
+      "display_name": "Speak No Evil",
+      "description": "3 seats",
+      "status": "pending",
+      "total": 68.97,
+      "item_count": 3,
+      "created_at": "2025-11-30T17:09:52"
+    },
+    {
+      "order_id": "BK00000526",
+      "display_name": "Unfrosted",
+      "description": "2 seats",
+      "status": "confirmed",
+      "total": 39.98,
+      "item_count": 2,
+      "created_at": "2025-11-26T12:55:41"
+    },
+    {
+      "order_id": "BK00000629",
+      "display_name": "Madame Web",
+      "description": "3 seats",
+      "status": "cancelled",
+      "total": 65.97,
+      "item_count": 3,
+      "created_at": "2025-11-25T10:44:01"
+    },
+    {
+      "order_id": "BK00000521",
+      "display_name": "Queer",
+      "description": "3 seats",
+      "status": "confirmed",
+      "total": 44.97,
+      "item_count": 3,
+      "created_at": "2025-11-22T22:52:00"
+    },
+    {
+      "order_id": "BK00000523",
+      "display_name": "Mufasa: The Lion King",
+      "description": "1 seat",
+      "status": "confirmed",
+      "total": 17.49,
+      "item_count": 1,
+      "created_at": "2025-11-21T00:09:13"
+    },
+    {
+      "order_id": "BK00000631",
+      "display_name": "The Crow",
+      "description": "3 seats",
+      "status": "confirmed",
+      "total": 44.97,
+      "item_count": 3,
+      "created_at": "2025-11-07T05:48:59"
+    },
+    {
+      "order_id": "BK00000518",
+      "display_name": "The Zone of Interest",
+      "description": "1 seat",
+      "status": "confirmed",
+      "total": 21.99,
+      "item_count": 1,
+      "created_at": "2025-10-24T10:30:35"
+    },
+    {
+      "order_id": "BK00000635",
+      "display_name": "The Watchers",
+      "description": "3 seats",
+      "status": "confirmed",
+      "total": 52.47,
+      "item_count": 3,
+      "created_at": "2025-10-22T02:40:44"
+    },
+    {
+      "order_id": "BK00000572",
+      "display_name": "Furiosa: A Mad Max Saga",
+      "description": "2 seats",
+      "status": "cancelled",
+      "total": 51.98,
+      "item_count": 2,
+      "created_at": "2025-10-15T14:32:50"
+    },
+    {
+      "order_id": "BK00000580",
+      "display_name": "Joker: Folie \u00e0 Deux",
+      "description": "2 seats",
+      "status": "confirmed",
+      "total": 51.98,
+      "item_count": 2,
+      "created_at": "2025-10-13T00:14:34"
+    },
+    {
+      "order_id": "BK00000517",
+      "display_name": "Past Lives",
+      "description": "2 seats",
+      "status": "cancelled",
+      "total": 47.98,
+      "item_count": 2,
+      "created_at": "2025-10-10T12:31:15"
+    },
+    {
+      "order_id": "BK00000579",
+      "display_name": "The Super Mario Bros. Movie",
+      "description": "2 seats",
+      "status": "confirmed",
+      "total": 43.98,
+      "item_count": 2,
+      "created_at": "2025-10-05T10:04:49"
+    },
+    {
+      "order_id": "BK00000519",
+      "display_name": "Beetlejuice Beetlejuice",
+      "description": "2 seats",
+      "status": "confirmed",
+      "total": 43.98,
+      "item_count": 2,
+      "created_at": "2025-10-01T13:04:25"
+    },
+    {
+      "order_id": "BK00000515",
+      "display_name": "The Holdovers",
+      "description": "3 seats",
+      "status": "confirmed",
+      "total": 80.97,
+      "item_count": 3,
+      "created_at": "2025-10-01T09:22:12"
+    },
+    {
+      "order_id": "BK00000578",
+      "display_name": "Trap",
+      "description": "2 seats",
+      "status": "cancelled",
+      "total": 51.98,
+      "item_count": 2,
+      "created_at": "2025-10-01T04:32:47"
+    }
+  ],
+  "categories": [
+    {
+      "id": "bookings",
+      "name": "Bookings",
+      "type": "bookings",
+      "label": "bookings",
+      "has_cost": true,
+      "summary": {
+        "total_count": 42,
+        "total_spent": 2292.44,
+        "first_date": "2025-10-01",
+        "last_date": "2026-01-27"
+      },
+      "items": [
+        {
+          "order_id": "BK00000576",
+          "display_name": "Wicked",
+          "description": "1 seat",
+          "status": "confirmed",
+          "total": 26.99,
+          "item_count": 1,
+          "created_at": "2026-01-27T08:54:37"
+        },
+        {
+          "order_id": "BK00000574",
+          "display_name": "Furiosa: A Mad Max Saga",
+          "description": "3 seats",
+          "status": "confirmed",
+          "total": 59.97,
+          "item_count": 3,
+          "created_at": "2026-01-20T03:51:06"
+        },
+        {
+          "order_id": "BK00000196",
+          "display_name": "Longlegs",
+          "description": "4 seats",
+          "status": "confirmed",
+          "total": 69.96,
+          "item_count": 4,
+          "created_at": "2026-01-17T17:09:52"
+        },
+        {
+          "order_id": "BK00000245",
+          "display_name": "Love Lies Bleeding",
+          "description": "3 seats",
+          "status": "confirmed",
+          "total": 52.47,
+          "item_count": 3,
+          "created_at": "2026-01-17T17:09:52"
+        },
+        {
+          "order_id": "BK00000634",
+          "display_name": "The Crow",
+          "description": "2 seats",
+          "status": "confirmed",
+          "total": 39.98,
+          "item_count": 2,
+          "created_at": "2026-01-13T05:02:19"
+        },
+        {
+          "order_id": "BK00000077",
+          "display_name": "Fly Me to the Moon",
+          "description": "3 seats",
+          "status": "pending",
+          "total": 59.97,
+          "item_count": 3,
+          "created_at": "2026-01-12T17:09:52"
+        },
+        {
+          "order_id": "BK00000575",
+          "display_name": "Mean Girls",
+          "description": "2 seats",
+          "status": "confirmed",
+          "total": 47.98,
+          "item_count": 2,
+          "created_at": "2026-01-12T05:53:34"
+        },
+        {
+          "order_id": "BK00000527",
+          "display_name": "Unfrosted",
+          "description": "2 seats",
+          "status": "cancelled",
+          "total": 39.98,
+          "item_count": 2,
+          "created_at": "2026-01-11T19:37:35"
+        },
+        {
+          "order_id": "BK00000528",
+          "display_name": "Challengers",
+          "description": "2 seats",
+          "status": "confirmed",
+          "total": 34.98,
+          "item_count": 2,
+          "created_at": "2026-01-10T07:13:25"
+        },
+        {
+          "order_id": "BK00000059",
+          "display_name": "Longlegs",
+          "description": "1 seat",
+          "status": "confirmed",
+          "total": 26.99,
+          "item_count": 1,
+          "created_at": "2026-01-06T17:09:52"
+        },
+        {
+          "order_id": "BK00000632",
+          "display_name": "It Ends with Us",
+          "description": "1 seat",
+          "status": "confirmed",
+          "total": 17.49,
+          "item_count": 1,
+          "created_at": "2026-01-06T13:06:14"
+        },
+        {
+          "order_id": "BK00000226",
+          "display_name": "Reagan",
+          "description": "3 seats",
+          "status": "pending",
+          "total": 80.97,
+          "item_count": 3,
+          "created_at": "2026-01-04T17:09:52"
+        },
+        {
+          "order_id": "BK00000520",
+          "display_name": "Mean Girls",
+          "description": "2 seats",
+          "status": "confirmed",
+          "total": 47.98,
+          "item_count": 2,
+          "created_at": "2025-12-31T01:57:16"
+        },
+        {
+          "order_id": "BK00000573",
+          "display_name": "Trap",
+          "description": "4 seats",
+          "status": "cancelled",
+          "total": 103.96,
+          "item_count": 4,
+          "created_at": "2025-12-29T20:19:54"
+        },
+        {
+          "order_id": "BK00000633",
+          "display_name": "Argylle",
+          "description": "1 seat",
+          "status": "confirmed",
+          "total": 25.99,
+          "item_count": 1,
+          "created_at": "2025-12-28T16:55:53"
+        },
+        {
+          "order_id": "BK00000571",
+          "display_name": "Furiosa: A Mad Max Saga",
+          "description": "2 seats",
+          "status": "confirmed",
+          "total": 51.98,
+          "item_count": 2,
+          "created_at": "2025-12-28T16:02:42"
+        },
+        {
+          "order_id": "BK00000524",
+          "display_name": "Kung Fu Panda 4",
+          "description": "3 seats",
+          "status": "confirmed",
+          "total": 74.97,
+          "item_count": 3,
+          "created_at": "2025-12-24T21:46:51"
+        },
+        {
+          "order_id": "BK00000577",
+          "display_name": "Red One",
+          "description": "2 seats",
+          "status": "cancelled",
+          "total": 39.98,
+          "item_count": 2,
+          "created_at": "2025-12-19T03:34:13"
+        },
+        {
+          "order_id": "BK00000636",
+          "display_name": "Guardians of the Galaxy Vol. 3",
+          "description": "2 seats",
+          "status": "confirmed",
+          "total": 39.98,
+          "item_count": 2,
+          "created_at": "2025-12-15T01:39:46"
+        },
+        {
+          "order_id": "BK00000630",
+          "display_name": "The Watchers",
+          "description": "3 seats",
+          "status": "confirmed",
+          "total": 52.47,
+          "item_count": 3,
+          "created_at": "2025-12-10T22:47:13"
+        },
+        {
+          "order_id": "BK00000150",
+          "display_name": "Red One",
+          "description": "5 seats",
+          "status": "pending",
+          "total": 99.95,
+          "item_count": 5,
+          "created_at": "2025-12-08T17:09:52"
+        },
+        {
+          "order_id": "BK00000525",
+          "display_name": "Mission: Impossible - Dead Reckoning Part One",
+          "description": "3 seats",
+          "status": "confirmed",
+          "total": 65.97,
+          "item_count": 3,
+          "created_at": "2025-12-06T19:21:49"
+        },
+        {
+          "order_id": "BK00000516",
+          "display_name": "The Crow",
+          "description": "3 seats",
+          "status": "confirmed",
+          "total": 65.97,
+          "item_count": 3,
+          "created_at": "2025-12-06T11:51:04"
+        },
+        {
+          "order_id": "BK00000529",
+          "display_name": "Spider-Man: Across the Spider-Verse",
+          "description": "4 seats",
+          "status": "confirmed",
+          "total": 91.96,
+          "item_count": 4,
+          "created_at": "2025-12-05T19:54:47"
+        },
+        {
+          "order_id": "BK00000522",
+          "display_name": "The Crow",
+          "description": "2 seats",
+          "status": "confirmed",
+          "total": 43.98,
+          "item_count": 2,
+          "created_at": "2025-12-05T12:34:55"
+        },
+        {
+          "order_id": "BK00000336",
+          "display_name": "The Holdovers",
+          "description": "5 seats",
+          "status": "confirmed",
+          "total": 99.95,
+          "item_count": 5,
+          "created_at": "2025-12-04T17:09:52"
+        },
+        {
+          "order_id": "BK00000489",
+          "display_name": "It Ends with Us",
+          "description": "4 seats",
+          "status": "confirmed",
+          "total": 99.96,
+          "item_count": 4,
+          "created_at": "2025-12-04T17:09:52"
+        },
+        {
+          "order_id": "BK00000052",
+          "display_name": "Speak No Evil",
+          "description": "3 seats",
+          "status": "pending",
+          "total": 68.97,
+          "item_count": 3,
+          "created_at": "2025-11-30T17:09:52"
+        },
+        {
+          "order_id": "BK00000526",
+          "display_name": "Unfrosted",
+          "description": "2 seats",
+          "status": "confirmed",
+          "total": 39.98,
+          "item_count": 2,
+          "created_at": "2025-11-26T12:55:41"
+        },
+        {
+          "order_id": "BK00000629",
+          "display_name": "Madame Web",
+          "description": "3 seats",
+          "status": "cancelled",
+          "total": 65.97,
+          "item_count": 3,
+          "created_at": "2025-11-25T10:44:01"
+        },
+        {
+          "order_id": "BK00000521",
+          "display_name": "Queer",
+          "description": "3 seats",
+          "status": "confirmed",
+          "total": 44.97,
+          "item_count": 3,
+          "created_at": "2025-11-22T22:52:00"
+        },
+        {
+          "order_id": "BK00000523",
+          "display_name": "Mufasa: The Lion King",
+          "description": "1 seat",
+          "status": "confirmed",
+          "total": 17.49,
+          "item_count": 1,
+          "created_at": "2025-11-21T00:09:13"
+        },
+        {
+          "order_id": "BK00000631",
+          "display_name": "The Crow",
+          "description": "3 seats",
+          "status": "confirmed",
+          "total": 44.97,
+          "item_count": 3,
+          "created_at": "2025-11-07T05:48:59"
+        },
+        {
+          "order_id": "BK00000518",
+          "display_name": "The Zone of Interest",
+          "description": "1 seat",
+          "status": "confirmed",
+          "total": 21.99,
+          "item_count": 1,
+          "created_at": "2025-10-24T10:30:35"
+        },
+        {
+          "order_id": "BK00000635",
+          "display_name": "The Watchers",
+          "description": "3 seats",
+          "status": "confirmed",
+          "total": 52.47,
+          "item_count": 3,
+          "created_at": "2025-10-22T02:40:44"
+        },
+        {
+          "order_id": "BK00000572",
+          "display_name": "Furiosa: A Mad Max Saga",
+          "description": "2 seats",
+          "status": "cancelled",
+          "total": 51.98,
+          "item_count": 2,
+          "created_at": "2025-10-15T14:32:50"
+        },
+        {
+          "order_id": "BK00000580",
+          "display_name": "Joker: Folie \u00e0 Deux",
+          "description": "2 seats",
+          "status": "confirmed",
+          "total": 51.98,
+          "item_count": 2,
+          "created_at": "2025-10-13T00:14:34"
+        },
+        {
+          "order_id": "BK00000517",
+          "display_name": "Past Lives",
+          "description": "2 seats",
+          "status": "cancelled",
+          "total": 47.98,
+          "item_count": 2,
+          "created_at": "2025-10-10T12:31:15"
+        },
+        {
+          "order_id": "BK00000579",
+          "display_name": "The Super Mario Bros. Movie",
+          "description": "2 seats",
+          "status": "confirmed",
+          "total": 43.98,
+          "item_count": 2,
+          "created_at": "2025-10-05T10:04:49"
+        },
+        {
+          "order_id": "BK00000519",
+          "display_name": "Beetlejuice Beetlejuice",
+          "description": "2 seats",
+          "status": "confirmed",
+          "total": 43.98,
+          "item_count": 2,
+          "created_at": "2025-10-01T13:04:25"
+        },
+        {
+          "order_id": "BK00000515",
+          "display_name": "The Holdovers",
+          "description": "3 seats",
+          "status": "confirmed",
+          "total": 80.97,
+          "item_count": 3,
+          "created_at": "2025-10-01T09:22:12"
+        },
+        {
+          "order_id": "BK00000578",
+          "display_name": "Trap",
+          "description": "2 seats",
+          "status": "cancelled",
+          "total": 51.98,
+          "item_count": 2,
+          "created_at": "2025-10-01T04:32:47"
+        }
+      ]
+    }
+  ]
+}

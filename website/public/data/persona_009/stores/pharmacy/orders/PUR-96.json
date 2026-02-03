@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-96",
+  "persona_id": "persona_009",
+  "store_id": "pharmacy",
+  "status": "completed",
+  "created_at": "2025-11-29T15:32:05",
+  "items": [
+    {
+      "product_id": "246",
+      "name": "Fish Oil",
+      "category": "Vitamins",
+      "quantity": 3,
+      "price": 19.99,
+      "subtotal": 59.97
+    }
+  ],
+  "total": 59.97,
+  "currency": "USD"
+}

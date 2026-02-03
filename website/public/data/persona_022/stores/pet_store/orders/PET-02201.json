@@ -1,0 +1,24 @@
+{
+  "order_id": "PET-02201",
+  "persona_id": "persona_022",
+  "store_id": "pet_store",
+  "type": "pet_profile",
+  "status": "active",
+  "items": [
+    {
+      "product_id": "PET-02201",
+      "name": "Mittens",
+      "pet_type": "Cats",
+      "breed": "Domestic Shorthair",
+      "age_years": "3",
+      "weight_lbs": "9",
+      "dietary_restrictions": "",
+      "notes": "Playful indoor cat of Anna Kowalczyk",
+      "quantity": 1,
+      "price": 0,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

@@ -1,0 +1,134 @@
+{
+  "order_id": "GRC000031",
+  "persona_id": "persona_031",
+  "store_id": "grocery",
+  "status": "delivered",
+  "created_at": "2025-11-30T18:50:15",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "999 Suburban Lane, Phoenix, AZ 85001",
+  "items": [
+    {
+      "product_id": "prod_736",
+      "name": "Meadow Gold Beef Jerky",
+      "category": "Snacks",
+      "quantity": 5,
+      "price": 10.54,
+      "subtotal": 52.7
+    },
+    {
+      "product_id": "prod_805",
+      "name": "Market Fresh Salt",
+      "category": "Condiments & Spices",
+      "quantity": 4,
+      "price": 1.14,
+      "subtotal": 4.56
+    },
+    {
+      "product_id": "prod_033",
+      "name": "Fresh Farms Organic Grapes",
+      "category": "Produce",
+      "quantity": 1,
+      "price": 20.57,
+      "subtotal": 20.57
+    },
+    {
+      "product_id": "GRO-1554",
+      "name": "Plum Organics Mixed Veggie Puree",
+      "category": "Baby",
+      "quantity": 2,
+      "price": 19.56,
+      "subtotal": 39.12
+    },
+    {
+      "product_id": "GRO-1670",
+      "name": "Organic Valley Purple Eggplant",
+      "category": "Produce",
+      "quantity": 1,
+      "price": 5.8,
+      "subtotal": 5.8
+    },
+    {
+      "product_id": "prod_249",
+      "name": "Meadow Gold Organic Turkey Breast",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 11.15,
+      "subtotal": 11.15
+    },
+    {
+      "product_id": "prod_630",
+      "name": "Simply Good Organic Lemonade",
+      "category": "Beverages",
+      "quantity": 2,
+      "price": 5.03,
+      "subtotal": 10.06
+    },
+    {
+      "product_id": "prod_214",
+      "name": "Fresh Farms Mascarpone",
+      "category": "Dairy",
+      "quantity": 5,
+      "price": 7.58,
+      "subtotal": 37.9
+    },
+    {
+      "product_id": "prod_052",
+      "name": "Daily Delight Organic Mangoes",
+      "category": "Produce",
+      "quantity": 2,
+      "price": 3.04,
+      "subtotal": 6.08
+    },
+    {
+      "product_id": "prod_705",
+      "name": "Local Pride Organic Saltine Crackers",
+      "category": "Snacks",
+      "quantity": 2,
+      "price": 4.11,
+      "subtotal": 8.22
+    },
+    {
+      "product_id": "prod_606",
+      "name": "Farm Fresh Frozen Yogurt",
+      "category": "Frozen",
+      "quantity": 1,
+      "price": 6.33,
+      "subtotal": 6.33
+    },
+    {
+      "product_id": "GRO-1744",
+      "name": "Driscoll's Fresh Leek",
+      "category": "Produce",
+      "quantity": 5,
+      "price": 4.39,
+      "subtotal": 21.95
+    },
+    {
+      "product_id": "prod_583",
+      "name": "Mountain Fresh Frozen Burritos",
+      "category": "Frozen",
+      "quantity": 2,
+      "price": 4.42,
+      "subtotal": 8.84
+    },
+    {
+      "product_id": "GRO-1806",
+      "name": "Organic Valley Eggs Large Dozen",
+      "category": "Dairy",
+      "quantity": 1,
+      "price": 9.36,
+      "subtotal": 9.36
+    },
+    {
+      "product_id": "GRO-1010",
+      "name": "Fresh Express Mache",
+      "category": "Produce",
+      "quantity": 1,
+      "price": 8.34,
+      "subtotal": 8.34
+    }
+  ],
+  "total": 250.98,
+  "currency": "USD"
+}

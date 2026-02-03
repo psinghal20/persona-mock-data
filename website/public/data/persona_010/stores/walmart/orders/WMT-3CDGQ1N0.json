@@ -1,0 +1,38 @@
+{
+  "order_id": "WMT-3CDGQ1N0",
+  "persona_id": "persona_010",
+  "store_id": "walmart",
+  "status": "shipped",
+  "created_at": "2025-11-11T23:56:14",
+  "shipped_at": "2025-11-12T23:56:14",
+  "delivered_at": "",
+  "shipping_address": "321 French Quarter Ave, New Orleans, LA 70116",
+  "items": [
+    {
+      "product_id": "WMT00000971",
+      "name": "Apple Apple HomePod mini",
+      "category": "Electronics",
+      "quantity": 2,
+      "price": 103.39,
+      "subtotal": 206.78
+    },
+    {
+      "product_id": "WMT00001308",
+      "name": "4M 4M Kitchen Science",
+      "category": "Toys",
+      "quantity": 2,
+      "price": 17.18,
+      "subtotal": 34.36
+    },
+    {
+      "product_id": "WMT00001599",
+      "name": "IRIS IRIS Airtight Food Storage Container",
+      "category": "Pets",
+      "quantity": 2,
+      "price": 22.63,
+      "subtotal": 45.26
+    }
+  ],
+  "total": 286.4,
+  "currency": "USD"
+}

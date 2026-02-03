@@ -1,0 +1,110 @@
+{
+  "order_id": "GRC000127",
+  "persona_id": "persona_027",
+  "store_id": "grocery",
+  "status": "delivered",
+  "created_at": "2025-12-08T23:05:36",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "items": [
+    {
+      "product_id": "prod_261",
+      "name": "Fresh Farms Pork Ribs",
+      "category": "Meat & Seafood",
+      "quantity": 2,
+      "price": 28.94,
+      "subtotal": 57.88
+    },
+    {
+      "product_id": "prod_672",
+      "name": "Market Fresh Soda Root Beer",
+      "category": "Beverages",
+      "quantity": 1,
+      "price": 1.98,
+      "subtotal": 1.98
+    },
+    {
+      "product_id": "GRO-1108",
+      "name": "Bell & Evans Chicken Wings",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 45.21,
+      "subtotal": 45.21
+    },
+    {
+      "product_id": "GRO-1655",
+      "name": "Chiquita Red Potato",
+      "category": "Produce",
+      "quantity": 3,
+      "price": 7.68,
+      "subtotal": 23.04
+    },
+    {
+      "product_id": "GRO-1852",
+      "name": "Niman Ranch Breakfast Sausage",
+      "category": "Meat & Seafood",
+      "quantity": 2,
+      "price": 27.98,
+      "subtotal": 55.96
+    },
+    {
+      "product_id": "GRO-1891",
+      "name": "Perdue Fresh Oysters",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 30.79,
+      "subtotal": 30.79
+    },
+    {
+      "product_id": "prod_256",
+      "name": "Heritage Foods Ground Pork",
+      "category": "Meat & Seafood",
+      "quantity": 3,
+      "price": 15.82,
+      "subtotal": 47.46
+    },
+    {
+      "product_id": "GRO-1814",
+      "name": "Niman Ranch Ground Beef 90/10",
+      "category": "Meat & Seafood",
+      "quantity": 4,
+      "price": 13.99,
+      "subtotal": 55.96
+    },
+    {
+      "product_id": "GRO-1656",
+      "name": "Driscoll's Fingerling Potato",
+      "category": "Produce",
+      "quantity": 1,
+      "price": 5.64,
+      "subtotal": 5.64
+    },
+    {
+      "product_id": "GRO-1100",
+      "name": "Butcher Box Bratwurst",
+      "category": "Meat & Seafood",
+      "quantity": 3,
+      "price": 52.9,
+      "subtotal": 158.7
+    },
+    {
+      "product_id": "prod_288",
+      "name": "Country Best Tuna Steak",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 43.98,
+      "subtotal": 43.98
+    },
+    {
+      "product_id": "prod_011",
+      "name": "Atlantic Salmon",
+      "category": "Meat & Seafood",
+      "quantity": 3,
+      "price": 6.99,
+      "subtotal": 20.97
+    }
+  ],
+  "total": 547.57,
+  "currency": "USD"
+}

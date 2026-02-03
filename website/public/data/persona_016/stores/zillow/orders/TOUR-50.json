@@ -1,0 +1,26 @@
+{
+  "order_id": "TOUR-50",
+  "persona_id": "persona_016",
+  "store_id": "zillow",
+  "type": "tour",
+  "status": "cancelled",
+  "scheduled_time": "2025-11-23T14:00:00",
+  "notes": "Checking the neighborhood",
+  "items": [
+    {
+      "product_id": "1759",
+      "name": "5977 Union Avenue",
+      "address": "5977 Union Avenue",
+      "city": "",
+      "price": 930819.0,
+      "bedrooms": "",
+      "bathrooms": "",
+      "sqft": "",
+      "home_type": "",
+      "quantity": 1,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

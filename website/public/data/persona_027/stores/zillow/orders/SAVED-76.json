@@ -1,0 +1,26 @@
+{
+  "order_id": "SAVED-76",
+  "persona_id": "persona_027",
+  "store_id": "zillow",
+  "type": "saved_property",
+  "status": "saved",
+  "created_at": "2026-01-14T14:56:51",
+  "notes": "Good schools nearby",
+  "items": [
+    {
+      "product_id": "1389",
+      "name": "3768 Valley Lane",
+      "address": "3768 Valley Lane",
+      "city": "",
+      "price": 729520.0,
+      "bedrooms": "",
+      "bathrooms": "",
+      "sqft": "",
+      "home_type": "",
+      "quantity": 1,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

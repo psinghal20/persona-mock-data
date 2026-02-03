@@ -1,0 +1,721 @@
+{
+  "persona_id": "persona_031",
+  "store_id": "fashion",
+  "store_name": "Fashion",
+  "transaction_type": "orders",
+  "transaction_label": "orders",
+  "has_cost": true,
+  "summary": {
+    "total_count": 43,
+    "total_spent": 17374.53,
+    "first_date": "2025-10-01",
+    "last_date": "2026-01-25"
+  },
+  "items": [
+    {
+      "order_id": "FSH000075",
+      "status": "delivered",
+      "total": 244.7,
+      "item_count": 2,
+      "created_at": "2026-01-25T00:34:37",
+      "item_preview": "Everyday Elegance Leather Joggers, Pine & Oak Cashmere Shorts"
+    },
+    {
+      "order_id": "FSH000137",
+      "status": "delivered",
+      "total": 440.52,
+      "item_count": 2,
+      "created_at": "2026-01-18T05:37:22",
+      "item_preview": "Nordic Style Jersey Joggers, Classic Comfort Velvet Flats"
+    },
+    {
+      "order_id": "FSH000063",
+      "status": "delivered",
+      "total": 765.82,
+      "item_count": 2,
+      "created_at": "2026-01-16T06:28:02",
+      "item_preview": "Timeless Trend Cashmere Handbag, Urban Thread Polyester Hoodie"
+    },
+    {
+      "order_id": "FSH000152",
+      "status": "delivered",
+      "total": 845.08,
+      "item_count": 2,
+      "created_at": "2026-01-15T05:28:49",
+      "item_preview": "Everyday Elegance Jersey Ankle Boots, Modern Muse Velvet Handbag"
+    },
+    {
+      "order_id": "FSH000074",
+      "status": "delivered",
+      "total": 372.57,
+      "item_count": 3,
+      "created_at": "2026-01-11T12:11:33",
+      "item_preview": "Pure Cotton Co Velvet Hoodie, Sunset Studios Velvet Shorts, ..."
+    },
+    {
+      "order_id": "FSH000072",
+      "status": "delivered",
+      "total": 582.64,
+      "item_count": 1,
+      "created_at": "2026-01-06T11:39:58",
+      "item_preview": "Modern Muse Velvet Handbag"
+    },
+    {
+      "order_id": "FSH000142",
+      "status": "delivered",
+      "total": 406.3,
+      "item_count": 3,
+      "created_at": "2026-01-02T06:37:58",
+      "item_preview": "Nordic Style Denim Hoodie, Nordic Style Jersey Joggers, ..."
+    },
+    {
+      "order_id": "FSH000155",
+      "status": "delivered",
+      "total": 687.38,
+      "item_count": 4,
+      "created_at": "2026-01-02T03:38:38",
+      "item_preview": "Pure Cotton Co Velvet Hoodie, Sunset Studios Velvet Skirt, ..."
+    },
+    {
+      "order_id": "FSH000151",
+      "status": "delivered",
+      "total": 173.86,
+      "item_count": 2,
+      "created_at": "2026-01-01T19:49:57",
+      "item_preview": "Pure Cotton Co Velvet Hoodie, Everyday Elegance Leather Joggers"
+    },
+    {
+      "order_id": "FSH000149",
+      "status": "delivered",
+      "total": 82.46,
+      "item_count": 2,
+      "created_at": "2025-12-30T08:16:22",
+      "item_preview": "Pine & Oak Cashmere Shorts, Chino Shorts"
+    },
+    {
+      "order_id": "FSH000139",
+      "status": "delivered",
+      "total": 328.34,
+      "item_count": 2,
+      "created_at": "2025-12-29T18:32:58",
+      "item_preview": "The Basics Cashmere Flats, Classic Comfort Silk Hoodie"
+    },
+    {
+      "order_id": "FSH000154",
+      "status": "delivered",
+      "total": 404.67,
+      "item_count": 3,
+      "created_at": "2025-12-27T06:50:24",
+      "item_preview": "Nordic Style Jersey Joggers, Ankle Boots, ..."
+    },
+    {
+      "order_id": "FSH000140",
+      "status": "delivered",
+      "total": 138.74,
+      "item_count": 1,
+      "created_at": "2025-12-21T14:13:26",
+      "item_preview": "Classic Comfort Velvet Flats"
+    },
+    {
+      "order_id": "FSH000157",
+      "status": "delivered",
+      "total": 1071.53,
+      "item_count": 4,
+      "created_at": "2025-12-21T01:43:09",
+      "item_preview": "Modern Muse Polyester Cardigan, Pine & Oak Chiffon Handbag, ..."
+    },
+    {
+      "order_id": "FSH000143",
+      "status": "delivered",
+      "total": 923.14,
+      "item_count": 4,
+      "created_at": "2025-12-19T10:33:48",
+      "item_preview": "Fashion Forward Satin Cardigan, Coastal Collective Silk Handbag, ..."
+    },
+    {
+      "order_id": "FSH000076",
+      "status": "shipped",
+      "total": 1030.59,
+      "item_count": 3,
+      "created_at": "2025-12-15T23:51:08",
+      "item_preview": "Modern Muse Velvet Handbag, Timeless Trend Cashmere Handbag, ..."
+    },
+    {
+      "order_id": "FSH000156",
+      "status": "delivered",
+      "total": 512.9,
+      "item_count": 2,
+      "created_at": "2025-12-13T23:36:00",
+      "item_preview": "Chic Studio Leather Sneakers, Fashion Forward Satin Cardigan"
+    },
+    {
+      "order_id": "FSH000136",
+      "status": "delivered",
+      "total": 79.76,
+      "item_count": 1,
+      "created_at": "2025-12-13T00:20:09",
+      "item_preview": "Artisan Apparel Silk Joggers"
+    },
+    {
+      "order_id": "FSH000134",
+      "status": "delivered",
+      "total": 40.82,
+      "item_count": 1,
+      "created_at": "2025-12-12T03:45:49",
+      "item_preview": "Classic Comfort Leather Leggings"
+    },
+    {
+      "order_id": "FSH000141",
+      "status": "delivered",
+      "total": 483.01,
+      "item_count": 3,
+      "created_at": "2025-12-08T20:26:43",
+      "item_preview": "Fashion Forward Jersey Ankle Boots, Ankle Boots, ..."
+    },
+    {
+      "order_id": "FSH000147",
+      "status": "pending",
+      "total": 328.12,
+      "item_count": 2,
+      "created_at": "2025-12-03T00:38:11",
+      "item_preview": "Style Haven Cashmere Ankle Boots, Pine & Oak Leather Shorts"
+    },
+    {
+      "order_id": "FSH000145",
+      "status": "pending",
+      "total": 133.31,
+      "item_count": 2,
+      "created_at": "2025-12-01T23:16:33",
+      "item_preview": "Chino Shorts, Classic Comfort Polyester Skirt"
+    },
+    {
+      "order_id": "FSH000065",
+      "status": "shipped",
+      "total": 317.5,
+      "item_count": 3,
+      "created_at": "2025-12-01T15:14:24",
+      "item_preview": "Classic Comfort Tweed Leggings, Everyday Elegance Suede Flats, ..."
+    },
+    {
+      "order_id": "FSH000133",
+      "status": "delivered",
+      "total": 113.08,
+      "item_count": 1,
+      "created_at": "2025-11-28T09:04:50",
+      "item_preview": "Modern Muse Jersey Shorts"
+    },
+    {
+      "order_id": "FSH000146",
+      "status": "delivered",
+      "total": 40.93,
+      "item_count": 1,
+      "created_at": "2025-11-27T12:43:21",
+      "item_preview": "Pine & Oak Leather Shorts"
+    },
+    {
+      "order_id": "FSH000068",
+      "status": "pending",
+      "total": 698.02,
+      "item_count": 2,
+      "created_at": "2025-11-15T03:28:48",
+      "item_preview": "Urban Thread Polyester Hoodie, Modern Muse Velvet Handbag"
+    },
+    {
+      "order_id": "FSH000070",
+      "status": "delivered",
+      "total": 287.61,
+      "item_count": 2,
+      "created_at": "2025-11-14T22:06:10",
+      "item_preview": "Fashion Forward Satin Cardigan, Heritage House Cashmere Leggings"
+    },
+    {
+      "order_id": "FSH000150",
+      "status": "delivered",
+      "total": 241.48,
+      "item_count": 2,
+      "created_at": "2025-11-12T00:20:26",
+      "item_preview": "Classic Comfort Tweed Leggings, Classic Comfort Leather Leggings"
+    },
+    {
+      "order_id": "FSH000061",
+      "status": "delivered",
+      "total": 101.44,
+      "item_count": 1,
+      "created_at": "2025-11-08T05:39:03",
+      "item_preview": "Urban Thread Polyester Hoodie"
+    },
+    {
+      "order_id": "FSH000060",
+      "status": "shipped",
+      "total": 270.52,
+      "item_count": 2,
+      "created_at": "2025-11-07T17:11:04",
+      "item_preview": "Classic Comfort Tweed Leggings, Sunset Studios Velvet Shorts"
+    },
+    {
+      "order_id": "FSH000066",
+      "status": "pending",
+      "total": 544.11,
+      "item_count": 3,
+      "created_at": "2025-11-06T06:52:32",
+      "item_preview": "Sunset Studios Suede Shorts, Artisan Apparel Rayon Leggings, ..."
+    },
+    {
+      "order_id": "FSH000148",
+      "status": "shipped",
+      "total": 580.7,
+      "item_count": 2,
+      "created_at": "2025-11-05T14:55:50",
+      "item_preview": "Everyday Elegance Polyester Handbag, Heritage House Rayon Sneakers"
+    },
+    {
+      "order_id": "FSH000064",
+      "status": "shipped",
+      "total": 322.98,
+      "item_count": 2,
+      "created_at": "2025-10-31T13:25:35",
+      "item_preview": "Coastal Collective Silk Cardigan, Silk Scarf"
+    },
+    {
+      "order_id": "FSH000062",
+      "status": "shipped",
+      "total": 55.34,
+      "item_count": 1,
+      "created_at": "2025-10-27T22:41:11",
+      "item_preview": "Sunset Studios Velvet Shorts"
+    },
+    {
+      "order_id": "FSH000135",
+      "status": "delivered",
+      "total": 961.38,
+      "item_count": 3,
+      "created_at": "2025-10-27T09:53:35",
+      "item_preview": "Fashion Forward Satin Cardigan, Sunset Studios Tweed Skirt, ..."
+    },
+    {
+      "order_id": "FSH000077",
+      "status": "shipped",
+      "total": 286.23,
+      "item_count": 3,
+      "created_at": "2025-10-26T02:38:18",
+      "item_preview": "Artisan Apparel Rayon Leggings, Timeless Trend Cotton Cardigan, ..."
+    },
+    {
+      "order_id": "FSH000069",
+      "status": "shipped",
+      "total": 282.0,
+      "item_count": 2,
+      "created_at": "2025-10-25T00:31:01",
+      "item_preview": "Coastal Collective Silk Cardigan, Heritage House Cashmere Leggings"
+    },
+    {
+      "order_id": "FSH000138",
+      "status": "shipped",
+      "total": 558.98,
+      "item_count": 3,
+      "created_at": "2025-10-24T07:19:19",
+      "item_preview": "The Basics Wool Hoodie, Modern Muse Velvet Handbag, ..."
+    },
+    {
+      "order_id": "FSH000153",
+      "status": "cancelled",
+      "total": 324.78,
+      "item_count": 2,
+      "created_at": "2025-10-22T15:46:21",
+      "item_preview": "Sunset Studios Tweed Skirt, Fashion Forward Jersey Ankle Boots"
+    },
+    {
+      "order_id": "FSH000067",
+      "status": "cancelled",
+      "total": 394.5,
+      "item_count": 3,
+      "created_at": "2025-10-12T22:44:04",
+      "item_preview": "Sunset Studios Tweed Skirt, Essential Edit Silk Skirt, ..."
+    },
+    {
+      "order_id": "FSH000071",
+      "status": "delivered",
+      "total": 560.46,
+      "item_count": 1,
+      "created_at": "2025-10-11T18:25:34",
+      "item_preview": "Urban Thread Linen Handbag"
+    },
+    {
+      "order_id": "FSH000073",
+      "status": "delivered",
+      "total": 232.22,
+      "item_count": 1,
+      "created_at": "2025-10-02T19:23:28",
+      "item_preview": "Nordic Style Jersey Midi Dress"
+    },
+    {
+      "order_id": "FSH000144",
+      "status": "cancelled",
+      "total": 124.01,
+      "item_count": 2,
+      "created_at": "2025-10-01T09:59:03",
+      "item_preview": "Chino Shorts, Everyday Elegance Suede Flats"
+    }
+  ],
+  "categories": [
+    {
+      "id": "orders",
+      "name": "Orders",
+      "type": "orders",
+      "label": "orders",
+      "has_cost": true,
+      "summary": {
+        "total_count": 43,
+        "total_spent": 17374.53,
+        "first_date": "2025-10-01",
+        "last_date": "2026-01-25"
+      },
+      "items": [
+        {
+          "order_id": "FSH000075",
+          "status": "delivered",
+          "total": 244.7,
+          "item_count": 2,
+          "created_at": "2026-01-25T00:34:37",
+          "item_preview": "Everyday Elegance Leather Joggers, Pine & Oak Cashmere Shorts"
+        },
+        {
+          "order_id": "FSH000137",
+          "status": "delivered",
+          "total": 440.52,
+          "item_count": 2,
+          "created_at": "2026-01-18T05:37:22",
+          "item_preview": "Nordic Style Jersey Joggers, Classic Comfort Velvet Flats"
+        },
+        {
+          "order_id": "FSH000063",
+          "status": "delivered",
+          "total": 765.82,
+          "item_count": 2,
+          "created_at": "2026-01-16T06:28:02",
+          "item_preview": "Timeless Trend Cashmere Handbag, Urban Thread Polyester Hoodie"
+        },
+        {
+          "order_id": "FSH000152",
+          "status": "delivered",
+          "total": 845.08,
+          "item_count": 2,
+          "created_at": "2026-01-15T05:28:49",
+          "item_preview": "Everyday Elegance Jersey Ankle Boots, Modern Muse Velvet Handbag"
+        },
+        {
+          "order_id": "FSH000074",
+          "status": "delivered",
+          "total": 372.57,
+          "item_count": 3,
+          "created_at": "2026-01-11T12:11:33",
+          "item_preview": "Pure Cotton Co Velvet Hoodie, Sunset Studios Velvet Shorts, ..."
+        },
+        {
+          "order_id": "FSH000072",
+          "status": "delivered",
+          "total": 582.64,
+          "item_count": 1,
+          "created_at": "2026-01-06T11:39:58",
+          "item_preview": "Modern Muse Velvet Handbag"
+        },
+        {
+          "order_id": "FSH000142",
+          "status": "delivered",
+          "total": 406.3,
+          "item_count": 3,
+          "created_at": "2026-01-02T06:37:58",
+          "item_preview": "Nordic Style Denim Hoodie, Nordic Style Jersey Joggers, ..."
+        },
+        {
+          "order_id": "FSH000155",
+          "status": "delivered",
+          "total": 687.38,
+          "item_count": 4,
+          "created_at": "2026-01-02T03:38:38",
+          "item_preview": "Pure Cotton Co Velvet Hoodie, Sunset Studios Velvet Skirt, ..."
+        },
+        {
+          "order_id": "FSH000151",
+          "status": "delivered",
+          "total": 173.86,
+          "item_count": 2,
+          "created_at": "2026-01-01T19:49:57",
+          "item_preview": "Pure Cotton Co Velvet Hoodie, Everyday Elegance Leather Joggers"
+        },
+        {
+          "order_id": "FSH000149",
+          "status": "delivered",
+          "total": 82.46,
+          "item_count": 2,
+          "created_at": "2025-12-30T08:16:22",
+          "item_preview": "Pine & Oak Cashmere Shorts, Chino Shorts"
+        },
+        {
+          "order_id": "FSH000139",
+          "status": "delivered",
+          "total": 328.34,
+          "item_count": 2,
+          "created_at": "2025-12-29T18:32:58",
+          "item_preview": "The Basics Cashmere Flats, Classic Comfort Silk Hoodie"
+        },
+        {
+          "order_id": "FSH000154",
+          "status": "delivered",
+          "total": 404.67,
+          "item_count": 3,
+          "created_at": "2025-12-27T06:50:24",
+          "item_preview": "Nordic Style Jersey Joggers, Ankle Boots, ..."
+        },
+        {
+          "order_id": "FSH000140",
+          "status": "delivered",
+          "total": 138.74,
+          "item_count": 1,
+          "created_at": "2025-12-21T14:13:26",
+          "item_preview": "Classic Comfort Velvet Flats"
+        },
+        {
+          "order_id": "FSH000157",
+          "status": "delivered",
+          "total": 1071.53,
+          "item_count": 4,
+          "created_at": "2025-12-21T01:43:09",
+          "item_preview": "Modern Muse Polyester Cardigan, Pine & Oak Chiffon Handbag, ..."
+        },
+        {
+          "order_id": "FSH000143",
+          "status": "delivered",
+          "total": 923.14,
+          "item_count": 4,
+          "created_at": "2025-12-19T10:33:48",
+          "item_preview": "Fashion Forward Satin Cardigan, Coastal Collective Silk Handbag, ..."
+        },
+        {
+          "order_id": "FSH000076",
+          "status": "shipped",
+          "total": 1030.59,
+          "item_count": 3,
+          "created_at": "2025-12-15T23:51:08",
+          "item_preview": "Modern Muse Velvet Handbag, Timeless Trend Cashmere Handbag, ..."
+        },
+        {
+          "order_id": "FSH000156",
+          "status": "delivered",
+          "total": 512.9,
+          "item_count": 2,
+          "created_at": "2025-12-13T23:36:00",
+          "item_preview": "Chic Studio Leather Sneakers, Fashion Forward Satin Cardigan"
+        },
+        {
+          "order_id": "FSH000136",
+          "status": "delivered",
+          "total": 79.76,
+          "item_count": 1,
+          "created_at": "2025-12-13T00:20:09",
+          "item_preview": "Artisan Apparel Silk Joggers"
+        },
+        {
+          "order_id": "FSH000134",
+          "status": "delivered",
+          "total": 40.82,
+          "item_count": 1,
+          "created_at": "2025-12-12T03:45:49",
+          "item_preview": "Classic Comfort Leather Leggings"
+        },
+        {
+          "order_id": "FSH000141",
+          "status": "delivered",
+          "total": 483.01,
+          "item_count": 3,
+          "created_at": "2025-12-08T20:26:43",
+          "item_preview": "Fashion Forward Jersey Ankle Boots, Ankle Boots, ..."
+        },
+        {
+          "order_id": "FSH000147",
+          "status": "pending",
+          "total": 328.12,
+          "item_count": 2,
+          "created_at": "2025-12-03T00:38:11",
+          "item_preview": "Style Haven Cashmere Ankle Boots, Pine & Oak Leather Shorts"
+        },
+        {
+          "order_id": "FSH000145",
+          "status": "pending",
+          "total": 133.31,
+          "item_count": 2,
+          "created_at": "2025-12-01T23:16:33",
+          "item_preview": "Chino Shorts, Classic Comfort Polyester Skirt"
+        },
+        {
+          "order_id": "FSH000065",
+          "status": "shipped",
+          "total": 317.5,
+          "item_count": 3,
+          "created_at": "2025-12-01T15:14:24",
+          "item_preview": "Classic Comfort Tweed Leggings, Everyday Elegance Suede Flats, ..."
+        },
+        {
+          "order_id": "FSH000133",
+          "status": "delivered",
+          "total": 113.08,
+          "item_count": 1,
+          "created_at": "2025-11-28T09:04:50",
+          "item_preview": "Modern Muse Jersey Shorts"
+        },
+        {
+          "order_id": "FSH000146",
+          "status": "delivered",
+          "total": 40.93,
+          "item_count": 1,
+          "created_at": "2025-11-27T12:43:21",
+          "item_preview": "Pine & Oak Leather Shorts"
+        },
+        {
+          "order_id": "FSH000068",
+          "status": "pending",
+          "total": 698.02,
+          "item_count": 2,
+          "created_at": "2025-11-15T03:28:48",
+          "item_preview": "Urban Thread Polyester Hoodie, Modern Muse Velvet Handbag"
+        },
+        {
+          "order_id": "FSH000070",
+          "status": "delivered",
+          "total": 287.61,
+          "item_count": 2,
+          "created_at": "2025-11-14T22:06:10",
+          "item_preview": "Fashion Forward Satin Cardigan, Heritage House Cashmere Leggings"
+        },
+        {
+          "order_id": "FSH000150",
+          "status": "delivered",
+          "total": 241.48,
+          "item_count": 2,
+          "created_at": "2025-11-12T00:20:26",
+          "item_preview": "Classic Comfort Tweed Leggings, Classic Comfort Leather Leggings"
+        },
+        {
+          "order_id": "FSH000061",
+          "status": "delivered",
+          "total": 101.44,
+          "item_count": 1,
+          "created_at": "2025-11-08T05:39:03",
+          "item_preview": "Urban Thread Polyester Hoodie"
+        },
+        {
+          "order_id": "FSH000060",
+          "status": "shipped",
+          "total": 270.52,
+          "item_count": 2,
+          "created_at": "2025-11-07T17:11:04",
+          "item_preview": "Classic Comfort Tweed Leggings, Sunset Studios Velvet Shorts"
+        },
+        {
+          "order_id": "FSH000066",
+          "status": "pending",
+          "total": 544.11,
+          "item_count": 3,
+          "created_at": "2025-11-06T06:52:32",
+          "item_preview": "Sunset Studios Suede Shorts, Artisan Apparel Rayon Leggings, ..."
+        },
+        {
+          "order_id": "FSH000148",
+          "status": "shipped",
+          "total": 580.7,
+          "item_count": 2,
+          "created_at": "2025-11-05T14:55:50",
+          "item_preview": "Everyday Elegance Polyester Handbag, Heritage House Rayon Sneakers"
+        },
+        {
+          "order_id": "FSH000064",
+          "status": "shipped",
+          "total": 322.98,
+          "item_count": 2,
+          "created_at": "2025-10-31T13:25:35",
+          "item_preview": "Coastal Collective Silk Cardigan, Silk Scarf"
+        },
+        {
+          "order_id": "FSH000062",
+          "status": "shipped",
+          "total": 55.34,
+          "item_count": 1,
+          "created_at": "2025-10-27T22:41:11",
+          "item_preview": "Sunset Studios Velvet Shorts"
+        },
+        {
+          "order_id": "FSH000135",
+          "status": "delivered",
+          "total": 961.38,
+          "item_count": 3,
+          "created_at": "2025-10-27T09:53:35",
+          "item_preview": "Fashion Forward Satin Cardigan, Sunset Studios Tweed Skirt, ..."
+        },
+        {
+          "order_id": "FSH000077",
+          "status": "shipped",
+          "total": 286.23,
+          "item_count": 3,
+          "created_at": "2025-10-26T02:38:18",
+          "item_preview": "Artisan Apparel Rayon Leggings, Timeless Trend Cotton Cardigan, ..."
+        },
+        {
+          "order_id": "FSH000069",
+          "status": "shipped",
+          "total": 282.0,
+          "item_count": 2,
+          "created_at": "2025-10-25T00:31:01",
+          "item_preview": "Coastal Collective Silk Cardigan, Heritage House Cashmere Leggings"
+        },
+        {
+          "order_id": "FSH000138",
+          "status": "shipped",
+          "total": 558.98,
+          "item_count": 3,
+          "created_at": "2025-10-24T07:19:19",
+          "item_preview": "The Basics Wool Hoodie, Modern Muse Velvet Handbag, ..."
+        },
+        {
+          "order_id": "FSH000153",
+          "status": "cancelled",
+          "total": 324.78,
+          "item_count": 2,
+          "created_at": "2025-10-22T15:46:21",
+          "item_preview": "Sunset Studios Tweed Skirt, Fashion Forward Jersey Ankle Boots"
+        },
+        {
+          "order_id": "FSH000067",
+          "status": "cancelled",
+          "total": 394.5,
+          "item_count": 3,
+          "created_at": "2025-10-12T22:44:04",
+          "item_preview": "Sunset Studios Tweed Skirt, Essential Edit Silk Skirt, ..."
+        },
+        {
+          "order_id": "FSH000071",
+          "status": "delivered",
+          "total": 560.46,
+          "item_count": 1,
+          "created_at": "2025-10-11T18:25:34",
+          "item_preview": "Urban Thread Linen Handbag"
+        },
+        {
+          "order_id": "FSH000073",
+          "status": "delivered",
+          "total": 232.22,
+          "item_count": 1,
+          "created_at": "2025-10-02T19:23:28",
+          "item_preview": "Nordic Style Jersey Midi Dress"
+        },
+        {
+          "order_id": "FSH000144",
+          "status": "cancelled",
+          "total": 124.01,
+          "item_count": 2,
+          "created_at": "2025-10-01T09:59:03",
+          "item_preview": "Chino Shorts, Everyday Elegance Suede Flats"
+        }
+      ]
+    }
+  ]
+}

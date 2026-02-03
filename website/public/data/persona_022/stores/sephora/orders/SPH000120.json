@@ -1,0 +1,22 @@
+{
+  "order_id": "SPH000120",
+  "persona_id": "persona_022",
+  "store_id": "sephora",
+  "status": "delivered",
+  "created_at": "2025-11-23T20:23:12",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "444 Polish Hill St, Philadelphia, PA 19123",
+  "items": [
+    {
+      "product_id": "SPH0091",
+      "name": "Cream Cleanser",
+      "category": "Skincare",
+      "quantity": 1,
+      "price": 25.82,
+      "subtotal": 25.82
+    }
+  ],
+  "total": 25.82,
+  "currency": "USD"
+}

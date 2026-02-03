@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-2",
+  "persona_id": "USR001",
+  "store_id": "bakery",
+  "status": "completed",
+  "created_at": "2026-01-10 08:15:00",
+  "items": [
+    {
+      "product_id": "14",
+      "name": "Chocolate Chip Cookie",
+      "category": "Cookies",
+      "quantity": 3,
+      "price": 2.49,
+      "subtotal": 7.47
+    }
+  ],
+  "total": 7.47,
+  "currency": "USD"
+}

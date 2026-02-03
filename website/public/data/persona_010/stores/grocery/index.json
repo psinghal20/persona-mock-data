@@ -1,0 +1,785 @@
+{
+  "persona_id": "persona_010",
+  "store_id": "grocery",
+  "store_name": "Grocery",
+  "transaction_type": "orders",
+  "transaction_label": "orders",
+  "has_cost": true,
+  "summary": {
+    "total_count": 47,
+    "total_spent": 11250.61,
+    "first_date": "2025-10-13",
+    "last_date": "2026-01-27"
+  },
+  "items": [
+    {
+      "order_id": "GRC000006",
+      "status": "delivered",
+      "total": 91.82,
+      "item_count": 8,
+      "created_at": "2026-01-27T10:37:06",
+      "item_preview": "Daily Delight Organic Half and Half, Fresh Express Collard Greens, ..."
+    },
+    {
+      "order_id": "GRC000255",
+      "status": "delivered",
+      "total": 297.45,
+      "item_count": 20,
+      "created_at": "2026-01-27T02:39:10",
+      "item_preview": "Mountain Fresh Mustard, Heritage Foods Organic Apple Pie, ..."
+    },
+    {
+      "order_id": "GRC000026",
+      "status": "delivered",
+      "total": 390.02,
+      "item_count": 15,
+      "created_at": "2026-01-23T07:09:50",
+      "item_preview": "Farm Fresh Bell Peppers, Philadelphia Gouda Cheese, ..."
+    },
+    {
+      "order_id": "GRC000266",
+      "status": "delivered",
+      "total": 740.4,
+      "item_count": 12,
+      "created_at": "2026-01-23T02:45:48",
+      "item_preview": "Sunrise Farms Frozen Mac and Cheese, Local Pride Organic NY Strip Steak, ..."
+    },
+    {
+      "order_id": "GRC000009",
+      "status": "delivered",
+      "total": 306.84,
+      "item_count": 8,
+      "created_at": "2026-01-22T03:12:26",
+      "item_preview": "Green Giant Mac and Cheese, Meadow Gold Cheesecake, ..."
+    },
+    {
+      "order_id": "GRC000005",
+      "status": "delivered",
+      "total": 288.73,
+      "item_count": 15,
+      "created_at": "2026-01-21T10:54:12",
+      "item_preview": "Fresh Express Mache, Market Fresh Protein Bars, ..."
+    },
+    {
+      "order_id": "GRC000025",
+      "status": "delivered",
+      "total": 109.31,
+      "item_count": 8,
+      "created_at": "2026-01-20T21:29:23",
+      "item_preview": "Golden Harvest Organic Donuts, Organic Valley Fresh Rosemary, ..."
+    },
+    {
+      "order_id": "GRC000008",
+      "status": "delivered",
+      "total": 68.4,
+      "item_count": 8,
+      "created_at": "2026-01-18T23:42:51",
+      "item_preview": "Fresh Express Fresh Oregano, Mountain Fresh Ground Lamb, ..."
+    },
+    {
+      "order_id": "GRC000023",
+      "status": "delivered",
+      "total": 181.96,
+      "item_count": 8,
+      "created_at": "2026-01-18T07:24:32",
+      "item_preview": "Golden Harvest Organic Lemonade, Organic Valley Black Plum, ..."
+    },
+    {
+      "order_id": "GRC000252",
+      "status": "delivered",
+      "total": 467.89,
+      "item_count": 20,
+      "created_at": "2026-01-11T05:07:10",
+      "item_preview": "Mountain Fresh Grapefruit, Organic Choice Brown Sugar, ..."
+    },
+    {
+      "order_id": "GRC000012",
+      "status": "pending",
+      "total": 214.21,
+      "item_count": 15,
+      "created_at": "2026-01-07T00:53:46",
+      "item_preview": "Cal-Organic Rutabaga, Farm Fresh Mozzarella, ..."
+    },
+    {
+      "order_id": "GRC000019",
+      "status": "delivered",
+      "total": 285.19,
+      "item_count": 15,
+      "created_at": "2026-01-02T02:22:54",
+      "item_preview": "Home Style Lettuce, Bell & Evans Organic Chicken Thighs, ..."
+    },
+    {
+      "order_id": "GRC000256",
+      "status": "delivered",
+      "total": 213.48,
+      "item_count": 12,
+      "created_at": "2026-01-01T16:59:24",
+      "item_preview": "Home Style Lettuce, Bananas, ..."
+    },
+    {
+      "order_id": "GRC000249",
+      "status": "delivered",
+      "total": 141.61,
+      "item_count": 8,
+      "created_at": "2025-12-31T05:55:45",
+      "item_preview": "Ben & Jerry's Frozen French Toast, Heritage Foods Organic Frozen Lasagna, ..."
+    },
+    {
+      "order_id": "GRC000253",
+      "status": "delivered",
+      "total": 70.08,
+      "item_count": 5,
+      "created_at": "2025-12-30T18:53:34",
+      "item_preview": "Organic Valley Muenster Cheese, Fresh Farms Swiss Cheese, ..."
+    },
+    {
+      "order_id": "GRC000251",
+      "status": "cancelled",
+      "total": 77.59,
+      "item_count": 8,
+      "created_at": "2025-12-30T04:18:13",
+      "item_preview": "Market Fresh Sugar, Fresh Farms Cheese Dip, ..."
+    },
+    {
+      "order_id": "GRC000001",
+      "status": "delivered",
+      "total": 128.11,
+      "item_count": 12,
+      "created_at": "2025-12-30T00:22:07",
+      "item_preview": "Organic Valley Shallot, Mountain Fresh Italian Dressing, ..."
+    },
+    {
+      "order_id": "GRC000258",
+      "status": "delivered",
+      "total": 294.64,
+      "item_count": 8,
+      "created_at": "2025-12-28T03:54:38",
+      "item_preview": "Cal-Organic Rutabaga, Market Fresh Peaches, ..."
+    },
+    {
+      "order_id": "GRC000264",
+      "status": "shipped",
+      "total": 236.7,
+      "item_count": 8,
+      "created_at": "2025-12-26T14:56:07",
+      "item_preview": "Organic Valley Fresh Blackberries, Market Fresh Oatmeal, ..."
+    },
+    {
+      "order_id": "GRC000262",
+      "status": "delivered",
+      "total": 193.19,
+      "item_count": 12,
+      "created_at": "2025-12-24T07:27:37",
+      "item_preview": "Organic Valley Bacon Avocado, Pure & Simple Organic Salt, ..."
+    },
+    {
+      "order_id": "GRC000007",
+      "status": "delivered",
+      "total": 283.48,
+      "item_count": 12,
+      "created_at": "2025-12-24T02:50:23",
+      "item_preview": "Market Fresh Protein Bars, Premium Select Organic Almond Milk, ..."
+    },
+    {
+      "order_id": "GRC000015",
+      "status": "delivered",
+      "total": 186.53,
+      "item_count": 8,
+      "created_at": "2025-12-21T18:03:38",
+      "item_preview": "Cal-Organic Maitake Mushrooms, Organic Valley Baby Swiss, ..."
+    },
+    {
+      "order_id": "GRC000268",
+      "status": "shipped",
+      "total": 76.76,
+      "item_count": 5,
+      "created_at": "2025-12-17T16:17:27",
+      "item_preview": "Simply Good Organic Cherries, Driscoll's Fresh Lemongrass, ..."
+    },
+    {
+      "order_id": "GRC000260",
+      "status": "delivered",
+      "total": 263.51,
+      "item_count": 20,
+      "created_at": "2025-12-16T00:38:53",
+      "item_preview": "Premium Select Organic Canned Pineapple, Classic Kitchen Organic Frozen Shrimp, ..."
+    },
+    {
+      "order_id": "GRC000265",
+      "status": "delivered",
+      "total": 319.08,
+      "item_count": 15,
+      "created_at": "2025-12-10T06:54:44",
+      "item_preview": "Country Best Organic Heavy Cream, Premium Select Organic Almond Milk, ..."
+    },
+    {
+      "order_id": "GRC000267",
+      "status": "pending",
+      "total": 370.29,
+      "item_count": 15,
+      "created_at": "2025-12-09T01:51:15",
+      "item_preview": "Heritage Foods Organic Ribeye Steak, Simply Good Organic Cherries, ..."
+    },
+    {
+      "order_id": "GRC000021",
+      "status": "delivered",
+      "total": 183.91,
+      "item_count": 12,
+      "created_at": "2025-12-08T02:15:43",
+      "item_preview": "Green Valley Organic Napkins, Market Fresh Organic Almonds, ..."
+    },
+    {
+      "order_id": "GRC000263",
+      "status": "shipped",
+      "total": 117.32,
+      "item_count": 8,
+      "created_at": "2025-12-07T03:22:24",
+      "item_preview": "Farm Fresh Raspberries, Cal-Organic Chayote, ..."
+    },
+    {
+      "order_id": "GRC000014",
+      "status": "pending",
+      "total": 469.64,
+      "item_count": 12,
+      "created_at": "2025-12-06T03:34:44",
+      "item_preview": "Farm Fresh Organic Steel Cut Oats, Mountain Fresh Organic Beef Jerky, ..."
+    },
+    {
+      "order_id": "GRC000261",
+      "status": "delivered",
+      "total": 247.83,
+      "item_count": 8,
+      "created_at": "2025-12-01T23:55:41",
+      "item_preview": "Meadow Gold Cheesecake, Mountain Fresh Baby Formula, ..."
+    },
+    {
+      "order_id": "GRC000022",
+      "status": "delivered",
+      "total": 43.67,
+      "item_count": 5,
+      "created_at": "2025-11-25T10:16:35",
+      "item_preview": "Quality First Organic Cat Treats, Organic Choice Brown Sugar, ..."
+    },
+    {
+      "order_id": "GRC000011",
+      "status": "pending",
+      "total": 107.1,
+      "item_count": 5,
+      "created_at": "2025-11-19T17:45:59",
+      "item_preview": "Mountain Fresh Lentils, Kraft Cream Cheese Spread, ..."
+    },
+    {
+      "order_id": "GRC000002",
+      "status": "delivered",
+      "total": 101.14,
+      "item_count": 8,
+      "created_at": "2025-11-19T17:07:22",
+      "item_preview": "Driscoll's Fresh Basil, Organic Valley Baby Swiss, ..."
+    },
+    {
+      "order_id": "GRC000013",
+      "status": "delivered",
+      "total": 91.12,
+      "item_count": 8,
+      "created_at": "2025-11-17T00:20:16",
+      "item_preview": "Mountain Fresh Italian Dressing, Sunrise Farms Organic Cucumber, ..."
+    },
+    {
+      "order_id": "GRC000020",
+      "status": "delivered",
+      "total": 154.75,
+      "item_count": 15,
+      "created_at": "2025-11-15T08:11:46",
+      "item_preview": "Ground Beef 80/20, Farm Fresh Almonds, ..."
+    },
+    {
+      "order_id": "GRC000259",
+      "status": "shipped",
+      "total": 625.85,
+      "item_count": 20,
+      "created_at": "2025-11-14T13:28:43",
+      "item_preview": "Earthbound Farm Fresh Curry Leaves, Farm Fresh BBQ Sauce, ..."
+    },
+    {
+      "order_id": "GRC000024",
+      "status": "delivered",
+      "total": 172.45,
+      "item_count": 12,
+      "created_at": "2025-11-11T13:01:45",
+      "item_preview": "Green Valley Organic Sirloin Steak, Local Pride Organic Swiss Cheese, ..."
+    },
+    {
+      "order_id": "GRC000010",
+      "status": "delivered",
+      "total": 192.21,
+      "item_count": 12,
+      "created_at": "2025-11-09T00:34:51",
+      "item_preview": "Organic Choice Broccoli, Home Style Organic Coconut Milk, ..."
+    },
+    {
+      "order_id": "GRC000250",
+      "status": "shipped",
+      "total": 547.5,
+      "item_count": 20,
+      "created_at": "2025-11-08T05:41:33",
+      "item_preview": "Golden Harvest Organic Baby Formula, Simply Good Organic Dinner Rolls, ..."
+    },
+    {
+      "order_id": "GRC000254",
+      "status": "pending",
+      "total": 111.58,
+      "item_count": 5,
+      "created_at": "2025-11-08T02:03:37",
+      "item_preview": "Farm Fresh Organic Kidney Beans, Organic Choice Mangoes, ..."
+    },
+    {
+      "order_id": "GRC000003",
+      "status": "delivered",
+      "total": 427.04,
+      "item_count": 15,
+      "created_at": "2025-11-04T04:41:07",
+      "item_preview": "Organic Valley Black Plum, Mountain Fresh Ribeye Steak, ..."
+    },
+    {
+      "order_id": "GRC000016",
+      "status": "cancelled",
+      "total": 357.01,
+      "item_count": 12,
+      "created_at": "2025-11-02T01:17:13",
+      "item_preview": "Kraft Goat Cheese Log, Fresh Farms Instant Coffee, ..."
+    },
+    {
+      "order_id": "GRC000269",
+      "status": "pending",
+      "total": 345.17,
+      "item_count": 15,
+      "created_at": "2025-10-28T14:39:10",
+      "item_preview": "Simply Good Organic Eggplant, Plum Organics Pea Puree, ..."
+    },
+    {
+      "order_id": "GRC000004",
+      "status": "delivered",
+      "total": 141.59,
+      "item_count": 15,
+      "created_at": "2025-10-18T01:49:42",
+      "item_preview": "Local Pride Organic Dog Food Wet, Fresh Farms Canned Tomatoes, ..."
+    },
+    {
+      "order_id": "GRC000257",
+      "status": "delivered",
+      "total": 59.51,
+      "item_count": 5,
+      "created_at": "2025-10-16T04:18:59",
+      "item_preview": "Market Fresh Donuts, Ground Beef 80/20, ..."
+    },
+    {
+      "order_id": "GRC000017",
+      "status": "cancelled",
+      "total": 205.04,
+      "item_count": 15,
+      "created_at": "2025-10-14T16:57:03",
+      "item_preview": "Philadelphia Gouda Cheese, Fresh Farms Mangoes, ..."
+    },
+    {
+      "order_id": "GRC000018",
+      "status": "delivered",
+      "total": 251.91,
+      "item_count": 12,
+      "created_at": "2025-10-13T18:23:06",
+      "item_preview": "Golden Harvest Organic Lemonade, Organic Valley Eggs Large Dozen, ..."
+    }
+  ],
+  "categories": [
+    {
+      "id": "orders",
+      "name": "Orders",
+      "type": "orders",
+      "label": "orders",
+      "has_cost": true,
+      "summary": {
+        "total_count": 47,
+        "total_spent": 11250.61,
+        "first_date": "2025-10-13",
+        "last_date": "2026-01-27"
+      },
+      "items": [
+        {
+          "order_id": "GRC000006",
+          "status": "delivered",
+          "total": 91.82,
+          "item_count": 8,
+          "created_at": "2026-01-27T10:37:06",
+          "item_preview": "Daily Delight Organic Half and Half, Fresh Express Collard Greens, ..."
+        },
+        {
+          "order_id": "GRC000255",
+          "status": "delivered",
+          "total": 297.45,
+          "item_count": 20,
+          "created_at": "2026-01-27T02:39:10",
+          "item_preview": "Mountain Fresh Mustard, Heritage Foods Organic Apple Pie, ..."
+        },
+        {
+          "order_id": "GRC000026",
+          "status": "delivered",
+          "total": 390.02,
+          "item_count": 15,
+          "created_at": "2026-01-23T07:09:50",
+          "item_preview": "Farm Fresh Bell Peppers, Philadelphia Gouda Cheese, ..."
+        },
+        {
+          "order_id": "GRC000266",
+          "status": "delivered",
+          "total": 740.4,
+          "item_count": 12,
+          "created_at": "2026-01-23T02:45:48",
+          "item_preview": "Sunrise Farms Frozen Mac and Cheese, Local Pride Organic NY Strip Steak, ..."
+        },
+        {
+          "order_id": "GRC000009",
+          "status": "delivered",
+          "total": 306.84,
+          "item_count": 8,
+          "created_at": "2026-01-22T03:12:26",
+          "item_preview": "Green Giant Mac and Cheese, Meadow Gold Cheesecake, ..."
+        },
+        {
+          "order_id": "GRC000005",
+          "status": "delivered",
+          "total": 288.73,
+          "item_count": 15,
+          "created_at": "2026-01-21T10:54:12",
+          "item_preview": "Fresh Express Mache, Market Fresh Protein Bars, ..."
+        },
+        {
+          "order_id": "GRC000025",
+          "status": "delivered",
+          "total": 109.31,
+          "item_count": 8,
+          "created_at": "2026-01-20T21:29:23",
+          "item_preview": "Golden Harvest Organic Donuts, Organic Valley Fresh Rosemary, ..."
+        },
+        {
+          "order_id": "GRC000008",
+          "status": "delivered",
+          "total": 68.4,
+          "item_count": 8,
+          "created_at": "2026-01-18T23:42:51",
+          "item_preview": "Fresh Express Fresh Oregano, Mountain Fresh Ground Lamb, ..."
+        },
+        {
+          "order_id": "GRC000023",
+          "status": "delivered",
+          "total": 181.96,
+          "item_count": 8,
+          "created_at": "2026-01-18T07:24:32",
+          "item_preview": "Golden Harvest Organic Lemonade, Organic Valley Black Plum, ..."
+        },
+        {
+          "order_id": "GRC000252",
+          "status": "delivered",
+          "total": 467.89,
+          "item_count": 20,
+          "created_at": "2026-01-11T05:07:10",
+          "item_preview": "Mountain Fresh Grapefruit, Organic Choice Brown Sugar, ..."
+        },
+        {
+          "order_id": "GRC000012",
+          "status": "pending",
+          "total": 214.21,
+          "item_count": 15,
+          "created_at": "2026-01-07T00:53:46",
+          "item_preview": "Cal-Organic Rutabaga, Farm Fresh Mozzarella, ..."
+        },
+        {
+          "order_id": "GRC000019",
+          "status": "delivered",
+          "total": 285.19,
+          "item_count": 15,
+          "created_at": "2026-01-02T02:22:54",
+          "item_preview": "Home Style Lettuce, Bell & Evans Organic Chicken Thighs, ..."
+        },
+        {
+          "order_id": "GRC000256",
+          "status": "delivered",
+          "total": 213.48,
+          "item_count": 12,
+          "created_at": "2026-01-01T16:59:24",
+          "item_preview": "Home Style Lettuce, Bananas, ..."
+        },
+        {
+          "order_id": "GRC000249",
+          "status": "delivered",
+          "total": 141.61,
+          "item_count": 8,
+          "created_at": "2025-12-31T05:55:45",
+          "item_preview": "Ben & Jerry's Frozen French Toast, Heritage Foods Organic Frozen Lasagna, ..."
+        },
+        {
+          "order_id": "GRC000253",
+          "status": "delivered",
+          "total": 70.08,
+          "item_count": 5,
+          "created_at": "2025-12-30T18:53:34",
+          "item_preview": "Organic Valley Muenster Cheese, Fresh Farms Swiss Cheese, ..."
+        },
+        {
+          "order_id": "GRC000251",
+          "status": "cancelled",
+          "total": 77.59,
+          "item_count": 8,
+          "created_at": "2025-12-30T04:18:13",
+          "item_preview": "Market Fresh Sugar, Fresh Farms Cheese Dip, ..."
+        },
+        {
+          "order_id": "GRC000001",
+          "status": "delivered",
+          "total": 128.11,
+          "item_count": 12,
+          "created_at": "2025-12-30T00:22:07",
+          "item_preview": "Organic Valley Shallot, Mountain Fresh Italian Dressing, ..."
+        },
+        {
+          "order_id": "GRC000258",
+          "status": "delivered",
+          "total": 294.64,
+          "item_count": 8,
+          "created_at": "2025-12-28T03:54:38",
+          "item_preview": "Cal-Organic Rutabaga, Market Fresh Peaches, ..."
+        },
+        {
+          "order_id": "GRC000264",
+          "status": "shipped",
+          "total": 236.7,
+          "item_count": 8,
+          "created_at": "2025-12-26T14:56:07",
+          "item_preview": "Organic Valley Fresh Blackberries, Market Fresh Oatmeal, ..."
+        },
+        {
+          "order_id": "GRC000262",
+          "status": "delivered",
+          "total": 193.19,
+          "item_count": 12,
+          "created_at": "2025-12-24T07:27:37",
+          "item_preview": "Organic Valley Bacon Avocado, Pure & Simple Organic Salt, ..."
+        },
+        {
+          "order_id": "GRC000007",
+          "status": "delivered",
+          "total": 283.48,
+          "item_count": 12,
+          "created_at": "2025-12-24T02:50:23",
+          "item_preview": "Market Fresh Protein Bars, Premium Select Organic Almond Milk, ..."
+        },
+        {
+          "order_id": "GRC000015",
+          "status": "delivered",
+          "total": 186.53,
+          "item_count": 8,
+          "created_at": "2025-12-21T18:03:38",
+          "item_preview": "Cal-Organic Maitake Mushrooms, Organic Valley Baby Swiss, ..."
+        },
+        {
+          "order_id": "GRC000268",
+          "status": "shipped",
+          "total": 76.76,
+          "item_count": 5,
+          "created_at": "2025-12-17T16:17:27",
+          "item_preview": "Simply Good Organic Cherries, Driscoll's Fresh Lemongrass, ..."
+        },
+        {
+          "order_id": "GRC000260",
+          "status": "delivered",
+          "total": 263.51,
+          "item_count": 20,
+          "created_at": "2025-12-16T00:38:53",
+          "item_preview": "Premium Select Organic Canned Pineapple, Classic Kitchen Organic Frozen Shrimp, ..."
+        },
+        {
+          "order_id": "GRC000265",
+          "status": "delivered",
+          "total": 319.08,
+          "item_count": 15,
+          "created_at": "2025-12-10T06:54:44",
+          "item_preview": "Country Best Organic Heavy Cream, Premium Select Organic Almond Milk, ..."
+        },
+        {
+          "order_id": "GRC000267",
+          "status": "pending",
+          "total": 370.29,
+          "item_count": 15,
+          "created_at": "2025-12-09T01:51:15",
+          "item_preview": "Heritage Foods Organic Ribeye Steak, Simply Good Organic Cherries, ..."
+        },
+        {
+          "order_id": "GRC000021",
+          "status": "delivered",
+          "total": 183.91,
+          "item_count": 12,
+          "created_at": "2025-12-08T02:15:43",
+          "item_preview": "Green Valley Organic Napkins, Market Fresh Organic Almonds, ..."
+        },
+        {
+          "order_id": "GRC000263",
+          "status": "shipped",
+          "total": 117.32,
+          "item_count": 8,
+          "created_at": "2025-12-07T03:22:24",
+          "item_preview": "Farm Fresh Raspberries, Cal-Organic Chayote, ..."
+        },
+        {
+          "order_id": "GRC000014",
+          "status": "pending",
+          "total": 469.64,
+          "item_count": 12,
+          "created_at": "2025-12-06T03:34:44",
+          "item_preview": "Farm Fresh Organic Steel Cut Oats, Mountain Fresh Organic Beef Jerky, ..."
+        },
+        {
+          "order_id": "GRC000261",
+          "status": "delivered",
+          "total": 247.83,
+          "item_count": 8,
+          "created_at": "2025-12-01T23:55:41",
+          "item_preview": "Meadow Gold Cheesecake, Mountain Fresh Baby Formula, ..."
+        },
+        {
+          "order_id": "GRC000022",
+          "status": "delivered",
+          "total": 43.67,
+          "item_count": 5,
+          "created_at": "2025-11-25T10:16:35",
+          "item_preview": "Quality First Organic Cat Treats, Organic Choice Brown Sugar, ..."
+        },
+        {
+          "order_id": "GRC000011",
+          "status": "pending",
+          "total": 107.1,
+          "item_count": 5,
+          "created_at": "2025-11-19T17:45:59",
+          "item_preview": "Mountain Fresh Lentils, Kraft Cream Cheese Spread, ..."
+        },
+        {
+          "order_id": "GRC000002",
+          "status": "delivered",
+          "total": 101.14,
+          "item_count": 8,
+          "created_at": "2025-11-19T17:07:22",
+          "item_preview": "Driscoll's Fresh Basil, Organic Valley Baby Swiss, ..."
+        },
+        {
+          "order_id": "GRC000013",
+          "status": "delivered",
+          "total": 91.12,
+          "item_count": 8,
+          "created_at": "2025-11-17T00:20:16",
+          "item_preview": "Mountain Fresh Italian Dressing, Sunrise Farms Organic Cucumber, ..."
+        },
+        {
+          "order_id": "GRC000020",
+          "status": "delivered",
+          "total": 154.75,
+          "item_count": 15,
+          "created_at": "2025-11-15T08:11:46",
+          "item_preview": "Ground Beef 80/20, Farm Fresh Almonds, ..."
+        },
+        {
+          "order_id": "GRC000259",
+          "status": "shipped",
+          "total": 625.85,
+          "item_count": 20,
+          "created_at": "2025-11-14T13:28:43",
+          "item_preview": "Earthbound Farm Fresh Curry Leaves, Farm Fresh BBQ Sauce, ..."
+        },
+        {
+          "order_id": "GRC000024",
+          "status": "delivered",
+          "total": 172.45,
+          "item_count": 12,
+          "created_at": "2025-11-11T13:01:45",
+          "item_preview": "Green Valley Organic Sirloin Steak, Local Pride Organic Swiss Cheese, ..."
+        },
+        {
+          "order_id": "GRC000010",
+          "status": "delivered",
+          "total": 192.21,
+          "item_count": 12,
+          "created_at": "2025-11-09T00:34:51",
+          "item_preview": "Organic Choice Broccoli, Home Style Organic Coconut Milk, ..."
+        },
+        {
+          "order_id": "GRC000250",
+          "status": "shipped",
+          "total": 547.5,
+          "item_count": 20,
+          "created_at": "2025-11-08T05:41:33",
+          "item_preview": "Golden Harvest Organic Baby Formula, Simply Good Organic Dinner Rolls, ..."
+        },
+        {
+          "order_id": "GRC000254",
+          "status": "pending",
+          "total": 111.58,
+          "item_count": 5,
+          "created_at": "2025-11-08T02:03:37",
+          "item_preview": "Farm Fresh Organic Kidney Beans, Organic Choice Mangoes, ..."
+        },
+        {
+          "order_id": "GRC000003",
+          "status": "delivered",
+          "total": 427.04,
+          "item_count": 15,
+          "created_at": "2025-11-04T04:41:07",
+          "item_preview": "Organic Valley Black Plum, Mountain Fresh Ribeye Steak, ..."
+        },
+        {
+          "order_id": "GRC000016",
+          "status": "cancelled",
+          "total": 357.01,
+          "item_count": 12,
+          "created_at": "2025-11-02T01:17:13",
+          "item_preview": "Kraft Goat Cheese Log, Fresh Farms Instant Coffee, ..."
+        },
+        {
+          "order_id": "GRC000269",
+          "status": "pending",
+          "total": 345.17,
+          "item_count": 15,
+          "created_at": "2025-10-28T14:39:10",
+          "item_preview": "Simply Good Organic Eggplant, Plum Organics Pea Puree, ..."
+        },
+        {
+          "order_id": "GRC000004",
+          "status": "delivered",
+          "total": 141.59,
+          "item_count": 15,
+          "created_at": "2025-10-18T01:49:42",
+          "item_preview": "Local Pride Organic Dog Food Wet, Fresh Farms Canned Tomatoes, ..."
+        },
+        {
+          "order_id": "GRC000257",
+          "status": "delivered",
+          "total": 59.51,
+          "item_count": 5,
+          "created_at": "2025-10-16T04:18:59",
+          "item_preview": "Market Fresh Donuts, Ground Beef 80/20, ..."
+        },
+        {
+          "order_id": "GRC000017",
+          "status": "cancelled",
+          "total": 205.04,
+          "item_count": 15,
+          "created_at": "2025-10-14T16:57:03",
+          "item_preview": "Philadelphia Gouda Cheese, Fresh Farms Mangoes, ..."
+        },
+        {
+          "order_id": "GRC000018",
+          "status": "delivered",
+          "total": 251.91,
+          "item_count": 12,
+          "created_at": "2025-10-13T18:23:06",
+          "item_preview": "Golden Harvest Organic Lemonade, Organic Valley Eggs Large Dozen, ..."
+        }
+      ]
+    }
+  ]
+}

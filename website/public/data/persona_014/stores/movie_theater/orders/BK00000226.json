@@ -1,0 +1,23 @@
+{
+  "order_id": "BK00000226",
+  "persona_id": "persona_014",
+  "store_id": "movie_theater",
+  "type": "booking",
+  "status": "pending",
+  "created_at": "2026-01-04T17:09:52",
+  "confirmation_code": "AMC-DC64WA",
+  "items": [
+    {
+      "product_id": "MOV069",
+      "name": "Reagan",
+      "showtime": "",
+      "theater": "",
+      "seats": "R2,R3,R4",
+      "quantity": 3,
+      "price": 26.99,
+      "subtotal": 80.97
+    }
+  ],
+  "total": 80.97,
+  "currency": "USD"
+}

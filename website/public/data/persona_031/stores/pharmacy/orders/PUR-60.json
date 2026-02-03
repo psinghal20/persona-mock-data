@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-60",
+  "persona_id": "persona_031",
+  "store_id": "pharmacy",
+  "status": "completed",
+  "created_at": "2025-12-07T10:47:39",
+  "items": [
+    {
+      "product_id": "311",
+      "name": "Halls Cough Drops",
+      "category": "Cold & Flu",
+      "quantity": 3,
+      "price": 4.99,
+      "subtotal": 14.97
+    }
+  ],
+  "total": 14.97,
+  "currency": "USD"
+}

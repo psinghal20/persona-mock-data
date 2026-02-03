@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-17",
+  "persona_id": "persona_009",
+  "store_id": "pharmacy",
+  "status": "completed",
+  "created_at": "2025-11-07T12:00:19",
+  "items": [
+    {
+      "product_id": "5",
+      "name": "Motrin IB",
+      "category": "Pain Relief",
+      "quantity": 2,
+      "price": 9.99,
+      "subtotal": 19.98
+    }
+  ],
+  "total": 19.98,
+  "currency": "USD"
+}

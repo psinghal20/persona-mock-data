@@ -1,0 +1,22 @@
+{
+  "order_id": "SUB-11",
+  "persona_id": "persona_022",
+  "store_id": "florist",
+  "type": "subscription",
+  "status": "active",
+  "created_at": "2025-10-15T16:43:51",
+  "items": [
+    {
+      "product_id": "plan-11",
+      "name": "Weekly Premium",
+      "description": "Weekly delivery - Bright & Colorful",
+      "recipient": "Anna Kowalczyk",
+      "next_delivery": "2025-10-22",
+      "quantity": 1,
+      "price": 69.99,
+      "subtotal": 69.99
+    }
+  ],
+  "total": 69.99,
+  "currency": "USD"
+}

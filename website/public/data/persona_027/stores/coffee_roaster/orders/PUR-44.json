@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-44",
+  "persona_id": "persona_027",
+  "store_id": "coffee_roaster",
+  "status": "completed",
+  "created_at": "2025-11-14T06:21:17",
+  "items": [
+    {
+      "product_id": "86",
+      "name": "Italian Roast",
+      "category": "",
+      "quantity": 1,
+      "price": 15.5,
+      "subtotal": 15.5
+    }
+  ],
+  "total": 15.5,
+  "currency": "USD"
+}

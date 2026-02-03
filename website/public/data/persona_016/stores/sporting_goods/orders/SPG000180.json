@@ -1,0 +1,30 @@
+{
+  "order_id": "SPG000180",
+  "persona_id": "persona_016",
+  "store_id": "sporting_goods",
+  "status": "shipped",
+  "created_at": "2026-01-17T14:27:46",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "222 Tech Campus Way, Austin, TX 78701",
+  "items": [
+    {
+      "product_id": "YGA001",
+      "name": "Reversible Mat 5mm",
+      "category": "Mats",
+      "quantity": 1,
+      "price": 88.0,
+      "subtotal": 88.0
+    },
+    {
+      "product_id": "RUN010",
+      "name": "Pro Compression Socks",
+      "category": "Accessories",
+      "quantity": 1,
+      "price": 59.99,
+      "subtotal": 59.99
+    }
+  ],
+  "total": 147.99,
+  "currency": "USD"
+}

@@ -1,0 +1,134 @@
+{
+  "order_id": "GRC000269",
+  "persona_id": "persona_010",
+  "store_id": "grocery",
+  "status": "pending",
+  "created_at": "2025-10-28T14:39:10",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "321 French Quarter Ave, New Orleans, LA 70116",
+  "items": [
+    {
+      "product_id": "prod_150",
+      "name": "Simply Good Organic Eggplant",
+      "category": "Produce",
+      "quantity": 3,
+      "price": 3.76,
+      "subtotal": 11.28
+    },
+    {
+      "product_id": "GRO-1553",
+      "name": "Plum Organics Pea Puree",
+      "category": "Baby",
+      "quantity": 3,
+      "price": 10.46,
+      "subtotal": 31.38
+    },
+    {
+      "product_id": "GRO-1773",
+      "name": "Organic Valley White Cheddar",
+      "category": "Dairy",
+      "quantity": 3,
+      "price": 8.73,
+      "subtotal": 26.19
+    },
+    {
+      "product_id": "prod_527",
+      "name": "Heritage Foods Organic Apple Pie",
+      "category": "Bakery",
+      "quantity": 4,
+      "price": 31.92,
+      "subtotal": 127.68
+    },
+    {
+      "product_id": "prod_741",
+      "name": "Mountain Fresh Salsa",
+      "category": "Snacks",
+      "quantity": 1,
+      "price": 5.11,
+      "subtotal": 5.11
+    },
+    {
+      "product_id": "prod_285",
+      "name": "Pure & Simple Organic Cod",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 18.12,
+      "subtotal": 18.12
+    },
+    {
+      "product_id": "GRO-0985",
+      "name": "Cal-Organic Pomelo",
+      "category": "Produce",
+      "quantity": 2,
+      "price": 3.52,
+      "subtotal": 7.04
+    },
+    {
+      "product_id": "prod_210",
+      "name": "Local Pride Goat Cheese",
+      "category": "Dairy",
+      "quantity": 2,
+      "price": 6.67,
+      "subtotal": 13.34
+    },
+    {
+      "product_id": "prod_422",
+      "name": "Farm Fresh Organic Tomato Paste",
+      "category": "Pantry",
+      "quantity": 4,
+      "price": 2.57,
+      "subtotal": 10.28
+    },
+    {
+      "product_id": "prod_508",
+      "name": "Farm Fresh Hot Dog Buns",
+      "category": "Bakery",
+      "quantity": 5,
+      "price": 3.17,
+      "subtotal": 15.85
+    },
+    {
+      "product_id": "prod_651",
+      "name": "Mountain Fresh Instant Coffee",
+      "category": "Beverages",
+      "quantity": 2,
+      "price": 9.32,
+      "subtotal": 18.64
+    },
+    {
+      "product_id": "prod_653",
+      "name": "Fresh Farms Instant Coffee",
+      "category": "Beverages",
+      "quantity": 4,
+      "price": 9.52,
+      "subtotal": 38.08
+    },
+    {
+      "product_id": "GRO-1028",
+      "name": "Earthbound Farm Fresh Curry Leaves",
+      "category": "Produce",
+      "quantity": 2,
+      "price": 7.67,
+      "subtotal": 15.34
+    },
+    {
+      "product_id": "prod_179",
+      "name": "Organic Choice Butter",
+      "category": "Dairy",
+      "quantity": 1,
+      "price": 4.49,
+      "subtotal": 4.49
+    },
+    {
+      "product_id": "prod_028",
+      "name": "Premium Select Organic Apples",
+      "category": "Produce",
+      "quantity": 1,
+      "price": 2.35,
+      "subtotal": 2.35
+    }
+  ],
+  "total": 345.17,
+  "currency": "USD"
+}

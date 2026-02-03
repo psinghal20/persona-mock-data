@@ -1,0 +1,30 @@
+{
+  "order_id": "JWL000036",
+  "persona_id": "persona_013",
+  "store_id": "jewelry_store",
+  "status": "shipped",
+  "created_at": "2025-12-03T05:21:43",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "555 Community Center Rd, Houston, TX 77001",
+  "items": [
+    {
+      "product_id": "JWL-125",
+      "name": "Classic Gold Hoops Medium",
+      "category": "Earrings",
+      "quantity": 1,
+      "price": 349.99,
+      "subtotal": 349.99
+    },
+    {
+      "product_id": "JWL-031",
+      "name": "Cuff Bracelet Gold",
+      "category": "Bracelets",
+      "quantity": 1,
+      "price": 1199.99,
+      "subtotal": 1199.99
+    }
+  ],
+  "total": 1549.98,
+  "currency": "USD"
+}

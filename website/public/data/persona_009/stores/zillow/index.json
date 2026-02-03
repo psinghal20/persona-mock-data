@@ -1,0 +1,227 @@
+{
+  "persona_id": "persona_009",
+  "store_id": "zillow",
+  "store_name": "Zillow",
+  "transaction_type": "tours",
+  "transaction_label": "tours",
+  "has_cost": false,
+  "summary": {
+    "total_count": 20,
+    "total_spent": 0,
+    "first_date": "2025-10-09",
+    "last_date": "2026-01-23"
+  },
+  "items": [],
+  "categories": [
+    {
+      "id": "tours",
+      "name": "Scheduled Tours",
+      "type": "tours",
+      "label": "tours",
+      "has_cost": false,
+      "summary": {
+        "total_count": 9,
+        "total_spent": 0,
+        "first_date": "2025-10-09",
+        "last_date": "2026-01-23"
+      },
+      "items": [
+        {
+          "order_id": "TOUR-34",
+          "display_name": "234 Lake Oswego Waterfront",
+          "description": "$1,950,000",
+          "status": "scheduled",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2026-01-23T15:00:00"
+        },
+        {
+          "order_id": "TOUR-6",
+          "display_name": "789 Newport Beach Harbor",
+          "description": "$6,250,000",
+          "status": "completed",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2026-01-02T16:00:00"
+        },
+        {
+          "order_id": "TOUR-35",
+          "display_name": "890 Lake Travis Waterfront",
+          "description": "$2,250,000",
+          "status": "scheduled",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-12-23T16:00:00"
+        },
+        {
+          "order_id": "TOUR-7",
+          "display_name": "567 Bellevue Waterfront",
+          "description": "$3,250,000",
+          "status": "completed",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-12-20T15:00:00"
+        },
+        {
+          "order_id": "TOUR-5",
+          "display_name": "567 Tampa Harbour Island",
+          "description": "$685,000",
+          "status": "cancelled",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-11-12T14:00:00"
+        },
+        {
+          "order_id": "TOUR-32",
+          "display_name": "123 Portland Pearl District",
+          "description": "$725,000",
+          "status": "scheduled",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-11-12T14:00:00"
+        },
+        {
+          "order_id": "TOUR-33",
+          "display_name": "789 Newport Beach Harbor",
+          "description": "$6,250,000",
+          "status": "completed",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-11-06T9:00:00"
+        },
+        {
+          "order_id": "TOUR-36",
+          "display_name": "789 Gaslamp Quarter",
+          "description": "$685,000",
+          "status": "completed",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-10-12T9:00:00"
+        },
+        {
+          "order_id": "TOUR-31",
+          "display_name": "890 Scottsdale Pinnacle",
+          "description": "$2,450,000",
+          "status": "completed",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-10-09T13:00:00"
+        }
+      ]
+    },
+    {
+      "id": "saved",
+      "name": "Saved Properties",
+      "type": "saved",
+      "label": "saved properties",
+      "has_cost": false,
+      "summary": {
+        "total_count": 11,
+        "total_spent": 0,
+        "first_date": "2025-10-10",
+        "last_date": "2026-01-18"
+      },
+      "items": [
+        {
+          "order_id": "SAVED-9",
+          "display_name": "890 Lake Travis Waterfront",
+          "description": "$2,250,000",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2026-01-18T23:20:32"
+        },
+        {
+          "order_id": "SAVED-8",
+          "display_name": "234 Lake Oswego Waterfront",
+          "description": "$1,950,000",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2026-01-16T06:21:43"
+        },
+        {
+          "order_id": "SAVED-5",
+          "display_name": "567 Bellevue Waterfront",
+          "description": "$3,250,000",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2026-01-08T07:43:24"
+        },
+        {
+          "order_id": "SAVED-6",
+          "display_name": "234 Sarasota Ringling",
+          "description": "$1,850,000",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2026-01-06T15:08:56"
+        },
+        {
+          "order_id": "SAVED-3",
+          "display_name": "234 Williamsburg Waterfront",
+          "description": "$1,450,000",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-11-30T18:28:01"
+        },
+        {
+          "order_id": "SAVED-10",
+          "display_name": "789 Newport Beach Harbor",
+          "description": "$6,250,000",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-11-28T13:42:33"
+        },
+        {
+          "order_id": "SAVED-4",
+          "display_name": "789 Gaslamp Quarter",
+          "description": "$685,000",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-11-26T01:24:22"
+        },
+        {
+          "order_id": "SAVED-1",
+          "display_name": "123 Coconut Grove Marina",
+          "description": "$1,950,000",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-11-24T15:43:49"
+        },
+        {
+          "order_id": "SAVED-61",
+          "display_name": "123 Portland Pearl District",
+          "description": "$725,000",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-11-09T12:04:30"
+        },
+        {
+          "order_id": "SAVED-2",
+          "display_name": "890 Scottsdale Pinnacle",
+          "description": "$2,450,000",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-11-05T12:47:56"
+        },
+        {
+          "order_id": "SAVED-7",
+          "display_name": "567 Tampa Harbour Island",
+          "description": "$685,000",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-10-10T11:04:04"
+        }
+      ]
+    }
+  ]
+}
