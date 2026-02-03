@@ -4,6 +4,9 @@ import { useState } from "react";
 import { ToolServerData, ToolDefinition } from "@/types";
 import * as XLSX from "xlsx";
 
+// Get basePath from environment (set during build)
+const basePath = process.env.NODE_ENV === "production" ? "/persona-mock-data" : "";
+
 interface ToolBrowserProps {
   category: string;
   servers: ToolServerData[];
@@ -122,7 +125,7 @@ function ServerComponent({ server, category }: ServerComponentProps) {
     setIsLoadingData(true);
     try {
       const response = await fetch(
-        `/tools/${category}/data/${encodeURIComponent(server.dataFile)}`
+        `${basePath}/tools/${category}/data/${encodeURIComponent(server.dataFile)}`
       );
       if (!response.ok) throw new Error("Failed to load data file");
 
