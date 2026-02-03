@@ -392,3 +392,32 @@ git add . && git commit -m "Sync: $(date '+%Y-%m-%d %H:%M')" && git push
 - `.next/` - Build artifacts
 - `out/` - Static export output
 - `.git/` - Preserve standalone repo's git history
+
+### Sync Changes from Standalone Repo
+
+If changes are made directly in the standalone repo, sync them back to mcp-atlas:
+
+```bash
+# 1. Pull latest from standalone repo
+cd ~/persona-visualiser-standalone
+git pull
+
+# 2. Sync website code back (excluding data - source of truth is mock server CSVs)
+rsync -av --delete \
+  --exclude='node_modules' \
+  --exclude='.next' \
+  --exclude='out' \
+  --exclude='.git' \
+  --exclude='public/data' \
+  ~/persona-visualiser-standalone/ \
+  /Users/pratyush.singhal/mcp-atlas/persona-visualiser/website/
+```
+
+**Note:** Data (`public/data/`) is excluded because the source of truth is the mock server CSVs. Regenerate data using `generator.py` instead.
+
+If you need to sync data changes (use with caution):
+```bash
+rsync -av \
+  ~/persona-visualiser-standalone/public/data/ \
+  /Users/pratyush.singhal/mcp-atlas/persona-visualiser/website/public/data/
+```
