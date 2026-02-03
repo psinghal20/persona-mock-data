@@ -343,11 +343,12 @@ cd /Users/pratyush.singhal/mcp-atlas/persona-visualiser
 uv run --with pyyaml python generator.py
 cp -r out/* website/public/data/
 
-# 2. Sync website code (excluding node_modules, build artifacts)
+# 2. Sync website code (excluding node_modules, build artifacts, and .git)
 rsync -av --delete \
   --exclude='node_modules' \
   --exclude='.next' \
   --exclude='out' \
+  --exclude='.git' \
   /Users/pratyush.singhal/mcp-atlas/persona-visualiser/website/ \
   ~/persona-visualiser-standalone/
 
@@ -369,7 +370,7 @@ git push
 cd /Users/pratyush.singhal/mcp-atlas/persona-visualiser && \
 uv run --with pyyaml python generator.py && \
 cp -r out/* website/public/data/ && \
-rsync -av --delete --exclude='node_modules' --exclude='.next' --exclude='out' \
+rsync -av --delete --exclude='node_modules' --exclude='.next' --exclude='out' --exclude='.git' \
   website/ ~/persona-visualiser-standalone/ && \
 cp CLAUDE.md ~/persona-visualiser-standalone/ && \
 cd ~/persona-visualiser-standalone && \
@@ -390,3 +391,4 @@ git add . && git commit -m "Sync: $(date '+%Y-%m-%d %H:%M')" && git push
 - `node_modules/` - Reinstall with `npm install`
 - `.next/` - Build artifacts
 - `out/` - Static export output
+- `.git/` - Preserve standalone repo's git history
