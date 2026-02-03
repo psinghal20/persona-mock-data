@@ -94,7 +94,7 @@ async function getCategoryData(category: string): Promise<ToolServerData[]> {
     });
 
     const results = await Promise.all(serverPromises);
-    const servers = results.filter((s): s is ToolServerData => s !== null);
+    const servers: ToolServerData[] = results.filter((s) => s !== null);
     
     // Sort by server name
     servers.sort((a, b) => a.name.localeCompare(b.name));
