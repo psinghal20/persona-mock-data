@@ -1,0 +1,201 @@
+[
+    {
+      "name": "amazon_get-orders-history",
+      "title": null,
+      "description": "Get orders history for a user.\n\nReturns order history including order status, items purchased, and totals.\n\nReturns:\n    JSON string containing list of recent orders with:\n    - Order status (pending, shipped, delivered, cancelled)\n    - Items in each order with prices\n    - Order totals and shipping address\n",
+      "inputSchema": {
+        "properties": {},
+        "title": "get_orders_historyArguments",
+        "type": "object"
+      },
+      "outputSchema": {
+        "properties": {
+          "result": {
+            "title": "Result",
+            "type": "string"
+          }
+        },
+        "required": [
+          "result"
+        ],
+        "title": "get_orders_historyOutput",
+        "type": "object"
+      },
+      "annotations": null,
+      "_meta": null
+    },
+    {
+      "name": "amazon_get-cart-content",
+      "title": null,
+      "description": "Get the current cart content for a user.\n\nAlways provide the product link when you mention a product in the response.\n\nReturns:\n    JSON string containing cart items with product details,\n    quantities, subtotals, and cart total.\n",
+      "inputSchema": {
+        "properties": {},
+        "title": "get_cart_contentArguments",
+        "type": "object"
+      },
+      "outputSchema": {
+        "properties": {
+          "result": {
+            "title": "Result",
+            "type": "string"
+          }
+        },
+        "required": [
+          "result"
+        ],
+        "title": "get_cart_contentOutput",
+        "type": "object"
+      },
+      "annotations": null,
+      "_meta": null
+    },
+    {
+      "name": "amazon_add-to-cart",
+      "title": null,
+      "description": "Add a product to the Amazon cart using ASIN.\n\nYou should always ask for confirmation to the user before running this tool.\n\nArgs:\n    asin: The ASIN (Amazon Standard Identification Number) of the product to add to cart.\n          Must be a 10-character string.\n\nReturns:\n    Success or failure message.\n",
+      "inputSchema": {
+        "properties": {
+          "asin": {
+            "title": "Asin",
+            "type": "string"
+          }
+        },
+        "required": [
+          "asin"
+        ],
+        "title": "add_to_cartArguments",
+        "type": "object"
+      },
+      "outputSchema": {
+        "properties": {
+          "result": {
+            "title": "Result",
+            "type": "string"
+          }
+        },
+        "required": [
+          "result"
+        ],
+        "title": "add_to_cartOutput",
+        "type": "object"
+      },
+      "annotations": null,
+      "_meta": null
+    },
+    {
+      "name": "amazon_clear-cart",
+      "title": null,
+      "description": "Clear all items from the Amazon cart.\n\nReturns:\n    Confirmation message.\n",
+      "inputSchema": {
+        "properties": {},
+        "title": "clear_cartArguments",
+        "type": "object"
+      },
+      "outputSchema": {
+        "properties": {
+          "result": {
+            "title": "Result",
+            "type": "string"
+          }
+        },
+        "required": [
+          "result"
+        ],
+        "title": "clear_cartOutput",
+        "type": "object"
+      },
+      "annotations": null,
+      "_meta": null
+    },
+    {
+      "name": "amazon_get-product-details",
+      "title": null,
+      "description": "Get detailed information about a product using its ASIN.\n\nAlways provide the product link when you mention a product in the response.\n\nArgs:\n    asin: The ASIN (Amazon Standard Identification Number) of the product to get details for.\n          Must be a 10-character string.\n\nReturns:\n    JSON string containing full product details including title, description,\n    price, brand, category, rating, review count, stock status, and Prime eligibility.\n",
+      "inputSchema": {
+        "properties": {
+          "asin": {
+            "title": "Asin",
+            "type": "string"
+          }
+        },
+        "required": [
+          "asin"
+        ],
+        "title": "get_product_detailsArguments",
+        "type": "object"
+      },
+      "outputSchema": {
+        "properties": {
+          "result": {
+            "title": "Result",
+            "type": "string"
+          }
+        },
+        "required": [
+          "result"
+        ],
+        "title": "get_product_detailsOutput",
+        "type": "object"
+      },
+      "annotations": null,
+      "_meta": null
+    },
+    {
+      "name": "amazon_search-products",
+      "title": null,
+      "description": "Search for products on Amazon using a search term.\n\nReturns a list of products matching the search term.\nAlways provide the product link when you mention a product in the response.\n\nArgs:\n    searchTerm: The search term to look for products on Amazon.\n                For example: \"collagen\", \"laptop\", \"books\"\n\nReturns:\n    JSON string containing list of matching products with ASIN, title,\n    description, price, rating, and product URL.\n",
+      "inputSchema": {
+        "properties": {
+          "searchTerm": {
+            "title": "Searchterm",
+            "type": "string"
+          }
+        },
+        "required": [
+          "searchTerm"
+        ],
+        "title": "search_productsArguments",
+        "type": "object"
+      },
+      "outputSchema": {
+        "properties": {
+          "result": {
+            "title": "Result",
+            "type": "string"
+          }
+        },
+        "required": [
+          "result"
+        ],
+        "title": "search_productsOutput",
+        "type": "object"
+      },
+      "annotations": null,
+      "_meta": null
+    },
+    {
+      "name": "amazon_perform-purchase",
+      "title": null,
+      "description": "Checkout with the current cart and complete the purchase.\n\nBefore purchasing, you should verify in the cart content that you are not buying\nanother product that was already there. If there are other products, clear the cart\nthen add the items that the user wants to buy again to the cart.\n\nYou should always ask for confirmation to the user before running this tool.\n\nReturns:\n    Purchase confirmation message.\n",
+      "inputSchema": {
+        "properties": {},
+        "title": "perform_purchaseArguments",
+        "type": "object"
+      },
+      "outputSchema": {
+        "properties": {
+          "result": {
+            "title": "Result",
+            "type": "string"
+          }
+        },
+        "required": [
+          "result"
+        ],
+        "title": "perform_purchaseOutput",
+        "type": "object"
+      },
+      "annotations": null,
+      "_meta": null
+    }
+  ]

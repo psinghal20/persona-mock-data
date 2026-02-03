@@ -1,0 +1,654 @@
+[
+  {
+    "name": "sephora_search-products",
+    "title": null,
+    "description": "Search for beauty products on Sephora with various filters.\n\nArgs:\n    query: Search term (e.g., \"lipstick\", \"foundation\", \"mascara\").\n    brand: Filter by brand (e.g., \"Fenty Beauty\", \"NARS\", \"Charlotte Tilbury\").\n    category: Filter by category (e.g., \"Face\", \"Eyes\", \"Lips\", \"Skincare\").\n    subcategory: Filter by subcategory (e.g., \"Foundation\", \"Mascara\", \"Lipstick\").\n    min_price: Minimum price filter.\n    max_price: Maximum price filter.\n    min_rating: Minimum rating filter (0-5).\n    in_stock_only: If true, only return in-stock items.\n    bestsellers_only: If true, only return bestsellers.\n    new_only: If true, only return new arrivals.\n    on_sale_only: If true, only return items on sale.\n    clean_beauty_only: If true, only return clean beauty products.\n    limit: Maximum results (default: 20).\n\nReturns:\n    JSON with matching products sorted by rating.\n",
+    "inputSchema": {
+      "properties": {
+        "query": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Query"
+        },
+        "brand": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Brand"
+        },
+        "category": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Category"
+        },
+        "subcategory": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Subcategory"
+        },
+        "min_price": {
+          "anyOf": [
+            {
+              "type": "number"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Min Price"
+        },
+        "max_price": {
+          "anyOf": [
+            {
+              "type": "number"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Max Price"
+        },
+        "min_rating": {
+          "anyOf": [
+            {
+              "type": "number"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Min Rating"
+        },
+        "in_stock_only": {
+          "default": false,
+          "title": "In Stock Only",
+          "type": "boolean"
+        },
+        "bestsellers_only": {
+          "default": false,
+          "title": "Bestsellers Only",
+          "type": "boolean"
+        },
+        "new_only": {
+          "default": false,
+          "title": "New Only",
+          "type": "boolean"
+        },
+        "on_sale_only": {
+          "default": false,
+          "title": "On Sale Only",
+          "type": "boolean"
+        },
+        "clean_beauty_only": {
+          "default": false,
+          "title": "Clean Beauty Only",
+          "type": "boolean"
+        },
+        "limit": {
+          "default": 20,
+          "title": "Limit",
+          "type": "integer"
+        }
+      },
+      "title": "search_productsArguments",
+      "type": "object"
+    },
+    "outputSchema": {
+      "properties": {
+        "result": {
+          "title": "Result",
+          "type": "string"
+        }
+      },
+      "required": [
+        "result"
+      ],
+      "title": "search_productsOutput",
+      "type": "object"
+    },
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "sephora_get-product-details",
+    "title": null,
+    "description": "Get detailed information about a specific product.\n\nArgs:\n    product_id: The product ID (e.g., \"SPH001\", \"SPH123\").\n\nReturns:\n    JSON with full product details including ingredients.\n",
+    "inputSchema": {
+      "properties": {
+        "product_id": {
+          "title": "Product Id",
+          "type": "string"
+        }
+      },
+      "required": [
+        "product_id"
+      ],
+      "title": "get_product_detailsArguments",
+      "type": "object"
+    },
+    "outputSchema": {
+      "properties": {
+        "result": {
+          "title": "Result",
+          "type": "string"
+        }
+      },
+      "required": [
+        "result"
+      ],
+      "title": "get_product_detailsOutput",
+      "type": "object"
+    },
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "sephora_list-categories",
+    "title": null,
+    "description": "List all available product categories.\n\nReturns:\n    JSON with category names and product counts.\n",
+    "inputSchema": {
+      "properties": {},
+      "title": "list_categoriesArguments",
+      "type": "object"
+    },
+    "outputSchema": {
+      "properties": {
+        "result": {
+          "title": "Result",
+          "type": "string"
+        }
+      },
+      "required": [
+        "result"
+      ],
+      "title": "list_categoriesOutput",
+      "type": "object"
+    },
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "sephora_list-subcategories",
+    "title": null,
+    "description": "List all subcategories, optionally for a specific category.\n\nArgs:\n    category: Optional category to filter subcategories (e.g., \"Face\", \"Eyes\").\n\nReturns:\n    JSON with subcategory names and product counts.\n",
+    "inputSchema": {
+      "properties": {
+        "category": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Category"
+        }
+      },
+      "title": "list_subcategoriesArguments",
+      "type": "object"
+    },
+    "outputSchema": {
+      "properties": {
+        "result": {
+          "title": "Result",
+          "type": "string"
+        }
+      },
+      "required": [
+        "result"
+      ],
+      "title": "list_subcategoriesOutput",
+      "type": "object"
+    },
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "sephora_list-brands",
+    "title": null,
+    "description": "List all available brands.\n\nReturns:\n    JSON with brand names and product counts.\n",
+    "inputSchema": {
+      "properties": {},
+      "title": "list_brandsArguments",
+      "type": "object"
+    },
+    "outputSchema": {
+      "properties": {
+        "result": {
+          "title": "Result",
+          "type": "string"
+        }
+      },
+      "required": [
+        "result"
+      ],
+      "title": "list_brandsOutput",
+      "type": "object"
+    },
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "sephora_get-bestsellers",
+    "title": null,
+    "description": "Get bestselling products.\n\nArgs:\n    limit: Maximum results (default: 20).\n\nReturns:\n    JSON with bestselling products.\n",
+    "inputSchema": {
+      "properties": {
+        "limit": {
+          "default": 20,
+          "title": "Limit",
+          "type": "integer"
+        }
+      },
+      "title": "get_bestsellersArguments",
+      "type": "object"
+    },
+    "outputSchema": {
+      "properties": {
+        "result": {
+          "title": "Result",
+          "type": "string"
+        }
+      },
+      "required": [
+        "result"
+      ],
+      "title": "get_bestsellersOutput",
+      "type": "object"
+    },
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "sephora_get-new-arrivals",
+    "title": null,
+    "description": "Get new arrival products.\n\nArgs:\n    limit: Maximum results (default: 20).\n\nReturns:\n    JSON with new arrival products.\n",
+    "inputSchema": {
+      "properties": {
+        "limit": {
+          "default": 20,
+          "title": "Limit",
+          "type": "integer"
+        }
+      },
+      "title": "get_new_arrivalsArguments",
+      "type": "object"
+    },
+    "outputSchema": {
+      "properties": {
+        "result": {
+          "title": "Result",
+          "type": "string"
+        }
+      },
+      "required": [
+        "result"
+      ],
+      "title": "get_new_arrivalsOutput",
+      "type": "object"
+    },
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "sephora_get-sale-items",
+    "title": null,
+    "description": "Get products currently on sale.\n\nArgs:\n    limit: Maximum results (default: 50).\n\nReturns:\n    JSON with sale products including original and sale prices.\n",
+    "inputSchema": {
+      "properties": {
+        "limit": {
+          "default": 50,
+          "title": "Limit",
+          "type": "integer"
+        }
+      },
+      "title": "get_sale_itemsArguments",
+      "type": "object"
+    },
+    "outputSchema": {
+      "properties": {
+        "result": {
+          "title": "Result",
+          "type": "string"
+        }
+      },
+      "required": [
+        "result"
+      ],
+      "title": "get_sale_itemsOutput",
+      "type": "object"
+    },
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "sephora_get-clean-beauty",
+    "title": null,
+    "description": "Get clean beauty products (free from certain ingredients).\n\nArgs:\n    limit: Maximum results (default: 50).\n\nReturns:\n    JSON with clean beauty products.\n",
+    "inputSchema": {
+      "properties": {
+        "limit": {
+          "default": 50,
+          "title": "Limit",
+          "type": "integer"
+        }
+      },
+      "title": "get_clean_beautyArguments",
+      "type": "object"
+    },
+    "outputSchema": {
+      "properties": {
+        "result": {
+          "title": "Result",
+          "type": "string"
+        }
+      },
+      "required": [
+        "result"
+      ],
+      "title": "get_clean_beautyOutput",
+      "type": "object"
+    },
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "sephora_add-to-cart",
+    "title": null,
+    "description": "Add a product to the shopping cart.\n\nYou should always ask for confirmation before running this tool.\n\nArgs:\n    product_id: The product ID to add.\n    quantity: Quantity to add (default: 1).\n\nReturns:\n    Confirmation message.\n",
+    "inputSchema": {
+      "properties": {
+        "product_id": {
+          "title": "Product Id",
+          "type": "string"
+        },
+        "quantity": {
+          "default": 1,
+          "title": "Quantity",
+          "type": "integer"
+        }
+      },
+      "required": [
+        "product_id"
+      ],
+      "title": "add_to_cartArguments",
+      "type": "object"
+    },
+    "outputSchema": {
+      "properties": {
+        "result": {
+          "title": "Result",
+          "type": "string"
+        }
+      },
+      "required": [
+        "result"
+      ],
+      "title": "add_to_cartOutput",
+      "type": "object"
+    },
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "sephora_get-cart",
+    "title": null,
+    "description": "Get the current contents of your shopping cart.\n\nReturns:\n    JSON with cart items, quantities, and subtotal.\n",
+    "inputSchema": {
+      "properties": {},
+      "title": "get_cartArguments",
+      "type": "object"
+    },
+    "outputSchema": {
+      "properties": {
+        "result": {
+          "title": "Result",
+          "type": "string"
+        }
+      },
+      "required": [
+        "result"
+      ],
+      "title": "get_cartOutput",
+      "type": "object"
+    },
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "sephora_update-cart-item",
+    "title": null,
+    "description": "Update the quantity of an item in your cart.\n\nArgs:\n    product_id: Product ID to update.\n    quantity: New quantity (0 to remove item).\n\nReturns:\n    Confirmation message.\n",
+    "inputSchema": {
+      "properties": {
+        "product_id": {
+          "title": "Product Id",
+          "type": "string"
+        },
+        "quantity": {
+          "title": "Quantity",
+          "type": "integer"
+        }
+      },
+      "required": [
+        "product_id",
+        "quantity"
+      ],
+      "title": "update_cart_itemArguments",
+      "type": "object"
+    },
+    "outputSchema": {
+      "properties": {
+        "result": {
+          "title": "Result",
+          "type": "string"
+        }
+      },
+      "required": [
+        "result"
+      ],
+      "title": "update_cart_itemOutput",
+      "type": "object"
+    },
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "sephora_remove-from-cart",
+    "title": null,
+    "description": "Remove an item from your shopping cart.\n\nArgs:\n    product_id: Product ID to remove.\n\nReturns:\n    Confirmation message.\n",
+    "inputSchema": {
+      "properties": {
+        "product_id": {
+          "title": "Product Id",
+          "type": "string"
+        }
+      },
+      "required": [
+        "product_id"
+      ],
+      "title": "remove_from_cartArguments",
+      "type": "object"
+    },
+    "outputSchema": {
+      "properties": {
+        "result": {
+          "title": "Result",
+          "type": "string"
+        }
+      },
+      "required": [
+        "result"
+      ],
+      "title": "remove_from_cartOutput",
+      "type": "object"
+    },
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "sephora_clear-cart",
+    "title": null,
+    "description": "Clear all items from your shopping cart.\n\nReturns:\n    Confirmation message.\n",
+    "inputSchema": {
+      "properties": {},
+      "title": "clear_cartArguments",
+      "type": "object"
+    },
+    "outputSchema": {
+      "properties": {
+        "result": {
+          "title": "Result",
+          "type": "string"
+        }
+      },
+      "required": [
+        "result"
+      ],
+      "title": "clear_cartOutput",
+      "type": "object"
+    },
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "sephora_checkout",
+    "title": null,
+    "description": "Complete the purchase of items in your cart.\n\nYou should always ask for confirmation before running this tool.\n\nReturns:\n    Order confirmation with order ID and details.\n",
+    "inputSchema": {
+      "properties": {},
+      "title": "checkoutArguments",
+      "type": "object"
+    },
+    "outputSchema": {
+      "properties": {
+        "result": {
+          "title": "Result",
+          "type": "string"
+        }
+      },
+      "required": [
+        "result"
+      ],
+      "title": "checkoutOutput",
+      "type": "object"
+    },
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "sephora_get-order-history",
+    "title": null,
+    "description": "Get your order history.\n\nReturns:\n    JSON with list of past orders.\n",
+    "inputSchema": {
+      "properties": {},
+      "title": "get_order_historyArguments",
+      "type": "object"
+    },
+    "outputSchema": {
+      "properties": {
+        "result": {
+          "title": "Result",
+          "type": "string"
+        }
+      },
+      "required": [
+        "result"
+      ],
+      "title": "get_order_historyOutput",
+      "type": "object"
+    },
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "sephora_get-order-details",
+    "title": null,
+    "description": "Get details of a specific order.\n\nArgs:\n    order_id: Order ID to look up.\n\nReturns:\n    JSON with full order details including items.\n",
+    "inputSchema": {
+      "properties": {
+        "order_id": {
+          "title": "Order Id",
+          "type": "string"
+        }
+      },
+      "required": [
+        "order_id"
+      ],
+      "title": "get_order_detailsArguments",
+      "type": "object"
+    },
+    "outputSchema": {
+      "properties": {
+        "result": {
+          "title": "Result",
+          "type": "string"
+        }
+      },
+      "required": [
+        "result"
+      ],
+      "title": "get_order_detailsOutput",
+      "type": "object"
+    },
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "sephora_get-current-user",
+    "title": null,
+    "description": "Get the current logged-in user's profile information.\n\nReturns information about the currently authenticated user including\ntheir name, email, shipping address, and Beauty Insider status.\n\nReturns:\n    JSON with user profile including Beauty Insider tier and points.\n",
+    "inputSchema": {
+      "properties": {},
+      "title": "get_current_userArguments",
+      "type": "object"
+    },
+    "outputSchema": {
+      "properties": {
+        "result": {
+          "title": "Result",
+          "type": "string"
+        }
+      },
+      "required": [
+        "result"
+      ],
+      "title": "get_current_userOutput",
+      "type": "object"
+    },
+    "annotations": null,
+    "_meta": null
+  }
+]

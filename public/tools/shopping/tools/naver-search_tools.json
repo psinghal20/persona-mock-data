@@ -1,0 +1,45 @@
+[
+  {
+    "name": "naver-search_search_naver",
+    "title": null,
+    "description": "\n\ub124\uc774\ubc84 \uac80\uc0c9 API\ub97c \uc0ac\uc6a9\ud558\uc5ec \ud55c\uad6d \ud604\uc9c0 \uc815\ubcf4\ub97c \uac80\uc0c9\ud569\ub2c8\ub2e4.\n\nArgs:\n    query (str): \uac80\uc0c9\uc5b4 (\uc608: \"\ub9e5\ubd81\ud504\ub85c M4 \ucd5c\uc800\uac00\", \"\uc0bc\uc131\uc804\uc790 \uc8fc\uac00 \ub274\uc2a4\")\n    category (str): \uac80\uc0c9 \uce74\ud14c\uace0\ub9ac\n        - \"shop\": \uc1fc\ud551 \ucd5c\uc800\uac00 \uac80\uc0c9 (\u2605\uc778\uae30 \uae30\ub2a5)\n        - \"cafe\": \ub124\uc774\ubc84 \uce74\ud398 \uae00 \uac80\uc0c9 (\u2605\ucc10 \ud6c4\uae30)\n        - \"news\": \uc2e4\uc2dc\uac04 \ub274\uc2a4 \uae30\uc0ac\n        - \"blog\": \ube14\ub85c\uadf8 \ub9ac\ubdf0\n        - \"local\": \ub9db\uc9d1, \uc7a5\uc18c \uc804\ud654\ubc88\ud638\n    display (int): \uac00\uc838\uc62c \uacb0\uacfc \uac1c\uc218 (\uae30\ubcf8 5\uac1c)\n",
+    "inputSchema": {
+      "properties": {
+        "query": {
+          "title": "Query",
+          "type": "string"
+        },
+        "category": {
+          "default": "blog",
+          "title": "Category",
+          "type": "string"
+        },
+        "display": {
+          "default": 5,
+          "title": "Display",
+          "type": "integer"
+        }
+      },
+      "required": [
+        "query"
+      ],
+      "title": "search_naverArguments",
+      "type": "object"
+    },
+    "outputSchema": {
+      "properties": {
+        "result": {
+          "title": "Result",
+          "type": "string"
+        }
+      },
+      "required": [
+        "result"
+      ],
+      "title": "search_naverOutput",
+      "type": "object"
+    },
+    "annotations": null,
+    "_meta": null
+  }
+]

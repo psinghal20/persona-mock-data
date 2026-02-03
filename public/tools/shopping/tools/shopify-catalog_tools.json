@@ -1,0 +1,257 @@
+[
+  {
+    "name": "shopify-catalog_search_global_products",
+    "title": null,
+    "description": "Search for products across the global Shopify catalog.\n\nArgs:\n    query: Search terms (e.g., \"wireless headphones\", \"running shoes\").\n    context: Description of the buyer's needs and preferences\n             (e.g., \"budget-conscious buyer looking for gift\").\n    limit: Maximum number of results to return (1-300, default: 10).\n    min_price: Minimum price filter.\n    max_price: Maximum price filter.\n    available_for_sale: If true, only return in-stock items.\n    ships_to: ISO country code for shipping destination (e.g., \"US\", \"CA\").\n    ships_from: ISO country code for shipping origin.\n    include_secondhand: If true, include pre-owned items.\n\nReturns:\n    JSON string containing product search results with offers, pricing,\n    images, and product details.\n",
+    "inputSchema": {
+      "properties": {
+        "query": {
+          "title": "Query",
+          "type": "string"
+        },
+        "context": {
+          "title": "Context",
+          "type": "string"
+        },
+        "limit": {
+          "default": 10,
+          "title": "Limit",
+          "type": "integer"
+        },
+        "min_price": {
+          "anyOf": [
+            {
+              "type": "number"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Min Price"
+        },
+        "max_price": {
+          "anyOf": [
+            {
+              "type": "number"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Max Price"
+        },
+        "available_for_sale": {
+          "anyOf": [
+            {
+              "type": "boolean"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Available For Sale"
+        },
+        "ships_to": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Ships To"
+        },
+        "ships_from": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Ships From"
+        },
+        "include_secondhand": {
+          "anyOf": [
+            {
+              "type": "boolean"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Include Secondhand"
+        }
+      },
+      "required": [
+        "query",
+        "context"
+      ],
+      "title": "search_global_productsArguments",
+      "type": "object"
+    },
+    "outputSchema": {
+      "properties": {
+        "result": {
+          "title": "Result",
+          "type": "string"
+        }
+      },
+      "required": [
+        "result"
+      ],
+      "title": "search_global_productsOutput",
+      "type": "object"
+    },
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "shopify-catalog_get_global_product_details",
+    "title": null,
+    "description": "Get detailed information about a specific product.\n\nYou must provide either upid OR variant_id (not both).\n\nArgs:\n    upid: Universal Product ID (Base62 string from search results).\n    variant_id: Shopify variant ID (integer).\n    context: Additional context about the request.\n    limit: Maximum number of offers to return (1-100, default: 10).\n    min_price: Minimum price filter.\n    max_price: Maximum price filter.\n    available_for_sale: If true, only return in-stock items.\n    ships_to: ISO country code for shipping destination.\n    ships_from: ISO country code for shipping origin.\n    product_options: List of option filters, each with \"key\" and \"values\".\n                    Example: [{\"key\": \"Color\", \"values\": [\"Blue\"]}]\n\nReturns:\n    JSON string containing comprehensive product details including\n    variants, pricing, images, ratings, and specifications.\n",
+    "inputSchema": {
+      "properties": {
+        "upid": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Upid"
+        },
+        "variant_id": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Variant Id"
+        },
+        "context": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Context"
+        },
+        "limit": {
+          "default": 10,
+          "title": "Limit",
+          "type": "integer"
+        },
+        "min_price": {
+          "anyOf": [
+            {
+              "type": "number"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Min Price"
+        },
+        "max_price": {
+          "anyOf": [
+            {
+              "type": "number"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Max Price"
+        },
+        "available_for_sale": {
+          "anyOf": [
+            {
+              "type": "boolean"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Available For Sale"
+        },
+        "ships_to": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Ships To"
+        },
+        "ships_from": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Ships From"
+        },
+        "product_options": {
+          "anyOf": [
+            {
+              "items": {},
+              "type": "array"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Product Options"
+        }
+      },
+      "title": "get_global_product_detailsArguments",
+      "type": "object"
+    },
+    "outputSchema": {
+      "properties": {
+        "result": {
+          "title": "Result",
+          "type": "string"
+        }
+      },
+      "required": [
+        "result"
+      ],
+      "title": "get_global_product_detailsOutput",
+      "type": "object"
+    },
+    "annotations": null,
+    "_meta": null
+  }
+]

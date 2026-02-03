@@ -1,0 +1,716 @@
+[
+  {
+    "name": "coffee-roaster_get_all_beans",
+    "title": null,
+    "description": "Get all coffee beans in the catalog.\n\nArgs:\n    limit: Maximum number of beans to return (default 50)\n\nReturns:\n    List of all coffee beans sorted by rating\n",
+    "inputSchema": {
+      "properties": {
+        "limit": {
+          "default": 50,
+          "title": "Limit",
+          "type": "integer"
+        }
+      },
+      "title": "get_all_beansArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "coffee-roaster_get_bean_by_id",
+    "title": null,
+    "description": "Get detailed information about a specific coffee bean.\n\nArgs:\n    bean_id: The unique ID of the bean\n\nReturns:\n    Bean details including origin, flavor notes, and pricing\n",
+    "inputSchema": {
+      "properties": {
+        "bean_id": {
+          "title": "Bean Id",
+          "type": "integer"
+        }
+      },
+      "required": [
+        "bean_id"
+      ],
+      "title": "get_bean_by_idArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "coffee-roaster_search_beans",
+    "title": null,
+    "description": "Search coffee beans with flexible filters.\n\nArgs:\n    query: Search term (matches name, description, flavor notes)\n    origin_country: Filter by origin country (e.g., 'Ethiopia', 'Colombia')\n    roast_level: Filter by roast level ('Light', 'Medium', 'Medium-Dark', 'Dark')\n    process: Filter by processing method ('Washed', 'Natural', 'Honey')\n    min_price: Minimum price for 12oz bag\n    max_price: Maximum price for 12oz bag\n    is_single_origin: Filter single origin beans only\n    is_organic: Filter organic certified beans\n    is_fair_trade: Filter fair trade certified beans\n    flavor_note: Search for specific flavor note (e.g., 'chocolate', 'fruity')\n    in_stock_only: Only show beans in stock\n    sort_by: Sort field (rating, price_12oz, name, reviews_count)\n    limit: Maximum results (default 30)\n\nReturns:\n    List of matching coffee beans\n",
+    "inputSchema": {
+      "properties": {
+        "query": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Query"
+        },
+        "origin_country": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Origin Country"
+        },
+        "roast_level": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Roast Level"
+        },
+        "process": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Process"
+        },
+        "min_price": {
+          "anyOf": [
+            {
+              "type": "number"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Min Price"
+        },
+        "max_price": {
+          "anyOf": [
+            {
+              "type": "number"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Max Price"
+        },
+        "is_single_origin": {
+          "anyOf": [
+            {
+              "type": "boolean"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Is Single Origin"
+        },
+        "is_organic": {
+          "anyOf": [
+            {
+              "type": "boolean"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Is Organic"
+        },
+        "is_fair_trade": {
+          "anyOf": [
+            {
+              "type": "boolean"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Is Fair Trade"
+        },
+        "flavor_note": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Flavor Note"
+        },
+        "in_stock_only": {
+          "default": false,
+          "title": "In Stock Only",
+          "type": "boolean"
+        },
+        "sort_by": {
+          "default": "rating",
+          "title": "Sort By",
+          "type": "string"
+        },
+        "limit": {
+          "default": 30,
+          "title": "Limit",
+          "type": "integer"
+        }
+      },
+      "title": "search_beansArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "coffee-roaster_get_beans_by_origin",
+    "title": null,
+    "description": "Get coffee beans from a specific origin country.\n\nArgs:\n    country: Origin country (e.g., 'Ethiopia', 'Colombia', 'Kenya')\n    limit: Maximum results (default 30)\n\nReturns:\n    List of beans from the specified origin\n",
+    "inputSchema": {
+      "properties": {
+        "country": {
+          "title": "Country",
+          "type": "string"
+        },
+        "limit": {
+          "default": 30,
+          "title": "Limit",
+          "type": "integer"
+        }
+      },
+      "required": [
+        "country"
+      ],
+      "title": "get_beans_by_originArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "coffee-roaster_get_beans_by_roast_level",
+    "title": null,
+    "description": "Get coffee beans by roast level.\n\nArgs:\n    roast_level: Roast level ('Light', 'Medium', 'Medium-Dark', 'Dark')\n    limit: Maximum results (default 30)\n\nReturns:\n    List of beans with the specified roast level\n",
+    "inputSchema": {
+      "properties": {
+        "roast_level": {
+          "title": "Roast Level",
+          "type": "string"
+        },
+        "limit": {
+          "default": 30,
+          "title": "Limit",
+          "type": "integer"
+        }
+      },
+      "required": [
+        "roast_level"
+      ],
+      "title": "get_beans_by_roast_levelArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "coffee-roaster_get_single_origins",
+    "title": null,
+    "description": "Get all single origin coffee beans.\n\nArgs:\n    limit: Maximum results (default 30)\n\nReturns:\n    List of single origin beans\n",
+    "inputSchema": {
+      "properties": {
+        "limit": {
+          "default": 30,
+          "title": "Limit",
+          "type": "integer"
+        }
+      },
+      "title": "get_single_originsArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "coffee-roaster_get_featured_beans",
+    "title": null,
+    "description": "Get featured/staff pick coffee beans.\n\nArgs:\n    limit: Number of featured beans (default 5)\n\nReturns:\n    List of top-rated featured beans\n",
+    "inputSchema": {
+      "properties": {
+        "limit": {
+          "default": 5,
+          "title": "Limit",
+          "type": "integer"
+        }
+      },
+      "title": "get_featured_beansArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "coffee-roaster_get_origins",
+    "title": null,
+    "description": "Get all available coffee origin countries.\n\nReturns:\n    List of origin countries\n",
+    "inputSchema": {
+      "properties": {},
+      "title": "get_originsArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "coffee-roaster_get_roast_levels",
+    "title": null,
+    "description": "Get all available roast levels.\n\nReturns:\n    List of roast levels\n",
+    "inputSchema": {
+      "properties": {},
+      "title": "get_roast_levelsArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "coffee-roaster_get_processing_methods",
+    "title": null,
+    "description": "Get all available coffee processing methods.\n\nReturns:\n    List of processing methods (Washed, Natural, Honey, etc.)\n",
+    "inputSchema": {
+      "properties": {},
+      "title": "get_processing_methodsArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "coffee-roaster_get_subscription_plans",
+    "title": null,
+    "description": "Get all available coffee subscription plans.\n\nReturns:\n    List of subscription plans with pricing and features\n",
+    "inputSchema": {
+      "properties": {},
+      "title": "get_subscription_plansArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "coffee-roaster_get_subscription_plan",
+    "title": null,
+    "description": "Get details for a specific subscription plan.\n\nArgs:\n    plan_id: The ID of the subscription plan\n\nReturns:\n    Plan details including frequency, pricing, and features\n",
+    "inputSchema": {
+      "properties": {
+        "plan_id": {
+          "title": "Plan Id",
+          "type": "integer"
+        }
+      },
+      "required": [
+        "plan_id"
+      ],
+      "title": "get_subscription_planArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "coffee-roaster_subscribe",
+    "title": null,
+    "description": "Subscribe to a coffee subscription plan.\n\nArgs:\n    plan_id: The ID of the subscription plan\n    bean_id: Optional specific bean to subscribe to (for fixed selection plans)\n    roast_preference: Preferred roast level ('Light', 'Medium', 'Medium-Dark', 'Dark')\n    grind_type: Grind type ('Whole Bean', 'Drip', 'Espresso', 'French Press', 'Pour Over')\n\nReturns:\n    Subscription confirmation with details\n",
+    "inputSchema": {
+      "properties": {
+        "plan_id": {
+          "title": "Plan Id",
+          "type": "integer"
+        },
+        "bean_id": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Bean Id"
+        },
+        "roast_preference": {
+          "default": "Medium",
+          "title": "Roast Preference",
+          "type": "string"
+        },
+        "grind_type": {
+          "default": "Whole Bean",
+          "title": "Grind Type",
+          "type": "string"
+        }
+      },
+      "required": [
+        "plan_id"
+      ],
+      "title": "subscribeArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "coffee-roaster_get_my_subscriptions",
+    "title": null,
+    "description": "Get current user's active subscriptions.\n\nReturns:\n    List of user's subscriptions with status and next shipment date\n",
+    "inputSchema": {
+      "properties": {},
+      "title": "get_my_subscriptionsArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "coffee-roaster_cancel_subscription",
+    "title": null,
+    "description": "Cancel a subscription.\n\nArgs:\n    subscription_id: The ID of the subscription to cancel\n\nReturns:\n    Cancellation confirmation\n",
+    "inputSchema": {
+      "properties": {
+        "subscription_id": {
+          "title": "Subscription Id",
+          "type": "integer"
+        }
+      },
+      "required": [
+        "subscription_id"
+      ],
+      "title": "cancel_subscriptionArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "coffee-roaster_pause_subscription",
+    "title": null,
+    "description": "Pause a subscription temporarily.\n\nArgs:\n    subscription_id: The ID of the subscription to pause\n\nReturns:\n    Pause confirmation\n",
+    "inputSchema": {
+      "properties": {
+        "subscription_id": {
+          "title": "Subscription Id",
+          "type": "integer"
+        }
+      },
+      "required": [
+        "subscription_id"
+      ],
+      "title": "pause_subscriptionArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "coffee-roaster_resume_subscription",
+    "title": null,
+    "description": "Resume a paused subscription.\n\nArgs:\n    subscription_id: The ID of the subscription to resume\n\nReturns:\n    Resume confirmation with next shipment date\n",
+    "inputSchema": {
+      "properties": {
+        "subscription_id": {
+          "title": "Subscription Id",
+          "type": "integer"
+        }
+      },
+      "required": [
+        "subscription_id"
+      ],
+      "title": "resume_subscriptionArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "coffee-roaster_get_brewing_guides",
+    "title": null,
+    "description": "Get all available brewing guides.\n\nReturns:\n    List of brewing guides for different methods\n",
+    "inputSchema": {
+      "properties": {},
+      "title": "get_brewing_guidesArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "coffee-roaster_get_brewing_guide",
+    "title": null,
+    "description": "Get a specific brewing guide by ID.\n\nArgs:\n    guide_id: The ID of the brewing guide\n\nReturns:\n    Detailed brewing guide with steps and tips\n",
+    "inputSchema": {
+      "properties": {
+        "guide_id": {
+          "title": "Guide Id",
+          "type": "integer"
+        }
+      },
+      "required": [
+        "guide_id"
+      ],
+      "title": "get_brewing_guideArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "coffee-roaster_get_brewing_guide_by_method",
+    "title": null,
+    "description": "Get a brewing guide for a specific method.\n\nArgs:\n    method: Brewing method (e.g., 'Pour Over', 'French Press', 'Espresso')\n\nReturns:\n    Brewing guide for the specified method\n",
+    "inputSchema": {
+      "properties": {
+        "method": {
+          "title": "Method",
+          "type": "string"
+        }
+      },
+      "required": [
+        "method"
+      ],
+      "title": "get_brewing_guide_by_methodArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "coffee-roaster_get_brewing_methods",
+    "title": null,
+    "description": "Get all available brewing methods.\n\nReturns:\n    List of brewing methods with guides available\n",
+    "inputSchema": {
+      "properties": {},
+      "title": "get_brewing_methodsArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "coffee-roaster_add_to_cart",
+    "title": null,
+    "description": "Add a coffee bean to the shopping cart.\n\nArgs:\n    bean_id: The ID of the bean to add\n    quantity: Number of bags to add (default 1)\n    bag_size: Size of bag ('12oz', '2lb', '5lb')\n    grind_type: Grind preference ('Whole Bean', 'Drip', 'Espresso', 'French Press', 'Pour Over')\n\nReturns:\n    Cart update confirmation with totals\n",
+    "inputSchema": {
+      "properties": {
+        "bean_id": {
+          "title": "Bean Id",
+          "type": "integer"
+        },
+        "quantity": {
+          "default": 1,
+          "title": "Quantity",
+          "type": "integer"
+        },
+        "bag_size": {
+          "default": "12oz",
+          "title": "Bag Size",
+          "type": "string"
+        },
+        "grind_type": {
+          "default": "Whole Bean",
+          "title": "Grind Type",
+          "type": "string"
+        }
+      },
+      "required": [
+        "bean_id"
+      ],
+      "title": "add_to_cartArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "coffee-roaster_get_cart",
+    "title": null,
+    "description": "Get the current shopping cart contents.\n\nReturns:\n    Cart items with details and totals\n",
+    "inputSchema": {
+      "properties": {},
+      "title": "get_cartArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "coffee-roaster_update_cart_item",
+    "title": null,
+    "description": "Update the quantity of an item in the cart.\n\nArgs:\n    cart_id: The cart item ID\n    quantity: New quantity (0 to remove)\n\nReturns:\n    Updated cart totals\n",
+    "inputSchema": {
+      "properties": {
+        "cart_id": {
+          "title": "Cart Id",
+          "type": "integer"
+        },
+        "quantity": {
+          "title": "Quantity",
+          "type": "integer"
+        }
+      },
+      "required": [
+        "cart_id",
+        "quantity"
+      ],
+      "title": "update_cart_itemArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "coffee-roaster_remove_from_cart",
+    "title": null,
+    "description": "Remove an item from the cart.\n\nArgs:\n    cart_id: The cart item ID to remove\n\nReturns:\n    Removal confirmation\n",
+    "inputSchema": {
+      "properties": {
+        "cart_id": {
+          "title": "Cart Id",
+          "type": "integer"
+        }
+      },
+      "required": [
+        "cart_id"
+      ],
+      "title": "remove_from_cartArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "coffee-roaster_clear_cart",
+    "title": null,
+    "description": "Clear all items from the shopping cart.\n\nReturns:\n    Confirmation message\n",
+    "inputSchema": {
+      "properties": {},
+      "title": "clear_cartArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "coffee-roaster_checkout",
+    "title": null,
+    "description": "Checkout and place an order for all items in the cart.\n\nReturns:\n    Order confirmation with order IDs\n",
+    "inputSchema": {
+      "properties": {},
+      "title": "checkoutArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "coffee-roaster_get_order_history",
+    "title": null,
+    "description": "Get the current user's order history.\n\nArgs:\n    limit: Maximum orders to return (default 20)\n\nReturns:\n    List of past orders\n",
+    "inputSchema": {
+      "properties": {
+        "limit": {
+          "default": 20,
+          "title": "Limit",
+          "type": "integer"
+        }
+      },
+      "title": "get_order_historyArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "coffee-roaster_get_order",
+    "title": null,
+    "description": "Get details for a specific order.\n\nArgs:\n    order_id: The order ID\n\nReturns:\n    Order details\n",
+    "inputSchema": {
+      "properties": {
+        "order_id": {
+          "title": "Order Id",
+          "type": "integer"
+        }
+      },
+      "required": [
+        "order_id"
+      ],
+      "title": "get_orderArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  },
+  {
+    "name": "coffee-roaster_get_current_user",
+    "title": null,
+    "description": "Get the current logged-in user's profile.\n\nReturns:\n    User profile with preferences\n",
+    "inputSchema": {
+      "properties": {},
+      "title": "get_current_userArguments",
+      "type": "object"
+    },
+    "outputSchema": null,
+    "annotations": null,
+    "_meta": null
+  }
+]

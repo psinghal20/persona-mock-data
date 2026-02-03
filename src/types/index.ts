@@ -190,3 +190,32 @@ export interface OrderDetail {
   total: number;
   currency: string;
 }
+
+// Types for MCP tool data
+
+export interface ToolDefinition {
+  name: string;
+  title?: string | null;
+  description: string;
+  inputSchema: {
+    type: string;
+    properties?: Record<string, unknown>;
+    required?: string[];
+    title?: string;
+  };
+  outputSchema?: {
+    type: string;
+    properties?: Record<string, unknown>;
+    required?: string[];
+    title?: string;
+  };
+  annotations?: unknown;
+  _meta?: unknown;
+}
+
+export interface ToolServerData {
+  filename: string;
+  name: string;
+  tools: ToolDefinition[];
+  dataFile?: string;  // Name of matching *_data.xlsx file if exists
+}
