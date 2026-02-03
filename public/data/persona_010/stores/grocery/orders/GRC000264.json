@@ -1,0 +1,78 @@
+{
+  "order_id": "GRC000264",
+  "persona_id": "persona_010",
+  "store_id": "grocery",
+  "status": "shipped",
+  "created_at": "2025-12-26T14:56:07",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "321 French Quarter Ave, New Orleans, LA 70116",
+  "items": [
+    {
+      "product_id": "GRO-1735",
+      "name": "Organic Valley Fresh Blackberries",
+      "category": "Produce",
+      "quantity": 4,
+      "price": 6.88,
+      "subtotal": 27.52
+    },
+    {
+      "product_id": "prod_347",
+      "name": "Market Fresh Oatmeal",
+      "category": "Pantry",
+      "quantity": 2,
+      "price": 4.6,
+      "subtotal": 9.2
+    },
+    {
+      "product_id": "prod_919",
+      "name": "Farm Fresh Aluminum Foil",
+      "category": "Household",
+      "quantity": 3,
+      "price": 5.85,
+      "subtotal": 17.55
+    },
+    {
+      "product_id": "prod_200",
+      "name": "Heritage Foods Organic Feta Cheese",
+      "category": "Dairy",
+      "quantity": 1,
+      "price": 8.03,
+      "subtotal": 8.03
+    },
+    {
+      "product_id": "prod_232",
+      "name": "Local Pride Organic NY Strip Steak",
+      "category": "Meat & Seafood",
+      "quantity": 3,
+      "price": 54.3,
+      "subtotal": 162.9
+    },
+    {
+      "product_id": "prod_132",
+      "name": "Simply Good Organic Corn",
+      "category": "Produce",
+      "quantity": 2,
+      "price": 0.82,
+      "subtotal": 1.64
+    },
+    {
+      "product_id": "prod_582",
+      "name": "Country Best Frozen Burritos",
+      "category": "Frozen",
+      "quantity": 1,
+      "price": 3.77,
+      "subtotal": 3.77
+    },
+    {
+      "product_id": "prod_039",
+      "name": "Mountain Fresh Blueberries",
+      "category": "Produce",
+      "quantity": 1,
+      "price": 6.09,
+      "subtotal": 6.09
+    }
+  ],
+  "total": 236.7,
+  "currency": "USD"
+}

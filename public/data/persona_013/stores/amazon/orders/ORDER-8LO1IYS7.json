@@ -1,0 +1,30 @@
+{
+  "order_id": "ORDER-8LO1IYS7",
+  "persona_id": "persona_013",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-11-17T16:23:13",
+  "shipped_at": "2025-11-20T16:23:13",
+  "delivered_at": "2025-11-22T16:23:13",
+  "shipping_address": "555 Community Center Rd, Houston, TX 77001",
+  "items": [
+    {
+      "product_id": "B0B5GJ291L",
+      "name": "Weber Genesis E-325s Gas Grill",
+      "category": "Patio Lawn Garden",
+      "quantity": 1,
+      "price": 1149.0,
+      "subtotal": 1149.0
+    },
+    {
+      "product_id": "B0AMZN1171",
+      "name": "Whoop 4.0",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 239.0,
+      "subtotal": 239.0
+    }
+  ],
+  "total": 1388.0,
+  "currency": "USD"
+}

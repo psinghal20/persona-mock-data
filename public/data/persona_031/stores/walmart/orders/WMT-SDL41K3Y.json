@@ -1,0 +1,30 @@
+{
+  "order_id": "WMT-SDL41K3Y",
+  "persona_id": "persona_031",
+  "store_id": "walmart",
+  "status": "delivered",
+  "created_at": "2026-01-18T11:58:08",
+  "shipped_at": "2026-01-21T11:58:08",
+  "delivered_at": "2026-01-25T11:58:08",
+  "shipping_address": "999 Suburban Lane, Phoenix, AZ 85001",
+  "items": [
+    {
+      "product_id": "WMT00001210",
+      "name": "Funko Funko Pop Marvel Collection",
+      "category": "Toys",
+      "quantity": 2,
+      "price": 48.38,
+      "subtotal": 96.76
+    },
+    {
+      "product_id": "WMT00000048",
+      "name": "Home Style Sweet Potatoes",
+      "category": "Grocery",
+      "quantity": 2,
+      "price": 1.73,
+      "subtotal": 3.46
+    }
+  ],
+  "total": 100.22,
+  "currency": "USD"
+}

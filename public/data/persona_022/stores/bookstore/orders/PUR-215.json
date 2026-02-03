@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-215",
+  "persona_id": "persona_022",
+  "store_id": "bookstore",
+  "status": "completed",
+  "created_at": "2025-11-06T09:17:45",
+  "items": [
+    {
+      "product_id": "321",
+      "name": "The Joy of Cooking",
+      "category": "Cooking",
+      "quantity": 1,
+      "price": 40.0,
+      "subtotal": 40.0
+    }
+  ],
+  "total": 40.0,
+  "currency": "USD"
+}

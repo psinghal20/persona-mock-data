@@ -1,0 +1,30 @@
+{
+  "order_id": "SPG000066",
+  "persona_id": "persona_027",
+  "store_id": "sporting_goods",
+  "status": "delivered",
+  "created_at": "2025-12-08T17:16:32",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "items": [
+    {
+      "product_id": "GLF004",
+      "name": "Stealth 2 Fairway Wood 3W",
+      "category": "Clubs",
+      "quantity": 1,
+      "price": 349.99,
+      "subtotal": 349.99
+    },
+    {
+      "product_id": "BKB001",
+      "name": "LeBron 21",
+      "category": "Shoes",
+      "quantity": 1,
+      "price": 199.99,
+      "subtotal": 199.99
+    }
+  ],
+  "total": 549.98,
+  "currency": "USD"
+}

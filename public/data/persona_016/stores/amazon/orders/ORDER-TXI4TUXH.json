@@ -1,0 +1,38 @@
+{
+  "order_id": "ORDER-TXI4TUXH",
+  "persona_id": "persona_016",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-12-19T19:01:39",
+  "shipped_at": "2025-12-21T19:01:39",
+  "delivered_at": "2025-12-23T19:01:39",
+  "shipping_address": "222 Tech Campus Way, Austin, TX 78701",
+  "items": [
+    {
+      "product_id": "B0BOOK0196",
+      "name": "Shadow and Bone by Leigh Bardugo",
+      "category": "Books",
+      "quantity": 1,
+      "price": 11.06,
+      "subtotal": 11.06
+    },
+    {
+      "product_id": "B0BOOK0208",
+      "name": "On War by Carl von Clausewitz",
+      "category": "Books",
+      "quantity": 1,
+      "price": 23.86,
+      "subtotal": 23.86
+    },
+    {
+      "product_id": "B0C6GHJS8K",
+      "name": "Alo Yoga Airlift High-Waist Suit Up Legging",
+      "category": "Clothing",
+      "quantity": 3,
+      "price": 118.0,
+      "subtotal": 354.0
+    }
+  ],
+  "total": 388.92,
+  "currency": "USD"
+}

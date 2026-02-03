@@ -1,0 +1,30 @@
+{
+  "order_id": "WMT-QGYSAGOX",
+  "persona_id": "persona_027",
+  "store_id": "walmart",
+  "status": "delivered",
+  "created_at": "2025-11-23T20:39:24",
+  "shipped_at": "2025-11-26T20:39:24",
+  "delivered_at": "2025-12-01T20:39:24",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "items": [
+    {
+      "product_id": "WMT00001925",
+      "name": "Adidas Predator Edge.1 FG",
+      "category": "Sports",
+      "quantity": 1,
+      "price": 268.25,
+      "subtotal": 268.25
+    },
+    {
+      "product_id": "WMT00001980",
+      "name": "La Sportiva La Sportiva TX4",
+      "category": "Sports",
+      "quantity": 3,
+      "price": 163.72,
+      "subtotal": 491.16
+    }
+  ],
+  "total": 759.41,
+  "currency": "USD"
+}

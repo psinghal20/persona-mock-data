@@ -1,0 +1,38 @@
+{
+  "order_id": "SPG000098",
+  "persona_id": "persona_002",
+  "store_id": "sporting_goods",
+  "status": "delivered",
+  "created_at": "2025-10-17T16:33:38",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "456 Tech Park Drive, San Jose, CA 95110",
+  "items": [
+    {
+      "product_id": "BOX007",
+      "name": "Everlast Pro Style Training",
+      "category": "Gloves",
+      "quantity": 1,
+      "price": 39.99,
+      "subtotal": 39.99
+    },
+    {
+      "product_id": "RUN006",
+      "name": "Dri-FIT Running Tee",
+      "category": "Apparel",
+      "quantity": 1,
+      "price": 45.99,
+      "subtotal": 45.99
+    },
+    {
+      "product_id": "FIT030",
+      "name": "Compex Sport Elite",
+      "category": "Recovery",
+      "quantity": 2,
+      "price": 899.0,
+      "subtotal": 1798.0
+    }
+  ],
+  "total": 1883.98,
+  "currency": "USD"
+}

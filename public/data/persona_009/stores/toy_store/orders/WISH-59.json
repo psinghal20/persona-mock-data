@@ -1,0 +1,23 @@
+{
+  "order_id": "WISH-59",
+  "persona_id": "persona_009",
+  "store_id": "toy_store",
+  "type": "wishlist",
+  "status": "low",
+  "created_at": "2025-11-19T18:13:31",
+  "items": [
+    {
+      "product_id": "TOY-355",
+      "name": "Poolmaster Floating Hoops",
+      "category": "Water Toys",
+      "child_name": "Sarah",
+      "occasion": "Birthday",
+      "priority": "low",
+      "quantity": 1,
+      "price": 24.99,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

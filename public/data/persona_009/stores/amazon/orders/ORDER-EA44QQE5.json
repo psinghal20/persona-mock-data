@@ -1,0 +1,22 @@
+{
+  "order_id": "ORDER-EA44QQE5",
+  "persona_id": "persona_009",
+  "store_id": "amazon",
+  "status": "shipped",
+  "created_at": "2025-10-30T16:02:04",
+  "shipped_at": "2025-10-31T16:02:04",
+  "delivered_at": "",
+  "shipping_address": "789 Veterans Blvd, Tampa, FL 33602",
+  "items": [
+    {
+      "product_id": "B0B8GJ713L",
+      "name": "Stanley Mechanics Tool Set (201 piece)",
+      "category": "Tools & Home Improvement",
+      "quantity": 2,
+      "price": 109.0,
+      "subtotal": 218.0
+    }
+  ],
+  "total": 218.0,
+  "currency": "USD"
+}

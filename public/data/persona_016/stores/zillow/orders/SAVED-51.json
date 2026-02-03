@@ -1,0 +1,26 @@
+{
+  "order_id": "SAVED-51",
+  "persona_id": "persona_016",
+  "store_id": "zillow",
+  "type": "saved_property",
+  "status": "saved",
+  "created_at": "2026-01-13T20:18:50",
+  "notes": "",
+  "items": [
+    {
+      "product_id": "7950",
+      "name": "7711 Pine Way",
+      "address": "7711 Pine Way",
+      "city": "",
+      "price": 1703907.0,
+      "bedrooms": "",
+      "bathrooms": "",
+      "sqft": "",
+      "home_type": "",
+      "quantity": 1,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

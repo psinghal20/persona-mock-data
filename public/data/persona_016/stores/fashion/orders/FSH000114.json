@@ -1,0 +1,30 @@
+{
+  "order_id": "FSH000114",
+  "persona_id": "persona_016",
+  "store_id": "fashion",
+  "status": "cancelled",
+  "created_at": "2025-11-03T22:14:36",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "222 Tech Campus Way, Austin, TX 78701",
+  "items": [
+    {
+      "product_id": "prod_196",
+      "name": "Modern Muse Linen Chinos",
+      "category": "Bottoms",
+      "quantity": 2,
+      "price": 63.81,
+      "subtotal": 127.62
+    },
+    {
+      "product_id": "prod_128",
+      "name": "Modern Muse Leather Trousers",
+      "category": "Bottoms",
+      "quantity": 2,
+      "price": 90.24,
+      "subtotal": 180.48
+    }
+  ],
+  "total": 308.1,
+  "currency": "USD"
+}

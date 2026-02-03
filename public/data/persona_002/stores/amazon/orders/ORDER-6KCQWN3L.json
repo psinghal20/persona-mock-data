@@ -1,0 +1,30 @@
+{
+  "order_id": "ORDER-6KCQWN3L",
+  "persona_id": "persona_002",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2026-01-12T09:52:42",
+  "shipped_at": "2026-01-15T09:52:42",
+  "delivered_at": "2026-01-20T09:52:42",
+  "shipping_address": "456 Tech Park Drive, San Jose, CA 95110",
+  "items": [
+    {
+      "product_id": "B0PCPT0016",
+      "name": "WD Red SN700 SSD",
+      "category": "Electronics",
+      "quantity": 2,
+      "price": 168.38,
+      "subtotal": 336.76
+    },
+    {
+      "product_id": "B0ELEC0159",
+      "name": "CyberPowerPC CyberPowerPC Gamer Xtreme",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 1291.98,
+      "subtotal": 1291.98
+    }
+  ],
+  "total": 1628.74,
+  "currency": "USD"
+}

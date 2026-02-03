@@ -1,0 +1,22 @@
+{
+  "order_id": "ORDER-OH3NM5CS",
+  "persona_id": "persona_002",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-11-19T13:32:54",
+  "shipped_at": "2025-11-21T13:32:54",
+  "delivered_at": "2025-11-23T13:32:54",
+  "shipping_address": "456 Tech Park Drive, San Jose, CA 95110",
+  "items": [
+    {
+      "product_id": "B0AMZN1357",
+      "name": "Samsung 45W Super Fast Charger 2.0",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 49.99,
+      "subtotal": 49.99
+    }
+  ],
+  "total": 49.99,
+  "currency": "USD"
+}

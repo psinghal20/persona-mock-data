@@ -1,0 +1,23 @@
+{
+  "order_id": "WISH-1",
+  "persona_id": "persona_031",
+  "store_id": "toy_store",
+  "type": "wishlist",
+  "status": "high",
+  "created_at": "2025-10-01T19:54:01",
+  "items": [
+    {
+      "product_id": "TOY-073",
+      "name": "LEGO Technic RC Car",
+      "category": "Vehicles & RC",
+      "child_name": "Sophia",
+      "occasion": "Christmas",
+      "priority": "high",
+      "quantity": 1,
+      "price": 199.99,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

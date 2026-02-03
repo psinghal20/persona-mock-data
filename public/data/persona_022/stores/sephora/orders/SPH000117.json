@@ -1,0 +1,46 @@
+{
+  "order_id": "SPH000117",
+  "persona_id": "persona_022",
+  "store_id": "sephora",
+  "status": "shipped",
+  "created_at": "2025-11-19T05:30:37",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "444 Polish Hill St, Philadelphia, PA 19123",
+  "items": [
+    {
+      "product_id": "SPH0371",
+      "name": "Tinted Sunscreen",
+      "category": "Skincare",
+      "quantity": 1,
+      "price": 40.53,
+      "subtotal": 40.53
+    },
+    {
+      "product_id": "SPH0100",
+      "name": "Anti-Aging Eye Cream",
+      "category": "Skincare",
+      "quantity": 1,
+      "price": 79.38,
+      "subtotal": 79.38
+    },
+    {
+      "product_id": "SPH0511",
+      "name": "Exfoliating Toner",
+      "category": "Skincare",
+      "quantity": 1,
+      "price": 32.04,
+      "subtotal": 32.04
+    },
+    {
+      "product_id": "SPH0066",
+      "name": "Natural Lashes",
+      "category": "Eyes",
+      "quantity": 1,
+      "price": 54.31,
+      "subtotal": 54.31
+    }
+  ],
+  "total": 206.26,
+  "currency": "USD"
+}

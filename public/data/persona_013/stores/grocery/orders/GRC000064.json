@@ -1,0 +1,110 @@
+{
+  "order_id": "GRC000064",
+  "persona_id": "persona_013",
+  "store_id": "grocery",
+  "status": "cancelled",
+  "created_at": "2025-12-27T19:18:09",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "555 Community Center Rd, Houston, TX 77001",
+  "items": [
+    {
+      "product_id": "GRO-1358",
+      "name": "Larabar Dried Figs",
+      "category": "Snacks",
+      "quantity": 2,
+      "price": 9.91,
+      "subtotal": 19.82
+    },
+    {
+      "product_id": "prod_760",
+      "name": "Sunrise Farms Licorice",
+      "category": "Snacks",
+      "quantity": 2,
+      "price": 4.83,
+      "subtotal": 9.66
+    },
+    {
+      "product_id": "GRO-1374",
+      "name": "Lesser Evil Nut Bar",
+      "category": "Snacks",
+      "quantity": 2,
+      "price": 9.31,
+      "subtotal": 18.62
+    },
+    {
+      "product_id": "GRO-2190",
+      "name": "Jack Link's Cookies Nutter Butter",
+      "category": "Snacks",
+      "quantity": 1,
+      "price": 9.27,
+      "subtotal": 9.27
+    },
+    {
+      "product_id": "prod_393",
+      "name": "Classic Kitchen BBQ Sauce",
+      "category": "Pantry",
+      "quantity": 1,
+      "price": 3.81,
+      "subtotal": 3.81
+    },
+    {
+      "product_id": "GRO-2144",
+      "name": "Doritos Kettle Chips Jalapeno",
+      "category": "Snacks",
+      "quantity": 2,
+      "price": 9.51,
+      "subtotal": 19.02
+    },
+    {
+      "product_id": "GRO-1346",
+      "name": "Terra Roasted Almonds",
+      "category": "Snacks",
+      "quantity": 2,
+      "price": 18.72,
+      "subtotal": 37.44
+    },
+    {
+      "product_id": "GRO-1369",
+      "name": "Terra Gluten-Free Crackers",
+      "category": "Snacks",
+      "quantity": 4,
+      "price": 17.78,
+      "subtotal": 71.12
+    },
+    {
+      "product_id": "GRO-2152",
+      "name": "Doritos Doritos Cool Ranch",
+      "category": "Snacks",
+      "quantity": 1,
+      "price": 3.85,
+      "subtotal": 3.85
+    },
+    {
+      "product_id": "prod_704",
+      "name": "Nature's Best Saltine Crackers",
+      "category": "Snacks",
+      "quantity": 4,
+      "price": 2.61,
+      "subtotal": 10.44
+    },
+    {
+      "product_id": "GRO-1351",
+      "name": "Terra Walnuts",
+      "category": "Snacks",
+      "quantity": 2,
+      "price": 14.39,
+      "subtotal": 28.78
+    },
+    {
+      "product_id": "prod_728",
+      "name": "Market Fresh Protein Bars",
+      "category": "Snacks",
+      "quantity": 2,
+      "price": 12.92,
+      "subtotal": 25.84
+    }
+  ],
+  "total": 257.67,
+  "currency": "USD"
+}

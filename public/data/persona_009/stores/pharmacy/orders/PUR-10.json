@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-10",
+  "persona_id": "persona_009",
+  "store_id": "pharmacy",
+  "status": "completed",
+  "created_at": "2025-11-27T13:54:38",
+  "items": [
+    {
+      "product_id": "244",
+      "name": "B-Complex",
+      "category": "Vitamins",
+      "quantity": 2,
+      "price": 13.99,
+      "subtotal": 27.98
+    }
+  ],
+  "total": 27.98,
+  "currency": "USD"
+}

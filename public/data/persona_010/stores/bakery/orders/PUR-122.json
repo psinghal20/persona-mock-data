@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-122",
+  "persona_id": "persona_010",
+  "store_id": "bakery",
+  "status": "completed",
+  "created_at": "2026-01-14T04:42:05",
+  "items": [
+    {
+      "product_id": "54",
+      "name": "Brioche Loaf",
+      "category": "Bread",
+      "quantity": 1,
+      "price": 8.49,
+      "subtotal": 8.49
+    }
+  ],
+  "total": 8.49,
+  "currency": "USD"
+}

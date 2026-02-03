@@ -1,0 +1,247 @@
+{
+  "id": "USR001",
+  "name": "John Doe",
+  "initials": "JD",
+  "demographics": {
+    "age_group": "adult",
+    "gender": "male",
+    "ethnicity": "unspecified",
+    "marital_status": "unspecified",
+    "family_role": ""
+  },
+  "professional": {
+    "profession": "test user",
+    "industry": "testing",
+    "experience_level": "default"
+  },
+  "location": {
+    "city": "San Francisco",
+    "region": "California",
+    "country": "USA",
+    "address": "123 Main Street, Apt 4B, San Francisco, CA 94102"
+  },
+  "personality_traits": [
+    "default",
+    "test"
+  ],
+  "interests": [
+    "testing",
+    "shopping",
+    "movies",
+    "books"
+  ],
+  "summary": "You are John Doe, a default test user for the MCP Atlas mock server system. You live in San Francisco and have a variety of shopping habits across different stores. You're used for testing and demonstration purposes.",
+  "stores": [
+    {
+      "id": "movie_theater",
+      "name": "Movie Theater",
+      "item_count": 9,
+      "total_spent": 578.74,
+      "transaction_type": "bookings",
+      "transaction_label": "bookings",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "bookings",
+          "name": "Bookings",
+          "type": "bookings",
+          "item_count": 9,
+          "total_spent": 578.74,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "car_deals",
+      "name": "Car Deals",
+      "item_count": 8,
+      "total_spent": 0,
+      "transaction_type": "inquiries",
+      "transaction_label": "activities",
+      "has_cost": false,
+      "categories": [
+        {
+          "id": "inquiries",
+          "name": "Activities",
+          "type": "inquiries",
+          "item_count": 8,
+          "total_spent": 0,
+          "has_cost": false
+        }
+      ]
+    },
+    {
+      "id": "bakery",
+      "name": "Bakery",
+      "item_count": 7,
+      "total_spent": 145.32,
+      "transaction_type": "purchases",
+      "transaction_label": "purchases",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "purchases",
+          "name": "Purchases",
+          "type": "purchases",
+          "item_count": 5,
+          "total_spent": 37.4,
+          "has_cost": true
+        },
+        {
+          "id": "preorders",
+          "name": "Custom Cake Preorders",
+          "type": "preorders",
+          "item_count": 2,
+          "total_spent": 107.92,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "bookstore",
+      "name": "Bookstore",
+      "item_count": 7,
+      "total_spent": 143.92,
+      "transaction_type": "purchases",
+      "transaction_label": "purchases",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "purchases",
+          "name": "Purchases",
+          "type": "purchases",
+          "item_count": 7,
+          "total_spent": 143.92,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "amazon",
+      "name": "Amazon",
+      "item_count": 5,
+      "total_spent": 845.72,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 5,
+          "total_spent": 845.72,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "pharmacy",
+      "name": "Pharmacy",
+      "item_count": 5,
+      "total_spent": 99.94,
+      "transaction_type": "purchases",
+      "transaction_label": "purchases",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "purchases",
+          "name": "Purchases",
+          "type": "purchases",
+          "item_count": 5,
+          "total_spent": 99.94,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "zillow",
+      "name": "Zillow",
+      "item_count": 4,
+      "total_spent": 0,
+      "transaction_type": "tours",
+      "transaction_label": "tours",
+      "has_cost": false,
+      "categories": [
+        {
+          "id": "tours",
+          "name": "Scheduled Tours",
+          "type": "tours",
+          "item_count": 4,
+          "total_spent": 0,
+          "has_cost": false
+        }
+      ]
+    },
+    {
+      "id": "florist",
+      "name": "Florist",
+      "item_count": 3,
+      "total_spent": 199.96,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 2,
+          "total_spent": 149.97,
+          "has_cost": true
+        },
+        {
+          "id": "subscriptions",
+          "name": "Subscriptions",
+          "type": "subscriptions",
+          "item_count": 1,
+          "total_spent": 49.99,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "perfume_shop",
+      "name": "Perfume Shop",
+      "item_count": 3,
+      "total_spent": 730.44,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 3,
+          "total_spent": 730.44,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "pet_store",
+      "name": "Pet Store",
+      "item_count": 2,
+      "total_spent": 0,
+      "transaction_type": "purchases",
+      "transaction_label": "purchases",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "pets",
+          "name": "Pet Profiles",
+          "type": "pets",
+          "item_count": 2,
+          "total_spent": 0,
+          "has_cost": false
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total_orders": 53,
+    "total_spent": 2744.04,
+    "stores_count": 10
+  }
+}

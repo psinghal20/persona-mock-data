@@ -1,0 +1,30 @@
+{
+  "order_id": "ORDER-7QL2D0AT",
+  "persona_id": "persona_002",
+  "store_id": "amazon",
+  "status": "pending",
+  "created_at": "2025-10-03T00:33:51",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "456 Tech Park Drive, San Jose, CA 95110",
+  "items": [
+    {
+      "product_id": "B0B5GHV23L",
+      "name": "Blue Yeti USB Microphone",
+      "category": "Electronics",
+      "quantity": 2,
+      "price": 129.99,
+      "subtotal": 259.98
+    },
+    {
+      "product_id": "B0ELEC0095",
+      "name": "ASUS ASUS ROG Ally",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 565.28,
+      "subtotal": 565.28
+    }
+  ],
+  "total": 825.26,
+  "currency": "USD"
+}

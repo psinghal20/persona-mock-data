@@ -1,0 +1,22 @@
+{
+  "order_id": "ORDER-ANVA5O6R",
+  "persona_id": "persona_022",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-11-09T02:55:59",
+  "shipped_at": "2025-11-12T02:55:59",
+  "delivered_at": "2025-11-15T02:55:59",
+  "shipping_address": "444 Polish Hill St, Philadelphia, PA 19123",
+  "items": [
+    {
+      "product_id": "B0AMZN1289",
+      "name": "Fully Jarvis Bamboo Desk",
+      "category": "Home & Kitchen",
+      "quantity": 1,
+      "price": 695.0,
+      "subtotal": 695.0
+    }
+  ],
+  "total": 695.0,
+  "currency": "USD"
+}

@@ -1,0 +1,110 @@
+{
+  "order_id": "GRC000324",
+  "persona_id": "persona_022",
+  "store_id": "grocery",
+  "status": "delivered",
+  "created_at": "2025-12-03T08:58:17",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "444 Polish Hill St, Philadelphia, PA 19123",
+  "items": [
+    {
+      "product_id": "prod_705",
+      "name": "Local Pride Organic Saltine Crackers",
+      "category": "Snacks",
+      "quantity": 4,
+      "price": 4.11,
+      "subtotal": 16.44
+    },
+    {
+      "product_id": "prod_052",
+      "name": "Daily Delight Organic Mangoes",
+      "category": "Produce",
+      "quantity": 3,
+      "price": 7.6,
+      "subtotal": 22.8
+    },
+    {
+      "product_id": "prod_785",
+      "name": "Country Best Organic Steel Cut Oats",
+      "category": "Breakfast",
+      "quantity": 2,
+      "price": 9.52,
+      "subtotal": 19.04
+    },
+    {
+      "product_id": "prod_370",
+      "name": "Organic Choice Olive Oil",
+      "category": "Pantry",
+      "quantity": 2,
+      "price": 10.69,
+      "subtotal": 21.38
+    },
+    {
+      "product_id": "prod_270",
+      "name": "Organic Choice Chicken Thighs",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 11.77,
+      "subtotal": 11.77
+    },
+    {
+      "product_id": "GRO-1657",
+      "name": "Organic Valley Purple Potato",
+      "category": "Produce",
+      "quantity": 1,
+      "price": 3.07,
+      "subtotal": 3.07
+    },
+    {
+      "product_id": "GRO-1032",
+      "name": "Cal-Organic Maitake Mushrooms",
+      "category": "Produce",
+      "quantity": 4,
+      "price": 8.9,
+      "subtotal": 35.6
+    },
+    {
+      "product_id": "GRO-1693",
+      "name": "Local Farm Fresh Parsley",
+      "category": "Produce",
+      "quantity": 4,
+      "price": 1.62,
+      "subtotal": 6.48
+    },
+    {
+      "product_id": "GRO-1723",
+      "name": "Organic Valley Fresh Pineapple",
+      "category": "Produce",
+      "quantity": 3,
+      "price": 3.1,
+      "subtotal": 9.3
+    },
+    {
+      "product_id": "prod_218",
+      "name": "Premium Select Organic Almond Milk",
+      "category": "Dairy",
+      "quantity": 2,
+      "price": 5.84,
+      "subtotal": 11.68
+    },
+    {
+      "product_id": "prod_788",
+      "name": "Farm Fresh Organic Pancake Mix",
+      "category": "Breakfast",
+      "quantity": 5,
+      "price": 6.42,
+      "subtotal": 32.1
+    },
+    {
+      "product_id": "prod_318",
+      "name": "Market Fresh Deli Turkey",
+      "category": "Meat & Seafood",
+      "quantity": 2,
+      "price": 9.68,
+      "subtotal": 19.36
+    }
+  ],
+  "total": 209.02,
+  "currency": "USD"
+}

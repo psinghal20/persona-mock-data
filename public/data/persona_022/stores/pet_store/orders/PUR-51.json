@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-51",
+  "persona_id": "persona_022",
+  "store_id": "pet_store",
+  "status": "completed",
+  "created_at": "2025-10-29T08:54:32",
+  "items": [
+    {
+      "product_id": "CAT058",
+      "name": "SmartCat Ultimate Scratching Post",
+      "category": "Health",
+      "quantity": 1,
+      "price": 49.99,
+      "subtotal": 49.99
+    }
+  ],
+  "total": 49.99,
+  "currency": "USD"
+}

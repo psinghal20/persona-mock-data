@@ -1,0 +1,288 @@
+{
+  "id": "persona_027",
+  "name": "Patrick Murphy",
+  "initials": "PM",
+  "demographics": {
+    "age_group": "middle-aged",
+    "gender": "male",
+    "ethnicity": "Irish-American",
+    "marital_status": "married",
+    "family_role": "father"
+  },
+  "professional": {
+    "profession": "bar owner",
+    "industry": "hospitality",
+    "experience_level": "veteran"
+  },
+  "location": {
+    "city": "Boston",
+    "region": "Massachusetts",
+    "country": "USA",
+    "address": "123 Jamaica Plain Rd, Boston, MA 02130"
+  },
+  "personality_traits": [
+    "friendly",
+    "humorous",
+    "traditional"
+  ],
+  "interests": [
+    "Red Sox",
+    "Celtics",
+    "Irish",
+    "pub",
+    "Boston",
+    "community",
+    "sports",
+    "family",
+    "business"
+  ],
+  "summary": "You are Patrick Murphy, a veteran bar owner who runs an Irish pub in Boston's Jamaica Plain neighborhood. You're a middle-aged Irish-American father whose family has been in Boston for generations. You're friendly, humorous, and proud of maintaining authentic neighborhood hospitality in a gentrifying area. You value community, tradition, and keeping the local spirit alive. You worry about rising rents and longtime regulars being displaced. You're a die-hard Red Sox and Celtics fan, love traditional Irish music sessions at your bar, and know everyone's name and story.",
+  "stores": [
+    {
+      "id": "amazon",
+      "name": "Amazon",
+      "item_count": 76,
+      "total_spent": 117903.01,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 76,
+          "total_spent": 117903.01,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "walmart",
+      "name": "Walmart",
+      "item_count": 63,
+      "total_spent": 129097.52,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 63,
+          "total_spent": 129097.52,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "zillow",
+      "name": "Zillow",
+      "item_count": 59,
+      "total_spent": 0,
+      "transaction_type": "tours",
+      "transaction_label": "tours",
+      "has_cost": false,
+      "categories": [
+        {
+          "id": "tours",
+          "name": "Scheduled Tours",
+          "type": "tours",
+          "item_count": 18,
+          "total_spent": 0,
+          "has_cost": false
+        },
+        {
+          "id": "saved",
+          "name": "Saved Properties",
+          "type": "saved",
+          "item_count": 41,
+          "total_spent": 0,
+          "has_cost": false
+        }
+      ]
+    },
+    {
+      "id": "grocery",
+      "name": "Grocery",
+      "item_count": 58,
+      "total_spent": 41854.96,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 58,
+          "total_spent": 41854.96,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "bakery",
+      "name": "Bakery",
+      "item_count": 57,
+      "total_spent": 1194.98,
+      "transaction_type": "purchases",
+      "transaction_label": "purchases",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "purchases",
+          "name": "Purchases",
+          "type": "purchases",
+          "item_count": 47,
+          "total_spent": 549.98,
+          "has_cost": true
+        },
+        {
+          "id": "preorders",
+          "name": "Custom Cake Preorders",
+          "type": "preorders",
+          "item_count": 10,
+          "total_spent": 645.0,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "sporting_goods",
+      "name": "Sporting Goods",
+      "item_count": 34,
+      "total_spent": 21730.08,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 34,
+          "total_spent": 21730.08,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "florist",
+      "name": "Florist",
+      "item_count": 27,
+      "total_spent": 2259.44,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 23,
+          "total_spent": 1899.48,
+          "has_cost": true
+        },
+        {
+          "id": "subscriptions",
+          "name": "Subscriptions",
+          "type": "subscriptions",
+          "item_count": 4,
+          "total_spent": 359.96,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "coffee_roaster",
+      "name": "Coffee Roaster",
+      "item_count": 23,
+      "total_spent": 1360.47,
+      "transaction_type": "purchases",
+      "transaction_label": "purchases",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "purchases",
+          "name": "Purchases",
+          "type": "purchases",
+          "item_count": 20,
+          "total_spent": 1151.5,
+          "has_cost": true
+        },
+        {
+          "id": "subscriptions",
+          "name": "Subscriptions",
+          "type": "subscriptions",
+          "item_count": 3,
+          "total_spent": 208.97,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "jewelry_store",
+      "name": "Jewelry Store",
+      "item_count": 14,
+      "total_spent": 16799.83,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 14,
+          "total_spent": 16799.83,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "furniture_store",
+      "name": "Furniture Store",
+      "item_count": 11,
+      "total_spent": 10229.85,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 11,
+          "total_spent": 10229.85,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "car_deals",
+      "name": "Car Deals",
+      "item_count": 4,
+      "total_spent": 0,
+      "transaction_type": "inquiries",
+      "transaction_label": "activities",
+      "has_cost": false,
+      "categories": [
+        {
+          "id": "inquiries",
+          "name": "Activities",
+          "type": "inquiries",
+          "item_count": 4,
+          "total_spent": 0,
+          "has_cost": false
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total_orders": 426,
+    "total_spent": 342430.14,
+    "stores_count": 11
+  }
+}

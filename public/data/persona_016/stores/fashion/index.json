@@ -1,0 +1,609 @@
+{
+  "persona_id": "persona_016",
+  "store_id": "fashion",
+  "store_name": "Fashion",
+  "transaction_type": "orders",
+  "transaction_label": "orders",
+  "has_cost": true,
+  "summary": {
+    "total_count": 36,
+    "total_spent": 12349.91,
+    "first_date": "2025-10-01",
+    "last_date": "2026-01-27"
+  },
+  "items": [
+    {
+      "order_id": "FSH000109",
+      "status": "shipped",
+      "total": 208.3,
+      "item_count": 2,
+      "created_at": "2026-01-27T15:48:56",
+      "item_preview": "Modern Muse Jersey Crop Top, Chic Studio Denim Shorts"
+    },
+    {
+      "order_id": "FSH000031",
+      "status": "delivered",
+      "total": 167.04,
+      "item_count": 2,
+      "created_at": "2026-01-24T11:24:03",
+      "item_preview": "Essential Edit Cotton Hoodie, Heritage House Denim Hoodie"
+    },
+    {
+      "order_id": "FSH000110",
+      "status": "delivered",
+      "total": 569.66,
+      "item_count": 3,
+      "created_at": "2026-01-22T12:57:54",
+      "item_preview": "Chic Studio Denim Shorts, Nordic Style Rayon Sneakers, ..."
+    },
+    {
+      "order_id": "FSH000042",
+      "status": "shipped",
+      "total": 332.24,
+      "item_count": 2,
+      "created_at": "2026-01-21T05:21:06",
+      "item_preview": "Metro Collection Leather Sneakers, Timeless Trend Denim Hoodie"
+    },
+    {
+      "order_id": "FSH000038",
+      "status": "delivered",
+      "total": 440.88,
+      "item_count": 3,
+      "created_at": "2026-01-21T03:56:48",
+      "item_preview": "Nordic Style Denim Hoodie, Luxe Label Chiffon Joggers, ..."
+    },
+    {
+      "order_id": "FSH000024",
+      "status": "delivered",
+      "total": 525.5,
+      "item_count": 2,
+      "created_at": "2026-01-15T10:41:58",
+      "item_preview": "Modern Muse Denim Shirt Dress, Modern Muse Suede Leather Jacket"
+    },
+    {
+      "order_id": "FSH000026",
+      "status": "delivered",
+      "total": 69.15,
+      "item_count": 1,
+      "created_at": "2026-01-06T12:50:03",
+      "item_preview": "Chic Studio Tweed Shorts"
+    },
+    {
+      "order_id": "FSH000033",
+      "status": "delivered",
+      "total": 441.75,
+      "item_count": 3,
+      "created_at": "2026-01-06T00:06:04",
+      "item_preview": "Nordic Style Rayon Sneakers, Modern Muse Denim Shirt Dress, ..."
+    },
+    {
+      "order_id": "FSH000040",
+      "status": "delivered",
+      "total": 433.3,
+      "item_count": 3,
+      "created_at": "2026-01-01T14:33:50",
+      "item_preview": "Pine & Oak Leather Shorts, Metro Collection Leather Sneakers, ..."
+    },
+    {
+      "order_id": "FSH000105",
+      "status": "delivered",
+      "total": 50.72,
+      "item_count": 1,
+      "created_at": "2026-01-01T05:03:49",
+      "item_preview": "Urban Thread Polyester Hoodie"
+    },
+    {
+      "order_id": "FSH000025",
+      "status": "delivered",
+      "total": 87.5,
+      "item_count": 1,
+      "created_at": "2025-12-24T19:35:51",
+      "item_preview": "Heritage House Denim Hoodie"
+    },
+    {
+      "order_id": "FSH000106",
+      "status": "delivered",
+      "total": 489.24,
+      "item_count": 3,
+      "created_at": "2025-12-24T16:24:01",
+      "item_preview": "Modern Muse Leather Trousers, Sunset Studios Suede Shorts, ..."
+    },
+    {
+      "order_id": "FSH000037",
+      "status": "delivered",
+      "total": 235.08,
+      "item_count": 2,
+      "created_at": "2025-12-20T00:47:21",
+      "item_preview": "Luxe Label Chiffon Joggers, Nordic Style Denim Hoodie"
+    },
+    {
+      "order_id": "FSH000044",
+      "status": "cancelled",
+      "total": 179.36,
+      "item_count": 1,
+      "created_at": "2025-12-18T18:54:22",
+      "item_preview": "Heritage House Rayon Sneakers"
+    },
+    {
+      "order_id": "FSH000107",
+      "status": "delivered",
+      "total": 745.96,
+      "item_count": 4,
+      "created_at": "2025-12-18T08:58:19",
+      "item_preview": "Modern Muse Leather Loafers, Modern Muse Cotton Culottes, ..."
+    },
+    {
+      "order_id": "FSH000111",
+      "status": "delivered",
+      "total": 419.76,
+      "item_count": 2,
+      "created_at": "2025-12-11T09:48:56",
+      "item_preview": "Modern Muse Linen Cardigan Coat, Modern Muse Leather Loafers"
+    },
+    {
+      "order_id": "FSH000101",
+      "status": "delivered",
+      "total": 146.6,
+      "item_count": 1,
+      "created_at": "2025-12-11T06:38:49",
+      "item_preview": "Style Haven Chiffon Hoodie"
+    },
+    {
+      "order_id": "FSH000100",
+      "status": "cancelled",
+      "total": 361.37,
+      "item_count": 2,
+      "created_at": "2025-12-10T10:34:06",
+      "item_preview": "Metro Collection Rayon Sneakers, Modern Muse Suede Belt"
+    },
+    {
+      "order_id": "FSH000035",
+      "status": "shipped",
+      "total": 348.16,
+      "item_count": 2,
+      "created_at": "2025-12-09T08:20:04",
+      "item_preview": "Nordic Style Denim Hoodie, Metro Collection Leather Sneakers"
+    },
+    {
+      "order_id": "FSH000030",
+      "status": "delivered",
+      "total": 854.38,
+      "item_count": 4,
+      "created_at": "2025-12-08T14:41:11",
+      "item_preview": "Nordic Style Rayon Sneakers, Essential Edit Leather Flats, ..."
+    },
+    {
+      "order_id": "FSH000036",
+      "status": "delivered",
+      "total": 391.82,
+      "item_count": 3,
+      "created_at": "2025-11-17T08:33:24",
+      "item_preview": "Timeless Trend Denim Hoodie, Essential Edit Velvet Sneakers, ..."
+    },
+    {
+      "order_id": "FSH000041",
+      "status": "cancelled",
+      "total": 248.92,
+      "item_count": 2,
+      "created_at": "2025-11-09T20:08:17",
+      "item_preview": "Everyday Elegance Leather Joggers, Urban Thread Leather Shorts"
+    },
+    {
+      "order_id": "FSH000114",
+      "status": "cancelled",
+      "total": 308.1,
+      "item_count": 2,
+      "created_at": "2025-11-03T22:14:36",
+      "item_preview": "Modern Muse Linen Chinos, Modern Muse Leather Trousers"
+    },
+    {
+      "order_id": "FSH000108",
+      "status": "delivered",
+      "total": 127.62,
+      "item_count": 1,
+      "created_at": "2025-10-31T01:12:51",
+      "item_preview": "Modern Muse Linen Chinos"
+    },
+    {
+      "order_id": "FSH000102",
+      "status": "shipped",
+      "total": 336.42,
+      "item_count": 3,
+      "created_at": "2025-10-30T00:44:33",
+      "item_preview": "Pure Cotton Co Rayon Joggers, Sunset Studios Velvet Shorts, ..."
+    },
+    {
+      "order_id": "FSH000034",
+      "status": "delivered",
+      "total": 262.84,
+      "item_count": 2,
+      "created_at": "2025-10-29T10:49:41",
+      "item_preview": "Pure Cotton Co Velvet Hoodie, Everyday Elegance Leather Joggers"
+    },
+    {
+      "order_id": "FSH000029",
+      "status": "shipped",
+      "total": 296.94,
+      "item_count": 4,
+      "created_at": "2025-10-26T06:23:07",
+      "item_preview": "Pine & Oak Leather Shorts, Pine & Oak Cashmere Shorts, ..."
+    },
+    {
+      "order_id": "FSH000103",
+      "status": "cancelled",
+      "total": 432.56,
+      "item_count": 2,
+      "created_at": "2025-10-25T06:53:19",
+      "item_preview": "Modern Muse Leather Loafers, Everyday Elegance Denim Flats"
+    },
+    {
+      "order_id": "FSH000032",
+      "status": "delivered",
+      "total": 51.11,
+      "item_count": 1,
+      "created_at": "2025-10-22T02:01:38",
+      "item_preview": "Modern Muse Suede Belt"
+    },
+    {
+      "order_id": "FSH000039",
+      "status": "delivered",
+      "total": 206.23,
+      "item_count": 3,
+      "created_at": "2025-10-09T17:00:55",
+      "item_preview": "Pine & Oak Cashmere Shorts, Modern Muse Cotton Hoodie, ..."
+    },
+    {
+      "order_id": "FSH000112",
+      "status": "delivered",
+      "total": 371.31,
+      "item_count": 2,
+      "created_at": "2025-10-09T15:37:31",
+      "item_preview": "Slim Fit Jeans, Modern Muse Velvet Handbag"
+    },
+    {
+      "order_id": "FSH000028",
+      "status": "delivered",
+      "total": 280.52,
+      "item_count": 2,
+      "created_at": "2025-10-06T07:36:02",
+      "item_preview": "Timeless Trend Denim Hoodie, Essential Edit Cotton Hoodie"
+    },
+    {
+      "order_id": "FSH000027",
+      "status": "delivered",
+      "total": 701.0,
+      "item_count": 3,
+      "created_at": "2025-10-05T23:38:42",
+      "item_preview": "The Basics Cashmere Flats, Pine & Oak Cashmere Shorts, ..."
+    },
+    {
+      "order_id": "FSH000113",
+      "status": "delivered",
+      "total": 497.78,
+      "item_count": 3,
+      "created_at": "2025-10-04T10:46:22",
+      "item_preview": "Modern Muse Wool Sneakers, Essential Edit Leather Flats, ..."
+    },
+    {
+      "order_id": "FSH000104",
+      "status": "shipped",
+      "total": 550.87,
+      "item_count": 3,
+      "created_at": "2025-10-02T22:42:10",
+      "item_preview": "Pine & Oak Suede Flats, Modern Muse Polyester Cardigan, ..."
+    },
+    {
+      "order_id": "FSH000043",
+      "status": "shipped",
+      "total": 179.92,
+      "item_count": 2,
+      "created_at": "2025-10-01T17:30:56",
+      "item_preview": "Heritage House Leather Shorts, Pure Cotton Co Velvet Hoodie"
+    }
+  ],
+  "categories": [
+    {
+      "id": "orders",
+      "name": "Orders",
+      "type": "orders",
+      "label": "orders",
+      "has_cost": true,
+      "summary": {
+        "total_count": 36,
+        "total_spent": 12349.91,
+        "first_date": "2025-10-01",
+        "last_date": "2026-01-27"
+      },
+      "items": [
+        {
+          "order_id": "FSH000109",
+          "status": "shipped",
+          "total": 208.3,
+          "item_count": 2,
+          "created_at": "2026-01-27T15:48:56",
+          "item_preview": "Modern Muse Jersey Crop Top, Chic Studio Denim Shorts"
+        },
+        {
+          "order_id": "FSH000031",
+          "status": "delivered",
+          "total": 167.04,
+          "item_count": 2,
+          "created_at": "2026-01-24T11:24:03",
+          "item_preview": "Essential Edit Cotton Hoodie, Heritage House Denim Hoodie"
+        },
+        {
+          "order_id": "FSH000110",
+          "status": "delivered",
+          "total": 569.66,
+          "item_count": 3,
+          "created_at": "2026-01-22T12:57:54",
+          "item_preview": "Chic Studio Denim Shorts, Nordic Style Rayon Sneakers, ..."
+        },
+        {
+          "order_id": "FSH000042",
+          "status": "shipped",
+          "total": 332.24,
+          "item_count": 2,
+          "created_at": "2026-01-21T05:21:06",
+          "item_preview": "Metro Collection Leather Sneakers, Timeless Trend Denim Hoodie"
+        },
+        {
+          "order_id": "FSH000038",
+          "status": "delivered",
+          "total": 440.88,
+          "item_count": 3,
+          "created_at": "2026-01-21T03:56:48",
+          "item_preview": "Nordic Style Denim Hoodie, Luxe Label Chiffon Joggers, ..."
+        },
+        {
+          "order_id": "FSH000024",
+          "status": "delivered",
+          "total": 525.5,
+          "item_count": 2,
+          "created_at": "2026-01-15T10:41:58",
+          "item_preview": "Modern Muse Denim Shirt Dress, Modern Muse Suede Leather Jacket"
+        },
+        {
+          "order_id": "FSH000026",
+          "status": "delivered",
+          "total": 69.15,
+          "item_count": 1,
+          "created_at": "2026-01-06T12:50:03",
+          "item_preview": "Chic Studio Tweed Shorts"
+        },
+        {
+          "order_id": "FSH000033",
+          "status": "delivered",
+          "total": 441.75,
+          "item_count": 3,
+          "created_at": "2026-01-06T00:06:04",
+          "item_preview": "Nordic Style Rayon Sneakers, Modern Muse Denim Shirt Dress, ..."
+        },
+        {
+          "order_id": "FSH000040",
+          "status": "delivered",
+          "total": 433.3,
+          "item_count": 3,
+          "created_at": "2026-01-01T14:33:50",
+          "item_preview": "Pine & Oak Leather Shorts, Metro Collection Leather Sneakers, ..."
+        },
+        {
+          "order_id": "FSH000105",
+          "status": "delivered",
+          "total": 50.72,
+          "item_count": 1,
+          "created_at": "2026-01-01T05:03:49",
+          "item_preview": "Urban Thread Polyester Hoodie"
+        },
+        {
+          "order_id": "FSH000025",
+          "status": "delivered",
+          "total": 87.5,
+          "item_count": 1,
+          "created_at": "2025-12-24T19:35:51",
+          "item_preview": "Heritage House Denim Hoodie"
+        },
+        {
+          "order_id": "FSH000106",
+          "status": "delivered",
+          "total": 489.24,
+          "item_count": 3,
+          "created_at": "2025-12-24T16:24:01",
+          "item_preview": "Modern Muse Leather Trousers, Sunset Studios Suede Shorts, ..."
+        },
+        {
+          "order_id": "FSH000037",
+          "status": "delivered",
+          "total": 235.08,
+          "item_count": 2,
+          "created_at": "2025-12-20T00:47:21",
+          "item_preview": "Luxe Label Chiffon Joggers, Nordic Style Denim Hoodie"
+        },
+        {
+          "order_id": "FSH000044",
+          "status": "cancelled",
+          "total": 179.36,
+          "item_count": 1,
+          "created_at": "2025-12-18T18:54:22",
+          "item_preview": "Heritage House Rayon Sneakers"
+        },
+        {
+          "order_id": "FSH000107",
+          "status": "delivered",
+          "total": 745.96,
+          "item_count": 4,
+          "created_at": "2025-12-18T08:58:19",
+          "item_preview": "Modern Muse Leather Loafers, Modern Muse Cotton Culottes, ..."
+        },
+        {
+          "order_id": "FSH000111",
+          "status": "delivered",
+          "total": 419.76,
+          "item_count": 2,
+          "created_at": "2025-12-11T09:48:56",
+          "item_preview": "Modern Muse Linen Cardigan Coat, Modern Muse Leather Loafers"
+        },
+        {
+          "order_id": "FSH000101",
+          "status": "delivered",
+          "total": 146.6,
+          "item_count": 1,
+          "created_at": "2025-12-11T06:38:49",
+          "item_preview": "Style Haven Chiffon Hoodie"
+        },
+        {
+          "order_id": "FSH000100",
+          "status": "cancelled",
+          "total": 361.37,
+          "item_count": 2,
+          "created_at": "2025-12-10T10:34:06",
+          "item_preview": "Metro Collection Rayon Sneakers, Modern Muse Suede Belt"
+        },
+        {
+          "order_id": "FSH000035",
+          "status": "shipped",
+          "total": 348.16,
+          "item_count": 2,
+          "created_at": "2025-12-09T08:20:04",
+          "item_preview": "Nordic Style Denim Hoodie, Metro Collection Leather Sneakers"
+        },
+        {
+          "order_id": "FSH000030",
+          "status": "delivered",
+          "total": 854.38,
+          "item_count": 4,
+          "created_at": "2025-12-08T14:41:11",
+          "item_preview": "Nordic Style Rayon Sneakers, Essential Edit Leather Flats, ..."
+        },
+        {
+          "order_id": "FSH000036",
+          "status": "delivered",
+          "total": 391.82,
+          "item_count": 3,
+          "created_at": "2025-11-17T08:33:24",
+          "item_preview": "Timeless Trend Denim Hoodie, Essential Edit Velvet Sneakers, ..."
+        },
+        {
+          "order_id": "FSH000041",
+          "status": "cancelled",
+          "total": 248.92,
+          "item_count": 2,
+          "created_at": "2025-11-09T20:08:17",
+          "item_preview": "Everyday Elegance Leather Joggers, Urban Thread Leather Shorts"
+        },
+        {
+          "order_id": "FSH000114",
+          "status": "cancelled",
+          "total": 308.1,
+          "item_count": 2,
+          "created_at": "2025-11-03T22:14:36",
+          "item_preview": "Modern Muse Linen Chinos, Modern Muse Leather Trousers"
+        },
+        {
+          "order_id": "FSH000108",
+          "status": "delivered",
+          "total": 127.62,
+          "item_count": 1,
+          "created_at": "2025-10-31T01:12:51",
+          "item_preview": "Modern Muse Linen Chinos"
+        },
+        {
+          "order_id": "FSH000102",
+          "status": "shipped",
+          "total": 336.42,
+          "item_count": 3,
+          "created_at": "2025-10-30T00:44:33",
+          "item_preview": "Pure Cotton Co Rayon Joggers, Sunset Studios Velvet Shorts, ..."
+        },
+        {
+          "order_id": "FSH000034",
+          "status": "delivered",
+          "total": 262.84,
+          "item_count": 2,
+          "created_at": "2025-10-29T10:49:41",
+          "item_preview": "Pure Cotton Co Velvet Hoodie, Everyday Elegance Leather Joggers"
+        },
+        {
+          "order_id": "FSH000029",
+          "status": "shipped",
+          "total": 296.94,
+          "item_count": 4,
+          "created_at": "2025-10-26T06:23:07",
+          "item_preview": "Pine & Oak Leather Shorts, Pine & Oak Cashmere Shorts, ..."
+        },
+        {
+          "order_id": "FSH000103",
+          "status": "cancelled",
+          "total": 432.56,
+          "item_count": 2,
+          "created_at": "2025-10-25T06:53:19",
+          "item_preview": "Modern Muse Leather Loafers, Everyday Elegance Denim Flats"
+        },
+        {
+          "order_id": "FSH000032",
+          "status": "delivered",
+          "total": 51.11,
+          "item_count": 1,
+          "created_at": "2025-10-22T02:01:38",
+          "item_preview": "Modern Muse Suede Belt"
+        },
+        {
+          "order_id": "FSH000039",
+          "status": "delivered",
+          "total": 206.23,
+          "item_count": 3,
+          "created_at": "2025-10-09T17:00:55",
+          "item_preview": "Pine & Oak Cashmere Shorts, Modern Muse Cotton Hoodie, ..."
+        },
+        {
+          "order_id": "FSH000112",
+          "status": "delivered",
+          "total": 371.31,
+          "item_count": 2,
+          "created_at": "2025-10-09T15:37:31",
+          "item_preview": "Slim Fit Jeans, Modern Muse Velvet Handbag"
+        },
+        {
+          "order_id": "FSH000028",
+          "status": "delivered",
+          "total": 280.52,
+          "item_count": 2,
+          "created_at": "2025-10-06T07:36:02",
+          "item_preview": "Timeless Trend Denim Hoodie, Essential Edit Cotton Hoodie"
+        },
+        {
+          "order_id": "FSH000027",
+          "status": "delivered",
+          "total": 701.0,
+          "item_count": 3,
+          "created_at": "2025-10-05T23:38:42",
+          "item_preview": "The Basics Cashmere Flats, Pine & Oak Cashmere Shorts, ..."
+        },
+        {
+          "order_id": "FSH000113",
+          "status": "delivered",
+          "total": 497.78,
+          "item_count": 3,
+          "created_at": "2025-10-04T10:46:22",
+          "item_preview": "Modern Muse Wool Sneakers, Essential Edit Leather Flats, ..."
+        },
+        {
+          "order_id": "FSH000104",
+          "status": "shipped",
+          "total": 550.87,
+          "item_count": 3,
+          "created_at": "2025-10-02T22:42:10",
+          "item_preview": "Pine & Oak Suede Flats, Modern Muse Polyester Cardigan, ..."
+        },
+        {
+          "order_id": "FSH000043",
+          "status": "shipped",
+          "total": 179.92,
+          "item_count": 2,
+          "created_at": "2025-10-01T17:30:56",
+          "item_preview": "Heritage House Leather Shorts, Pure Cotton Co Velvet Hoodie"
+        }
+      ]
+    }
+  ]
+}

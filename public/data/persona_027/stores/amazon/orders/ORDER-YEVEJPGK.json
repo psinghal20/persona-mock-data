@@ -1,0 +1,22 @@
+{
+  "order_id": "ORDER-YEVEJPGK",
+  "persona_id": "persona_027",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2026-01-12T12:33:54",
+  "shipped_at": "2026-01-14T12:33:54",
+  "delivered_at": "2026-01-17T12:33:54",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "items": [
+    {
+      "product_id": "B0BCGHV01L",
+      "name": "BenQ ScreenBar Monitor Light",
+      "category": "Electronics",
+      "quantity": 3,
+      "price": 109.0,
+      "subtotal": 327.0
+    }
+  ],
+  "total": 327.0,
+  "currency": "USD"
+}

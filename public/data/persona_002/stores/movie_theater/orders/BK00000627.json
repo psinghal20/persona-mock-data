@@ -1,0 +1,23 @@
+{
+  "order_id": "BK00000627",
+  "persona_id": "persona_002",
+  "store_id": "movie_theater",
+  "type": "booking",
+  "status": "confirmed",
+  "created_at": "2025-10-21T22:42:17",
+  "confirmation_code": "AMC-M8L4DE",
+  "items": [
+    {
+      "product_id": "MOV030",
+      "name": "It Ends with Us",
+      "showtime": "",
+      "theater": "",
+      "seats": "G7",
+      "quantity": 1,
+      "price": 24.99,
+      "subtotal": 24.99
+    }
+  ],
+  "total": 24.99,
+  "currency": "USD"
+}

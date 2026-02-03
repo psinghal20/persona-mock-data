@@ -1,0 +1,22 @@
+{
+  "order_id": "ORDER-LQJQ7CQB",
+  "persona_id": "persona_016",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-10-27T08:48:40",
+  "shipped_at": "2025-10-29T08:48:40",
+  "delivered_at": "2025-10-31T08:48:40",
+  "shipping_address": "222 Tech Campus Way, Austin, TX 78701",
+  "items": [
+    {
+      "product_id": "B0AMZN1751",
+      "name": "Moleskine Classic Notebook Large",
+      "category": "Office Products",
+      "quantity": 1,
+      "price": 22.99,
+      "subtotal": 22.99
+    }
+  ],
+  "total": 22.99,
+  "currency": "USD"
+}

@@ -1,0 +1,30 @@
+{
+  "order_id": "ORDER-YOVQ1BDV",
+  "persona_id": "persona_014",
+  "store_id": "amazon",
+  "status": "cancelled",
+  "created_at": "2025-12-21T08:43:59",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "888 Design District Ln, San Francisco, CA 94102",
+  "items": [
+    {
+      "product_id": "B0AMZN1313",
+      "name": "Honeywell Home T9 Smart Thermostat",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 199.99,
+      "subtotal": 199.99
+    },
+    {
+      "product_id": "B0BCGHX01L",
+      "name": "Blink Outdoor Camera (3 pack)",
+      "category": "Electronics",
+      "quantity": 3,
+      "price": 179.99,
+      "subtotal": 539.97
+    }
+  ],
+  "total": 739.96,
+  "currency": "USD"
+}

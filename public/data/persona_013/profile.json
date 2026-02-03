@@ -1,0 +1,252 @@
+{
+  "id": "persona_013",
+  "name": "Carlos Mendez",
+  "initials": "CM",
+  "demographics": {
+    "age_group": "middle-aged",
+    "gender": "male",
+    "ethnicity": "Colombian-American",
+    "marital_status": "married",
+    "family_role": "father"
+  },
+  "professional": {
+    "profession": "basketball coach",
+    "industry": "sports",
+    "experience_level": "veteran"
+  },
+  "location": {
+    "city": "Houston",
+    "region": "Texas",
+    "country": "USA",
+    "address": "555 Community Center Rd, Houston, TX 77001"
+  },
+  "personality_traits": [
+    "passionate",
+    "supportive",
+    "determined"
+  ],
+  "interests": [
+    "basketball",
+    "fitness",
+    "community",
+    "soccer",
+    "family",
+    "coaching",
+    "sports",
+    "health"
+  ],
+  "summary": "You are Carlos Mendez, a veteran basketball coach who runs youth development programs in Houston, Texas. You immigrated from Colombia as a young man and became a citizen. You're a middle-aged married father who is passionate about mentoring young athletes, especially in underserved Hispanic communities. You're supportive, determined, and believe sports can transform lives. You value teamwork and community service, and dream of developing future professional players. You enjoy fitness, family cookouts, and watching both NBA and soccer.",
+  "stores": [
+    {
+      "id": "amazon",
+      "name": "Amazon",
+      "item_count": 85,
+      "total_spent": 106073.19,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 85,
+          "total_spent": 106073.19,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "walmart",
+      "name": "Walmart",
+      "item_count": 80,
+      "total_spent": 146080.34,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 80,
+          "total_spent": 146080.34,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "grocery",
+      "name": "Grocery",
+      "item_count": 55,
+      "total_spent": 10928.34,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 55,
+          "total_spent": 10928.34,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "sporting_goods",
+      "name": "Sporting Goods",
+      "item_count": 38,
+      "total_spent": 40125.06,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 38,
+          "total_spent": 40125.06,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "toy_store",
+      "name": "Toy Store",
+      "item_count": 38,
+      "total_spent": 1465.57,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 14,
+          "total_spent": 1465.57,
+          "has_cost": true
+        },
+        {
+          "id": "wishlists",
+          "name": "Wishlists",
+          "type": "wishlists",
+          "item_count": 24,
+          "total_spent": 0,
+          "has_cost": false
+        }
+      ]
+    },
+    {
+      "id": "movie_theater",
+      "name": "Movie Theater",
+      "item_count": 34,
+      "total_spent": 1801.6,
+      "transaction_type": "bookings",
+      "transaction_label": "bookings",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "bookings",
+          "name": "Bookings",
+          "type": "bookings",
+          "item_count": 34,
+          "total_spent": 1801.6,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "pharmacy",
+      "name": "Pharmacy",
+      "item_count": 27,
+      "total_spent": 842.52,
+      "transaction_type": "purchases",
+      "transaction_label": "purchases",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "purchases",
+          "name": "Purchases",
+          "type": "purchases",
+          "item_count": 27,
+          "total_spent": 842.52,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "car_deals",
+      "name": "Car Deals",
+      "item_count": 23,
+      "total_spent": 0,
+      "transaction_type": "inquiries",
+      "transaction_label": "activities",
+      "has_cost": false,
+      "categories": [
+        {
+          "id": "inquiries",
+          "name": "Activities",
+          "type": "inquiries",
+          "item_count": 23,
+          "total_spent": 0,
+          "has_cost": false
+        }
+      ]
+    },
+    {
+      "id": "florist",
+      "name": "Florist",
+      "item_count": 14,
+      "total_spent": 1354.77,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 10,
+          "total_spent": 1134.81,
+          "has_cost": true
+        },
+        {
+          "id": "subscriptions",
+          "name": "Subscriptions",
+          "type": "subscriptions",
+          "item_count": 4,
+          "total_spent": 219.96,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "jewelry_store",
+      "name": "Jewelry Store",
+      "item_count": 12,
+      "total_spent": 16949.86,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 12,
+          "total_spent": 16949.86,
+          "has_cost": true
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total_orders": 406,
+    "total_spent": 325621.25,
+    "stores_count": 10
+  }
+}

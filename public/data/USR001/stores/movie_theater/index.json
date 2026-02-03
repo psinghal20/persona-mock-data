@@ -1,0 +1,195 @@
+{
+  "persona_id": "USR001",
+  "store_id": "movie_theater",
+  "store_name": "Movie Theater",
+  "transaction_type": "bookings",
+  "transaction_label": "bookings",
+  "has_cost": true,
+  "summary": {
+    "total_count": 9,
+    "total_spent": 578.74,
+    "first_date": "2024-11-15",
+    "last_date": "2026-01-10"
+  },
+  "items": [
+    {
+      "order_id": "BK00000114",
+      "display_name": "It Ends with Us",
+      "description": "2 seats",
+      "status": "pending",
+      "total": 43.98,
+      "item_count": 2,
+      "created_at": "2026-01-10T17:09:52"
+    },
+    {
+      "order_id": "BK00000184",
+      "display_name": "The Watchers",
+      "description": "3 seats",
+      "status": "pending",
+      "total": 71.97,
+      "item_count": 3,
+      "created_at": "2025-12-28T17:09:52"
+    },
+    {
+      "order_id": "BK00000283",
+      "display_name": "Trap",
+      "description": "4 seats",
+      "status": "cancelled",
+      "total": 91.96,
+      "item_count": 4,
+      "created_at": "2025-12-26T17:09:52"
+    },
+    {
+      "order_id": "BK00000268",
+      "display_name": "Smile 2",
+      "description": "4 seats",
+      "status": "cancelled",
+      "total": 79.96,
+      "item_count": 4,
+      "created_at": "2025-12-06T17:09:52"
+    },
+    {
+      "order_id": "BK00000005",
+      "display_name": "Wicked",
+      "description": "2 seats",
+      "status": "confirmed",
+      "total": 49.98,
+      "item_count": 2,
+      "created_at": "2024-12-15T11:00:00"
+    },
+    {
+      "order_id": "BK00000004",
+      "display_name": "Deadpool & Wolverine",
+      "description": "4 seats",
+      "status": "confirmed",
+      "total": 99.96,
+      "item_count": 4,
+      "created_at": "2024-12-08T16:20:00"
+    },
+    {
+      "order_id": "BK00000003",
+      "display_name": "Furiosa: A Mad Max Saga",
+      "description": "2 seats",
+      "status": "confirmed",
+      "total": 45.98,
+      "item_count": 2,
+      "created_at": "2024-12-01T09:45:00"
+    },
+    {
+      "order_id": "BK00000002",
+      "display_name": "Kung Fu Panda 4",
+      "description": "3 seats",
+      "status": "confirmed",
+      "total": 44.97,
+      "item_count": 3,
+      "created_at": "2024-11-22T14:15:00"
+    },
+    {
+      "order_id": "BK00000001",
+      "display_name": "Dune: Part Two",
+      "description": "2 seats",
+      "status": "confirmed",
+      "total": 49.98,
+      "item_count": 2,
+      "created_at": "2024-11-15T10:30:00"
+    }
+  ],
+  "categories": [
+    {
+      "id": "bookings",
+      "name": "Bookings",
+      "type": "bookings",
+      "label": "bookings",
+      "has_cost": true,
+      "summary": {
+        "total_count": 9,
+        "total_spent": 578.74,
+        "first_date": "2024-11-15",
+        "last_date": "2026-01-10"
+      },
+      "items": [
+        {
+          "order_id": "BK00000114",
+          "display_name": "It Ends with Us",
+          "description": "2 seats",
+          "status": "pending",
+          "total": 43.98,
+          "item_count": 2,
+          "created_at": "2026-01-10T17:09:52"
+        },
+        {
+          "order_id": "BK00000184",
+          "display_name": "The Watchers",
+          "description": "3 seats",
+          "status": "pending",
+          "total": 71.97,
+          "item_count": 3,
+          "created_at": "2025-12-28T17:09:52"
+        },
+        {
+          "order_id": "BK00000283",
+          "display_name": "Trap",
+          "description": "4 seats",
+          "status": "cancelled",
+          "total": 91.96,
+          "item_count": 4,
+          "created_at": "2025-12-26T17:09:52"
+        },
+        {
+          "order_id": "BK00000268",
+          "display_name": "Smile 2",
+          "description": "4 seats",
+          "status": "cancelled",
+          "total": 79.96,
+          "item_count": 4,
+          "created_at": "2025-12-06T17:09:52"
+        },
+        {
+          "order_id": "BK00000005",
+          "display_name": "Wicked",
+          "description": "2 seats",
+          "status": "confirmed",
+          "total": 49.98,
+          "item_count": 2,
+          "created_at": "2024-12-15T11:00:00"
+        },
+        {
+          "order_id": "BK00000004",
+          "display_name": "Deadpool & Wolverine",
+          "description": "4 seats",
+          "status": "confirmed",
+          "total": 99.96,
+          "item_count": 4,
+          "created_at": "2024-12-08T16:20:00"
+        },
+        {
+          "order_id": "BK00000003",
+          "display_name": "Furiosa: A Mad Max Saga",
+          "description": "2 seats",
+          "status": "confirmed",
+          "total": 45.98,
+          "item_count": 2,
+          "created_at": "2024-12-01T09:45:00"
+        },
+        {
+          "order_id": "BK00000002",
+          "display_name": "Kung Fu Panda 4",
+          "description": "3 seats",
+          "status": "confirmed",
+          "total": 44.97,
+          "item_count": 3,
+          "created_at": "2024-11-22T14:15:00"
+        },
+        {
+          "order_id": "BK00000001",
+          "display_name": "Dune: Part Two",
+          "description": "2 seats",
+          "status": "confirmed",
+          "total": 49.98,
+          "item_count": 2,
+          "created_at": "2024-11-15T10:30:00"
+        }
+      ]
+    }
+  ]
+}

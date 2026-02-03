@@ -1,0 +1,30 @@
+{
+  "order_id": "ORDER-S4NE40SW",
+  "persona_id": "persona_002",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-11-12T14:11:07",
+  "shipped_at": "2025-11-13T14:11:07",
+  "delivered_at": "2025-11-18T14:11:07",
+  "shipping_address": "456 Tech Park Drive, San Jose, CA 95110",
+  "items": [
+    {
+      "product_id": "B0ELEC0016",
+      "name": "ASUS ASUS ROG Strix G16 Desktop",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 2183.05,
+      "subtotal": 2183.05
+    },
+    {
+      "product_id": "B0PCPT0173",
+      "name": "ASUS ROG Strix Z790-I Gaming WiFi Motherboard",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 389.95,
+      "subtotal": 389.95
+    }
+  ],
+  "total": 2573.0,
+  "currency": "USD"
+}

@@ -1,0 +1,19 @@
+{
+  "order_id": "TD-2",
+  "persona_id": "USR001",
+  "store_id": "car_deals",
+  "type": "test_drive",
+  "status": "requested",
+  "scheduled_time": "2025-01-18T09:45:00",
+  "items": [
+    {
+      "product_id": "CAR004",
+      "name": "RAV4",
+      "quantity": 1,
+      "price": 35990.0,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

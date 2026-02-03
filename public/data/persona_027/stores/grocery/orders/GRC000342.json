@@ -1,0 +1,174 @@
+{
+  "order_id": "GRC000342",
+  "persona_id": "persona_027",
+  "store_id": "grocery",
+  "status": "shipped",
+  "created_at": "2025-12-03T16:56:25",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "items": [
+    {
+      "product_id": "GRO-1097",
+      "name": "Applegate Ground Pork",
+      "category": "Meat & Seafood",
+      "quantity": 4,
+      "price": 27.1,
+      "subtotal": 108.4
+    },
+    {
+      "product_id": "GRO-1851",
+      "name": "Niman Ranch Pork Sausage Patties",
+      "category": "Meat & Seafood",
+      "quantity": 2,
+      "price": 20.09,
+      "subtotal": 40.18
+    },
+    {
+      "product_id": "GRO-1339",
+      "name": "Blue Diamond Sweet Potato Chips",
+      "category": "Snacks",
+      "quantity": 2,
+      "price": 13.55,
+      "subtotal": 27.1
+    },
+    {
+      "product_id": "GRO-1848",
+      "name": "Perdue Pork Sirloin Roast",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 5.37,
+      "subtotal": 5.37
+    },
+    {
+      "product_id": "GRO-1111",
+      "name": "Snake River Farms Wild Salmon Fillet",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 59.11,
+      "subtotal": 59.11
+    },
+    {
+      "product_id": "prod_233",
+      "name": "Local Pride NY Strip Steak",
+      "category": "Meat & Seafood",
+      "quantity": 5,
+      "price": 14.95,
+      "subtotal": 74.75
+    },
+    {
+      "product_id": "GRO-1845",
+      "name": "Smithfield Pork Chops Bone In",
+      "category": "Meat & Seafood",
+      "quantity": 4,
+      "price": 17.45,
+      "subtotal": 69.8
+    },
+    {
+      "product_id": "prod_289",
+      "name": "Sunrise Farms Tuna Steak",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 46.58,
+      "subtotal": 46.58
+    },
+    {
+      "product_id": "prod_279",
+      "name": "Mountain Fresh Organic Shrimp",
+      "category": "Meat & Seafood",
+      "quantity": 3,
+      "price": 51.62,
+      "subtotal": 154.86
+    },
+    {
+      "product_id": "prod_255",
+      "name": "Daily Delight Pork Tenderloin",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 25.46,
+      "subtotal": 25.46
+    },
+    {
+      "product_id": "prod_236",
+      "name": "Country Best Organic Filet Mignon",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 93.64,
+      "subtotal": 93.64
+    },
+    {
+      "product_id": "GRO-1857",
+      "name": "Sea Best Ham Slice",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 20.13,
+      "subtotal": 20.13
+    },
+    {
+      "product_id": "GRO-1105",
+      "name": "Applegate Cornish Game Hen",
+      "category": "Meat & Seafood",
+      "quantity": 2,
+      "price": 88.41,
+      "subtotal": 176.82
+    },
+    {
+      "product_id": "prod_267",
+      "name": "Local Pride Ground Lamb",
+      "category": "Meat & Seafood",
+      "quantity": 4,
+      "price": 11.13,
+      "subtotal": 44.52
+    },
+    {
+      "product_id": "GRO-1089",
+      "name": "D'Artagnan Hanger Steak",
+      "category": "Meat & Seafood",
+      "quantity": 2,
+      "price": 47.29,
+      "subtotal": 94.58
+    },
+    {
+      "product_id": "GRO-1883",
+      "name": "Butterball Crab Meat Lump",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 21.76,
+      "subtotal": 21.76
+    },
+    {
+      "product_id": "GRO-1551",
+      "name": "Earth's Best Sweet Potato Puree",
+      "category": "Baby",
+      "quantity": 2,
+      "price": 20.12,
+      "subtotal": 40.24
+    },
+    {
+      "product_id": "GRO-1090",
+      "name": "D'Artagnan Flat Iron Steak",
+      "category": "Meat & Seafood",
+      "quantity": 3,
+      "price": 56.17,
+      "subtotal": 168.51
+    },
+    {
+      "product_id": "GRO-1082",
+      "name": "Bell & Evans Wagyu Ribeye",
+      "category": "Meat & Seafood",
+      "quantity": 2,
+      "price": 79.26,
+      "subtotal": 158.52
+    },
+    {
+      "product_id": "prod_234",
+      "name": "Daily Delight NY Strip Steak",
+      "category": "Meat & Seafood",
+      "quantity": 2,
+      "price": 37.37,
+      "subtotal": 74.74
+    }
+  ],
+  "total": 1505.07,
+  "currency": "USD"
+}

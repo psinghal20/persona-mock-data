@@ -1,0 +1,22 @@
+{
+  "order_id": "ORDER-GA36E0Y3",
+  "persona_id": "persona_013",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-10-21T09:06:30",
+  "shipped_at": "2025-10-23T09:06:30",
+  "delivered_at": "2025-10-26T09:06:30",
+  "shipping_address": "555 Community Center Rd, Houston, TX 77001",
+  "items": [
+    {
+      "product_id": "B0AMZN1220",
+      "name": "Sole F80 Treadmill",
+      "category": "Sports & Outdoors",
+      "quantity": 1,
+      "price": 1699.99,
+      "subtotal": 1699.99
+    }
+  ],
+  "total": 1699.99,
+  "currency": "USD"
+}

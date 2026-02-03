@@ -1,0 +1,174 @@
+{
+  "order_id": "GRC000259",
+  "persona_id": "persona_010",
+  "store_id": "grocery",
+  "status": "shipped",
+  "created_at": "2025-11-14T13:28:43",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "321 French Quarter Ave, New Orleans, LA 70116",
+  "items": [
+    {
+      "product_id": "GRO-1028",
+      "name": "Earthbound Farm Fresh Curry Leaves",
+      "category": "Produce",
+      "quantity": 3,
+      "price": 7.67,
+      "subtotal": 23.01
+    },
+    {
+      "product_id": "prod_392",
+      "name": "Farm Fresh BBQ Sauce",
+      "category": "Pantry",
+      "quantity": 2,
+      "price": 4.8,
+      "subtotal": 9.6
+    },
+    {
+      "product_id": "prod_547",
+      "name": "Fresh Farms Frozen Blueberries",
+      "category": "Frozen",
+      "quantity": 1,
+      "price": 5.64,
+      "subtotal": 5.64
+    },
+    {
+      "product_id": "prod_762",
+      "name": "Mountain Fresh Cereal Corn Flakes",
+      "category": "Breakfast",
+      "quantity": 4,
+      "price": 4.09,
+      "subtotal": 16.36
+    },
+    {
+      "product_id": "GRO-2066",
+      "name": "Ben & Jerry's Frozen French Toast",
+      "category": "Frozen",
+      "quantity": 1,
+      "price": 4.42,
+      "subtotal": 4.42
+    },
+    {
+      "product_id": "GRO-1731",
+      "name": "Organic Valley Plantain Green",
+      "category": "Produce",
+      "quantity": 4,
+      "price": 6.96,
+      "subtotal": 27.84
+    },
+    {
+      "product_id": "prod_763",
+      "name": "Organic Choice Cereal Corn Flakes",
+      "category": "Breakfast",
+      "quantity": 1,
+      "price": 5.1,
+      "subtotal": 5.1
+    },
+    {
+      "product_id": "prod_937",
+      "name": "Golden Harvest Organic Baby Formula",
+      "category": "Baby",
+      "quantity": 2,
+      "price": 39.42,
+      "subtotal": 78.84
+    },
+    {
+      "product_id": "prod_616",
+      "name": "Fresh Farms Organic Bottled Water",
+      "category": "Beverages",
+      "quantity": 1,
+      "price": 1.78,
+      "subtotal": 1.78
+    },
+    {
+      "product_id": "GRO-2049",
+      "name": "Tyson Frozen Mac and Cheese",
+      "category": "Frozen",
+      "quantity": 5,
+      "price": 4.74,
+      "subtotal": 23.7
+    },
+    {
+      "product_id": "GRO-1773",
+      "name": "Organic Valley White Cheddar",
+      "category": "Dairy",
+      "quantity": 3,
+      "price": 8.73,
+      "subtotal": 26.19
+    },
+    {
+      "product_id": "prod_919",
+      "name": "Farm Fresh Aluminum Foil",
+      "category": "Household",
+      "quantity": 1,
+      "price": 5.85,
+      "subtotal": 5.85
+    },
+    {
+      "product_id": "prod_653",
+      "name": "Fresh Farms Instant Coffee",
+      "category": "Beverages",
+      "quantity": 2,
+      "price": 9.52,
+      "subtotal": 19.04
+    },
+    {
+      "product_id": "prod_292",
+      "name": "Heritage Foods Organic Crab Legs",
+      "category": "Meat & Seafood",
+      "quantity": 3,
+      "price": 85.05,
+      "subtotal": 255.15
+    },
+    {
+      "product_id": "prod_803",
+      "name": "Pure & Simple Organic Salt",
+      "category": "Condiments & Spices",
+      "quantity": 1,
+      "price": 2.02,
+      "subtotal": 2.02
+    },
+    {
+      "product_id": "prod_810",
+      "name": "Market Fresh Organic Garlic Powder",
+      "category": "Condiments & Spices",
+      "quantity": 2,
+      "price": 5.5,
+      "subtotal": 11.0
+    },
+    {
+      "product_id": "prod_408",
+      "name": "Market Fresh Organic Jelly",
+      "category": "Pantry",
+      "quantity": 1,
+      "price": 5.64,
+      "subtotal": 5.64
+    },
+    {
+      "product_id": "prod_265",
+      "name": "Market Fresh Lamb Chops",
+      "category": "Meat & Seafood",
+      "quantity": 4,
+      "price": 19.18,
+      "subtotal": 76.72
+    },
+    {
+      "product_id": "prod_610",
+      "name": "Farm Fresh Popsicles",
+      "category": "Frozen",
+      "quantity": 5,
+      "price": 4.09,
+      "subtotal": 20.45
+    },
+    {
+      "product_id": "GRO-1454",
+      "name": "Primal Kitchen Blue Cheese Dressing",
+      "category": "Condiments",
+      "quantity": 1,
+      "price": 7.5,
+      "subtotal": 7.5
+    }
+  ],
+  "total": 625.85,
+  "currency": "USD"
+}

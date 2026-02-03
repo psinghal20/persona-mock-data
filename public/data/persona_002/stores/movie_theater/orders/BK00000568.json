@@ -1,0 +1,23 @@
+{
+  "order_id": "BK00000568",
+  "persona_id": "persona_002",
+  "store_id": "movie_theater",
+  "type": "booking",
+  "status": "confirmed",
+  "created_at": "2026-01-16T04:59:23",
+  "confirmation_code": "AMC-5J0N3X",
+  "items": [
+    {
+      "product_id": "MOV047",
+      "name": "Anyone But You",
+      "showtime": "",
+      "theater": "",
+      "seats": "D5,D6,D7,D8",
+      "quantity": 4,
+      "price": 22.99,
+      "subtotal": 91.96
+    }
+  ],
+  "total": 91.96,
+  "currency": "USD"
+}

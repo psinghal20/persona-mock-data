@@ -1,0 +1,110 @@
+{
+  "order_id": "GRC000154",
+  "persona_id": "persona_016",
+  "store_id": "grocery",
+  "status": "delivered",
+  "created_at": "2025-12-29T15:58:09",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "222 Tech Campus Way, Austin, TX 78701",
+  "items": [
+    {
+      "product_id": "prod_830",
+      "name": "Country Best Oregano",
+      "category": "Condiments & Spices",
+      "quantity": 3,
+      "price": 3.67,
+      "subtotal": 11.01
+    },
+    {
+      "product_id": "prod_288",
+      "name": "Country Best Tuna Steak",
+      "category": "Meat & Seafood",
+      "quantity": 3,
+      "price": 16.29,
+      "subtotal": 48.87
+    },
+    {
+      "product_id": "prod_861",
+      "name": "Premium Select Caesar Dressing",
+      "category": "Condiments & Spices",
+      "quantity": 1,
+      "price": 5.61,
+      "subtotal": 5.61
+    },
+    {
+      "product_id": "prod_125",
+      "name": "Green Valley Organic Zucchini",
+      "category": "Produce",
+      "quantity": 2,
+      "price": 8.32,
+      "subtotal": 16.64
+    },
+    {
+      "product_id": "prod_859",
+      "name": "Daily Delight Organic Italian Dressing",
+      "category": "Condiments & Spices",
+      "quantity": 3,
+      "price": 5.86,
+      "subtotal": 17.58
+    },
+    {
+      "product_id": "prod_378",
+      "name": "Premium Select Coconut Oil",
+      "category": "Pantry",
+      "quantity": 3,
+      "price": 6.99,
+      "subtotal": 20.97
+    },
+    {
+      "product_id": "GRO-1650",
+      "name": "Organic Valley White Onion",
+      "category": "Produce",
+      "quantity": 5,
+      "price": 8.6,
+      "subtotal": 43.0
+    },
+    {
+      "product_id": "prod_926",
+      "name": "Sunrise Farms Organic Zip Lock Bags",
+      "category": "Household",
+      "quantity": 3,
+      "price": 7.49,
+      "subtotal": 22.47
+    },
+    {
+      "product_id": "GRO-1270",
+      "name": "Talenti Cauliflower Rice",
+      "category": "Frozen",
+      "quantity": 2,
+      "price": 9.69,
+      "subtotal": 19.38
+    },
+    {
+      "product_id": "prod_386",
+      "name": "Golden Harvest Organic Soy Sauce",
+      "category": "Pantry",
+      "quantity": 1,
+      "price": 5.41,
+      "subtotal": 5.41
+    },
+    {
+      "product_id": "prod_286",
+      "name": "Pure & Simple Tuna Steak",
+      "category": "Meat & Seafood",
+      "quantity": 2,
+      "price": 53.14,
+      "subtotal": 106.28
+    },
+    {
+      "product_id": "prod_552",
+      "name": "Organic Choice Frozen Mixed Berries",
+      "category": "Frozen",
+      "quantity": 2,
+      "price": 7.87,
+      "subtotal": 15.74
+    }
+  ],
+  "total": 332.96,
+  "currency": "USD"
+}

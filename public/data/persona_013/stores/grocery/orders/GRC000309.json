@@ -1,0 +1,174 @@
+{
+  "order_id": "GRC000309",
+  "persona_id": "persona_013",
+  "store_id": "grocery",
+  "status": "delivered",
+  "created_at": "2025-12-14T19:57:45",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "555 Community Center Rd, Houston, TX 77001",
+  "items": [
+    {
+      "product_id": "GRO-2145",
+      "name": "Nabisco Ridged Chips",
+      "category": "Snacks",
+      "quantity": 2,
+      "price": 3.99,
+      "subtotal": 7.98
+    },
+    {
+      "product_id": "GRO-2196",
+      "name": "Jack Link's Granola Bar Chocolate Chip",
+      "category": "Snacks",
+      "quantity": 4,
+      "price": 6.63,
+      "subtotal": 26.52
+    },
+    {
+      "product_id": "prod_699",
+      "name": "Local Pride Popcorn",
+      "category": "Snacks",
+      "quantity": 2,
+      "price": 4.59,
+      "subtotal": 9.18
+    },
+    {
+      "product_id": "GRO-2189",
+      "name": "Nabisco Cookies Chips Ahoy",
+      "category": "Snacks",
+      "quantity": 1,
+      "price": 5.78,
+      "subtotal": 5.78
+    },
+    {
+      "product_id": "GRO-2150",
+      "name": "Planters Nacho Cheese Chips",
+      "category": "Snacks",
+      "quantity": 2,
+      "price": 9.72,
+      "subtotal": 19.44
+    },
+    {
+      "product_id": "GRO-2186",
+      "name": "Tostitos Cheese Crackers",
+      "category": "Snacks",
+      "quantity": 1,
+      "price": 2.68,
+      "subtotal": 2.68
+    },
+    {
+      "product_id": "prod_758",
+      "name": "Meadow Gold Licorice",
+      "category": "Snacks",
+      "quantity": 4,
+      "price": 3.59,
+      "subtotal": 14.36
+    },
+    {
+      "product_id": "GRO-2176",
+      "name": "Jack Link's Beef Jerky Teriyaki",
+      "category": "Snacks",
+      "quantity": 1,
+      "price": 3.35,
+      "subtotal": 3.35
+    },
+    {
+      "product_id": "prod_720",
+      "name": "Premium Select Peanuts",
+      "category": "Snacks",
+      "quantity": 2,
+      "price": 6.45,
+      "subtotal": 12.9
+    },
+    {
+      "product_id": "prod_734",
+      "name": "Mountain Fresh Organic Beef Jerky",
+      "category": "Snacks",
+      "quantity": 2,
+      "price": 10.93,
+      "subtotal": 21.86
+    },
+    {
+      "product_id": "GRO-2172",
+      "name": "Lay's Trail Mix Tropical",
+      "category": "Snacks",
+      "quantity": 2,
+      "price": 6.39,
+      "subtotal": 12.78
+    },
+    {
+      "product_id": "GRO-1367",
+      "name": "Kettle Brand Whole Grain Crackers",
+      "category": "Snacks",
+      "quantity": 2,
+      "price": 9.86,
+      "subtotal": 19.72
+    },
+    {
+      "product_id": "GRO-2203",
+      "name": "Tostitos Candy Bar Snickers",
+      "category": "Snacks",
+      "quantity": 1,
+      "price": 6.93,
+      "subtotal": 6.93
+    },
+    {
+      "product_id": "GRO-1343",
+      "name": "Boom Chicka Pop Veggie Chips",
+      "category": "Snacks",
+      "quantity": 1,
+      "price": 6.57,
+      "subtotal": 6.57
+    },
+    {
+      "product_id": "GRO-1374",
+      "name": "Lesser Evil Nut Bar",
+      "category": "Snacks",
+      "quantity": 2,
+      "price": 9.31,
+      "subtotal": 18.62
+    },
+    {
+      "product_id": "GRO-2178",
+      "name": "Lay's Turkey Jerky",
+      "category": "Snacks",
+      "quantity": 4,
+      "price": 6.1,
+      "subtotal": 24.4
+    },
+    {
+      "product_id": "GRO-2146",
+      "name": "Tostitos Wavy Chips",
+      "category": "Snacks",
+      "quantity": 2,
+      "price": 3.33,
+      "subtotal": 6.66
+    },
+    {
+      "product_id": "GRO-2191",
+      "name": "Doritos Cookies Oatmeal",
+      "category": "Snacks",
+      "quantity": 1,
+      "price": 8.78,
+      "subtotal": 8.78
+    },
+    {
+      "product_id": "GRO-1560",
+      "name": "Huggies Fruit Snacks",
+      "category": "Baby",
+      "quantity": 1,
+      "price": 35.08,
+      "subtotal": 35.08
+    },
+    {
+      "product_id": "prod_733",
+      "name": "Heritage Foods Fruit Snacks",
+      "category": "Snacks",
+      "quantity": 4,
+      "price": 4.13,
+      "subtotal": 16.52
+    }
+  ],
+  "total": 280.11,
+  "currency": "USD"
+}

@@ -1,0 +1,22 @@
+{
+  "order_id": "TOY000046",
+  "persona_id": "persona_013",
+  "store_id": "toy_store",
+  "status": "cancelled",
+  "created_at": "2025-10-02T18:02:56",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "555 Community Center Rd, Houston, TX 77001",
+  "items": [
+    {
+      "product_id": "TOY-161",
+      "name": "Nerf Fortnite Blaster",
+      "category": "Outdoor Play",
+      "quantity": 1,
+      "price": 29.99,
+      "subtotal": 29.99
+    }
+  ],
+  "total": 29.99,
+  "currency": "USD"
+}

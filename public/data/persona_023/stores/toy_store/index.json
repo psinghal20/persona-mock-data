@@ -1,0 +1,555 @@
+{
+  "persona_id": "persona_023",
+  "store_id": "toy_store",
+  "store_name": "Toy Store",
+  "transaction_type": "orders",
+  "transaction_label": "orders",
+  "has_cost": true,
+  "summary": {
+    "total_count": 62,
+    "total_spent": 15168.54,
+    "first_date": "2025-10-04",
+    "last_date": "2026-01-25"
+  },
+  "items": [],
+  "categories": [
+    {
+      "id": "orders",
+      "name": "Orders",
+      "type": "orders",
+      "label": "orders",
+      "has_cost": true,
+      "summary": {
+        "total_count": 50,
+        "total_spent": 15168.54,
+        "first_date": "2025-10-07",
+        "last_date": "2026-01-24"
+      },
+      "items": [
+        {
+          "order_id": "TOY000139",
+          "status": "delivered",
+          "total": 14.99,
+          "item_count": 1,
+          "created_at": "2026-01-24T21:54:02",
+          "item_preview": "Smithsonian Crystal Growing"
+        },
+        {
+          "order_id": "TOY000148",
+          "status": "delivered",
+          "total": 219.97,
+          "item_count": 2,
+          "created_at": "2026-01-22T07:55:38",
+          "item_preview": "Grimms Rainbow Stacker, LEGO Super Mario Starter Course"
+        },
+        {
+          "order_id": "TOY000067",
+          "status": "shipped",
+          "total": 999.98,
+          "item_count": 1,
+          "created_at": "2026-01-18T06:19:07",
+          "item_preview": "VR Headset - Meta Quest 3"
+        },
+        {
+          "order_id": "TOY000050",
+          "status": "delivered",
+          "total": 99.99,
+          "item_count": 1,
+          "created_at": "2026-01-15T11:57:20",
+          "item_preview": "littleBits Base Kit"
+        },
+        {
+          "order_id": "TOY000154",
+          "status": "delivered",
+          "total": 799.98,
+          "item_count": 2,
+          "created_at": "2026-01-15T08:18:21",
+          "item_preview": "LEGO Star Wars Millennium Falcon, LEGO Architecture Eiffel Tower"
+        },
+        {
+          "order_id": "TOY000146",
+          "status": "delivered",
+          "total": 134.97,
+          "item_count": 3,
+          "created_at": "2026-01-07T02:27:01",
+          "item_preview": "Tamagotchi Pix, Sphero Mini Robot Ball, ..."
+        },
+        {
+          "order_id": "TOY000140",
+          "status": "delivered",
+          "total": 249.94,
+          "item_count": 4,
+          "created_at": "2026-01-06T09:39:14",
+          "item_preview": "Botley 2.0 Coding Robot, Butterfly Garden, ..."
+        },
+        {
+          "order_id": "TOY000062",
+          "status": "cancelled",
+          "total": 354.96,
+          "item_count": 3,
+          "created_at": "2026-01-05T13:10:10",
+          "item_preview": "LEGO Speed Champions Ferrari, Magna-Tiles 100pc Set, ..."
+        },
+        {
+          "order_id": "TOY000060",
+          "status": "pending",
+          "total": 90.0,
+          "item_count": 1,
+          "created_at": "2026-01-04T22:35:42",
+          "item_preview": "Lovevery Block Set"
+        },
+        {
+          "order_id": "TOY000063",
+          "status": "pending",
+          "total": 214.96,
+          "item_count": 3,
+          "created_at": "2026-01-04T11:07:39",
+          "item_preview": "Smithsonian Crystal Growing, Botley 2.0 Coding Robot, ..."
+        },
+        {
+          "order_id": "TOY000048",
+          "status": "delivered",
+          "total": 309.97,
+          "item_count": 2,
+          "created_at": "2026-01-03T04:32:42",
+          "item_preview": "Magna-Tiles 100pc Set, LEGO Minecraft The Village"
+        },
+        {
+          "order_id": "TOY000157",
+          "status": "delivered",
+          "total": 329.97,
+          "item_count": 2,
+          "created_at": "2025-12-30T07:21:04",
+          "item_preview": "Learning Resources Gears, Dash Robot"
+        },
+        {
+          "order_id": "TOY000141",
+          "status": "delivered",
+          "total": 309.97,
+          "item_count": 2,
+          "created_at": "2025-12-29T23:04:58",
+          "item_preview": "Minecraft Java & Bedrock Edition, Cozmo Robot"
+        },
+        {
+          "order_id": "TOY000135",
+          "status": "shipped",
+          "total": 459.95,
+          "item_count": 3,
+          "created_at": "2025-12-27T20:19:16",
+          "item_preview": "LEGO Speed Champions, LeapFrog LeapPad Academy, ..."
+        },
+        {
+          "order_id": "TOY000049",
+          "status": "pending",
+          "total": 2129.92,
+          "item_count": 4,
+          "created_at": "2025-12-22T21:41:36",
+          "item_preview": "Geomag Classic Set, Nintendo Switch Lite, ..."
+        },
+        {
+          "order_id": "TOY000071",
+          "status": "pending",
+          "total": 49.98,
+          "item_count": 1,
+          "created_at": "2025-12-21T12:27:10",
+          "item_preview": "Mega Bloks First Builders Big Bag"
+        },
+        {
+          "order_id": "TOY000158",
+          "status": "delivered",
+          "total": 429.98,
+          "item_count": 2,
+          "created_at": "2025-12-21T12:09:08",
+          "item_preview": "Anki Vector Robot, LEGO Friends Heartlake City"
+        },
+        {
+          "order_id": "TOY000055",
+          "status": "pending",
+          "total": 559.96,
+          "item_count": 2,
+          "created_at": "2025-12-15T13:04:19",
+          "item_preview": "Tegu Magnetic Wooden Blocks, LeapFrog LeapPad Academy"
+        },
+        {
+          "order_id": "TOY000156",
+          "status": "cancelled",
+          "total": 369.95,
+          "item_count": 3,
+          "created_at": "2025-12-15T08:17:29",
+          "item_preview": "LEGO Duplo Fire Station, Tamagotchi Pix, ..."
+        },
+        {
+          "order_id": "TOY000155",
+          "status": "delivered",
+          "total": 29.99,
+          "item_count": 1,
+          "created_at": "2025-12-10T19:21:23",
+          "item_preview": "Educational Insights GeoSafari Jr"
+        },
+        {
+          "order_id": "TOY000056",
+          "status": "delivered",
+          "total": 49.99,
+          "item_count": 1,
+          "created_at": "2025-12-08T18:04:26",
+          "item_preview": "My First Lab Microscope"
+        },
+        {
+          "order_id": "TOY000142",
+          "status": "delivered",
+          "total": 234.98,
+          "item_count": 2,
+          "created_at": "2025-12-03T06:50:56",
+          "item_preview": "LEGO Technic RC Car, Snap Circuits Jr"
+        },
+        {
+          "order_id": "TOY000069",
+          "status": "cancelled",
+          "total": 39.99,
+          "item_count": 1,
+          "created_at": "2025-11-28T06:39:47",
+          "item_preview": "Marble Genius Marble Run"
+        },
+        {
+          "order_id": "TOY000068",
+          "status": "shipped",
+          "total": 284.94,
+          "item_count": 4,
+          "created_at": "2025-11-28T01:51:30",
+          "item_preview": "Marble Genius Marble Run, Magformers Vehicle Set, ..."
+        },
+        {
+          "order_id": "TOY000151",
+          "status": "pending",
+          "total": 349.94,
+          "item_count": 4,
+          "created_at": "2025-11-27T06:24:03",
+          "item_preview": "LEGO Super Mario Starter Course, Smithsonian Crystal Growing, ..."
+        },
+        {
+          "order_id": "TOY000052",
+          "status": "shipped",
+          "total": 49.99,
+          "item_count": 1,
+          "created_at": "2025-11-27T06:18:16",
+          "item_preview": "Lincoln Logs Classic Set"
+        },
+        {
+          "order_id": "TOY000150",
+          "status": "delivered",
+          "total": 99.98,
+          "item_count": 1,
+          "created_at": "2025-11-26T10:59:08",
+          "item_preview": "LEGO Duplo Fire Station"
+        },
+        {
+          "order_id": "TOY000152",
+          "status": "delivered",
+          "total": 49.98,
+          "item_count": 1,
+          "created_at": "2025-11-26T07:51:39",
+          "item_preview": "LeapFrog Scribble and Write"
+        },
+        {
+          "order_id": "TOY000064",
+          "status": "pending",
+          "total": 99.98,
+          "item_count": 1,
+          "created_at": "2025-11-26T00:30:41",
+          "item_preview": "Lincoln Logs Classic Set"
+        },
+        {
+          "order_id": "TOY000057",
+          "status": "delivered",
+          "total": 39.99,
+          "item_count": 1,
+          "created_at": "2025-11-23T23:12:17",
+          "item_preview": "Tinkertoy Super Building Set"
+        },
+        {
+          "order_id": "TOY000070",
+          "status": "delivered",
+          "total": 1039.95,
+          "item_count": 4,
+          "created_at": "2025-11-23T08:58:42",
+          "item_preview": "LEGO Architecture Eiffel Tower, LEGO Minecraft The Village, ..."
+        },
+        {
+          "order_id": "TOY000065",
+          "status": "shipped",
+          "total": 409.94,
+          "item_count": 4,
+          "created_at": "2025-11-16T14:47:37",
+          "item_preview": "Sea Monkeys Ocean Zoo, Lincoln Logs Classic Set, ..."
+        },
+        {
+          "order_id": "TOY000137",
+          "status": "delivered",
+          "total": 154.95,
+          "item_count": 3,
+          "created_at": "2025-11-13T14:03:32",
+          "item_preview": "Fingerlings Monkey, VTech Kidi Star Karaoke, ..."
+        },
+        {
+          "order_id": "TOY000066",
+          "status": "delivered",
+          "total": 149.96,
+          "item_count": 2,
+          "created_at": "2025-11-12T12:23:58",
+          "item_preview": "VTech Switch and Go Dino, Original Blocks Kapla 200"
+        },
+        {
+          "order_id": "TOY000138",
+          "status": "delivered",
+          "total": 449.96,
+          "item_count": 4,
+          "created_at": "2025-11-11T18:28:08",
+          "item_preview": "Educational Insights GeoSafari Jr, GeoSafari Jr Talking Microscope, ..."
+        },
+        {
+          "order_id": "TOY000153",
+          "status": "delivered",
+          "total": 59.99,
+          "item_count": 1,
+          "created_at": "2025-11-08T18:42:13",
+          "item_preview": "Celestron Telescope for Kids"
+        },
+        {
+          "order_id": "TOY000143",
+          "status": "delivered",
+          "total": 79.98,
+          "item_count": 1,
+          "created_at": "2025-11-01T09:07:46",
+          "item_preview": "GeoSafari Jr Talking Microscope"
+        },
+        {
+          "order_id": "TOY000159",
+          "status": "delivered",
+          "total": 9.99,
+          "item_count": 1,
+          "created_at": "2025-10-30T17:39:13",
+          "item_preview": "Learning Resources Beaker Creatures"
+        },
+        {
+          "order_id": "TOY000053",
+          "status": "delivered",
+          "total": 199.97,
+          "item_count": 2,
+          "created_at": "2025-10-27T06:06:59",
+          "item_preview": "Sphero Mini Robot Ball, Magformers Smart Set"
+        },
+        {
+          "order_id": "TOY000058",
+          "status": "delivered",
+          "total": 749.99,
+          "item_count": 2,
+          "created_at": "2025-10-24T21:39:15",
+          "item_preview": "LEGO Architecture Eiffel Tower, Wingspan"
+        },
+        {
+          "order_id": "TOY000054",
+          "status": "delivered",
+          "total": 79.97,
+          "item_count": 2,
+          "created_at": "2025-10-22T09:32:34",
+          "item_preview": "Sea Monkeys Ocean Zoo, LEGO Botanical Orchid"
+        },
+        {
+          "order_id": "TOY000047",
+          "status": "delivered",
+          "total": 499.98,
+          "item_count": 1,
+          "created_at": "2025-10-21T17:02:20",
+          "item_preview": "LEGO Ideas Tree House"
+        },
+        {
+          "order_id": "TOY000145",
+          "status": "delivered",
+          "total": 454.93,
+          "item_count": 4,
+          "created_at": "2025-10-20T03:34:51",
+          "item_preview": "LEGO Ideas Ship in a Bottle, National Geographic Rock Tumbler, ..."
+        },
+        {
+          "order_id": "TOY000136",
+          "status": "delivered",
+          "total": 99.99,
+          "item_count": 1,
+          "created_at": "2025-10-19T03:11:58",
+          "item_preview": "LEGO City Police Station"
+        },
+        {
+          "order_id": "TOY000144",
+          "status": "delivered",
+          "total": 179.98,
+          "item_count": 2,
+          "created_at": "2025-10-16T23:32:59",
+          "item_preview": "Kano Computer Kit, BiOBUDDi Eco Building Blocks"
+        },
+        {
+          "order_id": "TOY000149",
+          "status": "cancelled",
+          "total": 69.98,
+          "item_count": 1,
+          "created_at": "2025-10-16T22:45:52",
+          "item_preview": "Snap Circuits Jr"
+        },
+        {
+          "order_id": "TOY000147",
+          "status": "delivered",
+          "total": 129.99,
+          "item_count": 1,
+          "created_at": "2025-10-15T00:01:02",
+          "item_preview": "Tegu Magnetic Wooden Blocks"
+        },
+        {
+          "order_id": "TOY000061",
+          "status": "delivered",
+          "total": 99.98,
+          "item_count": 1,
+          "created_at": "2025-10-11T02:41:38",
+          "item_preview": "VTech Kidi Star Karaoke"
+        },
+        {
+          "order_id": "TOY000059",
+          "status": "delivered",
+          "total": 99.98,
+          "item_count": 1,
+          "created_at": "2025-10-08T09:56:31",
+          "item_preview": "Meccano Roadster"
+        },
+        {
+          "order_id": "TOY000051",
+          "status": "delivered",
+          "total": 689.94,
+          "item_count": 4,
+          "created_at": "2025-10-07T12:45:56",
+          "item_preview": "Magformers Vehicle Set, littleBits Base Kit, ..."
+        }
+      ]
+    },
+    {
+      "id": "wishlists",
+      "name": "Wishlists",
+      "type": "wishlists",
+      "label": "wishlist items",
+      "has_cost": false,
+      "summary": {
+        "total_count": 12,
+        "total_spent": 0,
+        "first_date": "2025-10-04",
+        "last_date": "2026-01-25"
+      },
+      "items": [
+        {
+          "order_id": "WISH-76",
+          "display_name": "Hot Wheels Ultimate Garage",
+          "description": "For self \u2022 Christmas",
+          "status": "high",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2026-01-25T09:28:34"
+        },
+        {
+          "order_id": "WISH-77",
+          "display_name": "Intex Inflatable Play Center",
+          "description": "For self \u2022 Birthday",
+          "status": "low",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-12-25T11:43:57"
+        },
+        {
+          "order_id": "WISH-42",
+          "display_name": "Poolmaster Floating Hoops",
+          "description": "For self \u2022 Just Because",
+          "status": "high",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-12-21T08:53:08"
+        },
+        {
+          "order_id": "WISH-74",
+          "display_name": "Safari Ltd Wild Animals TOOB",
+          "description": "For self \u2022 Birthday",
+          "status": "high",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-12-14T04:53:27"
+        },
+        {
+          "order_id": "WISH-72",
+          "display_name": "Yu-Gi-Oh Starter Deck",
+          "description": "For self \u2022 Just Because",
+          "status": "high",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-12-07T21:51:08"
+        },
+        {
+          "order_id": "WISH-39",
+          "display_name": "Mega Bloks First Builders Big Bag",
+          "description": "For self \u2022 Just Because",
+          "status": "low",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-12-06T21:55:29"
+        },
+        {
+          "order_id": "WISH-71",
+          "display_name": "LEGO Technic RC Car",
+          "description": "For self \u2022 Christmas",
+          "status": "high",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-12-02T04:46:31"
+        },
+        {
+          "order_id": "WISH-78",
+          "display_name": "Encanto Mirabel Doll",
+          "description": "For self \u2022 Birthday",
+          "status": "medium",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-11-24T16:19:10"
+        },
+        {
+          "order_id": "WISH-41",
+          "display_name": "Tonka Steel Classics Dump Truck",
+          "description": "For self \u2022 Christmas",
+          "status": "high",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-11-18T16:01:43"
+        },
+        {
+          "order_id": "WISH-75",
+          "display_name": "Pokemon Trading Card Elite Box",
+          "description": "For self \u2022 Christmas",
+          "status": "medium",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-11-12T23:05:21"
+        },
+        {
+          "order_id": "WISH-73",
+          "display_name": "7 Wonders Board Game",
+          "description": "For self \u2022 Christmas",
+          "status": "medium",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-10-14T20:53:36"
+        },
+        {
+          "order_id": "WISH-40",
+          "display_name": "VTech Kidi Star Karaoke",
+          "description": "For self \u2022 Good Grades",
+          "status": "high",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-10-04T12:17:26"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "order_id": "ORDER-YL6JJ2O6",
+  "persona_id": "persona_027",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-12-14T10:32:08",
+  "shipped_at": "2025-12-17T10:32:08",
+  "delivered_at": "2025-12-19T10:32:08",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "items": [
+    {
+      "product_id": "B0TOYS0028",
+      "name": "Hasbro Trivial Pursuit Family Edition",
+      "category": "Toys & Games",
+      "quantity": 1,
+      "price": 26.59,
+      "subtotal": 26.59
+    },
+    {
+      "product_id": "B0AMZN1822",
+      "name": "DJI Osmo Action 4",
+      "category": "Electronics",
+      "quantity": 3,
+      "price": 399.0,
+      "subtotal": 1197.0
+    }
+  ],
+  "total": 1223.59,
+  "currency": "USD"
+}

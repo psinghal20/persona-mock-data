@@ -1,0 +1,38 @@
+{
+  "order_id": "ORDER-CPJ6H862",
+  "persona_id": "persona_014",
+  "store_id": "amazon",
+  "status": "shipped",
+  "created_at": "2025-11-12T19:03:10",
+  "shipped_at": "2025-11-14T19:03:10",
+  "delivered_at": "",
+  "shipping_address": "888 Design District Ln, San Francisco, CA 94102",
+  "items": [
+    {
+      "product_id": "B0AMZN1319",
+      "name": "Blink Outdoor 4 Camera System",
+      "category": "Electronics",
+      "quantity": 3,
+      "price": 259.99,
+      "subtotal": 779.97
+    },
+    {
+      "product_id": "B0AMZN1851",
+      "name": "Breakthrough Photography X4 ND",
+      "category": "Electronics",
+      "quantity": 3,
+      "price": 179.99,
+      "subtotal": 539.97
+    },
+    {
+      "product_id": "B0C6GK091L",
+      "name": "Janome 2212 Sewing Machine",
+      "category": "Arts Crafts",
+      "quantity": 2,
+      "price": 179.0,
+      "subtotal": 358.0
+    }
+  ],
+  "total": 1677.94,
+  "currency": "USD"
+}

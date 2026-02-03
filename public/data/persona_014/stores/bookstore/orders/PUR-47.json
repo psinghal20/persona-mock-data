@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-47",
+  "persona_id": "persona_014",
+  "store_id": "bookstore",
+  "status": "completed",
+  "created_at": "2025-10-06T12:13:50",
+  "items": [
+    {
+      "product_id": "513",
+      "name": "Malibu Rising",
+      "category": "Fiction",
+      "quantity": 1,
+      "price": 18.0,
+      "subtotal": 18.0
+    }
+  ],
+  "total": 18.0,
+  "currency": "USD"
+}

@@ -1,0 +1,30 @@
+{
+  "order_id": "ORDER-WRGTXUYH",
+  "persona_id": "persona_002",
+  "store_id": "amazon",
+  "status": "pending",
+  "created_at": "2026-01-23T08:24:30",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "456 Tech Park Drive, San Jose, CA 95110",
+  "items": [
+    {
+      "product_id": "B0ELEC0133",
+      "name": "Samsung Samsung 45W USB-C Charger",
+      "category": "Electronics",
+      "quantity": 3,
+      "price": 57.22,
+      "subtotal": 171.66
+    },
+    {
+      "product_id": "B09G9FPHY6",
+      "name": "Logitech MX Master 3S Wireless Mouse",
+      "category": "Electronics",
+      "quantity": 3,
+      "price": 99.99,
+      "subtotal": 299.97
+    }
+  ],
+  "total": 471.63,
+  "currency": "USD"
+}

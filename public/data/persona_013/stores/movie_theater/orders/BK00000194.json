@@ -1,0 +1,23 @@
+{
+  "order_id": "BK00000194",
+  "persona_id": "persona_013",
+  "store_id": "movie_theater",
+  "type": "booking",
+  "status": "confirmed",
+  "created_at": "2025-12-25T17:09:52",
+  "confirmation_code": "AMC-BGP9HL",
+  "items": [
+    {
+      "product_id": "MOV049",
+      "name": "Argylle",
+      "showtime": "",
+      "theater": "",
+      "seats": "R6",
+      "quantity": 1,
+      "price": 19.99,
+      "subtotal": 19.99
+    }
+  ],
+  "total": 19.99,
+  "currency": "USD"
+}

@@ -1,0 +1,110 @@
+{
+  "order_id": "GRC000262",
+  "persona_id": "persona_010",
+  "store_id": "grocery",
+  "status": "delivered",
+  "created_at": "2025-12-24T07:27:37",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "321 French Quarter Ave, New Orleans, LA 70116",
+  "items": [
+    {
+      "product_id": "GRO-1631",
+      "name": "Organic Valley Bacon Avocado",
+      "category": "Produce",
+      "quantity": 1,
+      "price": 5.36,
+      "subtotal": 5.36
+    },
+    {
+      "product_id": "prod_803",
+      "name": "Pure & Simple Organic Salt",
+      "category": "Condiments & Spices",
+      "quantity": 2,
+      "price": 2.02,
+      "subtotal": 4.04
+    },
+    {
+      "product_id": "prod_798",
+      "name": "Heritage Foods Organic Pop Tarts",
+      "category": "Breakfast",
+      "quantity": 2,
+      "price": 5.36,
+      "subtotal": 10.72
+    },
+    {
+      "product_id": "prod_232",
+      "name": "Local Pride Organic NY Strip Steak",
+      "category": "Meat & Seafood",
+      "quantity": 3,
+      "price": 20.11,
+      "subtotal": 60.33
+    },
+    {
+      "product_id": "prod_547",
+      "name": "Fresh Farms Frozen Blueberries",
+      "category": "Frozen",
+      "quantity": 2,
+      "price": 5.64,
+      "subtotal": 11.28
+    },
+    {
+      "product_id": "GRO-1801",
+      "name": "Organic Valley Yogurt Drinks",
+      "category": "Dairy",
+      "quantity": 4,
+      "price": 5.82,
+      "subtotal": 23.28
+    },
+    {
+      "product_id": "prod_302",
+      "name": "Nature's Best Organic Clams",
+      "category": "Meat & Seafood",
+      "quantity": 3,
+      "price": 16.39,
+      "subtotal": 49.17
+    },
+    {
+      "product_id": "prod_089",
+      "name": "Fresh Farms Papaya",
+      "category": "Produce",
+      "quantity": 2,
+      "price": 4.03,
+      "subtotal": 8.06
+    },
+    {
+      "product_id": "GRO-1665",
+      "name": "Organic Valley Lemon Cucumber",
+      "category": "Produce",
+      "quantity": 1,
+      "price": 1.73,
+      "subtotal": 1.73
+    },
+    {
+      "product_id": "prod_363",
+      "name": "Organic Choice Brown Sugar",
+      "category": "Pantry",
+      "quantity": 1,
+      "price": 5.16,
+      "subtotal": 5.16
+    },
+    {
+      "product_id": "prod_257",
+      "name": "Green Valley Ground Pork",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 4.72,
+      "subtotal": 4.72
+    },
+    {
+      "product_id": "prod_390",
+      "name": "Organic Choice Hot Sauce",
+      "category": "Pantry",
+      "quantity": 2,
+      "price": 4.67,
+      "subtotal": 9.34
+    }
+  ],
+  "total": 193.19,
+  "currency": "USD"
+}

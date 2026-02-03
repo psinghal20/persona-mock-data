@@ -1,0 +1,23 @@
+{
+  "order_id": "BK00000638",
+  "persona_id": "persona_016",
+  "store_id": "movie_theater",
+  "type": "booking",
+  "status": "cancelled",
+  "created_at": "2025-10-02T13:47:03",
+  "confirmation_code": "AMC-WM9SWN",
+  "items": [
+    {
+      "product_id": "MOV035",
+      "name": "John Wick: Chapter 4",
+      "showtime": "",
+      "theater": "",
+      "seats": "I1,I2,I3",
+      "quantity": 3,
+      "price": 19.99,
+      "subtotal": 59.97
+    }
+  ],
+  "total": 59.97,
+  "currency": "USD"
+}

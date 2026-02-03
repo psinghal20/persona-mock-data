@@ -1,0 +1,26 @@
+{
+  "order_id": "SAVED-8",
+  "persona_id": "persona_009",
+  "store_id": "zillow",
+  "type": "saved_property",
+  "status": "saved",
+  "created_at": "2026-01-16T06:21:43",
+  "notes": "Good schools nearby",
+  "items": [
+    {
+      "product_id": "69",
+      "name": "234 Lake Oswego Waterfront",
+      "address": "234 Lake Oswego Waterfront",
+      "city": "",
+      "price": 1950000.0,
+      "bedrooms": "",
+      "bathrooms": "",
+      "sqft": "",
+      "home_type": "",
+      "quantity": 1,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

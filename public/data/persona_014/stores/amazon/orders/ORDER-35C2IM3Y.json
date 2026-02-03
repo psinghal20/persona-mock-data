@@ -1,0 +1,30 @@
+{
+  "order_id": "ORDER-35C2IM3Y",
+  "persona_id": "persona_014",
+  "store_id": "amazon",
+  "status": "shipped",
+  "created_at": "2025-11-15T02:54:12",
+  "shipped_at": "2025-11-18T02:54:12",
+  "delivered_at": "",
+  "shipping_address": "888 Design District Ln, San Francisco, CA 94102",
+  "items": [
+    {
+      "product_id": "B0BCGJ180K",
+      "name": "Rachio 3 Smart Sprinkler Controller 8-Zone",
+      "category": "Patio Lawn Garden",
+      "quantity": 1,
+      "price": 229.99,
+      "subtotal": 229.99
+    },
+    {
+      "product_id": "B0ELEC0198",
+      "name": "Sony Sony ZV-E10 II",
+      "category": "Electronics",
+      "quantity": 3,
+      "price": 899.06,
+      "subtotal": 2697.18
+    }
+  ],
+  "total": 2927.17,
+  "currency": "USD"
+}

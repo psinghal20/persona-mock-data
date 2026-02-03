@@ -1,0 +1,22 @@
+{
+  "order_id": "ORDER-72ZRRURE",
+  "persona_id": "persona_027",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-12-14T20:06:10",
+  "shipped_at": "2025-12-15T20:06:10",
+  "delivered_at": "2025-12-18T20:06:10",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "items": [
+    {
+      "product_id": "B011540956",
+      "name": "Weber Genesis E-335 Gas Grill",
+      "category": "Home & Kitchen",
+      "quantity": 3,
+      "price": 1172.05,
+      "subtotal": 3516.15
+    }
+  ],
+  "total": 3516.15,
+  "currency": "USD"
+}

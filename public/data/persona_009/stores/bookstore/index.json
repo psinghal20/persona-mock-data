@@ -1,0 +1,529 @@
+{
+  "persona_id": "persona_009",
+  "store_id": "bookstore",
+  "store_name": "Bookstore",
+  "transaction_type": "purchases",
+  "transaction_label": "purchases",
+  "has_cost": true,
+  "summary": {
+    "total_count": 31,
+    "total_spent": 965.52,
+    "first_date": "2025-10-01",
+    "last_date": "2026-01-24"
+  },
+  "items": [
+    {
+      "order_id": "PUR-160",
+      "status": "completed",
+      "total": 17.0,
+      "item_count": 1,
+      "created_at": "2026-01-24T06:17:51",
+      "item_preview": "The Firm"
+    },
+    {
+      "order_id": "PUR-34",
+      "status": "completed",
+      "total": 37.98,
+      "item_count": 2,
+      "created_at": "2026-01-22T06:21:53",
+      "item_preview": "The Warmth of Other Suns"
+    },
+    {
+      "order_id": "PUR-157",
+      "status": "completed",
+      "total": 18.0,
+      "item_count": 1,
+      "created_at": "2026-01-22T00:44:09",
+      "item_preview": "The Boys in the Boat"
+    },
+    {
+      "order_id": "PUR-29",
+      "status": "completed",
+      "total": 18.0,
+      "item_count": 1,
+      "created_at": "2026-01-14T20:33:02",
+      "item_preview": "A Short History of Nearly Everything"
+    },
+    {
+      "order_id": "PUR-30",
+      "status": "completed",
+      "total": 39.98,
+      "item_count": 2,
+      "created_at": "2026-01-10T11:01:55",
+      "item_preview": "Steve Jobs"
+    },
+    {
+      "order_id": "PUR-36",
+      "status": "completed",
+      "total": 39.98,
+      "item_count": 2,
+      "created_at": "2026-01-08T07:59:25",
+      "item_preview": "A Peoples History of the United States"
+    },
+    {
+      "order_id": "PUR-155",
+      "status": "completed",
+      "total": 35.98,
+      "item_count": 2,
+      "created_at": "2026-01-06T18:01:53",
+      "item_preview": "Along Came a Spider"
+    },
+    {
+      "order_id": "PUR-164",
+      "status": "completed",
+      "total": 33.9,
+      "item_count": 2,
+      "created_at": "2026-01-01T13:23:23",
+      "item_preview": "The Perfect Storm"
+    },
+    {
+      "order_id": "PUR-39",
+      "status": "completed",
+      "total": 36.0,
+      "item_count": 2,
+      "created_at": "2025-12-29T07:30:21",
+      "item_preview": "A Short History of Nearly Everything"
+    },
+    {
+      "order_id": "PUR-158",
+      "status": "completed",
+      "total": 36.0,
+      "item_count": 2,
+      "created_at": "2025-12-22T10:15:06",
+      "item_preview": "Unbroken"
+    },
+    {
+      "order_id": "PUR-153",
+      "status": "completed",
+      "total": 36.0,
+      "item_count": 2,
+      "created_at": "2025-12-17T08:17:09",
+      "item_preview": "Caste"
+    },
+    {
+      "order_id": "PUR-31",
+      "status": "completed",
+      "total": 37.98,
+      "item_count": 2,
+      "created_at": "2025-12-14T12:07:43",
+      "item_preview": "Elon Musk"
+    },
+    {
+      "order_id": "PUR-148",
+      "status": "completed",
+      "total": 34.0,
+      "item_count": 2,
+      "created_at": "2025-12-14T09:44:35",
+      "item_preview": "The Autobiography of Malcolm X"
+    },
+    {
+      "order_id": "PUR-162",
+      "status": "completed",
+      "total": 33.98,
+      "item_count": 2,
+      "created_at": "2025-12-07T13:06:22",
+      "item_preview": "Gone Girl"
+    },
+    {
+      "order_id": "PUR-152",
+      "status": "completed",
+      "total": 17.0,
+      "item_count": 1,
+      "created_at": "2025-12-03T06:31:23",
+      "item_preview": "The Firm"
+    },
+    {
+      "order_id": "PUR-159",
+      "status": "completed",
+      "total": 34.0,
+      "item_count": 2,
+      "created_at": "2025-11-25T01:35:36",
+      "item_preview": "Inferno"
+    },
+    {
+      "order_id": "PUR-37",
+      "status": "completed",
+      "total": 37.98,
+      "item_count": 2,
+      "created_at": "2025-11-22T07:41:43",
+      "item_preview": "The Warmth of Other Suns"
+    },
+    {
+      "order_id": "PUR-38",
+      "status": "completed",
+      "total": 18.0,
+      "item_count": 1,
+      "created_at": "2025-11-19T13:09:21",
+      "item_preview": "A Short History of Nearly Everything"
+    },
+    {
+      "order_id": "PUR-154",
+      "status": "completed",
+      "total": 33.9,
+      "item_count": 2,
+      "created_at": "2025-11-13T03:12:52",
+      "item_preview": "The Perfect Storm"
+    },
+    {
+      "order_id": "PUR-151",
+      "status": "completed",
+      "total": 35.0,
+      "item_count": 1,
+      "created_at": "2025-11-11T02:40:51",
+      "item_preview": "The Code Breaker"
+    },
+    {
+      "order_id": "PUR-165",
+      "status": "completed",
+      "total": 33.98,
+      "item_count": 2,
+      "created_at": "2025-11-10T09:56:09",
+      "item_preview": "Gone Girl"
+    },
+    {
+      "order_id": "PUR-35",
+      "status": "completed",
+      "total": 49.98,
+      "item_count": 2,
+      "created_at": "2025-11-06T18:44:02",
+      "item_preview": "Sapiens: A Brief History of Humankind"
+    },
+    {
+      "order_id": "PUR-149",
+      "status": "completed",
+      "total": 16.95,
+      "item_count": 1,
+      "created_at": "2025-11-01T18:52:43",
+      "item_preview": "The Perfect Storm"
+    },
+    {
+      "order_id": "PUR-150",
+      "status": "completed",
+      "total": 18.0,
+      "item_count": 1,
+      "created_at": "2025-10-26T09:32:32",
+      "item_preview": "The Emperor of All Maladies"
+    },
+    {
+      "order_id": "PUR-163",
+      "status": "completed",
+      "total": 19.98,
+      "item_count": 2,
+      "created_at": "2025-10-24T10:08:47",
+      "item_preview": "The Hunt for Red October"
+    },
+    {
+      "order_id": "PUR-33",
+      "status": "completed",
+      "total": 44.0,
+      "item_count": 2,
+      "created_at": "2025-10-18T23:22:58",
+      "item_preview": "John Adams"
+    },
+    {
+      "order_id": "PUR-161",
+      "status": "completed",
+      "total": 44.0,
+      "item_count": 2,
+      "created_at": "2025-10-18T10:45:49",
+      "item_preview": "Team of Rivals"
+    },
+    {
+      "order_id": "PUR-166",
+      "status": "completed",
+      "total": 18.99,
+      "item_count": 1,
+      "created_at": "2025-10-15T17:54:40",
+      "item_preview": "The Secret History"
+    },
+    {
+      "order_id": "PUR-32",
+      "status": "completed",
+      "total": 25.0,
+      "item_count": 1,
+      "created_at": "2025-10-06T07:42:03",
+      "item_preview": "The Rise and Fall of the Third Reich"
+    },
+    {
+      "order_id": "PUR-156",
+      "status": "completed",
+      "total": 44.0,
+      "item_count": 2,
+      "created_at": "2025-10-02T02:33:22",
+      "item_preview": "John Adams"
+    },
+    {
+      "order_id": "PUR-167",
+      "status": "completed",
+      "total": 19.98,
+      "item_count": 2,
+      "created_at": "2025-10-01T23:12:56",
+      "item_preview": "The Hunt for Red October"
+    }
+  ],
+  "categories": [
+    {
+      "id": "purchases",
+      "name": "Purchases",
+      "type": "purchases",
+      "label": "purchases",
+      "has_cost": true,
+      "summary": {
+        "total_count": 31,
+        "total_spent": 965.52,
+        "first_date": "2025-10-01",
+        "last_date": "2026-01-24"
+      },
+      "items": [
+        {
+          "order_id": "PUR-160",
+          "status": "completed",
+          "total": 17.0,
+          "item_count": 1,
+          "created_at": "2026-01-24T06:17:51",
+          "item_preview": "The Firm"
+        },
+        {
+          "order_id": "PUR-34",
+          "status": "completed",
+          "total": 37.98,
+          "item_count": 2,
+          "created_at": "2026-01-22T06:21:53",
+          "item_preview": "The Warmth of Other Suns"
+        },
+        {
+          "order_id": "PUR-157",
+          "status": "completed",
+          "total": 18.0,
+          "item_count": 1,
+          "created_at": "2026-01-22T00:44:09",
+          "item_preview": "The Boys in the Boat"
+        },
+        {
+          "order_id": "PUR-29",
+          "status": "completed",
+          "total": 18.0,
+          "item_count": 1,
+          "created_at": "2026-01-14T20:33:02",
+          "item_preview": "A Short History of Nearly Everything"
+        },
+        {
+          "order_id": "PUR-30",
+          "status": "completed",
+          "total": 39.98,
+          "item_count": 2,
+          "created_at": "2026-01-10T11:01:55",
+          "item_preview": "Steve Jobs"
+        },
+        {
+          "order_id": "PUR-36",
+          "status": "completed",
+          "total": 39.98,
+          "item_count": 2,
+          "created_at": "2026-01-08T07:59:25",
+          "item_preview": "A Peoples History of the United States"
+        },
+        {
+          "order_id": "PUR-155",
+          "status": "completed",
+          "total": 35.98,
+          "item_count": 2,
+          "created_at": "2026-01-06T18:01:53",
+          "item_preview": "Along Came a Spider"
+        },
+        {
+          "order_id": "PUR-164",
+          "status": "completed",
+          "total": 33.9,
+          "item_count": 2,
+          "created_at": "2026-01-01T13:23:23",
+          "item_preview": "The Perfect Storm"
+        },
+        {
+          "order_id": "PUR-39",
+          "status": "completed",
+          "total": 36.0,
+          "item_count": 2,
+          "created_at": "2025-12-29T07:30:21",
+          "item_preview": "A Short History of Nearly Everything"
+        },
+        {
+          "order_id": "PUR-158",
+          "status": "completed",
+          "total": 36.0,
+          "item_count": 2,
+          "created_at": "2025-12-22T10:15:06",
+          "item_preview": "Unbroken"
+        },
+        {
+          "order_id": "PUR-153",
+          "status": "completed",
+          "total": 36.0,
+          "item_count": 2,
+          "created_at": "2025-12-17T08:17:09",
+          "item_preview": "Caste"
+        },
+        {
+          "order_id": "PUR-31",
+          "status": "completed",
+          "total": 37.98,
+          "item_count": 2,
+          "created_at": "2025-12-14T12:07:43",
+          "item_preview": "Elon Musk"
+        },
+        {
+          "order_id": "PUR-148",
+          "status": "completed",
+          "total": 34.0,
+          "item_count": 2,
+          "created_at": "2025-12-14T09:44:35",
+          "item_preview": "The Autobiography of Malcolm X"
+        },
+        {
+          "order_id": "PUR-162",
+          "status": "completed",
+          "total": 33.98,
+          "item_count": 2,
+          "created_at": "2025-12-07T13:06:22",
+          "item_preview": "Gone Girl"
+        },
+        {
+          "order_id": "PUR-152",
+          "status": "completed",
+          "total": 17.0,
+          "item_count": 1,
+          "created_at": "2025-12-03T06:31:23",
+          "item_preview": "The Firm"
+        },
+        {
+          "order_id": "PUR-159",
+          "status": "completed",
+          "total": 34.0,
+          "item_count": 2,
+          "created_at": "2025-11-25T01:35:36",
+          "item_preview": "Inferno"
+        },
+        {
+          "order_id": "PUR-37",
+          "status": "completed",
+          "total": 37.98,
+          "item_count": 2,
+          "created_at": "2025-11-22T07:41:43",
+          "item_preview": "The Warmth of Other Suns"
+        },
+        {
+          "order_id": "PUR-38",
+          "status": "completed",
+          "total": 18.0,
+          "item_count": 1,
+          "created_at": "2025-11-19T13:09:21",
+          "item_preview": "A Short History of Nearly Everything"
+        },
+        {
+          "order_id": "PUR-154",
+          "status": "completed",
+          "total": 33.9,
+          "item_count": 2,
+          "created_at": "2025-11-13T03:12:52",
+          "item_preview": "The Perfect Storm"
+        },
+        {
+          "order_id": "PUR-151",
+          "status": "completed",
+          "total": 35.0,
+          "item_count": 1,
+          "created_at": "2025-11-11T02:40:51",
+          "item_preview": "The Code Breaker"
+        },
+        {
+          "order_id": "PUR-165",
+          "status": "completed",
+          "total": 33.98,
+          "item_count": 2,
+          "created_at": "2025-11-10T09:56:09",
+          "item_preview": "Gone Girl"
+        },
+        {
+          "order_id": "PUR-35",
+          "status": "completed",
+          "total": 49.98,
+          "item_count": 2,
+          "created_at": "2025-11-06T18:44:02",
+          "item_preview": "Sapiens: A Brief History of Humankind"
+        },
+        {
+          "order_id": "PUR-149",
+          "status": "completed",
+          "total": 16.95,
+          "item_count": 1,
+          "created_at": "2025-11-01T18:52:43",
+          "item_preview": "The Perfect Storm"
+        },
+        {
+          "order_id": "PUR-150",
+          "status": "completed",
+          "total": 18.0,
+          "item_count": 1,
+          "created_at": "2025-10-26T09:32:32",
+          "item_preview": "The Emperor of All Maladies"
+        },
+        {
+          "order_id": "PUR-163",
+          "status": "completed",
+          "total": 19.98,
+          "item_count": 2,
+          "created_at": "2025-10-24T10:08:47",
+          "item_preview": "The Hunt for Red October"
+        },
+        {
+          "order_id": "PUR-33",
+          "status": "completed",
+          "total": 44.0,
+          "item_count": 2,
+          "created_at": "2025-10-18T23:22:58",
+          "item_preview": "John Adams"
+        },
+        {
+          "order_id": "PUR-161",
+          "status": "completed",
+          "total": 44.0,
+          "item_count": 2,
+          "created_at": "2025-10-18T10:45:49",
+          "item_preview": "Team of Rivals"
+        },
+        {
+          "order_id": "PUR-166",
+          "status": "completed",
+          "total": 18.99,
+          "item_count": 1,
+          "created_at": "2025-10-15T17:54:40",
+          "item_preview": "The Secret History"
+        },
+        {
+          "order_id": "PUR-32",
+          "status": "completed",
+          "total": 25.0,
+          "item_count": 1,
+          "created_at": "2025-10-06T07:42:03",
+          "item_preview": "The Rise and Fall of the Third Reich"
+        },
+        {
+          "order_id": "PUR-156",
+          "status": "completed",
+          "total": 44.0,
+          "item_count": 2,
+          "created_at": "2025-10-02T02:33:22",
+          "item_preview": "John Adams"
+        },
+        {
+          "order_id": "PUR-167",
+          "status": "completed",
+          "total": 19.98,
+          "item_count": 2,
+          "created_at": "2025-10-01T23:12:56",
+          "item_preview": "The Hunt for Red October"
+        }
+      ]
+    }
+  ]
+}

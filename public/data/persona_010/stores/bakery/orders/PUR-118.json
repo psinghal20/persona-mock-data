@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-118",
+  "persona_id": "persona_010",
+  "store_id": "bakery",
+  "status": "completed",
+  "created_at": "2026-01-25T15:42:41",
+  "items": [
+    {
+      "product_id": "8",
+      "name": "Almond Croissant",
+      "category": "Pastries",
+      "quantity": 3,
+      "price": 4.99,
+      "subtotal": 14.97
+    }
+  ],
+  "total": 14.97,
+  "currency": "USD"
+}

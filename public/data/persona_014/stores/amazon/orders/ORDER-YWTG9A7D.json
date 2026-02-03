@@ -1,0 +1,30 @@
+{
+  "order_id": "ORDER-YWTG9A7D",
+  "persona_id": "persona_014",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-12-22T10:17:48",
+  "shipped_at": "2025-12-23T10:17:48",
+  "delivered_at": "2025-12-28T10:17:48",
+  "shipping_address": "888 Design District Ln, San Francisco, CA 94102",
+  "items": [
+    {
+      "product_id": "B07YTR96XD",
+      "name": "COSORI Air Fryer Pro LE 5-Qt",
+      "category": "Home & Kitchen",
+      "quantity": 2,
+      "price": 119.99,
+      "subtotal": 239.98
+    },
+    {
+      "product_id": "B0TOYS0219",
+      "name": "MGA Entertainment Rainbow High Fashion Doll",
+      "category": "Toys & Games",
+      "quantity": 1,
+      "price": 30.28,
+      "subtotal": 30.28
+    }
+  ],
+  "total": 270.26,
+  "currency": "USD"
+}

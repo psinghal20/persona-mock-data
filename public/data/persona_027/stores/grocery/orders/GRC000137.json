@@ -1,0 +1,78 @@
+{
+  "order_id": "GRC000137",
+  "persona_id": "persona_027",
+  "store_id": "grocery",
+  "status": "delivered",
+  "created_at": "2026-01-11T04:21:50",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "items": [
+    {
+      "product_id": "GRO-1857",
+      "name": "Sea Best Ham Slice",
+      "category": "Meat & Seafood",
+      "quantity": 2,
+      "price": 20.13,
+      "subtotal": 40.26
+    },
+    {
+      "product_id": "prod_248",
+      "name": "Country Best Turkey Breast",
+      "category": "Meat & Seafood",
+      "quantity": 2,
+      "price": 9.4,
+      "subtotal": 18.8
+    },
+    {
+      "product_id": "GRO-1086",
+      "name": "Omaha Steaks Tri-Tip Roast",
+      "category": "Meat & Seafood",
+      "quantity": 2,
+      "price": 80.72,
+      "subtotal": 161.44
+    },
+    {
+      "product_id": "GRO-1849",
+      "name": "Smithfield Ground Pork",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 10.12,
+      "subtotal": 10.12
+    },
+    {
+      "product_id": "GRO-1090",
+      "name": "D'Artagnan Flat Iron Steak",
+      "category": "Meat & Seafood",
+      "quantity": 4,
+      "price": 56.17,
+      "subtotal": 224.68
+    },
+    {
+      "product_id": "GRO-2141",
+      "name": "Nabisco Potato Chips Sour Cream",
+      "category": "Snacks",
+      "quantity": 2,
+      "price": 4.23,
+      "subtotal": 8.46
+    },
+    {
+      "product_id": "GRO-1814",
+      "name": "Niman Ranch Ground Beef 90/10",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 13.99,
+      "subtotal": 13.99
+    },
+    {
+      "product_id": "GRO-1126",
+      "name": "Bell & Evans Oysters",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 73.64,
+      "subtotal": 73.64
+    }
+  ],
+  "total": 551.39,
+  "currency": "USD"
+}

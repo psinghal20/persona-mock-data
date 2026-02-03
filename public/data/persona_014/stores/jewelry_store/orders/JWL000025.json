@@ -1,0 +1,30 @@
+{
+  "order_id": "JWL000025",
+  "persona_id": "persona_014",
+  "store_id": "jewelry_store",
+  "status": "delivered",
+  "created_at": "2025-11-14T19:03:54",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "888 Design District Ln, San Francisco, CA 94102",
+  "items": [
+    {
+      "product_id": "JWL-015",
+      "name": "Layered Chain Necklace Set",
+      "category": "Necklaces",
+      "quantity": 1,
+      "price": 449.99,
+      "subtotal": 449.99
+    },
+    {
+      "product_id": "JWL-034",
+      "name": "Rose Gold Chain Bracelet",
+      "category": "Bracelets",
+      "quantity": 1,
+      "price": 449.99,
+      "subtotal": 449.99
+    }
+  ],
+  "total": 899.98,
+  "currency": "USD"
+}

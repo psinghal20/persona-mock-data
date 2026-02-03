@@ -1,0 +1,30 @@
+{
+  "order_id": "ORDER-MK00HHF4",
+  "persona_id": "persona_027",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-12-03T00:42:20",
+  "shipped_at": "2025-12-04T00:42:20",
+  "delivered_at": "2025-12-09T00:42:20",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "items": [
+    {
+      "product_id": "B0C7GHO78L",
+      "name": "Good to Great by Jim Collins",
+      "category": "Books",
+      "quantity": 1,
+      "price": 18.99,
+      "subtotal": 18.99
+    },
+    {
+      "product_id": "B0BCGI001L",
+      "name": "TRX All-in-One Suspension Trainer",
+      "category": "Sports & Outdoors",
+      "quantity": 1,
+      "price": 149.95,
+      "subtotal": 149.95
+    }
+  ],
+  "total": 168.94,
+  "currency": "USD"
+}

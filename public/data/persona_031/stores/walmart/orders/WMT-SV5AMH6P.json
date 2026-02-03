@@ -1,0 +1,30 @@
+{
+  "order_id": "WMT-SV5AMH6P",
+  "persona_id": "persona_031",
+  "store_id": "walmart",
+  "status": "delivered",
+  "created_at": "2025-12-17T10:32:57",
+  "shipped_at": "2025-12-20T10:32:57",
+  "delivered_at": "2025-12-25T10:32:57",
+  "shipping_address": "999 Suburban Lane, Phoenix, AZ 85001",
+  "items": [
+    {
+      "product_id": "WMT00003056",
+      "name": "iRobot Roomba j9+ Self-Emptying Robot",
+      "category": "Home Appliances",
+      "quantity": 2,
+      "price": 930.3,
+      "subtotal": 1860.6
+    },
+    {
+      "product_id": "WMT00001190",
+      "name": "LEGO LEGO Disney Princess Castle",
+      "category": "Toys",
+      "quantity": 2,
+      "price": 90.66,
+      "subtotal": 181.32
+    }
+  ],
+  "total": 2041.92,
+  "currency": "USD"
+}

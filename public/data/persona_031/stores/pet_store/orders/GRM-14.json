@@ -1,0 +1,25 @@
+{
+  "order_id": "GRM-14",
+  "persona_id": "persona_031",
+  "store_id": "pet_store",
+  "type": "grooming",
+  "status": "completed",
+  "appointment_date": "2025-12-27",
+  "appointment_time": "11:00",
+  "items": [
+    {
+      "product_id": "GRM035",
+      "name": "Hand Stripping",
+      "description": "Traditional hand stripping for wire-coated breeds",
+      "pet_name": "Max",
+      "pet_type": "Dogs",
+      "pet_breed": "Labrador Retriever",
+      "duration_minutes": "150",
+      "quantity": 1,
+      "price": 120.0,
+      "subtotal": 120.0
+    }
+  ],
+  "total": 120.0,
+  "currency": "USD"
+}

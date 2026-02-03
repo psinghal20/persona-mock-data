@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-20",
+  "persona_id": "persona_002",
+  "store_id": "bookstore",
+  "status": "completed",
+  "created_at": "2026-01-03T22:17:31",
+  "items": [
+    {
+      "product_id": "451",
+      "name": "A Time to Kill",
+      "category": "Thriller",
+      "quantity": 1,
+      "price": 18.0,
+      "subtotal": 18.0
+    }
+  ],
+  "total": 18.0,
+  "currency": "USD"
+}

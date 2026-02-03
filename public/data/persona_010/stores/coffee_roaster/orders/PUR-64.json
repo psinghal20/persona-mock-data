@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-64",
+  "persona_id": "persona_010",
+  "store_id": "coffee_roaster",
+  "status": "completed",
+  "created_at": "2025-10-08T15:32:34",
+  "items": [
+    {
+      "product_id": "20",
+      "name": "Honduras Marcala",
+      "category": "",
+      "quantity": 1,
+      "price": 70.0,
+      "subtotal": 70.0
+    }
+  ],
+  "total": 70.0,
+  "currency": "USD"
+}

@@ -1,0 +1,30 @@
+{
+  "order_id": "WMT-MG4LNBM5",
+  "persona_id": "persona_027",
+  "store_id": "walmart",
+  "status": "delivered",
+  "created_at": "2026-01-25T02:45:27",
+  "shipped_at": "2026-01-26T02:45:27",
+  "delivered_at": "2026-01-31T02:45:27",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "items": [
+    {
+      "product_id": "WMT00003059",
+      "name": "GE Profile Smart Slide-In Double Oven Gas Range",
+      "category": "Home Appliances",
+      "quantity": 2,
+      "price": 2541.72,
+      "subtotal": 5083.44
+    },
+    {
+      "product_id": "WMT00001895",
+      "name": "Titleist Scotty Cameron Special Select",
+      "category": "Sports",
+      "quantity": 1,
+      "price": 465.54,
+      "subtotal": 465.54
+    }
+  ],
+  "total": 5548.98,
+  "currency": "USD"
+}

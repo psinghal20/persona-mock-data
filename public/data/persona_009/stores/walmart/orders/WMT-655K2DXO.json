@@ -1,0 +1,46 @@
+{
+  "order_id": "WMT-655K2DXO",
+  "persona_id": "persona_009",
+  "store_id": "walmart",
+  "status": "delivered",
+  "created_at": "2026-01-13T17:48:04",
+  "shipped_at": "2026-01-14T17:48:04",
+  "delivered_at": "2026-01-16T17:48:04",
+  "shipping_address": "789 Veterans Blvd, Tampa, FL 33602",
+  "items": [
+    {
+      "product_id": "WMT00001396",
+      "name": "Thames & Kosmos Thames & Kosmos Chem C500",
+      "category": "Toys",
+      "quantity": 2,
+      "price": 46.27,
+      "subtotal": 92.54
+    },
+    {
+      "product_id": "WMT00001294",
+      "name": "Geomag Geomag Classic Set",
+      "category": "Toys",
+      "quantity": 1,
+      "price": 34.0,
+      "subtotal": 34.0
+    },
+    {
+      "product_id": "WMT00001252",
+      "name": "Franklin Lawn Darts Set",
+      "category": "Toys",
+      "quantity": 3,
+      "price": 25.41,
+      "subtotal": 76.23
+    },
+    {
+      "product_id": "WMT00001185",
+      "name": "Thames & Kosmos Thames & Kosmos Science Kit",
+      "category": "Toys",
+      "quantity": 2,
+      "price": 52.04,
+      "subtotal": 104.08
+    }
+  ],
+  "total": 306.85,
+  "currency": "USD"
+}

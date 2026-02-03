@@ -1,0 +1,46 @@
+{
+  "order_id": "ORDER-7EJ2RI1W",
+  "persona_id": "persona_016",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-10-07T22:40:36",
+  "shipped_at": "2025-10-10T22:40:36",
+  "delivered_at": "2025-10-15T22:40:36",
+  "shipping_address": "222 Tech Campus Way, Austin, TX 78701",
+  "items": [
+    {
+      "product_id": "B0BCGHP01L",
+      "name": "The Lean Startup by Eric Ries",
+      "category": "Books",
+      "quantity": 1,
+      "price": 16.0,
+      "subtotal": 16.0
+    },
+    {
+      "product_id": "B0AMZN1751",
+      "name": "Moleskine Classic Notebook Large",
+      "category": "Office Products",
+      "quantity": 3,
+      "price": 22.99,
+      "subtotal": 68.97
+    },
+    {
+      "product_id": "B0BHTN8HX5",
+      "name": "Dell XPS 15 Laptop",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 1599.99,
+      "subtotal": 1599.99
+    },
+    {
+      "product_id": "B0PETS0079",
+      "name": "Aquarium Co-Op Aquarium Co-Op Easy Planter",
+      "category": "Pet Supplies",
+      "quantity": 1,
+      "price": 13.78,
+      "subtotal": 13.78
+    }
+  ],
+  "total": 1698.74,
+  "currency": "USD"
+}

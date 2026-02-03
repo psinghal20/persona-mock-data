@@ -1,0 +1,30 @@
+{
+  "order_id": "ORDER-Q6MUI89Q",
+  "persona_id": "persona_002",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-12-04T15:21:01",
+  "shipped_at": "2025-12-06T15:21:01",
+  "delivered_at": "2025-12-10T15:21:01",
+  "shipping_address": "456 Tech Park Drive, San Jose, CA 95110",
+  "items": [
+    {
+      "product_id": "B0AMZN1440",
+      "name": "UGREEN HDMI 2.1 Cable 6ft",
+      "category": "Electronics",
+      "quantity": 3,
+      "price": 17.99,
+      "subtotal": 53.97
+    },
+    {
+      "product_id": "B0PCPT0011",
+      "name": "Sabrent Rocket 2230 SSD",
+      "category": "Electronics",
+      "quantity": 3,
+      "price": 73.7,
+      "subtotal": 221.1
+    }
+  ],
+  "total": 275.07,
+  "currency": "USD"
+}

@@ -1,0 +1,22 @@
+{
+  "order_id": "ORDER-WD0I8VI0",
+  "persona_id": "persona_016",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-10-21T11:14:29",
+  "shipped_at": "2025-10-22T11:14:29",
+  "delivered_at": "2025-10-26T11:14:29",
+  "shipping_address": "222 Tech Campus Way, Austin, TX 78701",
+  "items": [
+    {
+      "product_id": "B0AMZN1804",
+      "name": "Logitech G640",
+      "category": "Electronics",
+      "quantity": 3,
+      "price": 29.99,
+      "subtotal": 89.97
+    }
+  ],
+  "total": 89.97,
+  "currency": "USD"
+}

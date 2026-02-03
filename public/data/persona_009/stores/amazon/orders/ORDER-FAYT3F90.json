@@ -1,0 +1,30 @@
+{
+  "order_id": "ORDER-FAYT3F90",
+  "persona_id": "persona_009",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-11-15T17:15:48",
+  "shipped_at": "2025-11-17T17:15:48",
+  "delivered_at": "2025-11-19T17:15:48",
+  "shipping_address": "789 Veterans Blvd, Tampa, FL 33602",
+  "items": [
+    {
+      "product_id": "B0BOOK0132",
+      "name": "The Lost City of Z by David Grann",
+      "category": "Books",
+      "quantity": 1,
+      "price": 17.25,
+      "subtotal": 17.25
+    },
+    {
+      "product_id": "B0BOOK0216",
+      "name": "Mistborn: The Final Empire by Brandon Sanderson",
+      "category": "Books",
+      "quantity": 3,
+      "price": 17.32,
+      "subtotal": 51.96
+    }
+  ],
+  "total": 69.21,
+  "currency": "USD"
+}

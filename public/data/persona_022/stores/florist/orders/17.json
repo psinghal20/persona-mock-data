@@ -1,0 +1,24 @@
+{
+  "order_id": "17",
+  "persona_id": "persona_022",
+  "store_id": "florist",
+  "status": "delivered",
+  "created_at": "2026-01-05T11:11:42",
+  "shipped_at": "",
+  "delivered_at": "2026-01-07",
+  "shipping_address": "444 Polish Hill St, Philadelphia, PA 19123",
+  "recipient_name": "Mom of Anna Kowalczyk",
+  "card_message": "Thank you!",
+  "items": [
+    {
+      "product_id": "195",
+      "name": "Seasonal Fall Bouquet",
+      "category": "Seasonal Mix",
+      "quantity": 1,
+      "price": 64.99,
+      "subtotal": 64.99
+    }
+  ],
+  "total": 64.99,
+  "currency": "USD"
+}

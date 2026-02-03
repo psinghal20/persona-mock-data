@@ -1,0 +1,23 @@
+{
+  "order_id": "WISH-26",
+  "persona_id": "persona_013",
+  "store_id": "toy_store",
+  "type": "wishlist",
+  "status": "high",
+  "created_at": "2026-01-16T09:40:43",
+  "items": [
+    {
+      "product_id": "TOY-137",
+      "name": "Kingdomino",
+      "category": "Games & Puzzles",
+      "child_name": "Diego",
+      "occasion": "Christmas",
+      "priority": "high",
+      "quantity": 1,
+      "price": 19.99,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

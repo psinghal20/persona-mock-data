@@ -1,0 +1,174 @@
+{
+  "order_id": "GRC000166",
+  "persona_id": "persona_016",
+  "store_id": "grocery",
+  "status": "delivered",
+  "created_at": "2025-11-25T11:57:57",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "222 Tech Campus Way, Austin, TX 78701",
+  "items": [
+    {
+      "product_id": "prod_830",
+      "name": "Country Best Oregano",
+      "category": "Condiments & Spices",
+      "quantity": 2,
+      "price": 3.67,
+      "subtotal": 7.34
+    },
+    {
+      "product_id": "GRO-1549",
+      "name": "Plum Organics Apple Puree",
+      "category": "Baby",
+      "quantity": 3,
+      "price": 29.22,
+      "subtotal": 87.66
+    },
+    {
+      "product_id": "prod_538",
+      "name": "Organic Choice Frozen Peas",
+      "category": "Frozen",
+      "quantity": 5,
+      "price": 2.47,
+      "subtotal": 12.35
+    },
+    {
+      "product_id": "prod_060",
+      "name": "Mountain Fresh Organic Cantaloupe",
+      "category": "Produce",
+      "quantity": 1,
+      "price": 4.84,
+      "subtotal": 4.84
+    },
+    {
+      "product_id": "prod_800",
+      "name": "Organic Choice Breakfast Bars",
+      "category": "Breakfast",
+      "quantity": 2,
+      "price": 5.66,
+      "subtotal": 11.32
+    },
+    {
+      "product_id": "prod_875",
+      "name": "Sunrise Farms Capers",
+      "category": "Condiments & Spices",
+      "quantity": 1,
+      "price": 5.62,
+      "subtotal": 5.62
+    },
+    {
+      "product_id": "prod_124",
+      "name": "Sunrise Farms Organic Zucchini",
+      "category": "Produce",
+      "quantity": 2,
+      "price": 2.85,
+      "subtotal": 5.7
+    },
+    {
+      "product_id": "prod_861",
+      "name": "Premium Select Caesar Dressing",
+      "category": "Condiments & Spices",
+      "quantity": 1,
+      "price": 5.61,
+      "subtotal": 5.61
+    },
+    {
+      "product_id": "GRO-1041",
+      "name": "Organic Valley Pecorino Romano",
+      "category": "Dairy",
+      "quantity": 3,
+      "price": 19.39,
+      "subtotal": 58.17
+    },
+    {
+      "product_id": "prod_884",
+      "name": "Fresh Farms Organic Toilet Paper",
+      "category": "Household",
+      "quantity": 1,
+      "price": 19.88,
+      "subtotal": 19.88
+    },
+    {
+      "product_id": "prod_863",
+      "name": "Pure & Simple Balsamic Vinaigrette",
+      "category": "Condiments & Spices",
+      "quantity": 1,
+      "price": 4.59,
+      "subtotal": 4.59
+    },
+    {
+      "product_id": "prod_183",
+      "name": "Green Valley Organic Sour Cream",
+      "category": "Dairy",
+      "quantity": 1,
+      "price": 3.47,
+      "subtotal": 3.47
+    },
+    {
+      "product_id": "GRO-1773",
+      "name": "Organic Valley White Cheddar",
+      "category": "Dairy",
+      "quantity": 2,
+      "price": 8.73,
+      "subtotal": 17.46
+    },
+    {
+      "product_id": "prod_750",
+      "name": "Daily Delight Organic Chocolate Chips",
+      "category": "Snacks",
+      "quantity": 2,
+      "price": 4.62,
+      "subtotal": 9.24
+    },
+    {
+      "product_id": "prod_083",
+      "name": "Fresh Farms Organic Pomegranate",
+      "category": "Produce",
+      "quantity": 1,
+      "price": 8.43,
+      "subtotal": 8.43
+    },
+    {
+      "product_id": "prod_080",
+      "name": "Local Pride Organic Kiwi",
+      "category": "Produce",
+      "quantity": 2,
+      "price": 1.1,
+      "subtotal": 2.2
+    },
+    {
+      "product_id": "prod_752",
+      "name": "Pure & Simple Organic Chocolate Bar",
+      "category": "Snacks",
+      "quantity": 3,
+      "price": 5.2,
+      "subtotal": 15.6
+    },
+    {
+      "product_id": "prod_829",
+      "name": "Market Fresh Organic Oregano",
+      "category": "Condiments & Spices",
+      "quantity": 4,
+      "price": 6.25,
+      "subtotal": 25.0
+    },
+    {
+      "product_id": "prod_259",
+      "name": "Meadow Gold Organic Ground Pork",
+      "category": "Meat & Seafood",
+      "quantity": 3,
+      "price": 19.84,
+      "subtotal": 59.52
+    },
+    {
+      "product_id": "prod_788",
+      "name": "Farm Fresh Organic Pancake Mix",
+      "category": "Breakfast",
+      "quantity": 1,
+      "price": 6.42,
+      "subtotal": 6.42
+    }
+  ],
+  "total": 370.42,
+  "currency": "USD"
+}

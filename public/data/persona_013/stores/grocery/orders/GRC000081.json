@@ -1,0 +1,134 @@
+{
+  "order_id": "GRC000081",
+  "persona_id": "persona_013",
+  "store_id": "grocery",
+  "status": "delivered",
+  "created_at": "2025-12-03T14:44:18",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "555 Community Center Rd, Houston, TX 77001",
+  "items": [
+    {
+      "product_id": "prod_723",
+      "name": "Home Style Trail Mix",
+      "category": "Snacks",
+      "quantity": 2,
+      "price": 8.85,
+      "subtotal": 17.7
+    },
+    {
+      "product_id": "prod_739",
+      "name": "Daily Delight Hummus",
+      "category": "Snacks",
+      "quantity": 4,
+      "price": 4.82,
+      "subtotal": 19.28
+    },
+    {
+      "product_id": "GRO-2173",
+      "name": "Jack Link's Trail Mix Nut Lovers",
+      "category": "Snacks",
+      "quantity": 1,
+      "price": 3.83,
+      "subtotal": 3.83
+    },
+    {
+      "product_id": "prod_738",
+      "name": "Premium Select Organic Hummus",
+      "category": "Snacks",
+      "quantity": 4,
+      "price": 6.1,
+      "subtotal": 24.4
+    },
+    {
+      "product_id": "prod_025",
+      "name": "Potato Chips",
+      "category": "Snacks",
+      "quantity": 3,
+      "price": 6.49,
+      "subtotal": 19.47
+    },
+    {
+      "product_id": "prod_748",
+      "name": "Golden Harvest Chocolate Chips",
+      "category": "Snacks",
+      "quantity": 5,
+      "price": 4.87,
+      "subtotal": 24.35
+    },
+    {
+      "product_id": "prod_704",
+      "name": "Nature's Best Saltine Crackers",
+      "category": "Snacks",
+      "quantity": 4,
+      "price": 2.61,
+      "subtotal": 10.44
+    },
+    {
+      "product_id": "prod_706",
+      "name": "Premium Select Graham Crackers",
+      "category": "Snacks",
+      "quantity": 2,
+      "price": 4.44,
+      "subtotal": 8.88
+    },
+    {
+      "product_id": "GRO-2149",
+      "name": "Tostitos Tortilla Chips Lime",
+      "category": "Snacks",
+      "quantity": 2,
+      "price": 9.08,
+      "subtotal": 18.16
+    },
+    {
+      "product_id": "prod_760",
+      "name": "Sunrise Farms Licorice",
+      "category": "Snacks",
+      "quantity": 1,
+      "price": 4.83,
+      "subtotal": 4.83
+    },
+    {
+      "product_id": "prod_717",
+      "name": "Quality First Cashews",
+      "category": "Snacks",
+      "quantity": 5,
+      "price": 12.47,
+      "subtotal": 62.35
+    },
+    {
+      "product_id": "prod_754",
+      "name": "Pure & Simple Candy",
+      "category": "Snacks",
+      "quantity": 2,
+      "price": 3.67,
+      "subtotal": 7.34
+    },
+    {
+      "product_id": "GRO-2158",
+      "name": "Lay's Pretzel Thins",
+      "category": "Snacks",
+      "quantity": 3,
+      "price": 5.84,
+      "subtotal": 17.52
+    },
+    {
+      "product_id": "GRO-2196",
+      "name": "Jack Link's Granola Bar Chocolate Chip",
+      "category": "Snacks",
+      "quantity": 3,
+      "price": 6.63,
+      "subtotal": 19.89
+    },
+    {
+      "product_id": "GRO-2175",
+      "name": "Kellogg's Beef Jerky Original",
+      "category": "Snacks",
+      "quantity": 3,
+      "price": 7.45,
+      "subtotal": 22.35
+    }
+  ],
+  "total": 280.79,
+  "currency": "USD"
+}

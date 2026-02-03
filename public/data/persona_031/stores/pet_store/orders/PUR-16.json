@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-16",
+  "persona_id": "persona_031",
+  "store_id": "pet_store",
+  "status": "completed",
+  "created_at": "2025-11-17T01:46:04",
+  "items": [
+    {
+      "product_id": "DOG004",
+      "name": "Hill's Science Diet Senior",
+      "category": "Food",
+      "quantity": 1,
+      "price": 62.99,
+      "subtotal": 62.99
+    }
+  ],
+  "total": 62.99,
+  "currency": "USD"
+}

@@ -1,0 +1,23 @@
+{
+  "order_id": "BK00000670",
+  "persona_id": "persona_013",
+  "store_id": "movie_theater",
+  "type": "booking",
+  "status": "confirmed",
+  "created_at": "2025-11-11T15:37:45",
+  "confirmation_code": "AMC-8XQNFP",
+  "items": [
+    {
+      "product_id": "MOV028",
+      "name": "Civil War",
+      "showtime": "",
+      "theater": "",
+      "seats": "I1",
+      "quantity": 1,
+      "price": 19.99,
+      "subtotal": 19.99
+    }
+  ],
+  "total": 19.99,
+  "currency": "USD"
+}

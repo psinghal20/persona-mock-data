@@ -1,0 +1,23 @@
+{
+  "order_id": "BK00000268",
+  "persona_id": "USR001",
+  "store_id": "movie_theater",
+  "type": "booking",
+  "status": "cancelled",
+  "created_at": "2025-12-06T17:09:52",
+  "confirmation_code": "AMC-0FOF65",
+  "items": [
+    {
+      "product_id": "MOV027",
+      "name": "Smile 2",
+      "showtime": "",
+      "theater": "",
+      "seats": "R10,R11,R12,R13",
+      "quantity": 4,
+      "price": 19.99,
+      "subtotal": 79.96
+    }
+  ],
+  "total": 79.96,
+  "currency": "USD"
+}

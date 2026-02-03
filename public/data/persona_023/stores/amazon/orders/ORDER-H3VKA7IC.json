@@ -1,0 +1,30 @@
+{
+  "order_id": "ORDER-H3VKA7IC",
+  "persona_id": "persona_023",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-10-21T22:02:37",
+  "shipped_at": "2025-10-22T22:02:37",
+  "delivered_at": "2025-10-24T22:02:37",
+  "shipping_address": "777 East Side Ave, Cleveland, OH 44114",
+  "items": [
+    {
+      "product_id": "B0AMZN1631",
+      "name": "LEGO Star Wars Millennium Falcon 75257",
+      "category": "Toys & Games",
+      "quantity": 2,
+      "price": 169.99,
+      "subtotal": 339.98
+    },
+    {
+      "product_id": "B0AMZN1144",
+      "name": "Peak Design Everyday Backpack 20L",
+      "category": "Electronics",
+      "quantity": 2,
+      "price": 259.95,
+      "subtotal": 519.9
+    }
+  ],
+  "total": 859.88,
+  "currency": "USD"
+}

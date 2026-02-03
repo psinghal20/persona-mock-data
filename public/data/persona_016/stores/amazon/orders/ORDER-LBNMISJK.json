@@ -1,0 +1,46 @@
+{
+  "order_id": "ORDER-LBNMISJK",
+  "persona_id": "persona_016",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-11-27T14:52:07",
+  "shipped_at": "2025-11-29T14:52:07",
+  "delivered_at": "2025-12-03T14:52:07",
+  "shipping_address": "222 Tech Campus Way, Austin, TX 78701",
+  "items": [
+    {
+      "product_id": "B0AMZN1782",
+      "name": "Logitech MX Master 3S Mouse",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 99.99,
+      "subtotal": 99.99
+    },
+    {
+      "product_id": "B0BOOK0003",
+      "name": "Pride and Prejudice by Jane Austen",
+      "category": "Books",
+      "quantity": 3,
+      "price": 11.32,
+      "subtotal": 33.96
+    },
+    {
+      "product_id": "B0AMZN1985",
+      "name": "Siraya Tech Blu V2 Resin",
+      "category": "Industrial & Scientific",
+      "quantity": 3,
+      "price": 44.99,
+      "subtotal": 134.97
+    },
+    {
+      "product_id": "B0AMZN1893",
+      "name": "SVS Prime Bookshelf Speakers",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 399.0,
+      "subtotal": 399.0
+    }
+  ],
+  "total": 667.92,
+  "currency": "USD"
+}

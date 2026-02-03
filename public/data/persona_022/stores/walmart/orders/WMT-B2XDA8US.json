@@ -1,0 +1,38 @@
+{
+  "order_id": "WMT-B2XDA8US",
+  "persona_id": "persona_022",
+  "store_id": "walmart",
+  "status": "pending",
+  "created_at": "2025-11-26T18:54:10",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "444 Polish Hill St, Philadelphia, PA 19123",
+  "items": [
+    {
+      "product_id": "WMT00001427",
+      "name": "Burt's Bees Burt's Bees Dog Shampoo",
+      "category": "Pets",
+      "quantity": 4,
+      "price": 10.31,
+      "subtotal": 41.24
+    },
+    {
+      "product_id": "WMT00001576",
+      "name": "Josh's Frogs Josh's Frogs Fruit Fly Culture",
+      "category": "Pets",
+      "quantity": 3,
+      "price": 8.9,
+      "subtotal": 26.7
+    },
+    {
+      "product_id": "WMT00000332",
+      "name": "Home Style Cumin",
+      "category": "Grocery",
+      "quantity": 1,
+      "price": 4.3,
+      "subtotal": 4.3
+    }
+  ],
+  "total": 72.24,
+  "currency": "USD"
+}

@@ -1,0 +1,174 @@
+{
+  "order_id": "GRC000125",
+  "persona_id": "persona_027",
+  "store_id": "grocery",
+  "status": "delivered",
+  "created_at": "2026-01-04T13:17:22",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "items": [
+    {
+      "product_id": "GRO-1861",
+      "name": "Tyson Lamb Chops",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 12.02,
+      "subtotal": 12.02
+    },
+    {
+      "product_id": "prod_009",
+      "name": "Chicken Breast",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 8.99,
+      "subtotal": 8.99
+    },
+    {
+      "product_id": "prod_673",
+      "name": "Daily Delight Soda Root Beer",
+      "category": "Beverages",
+      "quantity": 2,
+      "price": 1.83,
+      "subtotal": 3.66
+    },
+    {
+      "product_id": "prod_318",
+      "name": "Market Fresh Deli Turkey",
+      "category": "Meat & Seafood",
+      "quantity": 4,
+      "price": 26.14,
+      "subtotal": 104.56
+    },
+    {
+      "product_id": "GRO-1881",
+      "name": "Tyson Sea Scallops",
+      "category": "Meat & Seafood",
+      "quantity": 2,
+      "price": 7.34,
+      "subtotal": 14.68
+    },
+    {
+      "product_id": "GRO-1118",
+      "name": "Applegate Sea Bass",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 70.2,
+      "subtotal": 70.2
+    },
+    {
+      "product_id": "GRO-1867",
+      "name": "Foster Farms King Salmon",
+      "category": "Meat & Seafood",
+      "quantity": 3,
+      "price": 18.63,
+      "subtotal": 55.89
+    },
+    {
+      "product_id": "GRO-1819",
+      "name": "Applegate Beef Stew Meat",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 34.85,
+      "subtotal": 34.85
+    },
+    {
+      "product_id": "prod_320",
+      "name": "Home Style Deli Roast Beef",
+      "category": "Meat & Seafood",
+      "quantity": 2,
+      "price": 14.26,
+      "subtotal": 28.52
+    },
+    {
+      "product_id": "GRO-1848",
+      "name": "Perdue Pork Sirloin Roast",
+      "category": "Meat & Seafood",
+      "quantity": 2,
+      "price": 5.37,
+      "subtotal": 10.74
+    },
+    {
+      "product_id": "prod_311",
+      "name": "Classic Kitchen Hot Dogs",
+      "category": "Meat & Seafood",
+      "quantity": 3,
+      "price": 5.3,
+      "subtotal": 15.9
+    },
+    {
+      "product_id": "GRO-1134",
+      "name": "Snake River Farms Capicola",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 86.59,
+      "subtotal": 86.59
+    },
+    {
+      "product_id": "GRO-1844",
+      "name": "Niman Ranch Turkey Sausage Links",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 24.3,
+      "subtotal": 24.3
+    },
+    {
+      "product_id": "prod_239",
+      "name": "Mountain Fresh Organic Filet Mignon",
+      "category": "Meat & Seafood",
+      "quantity": 3,
+      "price": 120.39,
+      "subtotal": 361.17
+    },
+    {
+      "product_id": "GRO-1866",
+      "name": "Sea Best Sockeye Salmon",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 12.26,
+      "subtotal": 12.26
+    },
+    {
+      "product_id": "prod_249",
+      "name": "Meadow Gold Organic Turkey Breast",
+      "category": "Meat & Seafood",
+      "quantity": 3,
+      "price": 11.15,
+      "subtotal": 33.45
+    },
+    {
+      "product_id": "GRO-1886",
+      "name": "Smithfield Lobster Tail Frozen",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 8.67,
+      "subtotal": 8.67
+    },
+    {
+      "product_id": "prod_269",
+      "name": "Organic Choice Chicken Thighs",
+      "category": "Meat & Seafood",
+      "quantity": 2,
+      "price": 15.53,
+      "subtotal": 31.06
+    },
+    {
+      "product_id": "GRO-1852",
+      "name": "Niman Ranch Breakfast Sausage",
+      "category": "Meat & Seafood",
+      "quantity": 2,
+      "price": 27.98,
+      "subtotal": 55.96
+    },
+    {
+      "product_id": "GRO-1116",
+      "name": "Butcher Box Red Snapper",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 47.52,
+      "subtotal": 47.52
+    }
+  ],
+  "total": 1020.99,
+  "currency": "USD"
+}

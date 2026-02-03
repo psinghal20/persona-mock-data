@@ -1,0 +1,26 @@
+{
+  "order_id": "SAVED-24",
+  "persona_id": "persona_027",
+  "store_id": "zillow",
+  "type": "saved_property",
+  "status": "saved",
+  "created_at": "2026-01-21T16:29:47",
+  "notes": "Great location",
+  "items": [
+    {
+      "product_id": "8670",
+      "name": "8501 Third Lane",
+      "address": "8501 Third Lane",
+      "city": "",
+      "price": 1220824.0,
+      "bedrooms": "",
+      "bathrooms": "",
+      "sqft": "",
+      "home_type": "",
+      "quantity": 1,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

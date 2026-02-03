@@ -1,0 +1,22 @@
+{
+  "order_id": "SPH000041",
+  "persona_id": "persona_022",
+  "store_id": "sephora",
+  "status": "delivered",
+  "created_at": "2025-10-28T19:23:58",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "444 Polish Hill St, Philadelphia, PA 19123",
+  "items": [
+    {
+      "product_id": "SPH0375",
+      "name": "Chemical Exfoliant",
+      "category": "Skincare",
+      "quantity": 1,
+      "price": 40.84,
+      "subtotal": 40.84
+    }
+  ],
+  "total": 40.84,
+  "currency": "USD"
+}

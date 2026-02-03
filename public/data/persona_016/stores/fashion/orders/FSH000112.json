@@ -1,0 +1,30 @@
+{
+  "order_id": "FSH000112",
+  "persona_id": "persona_016",
+  "store_id": "fashion",
+  "status": "delivered",
+  "created_at": "2025-10-09T15:37:31",
+  "shipped_at": "2025-10-12T15:37:31",
+  "delivered_at": "2025-10-17T15:37:31",
+  "shipping_address": "222 Tech Campus Way, Austin, TX 78701",
+  "items": [
+    {
+      "product_id": "prod_006",
+      "name": "Slim Fit Jeans",
+      "category": "Bottoms",
+      "quantity": 1,
+      "price": 79.99,
+      "subtotal": 79.99
+    },
+    {
+      "product_id": "prod_499",
+      "name": "Modern Muse Velvet Handbag",
+      "category": "Accessories",
+      "quantity": 1,
+      "price": 291.32,
+      "subtotal": 291.32
+    }
+  ],
+  "total": 371.31,
+  "currency": "USD"
+}

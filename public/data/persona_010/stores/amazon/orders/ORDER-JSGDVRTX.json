@@ -1,0 +1,46 @@
+{
+  "order_id": "ORDER-JSGDVRTX",
+  "persona_id": "persona_010",
+  "store_id": "amazon",
+  "status": "cancelled",
+  "created_at": "2025-10-30T10:22:04",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "321 French Quarter Ave, New Orleans, LA 70116",
+  "items": [
+    {
+      "product_id": "B08GKNB5LZ",
+      "name": "KitchenAid Artisan Stand Mixer",
+      "category": "Home & Kitchen",
+      "quantity": 2,
+      "price": 379.99,
+      "subtotal": 759.98
+    },
+    {
+      "product_id": "B0AMZN1472",
+      "name": "SNOO Smart Sleeper Bassinet",
+      "category": "Baby",
+      "quantity": 1,
+      "price": 1695.0,
+      "subtotal": 1695.0
+    },
+    {
+      "product_id": "B026288475",
+      "name": "Samsung Smart Linear Wash Dishwasher",
+      "category": "Home & Kitchen",
+      "quantity": 3,
+      "price": 754.71,
+      "subtotal": 2264.13
+    },
+    {
+      "product_id": "B041726318",
+      "name": "Cuisinart 4-Slice Metal Classic Toaster",
+      "category": "Home & Kitchen",
+      "quantity": 1,
+      "price": 66.74,
+      "subtotal": 66.74
+    }
+  ],
+  "total": 4785.85,
+  "currency": "USD"
+}

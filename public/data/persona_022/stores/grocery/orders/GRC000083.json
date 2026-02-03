@@ -1,0 +1,78 @@
+{
+  "order_id": "GRC000083",
+  "persona_id": "persona_022",
+  "store_id": "grocery",
+  "status": "delivered",
+  "created_at": "2026-01-19T23:22:37",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "444 Polish Hill St, Philadelphia, PA 19123",
+  "items": [
+    {
+      "product_id": "prod_938",
+      "name": "Mountain Fresh Baby Formula",
+      "category": "Baby",
+      "quantity": 2,
+      "price": 37.98,
+      "subtotal": 75.96
+    },
+    {
+      "product_id": "prod_427",
+      "name": "Home Style Vegetable Broth",
+      "category": "Pantry",
+      "quantity": 2,
+      "price": 2.93,
+      "subtotal": 5.86
+    },
+    {
+      "product_id": "prod_841",
+      "name": "Heritage Foods Organic Rosemary",
+      "category": "Condiments & Spices",
+      "quantity": 3,
+      "price": 6.11,
+      "subtotal": 18.33
+    },
+    {
+      "product_id": "GRO-1935",
+      "name": "Bush's Canned Mixed Vegetables",
+      "category": "Pantry",
+      "quantity": 1,
+      "price": 5.81,
+      "subtotal": 5.81
+    },
+    {
+      "product_id": "GRO-1694",
+      "name": "Local Farm Fresh Mint",
+      "category": "Produce",
+      "quantity": 1,
+      "price": 7.03,
+      "subtotal": 7.03
+    },
+    {
+      "product_id": "prod_432",
+      "name": "Daily Delight Organic Tuna",
+      "category": "Pantry",
+      "quantity": 3,
+      "price": 3.2,
+      "subtotal": 9.6
+    },
+    {
+      "product_id": "prod_375",
+      "name": "Market Fresh Vegetable Oil",
+      "category": "Pantry",
+      "quantity": 3,
+      "price": 4.91,
+      "subtotal": 14.73
+    },
+    {
+      "product_id": "prod_418",
+      "name": "Fresh Farms Canned Tomatoes",
+      "category": "Pantry",
+      "quantity": 1,
+      "price": 2.33,
+      "subtotal": 2.33
+    }
+  ],
+  "total": 139.65,
+  "currency": "USD"
+}

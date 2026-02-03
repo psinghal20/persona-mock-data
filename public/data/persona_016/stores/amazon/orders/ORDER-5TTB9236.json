@@ -1,0 +1,30 @@
+{
+  "order_id": "ORDER-5TTB9236",
+  "persona_id": "persona_016",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-10-14T02:48:21",
+  "shipped_at": "2025-10-15T02:48:21",
+  "delivered_at": "2025-10-17T02:48:21",
+  "shipping_address": "222 Tech Campus Way, Austin, TX 78701",
+  "items": [
+    {
+      "product_id": "B0AMZN1774",
+      "name": "AmazonBasics Standing Desk Converter",
+      "category": "Office Products",
+      "quantity": 1,
+      "price": 189.99,
+      "subtotal": 189.99
+    },
+    {
+      "product_id": "B0AMZN1291",
+      "name": "Vari Electric Standing Desk",
+      "category": "Home & Kitchen",
+      "quantity": 1,
+      "price": 695.0,
+      "subtotal": 695.0
+    }
+  ],
+  "total": 884.99,
+  "currency": "USD"
+}

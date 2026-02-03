@@ -1,0 +1,30 @@
+{
+  "order_id": "ORDER-5TC0JII7",
+  "persona_id": "persona_013",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2026-01-07T16:54:00",
+  "shipped_at": "2026-01-10T16:54:00",
+  "delivered_at": "2026-01-12T16:54:00",
+  "shipping_address": "555 Community Center Rd, Houston, TX 77001",
+  "items": [
+    {
+      "product_id": "B0BOOK0018",
+      "name": "Everything I Never Told You by Celeste Ng",
+      "category": "Books",
+      "quantity": 3,
+      "price": 20.16,
+      "subtotal": 60.48
+    },
+    {
+      "product_id": "B0ELEC0245",
+      "name": "Coros Coros Pace 3",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 227.5,
+      "subtotal": 227.5
+    }
+  ],
+  "total": 287.98,
+  "currency": "USD"
+}

@@ -1,0 +1,23 @@
+{
+  "order_id": "BK00000593",
+  "persona_id": "persona_023",
+  "store_id": "movie_theater",
+  "type": "booking",
+  "status": "confirmed",
+  "created_at": "2026-01-07T13:43:11",
+  "confirmation_code": "AMC-GXZR2D",
+  "items": [
+    {
+      "product_id": "MOV019",
+      "name": "Gladiator II",
+      "showtime": "",
+      "theater": "",
+      "seats": "H13",
+      "quantity": 1,
+      "price": 17.49,
+      "subtotal": 17.49
+    }
+  ],
+  "total": 17.49,
+  "currency": "USD"
+}

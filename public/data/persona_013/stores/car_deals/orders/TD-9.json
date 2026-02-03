@@ -1,0 +1,19 @@
+{
+  "order_id": "TD-9",
+  "persona_id": "persona_013",
+  "store_id": "car_deals",
+  "type": "test_drive",
+  "status": "pending",
+  "scheduled_time": "2025-10-14T18:34:41",
+  "items": [
+    {
+      "product_id": "CAR145",
+      "name": "GLB",
+      "quantity": 1,
+      "price": 48500.0,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

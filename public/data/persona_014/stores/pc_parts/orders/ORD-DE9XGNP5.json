@@ -1,0 +1,30 @@
+{
+  "order_id": "ORD-DE9XGNP5",
+  "persona_id": "persona_014",
+  "store_id": "pc_parts",
+  "status": "shipped",
+  "created_at": "2025-11-05T08:25:03",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "888 Design District Ln, San Francisco, CA 94102",
+  "items": [
+    {
+      "product_id": "CASE027",
+      "name": "Pure Base 500DX",
+      "category": "cases",
+      "quantity": 2,
+      "price": 109.99,
+      "subtotal": 219.98
+    },
+    {
+      "product_id": "CASE026",
+      "name": "Dark Base Pro 901",
+      "category": "cases",
+      "quantity": 1,
+      "price": 299.99,
+      "subtotal": 299.99
+    }
+  ],
+  "total": 519.97,
+  "currency": "USD"
+}

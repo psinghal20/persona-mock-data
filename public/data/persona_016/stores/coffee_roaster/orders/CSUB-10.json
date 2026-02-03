@@ -1,0 +1,23 @@
+{
+  "order_id": "CSUB-10",
+  "persona_id": "persona_016",
+  "store_id": "coffee_roaster",
+  "type": "subscription",
+  "status": "active",
+  "created_at": "2025-10-05T07:38:33",
+  "items": [
+    {
+      "product_id": "plan-6",
+      "name": "Espresso Enthusiast",
+      "description": "Specially selected beans optimized for espresso extraction.",
+      "bean_preference": "Honduras Comsa Lempira",
+      "frequency": "Every 2 weeks",
+      "next_delivery": "2025-10-19",
+      "quantity": 1,
+      "price": 35.99,
+      "subtotal": 35.99
+    }
+  ],
+  "total": 35.99,
+  "currency": "USD"
+}

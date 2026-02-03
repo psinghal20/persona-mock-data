@@ -1,0 +1,22 @@
+{
+  "order_id": "FSH000053",
+  "persona_id": "persona_010",
+  "store_id": "fashion",
+  "status": "delivered",
+  "created_at": "2025-12-09T07:15:54",
+  "shipped_at": "2025-12-10T07:15:54",
+  "delivered_at": "2025-12-13T07:15:54",
+  "shipping_address": "321 French Quarter Ave, New Orleans, LA 70116",
+  "items": [
+    {
+      "product_id": "prod_245",
+      "name": "Sunset Studios Chiffon Slip Dress",
+      "category": "Dresses",
+      "quantity": 1,
+      "price": 103.66,
+      "subtotal": 103.66
+    }
+  ],
+  "total": 103.66,
+  "currency": "USD"
+}

@@ -1,0 +1,174 @@
+{
+  "order_id": "GRC000068",
+  "persona_id": "persona_013",
+  "store_id": "grocery",
+  "status": "delivered",
+  "created_at": "2025-10-26T08:12:15",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "555 Community Center Rd, Houston, TX 77001",
+  "items": [
+    {
+      "product_id": "prod_724",
+      "name": "Home Style Organic Trail Mix",
+      "category": "Snacks",
+      "quantity": 2,
+      "price": 12.53,
+      "subtotal": 25.06
+    },
+    {
+      "product_id": "prod_740",
+      "name": "Sunrise Farms Hummus",
+      "category": "Snacks",
+      "quantity": 1,
+      "price": 5.71,
+      "subtotal": 5.71
+    },
+    {
+      "product_id": "GRO-2174",
+      "name": "Kellogg's Trail Mix Energy",
+      "category": "Snacks",
+      "quantity": 1,
+      "price": 9.85,
+      "subtotal": 9.85
+    },
+    {
+      "product_id": "prod_759",
+      "name": "Classic Kitchen Licorice",
+      "category": "Snacks",
+      "quantity": 1,
+      "price": 3.57,
+      "subtotal": 3.57
+    },
+    {
+      "product_id": "prod_699",
+      "name": "Local Pride Popcorn",
+      "category": "Snacks",
+      "quantity": 3,
+      "price": 4.59,
+      "subtotal": 13.77
+    },
+    {
+      "product_id": "GRO-2175",
+      "name": "Kellogg's Beef Jerky Original",
+      "category": "Snacks",
+      "quantity": 2,
+      "price": 7.45,
+      "subtotal": 14.9
+    },
+    {
+      "product_id": "prod_694",
+      "name": "Simply Good Tortilla Chips",
+      "category": "Snacks",
+      "quantity": 3,
+      "price": 4.98,
+      "subtotal": 14.94
+    },
+    {
+      "product_id": "prod_685",
+      "name": "Classic Kitchen Protein Shake",
+      "category": "Beverages",
+      "quantity": 1,
+      "price": 3.66,
+      "subtotal": 3.66
+    },
+    {
+      "product_id": "prod_226",
+      "name": "Simply Good Soy Milk",
+      "category": "Dairy",
+      "quantity": 3,
+      "price": 3.76,
+      "subtotal": 11.28
+    },
+    {
+      "product_id": "prod_703",
+      "name": "Green Valley Cheese Crackers",
+      "category": "Snacks",
+      "quantity": 3,
+      "price": 4.89,
+      "subtotal": 14.67
+    },
+    {
+      "product_id": "GRO-2173",
+      "name": "Jack Link's Trail Mix Nut Lovers",
+      "category": "Snacks",
+      "quantity": 3,
+      "price": 3.83,
+      "subtotal": 11.49
+    },
+    {
+      "product_id": "prod_707",
+      "name": "Home Style Graham Crackers",
+      "category": "Snacks",
+      "quantity": 4,
+      "price": 4.34,
+      "subtotal": 17.36
+    },
+    {
+      "product_id": "GRO-2188",
+      "name": "Doritos Cookies Oreo",
+      "category": "Snacks",
+      "quantity": 1,
+      "price": 9.62,
+      "subtotal": 9.62
+    },
+    {
+      "product_id": "GRO-2183",
+      "name": "Kellogg's Graham Crackers",
+      "category": "Snacks",
+      "quantity": 4,
+      "price": 4.01,
+      "subtotal": 16.04
+    },
+    {
+      "product_id": "GRO-2162",
+      "name": "Jack Link's Popcorn Kettle Corn",
+      "category": "Snacks",
+      "quantity": 1,
+      "price": 9.47,
+      "subtotal": 9.47
+    },
+    {
+      "product_id": "GRO-1399",
+      "name": "Vital Farms Protein Pancake Mix",
+      "category": "Breakfast",
+      "quantity": 1,
+      "price": 6.1,
+      "subtotal": 6.1
+    },
+    {
+      "product_id": "prod_756",
+      "name": "Daily Delight Gummy Bears",
+      "category": "Snacks",
+      "quantity": 1,
+      "price": 2.52,
+      "subtotal": 2.52
+    },
+    {
+      "product_id": "prod_723",
+      "name": "Home Style Trail Mix",
+      "category": "Snacks",
+      "quantity": 3,
+      "price": 8.85,
+      "subtotal": 26.55
+    },
+    {
+      "product_id": "GRO-2155",
+      "name": "Frito-Lay Pretzels Twists",
+      "category": "Snacks",
+      "quantity": 1,
+      "price": 9.29,
+      "subtotal": 9.29
+    },
+    {
+      "product_id": "GRO-1361",
+      "name": "Kettle Brand Goji Berries",
+      "category": "Snacks",
+      "quantity": 2,
+      "price": 6.73,
+      "subtotal": 13.46
+    }
+  ],
+  "total": 239.31,
+  "currency": "USD"
+}

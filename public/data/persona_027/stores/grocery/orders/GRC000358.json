@@ -1,0 +1,110 @@
+{
+  "order_id": "GRC000358",
+  "persona_id": "persona_027",
+  "store_id": "grocery",
+  "status": "delivered",
+  "created_at": "2025-11-25T21:47:31",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "items": [
+    {
+      "product_id": "prod_253",
+      "name": "Sunrise Farms Pork Chops",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 7.7,
+      "subtotal": 7.7
+    },
+    {
+      "product_id": "prod_278",
+      "name": "Golden Harvest Chicken Drumsticks",
+      "category": "Meat & Seafood",
+      "quantity": 2,
+      "price": 10.53,
+      "subtotal": 21.06
+    },
+    {
+      "product_id": "prod_287",
+      "name": "Daily Delight Tuna Steak",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 17.93,
+      "subtotal": 17.93
+    },
+    {
+      "product_id": "GRO-1848",
+      "name": "Perdue Pork Sirloin Roast",
+      "category": "Meat & Seafood",
+      "quantity": 2,
+      "price": 5.37,
+      "subtotal": 10.74
+    },
+    {
+      "product_id": "GRO-1828",
+      "name": "Perdue Flap Meat",
+      "category": "Meat & Seafood",
+      "quantity": 3,
+      "price": 33.33,
+      "subtotal": 99.99
+    },
+    {
+      "product_id": "prod_301",
+      "name": "Mountain Fresh Clams",
+      "category": "Meat & Seafood",
+      "quantity": 3,
+      "price": 27.03,
+      "subtotal": 81.09
+    },
+    {
+      "product_id": "prod_307",
+      "name": "Pure & Simple Bratwurst",
+      "category": "Meat & Seafood",
+      "quantity": 2,
+      "price": 7.26,
+      "subtotal": 14.52
+    },
+    {
+      "product_id": "GRO-1711",
+      "name": "Local Farm Sweet Potato Orange",
+      "category": "Produce",
+      "quantity": 2,
+      "price": 5.72,
+      "subtotal": 11.44
+    },
+    {
+      "product_id": "GRO-1883",
+      "name": "Butterball Crab Meat Lump",
+      "category": "Meat & Seafood",
+      "quantity": 2,
+      "price": 21.76,
+      "subtotal": 43.52
+    },
+    {
+      "product_id": "GRO-2047",
+      "name": "Birds Eye Frozen Meat Lasagna",
+      "category": "Frozen",
+      "quantity": 4,
+      "price": 4.35,
+      "subtotal": 17.4
+    },
+    {
+      "product_id": "prod_309",
+      "name": "Quality First Organic Hot Dogs",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 6.72,
+      "subtotal": 6.72
+    },
+    {
+      "product_id": "GRO-1108",
+      "name": "Bell & Evans Chicken Wings",
+      "category": "Meat & Seafood",
+      "quantity": 2,
+      "price": 45.21,
+      "subtotal": 90.42
+    }
+  ],
+  "total": 422.53,
+  "currency": "USD"
+}

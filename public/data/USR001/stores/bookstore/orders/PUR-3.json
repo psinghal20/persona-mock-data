@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-3",
+  "persona_id": "USR001",
+  "store_id": "bookstore",
+  "status": "completed",
+  "created_at": "2024-11-05T16:45:00",
+  "items": [
+    {
+      "product_id": "27",
+      "name": "The Alchemist",
+      "category": "Fiction",
+      "quantity": 1,
+      "price": 16.99,
+      "subtotal": 16.99
+    }
+  ],
+  "total": 16.99,
+  "currency": "USD"
+}

@@ -1,0 +1,38 @@
+{
+  "order_id": "ORDER-SP7DGOGP",
+  "persona_id": "persona_014",
+  "store_id": "amazon",
+  "status": "cancelled",
+  "created_at": "2026-01-24T14:28:38",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "888 Design District Ln, San Francisco, CA 94102",
+  "items": [
+    {
+      "product_id": "B0B5GK646K",
+      "name": "Tripp Lite 1500VA UPS",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 149.99,
+      "subtotal": 149.99
+    },
+    {
+      "product_id": "B0B6GI424K",
+      "name": "Fi Series 3 Smart Dog Collar",
+      "category": "Pet Supplies",
+      "quantity": 1,
+      "price": 149.0,
+      "subtotal": 149.0
+    },
+    {
+      "product_id": "B0ELEC0202",
+      "name": "Microsoft Microsoft Surface Laptop 6",
+      "category": "Electronics",
+      "quantity": 3,
+      "price": 1360.05,
+      "subtotal": 4080.15
+    }
+  ],
+  "total": 4379.14,
+  "currency": "USD"
+}

@@ -1,0 +1,376 @@
+{
+  "persona_id": "persona_009",
+  "store_id": "pet_store",
+  "store_name": "Pet Store",
+  "transaction_type": "purchases",
+  "transaction_label": "purchases",
+  "has_cost": true,
+  "summary": {
+    "total_count": 38,
+    "total_spent": 2701.51,
+    "first_date": "2025-10-07",
+    "last_date": "2026-01-27"
+  },
+  "items": [],
+  "categories": [
+    {
+      "id": "purchases",
+      "name": "Purchases",
+      "type": "purchases",
+      "label": "purchases",
+      "has_cost": true,
+      "summary": {
+        "total_count": 28,
+        "total_spent": 2317.51,
+        "first_date": "2025-10-15",
+        "last_date": "2026-01-27"
+      },
+      "items": [
+        {
+          "order_id": "PUR-87",
+          "status": "completed",
+          "total": 34.99,
+          "item_count": 1,
+          "created_at": "2026-01-27T03:24:24",
+          "item_preview": "PetArmor Plus Flea Treatment"
+        },
+        {
+          "order_id": "PUR-80",
+          "status": "completed",
+          "total": 224.97,
+          "item_count": 3,
+          "created_at": "2026-01-22T08:30:24",
+          "item_preview": "Merrick Backcountry Raw Infused"
+        },
+        {
+          "order_id": "PUR-39",
+          "status": "completed",
+          "total": 99.98,
+          "item_count": 2,
+          "created_at": "2026-01-21T23:57:33",
+          "item_preview": "Julius-K9 IDC Powerharness"
+        },
+        {
+          "order_id": "PUR-44",
+          "status": "completed",
+          "total": 17.98,
+          "item_count": 2,
+          "created_at": "2026-01-20T11:33:08",
+          "item_preview": "Safari Professional Nail Trimmer"
+        },
+        {
+          "order_id": "PUR-94",
+          "status": "completed",
+          "total": 13.98,
+          "item_count": 2,
+          "created_at": "2026-01-18T18:24:44",
+          "item_preview": "Buddy Biscuits Grain Free"
+        },
+        {
+          "order_id": "PUR-85",
+          "status": "completed",
+          "total": 29.99,
+          "item_count": 1,
+          "created_at": "2026-01-15T16:22:49",
+          "item_preview": "Nordic Naturals Omega-3 Pet"
+        },
+        {
+          "order_id": "PUR-32",
+          "status": "completed",
+          "total": 34.99,
+          "item_count": 1,
+          "created_at": "2026-01-09T19:55:24",
+          "item_preview": "Outward Hound Granby Splash Jacket"
+        },
+        {
+          "order_id": "PUR-36",
+          "status": "completed",
+          "total": 179.98,
+          "item_count": 2,
+          "created_at": "2026-01-07T06:07:29",
+          "item_preview": "K9 Sport Sack AIR 2"
+        },
+        {
+          "order_id": "PUR-92",
+          "status": "completed",
+          "total": 24.99,
+          "item_count": 1,
+          "created_at": "2026-01-01T18:57:18",
+          "item_preview": "Earth Rated Dog Poop Bags 900ct"
+        },
+        {
+          "order_id": "PUR-41",
+          "status": "completed",
+          "total": 31.98,
+          "item_count": 2,
+          "created_at": "2025-12-27T19:05:09",
+          "item_preview": "Hertzko Self-Cleaning Slicker Brush"
+        },
+        {
+          "order_id": "PUR-38",
+          "status": "completed",
+          "total": 39.98,
+          "item_count": 2,
+          "created_at": "2025-12-25T23:12:37",
+          "item_preview": "Vetoquinol Pro-Pectalin"
+        },
+        {
+          "order_id": "PUR-37",
+          "status": "completed",
+          "total": 164.97,
+          "item_count": 3,
+          "created_at": "2025-12-23T19:05:14",
+          "item_preview": "Canidae All Life Stages"
+        },
+        {
+          "order_id": "PUR-40",
+          "status": "completed",
+          "total": 99.98,
+          "item_count": 2,
+          "created_at": "2025-12-21T14:48:40",
+          "item_preview": "Julius-K9 IDC Powerharness"
+        },
+        {
+          "order_id": "PUR-93",
+          "status": "completed",
+          "total": 139.98,
+          "item_count": 2,
+          "created_at": "2025-12-20T12:36:40",
+          "item_preview": "Zignature Lamb Limited Ingredient"
+        },
+        {
+          "order_id": "PUR-35",
+          "status": "completed",
+          "total": 159.98,
+          "item_count": 2,
+          "created_at": "2025-12-14T12:59:22",
+          "item_preview": "Serta Orthopedic Quilted Couch"
+        },
+        {
+          "order_id": "PUR-43",
+          "status": "completed",
+          "total": 12.99,
+          "item_count": 1,
+          "created_at": "2025-12-10T04:42:18",
+          "item_preview": "Vet's Best Flea & Tick Spray"
+        },
+        {
+          "order_id": "PUR-81",
+          "status": "completed",
+          "total": 24.99,
+          "item_count": 1,
+          "created_at": "2025-12-08T07:28:03",
+          "item_preview": "Pedigree Complete Nutrition Adult"
+        },
+        {
+          "order_id": "PUR-82",
+          "status": "completed",
+          "total": 19.98,
+          "item_count": 2,
+          "created_at": "2025-12-02T13:51:48",
+          "item_preview": "Milk-Bone Original Biscuits"
+        },
+        {
+          "order_id": "PUR-42",
+          "status": "completed",
+          "total": 25.98,
+          "item_count": 2,
+          "created_at": "2025-11-27T14:25:25",
+          "item_preview": "Pet Naturals Calming Chews"
+        },
+        {
+          "order_id": "PUR-88",
+          "status": "completed",
+          "total": 9.99,
+          "item_count": 1,
+          "created_at": "2025-11-25T08:17:32",
+          "item_preview": "Bocce's Bakery Birthday Cake Biscuits"
+        },
+        {
+          "order_id": "PUR-34",
+          "status": "completed",
+          "total": 73.98,
+          "item_count": 2,
+          "created_at": "2025-11-23T14:15:33",
+          "item_preview": "Rachael Ray Nutrish Zero Grain"
+        },
+        {
+          "order_id": "PUR-84",
+          "status": "completed",
+          "total": 19.98,
+          "item_count": 2,
+          "created_at": "2025-11-23T13:44:41",
+          "item_preview": "Kong ZoomGroom"
+        },
+        {
+          "order_id": "PUR-33",
+          "status": "completed",
+          "total": 39.99,
+          "item_count": 1,
+          "created_at": "2025-11-15T15:49:57",
+          "item_preview": "Orvis Personalized Dog Collar"
+        },
+        {
+          "order_id": "PUR-91",
+          "status": "completed",
+          "total": 49.98,
+          "item_count": 2,
+          "created_at": "2025-11-04T19:34:08",
+          "item_preview": "IRIS Airtight Food Storage Container"
+        },
+        {
+          "order_id": "PUR-89",
+          "status": "completed",
+          "total": 399.99,
+          "item_count": 1,
+          "created_at": "2025-10-23T19:24:39",
+          "item_preview": "Invisible Fence Brand Collar"
+        },
+        {
+          "order_id": "PUR-83",
+          "status": "completed",
+          "total": 99.98,
+          "item_count": 2,
+          "created_at": "2025-10-23T19:12:23",
+          "item_preview": "Furhaven Orthopedic Dog Bed"
+        },
+        {
+          "order_id": "PUR-86",
+          "status": "completed",
+          "total": 224.97,
+          "item_count": 3,
+          "created_at": "2025-10-19T01:18:10",
+          "item_preview": "Honest Kitchen Dehydrated Dog Food"
+        },
+        {
+          "order_id": "PUR-90",
+          "status": "completed",
+          "total": 15.99,
+          "item_count": 1,
+          "created_at": "2025-10-15T01:15:33",
+          "item_preview": "Hertzko Self-Cleaning Slicker Brush"
+        }
+      ]
+    },
+    {
+      "id": "grooming",
+      "name": "Grooming Appointments",
+      "type": "grooming",
+      "label": "appointments",
+      "has_cost": true,
+      "summary": {
+        "total_count": 6,
+        "total_spent": 384.0,
+        "first_date": "2025-10-07",
+        "last_date": "2025-12-11"
+      },
+      "items": [
+        {
+          "order_id": "GRM-8",
+          "display_name": "Teeth Brushing for Duke",
+          "description": "2025-12-11 at 15:00",
+          "status": "completed",
+          "total": 12.0,
+          "item_count": 1,
+          "created_at": "2025-12-11T15:00:00"
+        },
+        {
+          "order_id": "GRM-16",
+          "display_name": "Skunk Odor Treatment for Max",
+          "description": "2025-12-10 at 9:00",
+          "status": "completed",
+          "total": 100.0,
+          "item_count": 1,
+          "created_at": "2025-12-10T9:00:00"
+        },
+        {
+          "order_id": "GRM-18",
+          "display_name": "Flea & Tick Bath for Max",
+          "description": "2025-11-19 at 10:00",
+          "status": "scheduled",
+          "total": 75.0,
+          "item_count": 1,
+          "created_at": "2025-11-19T10:00:00"
+        },
+        {
+          "order_id": "GRM-17",
+          "display_name": "Hand Stripping for Max",
+          "description": "2025-11-14 at 13:00",
+          "status": "completed",
+          "total": 120.0,
+          "item_count": 1,
+          "created_at": "2025-11-14T13:00:00"
+        },
+        {
+          "order_id": "GRM-19",
+          "display_name": "De-shedding Treatment for Max",
+          "description": "2025-10-20 at 9:00",
+          "status": "scheduled",
+          "total": 65.0,
+          "item_count": 1,
+          "created_at": "2025-10-20T9:00:00"
+        },
+        {
+          "order_id": "GRM-7",
+          "display_name": "Ear Cleaning for Duke",
+          "description": "2025-10-07 at 14:00",
+          "status": "completed",
+          "total": 12.0,
+          "item_count": 1,
+          "created_at": "2025-10-07T14:00:00"
+        }
+      ]
+    },
+    {
+      "id": "pets",
+      "name": "Pet Profiles",
+      "type": "pets",
+      "label": "pets",
+      "has_cost": false,
+      "summary": {
+        "total_count": 4,
+        "total_spent": 0,
+        "first_date": "",
+        "last_date": ""
+      },
+      "items": [
+        {
+          "order_id": "PET-SAMPLE17",
+          "display_name": "Tucker",
+          "description": "Australian Shepherd (Dogs)",
+          "status": "active",
+          "total": 0,
+          "item_count": 1,
+          "created_at": ""
+        },
+        {
+          "order_id": "PET-SAMPLE18",
+          "display_name": "Peanut",
+          "description": "Guinea Pig (Small Animals)",
+          "status": "active",
+          "total": 0,
+          "item_count": 1,
+          "created_at": ""
+        },
+        {
+          "order_id": "PET-00934",
+          "display_name": "Duke",
+          "description": "Labrador Retriever (Dogs)",
+          "status": "active",
+          "total": 0,
+          "item_count": 1,
+          "created_at": ""
+        },
+        {
+          "order_id": "PET-00901",
+          "display_name": "Max",
+          "description": "Golden Retriever (Dogs)",
+          "status": "active",
+          "total": 0,
+          "item_count": 1,
+          "created_at": ""
+        }
+      ]
+    }
+  ]
+}

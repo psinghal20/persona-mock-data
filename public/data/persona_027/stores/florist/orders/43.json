@@ -1,0 +1,24 @@
+{
+  "order_id": "43",
+  "persona_id": "persona_027",
+  "store_id": "florist",
+  "status": "scheduled",
+  "created_at": "2025-11-26T15:15:31",
+  "shipped_at": "",
+  "delivered_at": "2025-12-01",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "recipient_name": "Sister",
+  "card_message": "Just because I love you!",
+  "items": [
+    {
+      "product_id": "129",
+      "name": "Bridal Bouquet Classic",
+      "category": "Bridal",
+      "quantity": 1,
+      "price": 199.99,
+      "subtotal": 199.99
+    }
+  ],
+  "total": 199.99,
+  "currency": "USD"
+}

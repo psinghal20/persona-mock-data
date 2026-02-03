@@ -1,0 +1,22 @@
+{
+  "order_id": "TOY000057",
+  "persona_id": "persona_023",
+  "store_id": "toy_store",
+  "status": "delivered",
+  "created_at": "2025-11-23T23:12:17",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "777 East Side Ave, Cleveland, OH 44114",
+  "items": [
+    {
+      "product_id": "TOY-065",
+      "name": "Tinkertoy Super Building Set",
+      "category": "Building & Construction",
+      "quantity": 1,
+      "price": 39.99,
+      "subtotal": 39.99
+    }
+  ],
+  "total": 39.99,
+  "currency": "USD"
+}

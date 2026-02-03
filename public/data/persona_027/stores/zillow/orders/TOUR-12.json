@@ -1,0 +1,26 @@
+{
+  "order_id": "TOUR-12",
+  "persona_id": "persona_027",
+  "store_id": "zillow",
+  "type": "tour",
+  "status": "scheduled",
+  "scheduled_time": "2025-11-08T10:00:00",
+  "notes": "",
+  "items": [
+    {
+      "product_id": "1587",
+      "name": "1711 Fourth Lane",
+      "address": "1711 Fourth Lane",
+      "city": "",
+      "price": 1533.0,
+      "bedrooms": "",
+      "bathrooms": "",
+      "sqft": "",
+      "home_type": "",
+      "quantity": 1,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

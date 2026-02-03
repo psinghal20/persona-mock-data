@@ -1,0 +1,38 @@
+{
+  "order_id": "WMT-DD6W1VEQ",
+  "persona_id": "persona_010",
+  "store_id": "walmart",
+  "status": "delivered",
+  "created_at": "2025-12-29T09:12:28",
+  "shipped_at": "2025-12-31T09:12:28",
+  "delivered_at": "2026-01-03T09:12:28",
+  "shipping_address": "321 French Quarter Ave, New Orleans, LA 70116",
+  "items": [
+    {
+      "product_id": "WMT00003029",
+      "name": "Breville Die-Cast 4-Slice Smart Toaster",
+      "category": "Home Appliances",
+      "quantity": 3,
+      "price": 177.11,
+      "subtotal": 531.33
+    },
+    {
+      "product_id": "WMT00000611",
+      "name": "House Foods Orange Blossom Water",
+      "category": "Grocery",
+      "quantity": 3,
+      "price": 3.97,
+      "subtotal": 11.91
+    },
+    {
+      "product_id": "WMT00001521",
+      "name": "Necoichi Necoichi Raised Cat Food Bowl",
+      "category": "Pets",
+      "quantity": 3,
+      "price": 15.21,
+      "subtotal": 45.63
+    }
+  ],
+  "total": 588.87,
+  "currency": "USD"
+}

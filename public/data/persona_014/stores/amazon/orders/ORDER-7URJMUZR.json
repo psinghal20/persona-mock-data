@@ -1,0 +1,30 @@
+{
+  "order_id": "ORDER-7URJMUZR",
+  "persona_id": "persona_014",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-12-03T09:14:01",
+  "shipped_at": "2025-12-04T09:14:01",
+  "delivered_at": "2025-12-09T09:14:01",
+  "shipping_address": "888 Design District Ln, San Francisco, CA 94102",
+  "items": [
+    {
+      "product_id": "B0B6GL213L",
+      "name": "Cuisinart TOA-70 Air Fryer Toaster Oven",
+      "category": "Home & Kitchen",
+      "quantity": 2,
+      "price": 229.99,
+      "subtotal": 459.98
+    },
+    {
+      "product_id": "B0AMZN1825",
+      "name": "DJI Osmo Pocket 3",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 519.0,
+      "subtotal": 519.0
+    }
+  ],
+  "total": 978.98,
+  "currency": "USD"
+}

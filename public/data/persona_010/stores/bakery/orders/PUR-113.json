@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-113",
+  "persona_id": "persona_010",
+  "store_id": "bakery",
+  "status": "completed",
+  "created_at": "2025-11-05T06:03:29",
+  "items": [
+    {
+      "product_id": "102",
+      "name": "Bear Claw",
+      "category": "Pastries",
+      "quantity": 3,
+      "price": 3.99,
+      "subtotal": 11.97
+    }
+  ],
+  "total": 11.97,
+  "currency": "USD"
+}

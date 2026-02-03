@@ -1,0 +1,22 @@
+{
+  "order_id": "ORDER-D69W1JMT",
+  "persona_id": "persona_009",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-10-13T14:43:51",
+  "shipped_at": "2025-10-16T14:43:51",
+  "delivered_at": "2025-10-21T14:43:51",
+  "shipping_address": "789 Veterans Blvd, Tampa, FL 33602",
+  "items": [
+    {
+      "product_id": "B0BOOK0217",
+      "name": "1491 by Charles C. Mann",
+      "category": "Books",
+      "quantity": 1,
+      "price": 16.26,
+      "subtotal": 16.26
+    }
+  ],
+  "total": 16.26,
+  "currency": "USD"
+}

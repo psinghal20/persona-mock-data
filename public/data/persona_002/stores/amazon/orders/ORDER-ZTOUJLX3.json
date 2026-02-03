@@ -1,0 +1,30 @@
+{
+  "order_id": "ORDER-ZTOUJLX3",
+  "persona_id": "persona_002",
+  "store_id": "amazon",
+  "status": "cancelled",
+  "created_at": "2025-12-02T16:53:25",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "456 Tech Park Drive, San Jose, CA 95110",
+  "items": [
+    {
+      "product_id": "B0PCPT0125",
+      "name": "WD Black SN770M SSD",
+      "category": "Electronics",
+      "quantity": 3,
+      "price": 105.73,
+      "subtotal": 317.19
+    },
+    {
+      "product_id": "B0AMZN1781",
+      "name": "Logitech MX Ergo Trackball",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 99.99,
+      "subtotal": 99.99
+    }
+  ],
+  "total": 417.18,
+  "currency": "USD"
+}

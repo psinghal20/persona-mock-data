@@ -1,0 +1,30 @@
+{
+  "order_id": "WMT-KSB0LQY2",
+  "persona_id": "persona_023",
+  "store_id": "walmart",
+  "status": "delivered",
+  "created_at": "2025-11-08T21:06:12",
+  "shipped_at": "2025-11-10T21:06:12",
+  "delivered_at": "2025-11-15T21:06:12",
+  "shipping_address": "777 East Side Ave, Cleveland, OH 44114",
+  "items": [
+    {
+      "product_id": "WMT00001056",
+      "name": "Vizio Vizio 75\" M-Series Quantum",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 641.48,
+      "subtotal": 641.48
+    },
+    {
+      "product_id": "WMT00000923",
+      "name": "Sony Sony 75\" Bravia XR 4K Smart TV",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 2041.49,
+      "subtotal": 2041.49
+    }
+  ],
+  "total": 2682.97,
+  "currency": "USD"
+}

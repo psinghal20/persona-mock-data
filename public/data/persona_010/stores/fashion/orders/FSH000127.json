@@ -1,0 +1,22 @@
+{
+  "order_id": "FSH000127",
+  "persona_id": "persona_010",
+  "store_id": "fashion",
+  "status": "delivered",
+  "created_at": "2025-11-02T07:27:17",
+  "shipped_at": "2025-11-04T07:27:17",
+  "delivered_at": "2025-11-07T07:27:17",
+  "shipping_address": "321 French Quarter Ave, New Orleans, LA 70116",
+  "items": [
+    {
+      "product_id": "prod_269",
+      "name": "Urban Thread Polyester Bodycon Dress",
+      "category": "Dresses",
+      "quantity": 1,
+      "price": 69.73,
+      "subtotal": 69.73
+    }
+  ],
+  "total": 69.73,
+  "currency": "USD"
+}

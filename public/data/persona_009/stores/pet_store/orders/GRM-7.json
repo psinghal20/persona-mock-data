@@ -1,0 +1,25 @@
+{
+  "order_id": "GRM-7",
+  "persona_id": "persona_009",
+  "store_id": "pet_store",
+  "type": "grooming",
+  "status": "completed",
+  "appointment_date": "2025-10-07",
+  "appointment_time": "14:00",
+  "items": [
+    {
+      "product_id": "GRM009",
+      "name": "Ear Cleaning",
+      "description": "Gentle ear cleaning and inspection",
+      "pet_name": "Duke",
+      "pet_type": "Dogs",
+      "pet_breed": "Labrador Retriever",
+      "duration_minutes": "15",
+      "quantity": 1,
+      "price": 12.0,
+      "subtotal": 12.0
+    }
+  ],
+  "total": 12.0,
+  "currency": "USD"
+}

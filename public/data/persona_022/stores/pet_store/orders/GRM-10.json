@@ -1,0 +1,25 @@
+{
+  "order_id": "GRM-10",
+  "persona_id": "persona_022",
+  "store_id": "pet_store",
+  "type": "grooming",
+  "status": "scheduled",
+  "appointment_date": "2026-01-09",
+  "appointment_time": "9:00",
+  "items": [
+    {
+      "product_id": "GRM037",
+      "name": "Mat Removal",
+      "description": "Careful removal of mats and tangles per 15 min",
+      "pet_name": "Mittens",
+      "pet_type": "Cats",
+      "pet_breed": "Domestic Shorthair",
+      "duration_minutes": "30",
+      "quantity": 1,
+      "price": 35.0,
+      "subtotal": 35.0
+    }
+  ],
+  "total": 35.0,
+  "currency": "USD"
+}

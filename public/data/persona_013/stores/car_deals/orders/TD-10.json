@@ -1,0 +1,19 @@
+{
+  "order_id": "TD-10",
+  "persona_id": "persona_013",
+  "store_id": "car_deals",
+  "type": "test_drive",
+  "status": "pending",
+  "scheduled_time": "2025-12-11T14:34:43",
+  "items": [
+    {
+      "product_id": "CAR849",
+      "name": "CR-V",
+      "quantity": 1,
+      "price": 21500.0,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

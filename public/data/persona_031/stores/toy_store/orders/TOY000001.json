@@ -1,0 +1,30 @@
+{
+  "order_id": "TOY000001",
+  "persona_id": "persona_031",
+  "store_id": "toy_store",
+  "status": "cancelled",
+  "created_at": "2025-12-28T10:14:57",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "999 Suburban Lane, Phoenix, AZ 85001",
+  "items": [
+    {
+      "product_id": "TOY-126",
+      "name": "Cards Against Humanity Family",
+      "category": "Games & Puzzles",
+      "quantity": 2,
+      "price": 24.99,
+      "subtotal": 49.98
+    },
+    {
+      "product_id": "TOY-391",
+      "name": "Crayola Washable Paint Set",
+      "category": "Arts & Crafts",
+      "quantity": 2,
+      "price": 14.99,
+      "subtotal": 29.98
+    }
+  ],
+  "total": 79.96,
+  "currency": "USD"
+}

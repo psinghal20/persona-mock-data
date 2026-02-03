@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-12",
+  "persona_id": "persona_022",
+  "store_id": "pet_store",
+  "status": "completed",
+  "created_at": "2026-01-15T14:21:03",
+  "items": [
+    {
+      "product_id": "CAT075",
+      "name": "Catit Pixi Smart Feeder",
+      "category": "Accessories",
+      "quantity": 3,
+      "price": 129.99,
+      "subtotal": 389.97
+    }
+  ],
+  "total": 389.97,
+  "currency": "USD"
+}

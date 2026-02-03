@@ -1,0 +1,24 @@
+{
+  "order_id": "56",
+  "persona_id": "persona_022",
+  "store_id": "florist",
+  "status": "delivered",
+  "created_at": "2025-10-03T02:40:39",
+  "shipped_at": "",
+  "delivered_at": "2025-10-09",
+  "shipping_address": "444 Polish Hill St, Philadelphia, PA 19123",
+  "recipient_name": "Wife",
+  "card_message": "Thank you!",
+  "items": [
+    {
+      "product_id": "80",
+      "name": "Garden Party Centerpiece",
+      "category": "Centerpieces",
+      "quantity": 1,
+      "price": 79.99,
+      "subtotal": 79.99
+    }
+  ],
+  "total": 79.99,
+  "currency": "USD"
+}

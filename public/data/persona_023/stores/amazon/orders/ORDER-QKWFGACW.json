@@ -1,0 +1,38 @@
+{
+  "order_id": "ORDER-QKWFGACW",
+  "persona_id": "persona_023",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2026-01-11T11:55:36",
+  "shipped_at": "2026-01-12T11:55:36",
+  "delivered_at": "2026-01-17T11:55:36",
+  "shipping_address": "777 East Side Ave, Cleveland, OH 44114",
+  "items": [
+    {
+      "product_id": "B0AMZN1780",
+      "name": "Kensington Expert Mouse Trackball",
+      "category": "Electronics",
+      "quantity": 3,
+      "price": 99.99,
+      "subtotal": 299.97
+    },
+    {
+      "product_id": "B0PCPT0077",
+      "name": "Corsair Dominator Platinum RGB DDR5 Memory",
+      "category": "Electronics",
+      "quantity": 3,
+      "price": 205.78,
+      "subtotal": 617.34
+    },
+    {
+      "product_id": "B0AMZN1806",
+      "name": "Razer Gigantus V2",
+      "category": "Electronics",
+      "quantity": 3,
+      "price": 24.99,
+      "subtotal": 74.97
+    }
+  ],
+  "total": 992.28,
+  "currency": "USD"
+}

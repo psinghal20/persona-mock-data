@@ -1,0 +1,22 @@
+{
+  "order_id": "ORDER-OPLZYCFQ",
+  "persona_id": "persona_009",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-11-06T11:36:28",
+  "shipped_at": "2025-11-08T11:36:28",
+  "delivered_at": "2025-11-13T11:36:28",
+  "shipping_address": "789 Veterans Blvd, Tampa, FL 33602",
+  "items": [
+    {
+      "product_id": "B0TOYS0225",
+      "name": "Hasbro Transformers Optimus Prime",
+      "category": "Toys & Games",
+      "quantity": 1,
+      "price": 53.73,
+      "subtotal": 53.73
+    }
+  ],
+  "total": 53.73,
+  "currency": "USD"
+}

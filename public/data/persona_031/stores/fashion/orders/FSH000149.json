@@ -1,0 +1,30 @@
+{
+  "order_id": "FSH000149",
+  "persona_id": "persona_031",
+  "store_id": "fashion",
+  "status": "delivered",
+  "created_at": "2025-12-30T08:16:22",
+  "shipped_at": "2025-12-31T08:16:22",
+  "delivered_at": "2026-01-02T08:16:22",
+  "shipping_address": "999 Suburban Lane, Phoenix, AZ 85001",
+  "items": [
+    {
+      "product_id": "prod_148",
+      "name": "Pine & Oak Cashmere Shorts",
+      "category": "Bottoms",
+      "quantity": 1,
+      "price": 37.47,
+      "subtotal": 37.47
+    },
+    {
+      "product_id": "prod_009",
+      "name": "Chino Shorts",
+      "category": "Bottoms",
+      "quantity": 1,
+      "price": 44.99,
+      "subtotal": 44.99
+    }
+  ],
+  "total": 82.46,
+  "currency": "USD"
+}

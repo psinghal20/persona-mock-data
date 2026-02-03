@@ -1,0 +1,22 @@
+{
+  "order_id": "ORD-20251215-PF0042",
+  "persona_id": "persona_010",
+  "store_id": "perfume_shop",
+  "status": "delivered",
+  "created_at": "2025-12-02T03:37:13",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "321 French Quarter Ave, New Orleans, LA 70116",
+  "items": [
+    {
+      "product_id": "PF052",
+      "name": "Santal 33",
+      "category": "unisex",
+      "quantity": 1,
+      "price": 295.0,
+      "subtotal": 295.0
+    }
+  ],
+  "total": 295.0,
+  "currency": "USD"
+}

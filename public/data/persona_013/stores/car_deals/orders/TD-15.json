@@ -1,0 +1,19 @@
+{
+  "order_id": "TD-15",
+  "persona_id": "persona_013",
+  "store_id": "car_deals",
+  "type": "test_drive",
+  "status": "confirmed",
+  "scheduled_time": "2025-11-07T15:40:36",
+  "items": [
+    {
+      "product_id": "CAR460",
+      "name": "Telluride",
+      "quantity": 1,
+      "price": 48500.0,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

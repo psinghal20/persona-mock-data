@@ -1,0 +1,22 @@
+{
+  "order_id": "ORD-IHYM1DUW",
+  "persona_id": "persona_002",
+  "store_id": "pc_parts",
+  "status": "delivered",
+  "created_at": "2025-10-01T21:05:03",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "456 Tech Park Drive, San Jose, CA 95110",
+  "items": [
+    {
+      "product_id": "SSD089",
+      "name": "870 QVO",
+      "category": "ssds",
+      "quantity": 1,
+      "price": 269.99,
+      "subtotal": 269.99
+    }
+  ],
+  "total": 269.99,
+  "currency": "USD"
+}

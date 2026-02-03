@@ -1,0 +1,30 @@
+{
+  "order_id": "SPG000022",
+  "persona_id": "persona_009",
+  "store_id": "sporting_goods",
+  "status": "delivered",
+  "created_at": "2025-10-27T12:28:09",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "789 Veterans Blvd, Tampa, FL 33602",
+  "items": [
+    {
+      "product_id": "GLF015",
+      "name": "Velocity Golf Balls",
+      "category": "Balls",
+      "quantity": 2,
+      "price": 34.99,
+      "subtotal": 69.98
+    },
+    {
+      "product_id": "CMP040",
+      "name": "Petzl Actik Core Headlamp",
+      "category": "Equipment",
+      "quantity": 2,
+      "price": 79.99,
+      "subtotal": 159.98
+    }
+  ],
+  "total": 229.96,
+  "currency": "USD"
+}

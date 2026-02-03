@@ -1,0 +1,30 @@
+{
+  "order_id": "WMT-BVHMY8X8",
+  "persona_id": "persona_027",
+  "store_id": "walmart",
+  "status": "delivered",
+  "created_at": "2025-12-11T20:59:31",
+  "shipped_at": "2025-12-14T20:59:31",
+  "delivered_at": "2025-12-19T20:59:31",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "items": [
+    {
+      "product_id": "WMT00002029",
+      "name": "Yonex Yonex Feather Shuttles",
+      "category": "Sports",
+      "quantity": 1,
+      "price": 32.87,
+      "subtotal": 32.87
+    },
+    {
+      "product_id": "WMT00000971",
+      "name": "Apple Apple HomePod mini",
+      "category": "Electronics",
+      "quantity": 2,
+      "price": 103.39,
+      "subtotal": 206.78
+    }
+  ],
+  "total": 239.65,
+  "currency": "USD"
+}

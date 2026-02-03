@@ -1,0 +1,24 @@
+{
+  "order_id": "PET-03133",
+  "persona_id": "persona_031",
+  "store_id": "pet_store",
+  "type": "pet_profile",
+  "status": "active",
+  "items": [
+    {
+      "product_id": "PET-03133",
+      "name": "Goldie",
+      "pet_type": "Fish",
+      "breed": "Goldfish",
+      "age_years": "1",
+      "weight_lbs": "0.1",
+      "dietary_restrictions": "",
+      "notes": "Beloved pet of Jennifer Martinez",
+      "quantity": 1,
+      "price": 0,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

@@ -1,0 +1,30 @@
+{
+  "order_id": "ORDER-KDL0R9U8",
+  "persona_id": "persona_022",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-12-19T13:33:47",
+  "shipped_at": "2025-12-21T13:33:47",
+  "delivered_at": "2025-12-25T13:33:47",
+  "shipping_address": "444 Polish Hill St, Philadelphia, PA 19123",
+  "items": [
+    {
+      "product_id": "B0PETS0177",
+      "name": "JW Pet JW Pet GripSoft Cat Brush",
+      "category": "Pet Supplies",
+      "quantity": 2,
+      "price": 10.74,
+      "subtotal": 21.48
+    },
+    {
+      "product_id": "B0C8GI324K",
+      "name": "Friskies Wet Cat Food (60 pouches)",
+      "category": "Pet Supplies",
+      "quantity": 1,
+      "price": 24.99,
+      "subtotal": 24.99
+    }
+  ],
+  "total": 46.47,
+  "currency": "USD"
+}

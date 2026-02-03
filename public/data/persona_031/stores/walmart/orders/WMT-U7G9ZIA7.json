@@ -1,0 +1,54 @@
+{
+  "order_id": "WMT-U7G9ZIA7",
+  "persona_id": "persona_031",
+  "store_id": "walmart",
+  "status": "delivered",
+  "created_at": "2025-12-04T04:38:11",
+  "shipped_at": "2025-12-05T04:38:11",
+  "delivered_at": "2025-12-09T04:38:11",
+  "shipping_address": "999 Suburban Lane, Phoenix, AZ 85001",
+  "items": [
+    {
+      "product_id": "WMT00001277",
+      "name": "VTech VTech Kidi Star Karaoke",
+      "category": "Toys",
+      "quantity": 1,
+      "price": 44.82,
+      "subtotal": 44.82
+    },
+    {
+      "product_id": "WMT00000332",
+      "name": "Home Style Cumin",
+      "category": "Grocery",
+      "quantity": 1,
+      "price": 4.3,
+      "subtotal": 4.3
+    },
+    {
+      "product_id": "WMT00000907",
+      "name": "Sara Lee Oatmeal Old Fashioned",
+      "category": "Grocery",
+      "quantity": 1,
+      "price": 3.6,
+      "subtotal": 3.6
+    },
+    {
+      "product_id": "WMT00003079",
+      "name": "LG Dual Inverter Window Air Conditioner",
+      "category": "Home Appliances",
+      "quantity": 1,
+      "price": 574.63,
+      "subtotal": 574.63
+    },
+    {
+      "product_id": "WMT00000317",
+      "name": "Home Style Organic Waffle Mix",
+      "category": "Grocery",
+      "quantity": 3,
+      "price": 5.09,
+      "subtotal": 15.27
+    }
+  ],
+  "total": 642.62,
+  "currency": "USD"
+}

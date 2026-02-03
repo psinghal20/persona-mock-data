@@ -1,0 +1,30 @@
+{
+  "order_id": "WMT-J644SC6X",
+  "persona_id": "persona_010",
+  "store_id": "walmart",
+  "status": "delivered",
+  "created_at": "2025-11-19T07:47:03",
+  "shipped_at": "2025-11-22T07:47:03",
+  "delivered_at": "2025-11-25T07:47:03",
+  "shipping_address": "321 French Quarter Ave, New Orleans, LA 70116",
+  "items": [
+    {
+      "product_id": "WMT00000045",
+      "name": "Heritage Foods Garlic",
+      "category": "Grocery",
+      "quantity": 3,
+      "price": 0.77,
+      "subtotal": 2.31
+    },
+    {
+      "product_id": "WMT00001626",
+      "name": "Vitakraft Vitakraft Sunseed Vita Prima",
+      "category": "Pets",
+      "quantity": 4,
+      "price": 17.8,
+      "subtotal": 71.2
+    }
+  ],
+  "total": 73.51,
+  "currency": "USD"
+}

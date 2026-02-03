@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-77",
+  "persona_id": "persona_027",
+  "store_id": "coffee_roaster",
+  "status": "completed",
+  "created_at": "2025-12-07T23:56:08",
+  "items": [
+    {
+      "product_id": "13",
+      "name": "Dark Roast Reserve",
+      "category": "",
+      "quantity": 1,
+      "price": 27.0,
+      "subtotal": 27.0
+    }
+  ],
+  "total": 27.0,
+  "currency": "USD"
+}

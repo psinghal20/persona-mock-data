@@ -1,0 +1,22 @@
+{
+  "order_id": "SPG000090",
+  "persona_id": "persona_016",
+  "store_id": "sporting_goods",
+  "status": "delivered",
+  "created_at": "2025-11-12T06:13:26",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "222 Tech Campus Way, Austin, TX 78701",
+  "items": [
+    {
+      "product_id": "SOC003",
+      "name": "Future Ultimate FG",
+      "category": "Cleats",
+      "quantity": 1,
+      "price": 219.99,
+      "subtotal": 219.99
+    }
+  ],
+  "total": 219.99,
+  "currency": "USD"
+}

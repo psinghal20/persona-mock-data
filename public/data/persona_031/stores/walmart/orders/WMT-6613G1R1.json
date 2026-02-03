@@ -1,0 +1,30 @@
+{
+  "order_id": "WMT-6613G1R1",
+  "persona_id": "persona_031",
+  "store_id": "walmart",
+  "status": "delivered",
+  "created_at": "2026-01-13T23:37:36",
+  "shipped_at": "2026-01-15T23:37:36",
+  "delivered_at": "2026-01-17T23:37:36",
+  "shipping_address": "999 Suburban Lane, Phoenix, AZ 85001",
+  "items": [
+    {
+      "product_id": "WMT00001506",
+      "name": "Petlinks Petlinks Mystery Motion Toy",
+      "category": "Pets",
+      "quantity": 1,
+      "price": 25.83,
+      "subtotal": 25.83
+    },
+    {
+      "product_id": "WMT00001212",
+      "name": "Epoch Calico Critters Family Set",
+      "category": "Toys",
+      "quantity": 1,
+      "price": 24.0,
+      "subtotal": 24.0
+    }
+  ],
+  "total": 49.83,
+  "currency": "USD"
+}

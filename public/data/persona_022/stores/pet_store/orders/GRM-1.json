@@ -1,0 +1,25 @@
+{
+  "order_id": "GRM-1",
+  "persona_id": "persona_022",
+  "store_id": "pet_store",
+  "type": "grooming",
+  "status": "scheduled",
+  "appointment_date": "2025-11-23",
+  "appointment_time": "13:00",
+  "items": [
+    {
+      "product_id": "GRM018",
+      "name": "Lion Cut",
+      "description": "Full body shave leaving fur on head tail tip and paws",
+      "pet_name": "Whiskers",
+      "pet_type": "Cats",
+      "pet_breed": "Maine Coon",
+      "duration_minutes": "120",
+      "quantity": 1,
+      "price": 90.0,
+      "subtotal": 90.0
+    }
+  ],
+  "total": 90.0,
+  "currency": "USD"
+}

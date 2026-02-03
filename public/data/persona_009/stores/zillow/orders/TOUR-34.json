@@ -1,0 +1,26 @@
+{
+  "order_id": "TOUR-34",
+  "persona_id": "persona_009",
+  "store_id": "zillow",
+  "type": "tour",
+  "status": "scheduled",
+  "scheduled_time": "2026-01-23T15:00:00",
+  "notes": "Looking at kitchen updates",
+  "items": [
+    {
+      "product_id": "69",
+      "name": "234 Lake Oswego Waterfront",
+      "address": "234 Lake Oswego Waterfront",
+      "city": "",
+      "price": 1950000.0,
+      "bedrooms": "",
+      "bathrooms": "",
+      "sqft": "",
+      "home_type": "",
+      "quantity": 1,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

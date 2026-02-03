@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-156",
+  "persona_id": "persona_022",
+  "store_id": "bakery",
+  "status": "completed",
+  "created_at": "2025-11-07T00:55:00",
+  "items": [
+    {
+      "product_id": "126",
+      "name": "Hawaiian Sweet Rolls (6 pack)",
+      "category": "Bread",
+      "quantity": 1,
+      "price": 5.99,
+      "subtotal": 5.99
+    }
+  ],
+  "total": 5.99,
+  "currency": "USD"
+}

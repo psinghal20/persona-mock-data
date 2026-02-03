@@ -1,0 +1,30 @@
+{
+  "order_id": "SPH000062",
+  "persona_id": "persona_031",
+  "store_id": "sephora",
+  "status": "cancelled",
+  "created_at": "2025-12-29T17:32:44",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "999 Suburban Lane, Phoenix, AZ 85001",
+  "items": [
+    {
+      "product_id": "SPH0502",
+      "name": "Mineral Sunscreen",
+      "category": "Skincare",
+      "quantity": 1,
+      "price": 33.82,
+      "subtotal": 33.82
+    },
+    {
+      "product_id": "SPH0240",
+      "name": "Clay Mask",
+      "category": "Skincare",
+      "quantity": 1,
+      "price": 67.77,
+      "subtotal": 67.77
+    }
+  ],
+  "total": 101.59,
+  "currency": "USD"
+}

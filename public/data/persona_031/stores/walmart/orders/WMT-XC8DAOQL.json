@@ -1,0 +1,46 @@
+{
+  "order_id": "WMT-XC8DAOQL",
+  "persona_id": "persona_031",
+  "store_id": "walmart",
+  "status": "pending",
+  "created_at": "2025-10-29T13:38:57",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "999 Suburban Lane, Phoenix, AZ 85001",
+  "items": [
+    {
+      "product_id": "WMT00001353",
+      "name": "Spin Master Orbeez Spa Set",
+      "category": "Toys",
+      "quantity": 3,
+      "price": 22.82,
+      "subtotal": 68.46
+    },
+    {
+      "product_id": "WMT00000337",
+      "name": "Home Style Basil Dried",
+      "category": "Grocery",
+      "quantity": 2,
+      "price": 4.12,
+      "subtotal": 8.24
+    },
+    {
+      "product_id": "WMT00001354",
+      "name": "Relevant Play Mad Mattr Sensory Dough",
+      "category": "Toys",
+      "quantity": 3,
+      "price": 14.21,
+      "subtotal": 42.63
+    },
+    {
+      "product_id": "WMT00000349",
+      "name": "Home Style Italian Dressing",
+      "category": "Grocery",
+      "quantity": 2,
+      "price": 3.41,
+      "subtotal": 6.82
+    }
+  ],
+  "total": 126.15,
+  "currency": "USD"
+}

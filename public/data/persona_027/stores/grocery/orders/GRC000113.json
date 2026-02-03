@@ -1,0 +1,110 @@
+{
+  "order_id": "GRC000113",
+  "persona_id": "persona_027",
+  "store_id": "grocery",
+  "status": "delivered",
+  "created_at": "2026-01-24T18:28:13",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "items": [
+    {
+      "product_id": "prod_252",
+      "name": "Country Best Pork Chops",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 7.3,
+      "subtotal": 7.3
+    },
+    {
+      "product_id": "prod_576",
+      "name": "Simply Good Frozen Meatballs",
+      "category": "Frozen",
+      "quantity": 3,
+      "price": 8.93,
+      "subtotal": 26.79
+    },
+    {
+      "product_id": "GRO-1713",
+      "name": "Del Monte White Sweet Potato",
+      "category": "Produce",
+      "quantity": 1,
+      "price": 2.05,
+      "subtotal": 2.05
+    },
+    {
+      "product_id": "prod_237",
+      "name": "Heritage Foods Filet Mignon",
+      "category": "Meat & Seafood",
+      "quantity": 5,
+      "price": 84.19,
+      "subtotal": 420.95
+    },
+    {
+      "product_id": "prod_262",
+      "name": "Home Style Pork Ribs",
+      "category": "Meat & Seafood",
+      "quantity": 2,
+      "price": 8.68,
+      "subtotal": 17.36
+    },
+    {
+      "product_id": "prod_254",
+      "name": "Nature's Best Pork Tenderloin",
+      "category": "Meat & Seafood",
+      "quantity": 5,
+      "price": 26.27,
+      "subtotal": 131.35
+    },
+    {
+      "product_id": "GRO-1130",
+      "name": "Snake River Farms Prosciutto di Parma",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 30.57,
+      "subtotal": 30.57
+    },
+    {
+      "product_id": "GRO-1129",
+      "name": "Snake River Farms Crawfish",
+      "category": "Meat & Seafood",
+      "quantity": 3,
+      "price": 59.83,
+      "subtotal": 179.49
+    },
+    {
+      "product_id": "GRO-1728",
+      "name": "Del Monte Coconut Meat",
+      "category": "Produce",
+      "quantity": 4,
+      "price": 3.92,
+      "subtotal": 15.68
+    },
+    {
+      "product_id": "GRO-1131",
+      "name": "Bell & Evans Serrano Ham",
+      "category": "Meat & Seafood",
+      "quantity": 2,
+      "price": 41.89,
+      "subtotal": 83.78
+    },
+    {
+      "product_id": "prod_009",
+      "name": "Chicken Breast",
+      "category": "Meat & Seafood",
+      "quantity": 2,
+      "price": 23.99,
+      "subtotal": 47.98
+    },
+    {
+      "product_id": "prod_304",
+      "name": "Home Style Italian Sausage",
+      "category": "Meat & Seafood",
+      "quantity": 3,
+      "price": 17.17,
+      "subtotal": 51.51
+    }
+  ],
+  "total": 1014.81,
+  "currency": "USD"
+}

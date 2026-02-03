@@ -1,0 +1,23 @@
+{
+  "order_id": "BK00000014",
+  "persona_id": "persona_016",
+  "store_id": "movie_theater",
+  "type": "booking",
+  "status": "confirmed",
+  "created_at": "2025-12-31T17:09:52",
+  "confirmation_code": "AMC-4IK7Q3",
+  "items": [
+    {
+      "product_id": "MOV075",
+      "name": "Here",
+      "showtime": "",
+      "theater": "",
+      "seats": "L1,L2",
+      "quantity": 2,
+      "price": 23.99,
+      "subtotal": 47.98
+    }
+  ],
+  "total": 47.98,
+  "currency": "USD"
+}

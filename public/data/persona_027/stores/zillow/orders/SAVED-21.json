@@ -1,0 +1,26 @@
+{
+  "order_id": "SAVED-21",
+  "persona_id": "persona_027",
+  "store_id": "zillow",
+  "type": "saved_property",
+  "status": "saved",
+  "created_at": "2025-11-28T16:10:48",
+  "notes": "Good price",
+  "items": [
+    {
+      "product_id": "5731",
+      "name": "6396 First Avenue",
+      "address": "6396 First Avenue",
+      "city": "",
+      "price": 2594905.0,
+      "bedrooms": "",
+      "bathrooms": "",
+      "sqft": "",
+      "home_type": "",
+      "quantity": 1,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

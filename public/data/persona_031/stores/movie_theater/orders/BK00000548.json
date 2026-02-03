@@ -1,0 +1,23 @@
+{
+  "order_id": "BK00000548",
+  "persona_id": "persona_031",
+  "store_id": "movie_theater",
+  "type": "booking",
+  "status": "cancelled",
+  "created_at": "2026-01-24T16:15:06",
+  "confirmation_code": "AMC-5LLBLI",
+  "items": [
+    {
+      "product_id": "MOV066",
+      "name": "Harold and the Purple Crayon",
+      "showtime": "",
+      "theater": "",
+      "seats": "J4,J5,J6,J7",
+      "quantity": 4,
+      "price": 26.99,
+      "subtotal": 107.96
+    }
+  ],
+  "total": 107.96,
+  "currency": "USD"
+}

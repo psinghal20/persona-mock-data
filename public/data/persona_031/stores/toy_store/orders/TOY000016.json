@@ -1,0 +1,38 @@
+{
+  "order_id": "TOY000016",
+  "persona_id": "persona_031",
+  "store_id": "toy_store",
+  "status": "delivered",
+  "created_at": "2025-12-08T17:05:19",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "999 Suburban Lane, Phoenix, AZ 85001",
+  "items": [
+    {
+      "product_id": "TOY-167",
+      "name": "Pogo Stick",
+      "category": "Outdoor Play",
+      "quantity": 2,
+      "price": 39.99,
+      "subtotal": 79.98
+    },
+    {
+      "product_id": "TOY-415",
+      "name": "Educational Insights GeoSafari Jr",
+      "category": "Science & Discovery",
+      "quantity": 2,
+      "price": 29.99,
+      "subtotal": 59.98
+    },
+    {
+      "product_id": "TOY-448",
+      "name": "Splendor Board Game",
+      "category": "Games & Puzzles",
+      "quantity": 1,
+      "price": 39.99,
+      "subtotal": 39.99
+    }
+  ],
+  "total": 179.95,
+  "currency": "USD"
+}

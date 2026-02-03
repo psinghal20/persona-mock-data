@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-196",
+  "persona_id": "persona_027",
+  "store_id": "bakery",
+  "status": "completed",
+  "created_at": "2025-12-09T22:26:48",
+  "items": [
+    {
+      "product_id": "53",
+      "name": "Challah",
+      "category": "Bread",
+      "quantity": 4,
+      "price": 7.99,
+      "subtotal": 31.96
+    }
+  ],
+  "total": 31.96,
+  "currency": "USD"
+}

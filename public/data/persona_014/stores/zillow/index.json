@@ -1,0 +1,560 @@
+{
+  "persona_id": "persona_014",
+  "store_id": "zillow",
+  "store_name": "Zillow",
+  "transaction_type": "tours",
+  "transaction_label": "tours",
+  "has_cost": false,
+  "summary": {
+    "total_count": 57,
+    "total_spent": 0,
+    "first_date": "2025-10-07",
+    "last_date": "2026-01-24"
+  },
+  "items": [],
+  "categories": [
+    {
+      "id": "tours",
+      "name": "Scheduled Tours",
+      "type": "tours",
+      "label": "tours",
+      "has_cost": false,
+      "summary": {
+        "total_count": 12,
+        "total_spent": 0,
+        "first_date": "2025-10-17",
+        "last_date": "2026-01-07"
+      },
+      "items": [
+        {
+          "order_id": "TOUR-47",
+          "display_name": "4887 Park Drive",
+          "description": "$853,564",
+          "status": "cancelled",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2026-01-07T10:00:00"
+        },
+        {
+          "order_id": "TOUR-17",
+          "display_name": "2399 Sunset Road Unit 3369",
+          "description": "$433,001",
+          "status": "cancelled",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2026-01-06T10:00:00"
+        },
+        {
+          "order_id": "TOUR-20",
+          "display_name": "1283 Highland Way Unit 1128",
+          "description": "$359,676",
+          "status": "completed",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-12-16T9:00:00"
+        },
+        {
+          "order_id": "TOUR-21",
+          "display_name": "2993 Main Drive Unit 182",
+          "description": "$1,230,168",
+          "status": "completed",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-12-14T14:00:00"
+        },
+        {
+          "order_id": "TOUR-22",
+          "display_name": "3197 Elm Road Unit 3853",
+          "description": "$1,255,992",
+          "status": "scheduled",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-12-11T13:00:00"
+        },
+        {
+          "order_id": "TOUR-23",
+          "display_name": "6007 Cypress Way Unit 102",
+          "description": "$313,370",
+          "status": "cancelled",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-12-07T16:00:00"
+        },
+        {
+          "order_id": "TOUR-16",
+          "display_name": "4811 Cedar Court Unit 2290",
+          "description": "$1,474,408",
+          "status": "scheduled",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-11-22T13:00:00"
+        },
+        {
+          "order_id": "TOUR-24",
+          "display_name": "5798 Jackson Way",
+          "description": "$318,244",
+          "status": "completed",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-10-28T13:00:00"
+        },
+        {
+          "order_id": "TOUR-48",
+          "display_name": "4627 Highland Circle Unit 1352",
+          "description": "$612,364",
+          "status": "cancelled",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-10-21T13:00:00"
+        },
+        {
+          "order_id": "TOUR-18",
+          "display_name": "4658 Union Drive Unit 2812",
+          "description": "$1,356,191",
+          "status": "scheduled",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-10-21T10:00:00"
+        },
+        {
+          "order_id": "TOUR-19",
+          "display_name": "2968 Roosevelt Drive Unit 721",
+          "description": "$712,892",
+          "status": "completed",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-10-18T11:00:00"
+        },
+        {
+          "order_id": "TOUR-49",
+          "display_name": "7932 Mountain Way",
+          "description": "$1,190,822",
+          "status": "completed",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-10-17T9:00:00"
+        }
+      ]
+    },
+    {
+      "id": "saved",
+      "name": "Saved Properties",
+      "type": "saved",
+      "label": "saved properties",
+      "has_cost": false,
+      "summary": {
+        "total_count": 45,
+        "total_spent": 0,
+        "first_date": "2025-10-07",
+        "last_date": "2026-01-24"
+      },
+      "items": [
+        {
+          "order_id": "SAVED-97",
+          "display_name": "6705 Meadow Street Unit 3606",
+          "description": "$715,998",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2026-01-24T23:35:38"
+        },
+        {
+          "order_id": "SAVED-29",
+          "display_name": "7679 School Street Unit 2087",
+          "description": "$1,991,146",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2026-01-24T03:31:32"
+        },
+        {
+          "order_id": "SAVED-106",
+          "display_name": "3287 Park Place Unit 4304",
+          "description": "$290,733",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2026-01-22T09:29:16"
+        },
+        {
+          "order_id": "SAVED-30",
+          "display_name": "567 South Congress Lofts",
+          "description": "$585,000",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2026-01-21T19:52:26"
+        },
+        {
+          "order_id": "SAVED-45",
+          "display_name": "2554 Hill Drive",
+          "description": "$1,762",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2026-01-17T20:47:58"
+        },
+        {
+          "order_id": "SAVED-98",
+          "display_name": "3694 Pine Boulevard Unit 1987",
+          "description": "$634,078",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2026-01-16T10:13:24"
+        },
+        {
+          "order_id": "SAVED-105",
+          "display_name": "890 Wilshire Boulevard Unit 2401",
+          "description": "$2,150,000",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2026-01-05T02:58:41"
+        },
+        {
+          "order_id": "SAVED-31",
+          "display_name": "836 Second Avenue",
+          "description": "$1,646,290",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2026-01-04T14:20:26"
+        },
+        {
+          "order_id": "SAVED-36",
+          "display_name": "1171 Monroe Drive Unit 2357",
+          "description": "$292,323",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2026-01-02T01:18:22"
+        },
+        {
+          "order_id": "SAVED-107",
+          "display_name": "4949 Railroad Way Unit 2095",
+          "description": "$1,274,917",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2026-01-01T07:51:37"
+        },
+        {
+          "order_id": "SAVED-42",
+          "display_name": "234 Austin Downtown",
+          "description": "$3,500",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-12-20T15:20:33"
+        },
+        {
+          "order_id": "SAVED-102",
+          "display_name": "706 Valley Drive Unit 3546",
+          "description": "$364,832",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-12-19T12:04:47"
+        },
+        {
+          "order_id": "SAVED-99",
+          "display_name": "4199 Kennedy Place Unit 4177",
+          "description": "$3,374",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-12-17T13:15:04"
+        },
+        {
+          "order_id": "SAVED-27",
+          "display_name": "9299 Mountain Circle",
+          "description": "$1,454,222",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-12-11T17:58:46"
+        },
+        {
+          "order_id": "SAVED-32",
+          "display_name": "890 La Jolla Cove",
+          "description": "$4,500,000",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-12-08T16:19:52"
+        },
+        {
+          "order_id": "SAVED-46",
+          "display_name": "7178 Elm Court Unit 2431",
+          "description": "$3,745",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-12-08T06:21:43"
+        },
+        {
+          "order_id": "SAVED-41",
+          "display_name": "123 Arts District Plaza",
+          "description": "$1,150,000",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-12-07T18:13:51"
+        },
+        {
+          "order_id": "SAVED-44",
+          "display_name": "7381 Mill Place",
+          "description": "$854,415",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-12-05T07:57:43"
+        },
+        {
+          "order_id": "SAVED-96",
+          "display_name": "1864 Oak Court Unit 2112",
+          "description": "$284,166",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-12-03T09:22:59"
+        },
+        {
+          "order_id": "SAVED-47",
+          "display_name": "7199 Mill Road Unit 2737",
+          "description": "$4,769",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-12-01T14:08:57"
+        },
+        {
+          "order_id": "SAVED-103",
+          "display_name": "3842 Monroe Court",
+          "description": "$934,333",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-11-29T07:47:34"
+        },
+        {
+          "order_id": "SAVED-38",
+          "display_name": "890 Lake Shore Drive Unit 3201",
+          "description": "$2,450,000",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-11-28T19:48:54"
+        },
+        {
+          "order_id": "SAVED-94",
+          "display_name": "6759 Highland Circle Unit 3638",
+          "description": "$802,698",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-11-26T07:46:38"
+        },
+        {
+          "order_id": "SAVED-104",
+          "display_name": "927 Wilson Street Unit 3875",
+          "description": "$224,684",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-11-23T22:23:19"
+        },
+        {
+          "order_id": "SAVED-95",
+          "display_name": "3902 Birch Road",
+          "description": "$1,117,438",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-11-21T05:26:57"
+        },
+        {
+          "order_id": "SAVED-28",
+          "display_name": "1234 Sunset Boulevard",
+          "description": "$3,450,000",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-11-19T16:13:31"
+        },
+        {
+          "order_id": "SAVED-35",
+          "display_name": "890 Tribeca Lofts",
+          "description": "$3,850,000",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-11-19T04:28:06"
+        },
+        {
+          "order_id": "SAVED-49",
+          "display_name": "567 Carlsbad Beach",
+          "description": "$2,150,000",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-11-18T11:45:52"
+        },
+        {
+          "order_id": "SAVED-33",
+          "display_name": "8309 Willow Way Unit 2680",
+          "description": "$660,165",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-11-15T22:24:55"
+        },
+        {
+          "order_id": "SAVED-43",
+          "display_name": "456 River North Lofts",
+          "description": "$685,000",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-11-15T16:01:12"
+        },
+        {
+          "order_id": "SAVED-37",
+          "display_name": "6007 Cypress Way Unit 102",
+          "description": "$313,370",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-11-15T04:58:23"
+        },
+        {
+          "order_id": "SAVED-88",
+          "display_name": "2609 Adams Avenue Unit 472",
+          "description": "$630,457",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-11-13T07:22:22"
+        },
+        {
+          "order_id": "SAVED-48",
+          "display_name": "4996 Highland Way Unit 4504",
+          "description": "$808,038",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-11-12T18:34:10"
+        },
+        {
+          "order_id": "SAVED-100",
+          "display_name": "5415 Lincoln Way Unit 3159",
+          "description": "$457,387",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-11-08T11:34:33"
+        },
+        {
+          "order_id": "SAVED-91",
+          "display_name": "3062 Main Lane Unit 1416",
+          "description": "$1,266,537",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-11-06T12:40:46"
+        },
+        {
+          "order_id": "SAVED-101",
+          "display_name": "4627 Highland Circle Unit 1352",
+          "description": "$612,364",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-11-05T02:28:16"
+        },
+        {
+          "order_id": "SAVED-40",
+          "display_name": "4602 Second Boulevard Unit 2040",
+          "description": "$1,270,977",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-11-03T21:13:32"
+        },
+        {
+          "order_id": "SAVED-92",
+          "display_name": "9059 Jefferson Road Unit 820",
+          "description": "$732,234",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-11-03T14:50:17"
+        },
+        {
+          "order_id": "SAVED-34",
+          "display_name": "456 Market Street Unit 1204",
+          "description": "$4,200",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-11-03T06:57:10"
+        },
+        {
+          "order_id": "SAVED-87",
+          "display_name": "1594 Jackson Boulevard Unit 4751",
+          "description": "$609,591",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-10-29T02:24:27"
+        },
+        {
+          "order_id": "SAVED-93",
+          "display_name": "3275 Main Road",
+          "description": "$1,141",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-10-24T06:33:57"
+        },
+        {
+          "order_id": "SAVED-89",
+          "display_name": "8601 Madison Street Unit 4734",
+          "description": "$2,773",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-10-20T00:04:39"
+        },
+        {
+          "order_id": "SAVED-50",
+          "display_name": "9874 Spring Boulevard Unit 3981",
+          "description": "$445,606",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-10-16T20:38:30"
+        },
+        {
+          "order_id": "SAVED-39",
+          "display_name": "3389 Third Drive Unit 1605",
+          "description": "$1,185",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-10-08T16:54:16"
+        },
+        {
+          "order_id": "SAVED-90",
+          "display_name": "789 Arcadia Camelback",
+          "description": "$1,850,000",
+          "status": "saved",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-10-07T23:01:46"
+        }
+      ]
+    }
+  ]
+}

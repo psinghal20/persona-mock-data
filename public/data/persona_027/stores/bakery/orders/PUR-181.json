@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-181",
+  "persona_id": "persona_027",
+  "store_id": "bakery",
+  "status": "completed",
+  "created_at": "2026-01-14T22:23:58",
+  "items": [
+    {
+      "product_id": "128",
+      "name": "Coffee Cake",
+      "category": "Cakes",
+      "quantity": 3,
+      "price": 5.99,
+      "subtotal": 17.97
+    }
+  ],
+  "total": 17.97,
+  "currency": "USD"
+}

@@ -1,0 +1,78 @@
+{
+  "order_id": "GRC000316",
+  "persona_id": "persona_022",
+  "store_id": "grocery",
+  "status": "shipped",
+  "created_at": "2025-12-19T02:52:38",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "444 Polish Hill St, Philadelphia, PA 19123",
+  "items": [
+    {
+      "product_id": "prod_179",
+      "name": "Organic Choice Butter",
+      "category": "Dairy",
+      "quantity": 3,
+      "price": 12.12,
+      "subtotal": 36.36
+    },
+    {
+      "product_id": "prod_822",
+      "name": "Meadow Gold Organic Chili Powder",
+      "category": "Condiments & Spices",
+      "quantity": 4,
+      "price": 6.06,
+      "subtotal": 24.24
+    },
+    {
+      "product_id": "prod_433",
+      "name": "Farm Fresh Tuna",
+      "category": "Pantry",
+      "quantity": 2,
+      "price": 2.0,
+      "subtotal": 4.0
+    },
+    {
+      "product_id": "prod_569",
+      "name": "Mountain Fresh Chicken Tenders",
+      "category": "Frozen",
+      "quantity": 3,
+      "price": 10.04,
+      "subtotal": 30.12
+    },
+    {
+      "product_id": "GRO-1699",
+      "name": "Local Farm Fresh Green Beans",
+      "category": "Produce",
+      "quantity": 3,
+      "price": 4.34,
+      "subtotal": 13.02
+    },
+    {
+      "product_id": "prod_001",
+      "name": "Bananas",
+      "category": "Produce",
+      "quantity": 1,
+      "price": 1.09,
+      "subtotal": 1.09
+    },
+    {
+      "product_id": "prod_292",
+      "name": "Heritage Foods Organic Crab Legs",
+      "category": "Meat & Seafood",
+      "quantity": 3,
+      "price": 85.05,
+      "subtotal": 255.15
+    },
+    {
+      "product_id": "prod_219",
+      "name": "Pure & Simple Organic Almond Milk",
+      "category": "Dairy",
+      "quantity": 2,
+      "price": 7.01,
+      "subtotal": 14.02
+    }
+  ],
+  "total": 378.0,
+  "currency": "USD"
+}

@@ -1,0 +1,375 @@
+{
+  "persona_id": "persona_013",
+  "store_id": "toy_store",
+  "store_name": "Toy Store",
+  "transaction_type": "orders",
+  "transaction_label": "orders",
+  "has_cost": true,
+  "summary": {
+    "total_count": 38,
+    "total_spent": 1465.57,
+    "first_date": "2025-10-01",
+    "last_date": "2026-01-23"
+  },
+  "items": [],
+  "categories": [
+    {
+      "id": "orders",
+      "name": "Orders",
+      "type": "orders",
+      "label": "orders",
+      "has_cost": true,
+      "summary": {
+        "total_count": 14,
+        "total_spent": 1465.57,
+        "first_date": "2025-10-02",
+        "last_date": "2026-01-21"
+      },
+      "items": [
+        {
+          "order_id": "TOY000041",
+          "status": "delivered",
+          "total": 89.97,
+          "item_count": 2,
+          "created_at": "2026-01-21T06:09:19",
+          "item_preview": "Nerf Elite 2.0 Commander, Badminton Set"
+        },
+        {
+          "order_id": "TOY000130",
+          "status": "delivered",
+          "total": 169.95,
+          "item_count": 3,
+          "created_at": "2026-01-21T05:14:37",
+          "item_preview": "Nerf Elite 2.0 Commander, Nerf Fortnite Blaster, ..."
+        },
+        {
+          "order_id": "TOY000128",
+          "status": "delivered",
+          "total": 104.96,
+          "item_count": 3,
+          "created_at": "2026-01-19T14:25:45",
+          "item_preview": "Franklin Sports Baseball Set, Super Soaker XP100, ..."
+        },
+        {
+          "order_id": "TOY000131",
+          "status": "delivered",
+          "total": 89.99,
+          "item_count": 1,
+          "created_at": "2026-01-12T11:14:24",
+          "item_preview": "Little Tikes Cozy Coupe"
+        },
+        {
+          "order_id": "TOY000045",
+          "status": "delivered",
+          "total": 70.96,
+          "item_count": 3,
+          "created_at": "2025-12-13T20:00:53",
+          "item_preview": "Waboba Moon Ball, Calico Critters Family Set, ..."
+        },
+        {
+          "order_id": "TOY000134",
+          "status": "shipped",
+          "total": 134.97,
+          "item_count": 2,
+          "created_at": "2025-12-11T21:11:56",
+          "item_preview": "SKLZ Pro Mini Hoop, Razor A Kick Scooter"
+        },
+        {
+          "order_id": "TOY000044",
+          "status": "delivered",
+          "total": 79.98,
+          "item_count": 1,
+          "created_at": "2025-12-10T05:05:01",
+          "item_preview": "Bocce Ball Set"
+        },
+        {
+          "order_id": "TOY000043",
+          "status": "delivered",
+          "total": 79.97,
+          "item_count": 2,
+          "created_at": "2025-11-28T09:49:39",
+          "item_preview": "Ogosport Discs Set, Stomp Rocket Ultra"
+        },
+        {
+          "order_id": "TOY000129",
+          "status": "delivered",
+          "total": 109.98,
+          "item_count": 2,
+          "created_at": "2025-11-26T07:09:27",
+          "item_preview": "Little Tikes Cozy Coupe, Giant Bubbles Kit"
+        },
+        {
+          "order_id": "TOY000133",
+          "status": "shipped",
+          "total": 264.93,
+          "item_count": 4,
+          "created_at": "2025-11-09T19:59:35",
+          "item_preview": "KanJam Original, Bocce Ball Set, ..."
+        },
+        {
+          "order_id": "TOY000042",
+          "status": "shipped",
+          "total": 79.97,
+          "item_count": 2,
+          "created_at": "2025-10-31T16:30:26",
+          "item_preview": "Giant Bubbles Kit, Glow Battle Light Up Swords"
+        },
+        {
+          "order_id": "TOY000132",
+          "status": "delivered",
+          "total": 69.97,
+          "item_count": 2,
+          "created_at": "2025-10-30T03:02:16",
+          "item_preview": "Giant Bubbles Kit, Super Soaker XP100"
+        },
+        {
+          "order_id": "TOY000127",
+          "status": "delivered",
+          "total": 89.98,
+          "item_count": 1,
+          "created_at": "2025-10-23T17:57:15",
+          "item_preview": "Kan Jam Ultimate Game"
+        },
+        {
+          "order_id": "TOY000046",
+          "status": "cancelled",
+          "total": 29.99,
+          "item_count": 1,
+          "created_at": "2025-10-02T18:02:56",
+          "item_preview": "Nerf Fortnite Blaster"
+        }
+      ]
+    },
+    {
+      "id": "wishlists",
+      "name": "Wishlists",
+      "type": "wishlists",
+      "label": "wishlist items",
+      "has_cost": false,
+      "summary": {
+        "total_count": 24,
+        "total_spent": 0,
+        "first_date": "2025-10-01",
+        "last_date": "2026-01-23"
+      },
+      "items": [
+        {
+          "order_id": "WISH-38",
+          "display_name": "Tie Dye Kit",
+          "description": "For Maria \u2022 Christmas",
+          "status": "medium",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2026-01-23T11:40:12"
+        },
+        {
+          "order_id": "WISH-26",
+          "display_name": "Kingdomino",
+          "description": "For Diego \u2022 Christmas",
+          "status": "high",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2026-01-16T09:40:43"
+        },
+        {
+          "order_id": "WISH-64",
+          "display_name": "Pandemic",
+          "description": "For Diego \u2022 Birthday",
+          "status": "medium",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2026-01-13T11:54:44"
+        },
+        {
+          "order_id": "WISH-36",
+          "display_name": "Hape Pound and Tap Bench",
+          "description": "For Maria \u2022 Just Because",
+          "status": "medium",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2026-01-01T06:56:56"
+        },
+        {
+          "order_id": "WISH-65",
+          "display_name": "Barbie Career Doctor Playset",
+          "description": "For Diego \u2022 Christmas",
+          "status": "low",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-12-23T04:11:06"
+        },
+        {
+          "order_id": "WISH-29",
+          "display_name": "Webkinz Classic Pet",
+          "description": "For Diego \u2022 Good Grades",
+          "status": "low",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-12-22T22:02:57"
+        },
+        {
+          "order_id": "WISH-37",
+          "display_name": "Rock Painting Kit",
+          "description": "For Maria \u2022 Good Grades",
+          "status": "medium",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-12-19T14:29:54"
+        },
+        {
+          "order_id": "WISH-61",
+          "display_name": "Crayola Silly Scents Set",
+          "description": "For Diego \u2022 Just Because",
+          "status": "high",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-12-17T01:24:40"
+        },
+        {
+          "order_id": "WISH-62",
+          "display_name": "LEGO Jurassic World T-Rex",
+          "description": "For Diego \u2022 Birthday",
+          "status": "high",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-12-11T06:42:57"
+        },
+        {
+          "order_id": "WISH-31",
+          "display_name": "Meccano Roadster",
+          "description": "For Maria \u2022 Good Grades",
+          "status": "low",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-12-06T05:42:51"
+        },
+        {
+          "order_id": "WISH-25",
+          "display_name": "Swingball",
+          "description": "For Diego \u2022 Good Grades",
+          "status": "low",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-12-04T07:55:34"
+        },
+        {
+          "order_id": "WISH-63",
+          "display_name": "Fisher-Price Laugh & Learn Smart Stages Chair",
+          "description": "For Diego \u2022 Christmas",
+          "status": "high",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-11-23T21:16:46"
+        },
+        {
+          "order_id": "WISH-27",
+          "display_name": "Ty Beanie Boo Medium",
+          "description": "For Diego \u2022 Just Because",
+          "status": "high",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-11-23T17:58:57"
+        },
+        {
+          "order_id": "WISH-67",
+          "display_name": "LEGO Technic Excavator",
+          "description": "For Maria \u2022 Just Because",
+          "status": "medium",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-11-14T21:37:22"
+        },
+        {
+          "order_id": "WISH-33",
+          "display_name": "VTech Kidi Star Karaoke",
+          "description": "For Maria \u2022 Just Because",
+          "status": "low",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-11-14T02:47:41"
+        },
+        {
+          "order_id": "WISH-35",
+          "display_name": "LEGO Friends Heartlake City Mall",
+          "description": "For Maria \u2022 Just Because",
+          "status": "low",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-11-10T20:14:13"
+        },
+        {
+          "order_id": "WISH-30",
+          "display_name": "Folkmanis Hand Puppet Dog",
+          "description": "For Diego \u2022 Christmas",
+          "status": "medium",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-11-10T02:11:46"
+        },
+        {
+          "order_id": "WISH-34",
+          "display_name": "Warmies Lavender Bear",
+          "description": "For Maria \u2022 Just Because",
+          "status": "medium",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-11-07T00:30:04"
+        },
+        {
+          "order_id": "WISH-68",
+          "display_name": "VTech Kidi Star Karaoke",
+          "description": "For Maria \u2022 Birthday",
+          "status": "low",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-11-02T02:51:06"
+        },
+        {
+          "order_id": "WISH-66",
+          "display_name": "Fisher-Price Cash Register",
+          "description": "For Maria \u2022 Christmas",
+          "status": "medium",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-10-22T09:42:37"
+        },
+        {
+          "order_id": "WISH-28",
+          "display_name": "Aurora World Penguin",
+          "description": "For Diego \u2022 Christmas",
+          "status": "low",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-10-13T11:58:17"
+        },
+        {
+          "order_id": "WISH-70",
+          "display_name": "Tangle Jr Textured",
+          "description": "For Maria \u2022 Good Grades",
+          "status": "medium",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-10-07T15:58:49"
+        },
+        {
+          "order_id": "WISH-32",
+          "display_name": "Little Tikes Cozy Coupe",
+          "description": "For Maria \u2022 Just Because",
+          "status": "low",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-10-07T06:59:31"
+        },
+        {
+          "order_id": "WISH-69",
+          "display_name": "Trivial Pursuit Family Edition",
+          "description": "For Maria \u2022 Christmas",
+          "status": "medium",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-10-01T16:07:15"
+        }
+      ]
+    }
+  ]
+}

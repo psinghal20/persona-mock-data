@@ -1,0 +1,38 @@
+{
+  "order_id": "ORDER-6J8W48CO",
+  "persona_id": "persona_014",
+  "store_id": "amazon",
+  "status": "shipped",
+  "created_at": "2025-12-19T18:59:57",
+  "shipped_at": "2025-12-21T18:59:57",
+  "delivered_at": "",
+  "shipping_address": "888 Design District Ln, San Francisco, CA 94102",
+  "items": [
+    {
+      "product_id": "B0C7GK068K",
+      "name": "Cricut EasyPress 2 12x10",
+      "category": "Arts Crafts",
+      "quantity": 3,
+      "price": 179.0,
+      "subtotal": 537.0
+    },
+    {
+      "product_id": "B0AMZN1844",
+      "name": "Wandrd PRVKE 31L",
+      "category": "Electronics",
+      "quantity": 2,
+      "price": 249.0,
+      "subtotal": 498.0
+    },
+    {
+      "product_id": "B0C5J6XZ8Y",
+      "name": "HP Spectre x360 16",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 1649.99,
+      "subtotal": 1649.99
+    }
+  ],
+  "total": 2684.99,
+  "currency": "USD"
+}

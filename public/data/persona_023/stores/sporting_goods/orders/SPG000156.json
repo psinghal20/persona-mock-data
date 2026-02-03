@@ -1,0 +1,30 @@
+{
+  "order_id": "SPG000156",
+  "persona_id": "persona_023",
+  "store_id": "sporting_goods",
+  "status": "delivered",
+  "created_at": "2025-10-20T03:16:02",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "777 East Side Ave, Cleveland, OH 44114",
+  "items": [
+    {
+      "product_id": "SKT002",
+      "name": "Baker Brand Logo Deck",
+      "category": "Decks",
+      "quantity": 1,
+      "price": 59.99,
+      "subtotal": 59.99
+    },
+    {
+      "product_id": "RUN002",
+      "name": "Ultraboost Light",
+      "category": "Shoes",
+      "quantity": 1,
+      "price": 189.99,
+      "subtotal": 189.99
+    }
+  ],
+  "total": 249.98,
+  "currency": "USD"
+}

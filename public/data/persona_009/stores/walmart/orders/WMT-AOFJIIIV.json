@@ -1,0 +1,38 @@
+{
+  "order_id": "WMT-AOFJIIIV",
+  "persona_id": "persona_009",
+  "store_id": "walmart",
+  "status": "delivered",
+  "created_at": "2025-12-04T11:01:23",
+  "shipped_at": "2025-12-06T11:01:23",
+  "delivered_at": "2025-12-09T11:01:23",
+  "shipping_address": "789 Veterans Blvd, Tampa, FL 33602",
+  "items": [
+    {
+      "product_id": "WMT00001224",
+      "name": "Hasbro Yahtzee",
+      "category": "Toys",
+      "quantity": 3,
+      "price": 14.82,
+      "subtotal": 44.46
+    },
+    {
+      "product_id": "WMT00001187",
+      "name": "Playmobil Playmobil Pirate Ship",
+      "category": "Toys",
+      "quantity": 2,
+      "price": 79.7,
+      "subtotal": 159.4
+    },
+    {
+      "product_id": "WMT00001225",
+      "name": "Hasbro Guess Who?",
+      "category": "Toys",
+      "quantity": 1,
+      "price": 16.07,
+      "subtotal": 16.07
+    }
+  ],
+  "total": 219.93,
+  "currency": "USD"
+}

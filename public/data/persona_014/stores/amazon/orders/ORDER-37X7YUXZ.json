@@ -1,0 +1,46 @@
+{
+  "order_id": "ORDER-37X7YUXZ",
+  "persona_id": "persona_014",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-12-19T05:04:52",
+  "shipped_at": "2025-12-22T05:04:52",
+  "delivered_at": "2025-12-27T05:04:52",
+  "shipping_address": "888 Design District Ln, San Francisco, CA 94102",
+  "items": [
+    {
+      "product_id": "B0ELEC0196",
+      "name": "Wemo Wemo Smart Plug",
+      "category": "Electronics",
+      "quantity": 3,
+      "price": 23.18,
+      "subtotal": 69.54
+    },
+    {
+      "product_id": "B0TOYS0203",
+      "name": "Craftster String Art Kit",
+      "category": "Toys & Games",
+      "quantity": 2,
+      "price": 20.59,
+      "subtotal": 41.18
+    },
+    {
+      "product_id": "B0B5GK191L",
+      "name": "Golden Heavy Body Acrylics Set 8 Colors",
+      "category": "Arts Crafts",
+      "quantity": 3,
+      "price": 69.99,
+      "subtotal": 209.97
+    },
+    {
+      "product_id": "B0AMZN1787",
+      "name": "HHKB Professional Hybrid",
+      "category": "Electronics",
+      "quantity": 2,
+      "price": 295.0,
+      "subtotal": 590.0
+    }
+  ],
+  "total": 910.69,
+  "currency": "USD"
+}

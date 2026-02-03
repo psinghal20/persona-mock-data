@@ -1,0 +1,22 @@
+{
+  "order_id": "ORDER-JAVF5BU5",
+  "persona_id": "persona_010",
+  "store_id": "amazon",
+  "status": "shipped",
+  "created_at": "2025-10-13T23:24:59",
+  "shipped_at": "2025-10-16T23:24:59",
+  "delivered_at": "",
+  "shipping_address": "321 French Quarter Ave, New Orleans, LA 70116",
+  "items": [
+    {
+      "product_id": "B0AMZN1107",
+      "name": "Dr. Martens 1460 8-Eye Boot",
+      "category": "Clothing Shoes & Jewelry",
+      "quantity": 2,
+      "price": 180.0,
+      "subtotal": 360.0
+    }
+  ],
+  "total": 360.0,
+  "currency": "USD"
+}

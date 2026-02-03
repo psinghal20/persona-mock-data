@@ -1,0 +1,22 @@
+{
+  "order_id": "ORDER-JZZZU9OV",
+  "persona_id": "persona_027",
+  "store_id": "amazon",
+  "status": "pending",
+  "created_at": "2026-01-06T18:02:07",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "items": [
+    {
+      "product_id": "B0B5GJ291L",
+      "name": "Weber Genesis E-325s Gas Grill",
+      "category": "Patio Lawn Garden",
+      "quantity": 1,
+      "price": 1149.0,
+      "subtotal": 1149.0
+    }
+  ],
+  "total": 1149.0,
+  "currency": "USD"
+}

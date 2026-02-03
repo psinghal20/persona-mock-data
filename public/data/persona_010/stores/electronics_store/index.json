@@ -1,0 +1,625 @@
+{
+  "persona_id": "persona_010",
+  "store_id": "electronics_store",
+  "store_name": "Electronics Store",
+  "transaction_type": "orders",
+  "transaction_label": "orders",
+  "has_cost": true,
+  "summary": {
+    "total_count": 37,
+    "total_spent": 49314.42,
+    "first_date": "2025-10-15",
+    "last_date": "2026-01-26"
+  },
+  "items": [
+    {
+      "order_id": "EL000088",
+      "status": "pending",
+      "total": 999.96,
+      "item_count": 3,
+      "created_at": "2026-01-26T19:07:11",
+      "item_preview": "Google Nest Learning Thermostat, Amazon Echo Show 10, ..."
+    },
+    {
+      "order_id": "EL000080",
+      "status": "cancelled",
+      "total": 499.98,
+      "item_count": 1,
+      "created_at": "2026-01-24T18:59:02",
+      "item_preview": "Google Nest Learning Thermostat"
+    },
+    {
+      "order_id": "EL000090",
+      "status": "delivered",
+      "total": 1549.96,
+      "item_count": 3,
+      "created_at": "2026-01-22T23:19:00",
+      "item_preview": "Sonos Era 300, Google Nest Hub 2nd Gen, ..."
+    },
+    {
+      "order_id": "EL000093",
+      "status": "cancelled",
+      "total": 749.99,
+      "item_count": 1,
+      "created_at": "2026-01-17T02:05:41",
+      "item_preview": "Bluesound Pulse M"
+    },
+    {
+      "order_id": "EL000189",
+      "status": "delivered",
+      "total": 2799.97,
+      "item_count": 2,
+      "created_at": "2026-01-13T07:51:30",
+      "item_preview": "Roomba j7+ Robot Vacuum, Dreametech L20 Ultra"
+    },
+    {
+      "order_id": "EL000193",
+      "status": "delivered",
+      "total": 943.81,
+      "item_count": 2,
+      "created_at": "2026-01-06T06:15:24",
+      "item_preview": "GE Profile ClearView Window AC, Philips Premium Airfryer XXL"
+    },
+    {
+      "order_id": "EL000081",
+      "status": "shipped",
+      "total": 3490.97,
+      "item_count": 2,
+      "created_at": "2026-01-02T02:34:21",
+      "item_preview": "SimpliSafe Home Security System, Devialet Phantom I"
+    },
+    {
+      "order_id": "EL000184",
+      "status": "delivered",
+      "total": 450.94,
+      "item_count": 2,
+      "created_at": "2026-01-02T00:40:54",
+      "item_preview": "TP-Link Kasa Smart Switch, Breville Scraper Mixer Pro"
+    },
+    {
+      "order_id": "EL000187",
+      "status": "delivered",
+      "total": 3199.98,
+      "item_count": 1,
+      "created_at": "2025-12-30T14:16:27",
+      "item_preview": "Roborock S8 Pro Ultra"
+    },
+    {
+      "order_id": "EL000085",
+      "status": "shipped",
+      "total": 959.96,
+      "item_count": 2,
+      "created_at": "2025-12-29T03:04:40",
+      "item_preview": "Aqara Hub M3, Google Nest WiFi Pro 3-Pack"
+    },
+    {
+      "order_id": "EL000188",
+      "status": "pending",
+      "total": 4459.3,
+      "item_count": 3,
+      "created_at": "2025-12-22T23:04:04",
+      "item_preview": "Roomba j7+ Robot Vacuum, KitchenAid Artisan Series 5-Qt Stand Mixer, ..."
+    },
+    {
+      "order_id": "EL000099",
+      "status": "pending",
+      "total": 3299.94,
+      "item_count": 3,
+      "created_at": "2025-12-22T16:05:25",
+      "item_preview": "Dreametech L20 Ultra, IKEA Dirigera Hub, ..."
+    },
+    {
+      "order_id": "EL000094",
+      "status": "shipped",
+      "total": 479.98,
+      "item_count": 2,
+      "created_at": "2025-12-13T04:40:09",
+      "item_preview": "Amazon Echo Show 10, Philips Hue Play Gradient Lightstrip"
+    },
+    {
+      "order_id": "EL000082",
+      "status": "delivered",
+      "total": 759.97,
+      "item_count": 2,
+      "created_at": "2025-12-11T07:13:25",
+      "item_preview": "Google Pixel Tablet 256GB, JBL Flip 6"
+    },
+    {
+      "order_id": "EL000195",
+      "status": "shipped",
+      "total": 2724.89,
+      "item_count": 3,
+      "created_at": "2025-12-03T18:43:11",
+      "item_preview": "GE Profile Smart Slide-In Double Oven Gas Range, Amazon Echo Dot 5th Gen, ..."
+    },
+    {
+      "order_id": "EL000180",
+      "status": "delivered",
+      "total": 1199.98,
+      "item_count": 1,
+      "created_at": "2025-11-30T19:40:24",
+      "item_preview": "Shark AI Ultra 2-in-1"
+    },
+    {
+      "order_id": "EL000092",
+      "status": "delivered",
+      "total": 99.99,
+      "item_count": 1,
+      "created_at": "2025-11-29T22:00:02",
+      "item_preview": "Google Nest Audio"
+    },
+    {
+      "order_id": "EL000087",
+      "status": "delivered",
+      "total": 39.99,
+      "item_count": 1,
+      "created_at": "2025-11-29T21:28:43",
+      "item_preview": "Blink Mini 2"
+    },
+    {
+      "order_id": "EL000186",
+      "status": "delivered",
+      "total": 1006.44,
+      "item_count": 1,
+      "created_at": "2025-11-28T19:05:52",
+      "item_preview": "Samsung Bespoke AI Electric Dryer"
+    },
+    {
+      "order_id": "EL000196",
+      "status": "pending",
+      "total": 602.96,
+      "item_count": 1,
+      "created_at": "2025-11-28T05:05:56",
+      "item_preview": "Philips Premium Airfryer XXL"
+    },
+    {
+      "order_id": "EL000096",
+      "status": "delivered",
+      "total": 599.96,
+      "item_count": 3,
+      "created_at": "2025-11-28T01:54:05",
+      "item_preview": "Meross Smart Garage Door Opener, Sonos Era 300, ..."
+    },
+    {
+      "order_id": "EL000185",
+      "status": "delivered",
+      "total": 49.98,
+      "item_count": 1,
+      "created_at": "2025-11-22T05:02:39",
+      "item_preview": "Wemo Smart Plug"
+    },
+    {
+      "order_id": "EL000194",
+      "status": "delivered",
+      "total": 642.33,
+      "item_count": 1,
+      "created_at": "2025-11-21T07:05:33",
+      "item_preview": "GE Profile ClearView Window AC"
+    },
+    {
+      "order_id": "EL000086",
+      "status": "delivered",
+      "total": 1699.96,
+      "item_count": 2,
+      "created_at": "2025-11-17T12:40:19",
+      "item_preview": "BenQ Mobiuz EX2710Q, Bose SoundLink Max"
+    },
+    {
+      "order_id": "EL000095",
+      "status": "delivered",
+      "total": 1099.96,
+      "item_count": 2,
+      "created_at": "2025-11-17T07:16:45",
+      "item_preview": "Sonos Era 300, Google Nest Audio"
+    },
+    {
+      "order_id": "EL000192",
+      "status": "delivered",
+      "total": 599.99,
+      "item_count": 1,
+      "created_at": "2025-11-13T12:51:12",
+      "item_preview": "Shark AI Ultra 2-in-1"
+    },
+    {
+      "order_id": "EL000084",
+      "status": "delivered",
+      "total": 1879.97,
+      "item_count": 3,
+      "created_at": "2025-11-12T06:30:34",
+      "item_preview": "Nest Cam Indoor/Outdoor, Ecovacs Deebot X2 Omni, ..."
+    },
+    {
+      "order_id": "EL000182",
+      "status": "pending",
+      "total": 1492.83,
+      "item_count": 2,
+      "created_at": "2025-11-10T01:19:50",
+      "item_preview": "GE Profile ClearView Window AC, Hamilton Beach Eclectrics Stand Mixer"
+    },
+    {
+      "order_id": "EL000091",
+      "status": "cancelled",
+      "total": 259.97,
+      "item_count": 2,
+      "created_at": "2025-10-31T09:44:56",
+      "item_preview": "Google Nest Hub 2nd Gen, Ring Indoor Cam"
+    },
+    {
+      "order_id": "EL000089",
+      "status": "delivered",
+      "total": 359.98,
+      "item_count": 1,
+      "created_at": "2025-10-29T03:46:37",
+      "item_preview": "Nest Cam Indoor/Outdoor"
+    },
+    {
+      "order_id": "EL000181",
+      "status": "delivered",
+      "total": 385.66,
+      "item_count": 1,
+      "created_at": "2025-10-26T14:04:52",
+      "item_preview": "Panasonic Inverter Countertop Microwave"
+    },
+    {
+      "order_id": "EL000191",
+      "status": "pending",
+      "total": 212.62,
+      "item_count": 1,
+      "created_at": "2025-10-26T12:21:56",
+      "item_preview": "PowerXL Vortex Air Fryer Pro"
+    },
+    {
+      "order_id": "EL000083",
+      "status": "delivered",
+      "total": 199.99,
+      "item_count": 1,
+      "created_at": "2025-10-26T10:48:40",
+      "item_preview": "Eufy Video Doorbell Dual"
+    },
+    {
+      "order_id": "EL000098",
+      "status": "delivered",
+      "total": 6291.96,
+      "item_count": 3,
+      "created_at": "2025-10-22T10:43:04",
+      "item_preview": "Philips Hue Play Gradient Lightstrip, Devialet Phantom I, ..."
+    },
+    {
+      "order_id": "EL000183",
+      "status": "delivered",
+      "total": 792.82,
+      "item_count": 2,
+      "created_at": "2025-10-21T19:35:20",
+      "item_preview": "Panasonic Inverter Countertop Microwave, Shark AI Ultra 2-in-1"
+    },
+    {
+      "order_id": "EL000190",
+      "status": "pending",
+      "total": 2347.5,
+      "item_count": 2,
+      "created_at": "2025-10-19T03:30:43",
+      "item_preview": "Wemo Smart Plug, LG Smart Electric Dryer with TurboSteam"
+    },
+    {
+      "order_id": "EL000097",
+      "status": "shipped",
+      "total": 79.98,
+      "item_count": 1,
+      "created_at": "2025-10-15T02:55:25",
+      "item_preview": "Blink Mini 2"
+    }
+  ],
+  "categories": [
+    {
+      "id": "orders",
+      "name": "Orders",
+      "type": "orders",
+      "label": "orders",
+      "has_cost": true,
+      "summary": {
+        "total_count": 37,
+        "total_spent": 49314.42,
+        "first_date": "2025-10-15",
+        "last_date": "2026-01-26"
+      },
+      "items": [
+        {
+          "order_id": "EL000088",
+          "status": "pending",
+          "total": 999.96,
+          "item_count": 3,
+          "created_at": "2026-01-26T19:07:11",
+          "item_preview": "Google Nest Learning Thermostat, Amazon Echo Show 10, ..."
+        },
+        {
+          "order_id": "EL000080",
+          "status": "cancelled",
+          "total": 499.98,
+          "item_count": 1,
+          "created_at": "2026-01-24T18:59:02",
+          "item_preview": "Google Nest Learning Thermostat"
+        },
+        {
+          "order_id": "EL000090",
+          "status": "delivered",
+          "total": 1549.96,
+          "item_count": 3,
+          "created_at": "2026-01-22T23:19:00",
+          "item_preview": "Sonos Era 300, Google Nest Hub 2nd Gen, ..."
+        },
+        {
+          "order_id": "EL000093",
+          "status": "cancelled",
+          "total": 749.99,
+          "item_count": 1,
+          "created_at": "2026-01-17T02:05:41",
+          "item_preview": "Bluesound Pulse M"
+        },
+        {
+          "order_id": "EL000189",
+          "status": "delivered",
+          "total": 2799.97,
+          "item_count": 2,
+          "created_at": "2026-01-13T07:51:30",
+          "item_preview": "Roomba j7+ Robot Vacuum, Dreametech L20 Ultra"
+        },
+        {
+          "order_id": "EL000193",
+          "status": "delivered",
+          "total": 943.81,
+          "item_count": 2,
+          "created_at": "2026-01-06T06:15:24",
+          "item_preview": "GE Profile ClearView Window AC, Philips Premium Airfryer XXL"
+        },
+        {
+          "order_id": "EL000081",
+          "status": "shipped",
+          "total": 3490.97,
+          "item_count": 2,
+          "created_at": "2026-01-02T02:34:21",
+          "item_preview": "SimpliSafe Home Security System, Devialet Phantom I"
+        },
+        {
+          "order_id": "EL000184",
+          "status": "delivered",
+          "total": 450.94,
+          "item_count": 2,
+          "created_at": "2026-01-02T00:40:54",
+          "item_preview": "TP-Link Kasa Smart Switch, Breville Scraper Mixer Pro"
+        },
+        {
+          "order_id": "EL000187",
+          "status": "delivered",
+          "total": 3199.98,
+          "item_count": 1,
+          "created_at": "2025-12-30T14:16:27",
+          "item_preview": "Roborock S8 Pro Ultra"
+        },
+        {
+          "order_id": "EL000085",
+          "status": "shipped",
+          "total": 959.96,
+          "item_count": 2,
+          "created_at": "2025-12-29T03:04:40",
+          "item_preview": "Aqara Hub M3, Google Nest WiFi Pro 3-Pack"
+        },
+        {
+          "order_id": "EL000188",
+          "status": "pending",
+          "total": 4459.3,
+          "item_count": 3,
+          "created_at": "2025-12-22T23:04:04",
+          "item_preview": "Roomba j7+ Robot Vacuum, KitchenAid Artisan Series 5-Qt Stand Mixer, ..."
+        },
+        {
+          "order_id": "EL000099",
+          "status": "pending",
+          "total": 3299.94,
+          "item_count": 3,
+          "created_at": "2025-12-22T16:05:25",
+          "item_preview": "Dreametech L20 Ultra, IKEA Dirigera Hub, ..."
+        },
+        {
+          "order_id": "EL000094",
+          "status": "shipped",
+          "total": 479.98,
+          "item_count": 2,
+          "created_at": "2025-12-13T04:40:09",
+          "item_preview": "Amazon Echo Show 10, Philips Hue Play Gradient Lightstrip"
+        },
+        {
+          "order_id": "EL000082",
+          "status": "delivered",
+          "total": 759.97,
+          "item_count": 2,
+          "created_at": "2025-12-11T07:13:25",
+          "item_preview": "Google Pixel Tablet 256GB, JBL Flip 6"
+        },
+        {
+          "order_id": "EL000195",
+          "status": "shipped",
+          "total": 2724.89,
+          "item_count": 3,
+          "created_at": "2025-12-03T18:43:11",
+          "item_preview": "GE Profile Smart Slide-In Double Oven Gas Range, Amazon Echo Dot 5th Gen, ..."
+        },
+        {
+          "order_id": "EL000180",
+          "status": "delivered",
+          "total": 1199.98,
+          "item_count": 1,
+          "created_at": "2025-11-30T19:40:24",
+          "item_preview": "Shark AI Ultra 2-in-1"
+        },
+        {
+          "order_id": "EL000092",
+          "status": "delivered",
+          "total": 99.99,
+          "item_count": 1,
+          "created_at": "2025-11-29T22:00:02",
+          "item_preview": "Google Nest Audio"
+        },
+        {
+          "order_id": "EL000087",
+          "status": "delivered",
+          "total": 39.99,
+          "item_count": 1,
+          "created_at": "2025-11-29T21:28:43",
+          "item_preview": "Blink Mini 2"
+        },
+        {
+          "order_id": "EL000186",
+          "status": "delivered",
+          "total": 1006.44,
+          "item_count": 1,
+          "created_at": "2025-11-28T19:05:52",
+          "item_preview": "Samsung Bespoke AI Electric Dryer"
+        },
+        {
+          "order_id": "EL000196",
+          "status": "pending",
+          "total": 602.96,
+          "item_count": 1,
+          "created_at": "2025-11-28T05:05:56",
+          "item_preview": "Philips Premium Airfryer XXL"
+        },
+        {
+          "order_id": "EL000096",
+          "status": "delivered",
+          "total": 599.96,
+          "item_count": 3,
+          "created_at": "2025-11-28T01:54:05",
+          "item_preview": "Meross Smart Garage Door Opener, Sonos Era 300, ..."
+        },
+        {
+          "order_id": "EL000185",
+          "status": "delivered",
+          "total": 49.98,
+          "item_count": 1,
+          "created_at": "2025-11-22T05:02:39",
+          "item_preview": "Wemo Smart Plug"
+        },
+        {
+          "order_id": "EL000194",
+          "status": "delivered",
+          "total": 642.33,
+          "item_count": 1,
+          "created_at": "2025-11-21T07:05:33",
+          "item_preview": "GE Profile ClearView Window AC"
+        },
+        {
+          "order_id": "EL000086",
+          "status": "delivered",
+          "total": 1699.96,
+          "item_count": 2,
+          "created_at": "2025-11-17T12:40:19",
+          "item_preview": "BenQ Mobiuz EX2710Q, Bose SoundLink Max"
+        },
+        {
+          "order_id": "EL000095",
+          "status": "delivered",
+          "total": 1099.96,
+          "item_count": 2,
+          "created_at": "2025-11-17T07:16:45",
+          "item_preview": "Sonos Era 300, Google Nest Audio"
+        },
+        {
+          "order_id": "EL000192",
+          "status": "delivered",
+          "total": 599.99,
+          "item_count": 1,
+          "created_at": "2025-11-13T12:51:12",
+          "item_preview": "Shark AI Ultra 2-in-1"
+        },
+        {
+          "order_id": "EL000084",
+          "status": "delivered",
+          "total": 1879.97,
+          "item_count": 3,
+          "created_at": "2025-11-12T06:30:34",
+          "item_preview": "Nest Cam Indoor/Outdoor, Ecovacs Deebot X2 Omni, ..."
+        },
+        {
+          "order_id": "EL000182",
+          "status": "pending",
+          "total": 1492.83,
+          "item_count": 2,
+          "created_at": "2025-11-10T01:19:50",
+          "item_preview": "GE Profile ClearView Window AC, Hamilton Beach Eclectrics Stand Mixer"
+        },
+        {
+          "order_id": "EL000091",
+          "status": "cancelled",
+          "total": 259.97,
+          "item_count": 2,
+          "created_at": "2025-10-31T09:44:56",
+          "item_preview": "Google Nest Hub 2nd Gen, Ring Indoor Cam"
+        },
+        {
+          "order_id": "EL000089",
+          "status": "delivered",
+          "total": 359.98,
+          "item_count": 1,
+          "created_at": "2025-10-29T03:46:37",
+          "item_preview": "Nest Cam Indoor/Outdoor"
+        },
+        {
+          "order_id": "EL000181",
+          "status": "delivered",
+          "total": 385.66,
+          "item_count": 1,
+          "created_at": "2025-10-26T14:04:52",
+          "item_preview": "Panasonic Inverter Countertop Microwave"
+        },
+        {
+          "order_id": "EL000191",
+          "status": "pending",
+          "total": 212.62,
+          "item_count": 1,
+          "created_at": "2025-10-26T12:21:56",
+          "item_preview": "PowerXL Vortex Air Fryer Pro"
+        },
+        {
+          "order_id": "EL000083",
+          "status": "delivered",
+          "total": 199.99,
+          "item_count": 1,
+          "created_at": "2025-10-26T10:48:40",
+          "item_preview": "Eufy Video Doorbell Dual"
+        },
+        {
+          "order_id": "EL000098",
+          "status": "delivered",
+          "total": 6291.96,
+          "item_count": 3,
+          "created_at": "2025-10-22T10:43:04",
+          "item_preview": "Philips Hue Play Gradient Lightstrip, Devialet Phantom I, ..."
+        },
+        {
+          "order_id": "EL000183",
+          "status": "delivered",
+          "total": 792.82,
+          "item_count": 2,
+          "created_at": "2025-10-21T19:35:20",
+          "item_preview": "Panasonic Inverter Countertop Microwave, Shark AI Ultra 2-in-1"
+        },
+        {
+          "order_id": "EL000190",
+          "status": "pending",
+          "total": 2347.5,
+          "item_count": 2,
+          "created_at": "2025-10-19T03:30:43",
+          "item_preview": "Wemo Smart Plug, LG Smart Electric Dryer with TurboSteam"
+        },
+        {
+          "order_id": "EL000097",
+          "status": "shipped",
+          "total": 79.98,
+          "item_count": 1,
+          "created_at": "2025-10-15T02:55:25",
+          "item_preview": "Blink Mini 2"
+        }
+      ]
+    }
+  ]
+}

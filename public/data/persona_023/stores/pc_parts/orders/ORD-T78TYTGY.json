@@ -1,0 +1,30 @@
+{
+  "order_id": "ORD-T78TYTGY",
+  "persona_id": "persona_023",
+  "store_id": "pc_parts",
+  "status": "delivered",
+  "created_at": "2025-10-20T02:02:28",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "777 East Side Ave, Cleveland, OH 44114",
+  "items": [
+    {
+      "product_id": "GPU026",
+      "name": "GeForce RTX 3060 Ti",
+      "category": "gpus",
+      "quantity": 1,
+      "price": 349.99,
+      "subtotal": 349.99
+    },
+    {
+      "product_id": "CPU036",
+      "name": "Ryzen 9 5950X",
+      "category": "cpus",
+      "quantity": 2,
+      "price": 399.99,
+      "subtotal": 799.98
+    }
+  ],
+  "total": 1149.97,
+  "currency": "USD"
+}

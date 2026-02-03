@@ -1,0 +1,30 @@
+{
+  "order_id": "WMT-LKN3NH7B",
+  "persona_id": "persona_027",
+  "store_id": "walmart",
+  "status": "delivered",
+  "created_at": "2025-10-07T03:37:22",
+  "shipped_at": "2025-10-08T03:37:22",
+  "delivered_at": "2025-10-11T03:37:22",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "items": [
+    {
+      "product_id": "WMT00001876",
+      "name": "Trek Madone SLR 6",
+      "category": "Sports",
+      "quantity": 2,
+      "price": 7247.72,
+      "subtotal": 14495.44
+    },
+    {
+      "product_id": "WMT00002001",
+      "name": "Sterling Sterling Velocity 9.8mm Rope",
+      "category": "Sports",
+      "quantity": 4,
+      "price": 174.38,
+      "subtotal": 697.52
+    }
+  ],
+  "total": 15192.96,
+  "currency": "USD"
+}

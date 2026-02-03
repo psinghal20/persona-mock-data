@@ -1,0 +1,25 @@
+{
+  "order_id": "GRM-19",
+  "persona_id": "persona_009",
+  "store_id": "pet_store",
+  "type": "grooming",
+  "status": "scheduled",
+  "appointment_date": "2025-10-20",
+  "appointment_time": "9:00",
+  "items": [
+    {
+      "product_id": "GRM011",
+      "name": "De-shedding Treatment",
+      "description": "Specialized treatment to reduce shedding up to 90%",
+      "pet_name": "Max",
+      "pet_type": "Dogs",
+      "pet_breed": "Golden Retriever",
+      "duration_minutes": "75",
+      "quantity": 1,
+      "price": 65.0,
+      "subtotal": 65.0
+    }
+  ],
+  "total": 65.0,
+  "currency": "USD"
+}

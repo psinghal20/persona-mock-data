@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-5",
+  "persona_id": "persona_022",
+  "store_id": "pet_store",
+  "status": "completed",
+  "created_at": "2025-10-06T19:14:59",
+  "items": [
+    {
+      "product_id": "CAT065",
+      "name": "Tuft + Paw Milo Cat Tree",
+      "category": "Beds",
+      "quantity": 3,
+      "price": 349.99,
+      "subtotal": 1049.97
+    }
+  ],
+  "total": 1049.97,
+  "currency": "USD"
+}

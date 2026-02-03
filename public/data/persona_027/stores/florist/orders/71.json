@@ -1,0 +1,40 @@
+{
+  "order_id": "71",
+  "persona_id": "persona_027",
+  "store_id": "florist",
+  "status": "delivered",
+  "created_at": "2025-10-24T00:27:44",
+  "shipped_at": "",
+  "delivered_at": "2025-10-25",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "recipient_name": "Friend",
+  "card_message": "Congratulations!",
+  "items": [
+    {
+      "product_id": "44",
+      "name": "Spray Rose Cascade",
+      "category": "Roses",
+      "quantity": 1,
+      "price": 69.99,
+      "subtotal": 69.99
+    },
+    {
+      "product_id": "3",
+      "name": "Lindt Truffle Collection",
+      "category": "Add-on",
+      "quantity": 1,
+      "price": 19.99,
+      "subtotal": 19.99
+    },
+    {
+      "product_id": "11",
+      "name": "Celebration Balloon Bouquet",
+      "category": "Add-on",
+      "quantity": 1,
+      "price": 14.99,
+      "subtotal": 14.99
+    }
+  ],
+  "total": 104.97,
+  "currency": "USD"
+}

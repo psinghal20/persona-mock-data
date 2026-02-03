@@ -1,0 +1,22 @@
+{
+  "order_id": "ORDER-CX34Y27L",
+  "persona_id": "persona_022",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-12-17T07:23:57",
+  "shipped_at": "2025-12-20T07:23:57",
+  "delivered_at": "2025-12-22T07:23:57",
+  "shipping_address": "444 Polish Hill St, Philadelphia, PA 19123",
+  "items": [
+    {
+      "product_id": "B0PETS0079",
+      "name": "Aquarium Co-Op Aquarium Co-Op Easy Planter",
+      "category": "Pet Supplies",
+      "quantity": 1,
+      "price": 13.78,
+      "subtotal": 13.78
+    }
+  ],
+  "total": 13.78,
+  "currency": "USD"
+}

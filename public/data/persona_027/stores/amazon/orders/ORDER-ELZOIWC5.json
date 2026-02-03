@@ -1,0 +1,22 @@
+{
+  "order_id": "ORDER-ELZOIWC5",
+  "persona_id": "persona_027",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2026-01-25T00:15:29",
+  "shipped_at": "2026-01-27T00:15:29",
+  "delivered_at": "2026-01-30T00:15:29",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "items": [
+    {
+      "product_id": "B0C8GI146K",
+      "name": "Pso-Rite Psoas Muscle Release Tool",
+      "category": "Sports & Outdoors",
+      "quantity": 2,
+      "price": 59.0,
+      "subtotal": 118.0
+    }
+  ],
+  "total": 118.0,
+  "currency": "USD"
+}

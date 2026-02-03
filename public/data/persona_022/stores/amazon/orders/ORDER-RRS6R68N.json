@@ -1,0 +1,22 @@
+{
+  "order_id": "ORDER-RRS6R68N",
+  "persona_id": "persona_022",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-11-26T03:25:07",
+  "shipped_at": "2025-11-28T03:25:07",
+  "delivered_at": "2025-11-30T03:25:07",
+  "shipping_address": "444 Polish Hill St, Philadelphia, PA 19123",
+  "items": [
+    {
+      "product_id": "B059731689",
+      "name": "Breville Sous Chef 16 Pro Food Processor",
+      "category": "Home & Kitchen",
+      "quantity": 1,
+      "price": 453.75,
+      "subtotal": 453.75
+    }
+  ],
+  "total": 453.75,
+  "currency": "USD"
+}

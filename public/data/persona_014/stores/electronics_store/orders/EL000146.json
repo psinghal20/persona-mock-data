@@ -1,0 +1,38 @@
+{
+  "order_id": "EL000146",
+  "persona_id": "persona_014",
+  "store_id": "electronics_store",
+  "status": "delivered",
+  "created_at": "2025-12-06T14:05:51",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "888 Design District Ln, San Francisco, CA 94102",
+  "items": [
+    {
+      "product_id": "SH013",
+      "name": "Apple HomePod mini",
+      "category": "Smart Home",
+      "quantity": 2,
+      "price": 99.99,
+      "subtotal": 199.98
+    },
+    {
+      "product_id": "LP040",
+      "name": "Samsung Galaxy Book4 360",
+      "category": "Laptops",
+      "quantity": 2,
+      "price": 1099.99,
+      "subtotal": 2199.98
+    },
+    {
+      "product_id": "TB008",
+      "name": "Samsung Galaxy Tab S9+ 256GB",
+      "category": "Tablets",
+      "quantity": 2,
+      "price": 999.99,
+      "subtotal": 1999.98
+    }
+  ],
+  "total": 4399.94,
+  "currency": "USD"
+}

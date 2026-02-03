@@ -1,0 +1,54 @@
+{
+  "order_id": "GRC000274",
+  "persona_id": "persona_031",
+  "store_id": "grocery",
+  "status": "pending",
+  "created_at": "2025-10-08T21:12:05",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "999 Suburban Lane, Phoenix, AZ 85001",
+  "items": [
+    {
+      "product_id": "GRO-1414",
+      "name": "Nature's Path Organic Eggs Brown",
+      "category": "Breakfast",
+      "quantity": 2,
+      "price": 8.06,
+      "subtotal": 16.12
+    },
+    {
+      "product_id": "prod_501",
+      "name": "Simply Good Organic Dinner Rolls",
+      "category": "Bakery",
+      "quantity": 2,
+      "price": 5.65,
+      "subtotal": 11.3
+    },
+    {
+      "product_id": "GRO-0993",
+      "name": "Cal-Organic Rutabaga",
+      "category": "Produce",
+      "quantity": 5,
+      "price": 4.56,
+      "subtotal": 22.8
+    },
+    {
+      "product_id": "prod_080",
+      "name": "Local Pride Organic Kiwi",
+      "category": "Produce",
+      "quantity": 3,
+      "price": 1.1,
+      "subtotal": 3.3
+    },
+    {
+      "product_id": "GRO-1024",
+      "name": "Local Farm Fresh Chervil",
+      "category": "Produce",
+      "quantity": 2,
+      "price": 11.73,
+      "subtotal": 23.46
+    }
+  ],
+  "total": 76.98,
+  "currency": "USD"
+}

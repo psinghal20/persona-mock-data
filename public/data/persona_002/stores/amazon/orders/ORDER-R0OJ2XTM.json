@@ -1,0 +1,30 @@
+{
+  "order_id": "ORDER-R0OJ2XTM",
+  "persona_id": "persona_002",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-10-01T14:29:05",
+  "shipped_at": "2025-10-02T14:29:05",
+  "delivered_at": "2025-10-05T14:29:05",
+  "shipping_address": "456 Tech Park Drive, San Jose, CA 95110",
+  "items": [
+    {
+      "product_id": "B0AMZN1366",
+      "name": "HyperDrive USB-C Hub",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 119.99,
+      "subtotal": 119.99
+    },
+    {
+      "product_id": "B0ELEC0046",
+      "name": "Ugreen Ugreen USB-C Hub 9-in-1",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 63.26,
+      "subtotal": 63.26
+    }
+  ],
+  "total": 183.25,
+  "currency": "USD"
+}

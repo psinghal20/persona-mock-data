@@ -1,0 +1,134 @@
+{
+  "order_id": "GRC000312",
+  "persona_id": "persona_022",
+  "store_id": "grocery",
+  "status": "delivered",
+  "created_at": "2025-10-11T00:03:42",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "444 Polish Hill St, Philadelphia, PA 19123",
+  "items": [
+    {
+      "product_id": "prod_833",
+      "name": "Mountain Fresh Basil Dried",
+      "category": "Condiments & Spices",
+      "quantity": 3,
+      "price": 3.91,
+      "subtotal": 11.73
+    },
+    {
+      "product_id": "prod_198",
+      "name": "Fresh Farms Swiss Cheese",
+      "category": "Dairy",
+      "quantity": 1,
+      "price": 5.73,
+      "subtotal": 5.73
+    },
+    {
+      "product_id": "prod_206",
+      "name": "Fresh Farms Blue Cheese",
+      "category": "Dairy",
+      "quantity": 2,
+      "price": 8.38,
+      "subtotal": 16.76
+    },
+    {
+      "product_id": "prod_199",
+      "name": "Simply Good Organic Feta Cheese",
+      "category": "Dairy",
+      "quantity": 2,
+      "price": 7.5,
+      "subtotal": 15.0
+    },
+    {
+      "product_id": "prod_299",
+      "name": "Fresh Farms Organic Clams",
+      "category": "Meat & Seafood",
+      "quantity": 4,
+      "price": 34.53,
+      "subtotal": 138.12
+    },
+    {
+      "product_id": "prod_840",
+      "name": "Meadow Gold Rosemary",
+      "category": "Condiments & Spices",
+      "quantity": 1,
+      "price": 4.07,
+      "subtotal": 4.07
+    },
+    {
+      "product_id": "prod_367",
+      "name": "Heritage Foods Organic Powdered Sugar",
+      "category": "Pantry",
+      "quantity": 2,
+      "price": 4.32,
+      "subtotal": 8.64
+    },
+    {
+      "product_id": "prod_734",
+      "name": "Mountain Fresh Organic Beef Jerky",
+      "category": "Snacks",
+      "quantity": 5,
+      "price": 10.93,
+      "subtotal": 54.65
+    },
+    {
+      "product_id": "prod_967",
+      "name": "Heritage Foods Organic Cat Food Wet",
+      "category": "Pet",
+      "quantity": 2,
+      "price": 1.68,
+      "subtotal": 3.36
+    },
+    {
+      "product_id": "GRO-1022",
+      "name": "Fresh Express Fresh Oregano",
+      "category": "Produce",
+      "quantity": 1,
+      "price": 1.64,
+      "subtotal": 1.64
+    },
+    {
+      "product_id": "prod_354",
+      "name": "Daily Delight Organic All Purpose Flour",
+      "category": "Pantry",
+      "quantity": 3,
+      "price": 5.64,
+      "subtotal": 16.92
+    },
+    {
+      "product_id": "prod_497",
+      "name": "Country Best Focaccia",
+      "category": "Bakery",
+      "quantity": 1,
+      "price": 12.12,
+      "subtotal": 12.12
+    },
+    {
+      "product_id": "GRO-1736",
+      "name": "Green Giant Fresh Strawberries",
+      "category": "Produce",
+      "quantity": 2,
+      "price": 7.7,
+      "subtotal": 15.4
+    },
+    {
+      "product_id": "prod_341",
+      "name": "Daily Delight Organic Brown Rice",
+      "category": "Pantry",
+      "quantity": 1,
+      "price": 5.29,
+      "subtotal": 5.29
+    },
+    {
+      "product_id": "GRO-1693",
+      "name": "Local Farm Fresh Parsley",
+      "category": "Produce",
+      "quantity": 2,
+      "price": 1.62,
+      "subtotal": 3.24
+    }
+  ],
+  "total": 312.67,
+  "currency": "USD"
+}

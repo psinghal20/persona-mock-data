@@ -1,0 +1,22 @@
+{
+  "order_id": "ORDER-NGHEDHOC",
+  "persona_id": "persona_016",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-11-14T15:16:54",
+  "shipped_at": "2025-11-15T15:16:54",
+  "delivered_at": "2025-11-19T15:16:54",
+  "shipping_address": "222 Tech Campus Way, Austin, TX 78701",
+  "items": [
+    {
+      "product_id": "B0ELEC0016",
+      "name": "ASUS ASUS ROG Strix G16 Desktop",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 2183.05,
+      "subtotal": 2183.05
+    }
+  ],
+  "total": 2183.05,
+  "currency": "USD"
+}

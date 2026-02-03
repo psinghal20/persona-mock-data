@@ -1,0 +1,32 @@
+{
+  "order_id": "78",
+  "persona_id": "persona_027",
+  "store_id": "florist",
+  "status": "scheduled",
+  "created_at": "2025-12-04T03:45:38",
+  "shipped_at": "",
+  "delivered_at": "2025-12-10",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "recipient_name": "Grandmother",
+  "card_message": "Happy Anniversary!",
+  "items": [
+    {
+      "product_id": "105",
+      "name": "Christmas Poinsettia",
+      "category": "Seasonal",
+      "quantity": 1,
+      "price": 24.99,
+      "subtotal": 24.99
+    },
+    {
+      "product_id": "29",
+      "name": "Belgian Truffle Assortment",
+      "category": "Add-on",
+      "quantity": 1,
+      "price": 34.99,
+      "subtotal": 34.99
+    }
+  ],
+  "total": 74.97,
+  "currency": "USD"
+}

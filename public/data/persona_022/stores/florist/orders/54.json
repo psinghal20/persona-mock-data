@@ -1,0 +1,24 @@
+{
+  "order_id": "54",
+  "persona_id": "persona_022",
+  "store_id": "florist",
+  "status": "scheduled",
+  "created_at": "2025-10-29T19:23:40",
+  "shipped_at": "",
+  "delivered_at": "2025-11-04",
+  "shipping_address": "444 Polish Hill St, Philadelphia, PA 19123",
+  "recipient_name": "Anna Kowalczyk",
+  "card_message": "Just because I love you!",
+  "items": [
+    {
+      "product_id": "1",
+      "name": "Classic Red Roses",
+      "category": "Roses",
+      "quantity": 1,
+      "price": 79.99,
+      "subtotal": 79.99
+    }
+  ],
+  "total": 94.98,
+  "currency": "USD"
+}

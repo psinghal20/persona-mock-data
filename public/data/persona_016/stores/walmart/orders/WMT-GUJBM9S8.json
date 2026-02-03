@@ -1,0 +1,30 @@
+{
+  "order_id": "WMT-GUJBM9S8",
+  "persona_id": "persona_016",
+  "store_id": "walmart",
+  "status": "shipped",
+  "created_at": "2026-01-14T05:11:44",
+  "shipped_at": "2026-01-17T05:11:44",
+  "delivered_at": "",
+  "shipping_address": "222 Tech Campus Way, Austin, TX 78701",
+  "items": [
+    {
+      "product_id": "WMT00000706",
+      "name": "Organic Valley Fresh Blueberries",
+      "category": "Grocery",
+      "quantity": 3,
+      "price": 0.97,
+      "subtotal": 2.91
+    },
+    {
+      "product_id": "WMT00000678",
+      "name": "Organic Valley Purple Eggplant",
+      "category": "Grocery",
+      "quantity": 4,
+      "price": 5.26,
+      "subtotal": 21.04
+    }
+  ],
+  "total": 23.95,
+  "currency": "USD"
+}

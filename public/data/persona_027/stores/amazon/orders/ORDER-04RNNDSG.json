@@ -1,0 +1,22 @@
+{
+  "order_id": "ORDER-04RNNDSG",
+  "persona_id": "persona_027",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2026-01-06T00:22:22",
+  "shipped_at": "2026-01-09T00:22:22",
+  "delivered_at": "2026-01-14T00:22:22",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "items": [
+    {
+      "product_id": "B0B5GHR23L",
+      "name": "Barbie Dreamhouse 2023",
+      "category": "Toys",
+      "quantity": 1,
+      "price": 199.99,
+      "subtotal": 199.99
+    }
+  ],
+  "total": 199.99,
+  "currency": "USD"
+}

@@ -1,0 +1,22 @@
+{
+  "order_id": "ORDER-O1J00KK1",
+  "persona_id": "persona_013",
+  "store_id": "amazon",
+  "status": "shipped",
+  "created_at": "2025-10-23T08:59:11",
+  "shipped_at": "2025-10-25T08:59:11",
+  "delivered_at": "",
+  "shipping_address": "555 Community Center Rd, Houston, TX 77001",
+  "items": [
+    {
+      "product_id": "B0C7GJ435L",
+      "name": "Keter Oakland Outdoor Storage Shed 7.5x7",
+      "category": "Patio Lawn Garden",
+      "quantity": 2,
+      "price": 1199.99,
+      "subtotal": 2399.98
+    }
+  ],
+  "total": 2399.98,
+  "currency": "USD"
+}

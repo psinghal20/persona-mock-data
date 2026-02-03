@@ -1,0 +1,30 @@
+{
+  "order_id": "WMT-G2KWBS7K",
+  "persona_id": "persona_027",
+  "store_id": "walmart",
+  "status": "delivered",
+  "created_at": "2025-10-18T02:59:57",
+  "shipped_at": "2025-10-19T02:59:57",
+  "delivered_at": "2025-10-22T02:59:57",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "items": [
+    {
+      "product_id": "WMT00000983",
+      "name": "Sonos Sonos Arc Soundbar",
+      "category": "Electronics",
+      "quantity": 4,
+      "price": 840.93,
+      "subtotal": 3363.72
+    },
+    {
+      "product_id": "WMT00000324",
+      "name": "Daily Delight Breakfast Bars",
+      "category": "Grocery",
+      "quantity": 2,
+      "price": 5.59,
+      "subtotal": 11.18
+    }
+  ],
+  "total": 3374.9,
+  "currency": "USD"
+}

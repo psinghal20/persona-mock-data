@@ -1,0 +1,22 @@
+{
+  "order_id": "EL000042",
+  "persona_id": "persona_023",
+  "store_id": "electronics_store",
+  "status": "delivered",
+  "created_at": "2025-10-16T03:18:09",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "777 East Side Ave, Cleveland, OH 44114",
+  "items": [
+    {
+      "product_id": "GM022",
+      "name": "HyperX Cloud III",
+      "category": "Gaming",
+      "quantity": 1,
+      "price": 99.99,
+      "subtotal": 99.99
+    }
+  ],
+  "total": 99.99,
+  "currency": "USD"
+}

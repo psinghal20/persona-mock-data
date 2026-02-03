@@ -1,0 +1,25 @@
+{
+  "order_id": "GRM-6",
+  "persona_id": "persona_031",
+  "store_id": "pet_store",
+  "type": "grooming",
+  "status": "completed",
+  "appointment_date": "2025-12-01",
+  "appointment_time": "13:00",
+  "items": [
+    {
+      "product_id": "GRM040",
+      "name": "Express Nail Trim Walk-In",
+      "description": "Quick walk-in nail trim no appointment",
+      "pet_name": "Buddy",
+      "pet_type": "Dogs",
+      "pet_breed": "Golden Retriever",
+      "duration_minutes": "10",
+      "quantity": 1,
+      "price": 12.0,
+      "subtotal": 12.0
+    }
+  ],
+  "total": 12.0,
+  "currency": "USD"
+}

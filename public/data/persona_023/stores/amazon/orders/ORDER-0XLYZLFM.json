@@ -1,0 +1,38 @@
+{
+  "order_id": "ORDER-0XLYZLFM",
+  "persona_id": "persona_023",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-10-23T15:42:44",
+  "shipped_at": "2025-10-25T15:42:44",
+  "delivered_at": "2025-10-27T15:42:44",
+  "shipping_address": "777 East Side Ave, Cleveland, OH 44114",
+  "items": [
+    {
+      "product_id": "B0AMZN1803",
+      "name": "Artisan FX Zero XL",
+      "category": "Electronics",
+      "quantity": 2,
+      "price": 59.0,
+      "subtotal": 118.0
+    },
+    {
+      "product_id": "B0ELEC0032",
+      "name": "Dell Alienware Aurora R16",
+      "category": "Electronics",
+      "quantity": 2,
+      "price": 2272.8,
+      "subtotal": 4545.6
+    },
+    {
+      "product_id": "B0PCPT0205",
+      "name": "Corsair Dominator Titanium DDR5 Memory",
+      "category": "Electronics",
+      "quantity": 2,
+      "price": 458.29,
+      "subtotal": 916.58
+    }
+  ],
+  "total": 5580.18,
+  "currency": "USD"
+}

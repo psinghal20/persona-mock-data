@@ -1,0 +1,38 @@
+{
+  "order_id": "EL000099",
+  "persona_id": "persona_010",
+  "store_id": "electronics_store",
+  "status": "pending",
+  "created_at": "2025-12-22T16:05:25",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "321 French Quarter Ave, New Orleans, LA 70116",
+  "items": [
+    {
+      "product_id": "SH035",
+      "name": "Dreametech L20 Ultra",
+      "category": "Smart Home",
+      "quantity": 2,
+      "price": 1199.99,
+      "subtotal": 2399.98
+    },
+    {
+      "product_id": "SH045",
+      "name": "IKEA Dirigera Hub",
+      "category": "Smart Home",
+      "quantity": 2,
+      "price": 49.99,
+      "subtotal": 99.98
+    },
+    {
+      "product_id": "NW004",
+      "name": "Google Nest WiFi Pro 3-Pack",
+      "category": "Networking",
+      "quantity": 2,
+      "price": 399.99,
+      "subtotal": 799.98
+    }
+  ],
+  "total": 3299.94,
+  "currency": "USD"
+}

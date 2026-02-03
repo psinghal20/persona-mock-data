@@ -1,0 +1,38 @@
+{
+  "order_id": "WMT-UBHP322U",
+  "persona_id": "persona_013",
+  "store_id": "walmart",
+  "status": "delivered",
+  "created_at": "2025-10-31T08:36:11",
+  "shipped_at": "2025-11-02T08:36:11",
+  "delivered_at": "2025-11-05T08:36:11",
+  "shipping_address": "555 Community Center Rd, Houston, TX 77001",
+  "items": [
+    {
+      "product_id": "WMT00002010",
+      "name": "Cleto Reyes Cleto Reyes Headgear",
+      "category": "Sports",
+      "quantity": 1,
+      "price": 271.53,
+      "subtotal": 271.53
+    },
+    {
+      "product_id": "WMT00001851",
+      "name": "REI Co-op Magma 15 Sleeping Bag",
+      "category": "Sports",
+      "quantity": 3,
+      "price": 345.89,
+      "subtotal": 1037.67
+    },
+    {
+      "product_id": "WMT00001949",
+      "name": "Lululemon Reversible Mat 5mm",
+      "category": "Sports",
+      "quantity": 2,
+      "price": 85.15,
+      "subtotal": 170.3
+    }
+  ],
+  "total": 1479.5,
+  "currency": "USD"
+}

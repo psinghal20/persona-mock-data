@@ -1,0 +1,30 @@
+{
+  "order_id": "SPG000099",
+  "persona_id": "persona_002",
+  "store_id": "sporting_goods",
+  "status": "delivered",
+  "created_at": "2025-11-01T09:40:42",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "456 Tech Park Drive, San Jose, CA 95110",
+  "items": [
+    {
+      "product_id": "CLM001",
+      "name": "Momentum DS Harness",
+      "category": "Harnesses",
+      "quantity": 2,
+      "price": 64.99,
+      "subtotal": 129.98
+    },
+    {
+      "product_id": "CLM013",
+      "name": "Petzl Reverso",
+      "category": "Gear",
+      "quantity": 1,
+      "price": 32.99,
+      "subtotal": 32.99
+    }
+  ],
+  "total": 162.97,
+  "currency": "USD"
+}

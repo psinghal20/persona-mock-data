@@ -1,0 +1,30 @@
+{
+  "order_id": "ORDER-RLP1LEF1",
+  "persona_id": "persona_027",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2026-01-10T01:31:56",
+  "shipped_at": "2026-01-12T01:31:56",
+  "delivered_at": "2026-01-17T01:31:56",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "items": [
+    {
+      "product_id": "B0TOYS0002",
+      "name": "Franklin Franklin Sports Baseball Set",
+      "category": "Toys & Games",
+      "quantity": 2,
+      "price": 24.66,
+      "subtotal": 49.32
+    },
+    {
+      "product_id": "B0AMZN1202",
+      "name": "CAP Barbell Olympic Weight Set 300 lb",
+      "category": "Sports & Outdoors",
+      "quantity": 3,
+      "price": 399.99,
+      "subtotal": 1199.97
+    }
+  ],
+  "total": 1249.29,
+  "currency": "USD"
+}

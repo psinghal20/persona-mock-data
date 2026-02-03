@@ -1,0 +1,22 @@
+{
+  "order_id": "ORDER-VA6JT5MG",
+  "persona_id": "persona_023",
+  "store_id": "amazon",
+  "status": "shipped",
+  "created_at": "2026-01-13T03:46:12",
+  "shipped_at": "2026-01-15T03:46:12",
+  "delivered_at": "",
+  "shipping_address": "777 East Side Ave, Cleveland, OH 44114",
+  "items": [
+    {
+      "product_id": "B0TOYS0128",
+      "name": "LEGO LEGO Star Wars Millennium Falcon",
+      "category": "Toys & Games",
+      "quantity": 1,
+      "price": 159.64,
+      "subtotal": 159.64
+    }
+  ],
+  "total": 159.64,
+  "currency": "USD"
+}

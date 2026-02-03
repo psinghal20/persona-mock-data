@@ -1,0 +1,24 @@
+{
+  "order_id": "25",
+  "persona_id": "persona_013",
+  "store_id": "florist",
+  "status": "pending",
+  "created_at": "2025-11-09T01:28:38",
+  "shipped_at": "",
+  "delivered_at": "2025-11-16",
+  "shipping_address": "555 Community Center Rd, Houston, TX 77001",
+  "recipient_name": "Friend",
+  "card_message": "",
+  "items": [
+    {
+      "product_id": "28",
+      "name": "Garden Romance",
+      "category": "Roses",
+      "quantity": 1,
+      "price": 89.99,
+      "subtotal": 89.99
+    }
+  ],
+  "total": 99.98,
+  "currency": "USD"
+}

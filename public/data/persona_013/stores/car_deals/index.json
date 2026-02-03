@@ -1,0 +1,447 @@
+{
+  "persona_id": "persona_013",
+  "store_id": "car_deals",
+  "store_name": "Car Deals",
+  "transaction_type": "inquiries",
+  "transaction_label": "activities",
+  "has_cost": false,
+  "summary": {
+    "total_count": 23,
+    "total_spent": 0,
+    "first_date": "2025-10-04",
+    "last_date": "2026-01-20"
+  },
+  "items": [
+    {
+      "order_id": "INQ-19",
+      "display_name": "Impreza",
+      "description": "Inquiry \u00b7 $16,500",
+      "status": "inquiry",
+      "total": 0,
+      "item_count": 1,
+      "created_at": "2026-01-20T18:00:53"
+    },
+    {
+      "order_id": "TD-18",
+      "display_name": "GranTurismo",
+      "description": "Test Drive \u00b7 $198,500",
+      "status": "confirmed",
+      "total": 0,
+      "item_count": 1,
+      "created_at": "2026-01-04T00:30:56"
+    },
+    {
+      "order_id": "TD-7",
+      "display_name": "E-Class",
+      "description": "Test Drive \u00b7 $56,500",
+      "status": "confirmed",
+      "total": 0,
+      "item_count": 1,
+      "created_at": "2025-12-25T22:14:33"
+    },
+    {
+      "order_id": "INQ-18",
+      "display_name": "Grand Cherokee",
+      "description": "Inquiry \u00b7 $54,500",
+      "status": "inquiry",
+      "total": 0,
+      "item_count": 1,
+      "created_at": "2025-12-22T20:49:42"
+    },
+    {
+      "order_id": "INQ-14",
+      "display_name": "Rogue",
+      "description": "Inquiry \u00b7 $38,500",
+      "status": "inquiry",
+      "total": 0,
+      "item_count": 1,
+      "created_at": "2025-12-21T21:07:34"
+    },
+    {
+      "order_id": "INQ-22",
+      "display_name": "Silverado 1500",
+      "description": "Inquiry \u00b7 $49,500",
+      "status": "inquiry",
+      "total": 0,
+      "item_count": 1,
+      "created_at": "2025-12-21T17:36:19"
+    },
+    {
+      "order_id": "INQ-13",
+      "display_name": "CR-V",
+      "description": "Inquiry \u00b7 $21,500",
+      "status": "inquiry",
+      "total": 0,
+      "item_count": 1,
+      "created_at": "2025-12-13T20:08:13"
+    },
+    {
+      "order_id": "TD-10",
+      "display_name": "CR-V",
+      "description": "Test Drive \u00b7 $21,500",
+      "status": "pending",
+      "total": 0,
+      "item_count": 1,
+      "created_at": "2025-12-11T14:34:43"
+    },
+    {
+      "order_id": "INQ-8",
+      "display_name": "F-PACE",
+      "description": "Inquiry \u00b7 $28,500",
+      "status": "inquiry",
+      "total": 0,
+      "item_count": 1,
+      "created_at": "2025-12-11T02:24:54"
+    },
+    {
+      "order_id": "INQ-7",
+      "display_name": "Mustang",
+      "description": "Inquiry \u00b7 $62,500",
+      "status": "inquiry",
+      "total": 0,
+      "item_count": 1,
+      "created_at": "2025-12-02T03:22:33"
+    },
+    {
+      "order_id": "INQ-11",
+      "display_name": "7 Series",
+      "description": "Inquiry \u00b7 $118,500",
+      "status": "inquiry",
+      "total": 0,
+      "item_count": 1,
+      "created_at": "2025-12-01T10:59:52"
+    },
+    {
+      "order_id": "INQ-23",
+      "display_name": "Pilot",
+      "description": "Inquiry \u00b7 $28,500",
+      "status": "inquiry",
+      "total": 0,
+      "item_count": 1,
+      "created_at": "2025-11-29T06:03:55"
+    },
+    {
+      "order_id": "TD-8",
+      "display_name": "RAV4",
+      "description": "Test Drive \u00b7 $19,500",
+      "status": "completed",
+      "total": 0,
+      "item_count": 1,
+      "created_at": "2025-11-18T08:39:17"
+    },
+    {
+      "order_id": "TD-15",
+      "display_name": "Telluride",
+      "description": "Test Drive \u00b7 $48,500",
+      "status": "confirmed",
+      "total": 0,
+      "item_count": 1,
+      "created_at": "2025-11-07T15:40:36"
+    },
+    {
+      "order_id": "INQ-21",
+      "display_name": "GranTurismo",
+      "description": "Inquiry \u00b7 $198,500",
+      "status": "inquiry",
+      "total": 0,
+      "item_count": 1,
+      "created_at": "2025-10-24T14:31:37"
+    },
+    {
+      "order_id": "INQ-12",
+      "display_name": "Outback",
+      "description": "Inquiry \u00b7 $38,500",
+      "status": "inquiry",
+      "total": 0,
+      "item_count": 1,
+      "created_at": "2025-10-24T04:32:53"
+    },
+    {
+      "order_id": "INQ-9",
+      "display_name": "718",
+      "description": "Inquiry \u00b7 $82,500",
+      "status": "inquiry",
+      "total": 0,
+      "item_count": 1,
+      "created_at": "2025-10-18T05:59:33"
+    },
+    {
+      "order_id": "TD-14",
+      "display_name": "Model S",
+      "description": "Test Drive \u00b7 $52,500",
+      "status": "completed",
+      "total": 0,
+      "item_count": 1,
+      "created_at": "2025-10-18T04:31:20"
+    },
+    {
+      "order_id": "INQ-20",
+      "display_name": "F-150",
+      "description": "Inquiry \u00b7 $78,500",
+      "status": "inquiry",
+      "total": 0,
+      "item_count": 1,
+      "created_at": "2025-10-15T13:16:47"
+    },
+    {
+      "order_id": "TD-9",
+      "display_name": "GLB",
+      "description": "Test Drive \u00b7 $48,500",
+      "status": "pending",
+      "total": 0,
+      "item_count": 1,
+      "created_at": "2025-10-14T18:34:41"
+    },
+    {
+      "order_id": "TD-16",
+      "display_name": "EQB",
+      "description": "Test Drive \u00b7 $62,500",
+      "status": "confirmed",
+      "total": 0,
+      "item_count": 1,
+      "created_at": "2025-10-13T00:51:18"
+    },
+    {
+      "order_id": "INQ-10",
+      "display_name": "E-Class",
+      "description": "Inquiry \u00b7 $56,500",
+      "status": "inquiry",
+      "total": 0,
+      "item_count": 1,
+      "created_at": "2025-10-04T19:22:28"
+    },
+    {
+      "order_id": "TD-17",
+      "display_name": "Model 3",
+      "description": "Test Drive \u00b7 $42,900",
+      "status": "confirmed",
+      "total": 0,
+      "item_count": 1,
+      "created_at": "2025-10-04T11:24:46"
+    }
+  ],
+  "categories": [
+    {
+      "id": "inquiries",
+      "name": "Activities",
+      "type": "inquiries",
+      "label": "activities",
+      "has_cost": false,
+      "summary": {
+        "total_count": 23,
+        "total_spent": 0,
+        "first_date": "2025-10-04",
+        "last_date": "2026-01-20"
+      },
+      "items": [
+        {
+          "order_id": "INQ-19",
+          "display_name": "Impreza",
+          "description": "Inquiry \u00b7 $16,500",
+          "status": "inquiry",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2026-01-20T18:00:53"
+        },
+        {
+          "order_id": "TD-18",
+          "display_name": "GranTurismo",
+          "description": "Test Drive \u00b7 $198,500",
+          "status": "confirmed",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2026-01-04T00:30:56"
+        },
+        {
+          "order_id": "TD-7",
+          "display_name": "E-Class",
+          "description": "Test Drive \u00b7 $56,500",
+          "status": "confirmed",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-12-25T22:14:33"
+        },
+        {
+          "order_id": "INQ-18",
+          "display_name": "Grand Cherokee",
+          "description": "Inquiry \u00b7 $54,500",
+          "status": "inquiry",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-12-22T20:49:42"
+        },
+        {
+          "order_id": "INQ-14",
+          "display_name": "Rogue",
+          "description": "Inquiry \u00b7 $38,500",
+          "status": "inquiry",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-12-21T21:07:34"
+        },
+        {
+          "order_id": "INQ-22",
+          "display_name": "Silverado 1500",
+          "description": "Inquiry \u00b7 $49,500",
+          "status": "inquiry",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-12-21T17:36:19"
+        },
+        {
+          "order_id": "INQ-13",
+          "display_name": "CR-V",
+          "description": "Inquiry \u00b7 $21,500",
+          "status": "inquiry",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-12-13T20:08:13"
+        },
+        {
+          "order_id": "TD-10",
+          "display_name": "CR-V",
+          "description": "Test Drive \u00b7 $21,500",
+          "status": "pending",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-12-11T14:34:43"
+        },
+        {
+          "order_id": "INQ-8",
+          "display_name": "F-PACE",
+          "description": "Inquiry \u00b7 $28,500",
+          "status": "inquiry",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-12-11T02:24:54"
+        },
+        {
+          "order_id": "INQ-7",
+          "display_name": "Mustang",
+          "description": "Inquiry \u00b7 $62,500",
+          "status": "inquiry",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-12-02T03:22:33"
+        },
+        {
+          "order_id": "INQ-11",
+          "display_name": "7 Series",
+          "description": "Inquiry \u00b7 $118,500",
+          "status": "inquiry",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-12-01T10:59:52"
+        },
+        {
+          "order_id": "INQ-23",
+          "display_name": "Pilot",
+          "description": "Inquiry \u00b7 $28,500",
+          "status": "inquiry",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-11-29T06:03:55"
+        },
+        {
+          "order_id": "TD-8",
+          "display_name": "RAV4",
+          "description": "Test Drive \u00b7 $19,500",
+          "status": "completed",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-11-18T08:39:17"
+        },
+        {
+          "order_id": "TD-15",
+          "display_name": "Telluride",
+          "description": "Test Drive \u00b7 $48,500",
+          "status": "confirmed",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-11-07T15:40:36"
+        },
+        {
+          "order_id": "INQ-21",
+          "display_name": "GranTurismo",
+          "description": "Inquiry \u00b7 $198,500",
+          "status": "inquiry",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-10-24T14:31:37"
+        },
+        {
+          "order_id": "INQ-12",
+          "display_name": "Outback",
+          "description": "Inquiry \u00b7 $38,500",
+          "status": "inquiry",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-10-24T04:32:53"
+        },
+        {
+          "order_id": "INQ-9",
+          "display_name": "718",
+          "description": "Inquiry \u00b7 $82,500",
+          "status": "inquiry",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-10-18T05:59:33"
+        },
+        {
+          "order_id": "TD-14",
+          "display_name": "Model S",
+          "description": "Test Drive \u00b7 $52,500",
+          "status": "completed",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-10-18T04:31:20"
+        },
+        {
+          "order_id": "INQ-20",
+          "display_name": "F-150",
+          "description": "Inquiry \u00b7 $78,500",
+          "status": "inquiry",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-10-15T13:16:47"
+        },
+        {
+          "order_id": "TD-9",
+          "display_name": "GLB",
+          "description": "Test Drive \u00b7 $48,500",
+          "status": "pending",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-10-14T18:34:41"
+        },
+        {
+          "order_id": "TD-16",
+          "display_name": "EQB",
+          "description": "Test Drive \u00b7 $62,500",
+          "status": "confirmed",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-10-13T00:51:18"
+        },
+        {
+          "order_id": "INQ-10",
+          "display_name": "E-Class",
+          "description": "Inquiry \u00b7 $56,500",
+          "status": "inquiry",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-10-04T19:22:28"
+        },
+        {
+          "order_id": "TD-17",
+          "display_name": "Model 3",
+          "description": "Test Drive \u00b7 $42,900",
+          "status": "confirmed",
+          "total": 0,
+          "item_count": 1,
+          "created_at": "2025-10-04T11:24:46"
+        }
+      ]
+    }
+  ]
+}

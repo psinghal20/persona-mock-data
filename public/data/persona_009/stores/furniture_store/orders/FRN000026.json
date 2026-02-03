@@ -1,0 +1,22 @@
+{
+  "order_id": "FRN000026",
+  "persona_id": "persona_009",
+  "store_id": "furniture_store",
+  "status": "delivered",
+  "created_at": "2026-01-02T17:42:30",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "789 Veterans Blvd, Tampa, FL 33602",
+  "items": [
+    {
+      "product_id": "OD011",
+      "name": "Pacific Swivel Chair",
+      "category": "Chairs",
+      "quantity": 1,
+      "price": 349.99,
+      "subtotal": 349.99
+    }
+  ],
+  "total": 349.99,
+  "currency": "USD"
+}

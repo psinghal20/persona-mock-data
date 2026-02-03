@@ -1,0 +1,38 @@
+{
+  "order_id": "ORDER-CEYF3JYC",
+  "persona_id": "persona_016",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-12-08T10:01:15",
+  "shipped_at": "2025-12-11T10:01:15",
+  "delivered_at": "2025-12-16T10:01:15",
+  "shipping_address": "222 Tech Campus Way, Austin, TX 78701",
+  "items": [
+    {
+      "product_id": "B0BV9XFG3X",
+      "name": "Razer Blade 16 Gaming Laptop",
+      "category": "Electronics",
+      "quantity": 2,
+      "price": 3499.99,
+      "subtotal": 6999.98
+    },
+    {
+      "product_id": "B0BOOK0022",
+      "name": "The Secret History by Donna Tartt",
+      "category": "Books",
+      "quantity": 2,
+      "price": 17.01,
+      "subtotal": 34.02
+    },
+    {
+      "product_id": "B0BOOK0203",
+      "name": "Norwegian Wood by Haruki Murakami",
+      "category": "Books",
+      "quantity": 2,
+      "price": 15.08,
+      "subtotal": 30.16
+    }
+  ],
+  "total": 7064.16,
+  "currency": "USD"
+}

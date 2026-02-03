@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-24",
+  "persona_id": "persona_016",
+  "store_id": "coffee_roaster",
+  "status": "completed",
+  "created_at": "2025-11-11T21:01:59",
+  "items": [
+    {
+      "product_id": "34",
+      "name": "Zambia Isanya Estate",
+      "category": "",
+      "quantity": 1,
+      "price": 27.0,
+      "subtotal": 27.0
+    }
+  ],
+  "total": 27.0,
+  "currency": "USD"
+}

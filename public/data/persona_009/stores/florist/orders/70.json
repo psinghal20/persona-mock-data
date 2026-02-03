@@ -1,0 +1,40 @@
+{
+  "order_id": "70",
+  "persona_id": "persona_009",
+  "store_id": "florist",
+  "status": "scheduled",
+  "created_at": "2026-01-17T19:25:56",
+  "shipped_at": "",
+  "delivered_at": "2026-01-24",
+  "shipping_address": "789 Veterans Blvd, Tampa, FL 33602",
+  "recipient_name": "William Thompson",
+  "card_message": "Happy Birthday!",
+  "items": [
+    {
+      "product_id": "17",
+      "name": "Heartfelt Condolences",
+      "category": "Mixed Flowers",
+      "quantity": 1,
+      "price": 79.99,
+      "subtotal": 79.99
+    },
+    {
+      "product_id": "26",
+      "name": "Ferrero Rocher Box (12pc)",
+      "category": "Add-on",
+      "quantity": 1,
+      "price": 18.99,
+      "subtotal": 18.99
+    },
+    {
+      "product_id": "33",
+      "name": "Colored Glass Vase (Blue)",
+      "category": "Add-on",
+      "quantity": 1,
+      "price": 16.99,
+      "subtotal": 16.99
+    }
+  ],
+  "total": 125.96,
+  "currency": "USD"
+}

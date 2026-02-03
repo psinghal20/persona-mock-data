@@ -1,0 +1,38 @@
+{
+  "order_id": "EL000031",
+  "persona_id": "persona_023",
+  "store_id": "electronics_store",
+  "status": "delivered",
+  "created_at": "2026-01-12T12:06:55",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "777 East Side Ave, Cleveland, OH 44114",
+  "items": [
+    {
+      "product_id": "TV009",
+      "name": "Samsung 32\" Class M50B Smart Monitor",
+      "category": "TVs",
+      "quantity": 2,
+      "price": 299.99,
+      "subtotal": 599.98
+    },
+    {
+      "product_id": "GM019",
+      "name": "Blue Yeti USB Microphone",
+      "category": "Gaming",
+      "quantity": 2,
+      "price": 129.99,
+      "subtotal": 259.98
+    },
+    {
+      "product_id": "GM013",
+      "name": "Xbox Wireless Controller",
+      "category": "Gaming",
+      "quantity": 2,
+      "price": 59.99,
+      "subtotal": 119.98
+    }
+  ],
+  "total": 979.94,
+  "currency": "USD"
+}

@@ -1,0 +1,38 @@
+{
+  "order_id": "SPH000036",
+  "persona_id": "persona_016",
+  "store_id": "sephora",
+  "status": "cancelled",
+  "created_at": "2026-01-01T03:54:07",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "222 Tech Campus Way, Austin, TX 78701",
+  "items": [
+    {
+      "product_id": "SPH0090",
+      "name": "Micellar Water",
+      "category": "Skincare",
+      "quantity": 2,
+      "price": 9.05,
+      "subtotal": 18.1
+    },
+    {
+      "product_id": "SPH0245",
+      "name": "Exfoliating Toner",
+      "category": "Skincare",
+      "quantity": 2,
+      "price": 41.4,
+      "subtotal": 82.8
+    },
+    {
+      "product_id": "SPH0229",
+      "name": "Vitamin C Serum",
+      "category": "Skincare",
+      "quantity": 2,
+      "price": 31.67,
+      "subtotal": 63.34
+    }
+  ],
+  "total": 164.24,
+  "currency": "USD"
+}

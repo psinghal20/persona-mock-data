@@ -1,0 +1,23 @@
+{
+  "order_id": "PRE-33",
+  "persona_id": "persona_031",
+  "store_id": "bakery",
+  "type": "preorder",
+  "status": "completed",
+  "created_at": "2025-10-29T17:15:35",
+  "pickup_date": "2025-11-04",
+  "pickup_time": "16:00",
+  "special_instructions": "Add extra frosting flowers",
+  "items": [
+    {
+      "product_id": "preorder-33",
+      "name": "Custom carrot 12-inch Cake",
+      "description": "fondant frosting, fruit filling, elaborate decoration",
+      "quantity": 1,
+      "price": 104.0,
+      "subtotal": 104.0
+    }
+  ],
+  "total": 104.0,
+  "currency": "USD"
+}

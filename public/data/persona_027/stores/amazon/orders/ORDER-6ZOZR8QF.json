@@ -1,0 +1,38 @@
+{
+  "order_id": "ORDER-6ZOZR8QF",
+  "persona_id": "persona_027",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-12-24T14:57:59",
+  "shipped_at": "2025-12-27T14:57:59",
+  "delivered_at": "2026-01-01T14:57:59",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "items": [
+    {
+      "product_id": "B0B5GI023L",
+      "name": "Lululemon The Mat 5mm",
+      "category": "Sports & Outdoors",
+      "quantity": 1,
+      "price": 98.0,
+      "subtotal": 98.0
+    },
+    {
+      "product_id": "B0C6GI012L",
+      "name": "Mirror Home Gym",
+      "category": "Sports & Outdoors",
+      "quantity": 1,
+      "price": 1495.0,
+      "subtotal": 1495.0
+    },
+    {
+      "product_id": "B09ZRYP7LW",
+      "name": "Breville Barista Express Espresso Machine",
+      "category": "Home & Kitchen",
+      "quantity": 1,
+      "price": 699.95,
+      "subtotal": 699.95
+    }
+  ],
+  "total": 2292.95,
+  "currency": "USD"
+}

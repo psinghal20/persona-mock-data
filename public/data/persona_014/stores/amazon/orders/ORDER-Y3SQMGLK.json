@@ -1,0 +1,22 @@
+{
+  "order_id": "ORDER-Y3SQMGLK",
+  "persona_id": "persona_014",
+  "store_id": "amazon",
+  "status": "cancelled",
+  "created_at": "2025-11-17T09:34:03",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "888 Design District Ln, San Francisco, CA 94102",
+  "items": [
+    {
+      "product_id": "B0C7GK068K",
+      "name": "Cricut EasyPress 2 12x10",
+      "category": "Arts Crafts",
+      "quantity": 3,
+      "price": 179.0,
+      "subtotal": 537.0
+    }
+  ],
+  "total": 537.0,
+  "currency": "USD"
+}

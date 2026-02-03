@@ -1,0 +1,23 @@
+{
+  "order_id": "BK00000626",
+  "persona_id": "persona_002",
+  "store_id": "movie_theater",
+  "type": "booking",
+  "status": "confirmed",
+  "created_at": "2025-11-13T19:46:18",
+  "confirmation_code": "AMC-G1RFKE",
+  "items": [
+    {
+      "product_id": "MOV026",
+      "name": "The Wild Robot",
+      "showtime": "",
+      "theater": "",
+      "seats": "D12,D13,D14,D15",
+      "quantity": 4,
+      "price": 21.99,
+      "subtotal": 87.96
+    }
+  ],
+  "total": 87.96,
+  "currency": "USD"
+}

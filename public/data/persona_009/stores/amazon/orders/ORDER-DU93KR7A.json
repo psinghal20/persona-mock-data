@@ -1,0 +1,22 @@
+{
+  "order_id": "ORDER-DU93KR7A",
+  "persona_id": "persona_009",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-11-29T02:45:25",
+  "shipped_at": "2025-12-02T02:45:25",
+  "delivered_at": "2025-12-06T02:45:25",
+  "shipping_address": "789 Veterans Blvd, Tampa, FL 33602",
+  "items": [
+    {
+      "product_id": "B0PETS0197",
+      "name": "Oxbow Oxbow Garden Select Adult Rabbit",
+      "category": "Pet Supplies",
+      "quantity": 3,
+      "price": 19.73,
+      "subtotal": 59.19
+    }
+  ],
+  "total": 59.19,
+  "currency": "USD"
+}

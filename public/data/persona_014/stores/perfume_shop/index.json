@@ -1,0 +1,273 @@
+{
+  "persona_id": "persona_014",
+  "store_id": "perfume_shop",
+  "store_name": "Perfume Shop",
+  "transaction_type": "orders",
+  "transaction_label": "orders",
+  "has_cost": true,
+  "summary": {
+    "total_count": 15,
+    "total_spent": 3001.0,
+    "first_date": "2025-10-09",
+    "last_date": "2026-01-25"
+  },
+  "items": [
+    {
+      "order_id": "ORD-20251011-PF0033",
+      "status": "delivered",
+      "total": 120.0,
+      "item_count": 1,
+      "created_at": "2026-01-25T04:34:55",
+      "item_preview": "Dolce"
+    },
+    {
+      "order_id": "ORD-20251019-PF0012",
+      "status": "delivered",
+      "total": 28.0,
+      "item_count": 1,
+      "created_at": "2026-01-01T04:29:31",
+      "item_preview": "Born Original"
+    },
+    {
+      "order_id": "ORD-20251008-PF0007",
+      "status": "delivered",
+      "total": 92.0,
+      "item_count": 1,
+      "created_at": "2025-12-30T18:17:36",
+      "item_preview": "Versace Pour Homme"
+    },
+    {
+      "order_id": "ORD-20251214-PF0006",
+      "status": "delivered",
+      "total": 265.0,
+      "item_count": 1,
+      "created_at": "2025-12-30T00:51:16",
+      "item_preview": "Sedley"
+    },
+    {
+      "order_id": "ORD-20251119-PF0013",
+      "status": "delivered",
+      "total": 98.0,
+      "item_count": 1,
+      "created_at": "2025-12-18T13:03:37",
+      "item_preview": "L'Eau d'Issey Pour Homme"
+    },
+    {
+      "order_id": "ORD-20251215-PF0004",
+      "status": "shipped",
+      "total": 750.0,
+      "item_count": 2,
+      "created_at": "2025-12-17T22:35:25",
+      "item_preview": "Roja Enigma, English Pear & Freesia"
+    },
+    {
+      "order_id": "ORD-20251216-PF0005",
+      "status": "delivered",
+      "total": 165.0,
+      "item_count": 1,
+      "created_at": "2025-12-14T02:07:21",
+      "item_preview": "Sauvage"
+    },
+    {
+      "order_id": "ORD-20251116-PF0008",
+      "status": "delivered",
+      "total": 260.0,
+      "item_count": 2,
+      "created_at": "2025-11-01T20:42:05",
+      "item_preview": "Issey Miyake L'Eau d'Issey, Sauvage"
+    },
+    {
+      "order_id": "ORD-20251102-PF0032",
+      "status": "shipped",
+      "total": 140.0,
+      "item_count": 1,
+      "created_at": "2025-10-31T15:25:54",
+      "item_preview": "Gucci Bloom"
+    },
+    {
+      "order_id": "ORD-20251013-PF0035",
+      "status": "delivered",
+      "total": 235.0,
+      "item_count": 1,
+      "created_at": "2025-10-30T13:32:16",
+      "item_preview": "Aqua Universalis"
+    },
+    {
+      "order_id": "ORD-20251225-PF0009",
+      "status": "cancelled",
+      "total": 185.0,
+      "item_count": 1,
+      "created_at": "2025-10-27T16:55:42",
+      "item_preview": "Ombr\u00e9 Leather"
+    },
+    {
+      "order_id": "ORD-20251006-PF0031",
+      "status": "shipped",
+      "total": 165.0,
+      "item_count": 1,
+      "created_at": "2025-10-14T03:03:34",
+      "item_preview": "Chance Eau Tendre"
+    },
+    {
+      "order_id": "ORD-20251017-PF0011",
+      "status": "delivered",
+      "total": 165.0,
+      "item_count": 1,
+      "created_at": "2025-10-12T02:22:24",
+      "item_preview": "Sauvage"
+    },
+    {
+      "order_id": "ORD-20260116-PF0034",
+      "status": "delivered",
+      "total": 193.0,
+      "item_count": 2,
+      "created_at": "2025-10-11T19:58:59",
+      "item_preview": "Versace Bright Crystal, Issey Miyake L'Eau d'Issey"
+    },
+    {
+      "order_id": "ORD-20251116-PF0010",
+      "status": "delivered",
+      "total": 140.0,
+      "item_count": 1,
+      "created_at": "2025-10-09T14:45:22",
+      "item_preview": "Y Eau de Parfum"
+    }
+  ],
+  "categories": [
+    {
+      "id": "orders",
+      "name": "Orders",
+      "type": "orders",
+      "label": "orders",
+      "has_cost": true,
+      "summary": {
+        "total_count": 15,
+        "total_spent": 3001.0,
+        "first_date": "2025-10-09",
+        "last_date": "2026-01-25"
+      },
+      "items": [
+        {
+          "order_id": "ORD-20251011-PF0033",
+          "status": "delivered",
+          "total": 120.0,
+          "item_count": 1,
+          "created_at": "2026-01-25T04:34:55",
+          "item_preview": "Dolce"
+        },
+        {
+          "order_id": "ORD-20251019-PF0012",
+          "status": "delivered",
+          "total": 28.0,
+          "item_count": 1,
+          "created_at": "2026-01-01T04:29:31",
+          "item_preview": "Born Original"
+        },
+        {
+          "order_id": "ORD-20251008-PF0007",
+          "status": "delivered",
+          "total": 92.0,
+          "item_count": 1,
+          "created_at": "2025-12-30T18:17:36",
+          "item_preview": "Versace Pour Homme"
+        },
+        {
+          "order_id": "ORD-20251214-PF0006",
+          "status": "delivered",
+          "total": 265.0,
+          "item_count": 1,
+          "created_at": "2025-12-30T00:51:16",
+          "item_preview": "Sedley"
+        },
+        {
+          "order_id": "ORD-20251119-PF0013",
+          "status": "delivered",
+          "total": 98.0,
+          "item_count": 1,
+          "created_at": "2025-12-18T13:03:37",
+          "item_preview": "L'Eau d'Issey Pour Homme"
+        },
+        {
+          "order_id": "ORD-20251215-PF0004",
+          "status": "shipped",
+          "total": 750.0,
+          "item_count": 2,
+          "created_at": "2025-12-17T22:35:25",
+          "item_preview": "Roja Enigma, English Pear & Freesia"
+        },
+        {
+          "order_id": "ORD-20251216-PF0005",
+          "status": "delivered",
+          "total": 165.0,
+          "item_count": 1,
+          "created_at": "2025-12-14T02:07:21",
+          "item_preview": "Sauvage"
+        },
+        {
+          "order_id": "ORD-20251116-PF0008",
+          "status": "delivered",
+          "total": 260.0,
+          "item_count": 2,
+          "created_at": "2025-11-01T20:42:05",
+          "item_preview": "Issey Miyake L'Eau d'Issey, Sauvage"
+        },
+        {
+          "order_id": "ORD-20251102-PF0032",
+          "status": "shipped",
+          "total": 140.0,
+          "item_count": 1,
+          "created_at": "2025-10-31T15:25:54",
+          "item_preview": "Gucci Bloom"
+        },
+        {
+          "order_id": "ORD-20251013-PF0035",
+          "status": "delivered",
+          "total": 235.0,
+          "item_count": 1,
+          "created_at": "2025-10-30T13:32:16",
+          "item_preview": "Aqua Universalis"
+        },
+        {
+          "order_id": "ORD-20251225-PF0009",
+          "status": "cancelled",
+          "total": 185.0,
+          "item_count": 1,
+          "created_at": "2025-10-27T16:55:42",
+          "item_preview": "Ombr\u00e9 Leather"
+        },
+        {
+          "order_id": "ORD-20251006-PF0031",
+          "status": "shipped",
+          "total": 165.0,
+          "item_count": 1,
+          "created_at": "2025-10-14T03:03:34",
+          "item_preview": "Chance Eau Tendre"
+        },
+        {
+          "order_id": "ORD-20251017-PF0011",
+          "status": "delivered",
+          "total": 165.0,
+          "item_count": 1,
+          "created_at": "2025-10-12T02:22:24",
+          "item_preview": "Sauvage"
+        },
+        {
+          "order_id": "ORD-20260116-PF0034",
+          "status": "delivered",
+          "total": 193.0,
+          "item_count": 2,
+          "created_at": "2025-10-11T19:58:59",
+          "item_preview": "Versace Bright Crystal, Issey Miyake L'Eau d'Issey"
+        },
+        {
+          "order_id": "ORD-20251116-PF0010",
+          "status": "delivered",
+          "total": 140.0,
+          "item_count": 1,
+          "created_at": "2025-10-09T14:45:22",
+          "item_preview": "Y Eau de Parfum"
+        }
+      ]
+    }
+  ]
+}

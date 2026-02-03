@@ -1,0 +1,145 @@
+{
+  "persona_id": "USR001",
+  "store_id": "bookstore",
+  "store_name": "Bookstore",
+  "transaction_type": "purchases",
+  "transaction_label": "purchases",
+  "has_cost": true,
+  "summary": {
+    "total_count": 7,
+    "total_spent": 143.92,
+    "first_date": "2024-10-15",
+    "last_date": "2024-12-10"
+  },
+  "items": [
+    {
+      "order_id": "PUR-7",
+      "status": "completed",
+      "total": 15.99,
+      "item_count": 1,
+      "created_at": "2024-12-10T17:00:00",
+      "item_preview": "The Hobbit"
+    },
+    {
+      "order_id": "PUR-6",
+      "status": "completed",
+      "total": 24.99,
+      "item_count": 1,
+      "created_at": "2024-12-01T13:30:00",
+      "item_preview": "Sapiens: A Brief History of Humankind"
+    },
+    {
+      "order_id": "PUR-5",
+      "status": "completed",
+      "total": 27.98,
+      "item_count": 2,
+      "created_at": "2024-11-25T09:00:00",
+      "item_preview": "1984"
+    },
+    {
+      "order_id": "PUR-4",
+      "status": "completed",
+      "total": 29.99,
+      "item_count": 1,
+      "created_at": "2024-11-18T11:20:00",
+      "item_preview": "The Lord of the Rings"
+    },
+    {
+      "order_id": "PUR-3",
+      "status": "completed",
+      "total": 16.99,
+      "item_count": 1,
+      "created_at": "2024-11-05T16:45:00",
+      "item_preview": "The Alchemist"
+    },
+    {
+      "order_id": "PUR-2",
+      "status": "completed",
+      "total": 14.99,
+      "item_count": 1,
+      "created_at": "2024-10-22T10:15:00",
+      "item_preview": "To Kill a Mockingbird"
+    },
+    {
+      "order_id": "PUR-1",
+      "status": "completed",
+      "total": 12.99,
+      "item_count": 1,
+      "created_at": "2024-10-15T14:30:00",
+      "item_preview": "Harry Potter and the Sorcerer's Stone"
+    }
+  ],
+  "categories": [
+    {
+      "id": "purchases",
+      "name": "Purchases",
+      "type": "purchases",
+      "label": "purchases",
+      "has_cost": true,
+      "summary": {
+        "total_count": 7,
+        "total_spent": 143.92,
+        "first_date": "2024-10-15",
+        "last_date": "2024-12-10"
+      },
+      "items": [
+        {
+          "order_id": "PUR-7",
+          "status": "completed",
+          "total": 15.99,
+          "item_count": 1,
+          "created_at": "2024-12-10T17:00:00",
+          "item_preview": "The Hobbit"
+        },
+        {
+          "order_id": "PUR-6",
+          "status": "completed",
+          "total": 24.99,
+          "item_count": 1,
+          "created_at": "2024-12-01T13:30:00",
+          "item_preview": "Sapiens: A Brief History of Humankind"
+        },
+        {
+          "order_id": "PUR-5",
+          "status": "completed",
+          "total": 27.98,
+          "item_count": 2,
+          "created_at": "2024-11-25T09:00:00",
+          "item_preview": "1984"
+        },
+        {
+          "order_id": "PUR-4",
+          "status": "completed",
+          "total": 29.99,
+          "item_count": 1,
+          "created_at": "2024-11-18T11:20:00",
+          "item_preview": "The Lord of the Rings"
+        },
+        {
+          "order_id": "PUR-3",
+          "status": "completed",
+          "total": 16.99,
+          "item_count": 1,
+          "created_at": "2024-11-05T16:45:00",
+          "item_preview": "The Alchemist"
+        },
+        {
+          "order_id": "PUR-2",
+          "status": "completed",
+          "total": 14.99,
+          "item_count": 1,
+          "created_at": "2024-10-22T10:15:00",
+          "item_preview": "To Kill a Mockingbird"
+        },
+        {
+          "order_id": "PUR-1",
+          "status": "completed",
+          "total": 12.99,
+          "item_count": 1,
+          "created_at": "2024-10-15T14:30:00",
+          "item_preview": "Harry Potter and the Sorcerer's Stone"
+        }
+      ]
+    }
+  ]
+}

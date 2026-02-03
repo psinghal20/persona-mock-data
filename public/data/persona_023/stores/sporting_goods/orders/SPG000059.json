@@ -1,0 +1,30 @@
+{
+  "order_id": "SPG000059",
+  "persona_id": "persona_023",
+  "store_id": "sporting_goods",
+  "status": "delivered",
+  "created_at": "2026-01-17T07:23:42",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "777 East Side Ave, Cleveland, OH 44114",
+  "items": [
+    {
+      "product_id": "FIT017",
+      "name": "Peloton Bike+",
+      "category": "Cardio",
+      "quantity": 1,
+      "price": 2495.0,
+      "subtotal": 2495.0
+    },
+    {
+      "product_id": "RUN024",
+      "name": "Wildhorse 8",
+      "category": "Shoes",
+      "quantity": 2,
+      "price": 139.99,
+      "subtotal": 279.98
+    }
+  ],
+  "total": 2774.98,
+  "currency": "USD"
+}

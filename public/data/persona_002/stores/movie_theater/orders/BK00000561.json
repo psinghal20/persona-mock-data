@@ -1,0 +1,23 @@
+{
+  "order_id": "BK00000561",
+  "persona_id": "persona_002",
+  "store_id": "movie_theater",
+  "type": "booking",
+  "status": "confirmed",
+  "created_at": "2025-11-06T23:34:33",
+  "confirmation_code": "AMC-GJJTXE",
+  "items": [
+    {
+      "product_id": "MOV062",
+      "name": "MaXXXine",
+      "showtime": "",
+      "theater": "",
+      "seats": "B11,B12,B13",
+      "quantity": 3,
+      "price": 19.99,
+      "subtotal": 59.97
+    }
+  ],
+  "total": 59.97,
+  "currency": "USD"
+}

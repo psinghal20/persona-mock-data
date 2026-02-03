@@ -1,0 +1,22 @@
+{
+  "order_id": "ORDER-8YHJFBVF",
+  "persona_id": "persona_016",
+  "store_id": "amazon",
+  "status": "pending",
+  "created_at": "2026-01-04T07:13:02",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "222 Tech Campus Way, Austin, TX 78701",
+  "items": [
+    {
+      "product_id": "B0AMZN1191",
+      "name": "Bowflex SelectTech 552 Dumbbells",
+      "category": "Sports & Outdoors",
+      "quantity": 3,
+      "price": 549.0,
+      "subtotal": 1647.0
+    }
+  ],
+  "total": 1647.0,
+  "currency": "USD"
+}

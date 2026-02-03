@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-132",
+  "persona_id": "persona_002",
+  "store_id": "bookstore",
+  "status": "completed",
+  "created_at": "2026-01-25T06:03:41",
+  "items": [
+    {
+      "product_id": "136",
+      "name": "Old Man's War",
+      "category": "Science Fiction",
+      "quantity": 1,
+      "price": 16.99,
+      "subtotal": 16.99
+    }
+  ],
+  "total": 16.99,
+  "currency": "USD"
+}

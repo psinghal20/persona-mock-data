@@ -1,0 +1,26 @@
+{
+  "order_id": "TOUR-29",
+  "persona_id": "persona_016",
+  "store_id": "zillow",
+  "type": "tour",
+  "status": "completed",
+  "scheduled_time": "2025-10-05T9:00:00",
+  "notes": "",
+  "items": [
+    {
+      "product_id": "102",
+      "name": "234 Austin Downtown",
+      "address": "234 Austin Downtown",
+      "city": "",
+      "price": 3500.0,
+      "bedrooms": "",
+      "bathrooms": "",
+      "sqft": "",
+      "home_type": "",
+      "quantity": 1,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

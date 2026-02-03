@@ -1,0 +1,23 @@
+{
+  "order_id": "BK00000002",
+  "persona_id": "USR001",
+  "store_id": "movie_theater",
+  "type": "booking",
+  "status": "confirmed",
+  "created_at": "2024-11-22T14:15:00",
+  "confirmation_code": "AMC-QR3N8T",
+  "items": [
+    {
+      "product_id": "MOV003",
+      "name": "Kung Fu Panda 4",
+      "showtime": "",
+      "theater": "",
+      "seats": "E5,E6,E7",
+      "quantity": 3,
+      "price": 14.99,
+      "subtotal": 44.97
+    }
+  ],
+  "total": 44.97,
+  "currency": "USD"
+}

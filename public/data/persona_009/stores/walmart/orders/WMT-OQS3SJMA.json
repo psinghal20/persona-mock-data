@@ -1,0 +1,54 @@
+{
+  "order_id": "WMT-OQS3SJMA",
+  "persona_id": "persona_009",
+  "store_id": "walmart",
+  "status": "delivered",
+  "created_at": "2025-10-10T23:03:15",
+  "shipped_at": "2025-10-11T23:03:15",
+  "delivered_at": "2025-10-16T23:03:15",
+  "shipping_address": "789 Veterans Blvd, Tampa, FL 33602",
+  "items": [
+    {
+      "product_id": "WMT00001345",
+      "name": "Kan Jam Kan Jam Ultimate Game",
+      "category": "Toys",
+      "quantity": 2,
+      "price": 41.29,
+      "subtotal": 82.58
+    },
+    {
+      "product_id": "WMT00001246",
+      "name": "Creativity for Kids Rock Painting Kit",
+      "category": "Toys",
+      "quantity": 1,
+      "price": 15.5,
+      "subtotal": 15.5
+    },
+    {
+      "product_id": "WMT00001286",
+      "name": "Kano Kano Computer Kit",
+      "category": "Toys",
+      "quantity": 1,
+      "price": 155.32,
+      "subtotal": 155.32
+    },
+    {
+      "product_id": "WMT00001374",
+      "name": "Jakks Pacific Super Mario Figure Set",
+      "category": "Toys",
+      "quantity": 3,
+      "price": 22.08,
+      "subtotal": 66.24
+    },
+    {
+      "product_id": "WMT00001237",
+      "name": "ThinkFun ThinkFun Gravity Maze",
+      "category": "Toys",
+      "quantity": 2,
+      "price": 30.72,
+      "subtotal": 61.44
+    }
+  ],
+  "total": 381.08,
+  "currency": "USD"
+}

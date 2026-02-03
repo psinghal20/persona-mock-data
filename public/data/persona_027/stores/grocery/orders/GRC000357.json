@@ -1,0 +1,134 @@
+{
+  "order_id": "GRC000357",
+  "persona_id": "persona_027",
+  "store_id": "grocery",
+  "status": "cancelled",
+  "created_at": "2025-12-02T22:31:50",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "items": [
+    {
+      "product_id": "prod_310",
+      "name": "Local Pride Organic Hot Dogs",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 8.48,
+      "subtotal": 8.48
+    },
+    {
+      "product_id": "prod_231",
+      "name": "Mountain Fresh Ribeye Steak",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 51.54,
+      "subtotal": 51.54
+    },
+    {
+      "product_id": "GRO-1138",
+      "name": "Applegate Speck",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 81.44,
+      "subtotal": 81.44
+    },
+    {
+      "product_id": "prod_012",
+      "name": "Bacon",
+      "category": "Meat & Seafood",
+      "quantity": 2,
+      "price": 5.99,
+      "subtotal": 11.98
+    },
+    {
+      "product_id": "GRO-1876",
+      "name": "Butterball Red Snapper Fillet",
+      "category": "Meat & Seafood",
+      "quantity": 4,
+      "price": 21.36,
+      "subtotal": 85.44
+    },
+    {
+      "product_id": "GRO-2141",
+      "name": "Nabisco Potato Chips Sour Cream",
+      "category": "Snacks",
+      "quantity": 3,
+      "price": 4.23,
+      "subtotal": 12.69
+    },
+    {
+      "product_id": "prod_253",
+      "name": "Sunrise Farms Pork Chops",
+      "category": "Meat & Seafood",
+      "quantity": 3,
+      "price": 20.79,
+      "subtotal": 62.37
+    },
+    {
+      "product_id": "GRO-1823",
+      "name": "Tyson NY Strip Steak",
+      "category": "Meat & Seafood",
+      "quantity": 3,
+      "price": 34.82,
+      "subtotal": 104.46
+    },
+    {
+      "product_id": "prod_238",
+      "name": "Local Pride Filet Mignon",
+      "category": "Meat & Seafood",
+      "quantity": 2,
+      "price": 26.79,
+      "subtotal": 53.58
+    },
+    {
+      "product_id": "prod_275",
+      "name": "Daily Delight Organic Whole Chicken",
+      "category": "Meat & Seafood",
+      "quantity": 2,
+      "price": 2.82,
+      "subtotal": 5.64
+    },
+    {
+      "product_id": "GRO-1711",
+      "name": "Local Farm Sweet Potato Orange",
+      "category": "Produce",
+      "quantity": 4,
+      "price": 5.72,
+      "subtotal": 22.88
+    },
+    {
+      "product_id": "GRO-1857",
+      "name": "Sea Best Ham Slice",
+      "category": "Meat & Seafood",
+      "quantity": 3,
+      "price": 20.13,
+      "subtotal": 60.39
+    },
+    {
+      "product_id": "prod_271",
+      "name": "Organic Choice Chicken Wings",
+      "category": "Meat & Seafood",
+      "quantity": 2,
+      "price": 6.24,
+      "subtotal": 12.48
+    },
+    {
+      "product_id": "GRO-1830",
+      "name": "Tyson Split Chicken Breast",
+      "category": "Meat & Seafood",
+      "quantity": 3,
+      "price": 26.48,
+      "subtotal": 79.44
+    },
+    {
+      "product_id": "prod_304",
+      "name": "Home Style Italian Sausage",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 17.17,
+      "subtotal": 17.17
+    }
+  ],
+  "total": 669.98,
+  "currency": "USD"
+}

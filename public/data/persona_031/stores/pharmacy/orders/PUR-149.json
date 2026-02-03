@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-149",
+  "persona_id": "persona_031",
+  "store_id": "pharmacy",
+  "status": "completed",
+  "created_at": "2025-10-05T11:57:09",
+  "items": [
+    {
+      "product_id": "54",
+      "name": "Cromolyn Sodium",
+      "category": "Allergy",
+      "quantity": 3,
+      "price": 14.99,
+      "subtotal": 44.97
+    }
+  ],
+  "total": 44.97,
+  "currency": "USD"
+}

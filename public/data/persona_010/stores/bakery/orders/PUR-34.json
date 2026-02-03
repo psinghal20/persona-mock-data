@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-34",
+  "persona_id": "persona_010",
+  "store_id": "bakery",
+  "status": "completed",
+  "created_at": "2026-01-08T17:37:15",
+  "items": [
+    {
+      "product_id": "101",
+      "name": "Pain au Chocolat",
+      "category": "Pastries",
+      "quantity": 1,
+      "price": 4.29,
+      "subtotal": 4.29
+    }
+  ],
+  "total": 4.29,
+  "currency": "USD"
+}

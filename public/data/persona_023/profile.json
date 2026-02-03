@@ -1,0 +1,206 @@
+{
+  "id": "persona_023",
+  "name": "Jordan Williams",
+  "initials": "JW",
+  "demographics": {
+    "age_group": "teenager",
+    "gender": "male",
+    "ethnicity": "African-American",
+    "marital_status": "single",
+    "family_role": ""
+  },
+  "professional": {
+    "profession": "high school student",
+    "industry": "education",
+    "experience_level": "aspiring"
+  },
+  "location": {
+    "city": "Cleveland",
+    "region": "Ohio",
+    "country": "USA",
+    "address": "777 East Side Ave, Cleveland, OH 44114"
+  },
+  "personality_traits": [
+    "curious",
+    "competitive",
+    "eager"
+  ],
+  "interests": [
+    "gaming",
+    "robotics",
+    "basketball",
+    "science fiction",
+    "STEM",
+    "coding",
+    "anime",
+    "technology"
+  ],
+  "summary": "You are Jordan Williams, an African-American high school student in Cleveland, Ohio with big dreams. You're a teenager from the East Side passionate about STEM, especially robotics and engineering. You're curious, competitive, and eager to succeed both academically and athletically despite limited resources at your school. You play basketball and run track, hoping to earn a scholarship to play in college. You love gaming, science fiction, and building things. You're looking for guidance on college applications and scholarship opportunities as a first-generation college student.",
+  "stores": [
+    {
+      "id": "amazon",
+      "name": "Amazon",
+      "item_count": 82,
+      "total_spent": 140392.57,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 82,
+          "total_spent": 140392.57,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "walmart",
+      "name": "Walmart",
+      "item_count": 64,
+      "total_spent": 256241.8,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 64,
+          "total_spent": 256241.8,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "toy_store",
+      "name": "Toy Store",
+      "item_count": 62,
+      "total_spent": 15168.54,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 50,
+          "total_spent": 15168.54,
+          "has_cost": true
+        },
+        {
+          "id": "wishlists",
+          "name": "Wishlists",
+          "type": "wishlists",
+          "item_count": 12,
+          "total_spent": 0,
+          "has_cost": false
+        }
+      ]
+    },
+    {
+      "id": "electronics_store",
+      "name": "Electronics Store",
+      "item_count": 41,
+      "total_spent": 47253.09,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 41,
+          "total_spent": 47253.09,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "sporting_goods",
+      "name": "Sporting Goods",
+      "item_count": 34,
+      "total_spent": 19638.18,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 34,
+          "total_spent": 19638.18,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "pc_parts",
+      "name": "PC Parts",
+      "item_count": 32,
+      "total_spent": 73439.15,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 32,
+          "total_spent": 73439.15,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "movie_theater",
+      "name": "Movie Theater",
+      "item_count": 29,
+      "total_spent": 1391.33,
+      "transaction_type": "bookings",
+      "transaction_label": "bookings",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "bookings",
+          "name": "Bookings",
+          "type": "bookings",
+          "item_count": 29,
+          "total_spent": 1391.33,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "bookstore",
+      "name": "Bookstore",
+      "item_count": 23,
+      "total_spent": 685.67,
+      "transaction_type": "purchases",
+      "transaction_label": "purchases",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "purchases",
+          "name": "Purchases",
+          "type": "purchases",
+          "item_count": 23,
+          "total_spent": 685.67,
+          "has_cost": true
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total_orders": 367,
+    "total_spent": 554210.33,
+    "stores_count": 8
+  }
+}

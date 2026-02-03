@@ -1,0 +1,78 @@
+{
+  "order_id": "GRC000041",
+  "persona_id": "persona_031",
+  "store_id": "grocery",
+  "status": "delivered",
+  "created_at": "2026-01-03T01:12:50",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "999 Suburban Lane, Phoenix, AZ 85001",
+  "items": [
+    {
+      "product_id": "prod_271",
+      "name": "Organic Choice Chicken Wings",
+      "category": "Meat & Seafood",
+      "quantity": 2,
+      "price": 16.85,
+      "subtotal": 33.7
+    },
+    {
+      "product_id": "GRO-1733",
+      "name": "Organic Valley Fresh Blueberries",
+      "category": "Produce",
+      "quantity": 4,
+      "price": 1.02,
+      "subtotal": 4.08
+    },
+    {
+      "product_id": "prod_346",
+      "name": "Farm Fresh Quinoa",
+      "category": "Pantry",
+      "quantity": 1,
+      "price": 8.04,
+      "subtotal": 8.04
+    },
+    {
+      "product_id": "prod_051",
+      "name": "Organic Choice Mangoes",
+      "category": "Produce",
+      "quantity": 2,
+      "price": 4.15,
+      "subtotal": 8.3
+    },
+    {
+      "product_id": "prod_123",
+      "name": "Mountain Fresh Organic Mushrooms",
+      "category": "Produce",
+      "quantity": 3,
+      "price": 5.75,
+      "subtotal": 17.25
+    },
+    {
+      "product_id": "prod_078",
+      "name": "Home Style Organic Kiwi",
+      "category": "Produce",
+      "quantity": 4,
+      "price": 2.82,
+      "subtotal": 11.28
+    },
+    {
+      "product_id": "prod_879",
+      "name": "Country Best Organic Anchovy Paste",
+      "category": "Condiments & Spices",
+      "quantity": 3,
+      "price": 6.01,
+      "subtotal": 18.03
+    },
+    {
+      "product_id": "prod_108",
+      "name": "Farm Fresh Organic Tomatoes",
+      "category": "Produce",
+      "quantity": 2,
+      "price": 9.02,
+      "subtotal": 18.04
+    }
+  ],
+  "total": 118.72,
+  "currency": "USD"
+}

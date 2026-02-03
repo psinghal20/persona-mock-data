@@ -1,0 +1,22 @@
+{
+  "order_id": "ORDER-AH84X29M",
+  "persona_id": "persona_010",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-10-30T08:23:41",
+  "shipped_at": "2025-10-31T08:23:41",
+  "delivered_at": "2025-11-02T08:23:41",
+  "shipping_address": "321 French Quarter Ave, New Orleans, LA 70116",
+  "items": [
+    {
+      "product_id": "B0TOYS0222",
+      "name": "LEGO LEGO Friends Heartlake City Mall",
+      "category": "Toys & Games",
+      "quantity": 1,
+      "price": 145.12,
+      "subtotal": 145.12
+    }
+  ],
+  "total": 145.12,
+  "currency": "USD"
+}

@@ -1,0 +1,19 @@
+{
+  "order_id": "TD-19",
+  "persona_id": "persona_002",
+  "store_id": "car_deals",
+  "type": "test_drive",
+  "status": "pending",
+  "scheduled_time": "2025-12-26T13:54:02",
+  "items": [
+    {
+      "product_id": "CAR845",
+      "name": "Kona Electric",
+      "quantity": 1,
+      "price": 28500.0,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

@@ -1,0 +1,30 @@
+{
+  "order_id": "ORDER-MKHIAUI6",
+  "persona_id": "persona_010",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-10-04T14:08:02",
+  "shipped_at": "2025-10-06T14:08:02",
+  "delivered_at": "2025-10-09T14:08:02",
+  "shipping_address": "321 French Quarter Ave, New Orleans, LA 70116",
+  "items": [
+    {
+      "product_id": "B0BCGK080K",
+      "name": "Singer Heavy Duty 4423 Sewing Machine",
+      "category": "Arts Crafts",
+      "quantity": 1,
+      "price": 179.99,
+      "subtotal": 179.99
+    },
+    {
+      "product_id": "B0AMZN1281",
+      "name": "Herman Miller Aeron Chair",
+      "category": "Home & Kitchen",
+      "quantity": 1,
+      "price": 1695.0,
+      "subtotal": 1695.0
+    }
+  ],
+  "total": 1874.99,
+  "currency": "USD"
+}

@@ -1,0 +1,26 @@
+{
+  "order_id": "SAVED-115",
+  "persona_id": "persona_016",
+  "store_id": "zillow",
+  "type": "saved_property",
+  "status": "saved",
+  "created_at": "2025-10-04T04:33:55",
+  "notes": "Great location",
+  "items": [
+    {
+      "product_id": "9990",
+      "name": "152 Fifth Drive",
+      "address": "152 Fifth Drive",
+      "city": "",
+      "price": 751248.0,
+      "bedrooms": "",
+      "bathrooms": "",
+      "sqft": "",
+      "home_type": "",
+      "quantity": 1,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

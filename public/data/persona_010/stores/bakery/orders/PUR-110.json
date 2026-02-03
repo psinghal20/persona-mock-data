@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-110",
+  "persona_id": "persona_010",
+  "store_id": "bakery",
+  "status": "completed",
+  "created_at": "2026-01-04T07:43:34",
+  "items": [
+    {
+      "product_id": "9",
+      "name": "Apple Danish",
+      "category": "Pastries",
+      "quantity": 3,
+      "price": 4.29,
+      "subtotal": 12.87
+    }
+  ],
+  "total": 12.87,
+  "currency": "USD"
+}

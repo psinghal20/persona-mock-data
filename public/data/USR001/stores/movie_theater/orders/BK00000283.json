@@ -1,0 +1,23 @@
+{
+  "order_id": "BK00000283",
+  "persona_id": "USR001",
+  "store_id": "movie_theater",
+  "type": "booking",
+  "status": "cancelled",
+  "created_at": "2025-12-26T17:09:52",
+  "confirmation_code": "AMC-9Y9LPQ",
+  "items": [
+    {
+      "product_id": "MOV065",
+      "name": "Trap",
+      "showtime": "",
+      "theater": "",
+      "seats": "N4,N5,N6,N7",
+      "quantity": 4,
+      "price": 22.99,
+      "subtotal": 91.96
+    }
+  ],
+  "total": 91.96,
+  "currency": "USD"
+}

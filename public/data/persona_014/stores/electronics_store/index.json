@@ -1,0 +1,561 @@
+{
+  "persona_id": "persona_014",
+  "store_id": "electronics_store",
+  "store_name": "Electronics Store",
+  "transaction_type": "orders",
+  "transaction_label": "orders",
+  "has_cost": true,
+  "summary": {
+    "total_count": 33,
+    "total_spent": 96662.23,
+    "first_date": "2025-10-01",
+    "last_date": "2026-01-18"
+  },
+  "items": [
+    {
+      "order_id": "EL000050",
+      "status": "delivered",
+      "total": 219.98,
+      "item_count": 1,
+      "created_at": "2026-01-18T22:13:36",
+      "item_preview": "Samsung 980 Pro 1TB NVMe SSD"
+    },
+    {
+      "order_id": "EL000144",
+      "status": "pending",
+      "total": 1599.98,
+      "item_count": 1,
+      "created_at": "2026-01-16T10:03:11",
+      "item_preview": "iPad Air 13\" M2 256GB"
+    },
+    {
+      "order_id": "EL000048",
+      "status": "pending",
+      "total": 2459.97,
+      "item_count": 2,
+      "created_at": "2026-01-09T08:27:58",
+      "item_preview": "Samsung Galaxy Buds2 Pro, Samsung 75\" Neo QLED 4K QN85D"
+    },
+    {
+      "order_id": "EL000147",
+      "status": "delivered",
+      "total": 1099.98,
+      "item_count": 1,
+      "created_at": "2026-01-04T00:52:16",
+      "item_preview": "Samsung 50\" QLED Q60D"
+    },
+    {
+      "order_id": "EL000051",
+      "status": "cancelled",
+      "total": 599.99,
+      "item_count": 1,
+      "created_at": "2025-12-23T19:09:42",
+      "item_preview": "iPad Air 11\" M2 128GB"
+    },
+    {
+      "order_id": "EL000150",
+      "status": "delivered",
+      "total": 3199.98,
+      "item_count": 1,
+      "created_at": "2025-12-16T08:48:06",
+      "item_preview": "Apple Studio Display"
+    },
+    {
+      "order_id": "EL000159",
+      "status": "delivered",
+      "total": 3299.97,
+      "item_count": 2,
+      "created_at": "2025-12-15T22:52:17",
+      "item_preview": "MacBook Air 13\" M3, Samsung Galaxy Book4 360"
+    },
+    {
+      "order_id": "EL000052",
+      "status": "delivered",
+      "total": 79.99,
+      "item_count": 1,
+      "created_at": "2025-12-13T09:08:22",
+      "item_preview": "Samsung 65W Trio Charger"
+    },
+    {
+      "order_id": "EL000143",
+      "status": "delivered",
+      "total": 49.99,
+      "item_count": 1,
+      "created_at": "2025-12-11T07:34:31",
+      "item_preview": "Apple Watch Band Sport Loop"
+    },
+    {
+      "order_id": "EL000047",
+      "status": "pending",
+      "total": 649.97,
+      "item_count": 2,
+      "created_at": "2025-12-11T05:03:16",
+      "item_preview": "Apple Magic Trackpad, Apple AirPods Pro 2nd Gen"
+    },
+    {
+      "order_id": "EL000057",
+      "status": "shipped",
+      "total": 1299.99,
+      "item_count": 1,
+      "created_at": "2025-12-09T08:28:22",
+      "item_preview": "Samsung 65\" QLED 4K Smart TV"
+    },
+    {
+      "order_id": "EL000045",
+      "status": "delivered",
+      "total": 1349.98,
+      "item_count": 2,
+      "created_at": "2025-12-06T16:01:46",
+      "item_preview": "Samsung 50\" QLED Q60D, Samsung Galaxy Tab S9 128GB"
+    },
+    {
+      "order_id": "EL000146",
+      "status": "delivered",
+      "total": 4399.94,
+      "item_count": 3,
+      "created_at": "2025-12-06T14:05:51",
+      "item_preview": "Apple HomePod mini, Samsung Galaxy Book4 360, ..."
+    },
+    {
+      "order_id": "EL000153",
+      "status": "delivered",
+      "total": 3999.98,
+      "item_count": 1,
+      "created_at": "2025-12-05T17:45:08",
+      "item_preview": "Apple Mac Studio M2 Max"
+    },
+    {
+      "order_id": "EL000155",
+      "status": "delivered",
+      "total": 199.98,
+      "item_count": 1,
+      "created_at": "2025-12-05T11:35:01",
+      "item_preview": "Apple HomePod mini"
+    },
+    {
+      "order_id": "EL000055",
+      "status": "cancelled",
+      "total": 5199.96,
+      "item_count": 2,
+      "created_at": "2025-12-03T19:23:59",
+      "item_preview": "Apple Mac mini M2 Pro, Samsung 65\" QLED 4K Smart TV"
+    },
+    {
+      "order_id": "EL000154",
+      "status": "delivered",
+      "total": 29.99,
+      "item_count": 1,
+      "created_at": "2025-11-27T07:59:40",
+      "item_preview": "Samsung Galaxy S24 Clear Case"
+    },
+    {
+      "order_id": "EL000156",
+      "status": "delivered",
+      "total": 399.95,
+      "item_count": 3,
+      "created_at": "2025-11-25T16:14:17",
+      "item_preview": "Apple MagSafe Battery Pack, Apple HomePod mini, ..."
+    },
+    {
+      "order_id": "EL000145",
+      "status": "delivered",
+      "total": 4599.97,
+      "item_count": 2,
+      "created_at": "2025-11-24T03:00:58",
+      "item_preview": "Samsung 55\" The Frame QLED TV, Apple Studio Display"
+    },
+    {
+      "order_id": "EL000149",
+      "status": "delivered",
+      "total": 23882.97,
+      "item_count": 3,
+      "created_at": "2025-11-11T15:59:29",
+      "item_preview": "Samsung Galaxy Book4 360, Samsung 98\" Neo QLED QN90D, ..."
+    },
+    {
+      "order_id": "EL000046",
+      "status": "delivered",
+      "total": 14029.97,
+      "item_count": 2,
+      "created_at": "2025-11-05T19:10:06",
+      "item_preview": "Apple Mac Pro M2 Ultra, Samsung Galaxy S24 Clear Case"
+    },
+    {
+      "order_id": "EL000160",
+      "status": "pending",
+      "total": 3599.98,
+      "item_count": 1,
+      "created_at": "2025-11-03T12:40:59",
+      "item_preview": "Samsung Galaxy Z Fold5 512GB"
+    },
+    {
+      "order_id": "EL000053",
+      "status": "delivered",
+      "total": 2159.97,
+      "item_count": 2,
+      "created_at": "2025-10-29T09:24:54",
+      "item_preview": "Samsung Galaxy S24 Ultra 512GB, Samsung Galaxy Watch 6 Classic 47mm"
+    },
+    {
+      "order_id": "EL000157",
+      "status": "delivered",
+      "total": 1879.97,
+      "item_count": 2,
+      "created_at": "2025-10-28T21:14:17",
+      "item_preview": "Samsung 43\" Crystal UHD 4K TV, Apple Watch Ultra 2"
+    },
+    {
+      "order_id": "EL000054",
+      "status": "cancelled",
+      "total": 809.97,
+      "item_count": 2,
+      "created_at": "2025-10-16T04:43:27",
+      "item_preview": "Samsung Galaxy A54 5G 128GB, Samsung 990 Pro 2TB NVMe SSD"
+    },
+    {
+      "order_id": "EL000043",
+      "status": "delivered",
+      "total": 159.98,
+      "item_count": 1,
+      "created_at": "2025-10-13T23:04:45",
+      "item_preview": "Samsung 65W Trio Charger"
+    },
+    {
+      "order_id": "EL000056",
+      "status": "cancelled",
+      "total": 3999.98,
+      "item_count": 1,
+      "created_at": "2025-10-12T09:42:10",
+      "item_preview": "Samsung 75\" Neo QLED 4K QN85D"
+    },
+    {
+      "order_id": "EL000152",
+      "status": "shipped",
+      "total": 1299.99,
+      "item_count": 1,
+      "created_at": "2025-10-10T22:59:50",
+      "item_preview": "Samsung Galaxy S24 Ultra 512GB"
+    },
+    {
+      "order_id": "EL000148",
+      "status": "delivered",
+      "total": 3199.98,
+      "item_count": 1,
+      "created_at": "2025-10-10T01:32:50",
+      "item_preview": "Apple Studio Display"
+    },
+    {
+      "order_id": "EL000151",
+      "status": "delivered",
+      "total": 2699.97,
+      "item_count": 2,
+      "created_at": "2025-10-06T14:33:10",
+      "item_preview": "iPad Air 13\" M2 256GB, MacBook Air 13\" M3"
+    },
+    {
+      "order_id": "EL000044",
+      "status": "shipped",
+      "total": 799.99,
+      "item_count": 1,
+      "created_at": "2025-10-04T10:55:53",
+      "item_preview": "Samsung Galaxy Tab S9 128GB"
+    },
+    {
+      "order_id": "EL000158",
+      "status": "delivered",
+      "total": 2599.98,
+      "item_count": 1,
+      "created_at": "2025-10-03T00:24:19",
+      "item_preview": "Apple Mac mini M2 Pro"
+    },
+    {
+      "order_id": "EL000049",
+      "status": "delivered",
+      "total": 799.99,
+      "item_count": 1,
+      "created_at": "2025-10-01T09:53:47",
+      "item_preview": "Samsung Galaxy Tab S9 128GB"
+    }
+  ],
+  "categories": [
+    {
+      "id": "orders",
+      "name": "Orders",
+      "type": "orders",
+      "label": "orders",
+      "has_cost": true,
+      "summary": {
+        "total_count": 33,
+        "total_spent": 96662.23,
+        "first_date": "2025-10-01",
+        "last_date": "2026-01-18"
+      },
+      "items": [
+        {
+          "order_id": "EL000050",
+          "status": "delivered",
+          "total": 219.98,
+          "item_count": 1,
+          "created_at": "2026-01-18T22:13:36",
+          "item_preview": "Samsung 980 Pro 1TB NVMe SSD"
+        },
+        {
+          "order_id": "EL000144",
+          "status": "pending",
+          "total": 1599.98,
+          "item_count": 1,
+          "created_at": "2026-01-16T10:03:11",
+          "item_preview": "iPad Air 13\" M2 256GB"
+        },
+        {
+          "order_id": "EL000048",
+          "status": "pending",
+          "total": 2459.97,
+          "item_count": 2,
+          "created_at": "2026-01-09T08:27:58",
+          "item_preview": "Samsung Galaxy Buds2 Pro, Samsung 75\" Neo QLED 4K QN85D"
+        },
+        {
+          "order_id": "EL000147",
+          "status": "delivered",
+          "total": 1099.98,
+          "item_count": 1,
+          "created_at": "2026-01-04T00:52:16",
+          "item_preview": "Samsung 50\" QLED Q60D"
+        },
+        {
+          "order_id": "EL000051",
+          "status": "cancelled",
+          "total": 599.99,
+          "item_count": 1,
+          "created_at": "2025-12-23T19:09:42",
+          "item_preview": "iPad Air 11\" M2 128GB"
+        },
+        {
+          "order_id": "EL000150",
+          "status": "delivered",
+          "total": 3199.98,
+          "item_count": 1,
+          "created_at": "2025-12-16T08:48:06",
+          "item_preview": "Apple Studio Display"
+        },
+        {
+          "order_id": "EL000159",
+          "status": "delivered",
+          "total": 3299.97,
+          "item_count": 2,
+          "created_at": "2025-12-15T22:52:17",
+          "item_preview": "MacBook Air 13\" M3, Samsung Galaxy Book4 360"
+        },
+        {
+          "order_id": "EL000052",
+          "status": "delivered",
+          "total": 79.99,
+          "item_count": 1,
+          "created_at": "2025-12-13T09:08:22",
+          "item_preview": "Samsung 65W Trio Charger"
+        },
+        {
+          "order_id": "EL000143",
+          "status": "delivered",
+          "total": 49.99,
+          "item_count": 1,
+          "created_at": "2025-12-11T07:34:31",
+          "item_preview": "Apple Watch Band Sport Loop"
+        },
+        {
+          "order_id": "EL000047",
+          "status": "pending",
+          "total": 649.97,
+          "item_count": 2,
+          "created_at": "2025-12-11T05:03:16",
+          "item_preview": "Apple Magic Trackpad, Apple AirPods Pro 2nd Gen"
+        },
+        {
+          "order_id": "EL000057",
+          "status": "shipped",
+          "total": 1299.99,
+          "item_count": 1,
+          "created_at": "2025-12-09T08:28:22",
+          "item_preview": "Samsung 65\" QLED 4K Smart TV"
+        },
+        {
+          "order_id": "EL000045",
+          "status": "delivered",
+          "total": 1349.98,
+          "item_count": 2,
+          "created_at": "2025-12-06T16:01:46",
+          "item_preview": "Samsung 50\" QLED Q60D, Samsung Galaxy Tab S9 128GB"
+        },
+        {
+          "order_id": "EL000146",
+          "status": "delivered",
+          "total": 4399.94,
+          "item_count": 3,
+          "created_at": "2025-12-06T14:05:51",
+          "item_preview": "Apple HomePod mini, Samsung Galaxy Book4 360, ..."
+        },
+        {
+          "order_id": "EL000153",
+          "status": "delivered",
+          "total": 3999.98,
+          "item_count": 1,
+          "created_at": "2025-12-05T17:45:08",
+          "item_preview": "Apple Mac Studio M2 Max"
+        },
+        {
+          "order_id": "EL000155",
+          "status": "delivered",
+          "total": 199.98,
+          "item_count": 1,
+          "created_at": "2025-12-05T11:35:01",
+          "item_preview": "Apple HomePod mini"
+        },
+        {
+          "order_id": "EL000055",
+          "status": "cancelled",
+          "total": 5199.96,
+          "item_count": 2,
+          "created_at": "2025-12-03T19:23:59",
+          "item_preview": "Apple Mac mini M2 Pro, Samsung 65\" QLED 4K Smart TV"
+        },
+        {
+          "order_id": "EL000154",
+          "status": "delivered",
+          "total": 29.99,
+          "item_count": 1,
+          "created_at": "2025-11-27T07:59:40",
+          "item_preview": "Samsung Galaxy S24 Clear Case"
+        },
+        {
+          "order_id": "EL000156",
+          "status": "delivered",
+          "total": 399.95,
+          "item_count": 3,
+          "created_at": "2025-11-25T16:14:17",
+          "item_preview": "Apple MagSafe Battery Pack, Apple HomePod mini, ..."
+        },
+        {
+          "order_id": "EL000145",
+          "status": "delivered",
+          "total": 4599.97,
+          "item_count": 2,
+          "created_at": "2025-11-24T03:00:58",
+          "item_preview": "Samsung 55\" The Frame QLED TV, Apple Studio Display"
+        },
+        {
+          "order_id": "EL000149",
+          "status": "delivered",
+          "total": 23882.97,
+          "item_count": 3,
+          "created_at": "2025-11-11T15:59:29",
+          "item_preview": "Samsung Galaxy Book4 360, Samsung 98\" Neo QLED QN90D, ..."
+        },
+        {
+          "order_id": "EL000046",
+          "status": "delivered",
+          "total": 14029.97,
+          "item_count": 2,
+          "created_at": "2025-11-05T19:10:06",
+          "item_preview": "Apple Mac Pro M2 Ultra, Samsung Galaxy S24 Clear Case"
+        },
+        {
+          "order_id": "EL000160",
+          "status": "pending",
+          "total": 3599.98,
+          "item_count": 1,
+          "created_at": "2025-11-03T12:40:59",
+          "item_preview": "Samsung Galaxy Z Fold5 512GB"
+        },
+        {
+          "order_id": "EL000053",
+          "status": "delivered",
+          "total": 2159.97,
+          "item_count": 2,
+          "created_at": "2025-10-29T09:24:54",
+          "item_preview": "Samsung Galaxy S24 Ultra 512GB, Samsung Galaxy Watch 6 Classic 47mm"
+        },
+        {
+          "order_id": "EL000157",
+          "status": "delivered",
+          "total": 1879.97,
+          "item_count": 2,
+          "created_at": "2025-10-28T21:14:17",
+          "item_preview": "Samsung 43\" Crystal UHD 4K TV, Apple Watch Ultra 2"
+        },
+        {
+          "order_id": "EL000054",
+          "status": "cancelled",
+          "total": 809.97,
+          "item_count": 2,
+          "created_at": "2025-10-16T04:43:27",
+          "item_preview": "Samsung Galaxy A54 5G 128GB, Samsung 990 Pro 2TB NVMe SSD"
+        },
+        {
+          "order_id": "EL000043",
+          "status": "delivered",
+          "total": 159.98,
+          "item_count": 1,
+          "created_at": "2025-10-13T23:04:45",
+          "item_preview": "Samsung 65W Trio Charger"
+        },
+        {
+          "order_id": "EL000056",
+          "status": "cancelled",
+          "total": 3999.98,
+          "item_count": 1,
+          "created_at": "2025-10-12T09:42:10",
+          "item_preview": "Samsung 75\" Neo QLED 4K QN85D"
+        },
+        {
+          "order_id": "EL000152",
+          "status": "shipped",
+          "total": 1299.99,
+          "item_count": 1,
+          "created_at": "2025-10-10T22:59:50",
+          "item_preview": "Samsung Galaxy S24 Ultra 512GB"
+        },
+        {
+          "order_id": "EL000148",
+          "status": "delivered",
+          "total": 3199.98,
+          "item_count": 1,
+          "created_at": "2025-10-10T01:32:50",
+          "item_preview": "Apple Studio Display"
+        },
+        {
+          "order_id": "EL000151",
+          "status": "delivered",
+          "total": 2699.97,
+          "item_count": 2,
+          "created_at": "2025-10-06T14:33:10",
+          "item_preview": "iPad Air 13\" M2 256GB, MacBook Air 13\" M3"
+        },
+        {
+          "order_id": "EL000044",
+          "status": "shipped",
+          "total": 799.99,
+          "item_count": 1,
+          "created_at": "2025-10-04T10:55:53",
+          "item_preview": "Samsung Galaxy Tab S9 128GB"
+        },
+        {
+          "order_id": "EL000158",
+          "status": "delivered",
+          "total": 2599.98,
+          "item_count": 1,
+          "created_at": "2025-10-03T00:24:19",
+          "item_preview": "Apple Mac mini M2 Pro"
+        },
+        {
+          "order_id": "EL000049",
+          "status": "delivered",
+          "total": 799.99,
+          "item_count": 1,
+          "created_at": "2025-10-01T09:53:47",
+          "item_preview": "Samsung Galaxy Tab S9 128GB"
+        }
+      ]
+    }
+  ]
+}

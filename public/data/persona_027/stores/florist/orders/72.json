@@ -1,0 +1,24 @@
+{
+  "order_id": "72",
+  "persona_id": "persona_027",
+  "store_id": "florist",
+  "status": "pending",
+  "created_at": "2025-12-30T02:57:42",
+  "shipped_at": "",
+  "delivered_at": "2026-01-06",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "recipient_name": "Friend",
+  "card_message": "Thank you!",
+  "items": [
+    {
+      "product_id": "181",
+      "name": "Red Carnation Elegance",
+      "category": "Carnations",
+      "quantity": 1,
+      "price": 29.99,
+      "subtotal": 29.99
+    }
+  ],
+  "total": 29.99,
+  "currency": "USD"
+}

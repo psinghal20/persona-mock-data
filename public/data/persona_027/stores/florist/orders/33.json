@@ -1,0 +1,24 @@
+{
+  "order_id": "33",
+  "persona_id": "persona_027",
+  "store_id": "florist",
+  "status": "pending",
+  "created_at": "2025-11-20T16:46:50",
+  "shipped_at": "",
+  "delivered_at": "2025-11-27",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "recipient_name": "Wife",
+  "card_message": "Just because I love you!",
+  "items": [
+    {
+      "product_id": "3",
+      "name": "Pink Rose Bouquet",
+      "category": "Roses",
+      "quantity": 1,
+      "price": 59.99,
+      "subtotal": 59.99
+    }
+  ],
+  "total": 74.98,
+  "currency": "USD"
+}

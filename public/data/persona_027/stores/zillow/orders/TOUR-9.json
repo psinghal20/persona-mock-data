@@ -1,0 +1,26 @@
+{
+  "order_id": "TOUR-9",
+  "persona_id": "persona_027",
+  "store_id": "zillow",
+  "type": "tour",
+  "status": "completed",
+  "scheduled_time": "2025-11-05T13:00:00",
+  "notes": "Want to see the garage",
+  "items": [
+    {
+      "product_id": "696",
+      "name": "4753 Second Lane",
+      "address": "4753 Second Lane",
+      "city": "",
+      "price": 841935.0,
+      "bedrooms": "",
+      "bathrooms": "",
+      "sqft": "",
+      "home_type": "",
+      "quantity": 1,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

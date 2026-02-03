@@ -1,0 +1,26 @@
+{
+  "order_id": "SAVED-99",
+  "persona_id": "persona_014",
+  "store_id": "zillow",
+  "type": "saved_property",
+  "status": "saved",
+  "created_at": "2025-12-17T13:15:04",
+  "notes": "Love the layout",
+  "items": [
+    {
+      "product_id": "9086",
+      "name": "4199 Kennedy Place Unit 4177",
+      "address": "4199 Kennedy Place Unit 4177",
+      "city": "",
+      "price": 3374.0,
+      "bedrooms": "",
+      "bathrooms": "",
+      "sqft": "",
+      "home_type": "",
+      "quantity": 1,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

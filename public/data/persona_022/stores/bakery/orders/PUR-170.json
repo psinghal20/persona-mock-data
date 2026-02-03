@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-170",
+  "persona_id": "persona_022",
+  "store_id": "bakery",
+  "status": "completed",
+  "created_at": "2025-10-15T13:59:33",
+  "items": [
+    {
+      "product_id": "118",
+      "name": "Cinnamon Raisin Bagel",
+      "category": "Bread",
+      "quantity": 1,
+      "price": 2.99,
+      "subtotal": 2.99
+    }
+  ],
+  "total": 2.99,
+  "currency": "USD"
+}

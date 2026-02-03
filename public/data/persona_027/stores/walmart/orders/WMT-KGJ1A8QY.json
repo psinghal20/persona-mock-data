@@ -1,0 +1,30 @@
+{
+  "order_id": "WMT-KGJ1A8QY",
+  "persona_id": "persona_027",
+  "store_id": "walmart",
+  "status": "shipped",
+  "created_at": "2026-01-06T17:05:45",
+  "shipped_at": "2026-01-08T17:05:45",
+  "delivered_at": "",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "items": [
+    {
+      "product_id": "WMT00001943",
+      "name": "Jones Jones Mind Expander",
+      "category": "Sports",
+      "quantity": 1,
+      "price": 546.56,
+      "subtotal": 546.56
+    },
+    {
+      "product_id": "WMT00001865",
+      "name": "Nike Wildhorse 8",
+      "category": "Sports",
+      "quantity": 2,
+      "price": 137.84,
+      "subtotal": 275.68
+    }
+  ],
+  "total": 822.24,
+  "currency": "USD"
+}

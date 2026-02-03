@@ -1,0 +1,25 @@
+{
+  "order_id": "GRM-16",
+  "persona_id": "persona_009",
+  "store_id": "pet_store",
+  "type": "grooming",
+  "status": "completed",
+  "appointment_date": "2025-12-10",
+  "appointment_time": "9:00",
+  "items": [
+    {
+      "product_id": "GRM028",
+      "name": "Skunk Odor Treatment",
+      "description": "Special de-skunking bath and deodorizing treatment",
+      "pet_name": "Max",
+      "pet_type": "Dogs",
+      "pet_breed": "Golden Retriever",
+      "duration_minutes": "120",
+      "quantity": 1,
+      "price": 100.0,
+      "subtotal": 100.0
+    }
+  ],
+  "total": 100.0,
+  "currency": "USD"
+}

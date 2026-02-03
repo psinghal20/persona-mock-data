@@ -1,0 +1,30 @@
+{
+  "order_id": "ORDER-4N6NAIYV",
+  "persona_id": "persona_023",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2026-01-03T11:39:44",
+  "shipped_at": "2026-01-06T11:39:44",
+  "delivered_at": "2026-01-09T11:39:44",
+  "shipping_address": "777 East Side Ave, Cleveland, OH 44114",
+  "items": [
+    {
+      "product_id": "B0ELEC0070",
+      "name": "Analogue Analogue Pocket",
+      "category": "Electronics",
+      "quantity": 2,
+      "price": 250.86,
+      "subtotal": 501.72
+    },
+    {
+      "product_id": "B0B8GHQ89K",
+      "name": "LEGO Icons Colosseum 10276",
+      "category": "Toys",
+      "quantity": 3,
+      "price": 549.99,
+      "subtotal": 1649.97
+    }
+  ],
+  "total": 2151.69,
+  "currency": "USD"
+}

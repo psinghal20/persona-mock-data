@@ -1,0 +1,46 @@
+{
+  "order_id": "ORDER-2W71QFEV",
+  "persona_id": "persona_014",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-11-14T10:33:51",
+  "shipped_at": "2025-11-15T10:33:51",
+  "delivered_at": "2025-11-17T10:33:51",
+  "shipping_address": "888 Design District Ln, San Francisco, CA 94102",
+  "items": [
+    {
+      "product_id": "B0PCPT0027",
+      "name": "Thermaltake Smart 500W Power Supply",
+      "category": "Electronics",
+      "quantity": 2,
+      "price": 47.16,
+      "subtotal": 94.32
+    },
+    {
+      "product_id": "B0AMZN1167",
+      "name": "Garmin fenix 7X Sapphire Solar",
+      "category": "Electronics",
+      "quantity": 2,
+      "price": 899.99,
+      "subtotal": 1799.98
+    },
+    {
+      "product_id": "B0TOYS0114",
+      "name": "Ravensburger GraviTrax Starter Set",
+      "category": "Toys & Games",
+      "quantity": 2,
+      "price": 45.57,
+      "subtotal": 91.14
+    },
+    {
+      "product_id": "B0AMZN1325",
+      "name": "Ring Alarm Pro 8-Piece Kit",
+      "category": "Electronics",
+      "quantity": 3,
+      "price": 299.99,
+      "subtotal": 899.97
+    }
+  ],
+  "total": 2885.41,
+  "currency": "USD"
+}

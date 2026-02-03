@@ -1,0 +1,22 @@
+{
+  "order_id": "JWL000022",
+  "persona_id": "persona_027",
+  "store_id": "jewelry_store",
+  "status": "delivered",
+  "created_at": "2025-10-27T16:05:55",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "items": [
+    {
+      "product_id": "JWL-154",
+      "name": "Rose Gold Fashion Watch",
+      "category": "Watches",
+      "quantity": 1,
+      "price": 1499.99,
+      "subtotal": 1499.99
+    }
+  ],
+  "total": 1499.99,
+  "currency": "USD"
+}

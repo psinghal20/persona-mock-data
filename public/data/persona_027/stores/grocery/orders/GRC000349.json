@@ -1,0 +1,134 @@
+{
+  "order_id": "GRC000349",
+  "persona_id": "persona_027",
+  "store_id": "grocery",
+  "status": "shipped",
+  "created_at": "2025-11-28T20:06:17",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "items": [
+    {
+      "product_id": "GRO-1870",
+      "name": "Applegate Cod Fillet",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 13.34,
+      "subtotal": 13.34
+    },
+    {
+      "product_id": "GRO-1084",
+      "name": "Wild Planet Filet Mignon",
+      "category": "Meat & Seafood",
+      "quantity": 2,
+      "price": 68.74,
+      "subtotal": 137.48
+    },
+    {
+      "product_id": "GRO-1127",
+      "name": "Snake River Farms Mussels",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 62.98,
+      "subtotal": 62.98
+    },
+    {
+      "product_id": "prod_323",
+      "name": "Heritage Foods Organic Deli Roast Beef",
+      "category": "Meat & Seafood",
+      "quantity": 2,
+      "price": 52.57,
+      "subtotal": 105.14
+    },
+    {
+      "product_id": "prod_574",
+      "name": "Organic Choice Frozen Meatballs",
+      "category": "Frozen",
+      "quantity": 4,
+      "price": 10.71,
+      "subtotal": 42.84
+    },
+    {
+      "product_id": "GRO-1822",
+      "name": "Tyson Boneless Ribeye",
+      "category": "Meat & Seafood",
+      "quantity": 2,
+      "price": 19.0,
+      "subtotal": 38.0
+    },
+    {
+      "product_id": "prod_228",
+      "name": "Quality First Ribeye Steak",
+      "category": "Meat & Seafood",
+      "quantity": 3,
+      "price": 44.66,
+      "subtotal": 133.98
+    },
+    {
+      "product_id": "prod_275",
+      "name": "Daily Delight Organic Whole Chicken",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 7.61,
+      "subtotal": 7.61
+    },
+    {
+      "product_id": "prod_283",
+      "name": "Local Pride Cod",
+      "category": "Meat & Seafood",
+      "quantity": 5,
+      "price": 13.03,
+      "subtotal": 65.15
+    },
+    {
+      "product_id": "prod_246",
+      "name": "Daily Delight Turkey Breast",
+      "category": "Meat & Seafood",
+      "quantity": 2,
+      "price": 9.76,
+      "subtotal": 19.52
+    },
+    {
+      "product_id": "prod_235",
+      "name": "Daily Delight NY Strip Steak",
+      "category": "Meat & Seafood",
+      "quantity": 2,
+      "price": 13.09,
+      "subtotal": 26.18
+    },
+    {
+      "product_id": "GRO-1850",
+      "name": "Niman Ranch Pork Sausage Links",
+      "category": "Meat & Seafood",
+      "quantity": 2,
+      "price": 22.57,
+      "subtotal": 45.14
+    },
+    {
+      "product_id": "prod_009",
+      "name": "Chicken Breast",
+      "category": "Meat & Seafood",
+      "quantity": 2,
+      "price": 8.99,
+      "subtotal": 17.98
+    },
+    {
+      "product_id": "prod_301",
+      "name": "Mountain Fresh Clams",
+      "category": "Meat & Seafood",
+      "quantity": 5,
+      "price": 27.03,
+      "subtotal": 135.15
+    },
+    {
+      "product_id": "GRO-1086",
+      "name": "Omaha Steaks Tri-Tip Roast",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 80.72,
+      "subtotal": 80.72
+    }
+  ],
+  "total": 931.21,
+  "currency": "USD"
+}

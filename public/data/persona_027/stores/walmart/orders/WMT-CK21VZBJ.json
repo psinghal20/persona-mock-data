@@ -1,0 +1,30 @@
+{
+  "order_id": "WMT-CK21VZBJ",
+  "persona_id": "persona_027",
+  "store_id": "walmart",
+  "status": "shipped",
+  "created_at": "2025-10-05T03:45:32",
+  "shipped_at": "2025-10-06T03:45:32",
+  "delivered_at": "",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "items": [
+    {
+      "product_id": "WMT00002012",
+      "name": "Outslayer Outslayer 100lb Heavy Bag",
+      "category": "Sports",
+      "quantity": 3,
+      "price": 199.49,
+      "subtotal": 598.47
+    },
+    {
+      "product_id": "WMT00000322",
+      "name": "Quality First Breakfast Bars",
+      "category": "Grocery",
+      "quantity": 3,
+      "price": 6.96,
+      "subtotal": 20.88
+    }
+  ],
+  "total": 619.35,
+  "currency": "USD"
+}

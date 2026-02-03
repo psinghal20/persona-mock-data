@@ -1,0 +1,30 @@
+{
+  "order_id": "FSH000059",
+  "persona_id": "persona_010",
+  "store_id": "fashion",
+  "status": "delivered",
+  "created_at": "2026-01-15T09:57:10",
+  "shipped_at": "2026-01-16T09:57:10",
+  "delivered_at": "2026-01-19T09:57:10",
+  "shipping_address": "321 French Quarter Ave, New Orleans, LA 70116",
+  "items": [
+    {
+      "product_id": "prod_215",
+      "name": "Pure Cotton Co Rayon Sheath Dress",
+      "category": "Dresses",
+      "quantity": 1,
+      "price": 130.74,
+      "subtotal": 130.74
+    },
+    {
+      "product_id": "prod_217",
+      "name": "Metro Collection Satin Sheath Dress",
+      "category": "Dresses",
+      "quantity": 1,
+      "price": 192.32,
+      "subtotal": 192.32
+    }
+  ],
+  "total": 323.06,
+  "currency": "USD"
+}

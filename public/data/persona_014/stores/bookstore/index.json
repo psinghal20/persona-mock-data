@@ -1,0 +1,609 @@
+{
+  "persona_id": "persona_014",
+  "store_id": "bookstore",
+  "store_name": "Bookstore",
+  "transaction_type": "purchases",
+  "transaction_label": "purchases",
+  "has_cost": true,
+  "summary": {
+    "total_count": 36,
+    "total_spent": 1268.52,
+    "first_date": "2025-10-06",
+    "last_date": "2026-01-26"
+  },
+  "items": [
+    {
+      "order_id": "PUR-49",
+      "status": "completed",
+      "total": 16.99,
+      "item_count": 1,
+      "created_at": "2026-01-26T17:21:11",
+      "item_preview": "Neuromancer"
+    },
+    {
+      "order_id": "PUR-184",
+      "status": "completed",
+      "total": 37.98,
+      "item_count": 2,
+      "created_at": "2026-01-23T01:40:27",
+      "item_preview": "Children of Ruin"
+    },
+    {
+      "order_id": "PUR-179",
+      "status": "completed",
+      "total": 35.98,
+      "item_count": 2,
+      "created_at": "2026-01-20T04:10:37",
+      "item_preview": "Leviathan Wakes"
+    },
+    {
+      "order_id": "PUR-183",
+      "status": "completed",
+      "total": 90.0,
+      "item_count": 2,
+      "created_at": "2026-01-19T03:01:51",
+      "item_preview": "Dont Make Me Think"
+    },
+    {
+      "order_id": "PUR-189",
+      "status": "completed",
+      "total": 16.99,
+      "item_count": 1,
+      "created_at": "2026-01-12T23:58:17",
+      "item_preview": "The Lean Startup"
+    },
+    {
+      "order_id": "PUR-178",
+      "status": "completed",
+      "total": 52.0,
+      "item_count": 2,
+      "created_at": "2026-01-03T15:37:24",
+      "item_preview": "The Subtle Art of Not Giving a Fck"
+    },
+    {
+      "order_id": "PUR-182",
+      "status": "completed",
+      "total": 7.99,
+      "item_count": 1,
+      "created_at": "2025-12-25T22:16:05",
+      "item_preview": "Siddhartha"
+    },
+    {
+      "order_id": "PUR-48",
+      "status": "completed",
+      "total": 69.99,
+      "item_count": 1,
+      "created_at": "2025-12-23T08:23:45",
+      "item_preview": "Domain-Driven Design"
+    },
+    {
+      "order_id": "PUR-186",
+      "status": "completed",
+      "total": 18.0,
+      "item_count": 1,
+      "created_at": "2025-12-19T10:05:31",
+      "item_preview": "Malibu Rising"
+    },
+    {
+      "order_id": "PUR-52",
+      "status": "completed",
+      "total": 34.0,
+      "item_count": 2,
+      "created_at": "2025-12-19T02:18:27",
+      "item_preview": "The Spanish Love Deception"
+    },
+    {
+      "order_id": "PUR-53",
+      "status": "completed",
+      "total": 35.98,
+      "item_count": 2,
+      "created_at": "2025-12-18T21:47:42",
+      "item_preview": "The Nickel Boys"
+    },
+    {
+      "order_id": "PUR-44",
+      "status": "completed",
+      "total": 17.99,
+      "item_count": 1,
+      "created_at": "2025-12-17T08:14:13",
+      "item_preview": "The Great Alone"
+    },
+    {
+      "order_id": "PUR-180",
+      "status": "completed",
+      "total": 90.0,
+      "item_count": 2,
+      "created_at": "2025-12-16T07:49:51",
+      "item_preview": "Dont Make Me Think"
+    },
+    {
+      "order_id": "PUR-41",
+      "status": "completed",
+      "total": 33.98,
+      "item_count": 2,
+      "created_at": "2025-12-15T15:39:47",
+      "item_preview": "The Remains of the Day"
+    },
+    {
+      "order_id": "PUR-43",
+      "status": "completed",
+      "total": 59.99,
+      "item_count": 1,
+      "created_at": "2025-12-14T18:20:21",
+      "item_preview": "Head First Design Patterns"
+    },
+    {
+      "order_id": "PUR-170",
+      "status": "completed",
+      "total": 33.98,
+      "item_count": 2,
+      "created_at": "2025-12-14T11:50:03",
+      "item_preview": "The Lean Startup"
+    },
+    {
+      "order_id": "PUR-181",
+      "status": "completed",
+      "total": 37.98,
+      "item_count": 2,
+      "created_at": "2025-12-13T08:09:27",
+      "item_preview": "Anxious People"
+    },
+    {
+      "order_id": "PUR-175",
+      "status": "completed",
+      "total": 17.0,
+      "item_count": 1,
+      "created_at": "2025-12-08T15:20:05",
+      "item_preview": "Start with Why"
+    },
+    {
+      "order_id": "PUR-172",
+      "status": "completed",
+      "total": 31.98,
+      "item_count": 2,
+      "created_at": "2025-12-05T04:43:16",
+      "item_preview": "The Great Gatsby"
+    },
+    {
+      "order_id": "PUR-176",
+      "status": "completed",
+      "total": 35.98,
+      "item_count": 2,
+      "created_at": "2025-12-01T04:45:50",
+      "item_preview": "Blink"
+    },
+    {
+      "order_id": "PUR-40",
+      "status": "completed",
+      "total": 139.98,
+      "item_count": 2,
+      "created_at": "2025-11-27T01:30:22",
+      "item_preview": "Domain-Driven Design"
+    },
+    {
+      "order_id": "PUR-187",
+      "status": "completed",
+      "total": 16.99,
+      "item_count": 1,
+      "created_at": "2025-11-23T16:14:26",
+      "item_preview": "The Flatshare"
+    },
+    {
+      "order_id": "PUR-45",
+      "status": "completed",
+      "total": 33.98,
+      "item_count": 2,
+      "created_at": "2025-11-21T18:36:01",
+      "item_preview": "The Remains of the Day"
+    },
+    {
+      "order_id": "PUR-173",
+      "status": "completed",
+      "total": 16.99,
+      "item_count": 1,
+      "created_at": "2025-11-21T07:10:36",
+      "item_preview": "The Flatshare"
+    },
+    {
+      "order_id": "PUR-42",
+      "status": "completed",
+      "total": 37.9,
+      "item_count": 2,
+      "created_at": "2025-11-20T05:03:40",
+      "item_preview": "The Overstory"
+    },
+    {
+      "order_id": "PUR-185",
+      "status": "completed",
+      "total": 15.98,
+      "item_count": 2,
+      "created_at": "2025-11-15T00:39:29",
+      "item_preview": "Siddhartha"
+    },
+    {
+      "order_id": "PUR-51",
+      "status": "completed",
+      "total": 17.99,
+      "item_count": 1,
+      "created_at": "2025-11-12T17:57:19",
+      "item_preview": "Red White & Royal Blue"
+    },
+    {
+      "order_id": "PUR-168",
+      "status": "completed",
+      "total": 19.99,
+      "item_count": 1,
+      "created_at": "2025-11-11T18:35:54",
+      "item_preview": "A Column of Fire"
+    },
+    {
+      "order_id": "PUR-174",
+      "status": "completed",
+      "total": 18.99,
+      "item_count": 1,
+      "created_at": "2025-11-06T11:08:28",
+      "item_preview": "Malibu Rising"
+    },
+    {
+      "order_id": "PUR-188",
+      "status": "completed",
+      "total": 15.98,
+      "item_count": 2,
+      "created_at": "2025-10-30T09:20:17",
+      "item_preview": "Siddhartha"
+    },
+    {
+      "order_id": "PUR-50",
+      "status": "completed",
+      "total": 34.0,
+      "item_count": 2,
+      "created_at": "2025-10-29T21:40:55",
+      "item_preview": "Klara and the Sun"
+    },
+    {
+      "order_id": "PUR-177",
+      "status": "completed",
+      "total": 34.0,
+      "item_count": 2,
+      "created_at": "2025-10-20T02:34:09",
+      "item_preview": "Little Fires Everywhere"
+    },
+    {
+      "order_id": "PUR-46",
+      "status": "completed",
+      "total": 17.99,
+      "item_count": 1,
+      "created_at": "2025-10-13T08:15:17",
+      "item_preview": "The Nickel Boys"
+    },
+    {
+      "order_id": "PUR-169",
+      "status": "completed",
+      "total": 37.98,
+      "item_count": 2,
+      "created_at": "2025-10-11T07:00:31",
+      "item_preview": "Children of Ruin"
+    },
+    {
+      "order_id": "PUR-171",
+      "status": "completed",
+      "total": 17.0,
+      "item_count": 1,
+      "created_at": "2025-10-10T03:08:17",
+      "item_preview": "Klara and the Sun"
+    },
+    {
+      "order_id": "PUR-47",
+      "status": "completed",
+      "total": 18.0,
+      "item_count": 1,
+      "created_at": "2025-10-06T12:13:50",
+      "item_preview": "Malibu Rising"
+    }
+  ],
+  "categories": [
+    {
+      "id": "purchases",
+      "name": "Purchases",
+      "type": "purchases",
+      "label": "purchases",
+      "has_cost": true,
+      "summary": {
+        "total_count": 36,
+        "total_spent": 1268.52,
+        "first_date": "2025-10-06",
+        "last_date": "2026-01-26"
+      },
+      "items": [
+        {
+          "order_id": "PUR-49",
+          "status": "completed",
+          "total": 16.99,
+          "item_count": 1,
+          "created_at": "2026-01-26T17:21:11",
+          "item_preview": "Neuromancer"
+        },
+        {
+          "order_id": "PUR-184",
+          "status": "completed",
+          "total": 37.98,
+          "item_count": 2,
+          "created_at": "2026-01-23T01:40:27",
+          "item_preview": "Children of Ruin"
+        },
+        {
+          "order_id": "PUR-179",
+          "status": "completed",
+          "total": 35.98,
+          "item_count": 2,
+          "created_at": "2026-01-20T04:10:37",
+          "item_preview": "Leviathan Wakes"
+        },
+        {
+          "order_id": "PUR-183",
+          "status": "completed",
+          "total": 90.0,
+          "item_count": 2,
+          "created_at": "2026-01-19T03:01:51",
+          "item_preview": "Dont Make Me Think"
+        },
+        {
+          "order_id": "PUR-189",
+          "status": "completed",
+          "total": 16.99,
+          "item_count": 1,
+          "created_at": "2026-01-12T23:58:17",
+          "item_preview": "The Lean Startup"
+        },
+        {
+          "order_id": "PUR-178",
+          "status": "completed",
+          "total": 52.0,
+          "item_count": 2,
+          "created_at": "2026-01-03T15:37:24",
+          "item_preview": "The Subtle Art of Not Giving a Fck"
+        },
+        {
+          "order_id": "PUR-182",
+          "status": "completed",
+          "total": 7.99,
+          "item_count": 1,
+          "created_at": "2025-12-25T22:16:05",
+          "item_preview": "Siddhartha"
+        },
+        {
+          "order_id": "PUR-48",
+          "status": "completed",
+          "total": 69.99,
+          "item_count": 1,
+          "created_at": "2025-12-23T08:23:45",
+          "item_preview": "Domain-Driven Design"
+        },
+        {
+          "order_id": "PUR-186",
+          "status": "completed",
+          "total": 18.0,
+          "item_count": 1,
+          "created_at": "2025-12-19T10:05:31",
+          "item_preview": "Malibu Rising"
+        },
+        {
+          "order_id": "PUR-52",
+          "status": "completed",
+          "total": 34.0,
+          "item_count": 2,
+          "created_at": "2025-12-19T02:18:27",
+          "item_preview": "The Spanish Love Deception"
+        },
+        {
+          "order_id": "PUR-53",
+          "status": "completed",
+          "total": 35.98,
+          "item_count": 2,
+          "created_at": "2025-12-18T21:47:42",
+          "item_preview": "The Nickel Boys"
+        },
+        {
+          "order_id": "PUR-44",
+          "status": "completed",
+          "total": 17.99,
+          "item_count": 1,
+          "created_at": "2025-12-17T08:14:13",
+          "item_preview": "The Great Alone"
+        },
+        {
+          "order_id": "PUR-180",
+          "status": "completed",
+          "total": 90.0,
+          "item_count": 2,
+          "created_at": "2025-12-16T07:49:51",
+          "item_preview": "Dont Make Me Think"
+        },
+        {
+          "order_id": "PUR-41",
+          "status": "completed",
+          "total": 33.98,
+          "item_count": 2,
+          "created_at": "2025-12-15T15:39:47",
+          "item_preview": "The Remains of the Day"
+        },
+        {
+          "order_id": "PUR-43",
+          "status": "completed",
+          "total": 59.99,
+          "item_count": 1,
+          "created_at": "2025-12-14T18:20:21",
+          "item_preview": "Head First Design Patterns"
+        },
+        {
+          "order_id": "PUR-170",
+          "status": "completed",
+          "total": 33.98,
+          "item_count": 2,
+          "created_at": "2025-12-14T11:50:03",
+          "item_preview": "The Lean Startup"
+        },
+        {
+          "order_id": "PUR-181",
+          "status": "completed",
+          "total": 37.98,
+          "item_count": 2,
+          "created_at": "2025-12-13T08:09:27",
+          "item_preview": "Anxious People"
+        },
+        {
+          "order_id": "PUR-175",
+          "status": "completed",
+          "total": 17.0,
+          "item_count": 1,
+          "created_at": "2025-12-08T15:20:05",
+          "item_preview": "Start with Why"
+        },
+        {
+          "order_id": "PUR-172",
+          "status": "completed",
+          "total": 31.98,
+          "item_count": 2,
+          "created_at": "2025-12-05T04:43:16",
+          "item_preview": "The Great Gatsby"
+        },
+        {
+          "order_id": "PUR-176",
+          "status": "completed",
+          "total": 35.98,
+          "item_count": 2,
+          "created_at": "2025-12-01T04:45:50",
+          "item_preview": "Blink"
+        },
+        {
+          "order_id": "PUR-40",
+          "status": "completed",
+          "total": 139.98,
+          "item_count": 2,
+          "created_at": "2025-11-27T01:30:22",
+          "item_preview": "Domain-Driven Design"
+        },
+        {
+          "order_id": "PUR-187",
+          "status": "completed",
+          "total": 16.99,
+          "item_count": 1,
+          "created_at": "2025-11-23T16:14:26",
+          "item_preview": "The Flatshare"
+        },
+        {
+          "order_id": "PUR-45",
+          "status": "completed",
+          "total": 33.98,
+          "item_count": 2,
+          "created_at": "2025-11-21T18:36:01",
+          "item_preview": "The Remains of the Day"
+        },
+        {
+          "order_id": "PUR-173",
+          "status": "completed",
+          "total": 16.99,
+          "item_count": 1,
+          "created_at": "2025-11-21T07:10:36",
+          "item_preview": "The Flatshare"
+        },
+        {
+          "order_id": "PUR-42",
+          "status": "completed",
+          "total": 37.9,
+          "item_count": 2,
+          "created_at": "2025-11-20T05:03:40",
+          "item_preview": "The Overstory"
+        },
+        {
+          "order_id": "PUR-185",
+          "status": "completed",
+          "total": 15.98,
+          "item_count": 2,
+          "created_at": "2025-11-15T00:39:29",
+          "item_preview": "Siddhartha"
+        },
+        {
+          "order_id": "PUR-51",
+          "status": "completed",
+          "total": 17.99,
+          "item_count": 1,
+          "created_at": "2025-11-12T17:57:19",
+          "item_preview": "Red White & Royal Blue"
+        },
+        {
+          "order_id": "PUR-168",
+          "status": "completed",
+          "total": 19.99,
+          "item_count": 1,
+          "created_at": "2025-11-11T18:35:54",
+          "item_preview": "A Column of Fire"
+        },
+        {
+          "order_id": "PUR-174",
+          "status": "completed",
+          "total": 18.99,
+          "item_count": 1,
+          "created_at": "2025-11-06T11:08:28",
+          "item_preview": "Malibu Rising"
+        },
+        {
+          "order_id": "PUR-188",
+          "status": "completed",
+          "total": 15.98,
+          "item_count": 2,
+          "created_at": "2025-10-30T09:20:17",
+          "item_preview": "Siddhartha"
+        },
+        {
+          "order_id": "PUR-50",
+          "status": "completed",
+          "total": 34.0,
+          "item_count": 2,
+          "created_at": "2025-10-29T21:40:55",
+          "item_preview": "Klara and the Sun"
+        },
+        {
+          "order_id": "PUR-177",
+          "status": "completed",
+          "total": 34.0,
+          "item_count": 2,
+          "created_at": "2025-10-20T02:34:09",
+          "item_preview": "Little Fires Everywhere"
+        },
+        {
+          "order_id": "PUR-46",
+          "status": "completed",
+          "total": 17.99,
+          "item_count": 1,
+          "created_at": "2025-10-13T08:15:17",
+          "item_preview": "The Nickel Boys"
+        },
+        {
+          "order_id": "PUR-169",
+          "status": "completed",
+          "total": 37.98,
+          "item_count": 2,
+          "created_at": "2025-10-11T07:00:31",
+          "item_preview": "Children of Ruin"
+        },
+        {
+          "order_id": "PUR-171",
+          "status": "completed",
+          "total": 17.0,
+          "item_count": 1,
+          "created_at": "2025-10-10T03:08:17",
+          "item_preview": "Klara and the Sun"
+        },
+        {
+          "order_id": "PUR-47",
+          "status": "completed",
+          "total": 18.0,
+          "item_count": 1,
+          "created_at": "2025-10-06T12:13:50",
+          "item_preview": "Malibu Rising"
+        }
+      ]
+    }
+  ]
+}

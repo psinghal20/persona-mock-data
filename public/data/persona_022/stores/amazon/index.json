@@ -1,0 +1,1105 @@
+{
+  "persona_id": "persona_022",
+  "store_id": "amazon",
+  "store_name": "Amazon",
+  "transaction_type": "orders",
+  "transaction_label": "orders",
+  "has_cost": true,
+  "summary": {
+    "total_count": 67,
+    "total_spent": 101409.46,
+    "first_date": "2025-10-01",
+    "last_date": "2026-01-27"
+  },
+  "items": [
+    {
+      "order_id": "ORDER-5C8YTP08",
+      "status": "delivered",
+      "total": 61.69,
+      "item_count": 2,
+      "created_at": "2026-01-27T05:51:28",
+      "item_preview": "Catch-22 by Joseph Heller, Hamilton Beach Electric Kettle 1.7L"
+    },
+    {
+      "order_id": "ORDER-6H52KJ2B",
+      "status": "delivered",
+      "total": 280.47,
+      "item_count": 2,
+      "created_at": "2026-01-26T20:51:09",
+      "item_preview": "Cuisinart Food Processor 14-Cup, The Odyssey by Homer"
+    },
+    {
+      "order_id": "ORDER-YWKXS628",
+      "status": "delivered",
+      "total": 334.96,
+      "item_count": 3,
+      "created_at": "2026-01-22T04:45:22",
+      "item_preview": "Instant Vortex Plus Air Fryer 6 Qt, Ninja Air Fryer Pro 4-in-1, ..."
+    },
+    {
+      "order_id": "ORDER-Q1OXQ52F",
+      "status": "shipped",
+      "total": 1099.96,
+      "item_count": 2,
+      "created_at": "2026-01-21T09:53:44",
+      "item_preview": "Cuisinart Food Processor 14-Cup, Bissell Pet Hair Eraser Turbo"
+    },
+    {
+      "order_id": "ORDER-M7RIB53L",
+      "status": "delivered",
+      "total": 1785.0,
+      "item_count": 1,
+      "created_at": "2026-01-20T22:51:36",
+      "item_preview": "Big Ass Fans Haiku L Series"
+    },
+    {
+      "order_id": "ORDER-VGZYWLJN",
+      "status": "delivered",
+      "total": 1920.77,
+      "item_count": 3,
+      "created_at": "2026-01-20T08:34:39",
+      "item_preview": "Breville Barista Express Espresso Machine, Zero to One by Peter Thiel, ..."
+    },
+    {
+      "order_id": "ORDER-9U31JAHY",
+      "status": "shipped",
+      "total": 1859.75,
+      "item_count": 2,
+      "created_at": "2026-01-17T13:45:23",
+      "item_preview": "Breville Bambino Plus Espresso Machine, Instant Pot Duo Crisp Ultimate Lid"
+    },
+    {
+      "order_id": "ORDER-S3UJ7Q4O",
+      "status": "delivered",
+      "total": 1325.31,
+      "item_count": 3,
+      "created_at": "2026-01-16T15:18:30",
+      "item_preview": "Pet Naturals Pet Naturals Calming Chews Cats, Technivorm Moccamaster KBGV Select, ..."
+    },
+    {
+      "order_id": "ORDER-7Z53PHXK",
+      "status": "delivered",
+      "total": 730.0,
+      "item_count": 1,
+      "created_at": "2026-01-15T15:26:55",
+      "item_preview": "Ratio Six Coffee Maker"
+    },
+    {
+      "order_id": "ORDER-UKAM6IFV",
+      "status": "cancelled",
+      "total": 3819.76,
+      "item_count": 3,
+      "created_at": "2026-01-12T20:27:46",
+      "item_preview": "Traeger Pro 780 Pellet Grill, The Very Hungry Caterpillar by Eric Carle, ..."
+    },
+    {
+      "order_id": "ORDER-AO8P0B8J",
+      "status": "pending",
+      "total": 199.99,
+      "item_count": 1,
+      "created_at": "2026-01-10T02:27:20",
+      "item_preview": "Shark Navigator Lift-Away"
+    },
+    {
+      "order_id": "ORDER-8IDEIXJ2",
+      "status": "delivered",
+      "total": 599.9,
+      "item_count": 1,
+      "created_at": "2026-01-08T06:40:54",
+      "item_preview": "Breville Precision Brewer"
+    },
+    {
+      "order_id": "ORDER-S5LJW589",
+      "status": "delivered",
+      "total": 680.33,
+      "item_count": 3,
+      "created_at": "2026-01-08T02:30:49",
+      "item_preview": "Honeywell QuietSet Tower Fan, Comfort Zone Comfort Zone Multi-Cat Diffuser, ..."
+    },
+    {
+      "order_id": "ORDER-H2QXX2F7",
+      "status": "shipped",
+      "total": 21.99,
+      "item_count": 1,
+      "created_at": "2026-01-07T12:35:50",
+      "item_preview": "Philips LED 60W Equivalent A19 (16 pack)"
+    },
+    {
+      "order_id": "ORDER-J8WE5K3I",
+      "status": "delivered",
+      "total": 2413.86,
+      "item_count": 4,
+      "created_at": "2026-01-02T21:34:45",
+      "item_preview": "Breville Precision Brewer, Roomba j7+ Self-Emptying Robot, ..."
+    },
+    {
+      "order_id": "ORDER-5YKXN3AV",
+      "status": "delivered",
+      "total": 1214.76,
+      "item_count": 2,
+      "created_at": "2026-01-01T12:00:37",
+      "item_preview": "Creativity Inc. by Ed Catmull, Midea U-Shaped Window Air Conditioner"
+    },
+    {
+      "order_id": "ORDER-MJ463F8X",
+      "status": "pending",
+      "total": 29.14,
+      "item_count": 2,
+      "created_at": "2025-12-31T16:11:45",
+      "item_preview": "Educated by Tara Westover, Catit Catit Creamy Treats"
+    },
+    {
+      "order_id": "ORDER-17ZB0DYF",
+      "status": "delivered",
+      "total": 21.99,
+      "item_count": 1,
+      "created_at": "2025-12-30T16:48:33",
+      "item_preview": "Sheba Perfect Portions Cat Food (24 twin)"
+    },
+    {
+      "order_id": "ORDER-BQWT4TAP",
+      "status": "delivered",
+      "total": 12617.56,
+      "item_count": 3,
+      "created_at": "2025-12-28T05:36:02",
+      "item_preview": "La Marzocco Linea Mini, Vesper Vesper Cat Furniture High Base, ..."
+    },
+    {
+      "order_id": "ORDER-3PARL077",
+      "status": "shipped",
+      "total": 9612.26,
+      "item_count": 3,
+      "created_at": "2025-12-27T21:29:10",
+      "item_preview": "Jura E8 Automatic Coffee Machine, Tiki Cat Tiki Cat Luau Variety Pack, ..."
+    },
+    {
+      "order_id": "ORDER-GSF77YYU",
+      "status": "delivered",
+      "total": 1521.26,
+      "item_count": 2,
+      "created_at": "2025-12-26T18:03:02",
+      "item_preview": "Breville Barista Express Espresso Machine, Fancy Feast Gourmet Cat Food (24 cans)"
+    },
+    {
+      "order_id": "ORDER-EFJJD3JA",
+      "status": "delivered",
+      "total": 571.35,
+      "item_count": 2,
+      "created_at": "2025-12-26T09:55:01",
+      "item_preview": "Fancy Feast Gourmet Cat Food (24 cans), KitchenAid Pro 600 Stand Mixer"
+    },
+    {
+      "order_id": "ORDER-TN1ZPJ7T",
+      "status": "delivered",
+      "total": 372.58,
+      "item_count": 2,
+      "created_at": "2025-12-23T01:01:36",
+      "item_preview": "OXO Brew 8-Cup Coffee Maker, Sentry Sentry Calming Collar for Cats"
+    },
+    {
+      "order_id": "ORDER-Q3SAVHMS",
+      "status": "delivered",
+      "total": 779.96,
+      "item_count": 3,
+      "created_at": "2025-12-21T08:38:59",
+      "item_preview": "Kalita Wave 185 Dripper, Hunter Bennett 52-Inch Ceiling Fan, ..."
+    },
+    {
+      "order_id": "ORDER-85A6HNML",
+      "status": "delivered",
+      "total": 709.35,
+      "item_count": 1,
+      "created_at": "2025-12-20T15:13:15",
+      "item_preview": "Vesper Vesper Cat Furniture High Base"
+    },
+    {
+      "order_id": "ORDER-CNRS36ZO",
+      "status": "delivered",
+      "total": 105.0,
+      "item_count": 1,
+      "created_at": "2025-12-20T03:50:08",
+      "item_preview": "Thermapen ONE Instant Read Thermometer"
+    },
+    {
+      "order_id": "ORDER-KDL0R9U8",
+      "status": "delivered",
+      "total": 46.47,
+      "item_count": 2,
+      "created_at": "2025-12-19T13:33:47",
+      "item_preview": "JW Pet JW Pet GripSoft Cat Brush, Friskies Wet Cat Food (60 pouches)"
+    },
+    {
+      "order_id": "ORDER-6RG131R5",
+      "status": "delivered",
+      "total": 2242.02,
+      "item_count": 1,
+      "created_at": "2025-12-17T22:46:27",
+      "item_preview": "Dyson V15 Detect Cordless Vacuum"
+    },
+    {
+      "order_id": "ORDER-CX34Y27L",
+      "status": "delivered",
+      "total": 13.78,
+      "item_count": 1,
+      "created_at": "2025-12-17T07:23:57",
+      "item_preview": "Aquarium Co-Op Aquarium Co-Op Easy Planter"
+    },
+    {
+      "order_id": "ORDER-NL5INXA3",
+      "status": "delivered",
+      "total": 5192.2,
+      "item_count": 3,
+      "created_at": "2025-12-14T09:33:54",
+      "item_preview": "Dyson Purifier Cool TP07, Bonavita Connoisseur 8-Cup Coffee Maker, ..."
+    },
+    {
+      "order_id": "ORDER-JRYV1IIQ",
+      "status": "delivered",
+      "total": 335.88,
+      "item_count": 2,
+      "created_at": "2025-12-14T04:25:37",
+      "item_preview": "KitchenAid Pro Line 4-Slice Toaster, Orijen Orijen Cat & Kitten Dry Food"
+    },
+    {
+      "order_id": "ORDER-EZVV9KKF",
+      "status": "delivered",
+      "total": 766.99,
+      "item_count": 3,
+      "created_at": "2025-12-10T17:06:13",
+      "item_preview": "Kalita Wave 185 Dripper, Black+Decker 4-Slice Toaster Oven, ..."
+    },
+    {
+      "order_id": "ORDER-5GDREGJL",
+      "status": "delivered",
+      "total": 89.99,
+      "item_count": 1,
+      "created_at": "2025-12-07T14:05:57",
+      "item_preview": "Dreo Tower Fan"
+    },
+    {
+      "order_id": "ORDER-MLG61ZZY",
+      "status": "delivered",
+      "total": 3199.95,
+      "item_count": 2,
+      "created_at": "2025-12-05T18:09:02",
+      "item_preview": "KitchenAid Pro 600 Stand Mixer, De'Longhi La Specialista Arte Espresso"
+    },
+    {
+      "order_id": "ORDER-RBAFXJ5E",
+      "status": "shipped",
+      "total": 1226.39,
+      "item_count": 3,
+      "created_at": "2025-12-02T07:25:28",
+      "item_preview": "Frisco Frisco Cat Tree 72-inch, Samsung Bespoke AI Electric Dryer, ..."
+    },
+    {
+      "order_id": "ORDER-LEIDEJKN",
+      "status": "cancelled",
+      "total": 65.97,
+      "item_count": 1,
+      "created_at": "2025-11-28T22:58:21",
+      "item_preview": "Philips LED 60W Equivalent A19 (16 pack)"
+    },
+    {
+      "order_id": "ORDER-BT79FP5H",
+      "status": "delivered",
+      "total": 379.96,
+      "item_count": 2,
+      "created_at": "2025-11-28T17:43:55",
+      "item_preview": "Ninja Specialty Coffee Maker, GE Reveal LED 60W Equivalent (8 pack)"
+    },
+    {
+      "order_id": "ORDER-7MAG36VL",
+      "status": "cancelled",
+      "total": 5653.55,
+      "item_count": 4,
+      "created_at": "2025-11-26T05:25:22",
+      "item_preview": "KitchenAid Pro Line 4-Slice Toaster, Miele Complete C3 Calima, ..."
+    },
+    {
+      "order_id": "ORDER-RRS6R68N",
+      "status": "delivered",
+      "total": 453.75,
+      "item_count": 1,
+      "created_at": "2025-11-26T03:25:07",
+      "item_preview": "Breville Sous Chef 16 Pro Food Processor"
+    },
+    {
+      "order_id": "ORDER-35GQZGSA",
+      "status": "delivered",
+      "total": 1358.98,
+      "item_count": 2,
+      "created_at": "2025-11-24T14:19:05",
+      "item_preview": "Tineco Floor ONE S5 Steam, Nespresso Vertuo Next Coffee Machine"
+    },
+    {
+      "order_id": "ORDER-1F4DS3RR",
+      "status": "delivered",
+      "total": 925.48,
+      "item_count": 1,
+      "created_at": "2025-11-23T19:27:12",
+      "item_preview": "Frigidaire Gallery Cool Connect AC"
+    },
+    {
+      "order_id": "ORDER-MO6Y8OJU",
+      "status": "delivered",
+      "total": 3558.24,
+      "item_count": 4,
+      "created_at": "2025-11-18T22:05:14",
+      "item_preview": "Rancilio Silvia, Baratza Encore ESP, ..."
+    },
+    {
+      "order_id": "ORDER-U3PXRDMC",
+      "status": "shipped",
+      "total": 632.18,
+      "item_count": 2,
+      "created_at": "2025-11-17T01:49:51",
+      "item_preview": "Nespresso VertuoPlus Deluxe Coffee Machine, Gardens of the Moon by Steven Erikson"
+    },
+    {
+      "order_id": "ORDER-8Y9PJ1B5",
+      "status": "delivered",
+      "total": 3737.61,
+      "item_count": 1,
+      "created_at": "2025-11-15T21:38:00",
+      "item_preview": "Traeger Pro 780 Pellet Grill"
+    },
+    {
+      "order_id": "ORDER-B6632IQC",
+      "status": "delivered",
+      "total": 2309.94,
+      "item_count": 2,
+      "created_at": "2025-11-15T16:07:57",
+      "item_preview": "Dyson Purifier Hot+Cool, COSORI Air Fryer Pro LE 5-Qt"
+    },
+    {
+      "order_id": "ORDER-RZ4WM4MC",
+      "status": "delivered",
+      "total": 1136.33,
+      "item_count": 4,
+      "created_at": "2025-11-14T21:53:23",
+      "item_preview": "Nespresso Vertuo Next Coffee Machine, Technivorm Moccamaster KBGV Select, ..."
+    },
+    {
+      "order_id": "ORDER-8USXYOQX",
+      "status": "shipped",
+      "total": 559.96,
+      "item_count": 2,
+      "created_at": "2025-11-13T05:50:23",
+      "item_preview": "Rubbermaid Roughneck Storage Totes 18 Gal (6 pack), KitchenAid Artisan Stand Mixer"
+    },
+    {
+      "order_id": "ORDER-PQ1YYKKI",
+      "status": "delivered",
+      "total": 383.96,
+      "item_count": 2,
+      "created_at": "2025-11-12T20:04:25",
+      "item_preview": "Sheba Perfect Portions Cat Food (24 twin), Ninja Specialty Coffee Maker"
+    },
+    {
+      "order_id": "ORDER-N8A5W4FH",
+      "status": "shipped",
+      "total": 1508.16,
+      "item_count": 2,
+      "created_at": "2025-11-12T06:05:10",
+      "item_preview": "Frigidaire Gallery Cool Connect AC, Blue Buffalo Wilderness Cat Food 12 lb"
+    },
+    {
+      "order_id": "ORDER-G87XCGM7",
+      "status": "delivered",
+      "total": 510.26,
+      "item_count": 2,
+      "created_at": "2025-11-10T20:32:56",
+      "item_preview": "Breville Bambino Plus Espresso Machine, Pet Naturals Pet Naturals Calming Chews Cats"
+    },
+    {
+      "order_id": "ORDER-3M2TM69R",
+      "status": "cancelled",
+      "total": 4447.96,
+      "item_count": 3,
+      "created_at": "2025-11-09T11:38:29",
+      "item_preview": "Dyson V15 Detect Absolute, Philips 3200 LatteGo, ..."
+    },
+    {
+      "order_id": "ORDER-ANVA5O6R",
+      "status": "delivered",
+      "total": 695.0,
+      "item_count": 1,
+      "created_at": "2025-11-09T02:55:59",
+      "item_preview": "Fully Jarvis Bamboo Desk"
+    },
+    {
+      "order_id": "ORDER-UWBID1SZ",
+      "status": "delivered",
+      "total": 1999.85,
+      "item_count": 2,
+      "created_at": "2025-11-06T03:04:07",
+      "item_preview": "Breville Bambino Plus Espresso Machine, Breville Barista Express Espresso Machine"
+    },
+    {
+      "order_id": "ORDER-0RY6NC9B",
+      "status": "pending",
+      "total": 947.98,
+      "item_count": 2,
+      "created_at": "2025-11-04T03:58:46",
+      "item_preview": "Nespresso VertuoPlus Deluxe Coffee Machine, iRobot Roomba 694 Robot Vacuum"
+    },
+    {
+      "order_id": "ORDER-ZD5TWQ5Y",
+      "status": "shipped",
+      "total": 2749.93,
+      "item_count": 3,
+      "created_at": "2025-11-03T15:18:59",
+      "item_preview": "Hamilton Beach Electric Kettle 1.7L, Dreametech H12 Pro, ..."
+    },
+    {
+      "order_id": "ORDER-C0LTNBE3",
+      "status": "shipped",
+      "total": 54.36,
+      "item_count": 1,
+      "created_at": "2025-11-01T09:02:19",
+      "item_preview": "Creativity Inc. by Ed Catmull"
+    },
+    {
+      "order_id": "ORDER-2LIJ31HM",
+      "status": "delivered",
+      "total": 14.99,
+      "item_count": 1,
+      "created_at": "2025-10-31T16:39:19",
+      "item_preview": "Educated by Tara Westover"
+    },
+    {
+      "order_id": "ORDER-YKMBEZX9",
+      "status": "delivered",
+      "total": 739.46,
+      "item_count": 3,
+      "created_at": "2025-10-28T22:03:34",
+      "item_preview": "OXO Brew Conical Burr Grinder, Educated by Tara Westover, ..."
+    },
+    {
+      "order_id": "ORDER-3T5BMENS",
+      "status": "delivered",
+      "total": 1157.71,
+      "item_count": 2,
+      "created_at": "2025-10-25T07:42:48",
+      "item_preview": "KitchenAid Artisan Stand Mixer, Vitakraft Vitakraft Sunseed Vita Prima"
+    },
+    {
+      "order_id": "ORDER-OMYEQ1FG",
+      "status": "delivered",
+      "total": 21.99,
+      "item_count": 1,
+      "created_at": "2025-10-16T10:08:34",
+      "item_preview": "Philips LED 60W Equivalent A19 (16 pack)"
+    },
+    {
+      "order_id": "ORDER-84GVA6FT",
+      "status": "shipped",
+      "total": 2117.0,
+      "item_count": 2,
+      "created_at": "2025-10-13T16:17:05",
+      "item_preview": "Zero to One by Peter Thiel, Fully Jarvis Bamboo Desk"
+    },
+    {
+      "order_id": "ORDER-K1AAZU43",
+      "status": "delivered",
+      "total": 940.72,
+      "item_count": 2,
+      "created_at": "2025-10-10T21:44:35",
+      "item_preview": "Fancy Feast Gourmet Cat Food (24 cans), Gaggia Classic Pro"
+    },
+    {
+      "order_id": "ORDER-IV6MZ1PH",
+      "status": "pending",
+      "total": 103.33,
+      "item_count": 2,
+      "created_at": "2025-10-06T19:19:09",
+      "item_preview": "Hill's Science Diet Cat Food 16 lb, Purina Purina Tidy Cats Clumping Litter"
+    },
+    {
+      "order_id": "ORDER-DVEMLWEP",
+      "status": "pending",
+      "total": 1315.6,
+      "item_count": 3,
+      "created_at": "2025-10-05T23:00:22",
+      "item_preview": "Cuisinart Precision Master 5.5-Qt Stand Mixer, Le Creuset Dutch Oven 5.5 Qt, ..."
+    },
+    {
+      "order_id": "ORDER-45ZF86I9",
+      "status": "cancelled",
+      "total": 2183.5,
+      "item_count": 3,
+      "created_at": "2025-10-04T13:13:15",
+      "item_preview": "Dyson V15 Detect Absolute, Catit Catit Flower Fountain, ..."
+    },
+    {
+      "order_id": "ORDER-P424FQ7I",
+      "status": "delivered",
+      "total": 874.97,
+      "item_count": 3,
+      "created_at": "2025-10-03T17:05:21",
+      "item_preview": "Fellow Stagg EKG Electric Kettle, Hamilton Beach Electric Kettle 1.7L, ..."
+    },
+    {
+      "order_id": "ORDER-FW3WDZES",
+      "status": "delivered",
+      "total": 68.16,
+      "item_count": 1,
+      "created_at": "2025-10-01T20:17:51",
+      "item_preview": "Tiki Cat Tiki Cat Luau Variety Pack"
+    }
+  ],
+  "categories": [
+    {
+      "id": "orders",
+      "name": "Orders",
+      "type": "orders",
+      "label": "orders",
+      "has_cost": true,
+      "summary": {
+        "total_count": 67,
+        "total_spent": 101409.46,
+        "first_date": "2025-10-01",
+        "last_date": "2026-01-27"
+      },
+      "items": [
+        {
+          "order_id": "ORDER-5C8YTP08",
+          "status": "delivered",
+          "total": 61.69,
+          "item_count": 2,
+          "created_at": "2026-01-27T05:51:28",
+          "item_preview": "Catch-22 by Joseph Heller, Hamilton Beach Electric Kettle 1.7L"
+        },
+        {
+          "order_id": "ORDER-6H52KJ2B",
+          "status": "delivered",
+          "total": 280.47,
+          "item_count": 2,
+          "created_at": "2026-01-26T20:51:09",
+          "item_preview": "Cuisinart Food Processor 14-Cup, The Odyssey by Homer"
+        },
+        {
+          "order_id": "ORDER-YWKXS628",
+          "status": "delivered",
+          "total": 334.96,
+          "item_count": 3,
+          "created_at": "2026-01-22T04:45:22",
+          "item_preview": "Instant Vortex Plus Air Fryer 6 Qt, Ninja Air Fryer Pro 4-in-1, ..."
+        },
+        {
+          "order_id": "ORDER-Q1OXQ52F",
+          "status": "shipped",
+          "total": 1099.96,
+          "item_count": 2,
+          "created_at": "2026-01-21T09:53:44",
+          "item_preview": "Cuisinart Food Processor 14-Cup, Bissell Pet Hair Eraser Turbo"
+        },
+        {
+          "order_id": "ORDER-M7RIB53L",
+          "status": "delivered",
+          "total": 1785.0,
+          "item_count": 1,
+          "created_at": "2026-01-20T22:51:36",
+          "item_preview": "Big Ass Fans Haiku L Series"
+        },
+        {
+          "order_id": "ORDER-VGZYWLJN",
+          "status": "delivered",
+          "total": 1920.77,
+          "item_count": 3,
+          "created_at": "2026-01-20T08:34:39",
+          "item_preview": "Breville Barista Express Espresso Machine, Zero to One by Peter Thiel, ..."
+        },
+        {
+          "order_id": "ORDER-9U31JAHY",
+          "status": "shipped",
+          "total": 1859.75,
+          "item_count": 2,
+          "created_at": "2026-01-17T13:45:23",
+          "item_preview": "Breville Bambino Plus Espresso Machine, Instant Pot Duo Crisp Ultimate Lid"
+        },
+        {
+          "order_id": "ORDER-S3UJ7Q4O",
+          "status": "delivered",
+          "total": 1325.31,
+          "item_count": 3,
+          "created_at": "2026-01-16T15:18:30",
+          "item_preview": "Pet Naturals Pet Naturals Calming Chews Cats, Technivorm Moccamaster KBGV Select, ..."
+        },
+        {
+          "order_id": "ORDER-7Z53PHXK",
+          "status": "delivered",
+          "total": 730.0,
+          "item_count": 1,
+          "created_at": "2026-01-15T15:26:55",
+          "item_preview": "Ratio Six Coffee Maker"
+        },
+        {
+          "order_id": "ORDER-UKAM6IFV",
+          "status": "cancelled",
+          "total": 3819.76,
+          "item_count": 3,
+          "created_at": "2026-01-12T20:27:46",
+          "item_preview": "Traeger Pro 780 Pellet Grill, The Very Hungry Caterpillar by Eric Carle, ..."
+        },
+        {
+          "order_id": "ORDER-AO8P0B8J",
+          "status": "pending",
+          "total": 199.99,
+          "item_count": 1,
+          "created_at": "2026-01-10T02:27:20",
+          "item_preview": "Shark Navigator Lift-Away"
+        },
+        {
+          "order_id": "ORDER-8IDEIXJ2",
+          "status": "delivered",
+          "total": 599.9,
+          "item_count": 1,
+          "created_at": "2026-01-08T06:40:54",
+          "item_preview": "Breville Precision Brewer"
+        },
+        {
+          "order_id": "ORDER-S5LJW589",
+          "status": "delivered",
+          "total": 680.33,
+          "item_count": 3,
+          "created_at": "2026-01-08T02:30:49",
+          "item_preview": "Honeywell QuietSet Tower Fan, Comfort Zone Comfort Zone Multi-Cat Diffuser, ..."
+        },
+        {
+          "order_id": "ORDER-H2QXX2F7",
+          "status": "shipped",
+          "total": 21.99,
+          "item_count": 1,
+          "created_at": "2026-01-07T12:35:50",
+          "item_preview": "Philips LED 60W Equivalent A19 (16 pack)"
+        },
+        {
+          "order_id": "ORDER-J8WE5K3I",
+          "status": "delivered",
+          "total": 2413.86,
+          "item_count": 4,
+          "created_at": "2026-01-02T21:34:45",
+          "item_preview": "Breville Precision Brewer, Roomba j7+ Self-Emptying Robot, ..."
+        },
+        {
+          "order_id": "ORDER-5YKXN3AV",
+          "status": "delivered",
+          "total": 1214.76,
+          "item_count": 2,
+          "created_at": "2026-01-01T12:00:37",
+          "item_preview": "Creativity Inc. by Ed Catmull, Midea U-Shaped Window Air Conditioner"
+        },
+        {
+          "order_id": "ORDER-MJ463F8X",
+          "status": "pending",
+          "total": 29.14,
+          "item_count": 2,
+          "created_at": "2025-12-31T16:11:45",
+          "item_preview": "Educated by Tara Westover, Catit Catit Creamy Treats"
+        },
+        {
+          "order_id": "ORDER-17ZB0DYF",
+          "status": "delivered",
+          "total": 21.99,
+          "item_count": 1,
+          "created_at": "2025-12-30T16:48:33",
+          "item_preview": "Sheba Perfect Portions Cat Food (24 twin)"
+        },
+        {
+          "order_id": "ORDER-BQWT4TAP",
+          "status": "delivered",
+          "total": 12617.56,
+          "item_count": 3,
+          "created_at": "2025-12-28T05:36:02",
+          "item_preview": "La Marzocco Linea Mini, Vesper Vesper Cat Furniture High Base, ..."
+        },
+        {
+          "order_id": "ORDER-3PARL077",
+          "status": "shipped",
+          "total": 9612.26,
+          "item_count": 3,
+          "created_at": "2025-12-27T21:29:10",
+          "item_preview": "Jura E8 Automatic Coffee Machine, Tiki Cat Tiki Cat Luau Variety Pack, ..."
+        },
+        {
+          "order_id": "ORDER-GSF77YYU",
+          "status": "delivered",
+          "total": 1521.26,
+          "item_count": 2,
+          "created_at": "2025-12-26T18:03:02",
+          "item_preview": "Breville Barista Express Espresso Machine, Fancy Feast Gourmet Cat Food (24 cans)"
+        },
+        {
+          "order_id": "ORDER-EFJJD3JA",
+          "status": "delivered",
+          "total": 571.35,
+          "item_count": 2,
+          "created_at": "2025-12-26T09:55:01",
+          "item_preview": "Fancy Feast Gourmet Cat Food (24 cans), KitchenAid Pro 600 Stand Mixer"
+        },
+        {
+          "order_id": "ORDER-TN1ZPJ7T",
+          "status": "delivered",
+          "total": 372.58,
+          "item_count": 2,
+          "created_at": "2025-12-23T01:01:36",
+          "item_preview": "OXO Brew 8-Cup Coffee Maker, Sentry Sentry Calming Collar for Cats"
+        },
+        {
+          "order_id": "ORDER-Q3SAVHMS",
+          "status": "delivered",
+          "total": 779.96,
+          "item_count": 3,
+          "created_at": "2025-12-21T08:38:59",
+          "item_preview": "Kalita Wave 185 Dripper, Hunter Bennett 52-Inch Ceiling Fan, ..."
+        },
+        {
+          "order_id": "ORDER-85A6HNML",
+          "status": "delivered",
+          "total": 709.35,
+          "item_count": 1,
+          "created_at": "2025-12-20T15:13:15",
+          "item_preview": "Vesper Vesper Cat Furniture High Base"
+        },
+        {
+          "order_id": "ORDER-CNRS36ZO",
+          "status": "delivered",
+          "total": 105.0,
+          "item_count": 1,
+          "created_at": "2025-12-20T03:50:08",
+          "item_preview": "Thermapen ONE Instant Read Thermometer"
+        },
+        {
+          "order_id": "ORDER-KDL0R9U8",
+          "status": "delivered",
+          "total": 46.47,
+          "item_count": 2,
+          "created_at": "2025-12-19T13:33:47",
+          "item_preview": "JW Pet JW Pet GripSoft Cat Brush, Friskies Wet Cat Food (60 pouches)"
+        },
+        {
+          "order_id": "ORDER-6RG131R5",
+          "status": "delivered",
+          "total": 2242.02,
+          "item_count": 1,
+          "created_at": "2025-12-17T22:46:27",
+          "item_preview": "Dyson V15 Detect Cordless Vacuum"
+        },
+        {
+          "order_id": "ORDER-CX34Y27L",
+          "status": "delivered",
+          "total": 13.78,
+          "item_count": 1,
+          "created_at": "2025-12-17T07:23:57",
+          "item_preview": "Aquarium Co-Op Aquarium Co-Op Easy Planter"
+        },
+        {
+          "order_id": "ORDER-NL5INXA3",
+          "status": "delivered",
+          "total": 5192.2,
+          "item_count": 3,
+          "created_at": "2025-12-14T09:33:54",
+          "item_preview": "Dyson Purifier Cool TP07, Bonavita Connoisseur 8-Cup Coffee Maker, ..."
+        },
+        {
+          "order_id": "ORDER-JRYV1IIQ",
+          "status": "delivered",
+          "total": 335.88,
+          "item_count": 2,
+          "created_at": "2025-12-14T04:25:37",
+          "item_preview": "KitchenAid Pro Line 4-Slice Toaster, Orijen Orijen Cat & Kitten Dry Food"
+        },
+        {
+          "order_id": "ORDER-EZVV9KKF",
+          "status": "delivered",
+          "total": 766.99,
+          "item_count": 3,
+          "created_at": "2025-12-10T17:06:13",
+          "item_preview": "Kalita Wave 185 Dripper, Black+Decker 4-Slice Toaster Oven, ..."
+        },
+        {
+          "order_id": "ORDER-5GDREGJL",
+          "status": "delivered",
+          "total": 89.99,
+          "item_count": 1,
+          "created_at": "2025-12-07T14:05:57",
+          "item_preview": "Dreo Tower Fan"
+        },
+        {
+          "order_id": "ORDER-MLG61ZZY",
+          "status": "delivered",
+          "total": 3199.95,
+          "item_count": 2,
+          "created_at": "2025-12-05T18:09:02",
+          "item_preview": "KitchenAid Pro 600 Stand Mixer, De'Longhi La Specialista Arte Espresso"
+        },
+        {
+          "order_id": "ORDER-RBAFXJ5E",
+          "status": "shipped",
+          "total": 1226.39,
+          "item_count": 3,
+          "created_at": "2025-12-02T07:25:28",
+          "item_preview": "Frisco Frisco Cat Tree 72-inch, Samsung Bespoke AI Electric Dryer, ..."
+        },
+        {
+          "order_id": "ORDER-LEIDEJKN",
+          "status": "cancelled",
+          "total": 65.97,
+          "item_count": 1,
+          "created_at": "2025-11-28T22:58:21",
+          "item_preview": "Philips LED 60W Equivalent A19 (16 pack)"
+        },
+        {
+          "order_id": "ORDER-BT79FP5H",
+          "status": "delivered",
+          "total": 379.96,
+          "item_count": 2,
+          "created_at": "2025-11-28T17:43:55",
+          "item_preview": "Ninja Specialty Coffee Maker, GE Reveal LED 60W Equivalent (8 pack)"
+        },
+        {
+          "order_id": "ORDER-7MAG36VL",
+          "status": "cancelled",
+          "total": 5653.55,
+          "item_count": 4,
+          "created_at": "2025-11-26T05:25:22",
+          "item_preview": "KitchenAid Pro Line 4-Slice Toaster, Miele Complete C3 Calima, ..."
+        },
+        {
+          "order_id": "ORDER-RRS6R68N",
+          "status": "delivered",
+          "total": 453.75,
+          "item_count": 1,
+          "created_at": "2025-11-26T03:25:07",
+          "item_preview": "Breville Sous Chef 16 Pro Food Processor"
+        },
+        {
+          "order_id": "ORDER-35GQZGSA",
+          "status": "delivered",
+          "total": 1358.98,
+          "item_count": 2,
+          "created_at": "2025-11-24T14:19:05",
+          "item_preview": "Tineco Floor ONE S5 Steam, Nespresso Vertuo Next Coffee Machine"
+        },
+        {
+          "order_id": "ORDER-1F4DS3RR",
+          "status": "delivered",
+          "total": 925.48,
+          "item_count": 1,
+          "created_at": "2025-11-23T19:27:12",
+          "item_preview": "Frigidaire Gallery Cool Connect AC"
+        },
+        {
+          "order_id": "ORDER-MO6Y8OJU",
+          "status": "delivered",
+          "total": 3558.24,
+          "item_count": 4,
+          "created_at": "2025-11-18T22:05:14",
+          "item_preview": "Rancilio Silvia, Baratza Encore ESP, ..."
+        },
+        {
+          "order_id": "ORDER-U3PXRDMC",
+          "status": "shipped",
+          "total": 632.18,
+          "item_count": 2,
+          "created_at": "2025-11-17T01:49:51",
+          "item_preview": "Nespresso VertuoPlus Deluxe Coffee Machine, Gardens of the Moon by Steven Erikson"
+        },
+        {
+          "order_id": "ORDER-8Y9PJ1B5",
+          "status": "delivered",
+          "total": 3737.61,
+          "item_count": 1,
+          "created_at": "2025-11-15T21:38:00",
+          "item_preview": "Traeger Pro 780 Pellet Grill"
+        },
+        {
+          "order_id": "ORDER-B6632IQC",
+          "status": "delivered",
+          "total": 2309.94,
+          "item_count": 2,
+          "created_at": "2025-11-15T16:07:57",
+          "item_preview": "Dyson Purifier Hot+Cool, COSORI Air Fryer Pro LE 5-Qt"
+        },
+        {
+          "order_id": "ORDER-RZ4WM4MC",
+          "status": "delivered",
+          "total": 1136.33,
+          "item_count": 4,
+          "created_at": "2025-11-14T21:53:23",
+          "item_preview": "Nespresso Vertuo Next Coffee Machine, Technivorm Moccamaster KBGV Select, ..."
+        },
+        {
+          "order_id": "ORDER-8USXYOQX",
+          "status": "shipped",
+          "total": 559.96,
+          "item_count": 2,
+          "created_at": "2025-11-13T05:50:23",
+          "item_preview": "Rubbermaid Roughneck Storage Totes 18 Gal (6 pack), KitchenAid Artisan Stand Mixer"
+        },
+        {
+          "order_id": "ORDER-PQ1YYKKI",
+          "status": "delivered",
+          "total": 383.96,
+          "item_count": 2,
+          "created_at": "2025-11-12T20:04:25",
+          "item_preview": "Sheba Perfect Portions Cat Food (24 twin), Ninja Specialty Coffee Maker"
+        },
+        {
+          "order_id": "ORDER-N8A5W4FH",
+          "status": "shipped",
+          "total": 1508.16,
+          "item_count": 2,
+          "created_at": "2025-11-12T06:05:10",
+          "item_preview": "Frigidaire Gallery Cool Connect AC, Blue Buffalo Wilderness Cat Food 12 lb"
+        },
+        {
+          "order_id": "ORDER-G87XCGM7",
+          "status": "delivered",
+          "total": 510.26,
+          "item_count": 2,
+          "created_at": "2025-11-10T20:32:56",
+          "item_preview": "Breville Bambino Plus Espresso Machine, Pet Naturals Pet Naturals Calming Chews Cats"
+        },
+        {
+          "order_id": "ORDER-3M2TM69R",
+          "status": "cancelled",
+          "total": 4447.96,
+          "item_count": 3,
+          "created_at": "2025-11-09T11:38:29",
+          "item_preview": "Dyson V15 Detect Absolute, Philips 3200 LatteGo, ..."
+        },
+        {
+          "order_id": "ORDER-ANVA5O6R",
+          "status": "delivered",
+          "total": 695.0,
+          "item_count": 1,
+          "created_at": "2025-11-09T02:55:59",
+          "item_preview": "Fully Jarvis Bamboo Desk"
+        },
+        {
+          "order_id": "ORDER-UWBID1SZ",
+          "status": "delivered",
+          "total": 1999.85,
+          "item_count": 2,
+          "created_at": "2025-11-06T03:04:07",
+          "item_preview": "Breville Bambino Plus Espresso Machine, Breville Barista Express Espresso Machine"
+        },
+        {
+          "order_id": "ORDER-0RY6NC9B",
+          "status": "pending",
+          "total": 947.98,
+          "item_count": 2,
+          "created_at": "2025-11-04T03:58:46",
+          "item_preview": "Nespresso VertuoPlus Deluxe Coffee Machine, iRobot Roomba 694 Robot Vacuum"
+        },
+        {
+          "order_id": "ORDER-ZD5TWQ5Y",
+          "status": "shipped",
+          "total": 2749.93,
+          "item_count": 3,
+          "created_at": "2025-11-03T15:18:59",
+          "item_preview": "Hamilton Beach Electric Kettle 1.7L, Dreametech H12 Pro, ..."
+        },
+        {
+          "order_id": "ORDER-C0LTNBE3",
+          "status": "shipped",
+          "total": 54.36,
+          "item_count": 1,
+          "created_at": "2025-11-01T09:02:19",
+          "item_preview": "Creativity Inc. by Ed Catmull"
+        },
+        {
+          "order_id": "ORDER-2LIJ31HM",
+          "status": "delivered",
+          "total": 14.99,
+          "item_count": 1,
+          "created_at": "2025-10-31T16:39:19",
+          "item_preview": "Educated by Tara Westover"
+        },
+        {
+          "order_id": "ORDER-YKMBEZX9",
+          "status": "delivered",
+          "total": 739.46,
+          "item_count": 3,
+          "created_at": "2025-10-28T22:03:34",
+          "item_preview": "OXO Brew Conical Burr Grinder, Educated by Tara Westover, ..."
+        },
+        {
+          "order_id": "ORDER-3T5BMENS",
+          "status": "delivered",
+          "total": 1157.71,
+          "item_count": 2,
+          "created_at": "2025-10-25T07:42:48",
+          "item_preview": "KitchenAid Artisan Stand Mixer, Vitakraft Vitakraft Sunseed Vita Prima"
+        },
+        {
+          "order_id": "ORDER-OMYEQ1FG",
+          "status": "delivered",
+          "total": 21.99,
+          "item_count": 1,
+          "created_at": "2025-10-16T10:08:34",
+          "item_preview": "Philips LED 60W Equivalent A19 (16 pack)"
+        },
+        {
+          "order_id": "ORDER-84GVA6FT",
+          "status": "shipped",
+          "total": 2117.0,
+          "item_count": 2,
+          "created_at": "2025-10-13T16:17:05",
+          "item_preview": "Zero to One by Peter Thiel, Fully Jarvis Bamboo Desk"
+        },
+        {
+          "order_id": "ORDER-K1AAZU43",
+          "status": "delivered",
+          "total": 940.72,
+          "item_count": 2,
+          "created_at": "2025-10-10T21:44:35",
+          "item_preview": "Fancy Feast Gourmet Cat Food (24 cans), Gaggia Classic Pro"
+        },
+        {
+          "order_id": "ORDER-IV6MZ1PH",
+          "status": "pending",
+          "total": 103.33,
+          "item_count": 2,
+          "created_at": "2025-10-06T19:19:09",
+          "item_preview": "Hill's Science Diet Cat Food 16 lb, Purina Purina Tidy Cats Clumping Litter"
+        },
+        {
+          "order_id": "ORDER-DVEMLWEP",
+          "status": "pending",
+          "total": 1315.6,
+          "item_count": 3,
+          "created_at": "2025-10-05T23:00:22",
+          "item_preview": "Cuisinart Precision Master 5.5-Qt Stand Mixer, Le Creuset Dutch Oven 5.5 Qt, ..."
+        },
+        {
+          "order_id": "ORDER-45ZF86I9",
+          "status": "cancelled",
+          "total": 2183.5,
+          "item_count": 3,
+          "created_at": "2025-10-04T13:13:15",
+          "item_preview": "Dyson V15 Detect Absolute, Catit Catit Flower Fountain, ..."
+        },
+        {
+          "order_id": "ORDER-P424FQ7I",
+          "status": "delivered",
+          "total": 874.97,
+          "item_count": 3,
+          "created_at": "2025-10-03T17:05:21",
+          "item_preview": "Fellow Stagg EKG Electric Kettle, Hamilton Beach Electric Kettle 1.7L, ..."
+        },
+        {
+          "order_id": "ORDER-FW3WDZES",
+          "status": "delivered",
+          "total": 68.16,
+          "item_count": 1,
+          "created_at": "2025-10-01T20:17:51",
+          "item_preview": "Tiki Cat Tiki Cat Luau Variety Pack"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "order_id": "ORD-G2XVWXBO",
+  "persona_id": "persona_014",
+  "store_id": "pc_parts",
+  "status": "delivered",
+  "created_at": "2025-12-29T06:59:00",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "888 Design District Ln, San Francisco, CA 94102",
+  "items": [
+    {
+      "product_id": "CASE027",
+      "name": "Pure Base 500DX",
+      "category": "cases",
+      "quantity": 2,
+      "price": 109.99,
+      "subtotal": 219.98
+    },
+    {
+      "product_id": "CASE069",
+      "name": "Pure Base 500FX",
+      "category": "cases",
+      "quantity": 1,
+      "price": 119.99,
+      "subtotal": 119.99
+    },
+    {
+      "product_id": "CASE066",
+      "name": "Silent Base 802",
+      "category": "cases",
+      "quantity": 2,
+      "price": 189.99,
+      "subtotal": 379.98
+    }
+  ],
+  "total": 719.95,
+  "currency": "USD"
+}

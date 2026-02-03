@@ -1,0 +1,38 @@
+{
+  "order_id": "WMT-IFYR9FBV",
+  "persona_id": "persona_016",
+  "store_id": "walmart",
+  "status": "delivered",
+  "created_at": "2026-01-14T17:14:56",
+  "shipped_at": "2026-01-15T17:14:56",
+  "delivered_at": "2026-01-19T17:14:56",
+  "shipping_address": "222 Tech Campus Way, Austin, TX 78701",
+  "items": [
+    {
+      "product_id": "WMT00000062",
+      "name": "Home Style Bell Peppers",
+      "category": "Grocery",
+      "quantity": 1,
+      "price": 1.69,
+      "subtotal": 1.69
+    },
+    {
+      "product_id": "WMT00000209",
+      "name": "Fresh Farms Organic Dinner Rolls",
+      "category": "Grocery",
+      "quantity": 4,
+      "price": 5.91,
+      "subtotal": 23.64
+    },
+    {
+      "product_id": "WMT00003053",
+      "name": "Ninja Professional Plus Food Processor",
+      "category": "Home Appliances",
+      "quantity": 3,
+      "price": 146.93,
+      "subtotal": 440.79
+    }
+  ],
+  "total": 466.12,
+  "currency": "USD"
+}

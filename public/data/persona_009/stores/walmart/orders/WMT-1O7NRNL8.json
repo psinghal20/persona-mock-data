@@ -1,0 +1,30 @@
+{
+  "order_id": "WMT-1O7NRNL8",
+  "persona_id": "persona_009",
+  "store_id": "walmart",
+  "status": "delivered",
+  "created_at": "2025-10-14T19:51:24",
+  "shipped_at": "2025-10-15T19:51:24",
+  "delivered_at": "2025-10-17T19:51:24",
+  "shipping_address": "789 Veterans Blvd, Tampa, FL 33602",
+  "items": [
+    {
+      "product_id": "WMT00001308",
+      "name": "4M 4M Kitchen Science",
+      "category": "Toys",
+      "quantity": 2,
+      "price": 17.18,
+      "subtotal": 34.36
+    },
+    {
+      "product_id": "WMT00001416",
+      "name": "The Op Telestrations Party Pack",
+      "category": "Toys",
+      "quantity": 3,
+      "price": 37.94,
+      "subtotal": 113.82
+    }
+  ],
+  "total": 148.18,
+  "currency": "USD"
+}

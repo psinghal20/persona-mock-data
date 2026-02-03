@@ -1,0 +1,30 @@
+{
+  "order_id": "ORDER-026LFB0E",
+  "persona_id": "persona_014",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-11-18T05:37:47",
+  "shipped_at": "2025-11-19T05:37:47",
+  "delivered_at": "2025-11-23T05:37:47",
+  "shipping_address": "888 Design District Ln, San Francisco, CA 94102",
+  "items": [
+    {
+      "product_id": "B0B5GHW23K",
+      "name": "Nanoleaf Shapes Hexagons Smarter Kit",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 229.99,
+      "subtotal": 229.99
+    },
+    {
+      "product_id": "B0AMZN1999",
+      "name": "Bernina 475 QE",
+      "category": "Arts Crafts & Sewing",
+      "quantity": 1,
+      "price": 4199.0,
+      "subtotal": 4199.0
+    }
+  ],
+  "total": 4428.99,
+  "currency": "USD"
+}

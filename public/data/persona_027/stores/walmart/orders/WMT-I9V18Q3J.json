@@ -1,0 +1,38 @@
+{
+  "order_id": "WMT-I9V18Q3J",
+  "persona_id": "persona_027",
+  "store_id": "walmart",
+  "status": "pending",
+  "created_at": "2026-01-16T07:57:34",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "items": [
+    {
+      "product_id": "WMT00000030",
+      "name": "Home Style Organic Kiwi",
+      "category": "Grocery",
+      "quantity": 2,
+      "price": 1.21,
+      "subtotal": 2.42
+    },
+    {
+      "product_id": "WMT00002026",
+      "name": "Worth Worth Krecher XL",
+      "category": "Sports",
+      "quantity": 3,
+      "price": 260.64,
+      "subtotal": 781.92
+    },
+    {
+      "product_id": "WMT00000182",
+      "name": "Home Style Vegetable Broth",
+      "category": "Grocery",
+      "quantity": 2,
+      "price": 2.65,
+      "subtotal": 5.3
+    }
+  ],
+  "total": 789.64,
+  "currency": "USD"
+}

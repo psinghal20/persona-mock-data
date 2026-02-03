@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-151",
+  "persona_id": "persona_009",
+  "store_id": "bookstore",
+  "status": "completed",
+  "created_at": "2025-11-11T02:40:51",
+  "items": [
+    {
+      "product_id": "233",
+      "name": "The Code Breaker",
+      "category": "Biography",
+      "quantity": 1,
+      "price": 35.0,
+      "subtotal": 35.0
+    }
+  ],
+  "total": 35.0,
+  "currency": "USD"
+}

@@ -1,0 +1,23 @@
+{
+  "order_id": "BK00000639",
+  "persona_id": "persona_016",
+  "store_id": "movie_theater",
+  "type": "booking",
+  "status": "confirmed",
+  "created_at": "2025-11-11T12:17:15",
+  "confirmation_code": "AMC-QU0ZSM",
+  "items": [
+    {
+      "product_id": "MOV031",
+      "name": "Oppenheimer",
+      "showtime": "",
+      "theater": "",
+      "seats": "J14,J15",
+      "quantity": 2,
+      "price": 19.99,
+      "subtotal": 39.98
+    }
+  ],
+  "total": 39.98,
+  "currency": "USD"
+}

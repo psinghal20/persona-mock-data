@@ -1,0 +1,22 @@
+{
+  "order_id": "TOY000159",
+  "persona_id": "persona_023",
+  "store_id": "toy_store",
+  "status": "delivered",
+  "created_at": "2025-10-30T17:39:13",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "777 East Side Ave, Cleveland, OH 44114",
+  "items": [
+    {
+      "product_id": "TOY-414",
+      "name": "Learning Resources Beaker Creatures",
+      "category": "Science & Discovery",
+      "quantity": 1,
+      "price": 9.99,
+      "subtotal": 9.99
+    }
+  ],
+  "total": 9.99,
+  "currency": "USD"
+}

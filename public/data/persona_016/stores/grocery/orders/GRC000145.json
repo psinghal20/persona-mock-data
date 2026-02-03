@@ -1,0 +1,110 @@
+{
+  "order_id": "GRC000145",
+  "persona_id": "persona_016",
+  "store_id": "grocery",
+  "status": "delivered",
+  "created_at": "2025-11-09T06:07:20",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "222 Tech Campus Way, Austin, TX 78701",
+  "items": [
+    {
+      "product_id": "prod_344",
+      "name": "Country Best Basmati Rice",
+      "category": "Pantry",
+      "quantity": 2,
+      "price": 6.57,
+      "subtotal": 13.14
+    },
+    {
+      "product_id": "GRO-2111",
+      "name": "Maxwell House Iced Tea Gallon",
+      "category": "Beverages",
+      "quantity": 1,
+      "price": 17.73,
+      "subtotal": 17.73
+    },
+    {
+      "product_id": "prod_943",
+      "name": "Sunrise Farms Baby Cereal",
+      "category": "Baby",
+      "quantity": 3,
+      "price": 5.67,
+      "subtotal": 17.01
+    },
+    {
+      "product_id": "GRO-1555",
+      "name": "Plum Organics Fruit Blend",
+      "category": "Baby",
+      "quantity": 2,
+      "price": 21.83,
+      "subtotal": 43.66
+    },
+    {
+      "product_id": "prod_218",
+      "name": "Premium Select Organic Almond Milk",
+      "category": "Dairy",
+      "quantity": 2,
+      "price": 5.84,
+      "subtotal": 11.68
+    },
+    {
+      "product_id": "prod_125",
+      "name": "Green Valley Organic Zucchini",
+      "category": "Produce",
+      "quantity": 1,
+      "price": 8.32,
+      "subtotal": 8.32
+    },
+    {
+      "product_id": "GRO-1089",
+      "name": "D'Artagnan Hanger Steak",
+      "category": "Meat & Seafood",
+      "quantity": 1,
+      "price": 47.29,
+      "subtotal": 47.29
+    },
+    {
+      "product_id": "prod_711",
+      "name": "Country Best Organic Mixed Nuts",
+      "category": "Snacks",
+      "quantity": 1,
+      "price": 12.56,
+      "subtotal": 12.56
+    },
+    {
+      "product_id": "prod_421",
+      "name": "Sunrise Farms Organic Tomato Paste",
+      "category": "Pantry",
+      "quantity": 1,
+      "price": 1.76,
+      "subtotal": 1.76
+    },
+    {
+      "product_id": "prod_179",
+      "name": "Organic Choice Butter",
+      "category": "Dairy",
+      "quantity": 2,
+      "price": 4.49,
+      "subtotal": 8.98
+    },
+    {
+      "product_id": "prod_819",
+      "name": "Farm Fresh Cumin",
+      "category": "Condiments & Spices",
+      "quantity": 3,
+      "price": 4.61,
+      "subtotal": 13.83
+    },
+    {
+      "product_id": "prod_503",
+      "name": "Classic Kitchen Organic Dinner Rolls",
+      "category": "Bakery",
+      "quantity": 1,
+      "price": 6.32,
+      "subtotal": 6.32
+    }
+  ],
+  "total": 202.28,
+  "currency": "USD"
+}

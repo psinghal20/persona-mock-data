@@ -1,0 +1,577 @@
+{
+  "persona_id": "persona_027",
+  "store_id": "sporting_goods",
+  "store_name": "Sporting Goods",
+  "transaction_type": "orders",
+  "transaction_label": "orders",
+  "has_cost": true,
+  "summary": {
+    "total_count": 34,
+    "total_spent": 21730.08,
+    "first_date": "2025-10-01",
+    "last_date": "2026-01-24"
+  },
+  "items": [
+    {
+      "order_id": "SPG000068",
+      "status": "cancelled",
+      "total": 1054.96,
+      "item_count": 3,
+      "created_at": "2026-01-24T18:06:34",
+      "item_preview": "Speedgoat 5, Spider GT Putter, ..."
+    },
+    {
+      "order_id": "SPG000162",
+      "status": "delivered",
+      "total": 719.96,
+      "item_count": 3,
+      "created_at": "2026-01-07T02:40:17",
+      "item_preview": "Metaspeed Sky Paris, Amphipod Hydration Belt, ..."
+    },
+    {
+      "order_id": "SPG000168",
+      "status": "cancelled",
+      "total": 1309.97,
+      "item_count": 2,
+      "created_at": "2026-01-05T07:45:14",
+      "item_preview": "Giannis Immortality 3, Stealth 2 Driver"
+    },
+    {
+      "order_id": "SPG000073",
+      "status": "delivered",
+      "total": 289.99,
+      "item_count": 1,
+      "created_at": "2026-01-04T20:45:22",
+      "item_preview": "Titleist Players 4 StaDry Stand Bag"
+    },
+    {
+      "order_id": "SPG000161",
+      "status": "delivered",
+      "total": 13.98,
+      "item_count": 1,
+      "created_at": "2025-12-31T22:40:54",
+      "item_preview": "SuperStroke S-Tech Grip"
+    },
+    {
+      "order_id": "SPG000158",
+      "status": "delivered",
+      "total": 815.98,
+      "item_count": 3,
+      "created_at": "2025-12-23T16:11:24",
+      "item_preview": "Stealth 2 Driver, Injinji Trail Midweight, ..."
+    },
+    {
+      "order_id": "SPG000171",
+      "status": "shipped",
+      "total": 528.97,
+      "item_count": 2,
+      "created_at": "2025-12-22T21:34:08",
+      "item_preview": "FootJoy StaSof Golf Glove, Metaspeed Sky Paris"
+    },
+    {
+      "order_id": "SPG000075",
+      "status": "delivered",
+      "total": 112.97,
+      "item_count": 2,
+      "created_at": "2025-12-20T05:33:54",
+      "item_preview": "Boston Marathon Shorts, FootJoy StaSof Golf Glove"
+    },
+    {
+      "order_id": "SPG000157",
+      "status": "delivered",
+      "total": 1235.98,
+      "item_count": 2,
+      "created_at": "2025-12-16T06:26:53",
+      "item_preview": "Stealth 2 Driver, Injinji Trail Midweight"
+    },
+    {
+      "order_id": "SPG000064",
+      "status": "delivered",
+      "total": 259.97,
+      "item_count": 2,
+      "created_at": "2025-12-15T21:20:15",
+      "item_preview": "Rawlings R9 Baseball Glove, Boston Marathon Shorts"
+    },
+    {
+      "order_id": "SPG000169",
+      "status": "delivered",
+      "total": 366.97,
+      "item_count": 3,
+      "created_at": "2025-12-11T21:26:48",
+      "item_preview": "Harden Vol 7, FootJoy StaSof Golf Glove, ..."
+    },
+    {
+      "order_id": "SPG000077",
+      "status": "delivered",
+      "total": 259.98,
+      "item_count": 2,
+      "created_at": "2025-12-09T18:25:10",
+      "item_preview": "Rawlings R9 Baseball Glove, Giannis Immortality 3"
+    },
+    {
+      "order_id": "SPG000165",
+      "status": "delivered",
+      "total": 299.98,
+      "item_count": 1,
+      "created_at": "2025-12-09T04:07:05",
+      "item_preview": "Ghost 15"
+    },
+    {
+      "order_id": "SPG000074",
+      "status": "delivered",
+      "total": 459.98,
+      "item_count": 2,
+      "created_at": "2025-12-08T21:30:04",
+      "item_preview": "Stealth 2 Fairway Wood 3W, Giannis Immortality 3"
+    },
+    {
+      "order_id": "SPG000066",
+      "status": "delivered",
+      "total": 549.98,
+      "item_count": 2,
+      "created_at": "2025-12-08T17:16:32",
+      "item_preview": "Stealth 2 Fairway Wood 3W, LeBron 21"
+    },
+    {
+      "order_id": "SPG000070",
+      "status": "delivered",
+      "total": 1204.97,
+      "item_count": 3,
+      "created_at": "2025-12-06T07:02:20",
+      "item_preview": "Forerunner 265, Stealth 2 Driver, ..."
+    },
+    {
+      "order_id": "SPG000173",
+      "status": "pending",
+      "total": 1434.95,
+      "item_count": 3,
+      "created_at": "2025-12-01T00:46:29",
+      "item_preview": "Spider GT Putter, Endorphin Elite, ..."
+    },
+    {
+      "order_id": "SPG000065",
+      "status": "delivered",
+      "total": 1099.98,
+      "item_count": 2,
+      "created_at": "2025-11-30T04:24:40",
+      "item_preview": "The Rock Basketball, Garmin Approach S62"
+    },
+    {
+      "order_id": "SPG000175",
+      "status": "delivered",
+      "total": 569.96,
+      "item_count": 2,
+      "created_at": "2025-11-28T02:06:27",
+      "item_preview": "Pro V1 Golf Balls, Coros Pace 3"
+    },
+    {
+      "order_id": "SPG000160",
+      "status": "delivered",
+      "total": 899.99,
+      "item_count": 1,
+      "created_at": "2025-11-21T23:13:58",
+      "item_preview": "Fenix 7X Pro"
+    },
+    {
+      "order_id": "SPG000172",
+      "status": "cancelled",
+      "total": 299.98,
+      "item_count": 1,
+      "created_at": "2025-11-17T15:13:07",
+      "item_preview": "Rawlings R9 Baseball Glove"
+    },
+    {
+      "order_id": "SPG000071",
+      "status": "delivered",
+      "total": 739.96,
+      "item_count": 2,
+      "created_at": "2025-11-16T14:50:44",
+      "item_preview": "Vokey SM9 Wedge, Terrex Speed Ultra"
+    },
+    {
+      "order_id": "SPG000170",
+      "status": "shipped",
+      "total": 306.97,
+      "item_count": 2,
+      "created_at": "2025-11-13T03:47:45",
+      "item_preview": "SuperStroke S-Tech Grip, Cloudsurfer"
+    },
+    {
+      "order_id": "SPG000166",
+      "status": "delivered",
+      "total": 349.99,
+      "item_count": 1,
+      "created_at": "2025-11-08T06:09:44",
+      "item_preview": "Spider GT Putter"
+    },
+    {
+      "order_id": "SPG000063",
+      "status": "shipped",
+      "total": 109.99,
+      "item_count": 1,
+      "created_at": "2025-11-05T01:56:24",
+      "item_preview": "Giannis Immortality 3"
+    },
+    {
+      "order_id": "SPG000067",
+      "status": "delivered",
+      "total": 3539.94,
+      "item_count": 3,
+      "created_at": "2025-11-03T05:08:43",
+      "item_preview": "Own The Run Jacket, Terrex Speed Ultra, ..."
+    },
+    {
+      "order_id": "SPG000076",
+      "status": "delivered",
+      "total": 634.97,
+      "item_count": 2,
+      "created_at": "2025-10-31T18:47:44",
+      "item_preview": "Titleist Players 4 StaDry Stand Bag, Pro V1 Golf Balls"
+    },
+    {
+      "order_id": "SPG000174",
+      "status": "cancelled",
+      "total": 28.99,
+      "item_count": 1,
+      "created_at": "2025-10-28T19:19:57",
+      "item_preview": "FootJoy StaSof Golf Glove"
+    },
+    {
+      "order_id": "SPG000164",
+      "status": "cancelled",
+      "total": 459.98,
+      "item_count": 1,
+      "created_at": "2025-10-28T12:23:52",
+      "item_preview": "Fairway C Stand Bag"
+    },
+    {
+      "order_id": "SPG000072",
+      "status": "delivered",
+      "total": 289.97,
+      "item_count": 2,
+      "created_at": "2025-10-17T12:31:49",
+      "item_preview": "Boston Marathon Shorts, Jaws Raw Wedge"
+    },
+    {
+      "order_id": "SPG000167",
+      "status": "delivered",
+      "total": 289.98,
+      "item_count": 1,
+      "created_at": "2025-10-15T14:45:25",
+      "item_preview": "Clifton 9"
+    },
+    {
+      "order_id": "SPG000163",
+      "status": "delivered",
+      "total": 519.97,
+      "item_count": 2,
+      "created_at": "2025-10-14T21:42:51",
+      "item_preview": "Gel-Kayano 30, Jaws Raw Wedge"
+    },
+    {
+      "order_id": "SPG000159",
+      "status": "delivered",
+      "total": 189.96,
+      "item_count": 2,
+      "created_at": "2025-10-01T06:56:46",
+      "item_preview": "Pro V1 Golf Balls, Amphipod Hydration Belt"
+    },
+    {
+      "order_id": "SPG000069",
+      "status": "delivered",
+      "total": 479.96,
+      "item_count": 2,
+      "created_at": "2025-10-01T05:51:06",
+      "item_preview": "TF-1000 Basketball, Endorphin Speed 3"
+    }
+  ],
+  "categories": [
+    {
+      "id": "orders",
+      "name": "Orders",
+      "type": "orders",
+      "label": "orders",
+      "has_cost": true,
+      "summary": {
+        "total_count": 34,
+        "total_spent": 21730.08,
+        "first_date": "2025-10-01",
+        "last_date": "2026-01-24"
+      },
+      "items": [
+        {
+          "order_id": "SPG000068",
+          "status": "cancelled",
+          "total": 1054.96,
+          "item_count": 3,
+          "created_at": "2026-01-24T18:06:34",
+          "item_preview": "Speedgoat 5, Spider GT Putter, ..."
+        },
+        {
+          "order_id": "SPG000162",
+          "status": "delivered",
+          "total": 719.96,
+          "item_count": 3,
+          "created_at": "2026-01-07T02:40:17",
+          "item_preview": "Metaspeed Sky Paris, Amphipod Hydration Belt, ..."
+        },
+        {
+          "order_id": "SPG000168",
+          "status": "cancelled",
+          "total": 1309.97,
+          "item_count": 2,
+          "created_at": "2026-01-05T07:45:14",
+          "item_preview": "Giannis Immortality 3, Stealth 2 Driver"
+        },
+        {
+          "order_id": "SPG000073",
+          "status": "delivered",
+          "total": 289.99,
+          "item_count": 1,
+          "created_at": "2026-01-04T20:45:22",
+          "item_preview": "Titleist Players 4 StaDry Stand Bag"
+        },
+        {
+          "order_id": "SPG000161",
+          "status": "delivered",
+          "total": 13.98,
+          "item_count": 1,
+          "created_at": "2025-12-31T22:40:54",
+          "item_preview": "SuperStroke S-Tech Grip"
+        },
+        {
+          "order_id": "SPG000158",
+          "status": "delivered",
+          "total": 815.98,
+          "item_count": 3,
+          "created_at": "2025-12-23T16:11:24",
+          "item_preview": "Stealth 2 Driver, Injinji Trail Midweight, ..."
+        },
+        {
+          "order_id": "SPG000171",
+          "status": "shipped",
+          "total": 528.97,
+          "item_count": 2,
+          "created_at": "2025-12-22T21:34:08",
+          "item_preview": "FootJoy StaSof Golf Glove, Metaspeed Sky Paris"
+        },
+        {
+          "order_id": "SPG000075",
+          "status": "delivered",
+          "total": 112.97,
+          "item_count": 2,
+          "created_at": "2025-12-20T05:33:54",
+          "item_preview": "Boston Marathon Shorts, FootJoy StaSof Golf Glove"
+        },
+        {
+          "order_id": "SPG000157",
+          "status": "delivered",
+          "total": 1235.98,
+          "item_count": 2,
+          "created_at": "2025-12-16T06:26:53",
+          "item_preview": "Stealth 2 Driver, Injinji Trail Midweight"
+        },
+        {
+          "order_id": "SPG000064",
+          "status": "delivered",
+          "total": 259.97,
+          "item_count": 2,
+          "created_at": "2025-12-15T21:20:15",
+          "item_preview": "Rawlings R9 Baseball Glove, Boston Marathon Shorts"
+        },
+        {
+          "order_id": "SPG000169",
+          "status": "delivered",
+          "total": 366.97,
+          "item_count": 3,
+          "created_at": "2025-12-11T21:26:48",
+          "item_preview": "Harden Vol 7, FootJoy StaSof Golf Glove, ..."
+        },
+        {
+          "order_id": "SPG000077",
+          "status": "delivered",
+          "total": 259.98,
+          "item_count": 2,
+          "created_at": "2025-12-09T18:25:10",
+          "item_preview": "Rawlings R9 Baseball Glove, Giannis Immortality 3"
+        },
+        {
+          "order_id": "SPG000165",
+          "status": "delivered",
+          "total": 299.98,
+          "item_count": 1,
+          "created_at": "2025-12-09T04:07:05",
+          "item_preview": "Ghost 15"
+        },
+        {
+          "order_id": "SPG000074",
+          "status": "delivered",
+          "total": 459.98,
+          "item_count": 2,
+          "created_at": "2025-12-08T21:30:04",
+          "item_preview": "Stealth 2 Fairway Wood 3W, Giannis Immortality 3"
+        },
+        {
+          "order_id": "SPG000066",
+          "status": "delivered",
+          "total": 549.98,
+          "item_count": 2,
+          "created_at": "2025-12-08T17:16:32",
+          "item_preview": "Stealth 2 Fairway Wood 3W, LeBron 21"
+        },
+        {
+          "order_id": "SPG000070",
+          "status": "delivered",
+          "total": 1204.97,
+          "item_count": 3,
+          "created_at": "2025-12-06T07:02:20",
+          "item_preview": "Forerunner 265, Stealth 2 Driver, ..."
+        },
+        {
+          "order_id": "SPG000173",
+          "status": "pending",
+          "total": 1434.95,
+          "item_count": 3,
+          "created_at": "2025-12-01T00:46:29",
+          "item_preview": "Spider GT Putter, Endorphin Elite, ..."
+        },
+        {
+          "order_id": "SPG000065",
+          "status": "delivered",
+          "total": 1099.98,
+          "item_count": 2,
+          "created_at": "2025-11-30T04:24:40",
+          "item_preview": "The Rock Basketball, Garmin Approach S62"
+        },
+        {
+          "order_id": "SPG000175",
+          "status": "delivered",
+          "total": 569.96,
+          "item_count": 2,
+          "created_at": "2025-11-28T02:06:27",
+          "item_preview": "Pro V1 Golf Balls, Coros Pace 3"
+        },
+        {
+          "order_id": "SPG000160",
+          "status": "delivered",
+          "total": 899.99,
+          "item_count": 1,
+          "created_at": "2025-11-21T23:13:58",
+          "item_preview": "Fenix 7X Pro"
+        },
+        {
+          "order_id": "SPG000172",
+          "status": "cancelled",
+          "total": 299.98,
+          "item_count": 1,
+          "created_at": "2025-11-17T15:13:07",
+          "item_preview": "Rawlings R9 Baseball Glove"
+        },
+        {
+          "order_id": "SPG000071",
+          "status": "delivered",
+          "total": 739.96,
+          "item_count": 2,
+          "created_at": "2025-11-16T14:50:44",
+          "item_preview": "Vokey SM9 Wedge, Terrex Speed Ultra"
+        },
+        {
+          "order_id": "SPG000170",
+          "status": "shipped",
+          "total": 306.97,
+          "item_count": 2,
+          "created_at": "2025-11-13T03:47:45",
+          "item_preview": "SuperStroke S-Tech Grip, Cloudsurfer"
+        },
+        {
+          "order_id": "SPG000166",
+          "status": "delivered",
+          "total": 349.99,
+          "item_count": 1,
+          "created_at": "2025-11-08T06:09:44",
+          "item_preview": "Spider GT Putter"
+        },
+        {
+          "order_id": "SPG000063",
+          "status": "shipped",
+          "total": 109.99,
+          "item_count": 1,
+          "created_at": "2025-11-05T01:56:24",
+          "item_preview": "Giannis Immortality 3"
+        },
+        {
+          "order_id": "SPG000067",
+          "status": "delivered",
+          "total": 3539.94,
+          "item_count": 3,
+          "created_at": "2025-11-03T05:08:43",
+          "item_preview": "Own The Run Jacket, Terrex Speed Ultra, ..."
+        },
+        {
+          "order_id": "SPG000076",
+          "status": "delivered",
+          "total": 634.97,
+          "item_count": 2,
+          "created_at": "2025-10-31T18:47:44",
+          "item_preview": "Titleist Players 4 StaDry Stand Bag, Pro V1 Golf Balls"
+        },
+        {
+          "order_id": "SPG000174",
+          "status": "cancelled",
+          "total": 28.99,
+          "item_count": 1,
+          "created_at": "2025-10-28T19:19:57",
+          "item_preview": "FootJoy StaSof Golf Glove"
+        },
+        {
+          "order_id": "SPG000164",
+          "status": "cancelled",
+          "total": 459.98,
+          "item_count": 1,
+          "created_at": "2025-10-28T12:23:52",
+          "item_preview": "Fairway C Stand Bag"
+        },
+        {
+          "order_id": "SPG000072",
+          "status": "delivered",
+          "total": 289.97,
+          "item_count": 2,
+          "created_at": "2025-10-17T12:31:49",
+          "item_preview": "Boston Marathon Shorts, Jaws Raw Wedge"
+        },
+        {
+          "order_id": "SPG000167",
+          "status": "delivered",
+          "total": 289.98,
+          "item_count": 1,
+          "created_at": "2025-10-15T14:45:25",
+          "item_preview": "Clifton 9"
+        },
+        {
+          "order_id": "SPG000163",
+          "status": "delivered",
+          "total": 519.97,
+          "item_count": 2,
+          "created_at": "2025-10-14T21:42:51",
+          "item_preview": "Gel-Kayano 30, Jaws Raw Wedge"
+        },
+        {
+          "order_id": "SPG000159",
+          "status": "delivered",
+          "total": 189.96,
+          "item_count": 2,
+          "created_at": "2025-10-01T06:56:46",
+          "item_preview": "Pro V1 Golf Balls, Amphipod Hydration Belt"
+        },
+        {
+          "order_id": "SPG000069",
+          "status": "delivered",
+          "total": 479.96,
+          "item_count": 2,
+          "created_at": "2025-10-01T05:51:06",
+          "item_preview": "TF-1000 Basketball, Endorphin Speed 3"
+        }
+      ]
+    }
+  ]
+}

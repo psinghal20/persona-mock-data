@@ -1,0 +1,32 @@
+{
+  "order_id": "50",
+  "persona_id": "persona_010",
+  "store_id": "florist",
+  "status": "pending",
+  "created_at": "2025-10-03T12:45:59",
+  "shipped_at": "",
+  "delivered_at": "2025-10-07",
+  "shipping_address": "321 French Quarter Ave, New Orleans, LA 70116",
+  "recipient_name": "Wife",
+  "card_message": "",
+  "items": [
+    {
+      "product_id": "112",
+      "name": "Congrats Grad Arrangement",
+      "category": "Mixed Flowers",
+      "quantity": 1,
+      "price": 74.99,
+      "subtotal": 74.99
+    },
+    {
+      "product_id": "19",
+      "name": "Wine - White (Chardonnay)",
+      "category": "Add-on",
+      "quantity": 1,
+      "price": 27.99,
+      "subtotal": 27.99
+    }
+  ],
+  "total": 112.97,
+  "currency": "USD"
+}

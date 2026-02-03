@@ -1,0 +1,30 @@
+{
+  "order_id": "ORDER-8CI0O7CV",
+  "persona_id": "persona_023",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-10-26T10:58:28",
+  "shipped_at": "2025-10-27T10:58:28",
+  "delivered_at": "2025-10-29T10:58:28",
+  "shipping_address": "777 East Side Ave, Cleveland, OH 44114",
+  "items": [
+    {
+      "product_id": "B0TOYS0199",
+      "name": "LEGO LEGO Ninjago Dragon",
+      "category": "Toys & Games",
+      "quantity": 2,
+      "price": 48.32,
+      "subtotal": 96.64
+    },
+    {
+      "product_id": "B0ELEC0189",
+      "name": "Logitech Logitech G Cloud Gaming Handheld",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 351.15,
+      "subtotal": 351.15
+    }
+  ],
+  "total": 447.79,
+  "currency": "USD"
+}

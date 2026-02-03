@@ -1,0 +1,30 @@
+{
+  "order_id": "WMT-MQRDSG4C",
+  "persona_id": "persona_023",
+  "store_id": "walmart",
+  "status": "delivered",
+  "created_at": "2025-10-26T16:33:56",
+  "shipped_at": "2025-10-28T16:33:56",
+  "delivered_at": "2025-11-02T16:33:56",
+  "shipping_address": "777 East Side Ave, Cleveland, OH 44114",
+  "items": [
+    {
+      "product_id": "WMT00001020",
+      "name": "Sony Sony FE 24-70mm f/2.8 GM II",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 2084.49,
+      "subtotal": 2084.49
+    },
+    {
+      "product_id": "WMT00000970",
+      "name": "Google Google Nest Hub 2nd Gen",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 102.19,
+      "subtotal": 102.19
+    }
+  ],
+  "total": 2186.68,
+  "currency": "USD"
+}

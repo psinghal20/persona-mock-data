@@ -1,0 +1,30 @@
+{
+  "order_id": "ORDER-AUI88KV6",
+  "persona_id": "persona_009",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-12-05T17:57:43",
+  "shipped_at": "2025-12-07T17:57:43",
+  "delivered_at": "2025-12-11T17:57:43",
+  "shipping_address": "789 Veterans Blvd, Tampa, FL 33602",
+  "items": [
+    {
+      "product_id": "B0TOYS0039",
+      "name": "Fisher-Price Fisher-Price Little People Farm",
+      "category": "Toys & Games",
+      "quantity": 1,
+      "price": 47.43,
+      "subtotal": 47.43
+    },
+    {
+      "product_id": "B0TOYS0008",
+      "name": "ThinkFun ThinkFun Gravity Maze",
+      "category": "Toys & Games",
+      "quantity": 3,
+      "price": 30.06,
+      "subtotal": 90.18
+    }
+  ],
+  "total": 137.61,
+  "currency": "USD"
+}

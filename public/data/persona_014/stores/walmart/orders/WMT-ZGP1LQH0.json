@@ -1,0 +1,46 @@
+{
+  "order_id": "WMT-ZGP1LQH0",
+  "persona_id": "persona_014",
+  "store_id": "walmart",
+  "status": "delivered",
+  "created_at": "2025-10-07T03:08:00",
+  "shipped_at": "2025-10-10T03:08:00",
+  "delivered_at": "2025-10-12T03:08:00",
+  "shipping_address": "888 Design District Ln, San Francisco, CA 94102",
+  "items": [
+    {
+      "product_id": "WMT00001073",
+      "name": "Sony Sony LinkBuds Open",
+      "category": "Electronics",
+      "quantity": 4,
+      "price": 162.11,
+      "subtotal": 648.44
+    },
+    {
+      "product_id": "WMT00001240",
+      "name": "Spirograph Spirograph Deluxe Set",
+      "category": "Toys",
+      "quantity": 1,
+      "price": 31.02,
+      "subtotal": 31.02
+    },
+    {
+      "product_id": "WMT00002165",
+      "name": "Fashion Forward Cashmere Trench Coat",
+      "category": "Clothing",
+      "quantity": 2,
+      "price": 234.72,
+      "subtotal": 469.44
+    },
+    {
+      "product_id": "WMT00001245",
+      "name": "Make It Real Fashion Design Sketchbook",
+      "category": "Toys",
+      "quantity": 2,
+      "price": 21.52,
+      "subtotal": 43.04
+    }
+  ],
+  "total": 1191.94,
+  "currency": "USD"
+}

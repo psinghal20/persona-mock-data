@@ -1,0 +1,19 @@
+{
+  "order_id": "TD-3",
+  "persona_id": "USR001",
+  "store_id": "car_deals",
+  "type": "test_drive",
+  "status": "completed",
+  "scheduled_time": "2025-01-08T16:20:00",
+  "items": [
+    {
+      "product_id": "CAR002",
+      "name": "Camry",
+      "quantity": 1,
+      "price": 27995.0,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

@@ -1,0 +1,22 @@
+{
+  "order_id": "JWL000043",
+  "persona_id": "persona_027",
+  "store_id": "jewelry_store",
+  "status": "pending",
+  "created_at": "2025-10-25T17:24:26",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "123 Jamaica Plain Rd, Boston, MA 02130",
+  "items": [
+    {
+      "product_id": "JWL-031",
+      "name": "Cuff Bracelet Gold",
+      "category": "Bracelets",
+      "quantity": 1,
+      "price": 1199.99,
+      "subtotal": 1199.99
+    }
+  ],
+  "total": 1199.99,
+  "currency": "USD"
+}

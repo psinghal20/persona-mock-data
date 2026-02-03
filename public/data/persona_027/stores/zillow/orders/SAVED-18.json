@@ -1,0 +1,26 @@
+{
+  "order_id": "SAVED-18",
+  "persona_id": "persona_027",
+  "store_id": "zillow",
+  "type": "saved_property",
+  "status": "saved",
+  "created_at": "2025-10-06T03:16:51",
+  "notes": "Good price",
+  "items": [
+    {
+      "product_id": "10024",
+      "name": "8257 Third Place",
+      "address": "8257 Third Place",
+      "city": "",
+      "price": 1546594.0,
+      "bedrooms": "",
+      "bathrooms": "",
+      "sqft": "",
+      "home_type": "",
+      "quantity": 1,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

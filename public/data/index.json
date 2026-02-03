@@ -1,0 +1,142 @@
+{
+  "personas": [
+    {
+      "id": "persona_022",
+      "name": "Anna Kowalczyk",
+      "initials": "AK",
+      "profession": "nurse",
+      "industry": "healthcare",
+      "city": "Philadelphia",
+      "region": "Pennsylvania",
+      "age_group": "middle-aged",
+      "total_orders": 407,
+      "total_spent": 153083.92
+    },
+    {
+      "id": "persona_013",
+      "name": "Carlos Mendez",
+      "initials": "CM",
+      "profession": "basketball coach",
+      "industry": "sports",
+      "city": "Houston",
+      "region": "Texas",
+      "age_group": "middle-aged",
+      "total_orders": 406,
+      "total_spent": 325621.25
+    },
+    {
+      "id": "persona_031",
+      "name": "Jennifer Martinez",
+      "initials": "JM",
+      "profession": "stay-at-home mom",
+      "industry": "homemaker",
+      "city": "Phoenix",
+      "region": "Arizona",
+      "age_group": "mid-30s",
+      "total_orders": 485,
+      "total_spent": 102015.95
+    },
+    {
+      "id": "USR001",
+      "name": "John Doe",
+      "initials": "JD",
+      "profession": "test user",
+      "industry": "testing",
+      "city": "San Francisco",
+      "region": "California",
+      "age_group": "adult",
+      "total_orders": 53,
+      "total_spent": 2744.04
+    },
+    {
+      "id": "persona_023",
+      "name": "Jordan Williams",
+      "initials": "JW",
+      "profession": "high school student",
+      "industry": "education",
+      "city": "Cleveland",
+      "region": "Ohio",
+      "age_group": "teenager",
+      "total_orders": 367,
+      "total_spent": 554210.33
+    },
+    {
+      "id": "persona_014",
+      "name": "Lisa Park",
+      "initials": "LP",
+      "profession": "UX designer",
+      "industry": "technology",
+      "city": "San Francisco",
+      "region": "California",
+      "age_group": "young",
+      "total_orders": 449,
+      "total_spent": 418791.0
+    },
+    {
+      "id": "persona_002",
+      "name": "Marcus Johnson",
+      "initials": "MJ",
+      "profession": "software engineer",
+      "industry": "technology",
+      "city": "San Jose",
+      "region": "California",
+      "age_group": "young",
+      "total_orders": 347,
+      "total_spent": 291143.33
+    },
+    {
+      "id": "persona_027",
+      "name": "Patrick Murphy",
+      "initials": "PM",
+      "profession": "bar owner",
+      "industry": "hospitality",
+      "city": "Boston",
+      "region": "Massachusetts",
+      "age_group": "middle-aged",
+      "total_orders": 426,
+      "total_spent": 342430.14
+    },
+    {
+      "id": "persona_016",
+      "name": "Priya Sharma",
+      "initials": "PS",
+      "profession": "data analyst",
+      "industry": "technology",
+      "city": "Austin",
+      "region": "Texas",
+      "age_group": "young",
+      "total_orders": 495,
+      "total_spent": 221086.15
+    },
+    {
+      "id": "persona_010",
+      "name": "Sophie Laurent",
+      "initials": "SL",
+      "profession": "pastry chef / bakery owner",
+      "industry": "food service",
+      "city": "New Orleans",
+      "region": "Louisiana",
+      "age_group": "middle-aged",
+      "total_orders": 416,
+      "total_spent": 292991.25
+    },
+    {
+      "id": "persona_009",
+      "name": "William Thompson",
+      "initials": "WT",
+      "profession": "retiree",
+      "industry": "former military",
+      "city": "Tampa",
+      "region": "Florida",
+      "age_group": "retired",
+      "total_orders": 403,
+      "total_spent": 135906.69
+    }
+  ],
+  "stats": {
+    "total_personas": 11,
+    "total_orders": 4254,
+    "total_stores": 21
+  },
+  "generated_at": "2026-02-03T18:37:46.184362"
+}

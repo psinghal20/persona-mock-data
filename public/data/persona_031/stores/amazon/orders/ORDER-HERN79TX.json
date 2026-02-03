@@ -1,0 +1,38 @@
+{
+  "order_id": "ORDER-HERN79TX",
+  "persona_id": "persona_031",
+  "store_id": "amazon",
+  "status": "pending",
+  "created_at": "2026-01-02T00:35:36",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "999 Suburban Lane, Phoenix, AZ 85001",
+  "items": [
+    {
+      "product_id": "B0TOYS0214",
+      "name": "VTech VTech Switch and Go Dino",
+      "category": "Toys & Games",
+      "quantity": 1,
+      "price": 25.61,
+      "subtotal": 25.61
+    },
+    {
+      "product_id": "B0TOYS0215",
+      "name": "Hasbro Scrabble",
+      "category": "Toys & Games",
+      "quantity": 1,
+      "price": 26.23,
+      "subtotal": 26.23
+    },
+    {
+      "product_id": "B0TOYS0069",
+      "name": "Elenco Snap Circuits Pro",
+      "category": "Toys & Games",
+      "quantity": 1,
+      "price": 77.5,
+      "subtotal": 77.5
+    }
+  ],
+  "total": 129.34,
+  "currency": "USD"
+}

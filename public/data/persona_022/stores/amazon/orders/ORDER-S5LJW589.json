@@ -1,0 +1,38 @@
+{
+  "order_id": "ORDER-S5LJW589",
+  "persona_id": "persona_022",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2026-01-08T02:30:49",
+  "shipped_at": "2026-01-10T02:30:49",
+  "delivered_at": "2026-01-15T02:30:49",
+  "shipping_address": "444 Polish Hill St, Philadelphia, PA 19123",
+  "items": [
+    {
+      "product_id": "B0AMZN1239",
+      "name": "Honeywell QuietSet Tower Fan",
+      "category": "Home & Kitchen",
+      "quantity": 3,
+      "price": 79.99,
+      "subtotal": 239.97
+    },
+    {
+      "product_id": "B0PETS0117",
+      "name": "Comfort Zone Comfort Zone Multi-Cat Diffuser",
+      "category": "Pet Supplies",
+      "quantity": 3,
+      "price": 27.12,
+      "subtotal": 81.36
+    },
+    {
+      "product_id": "B0C7GL324K",
+      "name": "Technivorm Moccamaster KBGV Select",
+      "category": "Home & Kitchen",
+      "quantity": 1,
+      "price": 359.0,
+      "subtotal": 359.0
+    }
+  ],
+  "total": 680.33,
+  "currency": "USD"
+}

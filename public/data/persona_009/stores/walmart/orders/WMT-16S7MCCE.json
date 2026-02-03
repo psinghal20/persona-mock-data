@@ -1,0 +1,22 @@
+{
+  "order_id": "WMT-16S7MCCE",
+  "persona_id": "persona_009",
+  "store_id": "walmart",
+  "status": "delivered",
+  "created_at": "2026-01-21T00:15:21",
+  "shipped_at": "2026-01-22T00:15:21",
+  "delivered_at": "2026-01-26T00:15:21",
+  "shipping_address": "789 Veterans Blvd, Tampa, FL 33602",
+  "items": [
+    {
+      "product_id": "WMT00001345",
+      "name": "Kan Jam Kan Jam Ultimate Game",
+      "category": "Toys",
+      "quantity": 4,
+      "price": 41.29,
+      "subtotal": 165.16
+    }
+  ],
+  "total": 165.16,
+  "currency": "USD"
+}

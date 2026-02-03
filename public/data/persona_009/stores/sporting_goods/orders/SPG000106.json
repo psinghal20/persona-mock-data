@@ -1,0 +1,30 @@
+{
+  "order_id": "SPG000106",
+  "persona_id": "persona_009",
+  "store_id": "sporting_goods",
+  "status": "delivered",
+  "created_at": "2025-12-12T22:38:24",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "789 Veterans Blvd, Tampa, FL 33602",
+  "items": [
+    {
+      "product_id": "GLF017",
+      "name": "Fairway C Stand Bag",
+      "category": "Bags",
+      "quantity": 1,
+      "price": 229.99,
+      "subtotal": 229.99
+    },
+    {
+      "product_id": "CMP027",
+      "name": "Sea to Summit Spark SP3",
+      "category": "Sleeping Bags",
+      "quantity": 1,
+      "price": 449.99,
+      "subtotal": 449.99
+    }
+  ],
+  "total": 679.98,
+  "currency": "USD"
+}

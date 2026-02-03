@@ -1,0 +1,30 @@
+{
+  "order_id": "ORDER-2CAOWQ76",
+  "persona_id": "persona_031",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-11-28T22:12:19",
+  "shipped_at": "2025-11-30T22:12:19",
+  "delivered_at": "2025-12-02T22:12:19",
+  "shipping_address": "999 Suburban Lane, Phoenix, AZ 85001",
+  "items": [
+    {
+      "product_id": "B0TOYS0051",
+      "name": "Traxxas Traxxas Slash RC Truck",
+      "category": "Toys & Games",
+      "quantity": 1,
+      "price": 301.74,
+      "subtotal": 301.74
+    },
+    {
+      "product_id": "B0TOYS0014",
+      "name": "Moose Toys Little Live Pets Bird",
+      "category": "Toys & Games",
+      "quantity": 1,
+      "price": 32.01,
+      "subtotal": 32.01
+    }
+  ],
+  "total": 333.75,
+  "currency": "USD"
+}

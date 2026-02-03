@@ -1,0 +1,22 @@
+{
+  "order_id": "ORDER-BBBPN312",
+  "persona_id": "persona_009",
+  "store_id": "amazon",
+  "status": "cancelled",
+  "created_at": "2025-11-22T10:44:54",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "789 Veterans Blvd, Tampa, FL 33602",
+  "items": [
+    {
+      "product_id": "B0TOYS0181",
+      "name": "Rubiks Rubiks Cube 4x4",
+      "category": "Toys & Games",
+      "quantity": 1,
+      "price": 21.59,
+      "subtotal": 21.59
+    }
+  ],
+  "total": 21.59,
+  "currency": "USD"
+}

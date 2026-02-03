@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-19",
+  "persona_id": "persona_002",
+  "store_id": "bookstore",
+  "status": "completed",
+  "created_at": "2025-10-13T02:22:04",
+  "items": [
+    {
+      "product_id": "436",
+      "name": "The Dark Tower: The Gunslinger",
+      "category": "Fantasy",
+      "quantity": 2,
+      "price": 17.0,
+      "subtotal": 34.0
+    }
+  ],
+  "total": 34.0,
+  "currency": "USD"
+}

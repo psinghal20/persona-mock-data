@@ -1,0 +1,22 @@
+{
+  "order_id": "ORDER-AD8GC45R",
+  "persona_id": "persona_014",
+  "store_id": "amazon",
+  "status": "shipped",
+  "created_at": "2026-01-26T19:45:27",
+  "shipped_at": "2026-01-27T19:45:27",
+  "delivered_at": "",
+  "shipping_address": "888 Design District Ln, San Francisco, CA 94102",
+  "items": [
+    {
+      "product_id": "B0ELEC0154",
+      "name": "Ring Ring Indoor Cam",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 68.23,
+      "subtotal": 68.23
+    }
+  ],
+  "total": 68.23,
+  "currency": "USD"
+}

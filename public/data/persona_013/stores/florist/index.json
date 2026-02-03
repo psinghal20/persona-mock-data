@@ -1,0 +1,163 @@
+{
+  "persona_id": "persona_013",
+  "store_id": "florist",
+  "store_name": "Florist",
+  "transaction_type": "orders",
+  "transaction_label": "orders",
+  "has_cost": true,
+  "summary": {
+    "total_count": 14,
+    "total_spent": 1354.77,
+    "first_date": "2025-10-01",
+    "last_date": "2026-01-16"
+  },
+  "items": [],
+  "categories": [
+    {
+      "id": "orders",
+      "name": "Orders",
+      "type": "orders",
+      "label": "orders",
+      "has_cost": true,
+      "summary": {
+        "total_count": 10,
+        "total_spent": 1134.81,
+        "first_date": "2025-10-01",
+        "last_date": "2026-01-16"
+      },
+      "items": [
+        {
+          "order_id": "62",
+          "status": "delivered",
+          "total": 74.98,
+          "item_count": 1,
+          "created_at": "2026-01-16T10:03:39",
+          "item_preview": "Mini Calla Rainbow"
+        },
+        {
+          "order_id": "26",
+          "status": "pending",
+          "total": 59.99,
+          "item_count": 1,
+          "created_at": "2026-01-13T20:50:58",
+          "item_preview": "Mini Calla Rainbow"
+        },
+        {
+          "order_id": "61",
+          "status": "pending",
+          "total": 84.99,
+          "item_count": 1,
+          "created_at": "2026-01-10T02:27:26",
+          "item_preview": "Retirement Wishes"
+        },
+        {
+          "order_id": "58",
+          "status": "delivered",
+          "total": 89.99,
+          "item_count": 1,
+          "created_at": "2025-12-28T20:13:13",
+          "item_preview": "Garden Romance"
+        },
+        {
+          "order_id": "23",
+          "status": "scheduled",
+          "total": 265.97,
+          "item_count": 2,
+          "created_at": "2025-12-07T17:52:14",
+          "item_preview": "Bridal Bouquet Garden, Number Balloons (0-9)"
+        },
+        {
+          "order_id": "25",
+          "status": "pending",
+          "total": 99.98,
+          "item_count": 1,
+          "created_at": "2025-11-09T01:28:38",
+          "item_preview": "Garden Romance"
+        },
+        {
+          "order_id": "60",
+          "status": "delivered",
+          "total": 113.96,
+          "item_count": 3,
+          "created_at": "2025-11-05T12:09:40",
+          "item_preview": "Tulip Rainbow, Godiva Chocolate Box (16pc), ..."
+        },
+        {
+          "order_id": "27",
+          "status": "scheduled",
+          "total": 109.98,
+          "item_count": 2,
+          "created_at": "2025-10-15T08:44:41",
+          "item_preview": "Retirement Wishes, Ceramic Decorative Vase"
+        },
+        {
+          "order_id": "24",
+          "status": "delivered",
+          "total": 129.99,
+          "item_count": 1,
+          "created_at": "2025-10-02T11:47:15",
+          "item_preview": "Two Dozen Red Roses"
+        },
+        {
+          "order_id": "59",
+          "status": "pending",
+          "total": 104.98,
+          "item_count": 1,
+          "created_at": "2025-10-01T01:46:10",
+          "item_preview": "Garden Romance"
+        }
+      ]
+    },
+    {
+      "id": "subscriptions",
+      "name": "Subscriptions",
+      "type": "subscriptions",
+      "label": "subscriptions",
+      "has_cost": true,
+      "summary": {
+        "total_count": 4,
+        "total_spent": 219.96,
+        "first_date": "2025-11-27",
+        "last_date": "2026-01-15"
+      },
+      "items": [
+        {
+          "order_id": "SUB-5",
+          "display_name": "Weekly Fresh",
+          "description": "Weekly \u00b7 Roses Only",
+          "status": "paused",
+          "total": 39.99,
+          "item_count": 1,
+          "created_at": "2026-01-15T19:09:55"
+        },
+        {
+          "order_id": "SUB-4",
+          "display_name": "Biweekly Blooms",
+          "description": "Biweekly \u00b7 Seasonal Mix",
+          "status": "paused",
+          "total": 49.99,
+          "item_count": 1,
+          "created_at": "2025-12-26T19:58:37"
+        },
+        {
+          "order_id": "SUB-12",
+          "display_name": "Office Weekly",
+          "description": "Weekly \u00b7 Seasonal Mix",
+          "status": "active",
+          "total": 49.99,
+          "item_count": 1,
+          "created_at": "2025-12-17T17:08:36"
+        },
+        {
+          "order_id": "SUB-13",
+          "display_name": "Biweekly Deluxe",
+          "description": "Biweekly \u00b7 Roses Only",
+          "status": "active",
+          "total": 79.99,
+          "item_count": 1,
+          "created_at": "2025-11-27T01:55:03"
+        }
+      ]
+    }
+  ]
+}

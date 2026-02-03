@@ -1,0 +1,178 @@
+{
+  "persona_id": "persona_022",
+  "store_id": "florist",
+  "store_name": "Florist",
+  "transaction_type": "orders",
+  "transaction_label": "orders",
+  "has_cost": true,
+  "summary": {
+    "total_count": 16,
+    "total_spent": 1834.67,
+    "first_date": "2025-10-03",
+    "last_date": "2026-01-25"
+  },
+  "items": [],
+  "categories": [
+    {
+      "id": "orders",
+      "name": "Orders",
+      "type": "orders",
+      "label": "orders",
+      "has_cost": true,
+      "summary": {
+        "total_count": 13,
+        "total_spent": 1584.7,
+        "first_date": "2025-10-03",
+        "last_date": "2026-01-25"
+      },
+      "items": [
+        {
+          "order_id": "20",
+          "status": "delivered",
+          "total": 249.99,
+          "item_count": 1,
+          "created_at": "2026-01-25T09:31:00",
+          "item_preview": "Bridal Bouquet Garden"
+        },
+        {
+          "order_id": "22",
+          "status": "scheduled",
+          "total": 112.96,
+          "item_count": 3,
+          "created_at": "2026-01-20T03:43:17",
+          "item_preview": "Garden Party Centerpiece, Woven Basket Container, ..."
+        },
+        {
+          "order_id": "17",
+          "status": "delivered",
+          "total": 64.99,
+          "item_count": 1,
+          "created_at": "2026-01-05T11:11:42",
+          "item_preview": "Seasonal Fall Bouquet"
+        },
+        {
+          "order_id": "57",
+          "status": "delivered",
+          "total": 282.97,
+          "item_count": 2,
+          "created_at": "2025-12-25T20:10:52",
+          "item_preview": "Bridal Bouquet Garden, Bunny Plush"
+        },
+        {
+          "order_id": "21",
+          "status": "scheduled",
+          "total": 69.97,
+          "item_count": 2,
+          "created_at": "2025-12-22T07:04:37",
+          "item_preview": "Spring Tulip Garden, Lindt Truffle Collection"
+        },
+        {
+          "order_id": "19",
+          "status": "delivered",
+          "total": 79.98,
+          "item_count": 1,
+          "created_at": "2025-12-21T14:36:39",
+          "item_preview": "Seasonal Fall Bouquet"
+        },
+        {
+          "order_id": "55",
+          "status": "delivered",
+          "total": 104.98,
+          "item_count": 1,
+          "created_at": "2025-12-06T20:20:41",
+          "item_preview": "Dish Garden Deluxe"
+        },
+        {
+          "order_id": "15",
+          "status": "delivered",
+          "total": 82.97,
+          "item_count": 3,
+          "created_at": "2025-11-21T07:01:40",
+          "item_preview": "Herb Garden Trio, Wine - Rose, ..."
+        },
+        {
+          "order_id": "53",
+          "status": "delivered",
+          "total": 54.98,
+          "item_count": 1,
+          "created_at": "2025-11-12T03:58:51",
+          "item_preview": "Spring Tulip Garden"
+        },
+        {
+          "order_id": "16",
+          "status": "delivered",
+          "total": 170.96,
+          "item_count": 3,
+          "created_at": "2025-10-30T10:26:50",
+          "item_preview": "Executive Arrangement, I Love You Balloon, ..."
+        },
+        {
+          "order_id": "54",
+          "status": "scheduled",
+          "total": 94.98,
+          "item_count": 1,
+          "created_at": "2025-10-29T19:23:40",
+          "item_preview": "Classic Red Roses"
+        },
+        {
+          "order_id": "18",
+          "status": "delivered",
+          "total": 134.98,
+          "item_count": 1,
+          "created_at": "2025-10-17T19:32:02",
+          "item_preview": "Orchid Garden Arrangement"
+        },
+        {
+          "order_id": "56",
+          "status": "delivered",
+          "total": 79.99,
+          "item_count": 1,
+          "created_at": "2025-10-03T02:40:39",
+          "item_preview": "Garden Party Centerpiece"
+        }
+      ]
+    },
+    {
+      "id": "subscriptions",
+      "name": "Subscriptions",
+      "type": "subscriptions",
+      "label": "subscriptions",
+      "has_cost": true,
+      "summary": {
+        "total_count": 3,
+        "total_spent": 249.97,
+        "first_date": "2025-10-15",
+        "last_date": "2025-12-14"
+      },
+      "items": [
+        {
+          "order_id": "SUB-3",
+          "display_name": "Office Weekly",
+          "description": "Weekly \u00b7 Roses Only",
+          "status": "active",
+          "total": 49.99,
+          "item_count": 1,
+          "created_at": "2025-12-14T08:24:29"
+        },
+        {
+          "order_id": "SUB-2",
+          "display_name": "Corporate Monthly",
+          "description": "Monthly \u00b7 Bright & Colorful",
+          "status": "active",
+          "total": 129.99,
+          "item_count": 1,
+          "created_at": "2025-10-19T07:33:38"
+        },
+        {
+          "order_id": "SUB-11",
+          "display_name": "Weekly Premium",
+          "description": "Weekly \u00b7 Bright & Colorful",
+          "status": "active",
+          "total": 69.99,
+          "item_count": 1,
+          "created_at": "2025-10-15T16:43:51"
+        }
+      ]
+    }
+  ]
+}

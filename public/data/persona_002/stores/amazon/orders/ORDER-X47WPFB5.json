@@ -1,0 +1,30 @@
+{
+  "order_id": "ORDER-X47WPFB5",
+  "persona_id": "persona_002",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-11-30T00:22:41",
+  "shipped_at": "2025-12-03T00:22:41",
+  "delivered_at": "2025-12-07T00:22:41",
+  "shipping_address": "456 Tech Park Drive, San Jose, CA 95110",
+  "items": [
+    {
+      "product_id": "B0AMZN1799",
+      "name": "Wooting 60HE",
+      "category": "Electronics",
+      "quantity": 3,
+      "price": 174.99,
+      "subtotal": 524.97
+    },
+    {
+      "product_id": "B0PCPT0116",
+      "name": "ADATA Legend 970 SSD",
+      "category": "Electronics",
+      "quantity": 2,
+      "price": 283.28,
+      "subtotal": 566.56
+    }
+  ],
+  "total": 1091.53,
+  "currency": "USD"
+}

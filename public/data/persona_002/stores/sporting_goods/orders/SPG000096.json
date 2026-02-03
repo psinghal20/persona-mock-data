@@ -1,0 +1,30 @@
+{
+  "order_id": "SPG000096",
+  "persona_id": "persona_002",
+  "store_id": "sporting_goods",
+  "status": "pending",
+  "created_at": "2026-01-23T10:10:56",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "456 Tech Park Drive, San Jose, CA 95110",
+  "items": [
+    {
+      "product_id": "CLM010",
+      "name": "Mammut 9.5 Crag Dry Rope",
+      "category": "Ropes",
+      "quantity": 1,
+      "price": 219.99,
+      "subtotal": 219.99
+    },
+    {
+      "product_id": "RUN037",
+      "name": "Balega Hidden Comfort Socks",
+      "category": "Accessories",
+      "quantity": 1,
+      "price": 16.0,
+      "subtotal": 16.0
+    }
+  ],
+  "total": 235.99,
+  "currency": "USD"
+}

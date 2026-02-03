@@ -1,0 +1,30 @@
+{
+  "order_id": "ORDER-RCJYGVCR",
+  "persona_id": "persona_023",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-11-15T04:35:13",
+  "shipped_at": "2025-11-17T04:35:13",
+  "delivered_at": "2025-11-22T04:35:13",
+  "shipping_address": "777 East Side Ave, Cleveland, OH 44114",
+  "items": [
+    {
+      "product_id": "B0ELEC0139",
+      "name": "Razer Razer BlackShark V2 Pro",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 168.13,
+      "subtotal": 168.13
+    },
+    {
+      "product_id": "B0C8GHJV5L",
+      "name": "Fj\u00e4llr\u00e4ven K\u00e5nken Backpack",
+      "category": "Clothing",
+      "quantity": 1,
+      "price": 80.0,
+      "subtotal": 80.0
+    }
+  ],
+  "total": 248.13,
+  "currency": "USD"
+}

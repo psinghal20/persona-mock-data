@@ -1,0 +1,38 @@
+{
+  "order_id": "WMT-9LUQBHU5",
+  "persona_id": "persona_009",
+  "store_id": "walmart",
+  "status": "delivered",
+  "created_at": "2025-11-25T08:08:40",
+  "shipped_at": "2025-11-26T08:08:40",
+  "delivered_at": "2025-11-30T08:08:40",
+  "shipping_address": "789 Veterans Blvd, Tampa, FL 33602",
+  "items": [
+    {
+      "product_id": "WMT00001323",
+      "name": "Roblox Roblox Gift Card $25",
+      "category": "Toys",
+      "quantity": 1,
+      "price": 26.19,
+      "subtotal": 26.19
+    },
+    {
+      "product_id": "WMT00001281",
+      "name": "Moose Toys Little Live Pets Turtle",
+      "category": "Toys",
+      "quantity": 3,
+      "price": 19.2,
+      "subtotal": 57.6
+    },
+    {
+      "product_id": "WMT00001265",
+      "name": "VTech VTech Turn and Learn Driver",
+      "category": "Toys",
+      "quantity": 1,
+      "price": 16.54,
+      "subtotal": 16.54
+    }
+  ],
+  "total": 100.33,
+  "currency": "USD"
+}

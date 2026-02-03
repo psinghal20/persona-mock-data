@@ -1,0 +1,471 @@
+{
+  "persona_id": "persona_022",
+  "store_id": "bakery",
+  "store_name": "Bakery",
+  "transaction_type": "purchases",
+  "transaction_label": "purchases",
+  "has_cost": true,
+  "summary": {
+    "total_count": 53,
+    "total_spent": 1134.24,
+    "first_date": "2025-10-03",
+    "last_date": "2026-01-26"
+  },
+  "items": [],
+  "categories": [
+    {
+      "id": "purchases",
+      "name": "Purchases",
+      "type": "purchases",
+      "label": "purchases",
+      "has_cost": true,
+      "summary": {
+        "total_count": 43,
+        "total_spent": 392.24,
+        "first_date": "2025-10-03",
+        "last_date": "2026-01-26"
+      },
+      "items": [
+        {
+          "order_id": "PUR-152",
+          "status": "completed",
+          "total": 6.58,
+          "item_count": 2,
+          "created_at": "2026-01-26T21:29:45",
+          "item_preview": "Asiago Bagel"
+        },
+        {
+          "order_id": "PUR-71",
+          "status": "completed",
+          "total": 6.98,
+          "item_count": 2,
+          "created_at": "2026-01-17T14:06:27",
+          "item_preview": "Garlic Knots"
+        },
+        {
+          "order_id": "PUR-174",
+          "status": "completed",
+          "total": 5.99,
+          "item_count": 1,
+          "created_at": "2026-01-13T09:58:39",
+          "item_preview": "Strawberry Shortcake"
+        },
+        {
+          "order_id": "PUR-163",
+          "status": "completed",
+          "total": 7.99,
+          "item_count": 1,
+          "created_at": "2026-01-11T19:33:33",
+          "item_preview": "Asiago Cheese Bread"
+        },
+        {
+          "order_id": "PUR-161",
+          "status": "completed",
+          "total": 11.97,
+          "item_count": 3,
+          "created_at": "2026-01-11T19:09:28",
+          "item_preview": "French Baguette"
+        },
+        {
+          "order_id": "PUR-68",
+          "status": "completed",
+          "total": 2.69,
+          "item_count": 1,
+          "created_at": "2026-01-11T09:59:26",
+          "item_preview": "Sesame Bagel"
+        },
+        {
+          "order_id": "PUR-154",
+          "status": "completed",
+          "total": 13.16,
+          "item_count": 4,
+          "created_at": "2026-01-09T00:40:48",
+          "item_preview": "Lemon Bar"
+        },
+        {
+          "order_id": "PUR-172",
+          "status": "completed",
+          "total": 8.97,
+          "item_count": 3,
+          "created_at": "2026-01-06T17:56:01",
+          "item_preview": "Cinnamon Raisin Bagel"
+        },
+        {
+          "order_id": "PUR-74",
+          "status": "completed",
+          "total": 10.47,
+          "item_count": 3,
+          "created_at": "2026-01-02T18:56:45",
+          "item_preview": "Pretzel"
+        },
+        {
+          "order_id": "PUR-72",
+          "status": "completed",
+          "total": 8.07,
+          "item_count": 3,
+          "created_at": "2026-01-01T21:35:52",
+          "item_preview": "Sesame Bagel"
+        },
+        {
+          "order_id": "PUR-159",
+          "status": "completed",
+          "total": 4.98,
+          "item_count": 2,
+          "created_at": "2025-12-31T23:31:47",
+          "item_preview": "Shortbread Cookie"
+        },
+        {
+          "order_id": "PUR-168",
+          "status": "completed",
+          "total": 5.99,
+          "item_count": 1,
+          "created_at": "2025-12-31T21:57:49",
+          "item_preview": "Hawaiian Sweet Rolls (6 pack)"
+        },
+        {
+          "order_id": "PUR-164",
+          "status": "completed",
+          "total": 21.96,
+          "item_count": 4,
+          "created_at": "2025-12-31T00:44:52",
+          "item_preview": "Blueberry Pie (slice)"
+        },
+        {
+          "order_id": "PUR-73",
+          "status": "completed",
+          "total": 16.47,
+          "item_count": 3,
+          "created_at": "2025-12-19T10:48:59",
+          "item_preview": "Parker House Rolls (6 pack)"
+        },
+        {
+          "order_id": "PUR-66",
+          "status": "completed",
+          "total": 13.98,
+          "item_count": 2,
+          "created_at": "2025-12-18T21:40:54",
+          "item_preview": "Sourdough Loaf"
+        },
+        {
+          "order_id": "PUR-158",
+          "status": "completed",
+          "total": 5.49,
+          "item_count": 1,
+          "created_at": "2025-12-16T15:59:15",
+          "item_preview": "Parker House Rolls (6 pack)"
+        },
+        {
+          "order_id": "PUR-79",
+          "status": "completed",
+          "total": 5.98,
+          "item_count": 2,
+          "created_at": "2025-12-15T08:42:59",
+          "item_preview": "Everything Bagel"
+        },
+        {
+          "order_id": "PUR-70",
+          "status": "completed",
+          "total": 17.97,
+          "item_count": 3,
+          "created_at": "2025-12-15T03:55:50",
+          "item_preview": "Rye Bread"
+        },
+        {
+          "order_id": "PUR-167",
+          "status": "completed",
+          "total": 23.96,
+          "item_count": 4,
+          "created_at": "2025-12-14T16:17:14",
+          "item_preview": "Tomato Basil Quiche"
+        },
+        {
+          "order_id": "PUR-169",
+          "status": "completed",
+          "total": 3.29,
+          "item_count": 1,
+          "created_at": "2025-12-05T02:28:29",
+          "item_preview": "Lemon Bar"
+        },
+        {
+          "order_id": "PUR-173",
+          "status": "completed",
+          "total": 4.99,
+          "item_count": 1,
+          "created_at": "2025-12-01T05:50:19",
+          "item_preview": "Dinner Roll (6 pack)"
+        },
+        {
+          "order_id": "PUR-80",
+          "status": "completed",
+          "total": 16.47,
+          "item_count": 3,
+          "created_at": "2025-11-30T10:42:49",
+          "item_preview": "Parker House Rolls (6 pack)"
+        },
+        {
+          "order_id": "PUR-157",
+          "status": "completed",
+          "total": 3.49,
+          "item_count": 1,
+          "created_at": "2025-11-25T22:12:34",
+          "item_preview": "Blueberry Muffin"
+        },
+        {
+          "order_id": "PUR-77",
+          "status": "completed",
+          "total": 5.99,
+          "item_count": 1,
+          "created_at": "2025-11-13T21:17:06",
+          "item_preview": "Strawberry Shortcake"
+        },
+        {
+          "order_id": "PUR-177",
+          "status": "completed",
+          "total": 6.98,
+          "item_count": 2,
+          "created_at": "2025-11-09T02:07:29",
+          "item_preview": "Blueberry Muffin"
+        },
+        {
+          "order_id": "PUR-156",
+          "status": "completed",
+          "total": 5.99,
+          "item_count": 1,
+          "created_at": "2025-11-07T00:55:00",
+          "item_preview": "Hawaiian Sweet Rolls (6 pack)"
+        },
+        {
+          "order_id": "PUR-176",
+          "status": "completed",
+          "total": 11.98,
+          "item_count": 2,
+          "created_at": "2025-11-04T16:55:30",
+          "item_preview": "Banana Cream Pie (slice)"
+        },
+        {
+          "order_id": "PUR-155",
+          "status": "completed",
+          "total": 5.99,
+          "item_count": 1,
+          "created_at": "2025-11-02T20:35:42",
+          "item_preview": "Tomato Basil Quiche"
+        },
+        {
+          "order_id": "PUR-175",
+          "status": "completed",
+          "total": 9.98,
+          "item_count": 2,
+          "created_at": "2025-10-24T06:31:37",
+          "item_preview": "Fruit Tartlet"
+        },
+        {
+          "order_id": "PUR-69",
+          "status": "completed",
+          "total": 5.49,
+          "item_count": 1,
+          "created_at": "2025-10-24T04:43:15",
+          "item_preview": "Parker House Rolls (6 pack)"
+        },
+        {
+          "order_id": "PUR-78",
+          "status": "completed",
+          "total": 6.58,
+          "item_count": 2,
+          "created_at": "2025-10-21T05:25:14",
+          "item_preview": "Asiago Bagel"
+        },
+        {
+          "order_id": "PUR-166",
+          "status": "completed",
+          "total": 4.99,
+          "item_count": 1,
+          "created_at": "2025-10-19T22:33:31",
+          "item_preview": "Dinner Roll (6 pack)"
+        },
+        {
+          "order_id": "PUR-171",
+          "status": "completed",
+          "total": 3.49,
+          "item_count": 1,
+          "created_at": "2025-10-19T10:10:21",
+          "item_preview": "Garlic Knots"
+        },
+        {
+          "order_id": "PUR-160",
+          "status": "completed",
+          "total": 3.49,
+          "item_count": 1,
+          "created_at": "2025-10-18T23:06:07",
+          "item_preview": "Pretzel"
+        },
+        {
+          "order_id": "PUR-67",
+          "status": "completed",
+          "total": 11.97,
+          "item_count": 3,
+          "created_at": "2025-10-17T17:03:10",
+          "item_preview": "French Baguette"
+        },
+        {
+          "order_id": "PUR-165",
+          "status": "completed",
+          "total": 4.98,
+          "item_count": 2,
+          "created_at": "2025-10-16T19:34:56",
+          "item_preview": "Ciabatta Roll"
+        },
+        {
+          "order_id": "PUR-162",
+          "status": "completed",
+          "total": 31.96,
+          "item_count": 4,
+          "created_at": "2025-10-15T15:29:38",
+          "item_preview": "Challah"
+        },
+        {
+          "order_id": "PUR-170",
+          "status": "completed",
+          "total": 2.99,
+          "item_count": 1,
+          "created_at": "2025-10-15T13:59:33",
+          "item_preview": "Cinnamon Raisin Bagel"
+        },
+        {
+          "order_id": "PUR-76",
+          "status": "completed",
+          "total": 6.58,
+          "item_count": 2,
+          "created_at": "2025-10-14T06:59:54",
+          "item_preview": "Lemon Bar"
+        },
+        {
+          "order_id": "PUR-153",
+          "status": "completed",
+          "total": 10.98,
+          "item_count": 2,
+          "created_at": "2025-10-07T07:02:50",
+          "item_preview": "Parker House Rolls (6 pack)"
+        },
+        {
+          "order_id": "PUR-75",
+          "status": "completed",
+          "total": 7.98,
+          "item_count": 2,
+          "created_at": "2025-10-06T12:19:22",
+          "item_preview": "French Baguette"
+        },
+        {
+          "order_id": "PUR-65",
+          "status": "completed",
+          "total": 5.98,
+          "item_count": 2,
+          "created_at": "2025-10-06T10:05:25",
+          "item_preview": "Everything Bagel"
+        },
+        {
+          "order_id": "PUR-178",
+          "status": "completed",
+          "total": 9.98,
+          "item_count": 2,
+          "created_at": "2025-10-03T01:06:25",
+          "item_preview": "Fruit Tartlet"
+        }
+      ]
+    },
+    {
+      "id": "preorders",
+      "name": "Custom Cake Preorders",
+      "type": "preorders",
+      "label": "preorders",
+      "has_cost": true,
+      "summary": {
+        "total_count": 10,
+        "total_spent": 742.0,
+        "first_date": "2025-10-19",
+        "last_date": "2026-01-15"
+      },
+      "items": [
+        {
+          "order_id": "PRE-40",
+          "status": "pending",
+          "total": 60.0,
+          "item_count": 1,
+          "created_at": "2026-01-15T06:01:12",
+          "item_preview": "Custom vanilla 8-inch Cake"
+        },
+        {
+          "order_id": "PRE-37",
+          "status": "pending",
+          "total": 111.0,
+          "item_count": 1,
+          "created_at": "2026-01-14T03:00:09",
+          "item_preview": "Custom chocolate 12-inch Cake"
+        },
+        {
+          "order_id": "PRE-14",
+          "status": "pending",
+          "total": 72.0,
+          "item_count": 1,
+          "created_at": "2025-12-30T23:29:00",
+          "item_preview": "Custom chocolate 8-inch Cake"
+        },
+        {
+          "order_id": "PRE-39",
+          "status": "ready",
+          "total": 41.0,
+          "item_count": 1,
+          "created_at": "2025-12-22T21:14:30",
+          "item_preview": "Custom chocolate 6-inch Cake"
+        },
+        {
+          "order_id": "PRE-38",
+          "status": "ready",
+          "total": 54.0,
+          "item_count": 1,
+          "created_at": "2025-12-10T03:55:46",
+          "item_preview": "Custom chocolate 8-inch Cake"
+        },
+        {
+          "order_id": "PRE-16",
+          "status": "ready",
+          "total": 71.0,
+          "item_count": 1,
+          "created_at": "2025-12-04T05:41:28",
+          "item_preview": "Custom chocolate 10-inch Cake"
+        },
+        {
+          "order_id": "PRE-36",
+          "status": "pending",
+          "total": 92.0,
+          "item_count": 1,
+          "created_at": "2025-11-21T08:53:19",
+          "item_preview": "Custom red velvet 10-inch Cake"
+        },
+        {
+          "order_id": "PRE-15",
+          "status": "ready",
+          "total": 50.0,
+          "item_count": 1,
+          "created_at": "2025-11-19T08:35:32",
+          "item_preview": "Custom vanilla 6-inch Cake"
+        },
+        {
+          "order_id": "PRE-13",
+          "status": "ready",
+          "total": 77.0,
+          "item_count": 1,
+          "created_at": "2025-10-27T21:14:23",
+          "item_preview": "Custom chocolate 10-inch Cake"
+        },
+        {
+          "order_id": "PRE-35",
+          "status": "pending",
+          "total": 114.0,
+          "item_count": 1,
+          "created_at": "2025-10-19T07:22:13",
+          "item_preview": "Custom red velvet 12-inch Cake"
+        }
+      ]
+    }
+  ]
+}

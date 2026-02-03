@@ -1,0 +1,30 @@
+{
+  "order_id": "ORDER-66ZWOTOE",
+  "persona_id": "persona_031",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-11-15T23:17:25",
+  "shipped_at": "2025-11-18T23:17:25",
+  "delivered_at": "2025-11-21T23:17:25",
+  "shipping_address": "999 Suburban Lane, Phoenix, AZ 85001",
+  "items": [
+    {
+      "product_id": "B0TOYS0076",
+      "name": "CITIBLOCS CITIBLOCS Original",
+      "category": "Toys & Games",
+      "quantity": 1,
+      "price": 30.55,
+      "subtotal": 30.55
+    },
+    {
+      "product_id": "B0TOYS0061",
+      "name": "Creativity for Kids Rock Painting Kit",
+      "category": "Toys & Games",
+      "quantity": 3,
+      "price": 14.76,
+      "subtotal": 44.28
+    }
+  ],
+  "total": 74.83,
+  "currency": "USD"
+}

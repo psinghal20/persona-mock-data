@@ -1,0 +1,19 @@
+{
+  "order_id": "TD-17",
+  "persona_id": "persona_013",
+  "store_id": "car_deals",
+  "type": "test_drive",
+  "status": "confirmed",
+  "scheduled_time": "2025-10-04T11:24:46",
+  "items": [
+    {
+      "product_id": "CAR039",
+      "name": "Model 3",
+      "quantity": 1,
+      "price": 42900.0,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

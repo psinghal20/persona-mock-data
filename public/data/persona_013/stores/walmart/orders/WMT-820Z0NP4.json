@@ -1,0 +1,38 @@
+{
+  "order_id": "WMT-820Z0NP4",
+  "persona_id": "persona_013",
+  "store_id": "walmart",
+  "status": "cancelled",
+  "created_at": "2025-10-15T07:52:10",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "555 Community Center Rd, Houston, TX 77001",
+  "items": [
+    {
+      "product_id": "WMT00001877",
+      "name": "Trek Marlin 7",
+      "category": "Sports",
+      "quantity": 2,
+      "price": 873.86,
+      "subtotal": 1747.72
+    },
+    {
+      "product_id": "WMT00001888",
+      "name": "Shimano Shimano ME7 MTB Shoes",
+      "category": "Sports",
+      "quantity": 2,
+      "price": 200.77,
+      "subtotal": 401.54
+    },
+    {
+      "product_id": "WMT00001425",
+      "name": "Coolaroo Coolaroo Elevated Pet Bed",
+      "category": "Pets",
+      "quantity": 2,
+      "price": 38.73,
+      "subtotal": 77.46
+    }
+  ],
+  "total": 2226.72,
+  "currency": "USD"
+}

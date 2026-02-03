@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-88",
+  "persona_id": "persona_009",
+  "store_id": "pet_store",
+  "status": "completed",
+  "created_at": "2025-11-25T08:17:32",
+  "items": [
+    {
+      "product_id": "DOG159",
+      "name": "Bocce's Bakery Birthday Cake Biscuits",
+      "category": "Food",
+      "quantity": 1,
+      "price": 9.99,
+      "subtotal": 9.99
+    }
+  ],
+  "total": 9.99,
+  "currency": "USD"
+}

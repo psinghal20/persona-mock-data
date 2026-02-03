@@ -1,0 +1,46 @@
+{
+  "order_id": "ORDER-MO6Y8OJU",
+  "persona_id": "persona_022",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-11-18T22:05:14",
+  "shipped_at": "2025-11-20T22:05:14",
+  "delivered_at": "2025-11-24T22:05:14",
+  "shipping_address": "444 Polish Hill St, Philadelphia, PA 19123",
+  "items": [
+    {
+      "product_id": "B0AMZN1247",
+      "name": "Rancilio Silvia",
+      "category": "Home & Kitchen",
+      "quantity": 2,
+      "price": 865.0,
+      "subtotal": 1730.0
+    },
+    {
+      "product_id": "B0AMZN1249",
+      "name": "Baratza Encore ESP",
+      "category": "Home & Kitchen",
+      "quantity": 3,
+      "price": 199.0,
+      "subtotal": 597.0
+    },
+    {
+      "product_id": "B077349752",
+      "name": "Frigidaire Gallery Cool Connect AC",
+      "category": "Home & Kitchen",
+      "quantity": 2,
+      "price": 462.74,
+      "subtotal": 925.48
+    },
+    {
+      "product_id": "B023318904",
+      "name": "Cuisinart Electric Pressure Cooker",
+      "category": "Home & Kitchen",
+      "quantity": 3,
+      "price": 101.92,
+      "subtotal": 305.76
+    }
+  ],
+  "total": 3558.24,
+  "currency": "USD"
+}

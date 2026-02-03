@@ -1,0 +1,38 @@
+{
+  "order_id": "TOY000135",
+  "persona_id": "persona_023",
+  "store_id": "toy_store",
+  "status": "shipped",
+  "created_at": "2025-12-27T20:19:16",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "777 East Side Ave, Cleveland, OH 44114",
+  "items": [
+    {
+      "product_id": "TOY-365",
+      "name": "LEGO Speed Champions",
+      "category": "Building & Construction",
+      "quantity": 2,
+      "price": 24.99,
+      "subtotal": 49.98
+    },
+    {
+      "product_id": "TOY-018",
+      "name": "LeapFrog LeapPad Academy",
+      "category": "Electronics & Tech",
+      "quantity": 1,
+      "price": 149.99,
+      "subtotal": 149.99
+    },
+    {
+      "product_id": "TOY-422",
+      "name": "Tegu Magnetic Wooden Blocks",
+      "category": "Building & Construction",
+      "quantity": 2,
+      "price": 129.99,
+      "subtotal": 259.98
+    }
+  ],
+  "total": 459.95,
+  "currency": "USD"
+}

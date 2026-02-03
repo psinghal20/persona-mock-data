@@ -1,0 +1,22 @@
+{
+  "order_id": "ORDER-K1G5CIA3",
+  "persona_id": "persona_031",
+  "store_id": "amazon",
+  "status": "delivered",
+  "created_at": "2025-11-29T14:59:25",
+  "shipped_at": "2025-11-30T14:59:25",
+  "delivered_at": "2025-12-04T14:59:25",
+  "shipping_address": "999 Suburban Lane, Phoenix, AZ 85001",
+  "items": [
+    {
+      "product_id": "B0TOYS0166",
+      "name": "Epoch Aquabeads Mega Set",
+      "category": "Toys & Games",
+      "quantity": 1,
+      "price": 31.86,
+      "subtotal": 31.86
+    }
+  ],
+  "total": 31.86,
+  "currency": "USD"
+}

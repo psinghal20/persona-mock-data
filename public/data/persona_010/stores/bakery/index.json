@@ -1,0 +1,455 @@
+{
+  "persona_id": "persona_010",
+  "store_id": "bakery",
+  "store_name": "Bakery",
+  "transaction_type": "purchases",
+  "transaction_label": "purchases",
+  "has_cost": true,
+  "summary": {
+    "total_count": 51,
+    "total_spent": 904.39,
+    "first_date": "2025-09-24",
+    "last_date": "2026-01-25"
+  },
+  "items": [],
+  "categories": [
+    {
+      "id": "purchases",
+      "name": "Purchases",
+      "type": "purchases",
+      "label": "purchases",
+      "has_cost": true,
+      "summary": {
+        "total_count": 44,
+        "total_spent": 470.39,
+        "first_date": "2025-10-02",
+        "last_date": "2026-01-25"
+      },
+      "items": [
+        {
+          "order_id": "PUR-118",
+          "status": "completed",
+          "total": 14.97,
+          "item_count": 3,
+          "created_at": "2026-01-25T15:42:41",
+          "item_preview": "Almond Croissant"
+        },
+        {
+          "order_id": "PUR-115",
+          "status": "completed",
+          "total": 9.98,
+          "item_count": 2,
+          "created_at": "2026-01-25T03:07:55",
+          "item_preview": "Fruit Tartlet"
+        },
+        {
+          "order_id": "PUR-8",
+          "status": "completed",
+          "total": 12.87,
+          "item_count": 3,
+          "created_at": "2026-01-23T15:03:39",
+          "item_preview": "Raspberry Danish"
+        },
+        {
+          "order_id": "PUR-19",
+          "status": "completed",
+          "total": 8.58,
+          "item_count": 2,
+          "created_at": "2026-01-20T17:27:36",
+          "item_preview": "Cheese Danish"
+        },
+        {
+          "order_id": "PUR-28",
+          "status": "completed",
+          "total": 4.29,
+          "item_count": 1,
+          "created_at": "2026-01-20T03:22:50",
+          "item_preview": "Raspberry Danish"
+        },
+        {
+          "order_id": "PUR-111",
+          "status": "completed",
+          "total": 4.29,
+          "item_count": 1,
+          "created_at": "2026-01-19T00:05:29",
+          "item_preview": "Raspberry Danish"
+        },
+        {
+          "order_id": "PUR-114",
+          "status": "completed",
+          "total": 5.98,
+          "item_count": 2,
+          "created_at": "2026-01-18T20:17:31",
+          "item_preview": "Palmier"
+        },
+        {
+          "order_id": "PUR-16",
+          "status": "completed",
+          "total": 8.98,
+          "item_count": 2,
+          "created_at": "2026-01-18T09:35:06",
+          "item_preview": "Eclair"
+        },
+        {
+          "order_id": "PUR-122",
+          "status": "completed",
+          "total": 8.49,
+          "item_count": 1,
+          "created_at": "2026-01-14T04:42:05",
+          "item_preview": "Brioche Loaf"
+        },
+        {
+          "order_id": "PUR-14",
+          "status": "completed",
+          "total": 9.98,
+          "item_count": 2,
+          "created_at": "2026-01-13T19:34:11",
+          "item_preview": "Strudel (Apple)"
+        },
+        {
+          "order_id": "PUR-13",
+          "status": "completed",
+          "total": 4.49,
+          "item_count": 1,
+          "created_at": "2026-01-13T03:02:06",
+          "item_preview": "Empanada (Beef)"
+        },
+        {
+          "order_id": "PUR-34",
+          "status": "completed",
+          "total": 4.29,
+          "item_count": 1,
+          "created_at": "2026-01-08T17:37:15",
+          "item_preview": "Pain au Chocolat"
+        },
+        {
+          "order_id": "PUR-15",
+          "status": "completed",
+          "total": 25.47,
+          "item_count": 3,
+          "created_at": "2026-01-05T13:27:01",
+          "item_preview": "Brioche Loaf"
+        },
+        {
+          "order_id": "PUR-110",
+          "status": "completed",
+          "total": 12.87,
+          "item_count": 3,
+          "created_at": "2026-01-04T07:43:34",
+          "item_preview": "Apple Danish"
+        },
+        {
+          "order_id": "PUR-29",
+          "status": "completed",
+          "total": 6.98,
+          "item_count": 2,
+          "created_at": "2026-01-04T06:56:17",
+          "item_preview": "Apple Fritter"
+        },
+        {
+          "order_id": "PUR-119",
+          "status": "completed",
+          "total": 8.98,
+          "item_count": 2,
+          "created_at": "2026-01-03T11:03:33",
+          "item_preview": "Empanada (Chicken)"
+        },
+        {
+          "order_id": "PUR-121",
+          "status": "completed",
+          "total": 8.58,
+          "item_count": 2,
+          "created_at": "2026-01-03T00:35:22",
+          "item_preview": "Raspberry Danish"
+        },
+        {
+          "order_id": "PUR-31",
+          "status": "completed",
+          "total": 10.47,
+          "item_count": 3,
+          "created_at": "2026-01-02T17:34:09",
+          "item_preview": "Rugelach (Chocolate)"
+        },
+        {
+          "order_id": "PUR-18",
+          "status": "completed",
+          "total": 14.98,
+          "item_count": 2,
+          "created_at": "2025-12-28T03:20:55",
+          "item_preview": "Opera Cake (slice)"
+        },
+        {
+          "order_id": "PUR-32",
+          "status": "completed",
+          "total": 4.29,
+          "item_count": 1,
+          "created_at": "2025-12-19T13:55:25",
+          "item_preview": "Raspberry Danish"
+        },
+        {
+          "order_id": "PUR-112",
+          "status": "completed",
+          "total": 11.98,
+          "item_count": 2,
+          "created_at": "2025-12-19T03:11:59",
+          "item_preview": "Quiche Lorraine"
+        },
+        {
+          "order_id": "PUR-21",
+          "status": "completed",
+          "total": 8.58,
+          "item_count": 2,
+          "created_at": "2025-12-17T11:27:49",
+          "item_preview": "Cheese Danish"
+        },
+        {
+          "order_id": "PUR-12",
+          "status": "completed",
+          "total": 10.98,
+          "item_count": 2,
+          "created_at": "2025-12-10T16:36:03",
+          "item_preview": "Napoleon (Mille-Feuille)"
+        },
+        {
+          "order_id": "PUR-116",
+          "status": "completed",
+          "total": 8.98,
+          "item_count": 2,
+          "created_at": "2025-12-09T23:36:33",
+          "item_preview": "Eclair"
+        },
+        {
+          "order_id": "PUR-17",
+          "status": "completed",
+          "total": 25.47,
+          "item_count": 3,
+          "created_at": "2025-12-02T00:40:17",
+          "item_preview": "Brioche Loaf"
+        },
+        {
+          "order_id": "PUR-6",
+          "status": "completed",
+          "total": 9.98,
+          "item_count": 2,
+          "created_at": "2025-11-28T02:51:30",
+          "item_preview": "Strudel (Apple)"
+        },
+        {
+          "order_id": "PUR-33",
+          "status": "completed",
+          "total": 8.98,
+          "item_count": 2,
+          "created_at": "2025-11-24T07:23:11",
+          "item_preview": "Eclair"
+        },
+        {
+          "order_id": "PUR-26",
+          "status": "completed",
+          "total": 21.16,
+          "item_count": 4,
+          "created_at": "2025-11-23T15:26:12",
+          "item_preview": "Lemon Tart"
+        },
+        {
+          "order_id": "PUR-20",
+          "status": "completed",
+          "total": 14.98,
+          "item_count": 2,
+          "created_at": "2025-11-19T10:07:00",
+          "item_preview": "Opera Cake (slice)"
+        },
+        {
+          "order_id": "PUR-108",
+          "status": "completed",
+          "total": 13.47,
+          "item_count": 3,
+          "created_at": "2025-11-18T23:44:48",
+          "item_preview": "Eclair"
+        },
+        {
+          "order_id": "PUR-7",
+          "status": "completed",
+          "total": 7.98,
+          "item_count": 2,
+          "created_at": "2025-11-18T07:48:31",
+          "item_preview": "Croissant"
+        },
+        {
+          "order_id": "PUR-10",
+          "status": "completed",
+          "total": 7.49,
+          "item_count": 1,
+          "created_at": "2025-11-17T15:46:24",
+          "item_preview": "Opera Cake (slice)"
+        },
+        {
+          "order_id": "PUR-23",
+          "status": "completed",
+          "total": 8.58,
+          "item_count": 2,
+          "created_at": "2025-11-09T08:49:46",
+          "item_preview": "Raspberry Danish"
+        },
+        {
+          "order_id": "PUR-113",
+          "status": "completed",
+          "total": 11.97,
+          "item_count": 3,
+          "created_at": "2025-11-05T06:03:29",
+          "item_preview": "Bear Claw"
+        },
+        {
+          "order_id": "PUR-109",
+          "status": "completed",
+          "total": 12.99,
+          "item_count": 1,
+          "created_at": "2025-10-31T04:03:08",
+          "item_preview": "Macarons (6 pack)"
+        },
+        {
+          "order_id": "PUR-9",
+          "status": "completed",
+          "total": 17.97,
+          "item_count": 3,
+          "created_at": "2025-10-30T06:50:03",
+          "item_preview": "Quiche Lorraine"
+        },
+        {
+          "order_id": "PUR-25",
+          "status": "completed",
+          "total": 8.98,
+          "item_count": 2,
+          "created_at": "2025-10-28T02:00:54",
+          "item_preview": "Empanada (Chicken)"
+        },
+        {
+          "order_id": "PUR-30",
+          "status": "completed",
+          "total": 9.98,
+          "item_count": 2,
+          "created_at": "2025-10-26T06:24:47",
+          "item_preview": "Strudel (Apple)"
+        },
+        {
+          "order_id": "PUR-24",
+          "status": "completed",
+          "total": 13.47,
+          "item_count": 3,
+          "created_at": "2025-10-24T20:49:45",
+          "item_preview": "Eclair"
+        },
+        {
+          "order_id": "PUR-27",
+          "status": "completed",
+          "total": 4.49,
+          "item_count": 1,
+          "created_at": "2025-10-23T11:51:54",
+          "item_preview": "Eclair"
+        },
+        {
+          "order_id": "PUR-120",
+          "status": "completed",
+          "total": 8.58,
+          "item_count": 2,
+          "created_at": "2025-10-17T06:51:57",
+          "item_preview": "Cheese Danish"
+        },
+        {
+          "order_id": "PUR-22",
+          "status": "completed",
+          "total": 8.58,
+          "item_count": 2,
+          "created_at": "2025-10-12T12:01:14",
+          "item_preview": "Peach Danish"
+        },
+        {
+          "order_id": "PUR-117",
+          "status": "completed",
+          "total": 14.98,
+          "item_count": 2,
+          "created_at": "2025-10-09T08:10:32",
+          "item_preview": "Opera Cake (slice)"
+        },
+        {
+          "order_id": "PUR-11",
+          "status": "completed",
+          "total": 9.98,
+          "item_count": 2,
+          "created_at": "2025-10-02T20:08:11",
+          "item_preview": "Fruit Tartlet"
+        }
+      ]
+    },
+    {
+      "id": "preorders",
+      "name": "Custom Cake Preorders",
+      "type": "preorders",
+      "label": "preorders",
+      "has_cost": true,
+      "summary": {
+        "total_count": 7,
+        "total_spent": 434.0,
+        "first_date": "2025-09-24",
+        "last_date": "2026-01-05"
+      },
+      "items": [
+        {
+          "order_id": "PRE-25",
+          "status": "confirmed",
+          "total": 78.0,
+          "item_count": 1,
+          "created_at": "2026-01-05T14:56:27",
+          "item_preview": "Custom carrot 10-inch Cake"
+        },
+        {
+          "order_id": "PRE-26",
+          "status": "confirmed",
+          "total": 56.0,
+          "item_count": 1,
+          "created_at": "2025-12-22T21:44:13",
+          "item_preview": "Custom red velvet 8-inch Cake"
+        },
+        {
+          "order_id": "PRE-4",
+          "status": "confirmed",
+          "total": 41.0,
+          "item_count": 1,
+          "created_at": "2025-12-18T11:56:07",
+          "item_preview": "Custom red velvet 6-inch Cake"
+        },
+        {
+          "order_id": "PRE-5",
+          "status": "pending",
+          "total": 56.0,
+          "item_count": 1,
+          "created_at": "2025-12-15T08:50:02",
+          "item_preview": "Custom red velvet 8-inch Cake"
+        },
+        {
+          "order_id": "PRE-24",
+          "status": "completed",
+          "total": 96.0,
+          "item_count": 1,
+          "created_at": "2025-11-22T06:17:29",
+          "item_preview": "Custom lemon 12-inch Cake"
+        },
+        {
+          "order_id": "PRE-6",
+          "status": "confirmed",
+          "total": 63.0,
+          "item_count": 1,
+          "created_at": "2025-10-01T18:00:04",
+          "item_preview": "Custom red velvet 6-inch Cake"
+        },
+        {
+          "order_id": "PRE-3",
+          "status": "completed",
+          "total": 44.0,
+          "item_count": 1,
+          "created_at": "2025-09-24T16:29:38",
+          "item_preview": "Custom lemon 6-inch Cake"
+        }
+      ]
+    }
+  ]
+}

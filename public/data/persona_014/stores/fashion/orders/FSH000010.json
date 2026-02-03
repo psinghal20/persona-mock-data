@@ -1,0 +1,38 @@
+{
+  "order_id": "FSH000010",
+  "persona_id": "persona_014",
+  "store_id": "fashion",
+  "status": "delivered",
+  "created_at": "2025-11-25T19:17:32",
+  "shipped_at": "2025-11-28T19:17:32",
+  "delivered_at": "2025-12-03T19:17:32",
+  "shipping_address": "888 Design District Ln, San Francisco, CA 94102",
+  "items": [
+    {
+      "product_id": "prod_393",
+      "name": "Chic Studio Leather Sneakers",
+      "category": "Shoes",
+      "quantity": 1,
+      "price": 107.84,
+      "subtotal": 107.84
+    },
+    {
+      "product_id": "prod_244",
+      "name": "Luxe Label Silk Slip Dress",
+      "category": "Dresses",
+      "quantity": 1,
+      "price": 95.86,
+      "subtotal": 95.86
+    },
+    {
+      "product_id": "prod_083",
+      "name": "Luxe Label Polyester Crop Top",
+      "category": "Tops",
+      "quantity": 2,
+      "price": 36.92,
+      "subtotal": 73.84
+    }
+  ],
+  "total": 277.54,
+  "currency": "USD"
+}

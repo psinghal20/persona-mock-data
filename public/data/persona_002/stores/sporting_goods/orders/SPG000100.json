@@ -1,0 +1,30 @@
+{
+  "order_id": "SPG000100",
+  "persona_id": "persona_002",
+  "store_id": "sporting_goods",
+  "status": "delivered",
+  "created_at": "2025-11-08T21:39:37",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "456 Tech Park Drive, San Jose, CA 95110",
+  "items": [
+    {
+      "product_id": "RUN034",
+      "name": "Flipbelt Running Belt",
+      "category": "Accessories",
+      "quantity": 1,
+      "price": 29.99,
+      "subtotal": 29.99
+    },
+    {
+      "product_id": "RUN008",
+      "name": "Forerunner 265",
+      "category": "Accessories",
+      "quantity": 1,
+      "price": 449.99,
+      "subtotal": 449.99
+    }
+  ],
+  "total": 479.98,
+  "currency": "USD"
+}
