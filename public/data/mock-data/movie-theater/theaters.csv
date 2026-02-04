@@ -1,0 +1,11 @@
+id,name,address,city,state,zip,phone,has_imax,has_dolby,has_dine_in,screens
+TH001,AMC Century City 15,10250 Santa Monica Blvd,Los Angeles,CA,90067,310-553-8900,true,true,true,15
+TH002,AMC Burbank 16,125 E Palm Ave,Burbank,CA,91502,818-953-9800,true,true,false,16
+TH003,AMC Santa Monica 7,1310 3rd Street Promenade,Santa Monica,CA,90401,310-451-9440,false,true,false,7
+TH004,AMC Grove 14,189 The Grove Dr,Los Angeles,CA,90036,323-692-0061,true,true,true,14
+TH005,AMC Universal CityWalk 19,100 Universal City Plaza,Universal City,CA,91608,818-508-0711,true,true,true,19
+TH006,AMC Del Amo 18,3525 W Carson St,Torrance,CA,90503,310-921-2046,true,true,false,18
+TH007,AMC Puente Hills 20,1560 S Azusa Ave,City of Industry,CA,91748,626-839-4529,true,true,false,20
+TH008,AMC Orange 30,20 City Blvd W,Orange,CA,92868,714-634-2553,true,true,true,30
+TH009,AMC Northridge 10,9400 Shirley Ave,Northridge,CA,91324,818-993-0111,false,false,false,10
+TH010,AMC Marina Pacifica 12,6346 E Pacific Coast Hwy,Long Beach,CA,90803,562-431-8506,false,true,false,12

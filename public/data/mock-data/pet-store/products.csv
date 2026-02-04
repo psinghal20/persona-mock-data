@@ -1,0 +1,441 @@
+id,name,brand,category,pet_type,price,description,weight_lbs,size,in_stock,stock_quantity
+DOG001,Blue Buffalo Life Protection Chicken,Blue Buffalo,Food,Dogs,54.99,High-quality dry dog food with real chicken and wholesome grains,24,Large Bag,1,25
+DOG002,Purina Pro Plan Adult,Purina,Food,Dogs,48.99,Complete nutrition for adult dogs with real salmon,30,Large Bag,1,30
+DOG003,Royal Canin Large Breed Puppy,Royal Canin,Food,Dogs,69.99,Specially formulated for large breed puppies up to 15 months,30,Large Bag,1,15
+DOG004,Hill's Science Diet Senior,Hill's,Food,Dogs,62.99,Formulated for dogs 7 years and older with joint support,28,Large Bag,1,18
+DOG005,KONG Classic Dog Toy,KONG,Toys,Dogs,14.99,Durable rubber toy for fetching and treat dispensing,0.5,Large,1,50
+DOG006,Nylabone DuraChew,Nylabone,Toys,Dogs,12.99,Long-lasting chew toy for aggressive chewers,0.75,Large,1,40
+DOG007,Chuckit Ultra Ball 2-Pack,Chuckit,Toys,Dogs,9.99,High-bounce rubber balls for fetch,0.25,Medium,1,60
+DOG008,Outward Hound Hide-A-Squirrel,Outward Hound,Toys,Dogs,19.99,Interactive puzzle toy with squeaky squirrels,1,Large,1,25
+DOG009,Furhaven Orthopedic Dog Bed,Furhaven,Beds,Dogs,49.99,Memory foam bed with cooling gel for joint relief,8,Large,1,20
+DOG010,MidWest Bolster Dog Bed,MidWest,Beds,Dogs,29.99,Soft fleece bed with bolster sides,3,Medium,1,30
+DOG011,Coolaroo Elevated Pet Bed,Coolaroo,Beds,Dogs,39.99,Breathable elevated bed for indoor/outdoor use,6,Large,1,22
+DOG012,Frontline Plus Flea Treatment,Frontline,Health,Dogs,49.99,6-month supply of flea and tick prevention,0.25,Large Dog,1,35
+DOG013,Nutramax Cosequin Joint Health,Nutramax,Health,Dogs,34.99,Glucosamine supplement for joint support,0.5,,1,40
+DOG014,Greenies Dental Treats,Greenies,Health,Dogs,24.99,Dental chews that clean teeth and freshen breath,1.5,Regular,1,45
+DOG015,FURminator deShedding Tool,FURminator,Grooming,Dogs,34.99,Reduces shedding up to 90%,0.5,Large,1,25
+DOG016,Burt's Bees Dog Shampoo,Burt's Bees,Grooming,Dogs,9.99,Natural oatmeal shampoo for sensitive skin,1,16oz,1,50
+CAT001,Blue Buffalo Wilderness Chicken,Blue Buffalo,Food,Cats,42.99,Grain-free dry cat food with real chicken,12,Large Bag,1,28
+CAT002,Purina ONE Indoor Advantage,Purina,Food,Cats,29.99,Formulated for indoor cats with hairball management,16,Large Bag,1,35
+CAT003,Royal Canin Kitten,Royal Canin,Food,Cats,44.99,Complete nutrition for kittens up to 12 months,7,Medium Bag,1,20
+CAT004,Hill's Science Diet Sensitive Stomach,Hill's,Food,Cats,52.99,Gentle formula for cats with digestive sensitivities,15.5,Large Bag,1,18
+CAT005,Cat Dancer Interactive Toy,Cat Dancer,Toys,Cats,4.99,Simple wire toy that mimics insect movement,0.1,,1,75
+CAT006,Yeowww Catnip Banana,Yeowww,Toys,Cats,7.99,100% organic catnip filled toy,0.2,,1,60
+CAT007,SmartyKat Skitter Critters,SmartyKat,Toys,Cats,5.99,Set of 3 catnip mice,0.15,,1,65
+CAT008,Bergan Turbo Scratcher,Bergan,Toys,Cats,19.99,Ball track toy with replaceable scratch pad,2,,1,30
+CAT009,Best Friends by Sheri Donut Bed,Best Friends,Beds,Cats,34.99,Calming donut bed with faux fur,2,Medium,1,25
+CAT010,Meowfia Cat Cave,Meowfia,Beds,Cats,44.99,Handcrafted wool cat cave,1.5,Large,1,15
+CAT011,Frisco Cat Tree 72-inch,Frisco,Beds,Cats,99.99,Multi-level cat tree with scratching posts,45,,1,10
+CAT012,Advantage II Flea Treatment,Advantage,Health,Cats,44.99,6-month supply of flea prevention for cats,0.2,Large Cat,1,30
+CAT013,Vetoquinol Laxatone Hairball Remedy,Vetoquinol,Health,Cats,12.99,Lubricant to prevent hairballs,0.5,4.25oz,1,45
+CAT014,Purina Tidy Cats Clumping Litter,Purina,Health,Cats,22.99,35lb container of clumping clay litter,35,,1,40
+CAT015,Safari Self-Cleaning Slicker Brush,Safari,Grooming,Cats,14.99,Removes loose fur and prevents mats,0.25,,1,35
+CAT016,Earthbath Hypo-Allergenic Cat Shampoo,Earthbath,Grooming,Cats,11.99,Fragrance-free shampoo for sensitive cats,1,16oz,1,40
+BRD001,Kaytee Forti-Diet Pro Health Parakeet,Kaytee,Food,Birds,12.99,Nutritionally fortified seed blend for parakeets,5,,1,30
+BRD002,ZuPreem FruitBlend Cockatiel,ZuPreem,Food,Birds,18.99,Pellet food with natural fruit flavors,3.5,,1,25
+BRD003,Higgins Safflower Gold Parrot,Higgins,Food,Birds,24.99,Premium seed mix for large parrots,3,,1,20
+BRD004,JW Pet InSight Swing,JW Pet,Toys,Birds,8.99,Colorful swing for small to medium birds,0.25,,1,40
+BRD005,Super Bird Creations Foraging Wheel,Super Bird,Toys,Birds,14.99,Interactive foraging toy for mental stimulation,0.5,,1,30
+BRD006,Prevue Hendryx Travel Cage,Prevue,Beds,Birds,39.99,Portable cage for vet visits and travel,4,,1,15
+FSH001,TetraMin Tropical Flakes,Tetra,Food,Fish,8.99,Complete nutrition for tropical fish,0.5,7.06oz,1,50
+FSH002,Hikari Cichlid Gold Pellets,Hikari,Food,Fish,12.99,Color-enhancing pellets for cichlids,0.5,8.8oz,1,35
+FSH003,Omega One Betta Buffet Pellets,Omega One,Food,Fish,5.99,Premium pellets for betta fish,0.1,1oz,1,60
+FSH004,Marina LED Aquarium Kit,Marina,Beds,Fish,89.99,10-gallon aquarium with LED lighting,20,,1,12
+FSH005,Tetra Whisper Air Pump,Tetra,Health,Fish,14.99,Quiet air pump for up to 40 gallon tanks,1,,1,40
+FSH006,API Freshwater Master Test Kit,API,Health,Fish,29.99,Complete water testing kit,1,,1,25
+SML001,Oxbow Essentials Guinea Pig Food,Oxbow,Food,Small Animals,14.99,Timothy hay-based pellets for guinea pigs,5,,1,30
+SML002,Kaytee Timothy Hay,Kaytee,Food,Small Animals,16.99,Premium timothy hay for rabbits and guinea pigs,6.5,,1,35
+SML003,Vitakraft Drops Hamster Treats,Vitakraft,Food,Small Animals,4.99,Yogurt drops treats for hamsters,0.2,,1,50
+SML004,Kaytee Silent Spinner Wheel,Kaytee,Toys,Small Animals,12.99,Quiet exercise wheel for hamsters,0.75,Large,1,40
+SML005,Ware Manufacturing Willow Branch Ball,Ware,Toys,Small Animals,6.99,Natural willow chew toy,0.25,,1,45
+SML006,MidWest Wabbitat Rabbit Cage,MidWest,Beds,Small Animals,79.99,Spacious cage for rabbits,25,,1,10
+SML007,Carefresh Small Animal Bedding,Carefresh,Health,Small Animals,19.99,60L of soft paper bedding,5,,1,30
+DOG017,Wellness CORE Grain-Free Original,Wellness,Food,Dogs,59.99,High-protein grain-free formula with turkey and chicken,24,Large Bag,1,22
+DOG018,Orijen Original Dry Dog Food,Orijen,Food,Dogs,89.99,Biologically appropriate dog food with 85% meat,25,Large Bag,1,15
+DOG019,Taste of the Wild Pacific Stream,Taste of the Wild,Food,Dogs,49.99,Grain-free formula with smoked salmon,28,Large Bag,1,28
+DOG020,Merrick Real Texas Beef,Merrick,Food,Dogs,64.99,Real deboned beef as first ingredient,22,Large Bag,1,20
+DOG021,Canidae All Life Stages,Canidae,Food,Dogs,54.99,Multi-protein formula for all ages,40,Large Bag,1,25
+DOG022,Nutro Wholesome Essentials,Nutro,Food,Dogs,47.99,Farm-raised chicken and brown rice,30,Large Bag,1,30
+DOG023,Diamond Naturals Adult Chicken,Diamond,Food,Dogs,39.99,Real cage-free chicken protein,40,Large Bag,1,35
+DOG024,Victor Hi-Pro Plus,Victor,Food,Dogs,52.99,High energy formula for active dogs,40,Large Bag,1,22
+DOG025,Acana Red Meat Recipe,Acana,Food,Dogs,79.99,Free-run beef lamb and pork,25,Large Bag,1,18
+DOG026,Fromm Gold Adult,Fromm,Food,Dogs,64.99,Duck chicken and lamb formula,33,Large Bag,1,20
+DOG027,Zignature Lamb Limited Ingredient,Zignature,Food,Dogs,69.99,Single protein limited ingredient diet,25,Large Bag,1,16
+DOG028,Natural Balance L.I.D. Sweet Potato & Fish,Natural Balance,Food,Dogs,59.99,Limited ingredient grain-free formula,26,Large Bag,1,24
+DOG029,Instinct Raw Boost Chicken,Instinct,Food,Dogs,69.99,High protein kibble with freeze-dried raw,21,Large Bag,1,18
+DOG030,Stella & Chewy's Freeze-Dried Dinner,Stella & Chewy's,Food,Dogs,44.99,Raw freeze-dried dinner patties,14,Bag,1,22
+DOG031,Open Farm Ancient Grains Beef,Open Farm,Food,Dogs,74.99,Humanely raised beef with ancient grains,22,Large Bag,1,15
+DOG032,Earthborn Holistic Great Plains,Earthborn,Food,Dogs,49.99,Grain-free bison protein formula,28,Large Bag,1,26
+DOG033,Rachael Ray Nutrish Zero Grain,Rachael Ray,Food,Dogs,36.99,Real beef with zero grains,26,Large Bag,1,32
+DOG034,Iams ProActive Health Adult,Iams,Food,Dogs,34.99,Chicken-based formula for healthy weight,30,Large Bag,1,38
+DOG035,Pedigree Complete Nutrition Adult,Pedigree,Food,Dogs,24.99,Affordable complete nutrition,30,Large Bag,1,45
+DOG036,Cesar Filets in Gravy Variety,Cesar,Food,Dogs,19.99,Wet food variety pack 24 trays,5,Pack,1,40
+DOG037,Blue Buffalo Wilderness Trail Treats,Blue Buffalo,Food,Dogs,8.99,Grain-free duck treats,10,Bag,1,55
+DOG038,Zuke's Mini Naturals Chicken,Zuke's,Food,Dogs,11.99,Low calorie training treats,6,Bag,1,60
+DOG039,Old Mother Hubbard Biscuits,Old Mother Hubbard,Food,Dogs,7.99,Classic oven-baked dog biscuits,3.5,Bag,1,50
+DOG040,Milk-Bone Original Biscuits,Milk-Bone,Food,Dogs,9.99,Crunchy treats for healthy teeth,10,Box,1,55
+DOG041,West Paw Zogoflex Hurley,West Paw,Toys,Dogs,18.99,Guaranteed tough bone-shaped chew toy,0.5,Large,1,35
+DOG042,Benebone Real Flavor Wishbone,Benebone,Toys,Dogs,16.99,Bacon-infused durable chew toy,0.6,Large,1,40
+DOG043,Playology Dual Layer Bone,Playology,Toys,Dogs,14.99,Scented chew toy for engagement,0.4,Medium,1,38
+DOG044,Zippy Paws Skinny Peltz,Zippy Paws,Toys,Dogs,12.99,No stuffing squeaky toy 3-pack,0.5,,1,45
+DOG045,Multipet Lamb Chop,Multipet,Toys,Dogs,9.99,Classic plush squeaky toy,0.3,Large,1,55
+DOG046,JW Pet Hol-ee Roller,JW Pet,Toys,Dogs,8.99,Treat-dispensing ball toy,0.25,Large,1,50
+DOG047,Starmark Treat Dispensing Bob-A-Lot,Starmark,Toys,Dogs,16.99,Weighted wobble treat toy,1,Large,1,32
+DOG048,Nina Ottosson Dog Brick Puzzle,Nina Ottosson,Toys,Dogs,24.99,Level 2 puzzle toy for mental stimulation,1,Large,1,25
+DOG049,Trixie Activity Flip Board,Trixie,Toys,Dogs,14.99,Interactive puzzle feeder,0.75,,1,30
+DOG050,Hyper Pet Flippy Flopper,Hyper Pet,Toys,Dogs,11.99,Soft flying disc for fetch,0.25,,1,45
+DOG051,Chuckit Kick Fetch Ball,Chuckit,Toys,Dogs,19.99,Kick-and-fetch toy for active dogs,1,Large,1,28
+DOG052,KONG Wobbler,KONG,Toys,Dogs,19.99,Treat dispensing wobble toy,1.5,Large,1,30
+DOG053,Outward Hound Fun Feeder,Outward Hound,Toys,Dogs,14.99,Slow feeder bowl to prevent bloat,2,Large,1,40
+DOG054,PetSafe Busy Buddy Twist n Treat,PetSafe,Toys,Dogs,9.99,Adjustable treat dispensing toy,0.3,Medium,1,48
+DOG055,Goughnuts MAXX Stick,Goughnuts,Toys,Dogs,29.99,Virtually indestructible stick toy,1,Large,1,18
+DOG056,Jolly Pets Tug-n-Toss Ball,Jolly Pets,Toys,Dogs,17.99,Horse-ball toy for dogs,2,8-inch,1,25
+DOG057,Mammoth Flossy Chews Rope,Mammoth,Toys,Dogs,12.99,Cotton blend rope for tug and dental,0.75,Large,1,35
+DOG058,Hartz Dura Play Bacon Ball,Hartz,Toys,Dogs,6.99,Bacon-scented squeaky ball,0.2,Medium,1,60
+DOG059,Petmate Chuckit Indoor Ball,Chuckit,Toys,Dogs,7.99,Soft ball for indoor play,0.15,,1,55
+DOG060,Snuggle Puppy Behavioral Aid,Snuggle Puppy,Toys,Dogs,34.99,Heartbeat toy for anxious puppies,1.5,,1,22
+DOG061,K&H Pet Products Thermo-Snuggly Sleeper,K&H,Beds,Dogs,69.99,Heated orthopedic bed,12,Large,1,15
+DOG062,PetFusion Ultimate Dog Bed,PetFusion,Beds,Dogs,119.99,Memory foam bed with waterproof liner,15,Large,1,12
+DOG063,Big Barker Orthopedic Bed,Big Barker,Beds,Dogs,279.99,Premium orthopedic bed for large breeds,35,Large,1,8
+DOG064,Best Friends by Sheri Luxury Shag Bed,Best Friends,Beds,Dogs,54.99,Faux fur donut calming bed,5,Large,1,20
+DOG065,Casper Dog Bed,Casper,Beds,Dogs,149.99,Pressure-relieving memory foam bed,20,Large,1,10
+DOG066,Kuranda Elevated Dog Bed,Kuranda,Beds,Dogs,89.99,Chew-proof elevated cot,10,Large,1,15
+DOG067,Serta Orthopedic Quilted Couch,Serta,Beds,Dogs,79.99,Bolster bed with quilted sleep surface,12,Large,1,18
+DOG068,Snoozer Luxury Overstuffed Sofa,Snoozer,Beds,Dogs,159.99,Furniture-grade pet sofa,18,Large,1,10
+DOG069,AmazonBasics Padded Pet Bolster Bed,AmazonBasics,Beds,Dogs,29.99,Affordable bolster bed,6,Large,1,35
+DOG070,Frisco Plush Orthopedic Sofa Bed,Frisco,Beds,Dogs,44.99,Budget orthopedic bed with bolsters,8,Large,1,28
+DOG071,MidWest iCrate Folding Metal Crate,MidWest,Crates,Dogs,54.99,Double door folding crate with divider,25,42-inch,1,20
+DOG072,Petmate Vari Kennel,Petmate,Crates,Dogs,79.99,Airline approved plastic kennel,18,Large,1,15
+DOG073,AmazonBasics Foldable Metal Crate,AmazonBasics,Crates,Dogs,42.99,Budget-friendly wire crate,22,42-inch,1,25
+DOG074,Impact Collapsible Dog Crate,Impact,Crates,Dogs,349.99,Aluminum collapsible travel crate,20,Large,1,6
+DOG075,Frisco Heavy Duty Crate,Frisco,Crates,Dogs,129.99,Escape-proof heavy duty crate,45,Large,1,12
+DOG076,NexGard Chewables Flea & Tick,NexGard,Health,Dogs,89.99,6-month supply beef-flavored chewables,0.25,Large Dog,1,30
+DOG077,Simparica Trio Chewables,Simparica,Health,Dogs,109.99,6-month heartworm flea tick protection,0.25,Large Dog,1,25
+DOG078,Heartgard Plus Chewables,Heartgard,Health,Dogs,54.99,6-month heartworm prevention,0.25,Large Dog,1,35
+DOG079,Seresto Flea & Tick Collar,Seresto,Health,Dogs,64.99,8-month flea and tick collar,0.5,Large Dog,1,28
+DOG080,Vet's Best Flea & Tick Spray,Vet's Best,Health,Dogs,12.99,Natural plant-based flea spray,1,32oz,1,45
+DOG081,Zesty Paws Multivitamin Bites,Zesty Paws,Health,Dogs,25.99,Daily vitamin soft chews,0.5,90ct,1,40
+DOG082,Nutramax Dasuquin Joint Supplement,Nutramax,Health,Dogs,49.99,Advanced joint supplement,0.75,84ct,1,32
+DOG083,VetriScience GlycoFlex 3,VetriScience,Health,Dogs,39.99,Hip and joint support chews,0.5,120ct,1,35
+DOG084,Nordic Naturals Omega-3 Pet,Nordic Naturals,Health,Dogs,29.99,Fish oil soft gels for skin and coat,0.5,180ct,1,38
+DOG085,PetHonesty Allergy Relief Chews,PetHonesty,Health,Dogs,26.99,Salmon oil probiotics for allergies,0.5,90ct,1,42
+DOG086,Purina FortiFlora Probiotic,Purina,Health,Dogs,34.99,Probiotic supplement powder,0.5,30ct,1,45
+DOG087,Vetoquinol Pro-Pectalin,Vetoquinol,Health,Dogs,19.99,Anti-diarrheal gel,0.5,15ml,1,50
+DOG088,Tomlyn Nutri-Cal High Calorie Gel,Tomlyn,Health,Dogs,11.99,Energy supplement paste,0.25,4.25oz,1,55
+DOG089,Proviable Probiotics Kit,Proviable,Health,Dogs,44.99,Multi-strain probiotic kit,0.5,30ct,1,28
+DOG090,Pet Naturals Calming Chews,Pet Naturals,Health,Dogs,12.99,Natural calming supplement,0.25,30ct,1,50
+DOG091,Chris Christensen Spectrum One Shampoo,Chris Christensen,Grooming,Dogs,19.99,Professional all-purpose shampoo,1,16oz,1,30
+DOG092,TropiClean Waterless Shampoo,TropiClean,Grooming,Dogs,11.99,No-rinse grooming spray,1,20oz,1,45
+DOG093,Wahl Pro Series Pet Clipper,Wahl,Grooming,Dogs,49.99,Rechargeable cordless clipper,2,,1,20
+DOG094,Andis UltraEdge Detachable Blade Clipper,Andis,Grooming,Dogs,89.99,Professional 2-speed clipper,2,,1,15
+DOG095,Safari Professional Nail Trimmer,Safari,Grooming,Dogs,8.99,Stainless steel nail clipper,0.25,Large,1,60
+DOG096,Dremel PawControl Nail Grinder,Dremel,Grooming,Dogs,34.99,Quiet nail grinding tool,0.75,,1,35
+DOG097,Hertzko Self-Cleaning Slicker Brush,Hertzko,Grooming,Dogs,15.99,Retractable bristle brush,0.5,,1,45
+DOG098,Kong ZoomGroom,Kong,Grooming,Dogs,9.99,Rubber curry brush for bathing,0.25,,1,55
+DOG099,Pet Grooming Gloves,Pet Grooming,Grooming,Dogs,12.99,Silicone deshedding gloves pair,0.25,,1,60
+DOG100,Chris Christensen Big G Slicker,Chris Christensen,Grooming,Dogs,54.99,Professional coral slicker brush,0.5,,1,18
+DOG101,Ruffwear Front Range Harness,Ruffwear,Accessories,Dogs,39.95,Padded everyday harness,0.5,Large,1,30
+DOG102,Kurgo Tru-Fit Smart Harness,Kurgo,Accessories,Dogs,34.99,Crash-tested car harness,0.75,Large,1,25
+DOG103,Julius-K9 IDC Powerharness,Julius-K9,Accessories,Dogs,49.99,Professional working harness,1,Size 2,1,20
+DOG104,Blue-9 Balance Harness,Blue-9,Accessories,Dogs,39.99,Front-clip no-pull harness,0.5,Large,1,28
+DOG105,PetSafe Easy Walk Harness,PetSafe,Accessories,Dogs,27.99,Front-clip anti-pull harness,0.5,Large,1,35
+DOG106,Flexi New Classic Retractable Leash,Flexi,Accessories,Dogs,19.99,16ft retractable leash,0.75,Large,1,45
+DOG107,Mendota Products Slip Lead,Mendota,Accessories,Dogs,16.99,British-style slip lead,0.25,6ft,1,40
+DOG108,Ruffwear Knot-a-Leash,Ruffwear,Accessories,Dogs,29.95,Reflective climbing rope leash,0.5,5ft,1,32
+DOG109,Max and Neo Double Handle Leash,Max and Neo,Accessories,Dogs,24.99,Dual handle traffic leash,0.25,6ft,1,38
+DOG110,PetSafe Gentle Leader Headcollar,PetSafe,Accessories,Dogs,22.99,No-pull head halter,0.25,Large,1,30
+DOG111,Outward Hound PoochPouch Front Carrier,Outward Hound,Accessories,Dogs,39.99,Front carrier for small dogs,1,Medium,1,22
+DOG112,K9 Sport Sack AIR 2,K9 Sport Sack,Accessories,Dogs,89.99,Backpack carrier for hiking,2,Medium,1,15
+DOG113,Sherpa Original Deluxe Carrier,Sherpa,Accessories,Dogs,54.99,Airline-approved soft carrier,3,Large,1,20
+DOG114,Sleepypod Mobile Pet Bed,Sleepypod,Accessories,Dogs,189.99,Crash-tested carrier bed,5,Medium,1,10
+DOG115,MidWest Canine Camper Tent Crate,MidWest,Accessories,Dogs,64.99,Pop-up travel crate tent,4,Large,1,18
+DOG116,Ruffwear Approach Pack,Ruffwear,Accessories,Dogs,89.95,Dog hiking backpack,0.75,Large,1,15
+DOG117,Outward Hound DayPak,Outward Hound,Accessories,Dogs,29.99,Saddlebag backpack for dogs,0.5,Large,1,25
+DOG118,Doggles ILS Dog Goggles,Doggles,Accessories,Dogs,24.99,UV protective dog eyewear,0.25,Large,1,28
+DOG119,Muttluks Fleece-Lined Dog Boots,Muttluks,Accessories,Dogs,59.99,All-weather dog boots set of 4,0.5,Large,1,18
+DOG120,PAWZ Waterproof Dog Boots,PAWZ,Accessories,Dogs,19.99,Disposable rubber boots 12-pack,0.25,Large,1,35
+CAT017,Wellness CORE Grain-Free Original,Wellness,Food,Cats,49.99,High-protein grain-free turkey and chicken,11,Large Bag,1,25
+CAT018,Orijen Cat & Kitten Dry Food,Orijen,Food,Cats,49.99,Biologically appropriate with 90% meat,4,Bag,1,20
+CAT019,Taste of the Wild Rocky Mountain,Taste of the Wild,Food,Cats,39.99,Grain-free venison and salmon,14,Large Bag,1,28
+CAT020,Merrick Purrfect Bistro Chicken,Merrick,Food,Cats,44.99,Real deboned chicken recipe,12,Large Bag,1,22
+CAT021,Nutro Wholesome Essentials Indoor,Nutro,Food,Cats,35.99,Farm-raised chicken for indoor cats,14,Large Bag,1,30
+CAT022,Instinct Original Grain-Free Chicken,Instinct,Food,Cats,52.99,High protein raw-coated kibble,11,Large Bag,1,24
+CAT023,Natural Balance L.I.D. Duck,Natural Balance,Food,Cats,42.99,Limited ingredient green pea and duck,10,Large Bag,1,26
+CAT024,Fancy Feast Gourmet Variety Pack,Fancy Feast,Food,Cats,24.99,Wet food variety 24 cans,6,Pack,1,45
+CAT025,Sheba Perfect Portions Cuts,Sheba,Food,Cats,19.99,Twin-pack wet food 24 servings,3,Pack,1,40
+CAT026,Weruva Paw Lickin Chicken,Weruva,Food,Cats,34.99,Human-grade shredded chicken 12-pack,3.5,Pack,1,32
+CAT027,Tiki Cat Luau Variety Pack,Tiki Cat,Food,Cats,39.99,Grain-free pate 12-pack,3,Pack,1,28
+CAT028,Feline Greenies Dental Treats,Greenies,Food,Cats,7.99,Dental treats for cats,0.25,5.5oz,1,55
+CAT029,Temptations Classic Variety Pack,Temptations,Food,Cats,14.99,Crunchy treats variety 4-pack,1,Pack,1,50
+CAT030,Whole Hearted Freeze-Dried Salmon,Whole Hearted,Food,Cats,12.99,Single ingredient salmon treats,0.25,3oz,1,45
+CAT031,GoCat Da Bird Feather Wand,GoCat,Toys,Cats,12.99,Realistic feather wand toy,0.25,,1,45
+CAT032,KONG Kickeroo,Kong,Toys,Cats,9.99,Catnip-filled kick toy,0.25,,1,50
+CAT033,Petlinks Mystery Motion Toy,Petlinks,Toys,Cats,24.99,Concealed motion electronic toy,1,,1,28
+CAT034,SmartyKat Hot Pursuit,SmartyKat,Toys,Cats,19.99,Electronic concealed motion toy,1,,1,32
+CAT035,Catit Design Senses Circuit,Catit,Toys,Cats,22.99,Illuminated ball circuit track,2,,1,30
+CAT036,PetFusion Ambush Interactive Toy,PetFusion,Toys,Cats,34.99,Electronic feather pop-up toy,1.5,,1,22
+CAT037,Petstages Tower of Tracks,Petstages,Toys,Cats,14.99,3-level ball track tower,1.5,,1,40
+CAT038,Trixie 5-in-1 Activity Center,Trixie,Toys,Cats,24.99,Multi-game activity puzzle,2,,1,25
+CAT039,Doc & Phoebe Indoor Hunting Feeder,Doc & Phoebe,Toys,Cats,29.99,Hide and hunt feeder mice 3-pack,0.5,,1,28
+CAT040,KONG Active Feather Teaser,Kong,Toys,Cats,5.99,Elastic feather teaser toy,0.1,,1,60
+CAT041,Catit Flower Fountain,Catit,Health,Cats,34.99,3L drinking fountain with filter,4,,1,25
+CAT042,PetSafe Drinkwell Platinum,PetSafe,Health,Cats,44.99,168oz water fountain,5,,1,20
+CAT043,Pioneer Pet Raindrop Fountain,Pioneer Pet,Health,Cats,49.99,Stainless steel water fountain,4,,1,18
+CAT044,Cat Mate Pet Fountain,Cat Mate,Health,Cats,29.99,70oz multi-height fountain,3,,1,28
+CAT045,ARM & HAMMER Clump & Seal Litter,ARM & HAMMER,Health,Cats,19.99,28lb odor sealing clumping litter,28,,1,40
+CAT046,Dr. Elsey's Precious Cat,Dr. Elsey's,Health,Cats,24.99,40lb premium clumping litter,40,,1,35
+CAT047,World's Best Cat Litter Original,World's Best,Health,Cats,29.99,28lb corn-based clumping litter,28,,1,30
+CAT048,Fresh Step Clean Paws,Fresh Step,Health,Cats,22.99,Low tracking clumping litter,22.5,,1,38
+CAT049,Tidy Cats Breeze System Starter Kit,Tidy Cats,Health,Cats,39.99,Pellet litter system kit,10,,1,22
+CAT050,PetSafe ScoopFree Self-Cleaning Box,PetSafe,Health,Cats,169.99,Automatic self-cleaning litter box,15,,1,12
+CAT051,Litter-Robot 4,Litter-Robot,Health,Cats,649.99,WiFi-enabled automatic litter robot,24,,1,5
+CAT052,Catit Jumbo Hooded Pan,Catit,Health,Cats,34.99,Extra large covered litter box,8,,1,25
+CAT053,Nature's Miracle Litter Box Odor Destroyer,Nature's Miracle,Health,Cats,7.99,Litter deodorizing spray,0.5,24oz,1,50
+CAT054,Feliway Classic Diffuser,Feliway,Health,Cats,34.99,Calming pheromone diffuser,0.5,,1,35
+CAT055,Revolution Plus Topical,Revolution Plus,Health,Cats,124.99,6-month flea tick heartworm,0.25,,1,20
+CAT056,Go Cat Feather Cat Catcher,GoCat,Toys,Cats,8.99,Long wand teaser toy,0.25,,1,55
+CAT057,KONG Naturals Scratcher,Kong,Health,Cats,14.99,Reversible cardboard scratcher,2,,1,40
+CAT058,SmartCat Ultimate Scratching Post,SmartCat,Health,Cats,49.99,32-inch sisal scratching post,16,,1,20
+CAT059,PetFusion Jumbo Cat Scratcher,PetFusion,Health,Cats,59.99,Reversible curved scratcher,12,,1,18
+CAT060,AmazonBasics Cat Scratching Post,AmazonBasics,Health,Cats,24.99,Medium jute scratching post,6,,1,35
+CAT061,Armarkat Classic Cat Tree,Armarkat,Beds,Cats,149.99,74-inch multi-level cat tree,50,,1,8
+CAT062,Go Pet Club 72-inch Cat Tree,Go Pet Club,Beds,Cats,89.99,Multi-level tree with condos,45,,1,12
+CAT063,New Cat Condos Premier Cat Tree,New Cat Condos,Beds,Cats,179.99,Large solid wood cat tree,60,,1,6
+CAT064,Vesper Cat Furniture High Base,Vesper,Beds,Cats,199.99,Modern design cat furniture,35,,1,8
+CAT065,Tuft + Paw Milo Cat Tree,Tuft + Paw,Beds,Cats,349.99,Premium minimalist cat tree,40,,1,5
+CAT066,K&H Thermo-Kitty Heated Bed,K&H,Beds,Cats,49.99,Heated cat bed with fleece,3,Large,1,22
+CAT067,Aspen Pet Self-Warming Bed,Aspen Pet,Beds,Cats,19.99,Self-warming no electricity,2,24x20,1,35
+CAT068,Midwest Curious Cat Cube,Midwest,Beds,Cats,24.99,Collapsible cat cube hideaway,3,,1,30
+CAT069,K&H EZ Mount Window Bed,K&H,Beds,Cats,39.99,Suction cup window perch,4,,1,28
+CAT070,Kitty City Cat Tunnel,Kitty City,Toys,Cats,19.99,Collapsible play tunnel,2,,1,35
+CAT071,Necoichi Raised Cat Food Bowl,Necoichi,Accessories,Cats,14.99,Elevated porcelain food bowl,0.5,,1,40
+CAT072,PetRageous Frisky Kitty Bowls,PetRageous,Accessories,Cats,12.99,Set of 2 stoneware bowls,1,,1,45
+CAT073,Van Ness Automatic Feeder,Van Ness,Accessories,Cats,24.99,Gravity-fed auto feeder,3,,1,30
+CAT074,PetSafe Healthy Pet Automatic Feeder,PetSafe,Accessories,Cats,89.99,Programmable 12-meal feeder,4,,1,18
+CAT075,Catit Pixi Smart Feeder,Catit,Accessories,Cats,129.99,WiFi-enabled smart feeder,5,,1,12
+CAT076,SureFlap Microchip Cat Flap,SureFlap,Accessories,Cats,119.99,Microchip-activated cat door,3,,1,15
+CAT077,PetSafe Interior Cat Door,PetSafe,Accessories,Cats,24.99,2-way interior cat door,1,,1,35
+CAT078,Cat Amazing Puzzle Feeder,Cat Amazing,Toys,Cats,18.99,Interactive puzzle feeder,0.5,,1,32
+CAT079,Lickimat Casper Cat Mat,Lickimat,Accessories,Cats,11.99,Slow feeder lick mat,0.25,,1,45
+CAT080,Safari Self-Cleaning Cat Brush,Safari,Grooming,Cats,11.99,Retractable slicker brush,0.25,,1,50
+BRD007,Lafeber Nutri-Berries Parakeet,Lafeber,Food,Birds,14.99,Foraging food pellets and seeds,0.75,,1,35
+BRD008,Roudybush Daily Maintenance Pellets,Roudybush,Food,Birds,18.99,Extruded nutritional pellets,3,,1,28
+BRD009,Harrison's High Potency Coarse,Harrison's,Food,Birds,29.99,Organic certified pellets,5,,1,20
+BRD010,Volkman Avian Science Cockatiel,Volkman,Food,Birds,11.99,Seed blend for cockatiels,4,,1,32
+BRD011,Zupreem Natural Pellets Large,Zupreem,Food,Birds,24.99,Natural pellets for large parrots,3,,1,25
+BRD012,Kaytee Fiesta Max Parrot,Kaytee,Food,Birds,19.99,Variety seed mix for parrots,4.5,,1,28
+BRD013,Goldenfeast Australian Blend,Goldenfeast,Food,Birds,34.99,Premium seed mix for parakeets,3,,1,18
+BRD014,TOPS Organic Pellets Parrot,TOPS,Food,Birds,29.99,USDA organic pellets,3,,1,22
+BRD015,Higgins InTune Natural Cockatiel,Higgins,Food,Birds,16.99,Pellet and seed blend,3,,1,30
+BRD016,Prevue Hendryx Flight Cage,Prevue,Beds,Birds,149.99,Large flight cage 31x21x52,35,,1,8
+BRD017,Vision Bird Cage Model M02,Vision,Beds,Birds,119.99,Medium wire bird cage,15,,1,12
+BRD018,A&E Cage Co. Victorian Top,A&E Cage,Beds,Birds,299.99,Ornate Victorian style cage,45,,1,5
+BRD019,Kings Cages Superior Line,Kings Cages,Beds,Birds,449.99,Large parrot cage powder coated,65,,1,4
+BRD020,Yaheetech Rolling Bird Cage,Yaheetech,Beds,Birds,89.99,Rolling cage with play top,25,,1,15
+BRD021,Penn-Plax Bird Life Activity Center,Penn-Plax,Toys,Birds,24.99,Tabletop play gym,3,,1,25
+BRD022,Super Bird Creations Preen Me,Super Bird,Toys,Birds,12.99,Preening chew toy,0.5,,1,35
+BRD023,Planet Pleasures Spiked Pinata,Planet Pleasures,Toys,Birds,14.99,Shreddable foraging toy,0.75,,1,30
+BRD024,Bonka Bird Toys Foraging Star,Bonka Bird,Toys,Birds,9.99,Paper foraging toy,0.25,,1,45
+BRD025,A&E Cage Co. Java Wood Tree,A&E Cage,Toys,Birds,59.99,Natural java wood play stand,8,,1,15
+BRD026,Living World Wooden Ladder,Living World,Toys,Birds,7.99,Natural wood climbing ladder,0.25,,1,55
+BRD027,JW Pet Comfy Perch,JW Pet,Accessories,Birds,11.99,Flexible rope perch,0.5,,1,40
+BRD028,Polly's Pet Products Shower Perch,Polly's,Accessories,Birds,19.99,Suction cup shower perch,0.5,,1,30
+BRD029,Sweet Feet and Beak Comfort Perch,Sweet Feet,Accessories,Birds,24.99,Therapeutic textured perch,0.5,,1,28
+BRD030,Zoo Med ReptiSafe Water Conditioner,Zoo Med,Health,Birds,6.99,Water conditioner for birds,0.5,4.25oz,1,50
+FSH007,API Stress Coat Water Conditioner,API,Health,Fish,9.99,Water conditioner with aloe,0.5,16oz,1,45
+FSH008,Seachem Prime Water Conditioner,Seachem,Health,Fish,14.99,Concentrated dechlorinator,0.5,500ml,1,40
+FSH009,Fluval Plant and Shrimp Stratum,Fluval,Health,Fish,24.99,Volcanic soil substrate,8,8.8lb,1,25
+FSH010,CaribSea Eco-Complete Planted,CaribSea,Health,Fish,29.99,Complete planted substrate,20,20lb,1,20
+FSH011,Fluval 407 Performance Canister,Fluval,Health,Fish,299.99,Canister filter up to 100 gallons,15,,1,8
+FSH012,Aqueon QuietFlow LED Pro,Aqueon,Health,Fish,44.99,Power filter 50-90 gallons,3,,1,25
+FSH013,EHEIM Classic External Filter,EHEIM,Health,Fish,149.99,German-made canister filter,10,,1,12
+FSH014,Tetra HT Submersible Heater,Tetra,Health,Fish,19.99,100W preset heater,1,,1,40
+FSH015,Fluval E Series Heater,Fluval,Health,Fish,49.99,LCD temperature display heater,1,,1,28
+FSH016,Finnex Planted+ 24/7 LED,Finnex,Health,Fish,119.99,Programmable aquarium LED light,3,,1,15
+FSH017,Fluval Plant 3.0 LED,Fluval,Health,Fish,149.99,Bluetooth programmable plant light,4,,1,12
+FSH018,Tetra Goldfish Flakes,Tetra,Food,Fish,6.99,Premium flakes for goldfish,0.5,7.06oz,1,55
+FSH019,New Life Spectrum Thera-A,New Life Spectrum,Food,Fish,19.99,Premium sinking pellets,0.5,250g,1,30
+FSH020,Hikari Sinking Wafers,Hikari,Food,Fish,8.99,Algae wafers for bottom feeders,0.25,1.76oz,1,45
+FSH021,Fluval Bug Bites Tropical,Fluval,Food,Fish,9.99,Insect larvae based food,0.5,1.6oz,1,40
+FSH022,Omega One Freeze Dried Bloodworms,Omega One,Food,Fish,11.99,Freeze-dried bloodworm treats,0.25,0.96oz,1,38
+FSH023,Marina 20G LED Aquarium Kit,Marina,Beds,Fish,159.99,Complete 20-gallon kit,45,,1,8
+FSH024,Fluval Flex 32.5 Gallon Kit,Fluval,Beds,Fish,249.99,Curved glass aquarium kit,55,,1,6
+FSH025,Aqueon Standard Glass Aquarium,Aqueon,Beds,Fish,49.99,29-gallon tank only,35,,1,15
+FSH026,Penn-Plax Cascade 1000 Filter,Penn-Plax,Health,Fish,79.99,Canister filter up to 100 gallons,8,,1,18
+FSH027,Aquarium Co-Op Easy Planter,Aquarium Co-Op,Accessories,Fish,12.99,Weighted plant anchor,0.25,,1,45
+FSH028,API Aquarium Salt,API,Health,Fish,8.99,Freshwater aquarium salt,4,65oz,1,40
+FSH029,Seachem Flourish Excel,Seachem,Health,Fish,14.99,Liquid carbon for plants,1,500ml,1,35
+FSH030,Marina Betta EZ Care Aquarium,Marina,Beds,Fish,24.99,Self-cleaning betta tank,2,,1,30
+SML008,Kaytee Clean & Cozy Bedding,Kaytee,Health,Small Animals,14.99,50L soft paper bedding,3,,1,35
+SML009,Oxbow Orchard Grass Hay,Oxbow,Food,Small Animals,12.99,Premium orchard grass,0.94,15oz,1,40
+SML010,Higgins Sunburst Gourmet Hamster,Higgins,Food,Small Animals,9.99,Seed mix for hamsters,2.5,,1,45
+SML011,Supreme Selective Rabbit,Supreme,Food,Small Animals,14.99,High fiber pellets for rabbits,4,,1,35
+SML012,Oxbow Garden Select Adult Rabbit,Oxbow,Food,Small Animals,19.99,Garden-inspired rabbit food,4,,1,30
+SML013,Kaytee Forti-Diet Pro Guinea Pig,Kaytee,Food,Small Animals,12.99,Vitamin C fortified food,5,,1,38
+SML014,Vitakraft Menu Hamster Food,Vitakraft,Food,Small Animals,7.99,Grain and seed mix,2.5,,1,48
+SML015,Brown's Tropical Carnival Rabbit,Brown's,Food,Small Animals,11.99,Gourmet food blend,5,,1,35
+SML016,Ware Manufacturing Chew Proof Bottle,Ware,Accessories,Small Animals,8.99,Glass water bottle,0.5,,1,50
+SML017,Lixit Critter Brites Bottle,Lixit,Accessories,Small Animals,6.99,Colorful water bottle,0.25,,1,55
+SML018,Kaytee Comfort Exercise Wheel,Kaytee,Toys,Small Animals,14.99,Quiet solid surface wheel,1,Large,1,35
+SML019,Niteangel Super Silent Wheel,Niteangel,Toys,Small Animals,24.99,Premium silent spinner,1.5,,1,28
+SML020,Living World Teach N Treat,Living World,Toys,Small Animals,9.99,Interactive puzzle toy,0.5,,1,42
+SML021,Kaytee Crinkle Tunnel,Kaytee,Toys,Small Animals,7.99,Crinkle paper play tunnel,0.25,,1,50
+SML022,Oxbow Enriched Life Play Wall,Oxbow,Toys,Small Animals,12.99,Wooden activity wall,1,,1,35
+SML023,Ware Manufacturing Flying Saucer,Ware,Toys,Small Animals,9.99,Slanted running wheel,0.75,,1,40
+SML024,Kaytee CritterTrail 2-Level,Kaytee,Beds,Small Animals,44.99,Multi-level hamster habitat,5,,1,20
+SML025,Prevue Hendryx 528 Universal,Prevue,Beds,Small Animals,99.99,Large small animal cage,25,,1,12
+SML026,Ferplast Favola Hamster Cage,Ferplast,Beds,Small Animals,59.99,Wire cage with accessories,6,,1,18
+SML027,Midwest Guinea Habitat Plus,Midwest,Beds,Small Animals,54.99,Spacious guinea pig home,15,,1,15
+SML028,Living World Deluxe Habitat,Living World,Beds,Small Animals,79.99,Large rabbit habitat,20,,1,12
+SML029,Critter Nation Double Unit,Critter Nation,Beds,Small Animals,269.99,Double story ferret cage,55,,1,6
+SML030,Kaytee My First Home Multi-Level,Kaytee,Beds,Small Animals,129.99,Multi-level ferret habitat,35,,1,8
+SML031,Small Pet Select Timothy Hay,Small Pet Select,Food,Small Animals,34.99,Premium 2nd cutting hay,10,,1,25
+SML032,Oxbow Simple Rewards Treats,Oxbow,Food,Small Animals,5.99,Baked hay treats,0.25,3oz,1,55
+SML033,Vitakraft Crunch Sticks,Vitakraft,Food,Small Animals,4.99,Honey flavor treat sticks,0.25,,1,60
+SML034,Kaytee Timothy Biscuits,Kaytee,Food,Small Animals,6.99,Baked timothy hay biscuits,0.5,,1,50
+SML035,Oxbow Natural Science Vitamin C,Oxbow,Health,Small Animals,9.99,Vitamin C supplement,0.25,60ct,1,40
+SML036,Kaytee Forti-Diet Vita-Sol,Kaytee,Health,Small Animals,6.99,Liquid vitamin supplement,0.25,4oz,1,45
+SML037,Marshall Pet Ferret Lax,Marshall,Health,Small Animals,7.99,Hairball remedy paste,0.25,3oz,1,42
+SML038,Kaytee Small Animal Nail Clipper,Kaytee,Grooming,Small Animals,5.99,Safe nail trimmer,0.1,,1,55
+SML039,Ware Manufacturing Grooming Kit,Ware,Grooming,Small Animals,12.99,Complete grooming set,0.5,,1,35
+SML040,Marshall Pet Ferret Shampoo,Marshall,Grooming,Small Animals,8.99,Tearless ferret shampoo,0.5,8oz,1,40
+RPT001,Zoo Med ReptiSun 10.0 UVB,Zoo Med,Health,Reptiles,29.99,T5 HO UVB fluorescent bulb,0.5,,1,30
+RPT002,Exo Terra Solar Glo,Exo Terra,Health,Reptiles,39.99,Mercury vapor heat and UVB bulb,0.5,,1,25
+RPT003,Zoo Med Repti Basking Spot,Zoo Med,Health,Reptiles,9.99,100W basking heat bulb,0.25,,1,45
+RPT004,Fluker's Ceramic Heat Emitter,Fluker's,Health,Reptiles,19.99,100W infrared heat emitter,0.25,,1,38
+RPT005,Zoo Med ReptiTherm UTH,Zoo Med,Health,Reptiles,24.99,Under tank heating pad,0.5,Large,1,35
+RPT006,Exo Terra Heat Mat,Exo Terra,Health,Reptiles,19.99,Substrate heater,0.25,Medium,1,40
+RPT007,Zoo Med Digital Thermometer Humidity,Zoo Med,Health,Reptiles,12.99,Digital thermo-hygrometer,0.25,,1,50
+RPT008,Exo Terra Thermostat 600W,Exo Terra,Health,Reptiles,49.99,Dimming thermostat,0.5,,1,25
+RPT009,Zoo Med Repti Calcium with D3,Zoo Med,Health,Reptiles,7.99,Calcium supplement powder,0.25,8oz,1,55
+RPT010,Rep-Cal Herptivite Multivitamin,Rep-Cal,Health,Reptiles,9.99,Reptile multivitamin,0.25,3.3oz,1,48
+RPT011,Zoo Med Natural Adult Bearded Dragon,Zoo Med,Food,Reptiles,14.99,Pellet food for adult beardies,0.5,10oz,1,35
+RPT012,Repashy Crested Gecko Diet,Repashy,Food,Reptiles,19.99,Complete gecko meal replacement,0.5,6oz,1,30
+RPT013,Fluker's Buffet Blend Adult Bearded,Fluker's,Food,Reptiles,11.99,Veggie and insect blend,0.5,4.4oz,1,38
+RPT014,Zilla Reptile Munchies Omnivore,Zilla,Food,Reptiles,8.99,Dehydrated food mix,0.25,4oz,1,45
+RPT015,Mazuri Tortoise Diet,Mazuri,Food,Reptiles,24.99,Complete tortoise nutrition,5,,1,22
+RPT016,Exo Terra Canned Grasshoppers,Exo Terra,Food,Reptiles,7.99,Canned feeder insects,0.25,1.2oz,1,50
+RPT017,Zoo Med Can O Crickets,Zoo Med,Food,Reptiles,6.99,Canned crickets,0.25,1.2oz,1,52
+RPT018,Fluker's Freeze-Dried Crickets,Fluker's,Food,Reptiles,9.99,Freeze-dried feeder insects,0.25,1.2oz,1,45
+RPT019,Dubia Roaches Medium 100ct,Dubia,Food,Reptiles,14.99,Live dubia roaches,0.5,,1,30
+RPT020,Josh's Frogs Fruit Fly Culture,Josh's Frogs,Food,Reptiles,9.99,Live flightless fruit flies,0.25,,1,35
+RPT021,Exo Terra Natural Terrarium Medium,Exo Terra,Beds,Reptiles,189.99,Front-opening glass terrarium,45,24x18x18,1,8
+RPT022,Zoo Med ReptiBreeze Screen Cage,Zoo Med,Beds,Reptiles,89.99,Screen chameleon cage,15,24x24x48,1,12
+RPT023,Exo Terra Faunarium Large,Exo Terra,Beds,Reptiles,19.99,Plastic transport container,2,,1,35
+RPT024,Zilla Basic Desert Starter Kit,Zilla,Beds,Reptiles,129.99,10-gallon desert setup,25,,1,15
+RPT025,Zoo Med Reptihabitat Bearded Dragon,Zoo Med,Beds,Reptiles,149.99,20-gallon complete kit,35,,1,10
+RPT026,Exo Terra Rainforest Habitat Kit,Exo Terra,Beds,Reptiles,199.99,Tropical terrarium kit,40,,1,8
+RPT027,Zoo Med Eco Carpet,Zoo Med,Health,Reptiles,12.99,Washable reptile liner,0.5,,1,40
+RPT028,Exo Terra Forest Moss,Exo Terra,Health,Reptiles,9.99,Natural sphagnum moss,0.5,500g,1,45
+RPT029,Zoo Med Repti Bark,Zoo Med,Health,Reptiles,14.99,Fir bark substrate,5,8qt,1,35
+RPT030,Exo Terra Sand Mat,Exo Terra,Health,Reptiles,16.99,Desert substrate mat,1,,1,38
+RPT031,Zoo Med Habba Hut,Zoo Med,Accessories,Reptiles,9.99,Natural wood hide,0.5,Medium,1,45
+RPT032,Exo Terra Reptile Cave,Exo Terra,Accessories,Reptiles,19.99,Realistic rock hide,1,Medium,1,35
+RPT033,Fluker's Repta-Vines,Fluker's,Accessories,Reptiles,8.99,Plastic jungle vines,0.5,,1,48
+RPT034,Zoo Med Mopani Wood,Zoo Med,Accessories,Reptiles,14.99,Natural driftwood,2,Medium,1,30
+RPT035,Exo Terra Reptile Fountain,Exo Terra,Accessories,Reptiles,34.99,Circulating water dish,2,,1,22
+RPT036,Zoo Med Repti Fogger,Zoo Med,Health,Reptiles,44.99,Ultrasonic humidifier,2,,1,18
+RPT037,Exo Terra Monsoon Solo,Exo Terra,Health,Reptiles,79.99,Programmable misting system,3,,1,12
+RPT038,Zoo Med Turtle Dock,Zoo Med,Accessories,Reptiles,19.99,Floating basking platform,1,Large,1,30
+RPT039,Penn-Plax Reptology Lizard Lounger,Penn-Plax,Accessories,Reptiles,14.99,Woven hammock,0.5,Large,1,35
+RPT040,Exo Terra Feeding Rock,Exo Terra,Accessories,Reptiles,12.99,Anti-escape food dish,0.5,,1,40
+DOG121,Purina Pro Plan Sport 30/20,Purina,Food,Dogs,64.99,High-protein formula for active dogs,33,Large Bag,1,18
+DOG122,Eukanuba Adult Large Breed,Eukanuba,Food,Dogs,54.99,3D DentaDefense kibble,30,Large Bag,1,22
+DOG123,SportDog FieldTrainer 425X,SportDog,Accessories,Dogs,199.99,Remote training collar,0.5,,1,12
+DOG124,Garmin Delta XC Dog Training,Garmin,Accessories,Dogs,299.99,GPS training collar system,0.5,,1,8
+DOG125,PetSafe Standard Radio Fence,PetSafe,Accessories,Dogs,249.99,In-ground fence system,5,,1,10
+DOG126,Invisible Fence Brand Collar,Invisible Fence,Accessories,Dogs,399.99,Wireless containment collar,0.5,,1,6
+DOG127,ThunderShirt Classic Dog Anxiety,ThunderShirt,Health,Dogs,44.99,Pressure wrap for anxiety,0.5,Large,1,35
+DOG128,Adaptil Calming Collar,Adaptil,Health,Dogs,24.99,Pheromone calming collar,0.25,Large,1,40
+DOG129,PetArmor Plus Flea Treatment,PetArmor,Health,Dogs,34.99,6-month flea tick topical,0.25,Large,1,45
+DOG130,K9 Advantix II Flea Prevention,K9 Advantix,Health,Dogs,59.99,6-month flea tick mosquito,0.25,Large,1,32
+DOG131,Kurgo Baxter Dog Backpack,Kurgo,Accessories,Dogs,59.99,Dog hiking backpack,0.75,Large,1,22
+DOG132,Ruff Wear Web Master Harness,Ruff Wear,Accessories,Dogs,79.95,Multi-use support harness,0.75,Large,1,18
+DOG133,Orvis Grip-Trex Dog Boots,Orvis,Accessories,Dogs,79.99,All-terrain dog boots 4-pack,0.5,Large,1,15
+DOG134,Hurtta Summit Parka,Hurtta,Accessories,Dogs,109.99,Insulated winter dog coat,1,Large,1,12
+DOG135,Canada Pooch Everest Explorer,Canada Pooch,Accessories,Dogs,89.99,Reflective winter jacket,0.75,Large,1,18
+DOG136,Ruffwear Float Coat,Ruffwear,Accessories,Dogs,89.95,Dog life jacket,1,Large,1,20
+DOG137,Outward Hound Granby Splash Jacket,Outward Hound,Accessories,Dogs,34.99,Budget dog life vest,0.75,Large,1,28
+DOG138,Petmate Arm & Hammer Swivel Bin,Petmate,Accessories,Dogs,19.99,Waste bag dispenser bin,2,,1,35
+DOG139,Earth Rated Dog Poop Bags 900ct,Earth Rated,Accessories,Dogs,24.99,Lavender scented waste bags,2,,1,45
+DOG140,PoopBags Recycled Bags 720ct,PoopBags,Accessories,Dogs,19.99,Eco-friendly waste bags,1.5,,1,50
+DOG141,Coastal Pet Martingale Collar,Coastal Pet,Accessories,Dogs,14.99,No-slip training collar,0.25,Large,1,40
+DOG142,Lupine Originals Collar,Lupine,Accessories,Dogs,17.99,Guaranteed durable collar,0.25,Large,1,38
+DOG143,Orvis Personalized Dog Collar,Orvis,Accessories,Dogs,39.99,Leather embossed collar,0.25,Large,1,25
+DOG144,If It Barks Martingale Collar,If It Barks,Accessories,Dogs,24.99,Handmade martingale collar,0.25,Large,1,30
+DOG145,OmniPet Signature Leather Collar,OmniPet,Accessories,Dogs,19.99,Classic leather collar,0.25,Large,1,35
+DOG146,Neater Feeder Express Elevated Bowl,Neater Feeder,Accessories,Dogs,34.99,Mess-proof elevated bowls,4,Large,1,25
+DOG147,PetSafe Drinkwell Multi-Tier Fountain,PetSafe,Health,Dogs,54.99,100oz dog water fountain,6,,1,18
+DOG148,IRIS Airtight Food Storage Container,IRIS,Accessories,Dogs,24.99,33lb capacity food bin,5,,1,35
+DOG149,Vittles Vault Outback Stackable,Vittles Vault,Accessories,Dogs,29.99,40lb pest-proof container,6,,1,30
+DOG150,Gamma2 Vittles Vault Plus,Gamma2,Accessories,Dogs,44.99,60lb airtight container,8,,1,22
+CAT081,Purina ONE True Instinct,Purina,Food,Cats,32.99,High protein with real chicken,14.4,Large Bag,1,30
+CAT082,Iams ProActive Health Indoor,Iams,Food,Cats,26.99,Weight control indoor formula,16,Large Bag,1,35
+CAT083,Hartz Delectables Squeeze Up,Hartz,Food,Cats,8.99,Lickable cat treats 12-pack,0.5,Pack,1,50
+CAT084,Inaba Churu Cat Treats,Inaba,Food,Cats,12.99,Creamy puree treats 20-pack,0.5,Pack,1,45
+CAT085,Catit Creamy Treats,Catit,Food,Cats,9.99,Lickable treats 12-pack,0.25,Pack,1,48
+CAT086,PureBites Freeze-Dried Chicken,PureBites,Food,Cats,14.99,Single ingredient treats,0.5,2.3oz,1,40
+CAT087,Friskies Party Mix Treats,Friskies,Food,Cats,4.99,Crunchy cat treats,0.25,6oz,1,60
+CAT088,Sentry Calming Collar for Cats,Sentry,Health,Cats,14.99,Lavender pheromone collar,0.1,,1,45
+CAT089,Comfort Zone Multi-Cat Diffuser,Comfort Zone,Health,Cats,24.99,Calming diffuser kit,0.5,,1,35
+CAT090,Pet Naturals Calming Chews Cats,Pet Naturals,Health,Cats,9.99,Calming supplement,0.25,30ct,1,48
+CAT091,Virbac CET Enzymatic Toothpaste,Virbac,Grooming,Cats,11.99,Enzymatic cat toothpaste,0.25,2.5oz,1,40
+CAT092,Vet's Best Dental Care Gel,Vet's Best,Grooming,Cats,8.99,Finger brush dental gel,0.25,3.5oz,1,45
+CAT093,FURminator Short Hair deShedding,FURminator,Grooming,Cats,29.99,Short hair cat deshedder,0.25,Small,1,30
+CAT094,JW Pet GripSoft Cat Brush,JW Pet,Grooming,Cats,8.99,Ergonomic cat brush,0.25,,1,50
+CAT095,Catit Senses 2.0 Self Groomer,Catit,Grooming,Cats,12.99,Wall-mounted grooming brush,0.5,,1,40
+CAT096,Pet Republique Dematting Comb,Pet Republique,Grooming,Cats,14.99,Mat and tangle remover,0.25,,1,38
+CAT097,Hertzko Self Cleaning Cat Brush,Hertzko,Grooming,Cats,12.99,Retractable bristle brush,0.25,,1,45
+CAT098,Li'l Pals Kitten Slicker Brush,Li'l Pals,Grooming,Cats,6.99,Gentle kitten brush,0.1,,1,55
+CAT099,Safari Soft Tip Massager,Safari,Grooming,Cats,7.99,Massage grooming brush,0.25,,1,50
+CAT100,Burt's Bees Dander Reducing Spray,Burt's Bees,Grooming,Cats,9.99,Natural dander spray,0.5,10oz,1,42
+DOG151,Blue Buffalo Basics Limited,Blue Buffalo,Food,Dogs,64.99,Limited ingredient turkey and potato,22,Large Bag,1,18
+DOG152,Purina Pro Plan Sensitive Skin,Purina,Food,Dogs,59.99,Salmon and rice formula,30,Large Bag,1,22
+DOG153,Hill's Prescription Diet i/d,Hill's,Food,Dogs,89.99,Digestive care prescription food,27.5,Large Bag,1,12
+DOG154,Royal Canin Veterinary Diet GI,Royal Canin,Food,Dogs,94.99,Gastrointestinal prescription food,22,Large Bag,1,10
+DOG155,Purina Pro Plan Veterinary HP,Purina,Food,Dogs,79.99,Hydrolyzed protein diet,18.5,Large Bag,1,14
+DOG156,Honest Kitchen Dehydrated Dog Food,Honest Kitchen,Food,Dogs,74.99,Human-grade dehydrated food,10,,1,18
+DOG157,Spot Farms Organic Dog Treats,Spot Farms,Food,Dogs,12.99,Organic chicken treats,0.25,12.5oz,1,40
+DOG158,Fruitables Pumpkin SuperBlend,Fruitables,Food,Dogs,8.99,Digestive pumpkin supplement,0.5,15oz,1,45
+DOG159,Bocce's Bakery Birthday Cake Biscuits,Bocce's,Food,Dogs,9.99,All natural birthday treats,0.25,5oz,1,50
+DOG160,Buddy Biscuits Grain Free,Buddy Biscuits,Food,Dogs,6.99,Crunchy peanut butter treats,0.5,5oz,1,55
+FSH031,Aqueon Betta Food Pellets,Aqueon,Food,Fish,4.99,Floating betta pellets,0.1,0.95oz,1,65
+FSH032,Fluval Bug Bites Betta Formula,Fluval,Food,Fish,6.99,Insect-based betta food,0.1,1oz,1,55
+FSH033,San Francisco Bay Brine Shrimp,San Francisco Bay,Food,Fish,8.99,Frozen brine shrimp cubes,0.5,3.5oz,1,40
+FSH034,Hikari Blood Red Parrot Plus,Hikari,Food,Fish,14.99,Color enhancing pellets,0.5,11.7oz,1,32
+FSH035,Tetra Pond Koi Vibrance,Tetra,Food,Fish,24.99,Color enhancing koi food,3.31,Bag,1,20
+FSH036,API Pond Fish Food,API,Food,Fish,19.99,Floating pond pellets,2.68,Bag,1,25
+FSH037,Hikari Algae Wafers,Hikari,Food,Fish,9.99,Sinking algae discs,0.25,2.89oz,1,48
+FSH038,Omega One Super Color Flakes,Omega One,Food,Fish,11.99,Color enhancing flakes,0.5,2.2oz,1,42
+FSH039,New Life Spectrum AlgaeMAX,New Life Spectrum,Food,Fish,12.99,Vegetable enhanced pellets,0.5,150g,1,38
+FSH040,Cobalt Aquatics Spirulina Flakes,Cobalt,Food,Fish,9.99,Spirulina enriched flakes,0.25,1.2oz,1,45
+FSH041,Seachem Stability,Seachem,Health,Fish,12.99,Beneficial bacteria starter,0.5,250ml,1,40
+FSH042,API Quick Start,API,Health,Fish,9.99,Instant bacteria cycle,0.5,8oz,1,45
+FSH043,Tetra SafeStart Plus,Tetra,Health,Fish,11.99,Live nitrifying bacteria,0.5,8.45oz,1,42
+FSH044,Seachem ParaGuard,Seachem,Health,Fish,14.99,Fish disease treatment,0.5,250ml,1,35
+FSH045,API Melafix,API,Health,Fish,11.99,Natural antibacterial remedy,0.5,16oz,1,40
+FSH046,Imagitarium Air Stone 4-inch,Imagitarium,Accessories,Fish,3.99,Aquarium air stone,0.1,,1,70
+FSH047,Marina Flexible Airline Tubing,Marina,Accessories,Fish,4.99,25ft airline tubing,0.25,,1,60
+FSH048,Aqueon Algae Cleaning Magnet,Aqueon,Accessories,Fish,9.99,Magnetic glass cleaner,0.25,Medium,1,45
+FSH049,Python No Spill Clean and Fill,Python,Accessories,Fish,44.99,25ft water change system,3,,1,20
+FSH050,Seachem Ammonia Alert,Seachem,Health,Fish,8.99,Continuous ammonia sensor,0.1,,1,50
+BRD031,Kaytee Spray Millet 12-Pack,Kaytee,Food,Birds,12.99,Natural millet spray treats,0.5,,1,45
+BRD032,Lafeber Avi-Cakes Parrot,Lafeber,Food,Birds,14.99,Omega 3 enriched cakes,0.75,,1,35
+BRD033,ZuPreem Pure Fun Cockatiel,ZuPreem,Food,Birds,11.99,Fun shapes pellet mix,2,,1,40
+BRD034,Vitakraft Sunseed Vita Prima,Vitakraft,Food,Birds,16.99,Premium cockatiel food,3,,1,32
+BRD035,Tropican Lifetime Formula,Tropican,Food,Birds,22.99,All-life-stage parrot food,4,,1,28
+BRD036,Cuttlebone 6-inch 2-Pack,Living World,Health,Birds,4.99,Natural calcium source,0.25,,1,65
+BRD037,Manu Mineral Block,Manu,Health,Birds,6.99,Essential minerals block,0.5,,1,55
+BRD038,Avitech AviCalm,Avitech,Health,Birds,14.99,Calming supplement,0.25,2oz,1,40
+BRD039,Harrison's Power Treats,Harrison's,Food,Birds,9.99,Organic training treats,0.25,1oz,1,50
+BRD040,Lafeber Popcorn Nutri-Berries,Lafeber,Food,Birds,11.99,Popcorn flavored berries,0.5,4oz,1,42
+DOG161,Merrick Backcountry Raw Infused,Merrick,Food,Dogs,74.99,Freeze-dried raw coated kibble,22,Large Bag,1,16
+DOG162,Nulo Freestyle Adult Salmon,Nulo,Food,Dogs,64.99,Grain-free high protein,24,Large Bag,1,20
+DOG163,Farmina N&D Ancestral Grain,Farmina,Food,Dogs,79.99,Low grain Italian recipe,26.4,Large Bag,1,14
+DOG164,Petcurean Now Fresh Adult,Petcurean,Food,Dogs,69.99,100% fresh meat no meal,25,Large Bag,1,18
+DOG165,Solid Gold Wolf King Bison,Solid Gold,Food,Dogs,59.99,Bison brown rice recipe,24,Large Bag,1,22
+CAT101,Fancy Feast Medleys Collection,Fancy Feast,Food,Cats,29.99,Gourmet wet food 30-pack,8,Pack,1,35
+CAT102,Blue Buffalo Tastefuls Pate,Blue Buffalo,Food,Cats,24.99,Natural pate 12-pack,4,Pack,1,40
+CAT103,Nulo Freestyle Pate Cat Food,Nulo,Food,Cats,32.99,Grain-free pate 12-pack,4.5,Pack,1,32
+CAT104,Smalls Fresh Human-Grade Cat,Smalls,Food,Cats,39.99,Fresh human-grade food,2,Pack,1,25
+CAT105,Tiki Cat After Dark Variety,Tiki Cat,Food,Cats,36.99,Organ meat pate 12-pack,3.5,Pack,1,28

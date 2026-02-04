@@ -1,0 +1,37 @@
+id,sport,category,size,measurement_type,min_value,max_value,unit
+SG001,Running,Shoes,7,foot_length,24.0,24.5,cm
+SG002,Running,Shoes,7.5,foot_length,24.5,25.0,cm
+SG003,Running,Shoes,8,foot_length,25.0,25.5,cm
+SG004,Running,Shoes,8.5,foot_length,25.5,26.0,cm
+SG005,Running,Shoes,9,foot_length,26.0,26.5,cm
+SG006,Running,Shoes,9.5,foot_length,26.5,27.0,cm
+SG007,Running,Shoes,10,foot_length,27.0,27.5,cm
+SG008,Running,Shoes,10.5,foot_length,27.5,28.0,cm
+SG009,Running,Shoes,11,foot_length,28.0,28.5,cm
+SG010,Running,Shoes,12,foot_length,28.5,29.5,cm
+SG011,Running,Apparel,S,chest,34,36,inches
+SG012,Running,Apparel,M,chest,38,40,inches
+SG013,Running,Apparel,L,chest,42,44,inches
+SG014,Running,Apparel,XL,chest,46,48,inches
+SG015,Running,Apparel,XXL,chest,50,52,inches
+SG016,Cycling,Shoes,40,foot_length,25.0,25.5,cm
+SG017,Cycling,Shoes,41,foot_length,25.5,26.2,cm
+SG018,Cycling,Shoes,42,foot_length,26.2,26.8,cm
+SG019,Cycling,Shoes,43,foot_length,26.8,27.5,cm
+SG020,Cycling,Shoes,44,foot_length,27.5,28.2,cm
+SG021,Cycling,Shoes,45,foot_length,28.2,29.0,cm
+SG022,Cycling,Apparel,S,chest,34,36,inches
+SG023,Cycling,Apparel,M,chest,37,39,inches
+SG024,Cycling,Apparel,L,chest,40,42,inches
+SG025,Cycling,Apparel,XL,chest,43,45,inches
+SG026,Water Sports,Wetsuits,S,chest,35,37,inches
+SG027,Water Sports,Wetsuits,M,chest,38,40,inches
+SG028,Water Sports,Wetsuits,L,chest,41,43,inches
+SG029,Water Sports,Wetsuits,XL,chest,44,46,inches
+SG030,Water Sports,Wetsuits,XXL,chest,47,49,inches
+SG031,Camping,Footwear,7,foot_length,24.0,24.5,cm
+SG032,Camping,Footwear,8,foot_length,25.0,25.5,cm
+SG033,Camping,Footwear,9,foot_length,26.0,26.5,cm
+SG034,Camping,Footwear,10,foot_length,27.0,27.5,cm
+SG035,Camping,Footwear,11,foot_length,28.0,28.5,cm
+SG036,Camping,Footwear,12,foot_length,29.0,29.5,cm

@@ -623,21 +623,26 @@ a {
 
 .sheet-tabs {
   display: flex;
-  gap: 0;
+  gap: 2px;
   background: var(--background);
-  border-bottom: 1px solid var(--border);
+  border-bottom: 2px solid var(--border);
   overflow-x: auto;
+  flex-shrink: 0;
+  min-height: 48px;
+  padding: 0.5rem 0.5rem 0;
 }
 
 .sheet-tab {
-  padding: 0.8rem 1.5rem;
-  background: var(--background);
-  border: none;
+  padding: 0.7rem 1.2rem;
+  background: var(--card-hover);
+  border: 1px solid var(--border);
+  border-bottom: none;
+  border-radius: 8px 8px 0 0;
   cursor: pointer;
-  font-size: 0.9rem;
+  font-size: 0.85rem;
+  font-weight: 500;
   color: var(--muted);
-  transition: all 0.3s;
-  border-bottom: 2px solid transparent;
+  transition: all 0.2s;
   white-space: nowrap;
 }
 
@@ -648,8 +653,10 @@ a {
 
 .sheet-tab.active {
   background: var(--card);
-  color: var(--foreground);
-  border-bottom-color: var(--accent);
+  color: var(--accent);
+  border-color: var(--accent);
+  border-bottom: 2px solid var(--card);
+  margin-bottom: -2px;
 }
 
 .modal-body {

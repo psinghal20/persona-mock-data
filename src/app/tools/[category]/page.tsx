@@ -18,15 +18,23 @@ const CATEGORY_ICONS: Record<string, string> = {
   professional: "💼",
 };
 
-function formatServerName(filename: string): string {
-  // Remove _tools.json suffix and convert to readable name
-  // e.g., "amazon_tools.json" -> "Amazon"
-  // e.g., "coffee-roaster_tools.json" -> "Coffee Roaster"
-  const baseName = filename.replace(/_tools\.json$/, "");
-  return baseName
+function formatServerName(serverId: string): string {
+  // Convert server ID to readable name
+  // e.g., "brave-search" -> "Brave Search"
+  // e.g., "coffee_roaster" -> "Coffee Roaster"
+  return serverId
     .split(/[-_]/)
     .map(word => word.charAt(0).toUpperCase() + word.slice(1))
     .join(" ");
+}
+
+function extractServerName(toolName: string): string {
+  // Extract server name from tool name
+  // e.g., "brave-search_brave_web_search" -> "brave-search"
+  // e.g., "amazon_get-orders-history" -> "amazon"
+  const underscoreIndex = toolName.indexOf("_");
+  if (underscoreIndex === -1) return toolName;
+  return toolName.substring(0, underscoreIndex);
 }
 
 async function getCategoryData(category: string): Promise<ToolServerData[]> {
@@ -34,6 +42,80 @@ async function getCategoryData(category: string): Promise<ToolServerData[]> {
     const fs = await import("fs/promises");
     const path = await import("path");
 
+    // For shopping category, use the single consolidated tools file
+    if (category === "shopping") {
+      const toolsFile = path.join(
+        process.cwd(),
+        "public",
+        "data",
+        "shopping-tools.json"
+      );
+
+      const mockDataDir = path.join(
+        process.cwd(),
+        "public",
+        "data",
+        "mock-data"
+      );
+
+      try {
+        const fileData = await fs.readFile(toolsFile, "utf-8");
+        const allTools: ToolDefinition[] = JSON.parse(fileData);
+
+        // Group tools by server name (extracted from tool name prefix)
+        const serverMap = new Map<string, ToolDefinition[]>();
+
+        for (const tool of allTools) {
+          const serverId = extractServerName(tool.name);
+          if (!serverMap.has(serverId)) {
+            serverMap.set(serverId, []);
+          }
+          serverMap.get(serverId)!.push(tool);
+        }
+
+        // Get list of server directories with mock data
+        let mockDataServers: string[] = [];
+        try {
+          mockDataServers = await fs.readdir(mockDataDir);
+        } catch {
+          // Mock data directory may not exist
+        }
+
+        // Convert to ToolServerData array
+        const servers: ToolServerData[] = await Promise.all(
+          Array.from(serverMap.entries()).map(async ([serverId, tools]) => {
+            // Check if this server has mock data
+            let dataFiles: string[] = [];
+            if (mockDataServers.includes(serverId)) {
+              try {
+                const serverDataDir = path.join(mockDataDir, serverId);
+                const files = await fs.readdir(serverDataDir);
+                dataFiles = files.filter(f => f.endsWith('.csv'));
+              } catch {
+                // No data files
+              }
+            }
+
+            return {
+              filename: `${serverId}_tools.json`,
+              name: formatServerName(serverId),
+              tools,
+              dataFiles: dataFiles.length > 0 ? dataFiles : undefined,
+              dataDir: dataFiles.length > 0 ? serverId : undefined,
+            };
+          })
+        );
+
+        // Sort by server name
+        servers.sort((a, b) => a.name.localeCompare(b.name));
+
+        return servers;
+      } catch {
+        return [];
+      }
+    }
+
+    // For other categories, fall back to reading individual tool files
     const toolsDir = path.join(
       process.cwd(),
       "public",
@@ -41,7 +123,7 @@ async function getCategoryData(category: string): Promise<ToolServerData[]> {
       category,
       "tools"
     );
-    
+
     const dataDir = path.join(
       process.cwd(),
       "public",
@@ -74,17 +156,17 @@ async function getCategoryData(category: string): Promise<ToolServerData[]> {
         const filePath = path.join(toolsDir, filename);
         const fileData = await fs.readFile(filePath, "utf-8");
         const tools: ToolDefinition[] = JSON.parse(fileData);
-        
+
         // Check for matching data file
         // e.g., amazon_tools.json -> amazon_data.xlsx or amazon_data.csv
         const baseName = filename.replace(/_tools\.json$/, "");
         const matchingDataFile = dataFiles.find(
           df => df.startsWith(baseName + "_data.")
         );
-        
+
         return {
           filename,
-          name: formatServerName(filename),
+          name: formatServerName(baseName),
           tools,
           dataFile: matchingDataFile,
         };
@@ -95,7 +177,7 @@ async function getCategoryData(category: string): Promise<ToolServerData[]> {
 
     const results = await Promise.all(serverPromises);
     const servers: ToolServerData[] = results.filter((s) => s !== null);
-    
+
     // Sort by server name
     servers.sort((a, b) => a.name.localeCompare(b.name));
 

@@ -1,0 +1,41 @@
+id,name,pet_type,size_category,duration_minutes,price,description
+GRM001,Basic Bath & Brush,Dogs,Small,45,35.00,Bath with shampoo and conditioner plus brushing and blow dry
+GRM002,Basic Bath & Brush,Dogs,Medium,60,45.00,Bath with shampoo and conditioner plus brushing and blow dry
+GRM003,Basic Bath & Brush,Dogs,Large,75,55.00,Bath with shampoo and conditioner plus brushing and blow dry
+GRM004,Full Grooming Package,Dogs,Small,90,55.00,Bath brush haircut nail trim ear cleaning and teeth brushing
+GRM005,Full Grooming Package,Dogs,Medium,120,70.00,Bath brush haircut nail trim ear cleaning and teeth brushing
+GRM006,Full Grooming Package,Dogs,Large,150,85.00,Bath brush haircut nail trim ear cleaning and teeth brushing
+GRM007,Nail Trim Only,Dogs,All,15,15.00,Quick nail trim service
+GRM008,Teeth Brushing,Dogs,All,15,12.00,Dental hygiene brushing with pet-safe toothpaste
+GRM009,Ear Cleaning,Dogs,All,15,12.00,Gentle ear cleaning and inspection
+GRM010,De-shedding Treatment,Dogs,Small,60,50.00,Specialized treatment to reduce shedding up to 90%
+GRM011,De-shedding Treatment,Dogs,Medium,75,65.00,Specialized treatment to reduce shedding up to 90%
+GRM012,De-shedding Treatment,Dogs,Large,90,80.00,Specialized treatment to reduce shedding up to 90%
+GRM013,Basic Bath & Brush,Cats,Small,45,40.00,Gentle bath with cat-safe shampoo and brushing
+GRM014,Basic Bath & Brush,Cats,Medium,60,50.00,Gentle bath with cat-safe shampoo and brushing
+GRM015,Full Grooming Package,Cats,Small,75,60.00,Bath brush nail trim ear cleaning and sanitary trim
+GRM016,Full Grooming Package,Cats,Medium,90,75.00,Bath brush nail trim ear cleaning and sanitary trim
+GRM017,Nail Trim Only,Cats,All,15,15.00,Quick nail trim service for cats
+GRM018,Lion Cut,Cats,All,120,90.00,Full body shave leaving fur on head tail tip and paws
+GRM019,Puppy First Groom,Dogs,Small,60,45.00,Gentle introduction to grooming for puppies under 6 months
+GRM020,Puppy First Groom,Dogs,Medium,75,55.00,Gentle introduction to grooming for puppies under 6 months
+GRM021,Flea & Tick Bath,Dogs,Small,60,50.00,Medicated bath treatment for flea and tick removal
+GRM022,Flea & Tick Bath,Dogs,Medium,75,60.00,Medicated bath treatment for flea and tick removal
+GRM023,Flea & Tick Bath,Dogs,Large,90,75.00,Medicated bath treatment for flea and tick removal
+GRM024,Spa Pawdicure,Dogs,All,30,25.00,Nail trim file and paw pad moisturizing treatment
+GRM025,Blueberry Facial,Dogs,All,15,15.00,Gentle facial wash to remove tear stains
+GRM026,Skunk Odor Treatment,Dogs,Small,75,65.00,Special de-skunking bath and deodorizing treatment
+GRM027,Skunk Odor Treatment,Dogs,Medium,90,80.00,Special de-skunking bath and deodorizing treatment
+GRM028,Skunk Odor Treatment,Dogs,Large,120,100.00,Special de-skunking bath and deodorizing treatment
+GRM029,Anal Gland Expression,Dogs,All,10,15.00,External anal gland expression
+GRM030,Hot Oil Treatment,Dogs,Small,45,40.00,Deep conditioning treatment for dry coat
+GRM031,Hot Oil Treatment,Dogs,Medium,60,50.00,Deep conditioning treatment for dry coat
+GRM032,Hot Oil Treatment,Dogs,Large,75,60.00,Deep conditioning treatment for dry coat
+GRM033,Creative Grooming Color,Dogs,All,120,75.00,Pet-safe temporary color application
+GRM034,Hand Stripping,Dogs,Medium,120,95.00,Traditional hand stripping for wire-coated breeds
+GRM035,Hand Stripping,Dogs,Large,150,120.00,Traditional hand stripping for wire-coated breeds
+GRM036,Sanitary Trim,Cats,All,20,20.00,Trimming of sanitary areas only
+GRM037,Mat Removal,Cats,All,30,35.00,Careful removal of mats and tangles per 15 min
+GRM038,Kitten First Groom,Cats,Small,45,45.00,Gentle introduction to grooming for kittens
+GRM039,Flea Bath,Cats,All,60,55.00,Medicated flea treatment bath for cats
+GRM040,Express Nail Trim Walk-In,Dogs,All,10,12.00,Quick walk-in nail trim no appointment

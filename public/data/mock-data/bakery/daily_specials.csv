@@ -1,0 +1,21 @@
+id,product_id,day_of_week,special_price,special_name
+1,1,Monday,4.99,Sourdough Monday
+2,6,Monday,2.99,Croissant Monday
+3,14,Tuesday,1.99,Cookie Tuesday
+4,15,Tuesday,1.99,Cookie Tuesday
+5,17,Tuesday,2.49,Cookie Tuesday
+6,10,Wednesday,2.49,Muffin Wednesday
+7,11,Wednesday,2.49,Muffin Wednesday
+8,12,Wednesday,2.99,Muffin Wednesday
+9,20,Thursday,4.49,Cake Thursday
+10,21,Thursday,4.49,Cake Thursday
+11,24,Thursday,5.49,Cake Thursday
+12,26,Friday,4.49,Savory Friday
+13,27,Friday,4.49,Savory Friday
+14,30,Friday,3.49,Savory Friday
+15,3,Saturday,2.99,Bread Saturday
+16,2,Saturday,3.99,Bread Saturday
+17,5,Saturday,6.99,Bread Saturday
+18,7,Sunday,3.49,Pastry Sunday
+19,8,Sunday,3.99,Pastry Sunday
+20,13,Sunday,3.49,Pastry Sunday

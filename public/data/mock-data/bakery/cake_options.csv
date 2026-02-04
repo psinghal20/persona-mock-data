@@ -1,0 +1,35 @@
+id,option_type,option_name,option_value,price_modifier,description
+1,size,6-inch Round (serves 8),6-inch,35.00,Perfect for small gatherings
+2,size,8-inch Round (serves 12),8-inch,45.00,Great for birthday parties
+3,size,10-inch Round (serves 20),10-inch,65.00,Ideal for larger celebrations
+4,size,12-inch Round (serves 30),12-inch,85.00,Perfect for big events
+5,size,Quarter Sheet (serves 20),quarter-sheet,55.00,Rectangular cake for easy serving
+6,size,Half Sheet (serves 40),half-sheet,95.00,Large rectangular cake
+7,size,Full Sheet (serves 80),full-sheet,175.00,For very large events
+8,flavor,Classic Vanilla,vanilla,0.00,Light and fluffy vanilla sponge
+9,flavor,Rich Chocolate,chocolate,0.00,Decadent chocolate cake
+10,flavor,Red Velvet,red-velvet,5.00,Classic red velvet with hint of cocoa
+11,flavor,Carrot Spice,carrot,5.00,Moist carrot cake with warm spices
+12,flavor,Lemon,lemon,3.00,Bright and tangy lemon cake
+13,flavor,Marble,marble,3.00,Swirled vanilla and chocolate
+14,flavor,Funfetti,funfetti,2.00,Vanilla with colorful sprinkles
+15,flavor,Strawberry,strawberry,5.00,Fresh strawberry flavored cake
+16,flavor,Coconut,coconut,5.00,Tropical coconut cake
+17,frosting,Vanilla Buttercream,buttercream,0.00,Classic smooth buttercream
+18,frosting,Chocolate Buttercream,chocolate-buttercream,0.00,Rich chocolate buttercream
+19,frosting,Cream Cheese,cream-cheese,5.00,Tangy cream cheese frosting
+20,frosting,Whipped Cream,whipped,3.00,Light and airy whipped cream
+21,frosting,Fondant,fondant,15.00,Smooth fondant for decorative cakes
+22,frosting,Ganache,ganache,8.00,Rich chocolate ganache
+23,filling,No Filling,none,0.00,Single layer cake with no filling
+24,filling,Fresh Fruit,fruit,8.00,Seasonal fresh fruit layer
+25,filling,Chocolate Mousse,mousse,10.00,Light chocolate mousse
+26,filling,Raspberry Jam,raspberry,5.00,Sweet raspberry preserves
+27,filling,Lemon Curd,lemon-curd,6.00,Tangy lemon curd
+28,filling,Pastry Cream,custard,7.00,Classic vanilla pastry cream
+29,filling,Caramel,caramel,8.00,Rich salted caramel
+30,decoration,Simple (message only),simple,0.00,Piped border and message
+31,decoration,Moderate (flowers/design),moderate,15.00,Buttercream flowers or simple design
+32,decoration,Elaborate (detailed design),elaborate,35.00,Complex piping and decorations
+33,decoration,Custom (themed/sculpted),custom,60.00,Custom themed or 3D elements
+34,decoration,Photo Cake,photo,20.00,Edible image printed on cake

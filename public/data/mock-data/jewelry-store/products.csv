@@ -1,0 +1,201 @@
+id,name,category,subcategory,price,description,material,gemstone,carat_weight,metal_purity,dimensions_json,in_stock,stock_quantity,engravable,gift_wrap_eligible,rating,review_count
+JWL-001,Eternal Love Solitaire Ring,Rings,Engagement,4999.99,Classic solitaire engagement ring with brilliant cut diamond,White Gold,Diamond,1.0,14K,"{""band_width_mm"": 2.5, ""setting_height_mm"": 7}",1,3,1,1,4.0,1229
+JWL-002,Vintage Halo Engagement Ring,Rings,Engagement,6499.99,Vintage-inspired halo setting with center diamond surrounded by smaller stones,Platinum,Diamond,1.25,950,"{""band_width_mm"": 2.8, ""setting_height_mm"": 8}",1,2,1,1,5.0,3080
+JWL-003,Three Stone Anniversary Ring,Rings,Anniversary,3299.99,Past present and future design with three graduated diamonds,White Gold,Diamond,0.75,18K,"{""band_width_mm"": 3, ""setting_height_mm"": 5}",1,4,1,1,4.7,838
+JWL-004,Classic Gold Wedding Band,Rings,Wedding Band,899.99,Timeless polished gold wedding band for him or her,Gold,None,,14K,"{""band_width_mm"": 4, ""thickness_mm"": 1.5}",1,12,1,1,4.5,4131
+JWL-005,Platinum Wedding Band,Rings,Wedding Band,1499.99,Premium platinum wedding band with comfort fit,Platinum,None,,950,"{""band_width_mm"": 5, ""thickness_mm"": 2}",1,8,1,1,4.6,4261
+JWL-006,Rose Gold Eternity Band,Rings,Eternity,2199.99,Beautiful rose gold band with diamonds all around,Rose Gold,Diamond,0.5,14K,"{""band_width_mm"": 2.2, ""setting_height_mm"": 3}",1,5,0,1,4.4,3100
+JWL-007,Sapphire Cocktail Ring,Rings,Fashion,2899.99,Stunning blue sapphire surrounded by diamond accents,White Gold,Sapphire,2.5,18K,"{""band_width_mm"": 3.5, ""setting_height_mm"": 10}",1,3,0,1,4.6,4530
+JWL-008,Ruby Statement Ring,Rings,Fashion,3499.99,Bold ruby center stone with pavé diamond band,Gold,Ruby,2.0,18K,"{""band_width_mm"": 4, ""setting_height_mm"": 9}",1,2,0,1,4.9,3605
+JWL-009,Emerald Art Deco Ring,Rings,Fashion,4199.99,Art deco inspired emerald ring with geometric diamond details,Platinum,Emerald,1.75,950,"{""band_width_mm"": 3.8, ""setting_height_mm"": 8}",0,0,0,1,4.4,522
+JWL-010,Pearl Solitaire Ring,Rings,Fashion,799.99,Elegant freshwater pearl on a delicate gold band,Gold,Pearl,,14K,"{""band_width_mm"": 1.5, ""pearl_diameter_mm"": 8}",1,6,1,1,4.9,1070
+JWL-011,Diamond Pendant Necklace,Necklaces,Pendant,1299.99,Solitaire diamond pendant on delicate chain,White Gold,Diamond,0.5,14K,"{""chain_length_inches"": 18, ""pendant_size_mm"": 6}",1,7,0,1,4.4,834
+JWL-012,Pearl Strand Necklace,Necklaces,Strand,2499.99,Classic strand of cultured Akoya pearls with gold clasp,Gold,Pearl,,14K,"{""length_inches"": 18, ""pearl_size_mm"": 7}",1,4,0,1,4.2,4113
+JWL-013,Heart Locket Necklace,Necklaces,Locket,599.99,Gold heart locket that holds two photos,Gold,None,,14K,"{""chain_length_inches"": 20, ""locket_size_mm"": 20}",1,9,1,1,4.1,3219
+JWL-014,Emerald Drop Pendant,Necklaces,Pendant,1899.99,Teardrop emerald surrounded by diamond halo,White Gold,Emerald,1.2,18K,"{""chain_length_inches"": 16, ""pendant_length_mm"": 18}",1,3,0,1,4.6,4200
+JWL-015,Layered Chain Necklace Set,Necklaces,Chain,449.99,Set of three delicate gold chains at different lengths,Gold,None,,14K,"{""lengths_inches"": [16, 18, 20]}",1,15,0,1,4.3,1539
+JWL-016,Diamond Tennis Necklace,Necklaces,Tennis,8999.99,Stunning line of graduated diamonds,White Gold,Diamond,5.0,18K,"{""length_inches"": 17, ""stone_count"": 85}",1,2,0,1,4.4,450
+JWL-017,Sapphire Station Necklace,Necklaces,Station,1599.99,Delicate chain with sapphire stations throughout,White Gold,Sapphire,1.5,14K,"{""length_inches"": 18, ""stone_count"": 7}",1,5,0,1,4.6,1578
+JWL-018,Choker Pearl Necklace,Necklaces,Choker,899.99,Modern pearl choker on gold wire,Gold,Pearl,,14K,"{""length_inches"": 14, ""pearl_size_mm"": 6}",1,6,0,1,4.9,1407
+JWL-019,Diamond Stud Earrings,Earrings,Studs,1999.99,Classic round brilliant diamond studs,White Gold,Diamond,1.0,14K,"{""diameter_mm"": 5.2}",1,8,0,1,4.3,681
+JWL-020,Pearl Drop Earrings,Earrings,Drops,699.99,Elegant pearl drops on gold posts,Gold,Pearl,,14K,"{""drop_length_mm"": 25, ""pearl_size_mm"": 9}",1,10,0,1,4.5,894
+JWL-021,Gold Hoop Earrings,Earrings,Hoops,349.99,Classic gold hoops medium size,Gold,None,,14K,"{""diameter_mm"": 25, ""thickness_mm"": 2.5}",1,18,0,1,5.0,4837
+JWL-022,Diamond Huggie Earrings,Earrings,Huggies,899.99,Small hoops encrusted with diamonds,White Gold,Diamond,0.25,14K,"{""diameter_mm"": 12, ""width_mm"": 3}",1,7,0,1,4.7,550
+JWL-023,Sapphire Chandelier Earrings,Earrings,Chandelier,2299.99,Dramatic sapphire and diamond chandelier drops,White Gold,Sapphire,2.0,18K,"{""drop_length_mm"": 55}",1,3,0,1,4.1,3797
+JWL-024,Ruby Stud Earrings,Earrings,Studs,1499.99,Vibrant ruby studs with diamond accents,Gold,Ruby,1.0,18K,"{""diameter_mm"": 6}",1,4,0,1,4.8,2763
+JWL-025,Emerald Cluster Earrings,Earrings,Cluster,1799.99,Emerald clusters surrounded by diamonds,White Gold,Emerald,1.5,14K,"{""diameter_mm"": 10}",0,0,0,1,4.3,3644
+JWL-026,Gold Crawler Earrings,Earrings,Crawlers,299.99,Modern ear crawlers in polished gold,Gold,None,,14K,"{""length_mm"": 22}",1,12,0,1,4.2,706
+JWL-027,Diamond Tennis Bracelet,Bracelets,Tennis,4999.99,Classic diamond tennis bracelet with secure clasp,White Gold,Diamond,3.0,14K,"{""length_inches"": 7, ""width_mm"": 3.5}",1,4,0,1,4.8,460
+JWL-028,Gold Bangle Bracelet,Bracelets,Bangle,799.99,Solid gold bangle with hidden clasp,Gold,None,,14K,"{""inner_diameter_mm"": 65, ""width_mm"": 6}",1,9,1,1,4.9,2246
+JWL-029,Charm Bracelet Starter,Bracelets,Charm,399.99,Sterling silver charm bracelet with two starter charms,Silver,None,,925,"{""length_inches"": 7.5, ""charm_count"": 2}",1,15,1,1,4.4,1573
+JWL-030,Pearl Strand Bracelet,Bracelets,Strand,599.99,Freshwater pearl bracelet with gold clasp,Gold,Pearl,,14K,"{""length_inches"": 7, ""pearl_size_mm"": 6}",1,8,0,1,4.7,626
+JWL-031,Cuff Bracelet Gold,Bracelets,Cuff,1199.99,Wide hammered gold cuff bracelet,Gold,None,,14K,"{""inner_diameter_mm"": 60, ""width_mm"": 25}",1,5,1,1,5.0,4571
+JWL-032,Diamond Link Bracelet,Bracelets,Link,3299.99,Elegant link bracelet with diamond accents,White Gold,Diamond,1.0,18K,"{""length_inches"": 7.5, ""link_width_mm"": 8}",1,3,0,1,4.7,2483
+JWL-033,Ruby Line Bracelet,Bracelets,Tennis,2899.99,Stunning line of rubies with diamond spacers,Gold,Ruby,2.5,18K,"{""length_inches"": 7, ""width_mm"": 4}",1,2,0,1,4.5,3011
+JWL-034,Rose Gold Chain Bracelet,Bracelets,Chain,449.99,Delicate rose gold chain bracelet,Rose Gold,None,,14K,"{""length_inches"": 7, ""chain_width_mm"": 2}",1,14,0,1,4.7,388
+JWL-035,Rolex Datejust Watch,Watches,Luxury,9999.99,Iconic Rolex Datejust in stainless steel and gold,Two-Tone,None,,N/A,"{""case_diameter_mm"": 41, ""water_resistance_m"": 100}",1,2,0,1,4.5,3449
+JWL-036,Cartier Tank Watch,Watches,Luxury,7499.99,Classic Cartier Tank in white gold,White Gold,None,,18K,"{""case_width_mm"": 25, ""case_length_mm"": 31}",1,1,0,1,4.6,735
+JWL-037,Omega Seamaster Watch,Watches,Luxury,5999.99,Professional diving watch in stainless steel,Stainless Steel,None,,N/A,"{""case_diameter_mm"": 42, ""water_resistance_m"": 300}",1,3,0,1,4.4,756
+JWL-038,Tag Heuer Carrera Watch,Watches,Luxury,4499.99,Sporty chronograph in titanium,Titanium,None,,N/A,"{""case_diameter_mm"": 44, ""water_resistance_m"": 100}",1,4,1,1,4.9,1312
+JWL-039,Ladies Diamond Watch,Watches,Fashion,2299.99,Elegant ladies watch with diamond bezel,White Gold,Diamond,0.5,14K,"{""case_diameter_mm"": 28, ""water_resistance_m"": 30}",1,5,0,1,4.6,2569
+JWL-040,Gold Dress Watch,Watches,Fashion,1599.99,Classic gold dress watch with leather strap,Gold,None,,18K,"{""case_diameter_mm"": 36, ""strap_width_mm"": 18}",1,6,1,1,4.1,4434
+JWL-041,Minimalist Silver Watch,Watches,Fashion,399.99,Modern minimalist watch in sterling silver,Silver,None,,925,"{""case_diameter_mm"": 38, ""water_resistance_m"": 50}",1,12,0,1,4.4,4859
+JWL-042,Signet Ring Mens,Rings,Signet,699.99,Classic mens signet ring ready for custom engraving,Gold,None,,14K,"{""face_width_mm"": 12, ""band_width_mm"": 4}",1,7,1,1,4.0,70
+JWL-043,Diamond Cluster Ring,Rings,Fashion,1899.99,Floral diamond cluster on white gold band,White Gold,Diamond,0.75,14K,"{""band_width_mm"": 2.5, ""cluster_diameter_mm"": 12}",1,4,0,1,4.1,1068
+JWL-044,Mens Titanium Band,Rings,Wedding Band,299.99,Modern brushed titanium wedding band,Titanium,None,,N/A,"{""band_width_mm"": 6, ""thickness_mm"": 2.5}",1,15,1,1,4.1,189
+JWL-045,Infinity Necklace,Necklaces,Pendant,549.99,Delicate infinity symbol pendant with diamonds,White Gold,Diamond,0.15,14K,"{""chain_length_inches"": 18, ""pendant_width_mm"": 15}",1,11,0,1,5.0,2815
+JWL-046,Birthstone Pendant - January,Necklaces,Birthstone,399.99,Garnet birthstone pendant for January,Gold,Garnet,0.75,14K,"{""chain_length_inches"": 18, ""pendant_size_mm"": 8}",1,6,0,1,4.1,4410
+JWL-047,Inside-Out Hoop Earrings,Earrings,Hoops,1299.99,Diamond hoops with stones on inside and outside,White Gold,Diamond,1.0,14K,"{""diameter_mm"": 20, ""width_mm"": 3}",1,5,0,1,4.5,3787
+JWL-048,Mens Gold Chain Necklace,Necklaces,Chain,1899.99,Bold Cuban link chain in solid gold,Gold,None,,14K,"{""length_inches"": 22, ""link_width_mm"": 6}",1,4,0,1,4.8,3208
+JWL-049,Princess Cut Engagement Ring,Rings,Engagement,5499.99,Modern princess cut diamond solitaire setting,White Gold,Diamond,1.0,14K,"{""band_width_mm"": 2.5, ""setting_height_mm"": 7}",1,4,1,1,4.1,323
+JWL-050,Cushion Cut Halo Ring,Rings,Engagement,7299.99,Cushion cut center with double halo,Platinum,Diamond,1.5,950,"{""band_width_mm"": 3, ""setting_height_mm"": 9}",1,2,1,1,4.1,1738
+JWL-051,Oval Diamond Engagement Ring,Rings,Engagement,6199.99,Elongating oval cut with hidden halo,White Gold,Diamond,1.25,18K,"{""band_width_mm"": 2.8, ""setting_height_mm"": 8}",1,3,1,1,4.8,3364
+JWL-052,Pear Shaped Diamond Ring,Rings,Engagement,5799.99,Elegant pear cut with pavé band,Platinum,Diamond,1.1,950,"{""band_width_mm"": 2.5, ""setting_height_mm"": 8}",1,2,1,1,4.2,4765
+JWL-053,Marquise Vintage Ring,Rings,Engagement,4899.99,Vintage marquise with milgrain detail,Rose Gold,Diamond,0.9,14K,"{""band_width_mm"": 2.8, ""setting_height_mm"": 7}",1,3,1,1,4.4,4918
+JWL-054,Asscher Cut Art Deco Ring,Rings,Engagement,8499.99,Step cut asscher with baguette accents,Platinum,Diamond,1.75,950,"{""band_width_mm"": 3.2, ""setting_height_mm"": 8}",1,1,1,1,4.6,2731
+JWL-055,Radiant Cut Three Stone,Rings,Engagement,6999.99,Radiant center with trapezoid sides,White Gold,Diamond,1.4,18K,"{""band_width_mm"": 3, ""setting_height_mm"": 7}",1,2,1,1,4.4,474
+JWL-056,Bezel Set Engagement Ring,Rings,Engagement,4599.99,Modern bezel setting for active lifestyle,Platinum,Diamond,0.85,950,"{""band_width_mm"": 2.2, ""setting_height_mm"": 5}",1,4,1,1,4.2,1506
+JWL-057,Split Shank Diamond Ring,Rings,Engagement,5299.99,Round center with split pavé shank,White Gold,Diamond,1.0,14K,"{""band_width_mm"": 4, ""setting_height_mm"": 7}",1,3,1,1,4.8,1588
+JWL-058,Twisted Band Engagement Ring,Rings,Engagement,4799.99,Romantic twisted band with round center,Rose Gold,Diamond,0.9,14K,"{""band_width_mm"": 3.5, ""setting_height_mm"": 7}",1,4,1,1,4.7,468
+JWL-059,Micropavé Wedding Band,Rings,Wedding Band,1299.99,Delicate band covered in micropavé diamonds,White Gold,Diamond,0.35,14K,"{""band_width_mm"": 1.8, ""setting_height_mm"": 2}",1,10,0,1,4.7,2506
+JWL-060,Mens Diamond Wedding Band,Rings,Wedding Band,1799.99,Bold mens band with channel set diamonds,White Gold,Diamond,0.5,14K,"{""band_width_mm"": 6, ""thickness_mm"": 2}",1,6,1,1,4.2,1588
+JWL-061,Milgrain Wedding Band,Rings,Wedding Band,799.99,Classic band with milgrain edge detail,Gold,None,,14K,"{""band_width_mm"": 3, ""thickness_mm"": 1.5}",1,15,1,1,4.8,3193
+JWL-062,Two Tone Wedding Band,Rings,Wedding Band,1099.99,White and yellow gold two tone design,Two-Tone,None,,14K,"{""band_width_mm"": 5, ""thickness_mm"": 2}",1,8,1,1,4.8,3237
+JWL-063,Hammered Finish Band,Rings,Wedding Band,699.99,Artisan hammered texture gold band,Gold,None,,14K,"{""band_width_mm"": 4, ""thickness_mm"": 1.8}",1,12,1,1,4.2,3804
+JWL-064,Sapphire Eternity Band,Rings,Eternity,2599.99,Blue sapphires all around in white gold,White Gold,Sapphire,1.5,14K,"{""band_width_mm"": 2.5, ""setting_height_mm"": 3}",1,4,0,1,4.5,836
+JWL-065,Ruby Eternity Band,Rings,Eternity,2799.99,Vibrant rubies set all around,Gold,Ruby,1.5,18K,"{""band_width_mm"": 2.5, ""setting_height_mm"": 3}",1,3,0,1,4.0,4521
+JWL-066,Emerald Eternity Band,Rings,Eternity,3099.99,Lush emeralds circling the band,Platinum,Emerald,1.75,950,"{""band_width_mm"": 2.8, ""setting_height_mm"": 3}",1,2,0,1,4.9,4234
+JWL-067,Alternating Stone Eternity,Rings,Eternity,2399.99,Diamonds alternating with sapphires,White Gold,Multi,1.25,14K,"{""band_width_mm"": 2.2, ""setting_height_mm"": 3}",1,5,0,1,4.9,4175
+JWL-068,Wide Diamond Eternity Band,Rings,Eternity,4299.99,Three row diamond eternity band,Platinum,Diamond,2.0,950,"{""band_width_mm"": 5, ""setting_height_mm"": 4}",1,2,0,1,4.9,963
+JWL-069,Cocktail Statement Ring,Rings,Fashion,2899.99,Bold statement ring with blue topaz center stone,White Gold,Blue Topaz,5.0,14K,"{""band_width_mm"": 4, ""setting_height_mm"": 12}",1,3,0,1,4.6,2208
+JWL-070,Ruby Cocktail Ring,Rings,Fashion,4299.99,Elegant ruby surrounded by diamond halo,Yellow Gold,Ruby,2.5,18K,"{""band_width_mm"": 3.5, ""setting_height_mm"": 10}",1,2,0,1,4.2,3727
+JWL-071,Aquamarine Fashion Ring,Rings,Fashion,1899.99,Emerald cut aquamarine with diamond accents,White Gold,Aquamarine,3.0,14K,"{""band_width_mm"": 3, ""setting_height_mm"": 8}",1,4,0,1,4.8,1316
+JWL-072,Stackable Diamond Ring,Rings,Stackable,699.99,Delicate diamond band for stacking,Rose Gold,Diamond,0.15,14K,"{""band_width_mm"": 1.5, ""setting_height_mm"": 2}",1,12,0,1,4.2,938
+JWL-073,Twisted Stackable Band,Rings,Stackable,449.99,Elegant twisted band with small diamonds,Yellow Gold,Diamond,0.1,14K,"{""band_width_mm"": 1.8, ""setting_height_mm"": 2}",1,15,0,1,4.7,1070
+JWL-074,Beaded Stackable Ring,Rings,Stackable,299.99,Classic beaded gold band for stacking,Yellow Gold,None,0,14K,"{""band_width_mm"": 1.5, ""setting_height_mm"": 1.5}",1,20,0,1,4.6,3453
+JWL-075,Birthstone January Garnet Ring,Rings,Birthstone,599.99,January birthstone ring with garnet,White Gold,Garnet,1.0,14K,"{""band_width_mm"": 2, ""setting_height_mm"": 5}",1,6,1,1,4.2,3532
+JWL-076,Birthstone February Amethyst Ring,Rings,Birthstone,549.99,February birthstone ring with amethyst,Rose Gold,Amethyst,1.2,14K,"{""band_width_mm"": 2, ""setting_height_mm"": 5}",1,6,1,1,4.1,1580
+JWL-077,Birthstone March Aquamarine Ring,Rings,Birthstone,749.99,March birthstone ring with aquamarine,White Gold,Aquamarine,1.0,14K,"{""band_width_mm"": 2, ""setting_height_mm"": 5}",1,5,1,1,4.4,2740
+JWL-078,Birthstone April Diamond Ring,Rings,Birthstone,1299.99,April birthstone ring with diamond,White Gold,Diamond,0.5,14K,"{""band_width_mm"": 2, ""setting_height_mm"": 5}",1,4,1,1,4.3,4459
+JWL-079,Birthstone May Emerald Ring,Rings,Birthstone,1199.99,May birthstone ring with emerald,Yellow Gold,Emerald,0.8,14K,"{""band_width_mm"": 2, ""setting_height_mm"": 5}",1,4,1,1,4.1,4765
+JWL-080,Birthstone June Pearl Ring,Rings,Birthstone,499.99,June birthstone ring with freshwater pearl,White Gold,Pearl,0,14K,"{""band_width_mm"": 2, ""setting_height_mm"": 8}",1,7,0,1,4.2,2036
+JWL-081,Birthstone July Ruby Ring,Rings,Birthstone,1099.99,July birthstone ring with ruby,Rose Gold,Ruby,0.75,14K,"{""band_width_mm"": 2, ""setting_height_mm"": 5}",1,5,1,1,4.2,409
+JWL-082,Birthstone August Peridot Ring,Rings,Birthstone,549.99,August birthstone ring with peridot,Yellow Gold,Peridot,1.0,14K,"{""band_width_mm"": 2, ""setting_height_mm"": 5}",1,6,1,1,4.1,3972
+JWL-083,Birthstone September Sapphire Ring,Rings,Birthstone,1299.99,September birthstone ring with blue sapphire,White Gold,Sapphire,0.8,14K,"{""band_width_mm"": 2, ""setting_height_mm"": 5}",1,4,1,1,4.7,2288
+JWL-084,Birthstone October Opal Ring,Rings,Birthstone,699.99,October birthstone ring with Australian opal,Rose Gold,Opal,1.5,14K,"{""band_width_mm"": 2, ""setting_height_mm"": 5}",1,5,0,1,4.8,652
+JWL-085,Birthstone November Citrine Ring,Rings,Birthstone,499.99,November birthstone ring with citrine,Yellow Gold,Citrine,1.2,14K,"{""band_width_mm"": 2, ""setting_height_mm"": 5}",1,7,1,1,4.5,2832
+JWL-086,Birthstone December Tanzanite Ring,Rings,Birthstone,899.99,December birthstone ring with tanzanite,White Gold,Tanzanite,1.0,14K,"{""band_width_mm"": 2, ""setting_height_mm"": 5}",1,5,1,1,4.1,1879
+JWL-087,Diamond Solitaire Pendant,Necklaces,Pendants,1499.99,Classic round diamond solitaire pendant,White Gold,Diamond,0.5,18K,"{""chain_length_inches"": 18, ""pendant_diameter_mm"": 5}",1,8,0,1,4.0,1749
+JWL-088,Heart Diamond Pendant,Necklaces,Pendants,1899.99,Heart-shaped diamond pendant on delicate chain,White Gold,Diamond,0.75,14K,"{""chain_length_inches"": 16, ""pendant_width_mm"": 8}",1,5,1,1,4.5,1281
+JWL-089,Pearl Drop Pendant,Necklaces,Pendants,599.99,Elegant freshwater pearl pendant with diamond bail,White Gold,Pearl,0,14K,"{""chain_length_inches"": 18, ""pearl_diameter_mm"": 9}",1,10,0,1,4.3,3689
+JWL-090,Sapphire Halo Pendant,Necklaces,Pendants,2199.99,Blue sapphire surrounded by diamond halo,White Gold,Sapphire,1.5,18K,"{""chain_length_inches"": 18, ""pendant_diameter_mm"": 10}",1,4,0,1,4.3,3989
+JWL-091,Emerald Teardrop Pendant,Necklaces,Pendants,2799.99,Teardrop emerald pendant with diamond accent,Yellow Gold,Emerald,1.2,18K,"{""chain_length_inches"": 16, ""pendant_length_mm"": 15}",1,3,0,1,5.0,2573
+JWL-092,Ruby Heart Pendant,Necklaces,Pendants,1699.99,Ruby heart pendant perfect for Valentines,Rose Gold,Ruby,1.0,14K,"{""chain_length_inches"": 16, ""pendant_width_mm"": 10}",1,6,1,1,4.9,4543
+JWL-093,Cross Diamond Pendant,Necklaces,Pendants,899.99,Classic cross pendant with diamond accents,White Gold,Diamond,0.25,14K,"{""chain_length_inches"": 18, ""pendant_length_mm"": 20}",1,12,0,1,4.5,4549
+JWL-094,Infinity Diamond Pendant,Necklaces,Pendants,749.99,Infinity symbol pendant with diamonds,Rose Gold,Diamond,0.2,14K,"{""chain_length_inches"": 16, ""pendant_width_mm"": 15}",1,10,0,1,4.6,3602
+JWL-095,Initial Letter Pendant,Necklaces,Pendants,399.99,Personalized initial pendant with diamond accent,Yellow Gold,Diamond,0.05,14K,"{""chain_length_inches"": 16, ""pendant_height_mm"": 12}",1,25,1,1,4.5,4761
+JWL-096,Classic Box Chain,Necklaces,Chains,349.99,Classic box chain in 18 inch length,Yellow Gold,None,0,14K,"{""chain_length_inches"": 18, ""chain_width_mm"": 1}",1,20,0,1,4.1,1312
+JWL-097,Rope Chain Necklace,Necklaces,Chains,499.99,Twisted rope chain design,Yellow Gold,None,0,14K,"{""chain_length_inches"": 20, ""chain_width_mm"": 2}",1,15,0,1,4.6,253
+JWL-098,Cuban Link Chain,Necklaces,Chains,1299.99,Bold Cuban link chain,Yellow Gold,None,0,14K,"{""chain_length_inches"": 22, ""chain_width_mm"": 5}",1,8,0,1,4.6,772
+JWL-099,Singapore Chain,Necklaces,Chains,299.99,Delicate Singapore twist chain,Rose Gold,None,0,14K,"{""chain_length_inches"": 16, ""chain_width_mm"": 1}",1,25,0,1,4.9,1945
+JWL-100,Figaro Chain,Necklaces,Chains,599.99,Classic Italian Figaro pattern,Yellow Gold,None,0,14K,"{""chain_length_inches"": 20, ""chain_width_mm"": 3}",1,12,0,1,4.2,1667
+JWL-101,Paperclip Chain Necklace,Necklaces,Chains,449.99,Trendy paperclip link design,Yellow Gold,None,0,14K,"{""chain_length_inches"": 18, ""chain_width_mm"": 3}",1,18,0,1,4.6,4281
+JWL-102,Choker Diamond Tennis,Necklaces,Chokers,3999.99,Diamond tennis style choker,White Gold,Diamond,3.0,18K,"{""chain_length_inches"": 14, ""stone_count"": 50}",1,2,0,1,4.1,1441
+JWL-103,Pearl Choker Necklace,Necklaces,Chokers,899.99,Classic freshwater pearl choker,White Gold,Pearl,0,14K,"{""chain_length_inches"": 15, ""pearl_count"": 35}",1,6,0,1,4.5,3835
+JWL-104,Velvet Diamond Choker,Necklaces,Chokers,1299.99,Black velvet choker with diamond pendant,White Gold,Diamond,0.5,14K,"{""chain_length_inches"": 13, ""pendant_width_mm"": 10}",1,4,0,1,4.4,575
+JWL-105,Layered Chain Set,Necklaces,Layered,799.99,Set of 3 layered chains at different lengths,Yellow Gold,None,0,14K,"{""chain_lengths_inches"": [14, 16, 18]}",1,10,0,1,4.3,3677
+JWL-106,Layered Pendant Set,Necklaces,Layered,1199.99,Layered necklaces with moon star and sun pendants,Rose Gold,Diamond,0.15,14K,"{""chain_lengths_inches"": [14, 16, 20]}",1,7,0,1,4.7,4135
+JWL-107,Diamond Stud Earrings 0.25ct,Earrings,Studs,599.99,Classic diamond studs total 0.25 carat,White Gold,Diamond,0.25,14K,"{""diameter_mm"": 3}",1,20,0,1,4.1,2682
+JWL-108,Diamond Stud Earrings 0.5ct,Earrings,Studs,1199.99,Classic diamond studs total 0.5 carat,White Gold,Diamond,0.5,14K,"{""diameter_mm"": 4}",1,15,0,1,4.4,3038
+JWL-109,Diamond Stud Earrings 1ct,Earrings,Studs,2999.99,Classic diamond studs total 1 carat,White Gold,Diamond,1.0,14K,"{""diameter_mm"": 5}",1,8,0,1,4.1,3225
+JWL-110,Diamond Stud Earrings 2ct,Earrings,Studs,7999.99,Luxury diamond studs total 2 carats,Platinum,Diamond,2.0,950Pt,"{""diameter_mm"": 6.5}",1,3,0,1,4.7,3715
+JWL-111,Pearl Stud Earrings,Earrings,Studs,299.99,Classic freshwater pearl studs,White Gold,Pearl,0,14K,"{""pearl_diameter_mm"": 7}",1,25,0,1,4.3,1776
+JWL-112,Sapphire Stud Earrings,Earrings,Studs,899.99,Blue sapphire studs with diamond halo,White Gold,Sapphire,1.0,14K,"{""diameter_mm"": 6}",1,10,0,1,4.2,3843
+JWL-113,Ruby Stud Earrings,Earrings,Studs,799.99,Deep red ruby studs,Yellow Gold,Ruby,0.8,14K,"{""diameter_mm"": 5}",1,8,0,1,4.2,2518
+JWL-114,Emerald Stud Earrings,Earrings,Studs,999.99,Vibrant green emerald studs,Yellow Gold,Emerald,0.9,14K,"{""diameter_mm"": 5}",1,7,0,1,5.0,2015
+JWL-115,Diamond Drop Earrings,Earrings,Drops,1899.99,Elegant diamond drop earrings,White Gold,Diamond,0.75,18K,"{""drop_length_mm"": 25}",1,6,0,1,4.8,2455
+JWL-116,Pearl Drop Earrings,Earrings,Drops,499.99,Classic pearl drop on diamond bail,White Gold,Pearl,0,14K,"{""drop_length_mm"": 30}",1,12,0,1,4.5,448
+JWL-117,Sapphire Teardrop Earrings,Earrings,Drops,2299.99,Teardrop sapphires with diamond accents,White Gold,Sapphire,2.0,18K,"{""drop_length_mm"": 28}",1,4,0,1,4.9,2531
+JWL-118,Emerald Chandelier Earrings,Earrings,Drops,3499.99,Stunning emerald chandelier design,Yellow Gold,Emerald,3.0,18K,"{""drop_length_mm"": 45}",1,2,0,1,4.9,1328
+JWL-119,Opal Dangle Earrings,Earrings,Drops,899.99,Australian opal dangles with diamonds,White Gold,Opal,2.0,14K,"{""drop_length_mm"": 32}",1,5,0,1,4.2,1512
+JWL-120,Amethyst Drop Earrings,Earrings,Drops,649.99,Deep purple amethyst drops,Rose Gold,Amethyst,2.5,14K,"{""drop_length_mm"": 25}",1,8,0,1,4.7,4872
+JWL-121,Small Diamond Hoop Earrings,Earrings,Hoops,799.99,Small diamond hoops 15mm diameter,White Gold,Diamond,0.25,14K,"{""diameter_mm"": 15}",1,12,0,1,4.5,1604
+JWL-122,Medium Diamond Hoop Earrings,Earrings,Hoops,1199.99,Medium diamond hoops 25mm diameter,White Gold,Diamond,0.5,14K,"{""diameter_mm"": 25}",1,10,0,1,4.3,4144
+JWL-123,Large Diamond Hoop Earrings,Earrings,Hoops,1699.99,Large diamond hoops 35mm diameter,White Gold,Diamond,0.75,14K,"{""diameter_mm"": 35}",1,6,0,1,4.4,4398
+JWL-124,Classic Gold Hoops Small,Earrings,Hoops,249.99,Classic small gold hoops,Yellow Gold,None,0,14K,"{""diameter_mm"": 15}",1,25,0,1,4.2,2136
+JWL-125,Classic Gold Hoops Medium,Earrings,Hoops,349.99,Classic medium gold hoops,Yellow Gold,None,0,14K,"{""diameter_mm"": 25}",1,20,0,1,4.8,918
+JWL-126,Classic Gold Hoops Large,Earrings,Hoops,449.99,Classic large gold hoops,Yellow Gold,None,0,14K,"{""diameter_mm"": 40}",1,15,0,1,4.8,4272
+JWL-127,Rose Gold Twisted Hoops,Earrings,Hoops,399.99,Twisted rose gold hoops,Rose Gold,None,0,14K,"{""diameter_mm"": 30}",1,18,0,1,4.4,897
+JWL-128,Diamond Huggie Earrings,Earrings,Huggies,699.99,Small diamond huggies that hug the earlobe,White Gold,Diamond,0.2,14K,"{""diameter_mm"": 12}",1,15,0,1,4.8,2575
+JWL-129,Sapphire Huggie Earrings,Earrings,Huggies,599.99,Blue sapphire huggies,White Gold,Sapphire,0.3,14K,"{""diameter_mm"": 12}",1,10,0,1,4.5,2137
+JWL-130,Plain Gold Huggies,Earrings,Huggies,299.99,Classic gold huggie hoops,Yellow Gold,None,0,14K,"{""diameter_mm"": 10}",1,22,0,1,4.1,4725
+JWL-131,Diamond Ear Climbers,Earrings,Climbers,899.99,Diamond ear climbers that follow ear curve,White Gold,Diamond,0.3,14K,"{""length_mm"": 20}",1,8,0,1,4.7,3270
+JWL-132,Star Ear Climbers,Earrings,Climbers,549.99,Graduated stars climbing ear,Rose Gold,Diamond,0.15,14K,"{""length_mm"": 18}",1,10,0,1,4.1,4765
+JWL-133,Leaf Ear Climbers,Earrings,Climbers,499.99,Nature-inspired leaf climbers,Yellow Gold,None,0,14K,"{""length_mm"": 22}",1,12,0,1,4.4,3811
+JWL-134,Diamond Tennis Bracelet 3ct,Bracelets,Tennis,4999.99,Classic diamond tennis bracelet 3 carats,White Gold,Diamond,3.0,18K,"{""length_inches"": 7, ""stone_count"": 45}",1,4,0,1,4.6,4495
+JWL-135,Diamond Tennis Bracelet 5ct,Bracelets,Tennis,7999.99,Stunning diamond tennis bracelet 5 carats,White Gold,Diamond,5.0,18K,"{""length_inches"": 7, ""stone_count"": 55}",1,3,0,1,4.6,922
+JWL-136,Diamond Tennis Bracelet 7ct,Bracelets,Tennis,12999.99,Luxury diamond tennis bracelet 7 carats,Platinum,Diamond,7.0,950Pt,"{""length_inches"": 7, ""stone_count"": 65}",1,2,0,1,4.0,4036
+JWL-137,Sapphire Tennis Bracelet,Bracelets,Tennis,3499.99,Alternating sapphire and diamond bracelet,White Gold,Sapphire,4.0,18K,"{""length_inches"": 7, ""stone_count"": 40}",1,3,0,1,4.5,674
+JWL-138,Ruby Tennis Bracelet,Bracelets,Tennis,3299.99,Classic ruby tennis bracelet,Yellow Gold,Ruby,3.5,18K,"{""length_inches"": 7, ""stone_count"": 38}",1,3,0,1,4.3,1734
+JWL-139,Emerald Tennis Bracelet,Bracelets,Tennis,4299.99,Elegant emerald tennis bracelet,Yellow Gold,Emerald,4.5,18K,"{""length_inches"": 7, ""stone_count"": 42}",1,2,0,1,4.4,768
+JWL-140,Diamond Bangle Bracelet,Bracelets,Bangles,2499.99,Diamond bangle with hinged opening,White Gold,Diamond,1.5,18K,"{""inner_diameter_mm"": 60}",1,5,0,1,4.7,4505
+JWL-141,Classic Gold Bangle,Bracelets,Bangles,899.99,Classic solid gold bangle,Yellow Gold,None,0,14K,"{""inner_diameter_mm"": 62}",1,10,1,1,4.4,1257
+JWL-142,Rose Gold Bangle Set,Bracelets,Bangles,599.99,Set of 3 thin rose gold bangles,Rose Gold,None,0,14K,"{""inner_diameter_mm"": 64}",1,12,0,1,5.0,2988
+JWL-143,Twisted Gold Bangle,Bracelets,Bangles,699.99,Elegant twisted gold bangle,Yellow Gold,None,0,14K,"{""inner_diameter_mm"": 62}",1,8,0,1,4.0,2221
+JWL-144,Diamond Cuff Bracelet,Bracelets,Cuffs,3299.99,Open cuff bracelet with diamond ends,White Gold,Diamond,1.0,18K,"{""inner_diameter_mm"": 55, ""opening_mm"": 25}",1,3,0,1,4.3,401
+JWL-145,Wide Gold Cuff,Bracelets,Cuffs,1499.99,Wide polished gold cuff bracelet,Yellow Gold,None,0,14K,"{""width_mm"": 25, ""inner_diameter_mm"": 55}",1,5,1,1,4.1,4606
+JWL-146,Hammered Silver Cuff,Bracelets,Cuffs,299.99,Artisan hammered silver cuff,Sterling Silver,None,0,925,"{""width_mm"": 20, ""inner_diameter_mm"": 58}",1,15,0,1,4.8,1566
+JWL-147,Link Chain Bracelet,Bracelets,Chain,799.99,Classic link chain bracelet,Yellow Gold,None,0,14K,"{""length_inches"": 7.5, ""link_width_mm"": 5}",1,10,1,1,4.0,2969
+JWL-148,Charm Bracelet Base,Bracelets,Chain,499.99,Chain bracelet base for adding charms,Sterling Silver,None,0,925,"{""length_inches"": 7}",1,20,1,1,4.2,1056
+JWL-149,Paperclip Chain Bracelet,Bracelets,Chain,449.99,Trendy paperclip link bracelet,Yellow Gold,None,0,14K,"{""length_inches"": 7, ""link_width_mm"": 4}",1,15,0,1,4.4,533
+JWL-150,Pearl Strand Bracelet,Bracelets,Chain,399.99,Single strand freshwater pearl bracelet,White Gold,Pearl,0,14K,"{""length_inches"": 7.5, ""pearl_diameter_mm"": 6}",1,12,0,1,4.0,732
+JWL-151,Luxury Diamond Watch Mens,Watches,Luxury,8999.99,Mens luxury watch with diamond bezel,White Gold,Diamond,2.0,18K,"{""case_diameter_mm"": 42, ""band_width_mm"": 20}",1,2,0,1,4.2,905
+JWL-152,Luxury Diamond Watch Womens,Watches,Luxury,7499.99,Womens luxury watch with diamond dial,White Gold,Diamond,1.5,18K,"{""case_diameter_mm"": 28, ""band_width_mm"": 14}",1,3,0,1,4.9,1782
+JWL-153,Classic Gold Dress Watch,Watches,Fashion,2999.99,Elegant gold dress watch,Yellow Gold,None,0,14K,"{""case_diameter_mm"": 38, ""band_width_mm"": 18}",1,5,0,1,4.2,3302
+JWL-154,Rose Gold Fashion Watch,Watches,Fashion,1499.99,Rose gold watch with mother of pearl dial,Rose Gold,None,0,14K,"{""case_diameter_mm"": 32, ""band_width_mm"": 16}",1,8,0,1,4.0,958
+JWL-155,Diamond Bezel Sport Watch,Watches,Fashion,3499.99,Sport style watch with diamond bezel,Stainless Steel,Diamond,1.0,316L,"{""case_diameter_mm"": 40, ""band_width_mm"": 20}",1,4,0,1,4.1,266
+JWL-156,Mens Signet Ring,Mens,Rings,899.99,Classic mens signet ring engravable,Yellow Gold,None,0,14K,"{""band_width_mm"": 12, ""top_diameter_mm"": 14}",1,10,1,1,4.1,4160
+JWL-157,Mens Diamond Band,Mens,Rings,1499.99,Mens wedding band with channel set diamonds,White Gold,Diamond,0.5,14K,"{""band_width_mm"": 6}",1,8,0,1,4.7,1889
+JWL-158,Mens Black Diamond Ring,Mens,Rings,1299.99,Bold mens ring with black diamonds,White Gold,Black Diamond,0.75,14K,"{""band_width_mm"": 8}",1,6,0,1,4.3,3309
+JWL-159,Mens Onyx Ring,Mens,Rings,799.99,Classic mens ring with black onyx,Yellow Gold,Onyx,0,14K,"{""band_width_mm"": 10, ""stone_size_mm"": 12}",1,7,0,1,4.6,1428
+JWL-160,Mens Cuban Link Chain,Mens,Chains,2499.99,Heavy Cuban link chain for men,Yellow Gold,None,0,14K,"{""chain_length_inches"": 24, ""chain_width_mm"": 8}",1,5,0,1,4.6,2680
+JWL-161,Mens Figaro Chain,Mens,Chains,1799.99,Bold Figaro chain for men,Yellow Gold,None,0,14K,"{""chain_length_inches"": 22, ""chain_width_mm"": 6}",1,6,0,1,4.5,4746
+JWL-162,Mens Rope Chain,Mens,Chains,1299.99,Classic rope chain for men,Yellow Gold,None,0,14K,"{""chain_length_inches"": 24, ""chain_width_mm"": 4}",1,8,0,1,4.4,3378
+JWL-163,Mens Cross Pendant,Mens,Pendants,699.99,Mens cross pendant with diamond accent,White Gold,Diamond,0.1,14K,"{""pendant_height_mm"": 35}",1,10,0,1,4.7,3814
+JWL-164,Diamond Cufflinks,Mens,Cufflinks,1299.99,Elegant diamond cufflinks,White Gold,Diamond,0.3,14K,"{""diameter_mm"": 15}",1,6,1,1,4.4,1720
+JWL-165,Onyx Cufflinks,Mens,Cufflinks,499.99,Classic black onyx cufflinks,Sterling Silver,Onyx,0,925,"{""diameter_mm"": 14}",1,12,0,1,4.4,4022
+JWL-166,Mother of Pearl Cufflinks,Mens,Cufflinks,399.99,Sophisticated mother of pearl cufflinks,Sterling Silver,Mother of Pearl,0,925,"{""diameter_mm"": 16}",1,10,0,1,4.8,4330
+JWL-167,Gold Bar Cufflinks,Mens,Cufflinks,799.99,Modern gold bar style cufflinks,Yellow Gold,None,0,14K,"{""length_mm"": 20, ""width_mm"": 8}",1,8,1,1,4.8,1316
+JWL-168,Mens ID Bracelet,Mens,Bracelets,699.99,Classic mens ID bracelet engravable,Sterling Silver,None,0,925,"{""length_inches"": 8.5, ""plate_length_mm"": 45}",1,10,1,1,4.4,4789
+JWL-169,Mens Leather Bracelet Gold,Mens,Bracelets,399.99,Braided leather bracelet with gold clasp,Yellow Gold,None,0,14K,"{""length_inches"": 8}",1,15,0,1,4.2,970
+JWL-170,Mens Link Bracelet,Mens,Bracelets,1499.99,Bold link bracelet for men,Yellow Gold,None,0,14K,"{""length_inches"": 8.5, ""link_width_mm"": 10}",1,6,0,1,4.1,684
+JWL-171,Vintage Cameo Brooch,Brooches,Vintage,599.99,Antique style cameo brooch,Yellow Gold,Shell,0,14K,"{""height_mm"": 45, ""width_mm"": 35}",1,5,0,1,4.5,1057
+JWL-172,Diamond Flower Brooch,Brooches,Fashion,1899.99,Elegant flower brooch with diamonds,White Gold,Diamond,1.0,18K,"{""diameter_mm"": 40}",1,4,0,1,4.0,2109
+JWL-173,Pearl Cluster Brooch,Brooches,Fashion,799.99,Classic pearl cluster brooch,White Gold,Pearl,0,14K,"{""diameter_mm"": 35}",1,6,0,1,5.0,4168
+JWL-174,Butterfly Brooch,Brooches,Fashion,999.99,Colorful butterfly with gemstones,Yellow Gold,Multi,0.5,14K,"{""wingspan_mm"": 50}",1,5,0,1,4.8,3281
+JWL-175,Bow Brooch Diamond,Brooches,Fashion,1299.99,Elegant bow brooch with diamonds,White Gold,Diamond,0.5,14K,"{""width_mm"": 45}",1,4,0,1,4.2,140
+JWL-176,Classic Tie Pin Diamond,Tie Accessories,Pins,399.99,Classic tie pin with diamond accent,White Gold,Diamond,0.05,14K,"{""length_mm"": 55}",1,12,0,1,4.2,3048
+JWL-177,Gold Bar Tie Clip,Tie Accessories,Clips,299.99,Sleek gold tie clip,Yellow Gold,None,0,14K,"{""length_mm"": 50}",1,15,1,1,4.1,754
+JWL-178,Onyx Tie Clip,Tie Accessories,Clips,249.99,Tie clip with black onyx inlay,Sterling Silver,Onyx,0,925,"{""length_mm"": 55}",1,18,0,1,4.1,4334
+JWL-179,Diamond Anklet,Anklets,Fashion,599.99,Delicate diamond station anklet,White Gold,Diamond,0.2,14K,"{""length_inches"": 10}",1,10,0,1,4.6,984
+JWL-180,Gold Chain Anklet,Anklets,Fashion,299.99,Simple gold chain anklet,Yellow Gold,None,0,14K,"{""length_inches"": 9.5}",1,20,0,1,4.9,361
+JWL-181,Pearl Station Anklet,Anklets,Fashion,349.99,Anklet with freshwater pearls,White Gold,Pearl,0,14K,"{""length_inches"": 10}",1,12,0,1,4.7,1708
+JWL-182,Charm Anklet,Anklets,Fashion,249.99,Gold anklet with small charms,Yellow Gold,None,0,14K,"{""length_inches"": 10}",1,15,0,1,4.7,892
+JWL-183,Heart Charm,Charms,Love,149.99,Heart charm for bracelet,Yellow Gold,None,0,14K,"{""diameter_mm"": 10}",1,25,1,1,4.6,3575
+JWL-184,Star Charm,Charms,Celestial,129.99,Star shaped charm,Rose Gold,None,0,14K,"{""diameter_mm"": 8}",1,30,0,1,4.8,233
+JWL-185,Moon Charm,Charms,Celestial,139.99,Crescent moon charm with diamond,White Gold,Diamond,0.02,14K,"{""length_mm"": 12}",1,20,0,1,4.4,4786
+JWL-186,Birthstone Charm January,Charms,Birthstone,179.99,January garnet birthstone charm,Yellow Gold,Garnet,0.2,14K,"{""diameter_mm"": 8}",1,15,0,1,4.3,2367
+JWL-187,Dog Paw Charm,Charms,Animals,119.99,Cute dog paw print charm,Rose Gold,None,0,14K,"{""diameter_mm"": 10}",1,20,0,1,4.7,4498
+JWL-188,Travel Airplane Charm,Charms,Travel,99.99,Airplane charm for travelers,Sterling Silver,None,0,925,"{""length_mm"": 15}",1,25,0,1,4.0,774
+JWL-189,Vintage Pearl Set,Sets,Bridal,2499.99,Pearl necklace earrings and bracelet set,White Gold,Pearl,0,14K,"{""necklace_length_inches"": 18}",1,4,0,1,4.0,135
+JWL-190,Diamond Bridal Set,Sets,Bridal,5999.99,Matching necklace and earrings with diamonds,White Gold,Diamond,2.0,18K,"{""necklace_length_inches"": 16}",1,2,0,1,4.1,3549
+JWL-191,Mother Daughter Heart Set,Sets,Family,899.99,Matching mother daughter heart necklaces,Rose Gold,Diamond,0.1,14K,"{""chain_lengths_inches"": [16, 18]}",1,8,1,1,4.3,4462
+JWL-192,Everyday Diamond Set,Sets,Fashion,1999.99,Diamond studs and pendant set,White Gold,Diamond,0.75,14K,"{""chain_length_inches"": 18}",1,6,0,1,4.3,2969
+JWL-193,Rose Gold Stack Set,Sets,Fashion,1299.99,Set of 5 stackable rose gold rings,Rose Gold,Diamond,0.25,14K,"{""ring_sizes"": ""varies""}",1,5,0,1,4.5,315
+JWL-194,Tennis Set,Sets,Fashion,8999.99,Diamond tennis necklace and bracelet set,White Gold,Diamond,8.0,18K,"{""necklace_length_inches"": 16}",1,2,0,1,4.1,3307
+JWL-195,Body Chain Gold,Body Jewelry,Chains,599.99,Delicate body chain for special occasions,Yellow Gold,None,0,14K,"{""total_length_inches"": 36}",1,6,0,1,4.3,2270
+JWL-196,Belly Button Ring Diamond,Body Jewelry,Piercings,299.99,Diamond belly button ring,White Gold,Diamond,0.1,14K,"{""bar_length_mm"": 10}",1,15,0,1,4.8,714
+JWL-197,Nose Stud Diamond,Body Jewelry,Piercings,149.99,Tiny diamond nose stud,White Gold,Diamond,0.02,14K,"{""diameter_mm"": 2}",1,25,0,1,4.4,1822
+JWL-198,Cartilage Hoop Gold,Body Jewelry,Piercings,99.99,Small gold hoop for cartilage,Yellow Gold,None,0,14K,"{""diameter_mm"": 6}",1,30,0,1,4.5,3461
+JWL-199,Tragus Stud,Body Jewelry,Piercings,129.99,Small diamond tragus stud,White Gold,Diamond,0.03,14K,"{""post_length_mm"": 6}",1,20,0,1,4.3,4718
+JWL-200,Helix Earring Set,Body Jewelry,Piercings,249.99,Set of 3 helix earrings,Rose Gold,Diamond,0.05,14K,"{""diameters_mm"": [6, 8, 10]}",1,12,0,1,4.4,948

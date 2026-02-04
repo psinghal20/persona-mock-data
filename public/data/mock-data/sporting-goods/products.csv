@@ -1,0 +1,447 @@
+id,name,brand,sport,category,price,description,specs_json,skill_level,gender,in_stock,stock_quantity
+RUN001,Air Zoom Pegasus 40,Nike,Running,Shoes,129.99,Responsive cushioning for everyday running with breathable mesh upper,"{""weight"": ""283g"", ""drop"": ""10mm"", ""cushion"": ""Zoom Air""}",All,Unisex,1,25
+RUN002,Ultraboost Light,Adidas,Running,Shoes,189.99,Light Boost midsole delivers incredible energy return,"{""weight"": ""275g"", ""drop"": ""10mm"", ""cushion"": ""Light Boost""}",Intermediate,Unisex,1,20
+RUN003,Ghost 15,Brooks,Running,Shoes,149.99,Smooth transitions and soft cushioning for neutral runners,"{""weight"": ""289g"", ""drop"": ""12mm"", ""cushion"": ""DNA LOFT""}",All,Unisex,1,30
+RUN004,Clifton 9,Hoka,Running,Shoes,144.99,Lightweight cushioning for maximum comfort on long runs,"{""weight"": ""248g"", ""drop"": ""5mm"", ""cushion"": ""EVA""}",All,Unisex,1,22
+RUN005,Vaporfly 3,Nike,Running,Shoes,259.99,Carbon plate racing shoe for competitive runners,"{""weight"": ""188g"", ""drop"": ""8mm"", ""cushion"": ""ZoomX"", ""carbon_plate"": true}",Pro,Unisex,1,10
+RUN006,Dri-FIT Running Tee,Nike,Running,Apparel,45.99,Moisture-wicking fabric keeps you cool and dry,"{""material"": ""100% Polyester"", ""fit"": ""Standard""}",All,Men,1,40
+RUN007,Own The Run Jacket,Adidas,Running,Apparel,89.99,Lightweight windproof running jacket with reflective details,"{""material"": ""Recycled Polyester"", ""water_resistant"": true}",All,Unisex,1,25
+RUN008,Forerunner 265,Garmin,Running,Accessories,449.99,GPS running watch with AMOLED display and training readiness,"{""gps"": true, ""heart_rate"": true, ""battery"": ""13 days"", ""display"": ""AMOLED""}",Intermediate,Unisex,1,15
+RUN009,Amphipod Hydration Belt,Amphipod,Running,Accessories,39.99,Adjustable belt with 2 water bottles for long runs,"{""capacity"": ""20oz"", ""bottles"": 2}",All,Unisex,1,35
+RUN010,Pro Compression Socks,CEP,Running,Accessories,59.99,Graduated compression for improved blood flow,"{""compression"": ""20-30 mmHg"", ""material"": ""Nylon blend""}",All,Unisex,1,45
+CYC001,Domane AL 5,Trek,Cycling,Bikes,1899.99,Endurance road bike with smooth ride quality,"{""frame"": ""Aluminum"", ""groupset"": ""Shimano 105"", ""speeds"": 22}",Intermediate,Unisex,1,5
+CYC002,Allez Sprint,Specialized,Cycling,Bikes,2499.99,Race-ready aluminum road bike,"{""frame"": ""E5 Aluminum"", ""groupset"": ""Shimano Ultegra"", ""speeds"": 22}",Advanced,Unisex,1,4
+CYC003,Checkpoint ALR 5,Trek,Cycling,Bikes,2299.99,Versatile gravel bike for road and off-road,"{""frame"": ""Aluminum"", ""groupset"": ""Shimano GRX"", ""speeds"": 22}",Intermediate,Unisex,1,6
+CYC004,Ballista MIPS Helmet,Bontrager,Cycling,Helmets,149.99,Aero road helmet with MIPS protection,"{""weight"": ""290g"", ""mips"": true, ""vents"": 12}",All,Unisex,1,20
+CYC005,Prevail II Vent Helmet,Specialized,Cycling,Helmets,199.99,Lightweight ventilated helmet for hot conditions,"{""weight"": ""250g"", ""mips"": true, ""vents"": 18}",Intermediate,Unisex,1,15
+CYC006,Pro Team Jersey,Rapha,Cycling,Apparel,159.99,Race-fit jersey with Italian fabric,"{""material"": ""Italian fabric"", ""fit"": ""Race"", ""pockets"": 3}",Advanced,Men,1,18
+CYC007,Core Bib Shorts,Rapha,Cycling,Apparel,139.99,Essential bib shorts with comfortable chamois,"{""material"": ""Lycra blend"", ""chamois"": ""Performance""}",All,Men,1,22
+CYC008,Edge 840,Garmin,Cycling,Accessories,399.99,GPS cycling computer with touchscreen and maps,"{""gps"": true, ""touchscreen"": true, ""battery"": ""26 hours"", ""maps"": true}",Intermediate,Unisex,1,12
+CYC009,S-Works Power Saddle,Specialized,Cycling,Accessories,299.99,Carbon railed saddle with Body Geometry,"{""width"": ""143mm"", ""rails"": ""Carbon"", ""padding"": ""Level 2""}",Advanced,Unisex,1,10
+CYC010,Kryptonite Evolution Lock,Kryptonite,Cycling,Accessories,89.99,High security U-lock for urban cycling,"{""security_rating"": ""8/10"", ""weight"": ""1.5kg""}",All,Unisex,1,30
+CMP001,Tent: Copper Spur HV UL2,Big Agnes,Camping,Tents,499.99,Ultralight 2-person backpacking tent,"{""capacity"": ""2 person"", ""weight"": ""1.19kg"", ""season"": ""3-season""}",Intermediate,Unisex,1,8
+CMP002,Tent: Blacktail 3,Kelty,Camping,Tents,199.99,Affordable 3-person camping tent,"{""capacity"": ""3 person"", ""weight"": ""2.9kg"", ""season"": ""3-season""}",Beginner,Unisex,1,15
+CMP003,Trail Lite 65L Backpack,Osprey,Camping,Backpacks,269.99,Lightweight backpacking pack with great ventilation,"{""capacity"": ""65L"", ""weight"": ""1.4kg"", ""frame"": ""Internal""}",Intermediate,Men,1,12
+CMP004,Tempest 40L Backpack,Osprey,Camping,Backpacks,189.99,Women-specific fit hiking pack,"{""capacity"": ""40L"", ""weight"": ""1.2kg"", ""frame"": ""Internal""}",Intermediate,Women,1,14
+CMP005,Cosmic 20 Sleeping Bag,Kelty,Camping,Sleeping Bags,99.99,Comfortable 20F synthetic sleeping bag,"{""temp_rating"": ""20F"", ""fill"": ""Synthetic"", ""weight"": ""1.5kg""}",Beginner,Unisex,1,20
+CMP006,Magma 15 Sleeping Bag,REI Co-op,Camping,Sleeping Bags,349.99,Premium 15F down sleeping bag for cold conditions,"{""temp_rating"": ""15F"", ""fill"": ""850-fill Down"", ""weight"": ""0.9kg""}",Advanced,Unisex,1,8
+CMP007,Moab 3 Hiking Boots,Merrell,Camping,Footwear,139.99,Versatile hiking boots with Vibram sole,"{""waterproof"": true, ""sole"": ""Vibram"", ""support"": ""Mid-cut""}",All,Men,1,25
+CMP008,Targhee III WP Boots,Keen,Camping,Footwear,174.99,Waterproof hiking boots with toe protection,"{""waterproof"": true, ""sole"": ""Rubber"", ""support"": ""Mid-cut""}",All,Women,1,20
+CMP009,Jetboil Flash Stove,Jetboil,Camping,Equipment,119.99,Fast-boiling compact camping stove,"{""boil_time"": ""100 seconds"", ""capacity"": ""1L"", ""fuel"": ""Isobutane""}",All,Unisex,1,18
+CMP010,Helinox Chair One,Helinox,Camping,Equipment,109.99,Ultralight packable camp chair,"{""weight"": ""0.9kg"", ""capacity"": ""145kg"", ""packed_size"": ""35x10x12cm""}",All,Unisex,1,22
+WTR001,Perception Pescador Pro 12,Perception,Water Sports,Kayaks,1199.99,Sit-on-top fishing kayak with stable hull,"{""length"": ""12ft"", ""width"": ""32.5in"", ""weight"": ""64lbs"", ""capacity"": ""375lbs""}",Beginner,Unisex,1,4
+WTR002,Intex Explorer K2,Intex,Water Sports,Kayaks,149.99,Inflatable 2-person recreational kayak,"{""length"": ""10ft"", ""width"": ""36in"", ""weight"": ""31lbs"", ""capacity"": ""400lbs""}",Beginner,Unisex,1,12
+WTR003,Thurso Waterwalker 10.6,Thurso,Water Sports,Paddleboards,599.99,All-around inflatable stand-up paddleboard,"{""length"": ""10.6ft"", ""width"": ""31in"", ""weight"": ""25lbs"", ""capacity"": ""260lbs""}",Beginner,Unisex,1,10
+WTR004,Rip Curl Omega 3/2 Wetsuit,Rip Curl,Water Sports,Wetsuits,169.99,Entry-level 3/2mm fullsuit for mild water,"{""thickness"": ""3/2mm"", ""material"": ""Neoprene"", ""entry"": ""Back zip""}",Beginner,Men,1,15
+WTR005,O'Neill Epic 4/3 Wetsuit,O'Neill,Water Sports,Wetsuits,249.99,Performance 4/3mm wetsuit for cooler water,"{""thickness"": ""4/3mm"", ""material"": ""Ultraflex"", ""entry"": ""Back zip""}",Intermediate,Men,1,12
+WTR006,Stohlquist Edge PFD,Stohlquist,Water Sports,Safety,89.99,Comfortable high-back life jacket for kayaking,"{""type"": ""Type III"", ""buoyancy"": ""16.5lbs"", ""pockets"": 2}",All,Unisex,1,25
+TMS001,Evolution Pro Basketball,Spalding,Team Sports,Basketballs,34.99,Indoor/outdoor composite basketball,"{""size"": ""Official"", ""material"": ""Composite leather"", ""indoor_outdoor"": true}",All,Unisex,1,40
+TMS002,Mercurial Vapor 15,Nike,Team Sports,Soccer Cleats,274.99,Speed-focused soccer cleats for firm ground,"{""surface"": ""FG"", ""upper"": ""Flyknit"", ""plate"": ""Carbon fiber""}",Advanced,Unisex,1,15
+TMS003,Copa Pure.1 FG,Adidas,Team Sports,Soccer Cleats,219.99,Premium leather soccer cleats,"{""surface"": ""FG"", ""upper"": ""K-Leather"", ""fit"": ""Classic""}",Intermediate,Unisex,1,18
+TMS004,Team Soccer Ball,Adidas,Team Sports,Soccer Balls,29.99,Machine-stitched training ball,"{""size"": ""5"", ""material"": ""TPU"", ""panels"": 32}",All,Unisex,1,50
+TMS005,Rawlings R9 Baseball Glove,Rawlings,Team Sports,Baseball,149.99,Game-ready leather baseball glove,"{""size"": ""11.5in"", ""position"": ""Infield"", ""material"": ""Leather""}",Intermediate,Unisex,1,20
+TMS006,Louisville Slugger Meta Bat,Louisville Slugger,Team Sports,Baseball,449.99,High-performance BBCOR baseball bat,"{""length"": ""33in"", ""weight"": ""-3"", ""material"": ""Composite""}",Advanced,Unisex,1,8
+FIT001,Bowflex SelectTech 552,Bowflex,Fitness,Weights,549.99,Adjustable dumbbells replace 15 sets of weights,"{""weight_range"": ""5-52.5lbs"", ""increments"": ""2.5lbs""}",All,Unisex,1,10
+FIT002,Rogue Echo Barbell,Rogue,Fitness,Weights,195.99,Olympic weightlifting barbell,"{""weight"": ""20kg"", ""length"": ""2.2m"", ""capacity"": ""700lbs""}",Intermediate,Unisex,1,12
+FIT003,Manduka PRO Yoga Mat,Manduka,Fitness,Yoga,129.99,Professional-grade 6mm yoga mat,"{""thickness"": ""6mm"", ""length"": ""71in"", ""material"": ""PVC""}",All,Unisex,1,30
+FIT004,Jade Harmony Yoga Mat,Jade,Fitness,Yoga,89.99,Natural rubber yoga mat with great grip,"{""thickness"": ""5mm"", ""length"": ""68in"", ""material"": ""Natural rubber""}",All,Unisex,1,25
+FIT005,TRX Pro4 Suspension Trainer,TRX,Fitness,Equipment,249.99,Professional suspension training system,"{""weight"": ""1.5lbs"", ""capacity"": ""350lbs"", ""anchor"": ""Included""}",Intermediate,Unisex,1,15
+FIT006,Theraband Resistance Set,Theraband,Fitness,Accessories,34.99,Set of 5 resistance bands with varying tensions,"{""bands"": 5, ""resistance_range"": ""Light to X-Heavy""}",All,Unisex,1,50
+FIT007,Assault AirBike Elite,Assault,Fitness,Cardio,999.99,Commercial-grade air bike for HIIT workouts,"{""resistance"": ""Air"", ""display"": ""LCD"", ""max_user"": ""350lbs""}",Advanced,Unisex,1,5
+FIT008,Concept2 RowErg,Concept2,Fitness,Cardio,1099.99,Gold standard indoor rowing machine,"{""resistance"": ""Air"", ""monitor"": ""PM5"", ""foldable"": true}",All,Unisex,1,6
+RUN011,Fresh Foam 1080v13,New Balance,Running,Shoes,164.99,Plush cushioning for long distance comfort,"{""weight"": ""291g"", ""drop"": ""6mm"", ""cushion"": ""Fresh Foam X""}",All,Unisex,1,28
+RUN012,Gel-Kayano 30,Asics,Running,Shoes,159.99,Stability shoe with gel cushioning technology,"{""weight"": ""309g"", ""drop"": ""10mm"", ""cushion"": ""FF Blast+"", ""stability"": true}",All,Unisex,1,24
+RUN013,Novablast 4,Asics,Running,Shoes,139.99,Bouncy responsive shoe for energetic runs,"{""weight"": ""266g"", ""drop"": ""8mm"", ""cushion"": ""FF Blast+""}",Intermediate,Unisex,1,30
+RUN014,Endorphin Speed 3,Saucony,Running,Shoes,169.99,Nylon plate trainer for speed workouts,"{""weight"": ""215g"", ""drop"": ""8mm"", ""cushion"": ""PWRRUN PB"", ""plate"": true}",Intermediate,Unisex,1,18
+RUN015,Kinvara 14,Saucony,Running,Shoes,119.99,Lightweight daily trainer with minimal drop,"{""weight"": ""213g"", ""drop"": ""4mm"", ""cushion"": ""PWRRUN""}",All,Unisex,1,32
+RUN016,Cloudmonster,On,Running,Shoes,169.99,Maximum cushioned trainer with CloudTec,"{""weight"": ""285g"", ""drop"": ""6mm"", ""cushion"": ""Helion""}",Intermediate,Unisex,1,20
+RUN017,Cloudsurfer,On,Running,Shoes,149.99,Responsive daily trainer for road running,"{""weight"": ""265g"", ""drop"": ""9mm"", ""cushion"": ""Helion""}",All,Unisex,1,25
+RUN018,Alphafly 3,Nike,Running,Shoes,284.99,Elite carbon racing super shoe,"{""weight"": ""212g"", ""drop"": ""8mm"", ""cushion"": ""ZoomX"", ""carbon_plate"": true}",Pro,Unisex,1,8
+RUN019,Metaspeed Sky Paris,Asics,Running,Shoes,249.99,Carbon plate racer for marathon racing,"{""weight"": ""195g"", ""drop"": ""5mm"", ""cushion"": ""FF Turbo"", ""carbon_plate"": true}",Pro,Unisex,1,10
+RUN020,Adizero Adios Pro 3,Adidas,Running,Shoes,249.99,Carbon rod racing flat for elite runners,"{""weight"": ""215g"", ""drop"": ""6.5mm"", ""cushion"": ""Lightstrike Pro"", ""carbon_plate"": true}",Pro,Unisex,1,12
+RUN021,Endorphin Elite,Saucony,Running,Shoes,274.99,Super shoe with carbon plate for racing,"{""weight"": ""198g"", ""drop"": ""8mm"", ""cushion"": ""PWRRUN HG"", ""carbon_plate"": true}",Pro,Unisex,1,6
+RUN022,Speedgoat 5,Hoka,Running,Shoes,154.99,Trail running shoe with Vibram Megagrip,"{""weight"": ""292g"", ""drop"": ""4mm"", ""cushion"": ""EVA"", ""terrain"": ""Trail""}",Intermediate,Unisex,1,22
+RUN023,Peregrine 13,Saucony,Running,Shoes,139.99,Versatile trail shoe with rock plate,"{""weight"": ""269g"", ""drop"": ""4mm"", ""cushion"": ""PWRRUN"", ""terrain"": ""Trail""}",Intermediate,Unisex,1,25
+RUN024,Wildhorse 8,Nike,Running,Shoes,139.99,Rugged trail shoe with aggressive traction,"{""weight"": ""284g"", ""drop"": ""8mm"", ""terrain"": ""Trail""}",All,Unisex,1,20
+RUN025,Terrex Speed Ultra,Adidas,Running,Shoes,179.99,Lightweight trail racing shoe,"{""weight"": ""245g"", ""drop"": ""6mm"", ""terrain"": ""Trail"", ""plate"": true}",Advanced,Unisex,1,15
+RUN026,Ultra Running Shorts,Nike,Running,Apparel,64.99,Lightweight shorts with built-in brief,"{""material"": ""Dri-FIT"", ""inseam"": ""5in"", ""pockets"": 3}",All,Men,1,35
+RUN027,Boston Marathon Shorts,Adidas,Running,Apparel,54.99,Split shorts for racing and training,"{""material"": ""AEROREADY"", ""inseam"": ""3in""}",All,Men,1,40
+RUN028,Flyvent Running Tee,Brooks,Running,Apparel,54.99,Ventilated mesh running shirt,"{""material"": ""Polyester mesh"", ""fit"": ""Semi-fitted""}",All,Women,1,38
+RUN029,Swiftly Tech Long Sleeve,Lululemon,Running,Apparel,88.00,Seamless long sleeve for cold weather,"{""material"": ""Nylon-Lycra"", ""fit"": ""Slim"", ""thumbholes"": true}",All,Women,1,30
+RUN030,Run Visible Vest,Brooks,Running,Apparel,89.99,High-visibility reflective running vest,"{""material"": ""Polyester"", ""reflective"": true, ""water_resistant"": true}",All,Unisex,1,25
+RUN031,Fenix 7X Pro,Garmin,Running,Accessories,899.99,Premium multisport GPS watch with solar charging,"{""gps"": true, ""heart_rate"": true, ""battery"": ""37 days"", ""solar"": true}",Pro,Unisex,1,8
+RUN032,Coros Pace 3,Coros,Running,Accessories,229.99,Lightweight GPS running watch,"{""gps"": true, ""heart_rate"": true, ""battery"": ""17 days"", ""weight"": ""39g""}",Intermediate,Unisex,1,18
+RUN033,Polar Vantage V3,Polar,Running,Accessories,599.99,Advanced multisport watch with biosensing,"{""gps"": true, ""heart_rate"": true, ""battery"": ""8 days"", ""ecg"": true}",Advanced,Unisex,1,10
+RUN034,Flipbelt Running Belt,Flipbelt,Running,Accessories,29.99,Tubular running belt for secure storage,"{""material"": ""Spandex"", ""capacity"": ""Phone + keys""}",All,Unisex,1,50
+RUN035,Goodr OG Sunglasses,Goodr,Running,Accessories,25.00,No-slip running sunglasses,"{""lens"": ""Polarized"", ""weight"": ""21g"", ""no_bounce"": true}",All,Unisex,1,60
+RUN036,Aftershokz OpenRun Pro,Shokz,Running,Accessories,179.99,Bone conduction headphones for safe running,"{""battery"": ""10 hours"", ""bluetooth"": true, ""waterproof"": ""IP55""}",All,Unisex,1,22
+RUN037,Balega Hidden Comfort Socks,Balega,Running,Accessories,16.00,Cushioned no-show running socks,"{""cushion"": ""Medium"", ""material"": ""Drynamix""}",All,Unisex,1,80
+RUN038,Injinji Trail Midweight,Injinji,Running,Accessories,18.00,Toe socks for blister prevention,"{""cushion"": ""Midweight"", ""height"": ""Crew"", ""toes"": true}",All,Unisex,1,55
+RUN039,Nathan Vaporairess Vest,Nathan,Running,Accessories,149.99,Hydration vest for long runs,"{""capacity"": ""2L"", ""storage"": ""4L"", ""flasks"": 2}",Intermediate,Women,1,18
+RUN040,Salomon ADV Skin 12,Salomon,Running,Accessories,169.99,Race vest for ultra running,"{""capacity"": ""12L"", ""flasks"": 2, ""poles"": true}",Advanced,Unisex,1,15
+CYC011,Tarmac SL7,Specialized,Cycling,Bikes,6499.99,Lightweight carbon road bike,"{""frame"": ""FACT 10r Carbon"", ""groupset"": ""Shimano Ultegra Di2"", ""speeds"": 24}",Pro,Unisex,1,3
+CYC012,Madone SLR 6,Trek,Cycling,Bikes,7499.99,Aero carbon road bike with IsoFlow technology,"{""frame"": ""OCLV 800 Carbon"", ""groupset"": ""SRAM Rival eTap AXS"", ""speeds"": 24}",Pro,Unisex,1,2
+CYC013,Diverge STR Comp,Specialized,Cycling,Bikes,4999.99,Gravel bike with Future Shock suspension,"{""frame"": ""Carbon"", ""groupset"": ""SRAM Rival eTap AXS"", ""suspension"": true}",Advanced,Unisex,1,4
+CYC014,Marlin 7,Trek,Cycling,Bikes,899.99,Hardtail mountain bike for trail riding,"{""frame"": ""Alpha Gold Aluminum"", ""groupset"": ""Shimano Deore"", ""suspension"": ""100mm""}",Beginner,Unisex,1,10
+CYC015,Stumpjumper Alloy,Specialized,Cycling,Bikes,2999.99,Full suspension trail mountain bike,"{""frame"": ""M5 Aluminum"", ""travel"": ""140mm"", ""groupset"": ""SRAM SX Eagle""}",Intermediate,Unisex,1,5
+CYC016,Orbea Gain M30,Orbea,Cycling,Bikes,4299.99,Lightweight e-road bike,"{""frame"": ""Carbon"", ""motor"": ""Mahle X35+"", ""battery"": ""360Wh""}",All,Unisex,1,4
+CYC017,Canyon Speedmax CF 8,Canyon,Cycling,Bikes,3999.99,Triathlon/TT bike,"{""frame"": ""Carbon"", ""groupset"": ""Shimano Ultegra"", ""aero"": true}",Advanced,Unisex,1,3
+CYC018,Cannondale Synapse Carbon 3,Cannondale,Cycling,Bikes,3200.00,Endurance road bike for long rides,"{""frame"": ""Carbon"", ""groupset"": ""Shimano 105"", ""tire_clearance"": ""35mm""}",Intermediate,Unisex,1,6
+CYC019,Giant Defy Advanced 2,Giant,Cycling,Bikes,2650.00,Comfortable endurance road bike,"{""frame"": ""Advanced-Grade Composite"", ""groupset"": ""Shimano 105""}",Intermediate,Unisex,1,7
+CYC020,Pinarello Dogma F,Pinarello,Cycling,Bikes,12499.99,Pro-level aero road bike,"{""frame"": ""Torayca T1100 Carbon"", ""groupset"": ""SRAM Red eTap AXS""}",Pro,Unisex,1,2
+CYC021,S-Works Evade 3,Specialized,Cycling,Helmets,279.99,Aero road helmet with MIPS,"{""weight"": ""260g"", ""mips"": true, ""vents"": 8, ""aero"": true}",Pro,Unisex,1,12
+CYC022,Giro Aether MIPS,Giro,Cycling,Helmets,249.99,Premium road helmet with spherical technology,"{""weight"": ""270g"", ""mips"": true, ""vents"": 15}",Advanced,Unisex,1,15
+CYC023,POC Ventral Air MIPS,POC,Cycling,Helmets,274.99,Well-ventilated aero helmet,"{""weight"": ""285g"", ""mips"": true, ""vents"": 14}",Advanced,Unisex,1,10
+CYC024,Bell Super Air R MIPS,Bell,Cycling,Helmets,219.99,Full face convertible MTB helmet,"{""weight"": ""420g"", ""mips"": true, ""chin_bar"": ""Removable""}",Advanced,Unisex,1,8
+CYC025,Smith Forefront 2 MIPS,Smith,Cycling,Helmets,199.99,All-mountain helmet with Koroyd,"{""weight"": ""360g"", ""mips"": true, ""visor"": true}",Intermediate,Unisex,1,14
+CYC026,Castelli Aero Race 6.0 Jersey,Castelli,Cycling,Apparel,179.99,Aero race jersey with dimpled fabric,"{""material"": ""Aero"", ""fit"": ""Race"", ""pockets"": 3}",Pro,Men,1,15
+CYC027,Assos Mille GT Jersey,Assos,Cycling,Apparel,159.00,Premium lightweight summer jersey,"{""material"": ""Type.611"", ""fit"": ""Regular"", ""pockets"": 3}",Intermediate,Men,1,18
+CYC028,Pearl Izumi Quest Jersey,Pearl Izumi,Cycling,Apparel,59.99,Value cycling jersey for training,"{""material"": ""SELECT Transfer"", ""fit"": ""Semi-form"", ""pockets"": 3}",Beginner,Men,1,30
+CYC029,Sportful Bodyfit Pro Bib,Sportful,Cycling,Apparel,189.99,High-end bib shorts for long rides,"{""material"": ""Summerweight"", ""chamois"": ""Total Comfort 3D""}",Advanced,Men,1,14
+CYC030,Machines for Freedom All-Day Short,Machines for Freedom,Cycling,Apparel,175.00,Women-specific bib shorts,"{""material"": ""Italian Lycra"", ""chamois"": ""Elastic Interface""}",Advanced,Women,1,12
+CYC031,Castelli Gabba R,Castelli,Cycling,Apparel,229.99,Foul weather cycling jacket,"{""material"": ""Gore-Tex Infinium"", ""waterproof"": true, ""breathable"": true}",All,Men,1,15
+CYC032,Gore Wear C5 GTX Jacket,Gore Wear,Cycling,Apparel,249.99,Fully waterproof cycling jacket,"{""material"": ""Gore-Tex"", ""waterproof"": true, ""sealed_seams"": true}",All,Unisex,1,12
+CYC033,Shimano RC9 Cycling Shoes,Shimano,Cycling,Shoes,399.99,Top-tier carbon road cycling shoes,"{""closure"": ""BOA"", ""sole"": ""Carbon"", ""cleat"": ""SPD-SL""}",Pro,Unisex,1,10
+CYC034,Specialized Torch 2.0,Specialized,Cycling,Shoes,189.99,Mid-range road cycling shoes,"{""closure"": ""BOA"", ""sole"": ""Composite"", ""cleat"": ""3-bolt""}",Intermediate,Unisex,1,18
+CYC035,Giro Regime,Giro,Cycling,Shoes,149.99,Value road shoes with BOA,"{""closure"": ""BOA"", ""sole"": ""Nylon"", ""cleat"": ""3-bolt""}",Beginner,Unisex,1,22
+CYC036,Five Ten Freerider Pro,Five Ten,Cycling,Shoes,149.99,Flat pedal MTB shoes with Stealth rubber,"{""closure"": ""Lace"", ""sole"": ""Stealth S1"", ""type"": ""Flat""}",Intermediate,Unisex,1,20
+CYC037,Shimano ME7 MTB Shoes,Shimano,Cycling,Shoes,199.99,Trail MTB shoes for clipless pedals,"{""closure"": ""BOA"", ""sole"": ""Carbon composite"", ""cleat"": ""SPD""}",Intermediate,Unisex,1,16
+CYC038,Wahoo Kickr Core,Wahoo,Cycling,Equipment,899.99,Smart indoor trainer with Zwift compatibility,"{""resistance"": ""1800W"", ""accuracy"": ""2%"", ""zwift"": true}",Intermediate,Unisex,1,8
+CYC039,Tacx Neo 2T,Garmin,Cycling,Equipment,1399.99,Premium direct-drive smart trainer,"{""resistance"": ""2200W"", ""accuracy"": ""1%"", ""road_feel"": true}",Advanced,Unisex,1,5
+CYC040,Zipp 303 Firecrest Wheelset,Zipp,Cycling,Accessories,2000.00,Carbon tubeless-ready wheelset,"{""depth"": ""40mm"", ""weight"": ""1355g"", ""tubeless"": true}",Advanced,Unisex,1,4
+CYC041,Shimano Dura-Ace C50 Wheelset,Shimano,Cycling,Accessories,2599.99,Top-tier carbon disc wheelset,"{""depth"": ""50mm"", ""weight"": ""1461g"", ""tubeless"": true}",Pro,Unisex,1,3
+CYC042,Continental GP5000 S TR,Continental,Cycling,Accessories,79.99,Premium tubeless road tire,"{""width"": ""28mm"", ""tpi"": 180, ""tubeless"": true}",All,Unisex,1,50
+CYC043,Vittoria Corsa Pro,Vittoria,Cycling,Accessories,89.99,High-end racing tire with graphene,"{""width"": ""26mm"", ""tpi"": 320, ""tubeless"": true}",Advanced,Unisex,1,40
+CYC044,Park Tool IB-3 Multi-Tool,Park Tool,Cycling,Accessories,29.99,Essential cycling multi-tool,"{""tools"": 17, ""weight"": ""175g""}",All,Unisex,1,60
+CYC045,Topeak Mini Morph Pump,Topeak,Cycling,Accessories,44.99,Mini pump with foot peg for leverage,"{""max_psi"": 160, ""hose"": true}",All,Unisex,1,45
+GLF001,Stealth 2 Driver,TaylorMade,Golf,Clubs,599.99,Forgiving driver with carbon face,"{""loft"": ""10.5"", ""adjustable"": true, ""shaft"": ""Graphite""}",Intermediate,Men,1,12
+GLF002,Paradym X Driver,Callaway,Golf,Clubs,549.99,High-MOI driver for straighter shots,"{""loft"": ""10.5"", ""adjustable"": true, ""ai_face"": true}",Beginner,Men,1,14
+GLF003,G430 Max Driver,Ping,Golf,Clubs,579.99,Adjustable driver with turbulators,"{""loft"": ""10.5"", ""adjustable"": true, ""face"": ""Forged""}",Intermediate,Unisex,1,10
+GLF004,Stealth 2 Fairway Wood 3W,TaylorMade,Golf,Clubs,349.99,Versatile fairway wood with carbon face,"{""loft"": ""15"", ""length"": ""43.25in""}",Intermediate,Men,1,15
+GLF005,Apex DCB Irons,Callaway,Golf,Clubs,1299.99,Game improvement iron set 5-PW,"{""clubs"": ""5-PW"", ""forged"": true, ""ai_face"": true}",Beginner,Men,1,8
+GLF006,P790 Irons,TaylorMade,Golf,Clubs,1499.99,Premium players distance irons 4-PW,"{""clubs"": ""4-PW"", ""hollow"": true, ""forged"": true}",Intermediate,Unisex,1,6
+GLF007,JPX 923 Hot Metal Pro,Mizuno,Golf,Clubs,1199.99,Forgiving irons with distance 5-PW,"{""clubs"": ""5-PW"", ""chromoly"": true}",Intermediate,Unisex,1,9
+GLF008,Spider GT Putter,TaylorMade,Golf,Clubs,349.99,Mallet putter with True Path alignment,"{""length"": ""34in"", ""head"": ""Mallet"", ""insert"": ""Pure Roll""}",All,Unisex,1,18
+GLF009,Scotty Cameron Special Select,Titleist,Golf,Clubs,449.99,Tour-proven blade putter,"{""length"": ""34in"", ""head"": ""Blade"", ""milled"": true}",Advanced,Unisex,1,10
+GLF010,Jaws Raw Wedge,Callaway,Golf,Clubs,179.99,Raw face wedge for maximum spin,"{""loft"": ""56"", ""bounce"": ""10"", ""grind"": ""S""}",Intermediate,Unisex,1,20
+GLF011,Vokey SM9 Wedge,Titleist,Golf,Clubs,189.99,Tour-preferred wedge,"{""loft"": ""58"", ""bounce"": ""8"", ""grind"": ""M""}",Advanced,Unisex,1,18
+GLF012,Pro V1 Golf Balls,Titleist,Golf,Balls,54.99,Premium tour golf ball dozen,"{""construction"": ""4-piece"", ""cover"": ""Urethane"", ""quantity"": 12}",Advanced,Unisex,1,40
+GLF013,Chrome Soft Golf Balls,Callaway,Golf,Balls,47.99,Soft feel premium ball dozen,"{""construction"": ""4-piece"", ""cover"": ""Urethane"", ""quantity"": 12}",Intermediate,Unisex,1,45
+GLF014,TP5x Golf Balls,TaylorMade,Golf,Balls,52.99,5-layer tour ball dozen,"{""construction"": ""5-piece"", ""cover"": ""Urethane"", ""quantity"": 12}",Advanced,Unisex,1,38
+GLF015,Velocity Golf Balls,Titleist,Golf,Balls,34.99,Distance ball for average golfers,"{""construction"": ""2-piece"", ""cover"": ""Ionomer"", ""quantity"": 12}",Beginner,Unisex,1,55
+GLF016,FlexTech Crossover Stand Bag,TaylorMade,Golf,Bags,249.99,Lightweight stand bag with 14-way divider,"{""divider"": ""14-way"", ""pockets"": 8, ""weight"": ""5.5lbs""}",All,Unisex,1,15
+GLF017,Fairway C Stand Bag,Callaway,Golf,Bags,229.99,Feature-rich stand bag,"{""divider"": ""4-way"", ""pockets"": 7, ""weight"": ""4.7lbs""}",All,Unisex,1,18
+GLF018,Sun Mountain C-130S Cart Bag,Sun Mountain,Golf,Bags,279.99,Premium cart bag with 14-way top,"{""divider"": ""14-way"", ""pockets"": 10, ""cart_strap"": true}",All,Unisex,1,12
+GLF019,FootJoy Pro SL Shoes,FootJoy,Golf,Shoes,169.99,Spikeless golf shoes for stability,"{""waterproof"": true, ""spikeless"": true, ""fit"": ""Standard""}",All,Men,1,22
+GLF020,Tour360 22 Shoes,Adidas,Golf,Shoes,199.99,Premium spiked golf shoes,"{""waterproof"": true, ""spikes"": true, ""boost"": true}",Intermediate,Men,1,18
+GLF021,Garmin Approach S62,Garmin,Golf,Accessories,499.99,GPS golf watch with virtual caddie,"{""gps"": true, ""courses"": ""41000+"", ""virtual_caddie"": true}",Intermediate,Unisex,1,10
+GLF022,Bushnell Pro X3 Rangefinder,Bushnell,Golf,Accessories,549.99,Premium laser rangefinder with slope,"{""range"": ""500 yards"", ""slope"": true, ""jolt"": true}",Intermediate,Unisex,1,12
+GLF023,Titleist Players 4 StaDry Stand Bag,Titleist,Golf,Bags,289.99,Waterproof stand bag,"{""divider"": ""4-way"", ""pockets"": 7, ""waterproof"": true}",All,Unisex,1,14
+GLF024,FootJoy StaSof Golf Glove,FootJoy,Golf,Accessories,28.99,Premium leather golf glove,"{""material"": ""Cabretta leather"", ""fit"": ""Tour""}",All,Men,1,60
+GLF025,SuperStroke S-Tech Grip,SuperStroke,Golf,Accessories,6.99,Standard golf grip replacement,"{""size"": ""Standard"", ""material"": ""Rubber""}",All,Unisex,1,100
+TNS001,Pure Aero Racquet,Babolat,Tennis,Racquets,229.99,Spin-friendly racquet for power players,"{""weight"": ""300g"", ""head"": ""100 sq in"", ""pattern"": ""16x19""}",Intermediate,Unisex,1,18
+TNS002,Pro Staff RF97,Wilson,Tennis,Racquets,269.99,Classic players racquet,"{""weight"": ""340g"", ""head"": ""97 sq in"", ""pattern"": ""16x19""}",Pro,Unisex,1,12
+TNS003,Ezone 100,Yonex,Tennis,Racquets,249.99,Comfortable power racquet,"{""weight"": ""300g"", ""head"": ""100 sq in"", ""pattern"": ""16x19""}",Intermediate,Unisex,1,15
+TNS004,Clash 100 V2,Wilson,Tennis,Racquets,259.99,Flexible control racquet,"{""weight"": ""295g"", ""head"": ""100 sq in"", ""flex"": ""High""}",Intermediate,Unisex,1,14
+TNS005,Radical MP,Head,Tennis,Racquets,239.99,All-court versatile racquet,"{""weight"": ""295g"", ""head"": ""98 sq in"", ""pattern"": ""16x19""}",Intermediate,Unisex,1,16
+TNS006,RPM Blast String,Babolat,Tennis,Accessories,22.99,Polyester string for spin and control,"{""gauge"": ""17"", ""length"": ""40ft"", ""material"": ""Polyester""}",Intermediate,Unisex,1,50
+TNS007,Natural Gut String,Wilson,Tennis,Accessories,44.99,Premium natural gut string,"{""gauge"": ""16"", ""length"": ""40ft"", ""material"": ""Natural gut""}",Pro,Unisex,1,30
+TNS008,Tacky Overgrip 3-Pack,Tourna,Tennis,Accessories,7.99,Absorbent overgrip for tackiness,"{""quantity"": 3, ""tacky"": true}",All,Unisex,1,80
+TNS009,Court Dri-FIT Polo,Nike,Tennis,Apparel,74.99,Breathable tennis polo shirt,"{""material"": ""Dri-FIT"", ""collar"": true, ""fit"": ""Standard""}",All,Men,1,30
+TNS010,Team Skirt,Adidas,Tennis,Apparel,44.99,Performance tennis skirt with shorts,"{""material"": ""AEROREADY"", ""length"": ""14in"", ""shorts"": true}",All,Women,1,35
+TNS011,Air Zoom Vapor 11,Nike,Tennis,Shoes,159.99,Lightweight tennis shoe for speed,"{""surface"": ""Hard court"", ""weight"": ""370g"", ""cushion"": ""Zoom Air""}",Intermediate,Men,1,20
+TNS012,Barricade 13,Adidas,Tennis,Shoes,159.99,Durable tennis shoe for baseliners,"{""surface"": ""All court"", ""durability"": ""High"", ""stability"": true}",Intermediate,Unisex,1,18
+TNS013,Gel-Resolution 9,Asics,Tennis,Shoes,149.99,Stable shoe for clay and hard courts,"{""surface"": ""All court"", ""gel"": true, ""outrigger"": true}",Intermediate,Unisex,1,22
+TNS014,Solution Speed FF 2,Asics,Tennis,Shoes,139.99,Lightweight speed-focused tennis shoe,"{""surface"": ""All court"", ""weight"": ""315g"", ""cushion"": ""FlyteFoam""}",Intermediate,Unisex,1,20
+TNS015,Court Speed FF,Asics,Tennis,Shoes,119.99,Value tennis shoe for beginners,"{""surface"": ""Hard court"", ""weight"": ""340g""}",Beginner,Unisex,1,28
+TNS016,Pure Tour Bag 12R,Babolat,Tennis,Bags,89.99,12-racquet tennis bag,"{""capacity"": ""12 racquets"", ""pockets"": 5, ""thermal"": true}",Intermediate,Unisex,1,18
+TNS017,Super Tour Bag 9R,Wilson,Tennis,Bags,99.99,9-racquet tennis bag with shoe compartment,"{""capacity"": ""9 racquets"", ""pockets"": 4, ""thermoguard"": true}",Intermediate,Unisex,1,16
+TNS018,Pro Backpack,Head,Tennis,Bags,69.99,Tennis backpack for 2 racquets,"{""capacity"": ""2 racquets"", ""pockets"": 3, ""laptop"": true}",Beginner,Unisex,1,24
+TNS019,Penn Championship Tennis Balls 3-Pack,Penn,Tennis,Balls,6.99,Extra-duty felt tennis balls,"{""quantity"": 3, ""duty"": ""Extra"", ""pressurized"": true}",All,Unisex,1,120
+TNS020,Pro Penn Marathon Balls,Penn,Tennis,Balls,8.99,Long-lasting regular duty balls,"{""quantity"": 3, ""duty"": ""Regular"", ""longevity"": ""Extended""}",Intermediate,Unisex,1,80
+SWM001,Vanquisher 2.0 Goggles,Speedo,Swimming,Goggles,29.99,Low-profile racing goggles,"{""lens"": ""Anti-fog"", ""uv_protection"": true, ""strap"": ""Silicone""}",All,Unisex,1,50
+SWM002,Swedish Goggles,Arena,Swimming,Goggles,14.99,Classic racing goggles,"{""lens"": ""Polycarbonate"", ""adjustable"": true, ""minimalist"": true}",Advanced,Unisex,1,60
+SWM003,Cobra Ultra Swipe,Arena,Swimming,Goggles,54.99,Premium racing goggles with anti-fog swipe,"{""lens"": ""Anti-fog swipe"", ""hydrodynamic"": true}",Pro,Unisex,1,30
+SWM004,LZR Pure Intent Jammer,Speedo,Swimming,Racing,349.99,Elite racing jammer for competition,"{""material"": ""LZR Pulse"", ""compression"": ""High"", ""fina"": true}",Pro,Men,1,12
+SWM005,Endurance+ Jammer,Speedo,Swimming,Training,49.99,Durable training jammer,"{""material"": ""Endurance+"", ""chlorine_resistant"": true}",All,Men,1,35
+SWM006,Flyback Training Suit,TYR,Swimming,Training,59.99,One-piece training swimsuit,"{""material"": ""Durafast Elite"", ""back"": ""Flyback""}",All,Women,1,40
+SWM007,Cutoutfit Racing Suit,Arena,Swimming,Racing,399.99,Elite womens racing suit,"{""material"": ""Carbon"", ""compression"": ""High"", ""fina"": true}",Pro,Women,1,10
+SWM008,Silicone Swim Cap,TYR,Swimming,Accessories,14.99,Durable silicone swim cap,"{""material"": ""Silicone"", ""sizes"": ""One size""}",All,Unisex,1,70
+SWM009,Alignment Kickboard,Speedo,Swimming,Training,29.99,Kickboard for technique training,"{""material"": ""EVA foam"", ""size"": ""Standard""}",All,Unisex,1,40
+SWM010,Snorkel Center-Mount,Finis,Swimming,Training,39.99,Center-mount snorkel for freestyle training,"{""purge_valve"": true, ""adjustable"": true}",Intermediate,Unisex,1,25
+SWM011,Agility Paddles,Speedo,Swimming,Training,24.99,Hand paddles for power training,"{""size"": ""Medium"", ""material"": ""Plastic"", ""holes"": true}",Intermediate,Unisex,1,35
+SWM012,Z2 Zoomers Fins,Finis,Swimming,Training,44.99,Short blade fins for kick training,"{""blade"": ""Short"", ""material"": ""Silicone""}",Intermediate,Unisex,1,28
+SWM013,Pull Buoy,TYR,Swimming,Training,19.99,Foam pull buoy for upper body focus,"{""material"": ""EVA foam"", ""buoyancy"": ""High""}",All,Unisex,1,45
+SWM014,Mesh Equipment Bag,Speedo,Swimming,Bags,24.99,Large mesh bag for swim gear,"{""capacity"": ""50L"", ""material"": ""Mesh"", ""drawstring"": true}",All,Unisex,1,40
+SWM015,Swimmer Backpack,TYR,Swimming,Bags,54.99,Backpack with wet/dry compartments,"{""capacity"": ""45L"", ""wet_pocket"": true, ""laptop"": true}",All,Unisex,1,25
+BKB001,LeBron 21,Nike,Basketball,Shoes,199.99,Cushioned shoe for all-around play,"{""cushion"": ""Zoom Air"", ""traction"": ""Herringbone"", ""support"": ""High""}",Intermediate,Men,1,20
+BKB002,Curry 11,Under Armour,Basketball,Shoes,159.99,Lightweight guard shoe for quick cuts,"{""cushion"": ""Flow"", ""traction"": ""Multidirectional"", ""weight"": ""340g""}",Intermediate,Unisex,1,22
+BKB003,KD 16,Nike,Basketball,Shoes,159.99,Versatile shoe for forwards,"{""cushion"": ""Zoom Strobel"", ""fit"": ""Sock-like""}",Intermediate,Unisex,1,24
+BKB004,Giannis Immortality 3,Nike,Basketball,Shoes,109.99,Value performance basketball shoe,"{""cushion"": ""Foam"", ""durability"": ""High"", ""weight"": ""370g""}",Beginner,Unisex,1,30
+BKB005,Harden Vol 7,Adidas,Basketball,Shoes,159.99,Stepback specialist shoe,"{""cushion"": ""Boost"", ""traction"": ""Continental"", ""support"": ""Medium""}",Intermediate,Men,1,18
+BKB006,Evolution NXT Basketball,Spalding,Basketball,Basketballs,49.99,Premium indoor game ball,"{""size"": ""Official"", ""material"": ""Composite"", ""indoor"": true}",Intermediate,Unisex,1,30
+BKB007,TF-1000 Basketball,Spalding,Basketball,Basketballs,69.99,Top-tier indoor basketball,"{""size"": ""Official"", ""material"": ""ZK Microfiber"", ""nfhs"": true}",Advanced,Unisex,1,25
+BKB008,The Rock Basketball,Goalsetter,Basketball,Equipment,599.99,In-ground basketball hoop system,"{""backboard"": ""54 in"", ""material"": ""Acrylic"", ""adjustable"": true}",All,Unisex,1,6
+BKB009,Portable Basketball Hoop,Spalding,Basketball,Equipment,349.99,Portable basketball system,"{""backboard"": ""50 in"", ""base"": ""34 gallon"", ""wheels"": true}",Beginner,Unisex,1,8
+BKB010,Shooting Sleeve,Nike,Basketball,Accessories,24.99,Compression arm sleeve,"{""material"": ""Dri-FIT"", ""compression"": true, ""uv_protection"": true}",All,Unisex,1,50
+SOC001,Predator Edge.1 FG,Adidas,Soccer,Cleats,274.99,Control-focused firm ground cleats,"{""surface"": ""FG"", ""upper"": ""Demonscale"", ""collar"": ""Mid""}",Advanced,Unisex,1,15
+SOC002,Tiempo Legend 10 Elite,Nike,Soccer,Cleats,249.99,Premium leather cleats,"{""surface"": ""FG"", ""upper"": ""K-Leather"", ""flyknit"": true}",Advanced,Unisex,1,14
+SOC003,Future Ultimate FG,Puma,Soccer,Cleats,219.99,Agility-focused cleats,"{""surface"": ""FG/AG"", ""upper"": ""FUZIONFIT+"", ""weight"": ""180g""}",Intermediate,Unisex,1,18
+SOC004,X Speedportal.1 FG,Adidas,Soccer,Cleats,249.99,Speed cleats for fast players,"{""surface"": ""FG"", ""upper"": ""Speedskin"", ""laceless"": true}",Advanced,Unisex,1,12
+SOC005,Phantom GX Elite,Nike,Soccer,Cleats,274.99,Precision striking cleats,"{""surface"": ""FG"", ""upper"": ""NikeSkin"", ""grip"": ""Gripknit""}",Pro,Unisex,1,10
+SOC006,Mundial Team TF,Adidas,Soccer,Cleats,99.99,Classic turf soccer shoes,"{""surface"": ""TF"", ""upper"": ""Leather"", ""classic"": true}",All,Unisex,1,30
+SOC007,Mercurial Superfly 9 Academy,Nike,Soccer,Cleats,99.99,Value speed cleats,"{""surface"": ""FG/MG"", ""upper"": ""Synthetic"", ""dynamic_fit"": true}",Beginner,Unisex,1,35
+SOC008,FIFA Quality Match Ball,Adidas,Soccer,Balls,164.99,Official match ball,"{""size"": ""5"", ""material"": ""PU"", ""seamless"": true, ""fifa"": ""Quality""}",Pro,Unisex,1,20
+SOC009,Tiro League Ball,Adidas,Soccer,Balls,29.99,Training soccer ball,"{""size"": ""5"", ""material"": ""TPU"", ""machine_stitched"": true}",All,Unisex,1,60
+SOC010,Flight Ball,Nike,Soccer,Balls,159.99,Aerowsculpt grooves for stable flight,"{""size"": ""5"", ""material"": ""PU"", ""aerowsculpt"": true}",Advanced,Unisex,1,25
+SOC011,Mercurial Lite Shin Guards,Nike,Soccer,Protection,34.99,Lightweight shin guards,"{""material"": ""Plastic shell"", ""foam"": true, ""weight"": ""Light""}",All,Unisex,1,45
+SOC012,Ghost Pro Shin Guards,Adidas,Soccer,Protection,24.99,Low-profile shin guards,"{""material"": ""EVA backing"", ""straps"": ""Compression""}",Intermediate,Unisex,1,50
+SOC013,Elite GK Gloves,Nike,Soccer,Gloves,169.99,Pro goalkeeper gloves with grip,"{""latex"": ""Contact"", ""cut"": ""Hybrid"", ""backhand"": ""Foam""}",Pro,Unisex,1,15
+SOC014,Predator Pro GK Gloves,Adidas,Soccer,Gloves,149.99,Match goalkeeper gloves,"{""latex"": ""URG 2.0"", ""cut"": ""Negative"", ""strap"": ""Extended""}",Advanced,Unisex,1,18
+SOC015,Junior GK Gloves,Reusch,Soccer,Gloves,39.99,Youth goalkeeper gloves,"{""latex"": ""Soft"", ""cut"": ""Flat"", ""finger_protection"": true}",Beginner,Kids,1,30
+HKY001,Vapor Hyperlite Stick,Bauer,Hockey,Sticks,329.99,Lightweight carbon hockey stick,"{""flex"": ""87"", ""blade"": ""P92"", ""weight"": ""375g""}",Advanced,Unisex,1,12
+HKY002,Ribcor Trigger 7 Pro,CCM,Hockey,Sticks,299.99,Quick release hockey stick,"{""flex"": ""85"", ""blade"": ""P29"", ""kickpoint"": ""Low""}",Advanced,Unisex,1,14
+HKY003,Supreme 3S Pro Stick,Bauer,Hockey,Sticks,249.99,Power-focused hockey stick,"{""flex"": ""87"", ""blade"": ""P28"", ""kickpoint"": ""Mid""}",Intermediate,Unisex,1,16
+HKY004,JetSpeed FT5 Pro Stick,CCM,Hockey,Sticks,279.99,Speed-focused stick,"{""flex"": ""85"", ""blade"": ""P28"", ""weight"": ""380g""}",Advanced,Unisex,1,12
+HKY005,Vapor 3X Pro Skates,Bauer,Hockey,Skates,649.99,Performance hockey skates,"{""fit"": ""Fit 2"", ""holder"": ""Tuuk LS3"", ""boot"": ""Pro""}",Advanced,Men,1,8
+HKY006,JetSpeed FT4 Pro Skates,CCM,Hockey,Skates,699.99,Speed-oriented skates,"{""fit"": ""Regular"", ""holder"": ""SpeedBlade XS"", ""boot"": ""One-piece""}",Pro,Men,1,6
+HKY007,Supreme M5 Pro Skates,Bauer,Hockey,Skates,549.99,Power-player skates,"{""fit"": ""Fit 1"", ""holder"": ""Tuuk LS Edge"", ""boot"": ""Tech mesh""}",Intermediate,Men,1,10
+HKY008,ReAkt 150 Helmet,Bauer,Hockey,Protection,249.99,Pro-level hockey helmet,"{""shell"": ""ABS"", ""liner"": ""VN foam"", ""cage"": ""Optional""}",Advanced,Unisex,1,15
+HKY009,Tacks 720 Helmet,CCM,Hockey,Protection,179.99,Multi-density protection helmet,"{""shell"": ""HDPE"", ""liner"": ""D3O"", ""visor_compatible"": true}",Intermediate,Unisex,1,18
+HKY010,Supreme 3S Pro Gloves,Bauer,Hockey,Protection,189.99,Pro-level hockey gloves,"{""palm"": ""Nash"", ""protection"": ""Pro"", ""fit"": ""Tapered""}",Advanced,Unisex,1,14
+SKI001,Mindbender 99Ti Skis,K2,Skiing,Skis,699.99,All-mountain freeride skis,"{""length"": ""177cm"", ""width"": ""99mm"", ""turn"": ""Medium""}",Advanced,Unisex,1,8
+SKI002,Enforcer 100 Skis,Nordica,Skiing,Skis,649.99,Versatile all-mountain skis,"{""length"": ""177cm"", ""width"": ""100mm"", ""profile"": ""Rocker/Camber""}",Intermediate,Unisex,1,10
+SKI003,Experience 86 Ti Skis,Rossignol,Skiing,Skis,599.99,Frontside carving skis,"{""length"": ""176cm"", ""width"": ""86mm"", ""titanal"": true}",Intermediate,Unisex,1,12
+SKI004,Blaze 104 Skis,Blizzard,Skiing,Skis,749.99,Powder-focused skis,"{""length"": ""180cm"", ""width"": ""104mm"", ""rocker"": ""Full""}",Advanced,Unisex,1,6
+SKI005,Mach 5 Ski Boots,Tecnica,Skiing,Boots,599.99,All-mountain ski boots,"{""flex"": ""130"", ""last"": ""100mm"", ""walk_mode"": true}",Advanced,Men,1,8
+SKI006,Hawx Prime 120 Boots,Atomic,Skiing,Boots,549.99,Comfortable performance boots,"{""flex"": ""120"", ""last"": ""100mm"", ""memory_fit"": true}",Intermediate,Men,1,10
+SKI007,Cochise 130 DYN Boots,Tecnica,Skiing,Boots,749.99,Freeride touring boots,"{""flex"": ""130"", ""last"": ""99mm"", ""walk_mode"": true, ""pin"": true}",Advanced,Men,1,6
+SKI008,Luv 110 LV Boots,Rossignol,Skiing,Boots,449.99,Womens narrow ski boots,"{""flex"": ""110"", ""last"": ""96mm"", ""liner"": ""Wool""}",Intermediate,Women,1,8
+SKI009,MOD5 Helmet,Oakley,Skiing,Protection,269.99,Premium ski helmet with MIPS,"{""mips"": true, ""vents"": ""Adjustable"", ""brim"": true}",Advanced,Unisex,1,15
+SKI010,Obex MIPS Helmet,POC,Skiing,Protection,199.99,Lightweight ski helmet,"{""mips"": true, ""weight"": ""450g"", ""vents"": 10}",Intermediate,Unisex,1,18
+SKI011,Flight Deck XM Goggles,Oakley,Skiing,Goggles,224.00,Wide-view ski goggles,"{""lens"": ""Prizm"", ""spherical"": true, ""anti_fog"": true}",All,Unisex,1,20
+SKI012,I/O MAG Goggles,Smith,Skiing,Goggles,299.99,Premium magnetic lens goggles,"{""lens"": ""ChromaPop"", ""magnetic"": true, ""interchange"": ""Quick""}",Advanced,Unisex,1,15
+SKI013,Kingpin M-Werks Bindings,Marker,Skiing,Bindings,699.99,Premium touring bindings,"{""din"": ""6-12"", ""weight"": ""680g"", ""pin"": true}",Advanced,Unisex,1,8
+SKI014,Attack 13 GW Bindings,Tyrolia,Skiing,Bindings,299.99,All-mountain bindings,"{""din"": ""4-13"", ""brake"": ""110mm"", ""toe"": ""Full diagonal""}",Intermediate,Unisex,1,14
+SKI015,Shift MNC 13 Bindings,Salomon,Skiing,Bindings,599.99,Hybrid touring/alpine bindings,"{""din"": ""6-13"", ""weight"": ""995g"", ""pin_tech"": true}",Advanced,Unisex,1,10
+SNB001,Custom Flying V Snowboard,Burton,Snowboarding,Boards,599.99,All-mountain freestyle board,"{""length"": ""158cm"", ""profile"": ""Flying V"", ""flex"": ""Medium""}",Intermediate,Unisex,1,10
+SNB002,Jones Mind Expander,Jones,Snowboarding,Boards,549.99,Powder surfer board,"{""length"": ""154cm"", ""profile"": ""Spoon"", ""flex"": ""Medium-soft""}",Advanced,Unisex,1,8
+SNB003,Capita DOA Snowboard,Capita,Snowboarding,Boards,499.99,All-terrain freestyle board,"{""length"": ""156cm"", ""profile"": ""Camber"", ""flex"": ""Medium""}",Intermediate,Unisex,1,12
+SNB004,Gnu Antigravity Snowboard,Gnu,Snowboarding,Boards,529.99,Asymmetrical all-mountain board,"{""length"": ""153cm"", ""profile"": ""C3"", ""asym"": true}",Intermediate,Unisex,1,10
+SNB005,Photon Step On Boots,Burton,Snowboarding,Boots,449.99,Step-on snowboard boots,"{""flex"": ""Medium"", ""lacing"": ""Step On"", ""liner"": ""Imprint 3""}",Intermediate,Men,1,10
+SNB006,Ion Boots,Burton,Snowboarding,Boots,499.99,High-performance freeride boots,"{""flex"": ""Stiff"", ""lacing"": ""BOA"", ""liner"": ""Imprint 3""}",Advanced,Men,1,8
+SNB007,Felix Boots,Burton,Snowboarding,Boots,349.99,Womens all-mountain boots,"{""flex"": ""Medium"", ""lacing"": ""BOA"", ""liner"": ""Imprint 2""}",Intermediate,Women,1,10
+SNB008,Cartel X Bindings,Burton,Snowboarding,Bindings,349.99,Response-driven bindings,"{""flex"": ""Medium-stiff"", ""baseplate"": ""Re:Flex"", ""straps"": ""Hammock""}",Advanced,Unisex,1,14
+SNB009,Union Force Bindings,Union,Snowboarding,Bindings,279.99,All-mountain bindings,"{""flex"": ""Medium"", ""baseplate"": ""Duraflex"", ""straps"": ""Exoframe""}",Intermediate,Unisex,1,16
+SNB010,Flow NX2 Bindings,Flow,Snowboarding,Bindings,199.99,Rear-entry easy bindings,"{""flex"": ""Medium"", ""entry"": ""Rear"", ""active"": true}",Beginner,Unisex,1,18
+YGA001,Reversible Mat 5mm,Lululemon,Yoga,Mats,88.00,Natural rubber yoga mat,"{""thickness"": ""5mm"", ""length"": ""71in"", ""material"": ""Natural rubber"", ""reversible"": true}",All,Unisex,1,35
+YGA002,eKO Lite Mat,Manduka,Yoga,Mats,78.00,Travel-friendly yoga mat,"{""thickness"": ""4mm"", ""length"": ""71in"", ""material"": ""Natural tree rubber""}",All,Unisex,1,40
+YGA003,Prolite Mat,Manduka,Yoga,Mats,92.00,Lightweight studio mat,"{""thickness"": ""4.7mm"", ""length"": ""71in"", ""closed_cell"": true}",Intermediate,Unisex,1,30
+YGA004,GRP Mat,Lululemon,Yoga,Mats,128.00,Hot yoga mat with grip,"{""thickness"": ""6mm"", ""length"": ""71in"", ""cork_top"": true, ""hot_yoga"": true}",Intermediate,Unisex,1,25
+YGA005,Cork Yoga Mat,Gaiam,Yoga,Mats,59.99,Eco-friendly cork surface mat,"{""thickness"": ""5mm"", ""length"": ""68in"", ""material"": ""Cork/TPE""}",All,Unisex,1,45
+YGA006,Yoga Block 2-Pack,Gaiam,Yoga,Props,19.99,High-density foam blocks,"{""material"": ""Foam"", ""size"": ""9x6x4in"", ""quantity"": 2}",All,Unisex,1,60
+YGA007,Cork Yoga Block,Manduka,Yoga,Props,22.00,Sustainable cork yoga block,"{""material"": ""Cork"", ""size"": ""9x6x4in"", ""eco"": true}",All,Unisex,1,50
+YGA008,Yoga Strap 8ft,Gaiam,Yoga,Props,12.99,Cotton yoga strap with D-ring,"{""length"": ""8ft"", ""material"": ""Cotton"", ""buckle"": ""D-ring""}",All,Unisex,1,70
+YGA009,Yoga Wheel,UpCircleSeven,Yoga,Props,39.99,Back-bending yoga wheel,"{""diameter"": ""12in"", ""width"": ""5in"", ""material"": ""ABS/TPE""}",Intermediate,Unisex,1,35
+YGA010,Meditation Cushion,Gaiam,Yoga,Props,49.99,Zafu meditation cushion,"{""fill"": ""Buckwheat"", ""diameter"": ""15in"", ""removable_cover"": true}",All,Unisex,1,30
+YGA011,Align Leggings 25in,Lululemon,Yoga,Apparel,98.00,Buttery soft yoga leggings,"{""material"": ""Nulu"", ""length"": ""25in"", ""waist"": ""High""}",All,Women,1,40
+YGA012,Wunder Train Tight,Lululemon,Yoga,Apparel,98.00,Sweat-wicking training tight,"{""material"": ""Everlux"", ""length"": ""25in"", ""pockets"": true}",All,Women,1,38
+YGA013,Swiftly Tech Racerback,Lululemon,Yoga,Apparel,68.00,Seamless training tank,"{""material"": ""Nulu/Lycra"", ""fit"": ""Slim"", ""seamless"": true}",All,Women,1,45
+YGA014,Metal Vent Tech Polo,Lululemon,Yoga,Apparel,88.00,Breathable mens training shirt,"{""material"": ""Silverescent"", ""anti_stink"": true}",All,Men,1,35
+YGA015,ABC Jogger,Lululemon,Yoga,Apparel,128.00,Versatile mens joggers,"{""material"": ""Warpstreme"", ""fit"": ""Classic"", ""pockets"": 4}",All,Men,1,30
+FIT009,Power Block Elite EXP,Power Block,Fitness,Weights,359.99,Expandable adjustable dumbbells,"{""weight_range"": ""5-50lbs"", ""expandable"": ""90lbs""}",Intermediate,Unisex,1,12
+FIT010,Rogue HR-2 Half Rack,Rogue,Fitness,Equipment,595.00,Half rack for home gym,"{""height"": ""90in"", ""depth"": ""49in"", ""capacity"": ""1000lbs""}",Advanced,Unisex,1,5
+FIT011,Rep PR-4000 Power Rack,Rep Fitness,Fitness,Equipment,699.99,Full power rack with attachments,"{""height"": ""93in"", ""depth"": ""47in"", ""hole_spacing"": ""2in""}",Advanced,Unisex,1,4
+FIT012,Titan Fitness T-3 Squat Stand,Titan,Fitness,Equipment,299.99,Space-saving squat stand,"{""height"": ""82in"", ""footprint"": ""48x48in"", ""capacity"": ""850lbs""}",Intermediate,Unisex,1,8
+FIT013,Rogue Ohio Power Bar,Rogue,Fitness,Weights,365.00,Premium powerlifting barbell,"{""weight"": ""20kg"", ""tensile"": ""205K PSI"", ""knurl"": ""Aggressive""}",Advanced,Unisex,1,10
+FIT014,CAP Olympic Weight Plates,CAP,Fitness,Weights,1.79,Cast iron weight plate per lb,"{""type"": ""Olympic"", ""material"": ""Cast iron"", ""per_lb"": true}",All,Unisex,1,200
+FIT015,Rogue Bumper Plates,Rogue,Fitness,Weights,2.59,Rubber bumper plate per lb,"{""type"": ""Bumper"", ""material"": ""Rubber"", ""per_lb"": true}",Intermediate,Unisex,1,150
+FIT016,NordicTrack Commercial 1750,NordicTrack,Fitness,Cardio,1799.00,Incline treadmill with iFit,"{""incline"": ""-3 to 15%"", ""speed"": ""12 mph"", ""screen"": ""14 in"", ""ifit"": true}",All,Unisex,1,4
+FIT017,Peloton Bike+,Peloton,Fitness,Cardio,2495.00,Premium connected exercise bike,"{""screen"": ""23.8 in"", ""resistance"": ""100 levels"", ""auto_follow"": true}",All,Unisex,1,3
+FIT018,Schwinn IC4 Indoor Cycle,Schwinn,Fitness,Cardio,899.00,Connected indoor cycling bike,"{""resistance"": ""100 levels"", ""bluetooth"": true, ""dual_pedals"": true}",Intermediate,Unisex,1,6
+FIT019,Hydrow Rower,Hydrow,Fitness,Cardio,2495.00,Connected rowing machine,"{""resistance"": ""Electromagnetic"", ""screen"": ""22 in"", ""live_classes"": true}",All,Unisex,1,4
+FIT020,WaterRower Natural,WaterRower,Fitness,Cardio,1295.00,Water resistance rowing machine,"{""resistance"": ""Water"", ""material"": ""Ash wood"", ""monitor"": ""S4""}",All,Unisex,1,5
+FIT021,Rogue Echo Bike,Rogue,Fitness,Cardio,859.00,Heavy-duty air bike,"{""resistance"": ""Air"", ""weight"": ""127lbs"", ""display"": ""LCD""}",Advanced,Unisex,1,6
+FIT022,Kettlebell 35lb,Rogue,Fitness,Weights,66.00,E-coat cast iron kettlebell,"{""weight"": ""35lbs"", ""material"": ""Cast iron"", ""coating"": ""E-coat""}",Intermediate,Unisex,1,25
+FIT023,Adjustable Kettlebell,Bowflex,Fitness,Weights,199.99,6-in-1 adjustable kettlebell,"{""weight_range"": ""8-40lbs"", ""increments"": 6}",Beginner,Unisex,1,15
+FIT024,Ab Wheel Roller,Perfect Fitness,Fitness,Accessories,29.99,Core strengthening ab wheel,"{""handles"": ""Ergonomic"", ""wheel"": ""Wide"", ""knee_pad"": true}",All,Unisex,1,40
+FIT025,Pull-Up Bar Doorway,Iron Gym,Fitness,Accessories,34.99,No-screw doorway pull-up bar,"{""capacity"": ""300lbs"", ""grips"": 3, ""installation"": ""Doorway""}",All,Unisex,1,35
+FIT026,Jump Rope Speed,WOD Nation,Fitness,Accessories,19.99,Speed rope for double unders,"{""cable"": ""Steel"", ""length"": ""Adjustable"", ""handles"": ""Ball bearing""}",Intermediate,Unisex,1,50
+FIT027,Foam Roller 18in,TriggerPoint,Fitness,Recovery,34.99,High-density foam roller,"{""length"": ""18in"", ""density"": ""Firm"", ""material"": ""EVA foam""}",All,Unisex,1,45
+FIT028,Massage Gun Pro,Theragun,Fitness,Recovery,399.00,Percussive therapy device,"{""speeds"": 5, ""force"": ""60lbs"", ""battery"": ""150 min"", ""attachments"": 6}",All,Unisex,1,12
+FIT029,Hypervolt 2 Pro,Hyperice,Fitness,Recovery,349.00,Quiet percussion massager,"{""speeds"": 5, ""pressure"": ""Quiet Glide"", ""battery"": ""180 min""}",All,Unisex,1,14
+FIT030,Compex Sport Elite,Compex,Fitness,Recovery,899.00,Muscle stimulator system,"{""programs"": 10, ""channels"": 4, ""wireless"": false}",Advanced,Unisex,1,6
+CMP011,Tent: Copper Spur HV UL3,Big Agnes,Camping,Tents,599.99,3-person ultralight tent,"{""capacity"": ""3 person"", ""weight"": ""1.44kg"", ""season"": ""3-season""}",Intermediate,Unisex,1,7
+CMP012,Tent: Half Dome SL 2+,REI Co-op,Camping,Tents,299.00,Roomy 2-person tent,"{""capacity"": ""2+ person"", ""weight"": ""1.7kg"", ""season"": ""3-season""}",Beginner,Unisex,1,12
+CMP013,Tent: Hubba Hubba NX 2,MSR,Camping,Tents,499.99,Lightweight backpacking tent,"{""capacity"": ""2 person"", ""weight"": ""1.54kg"", ""season"": ""3-season""}",Intermediate,Unisex,1,9
+CMP014,Tent: Kingdom 6,REI Co-op,Camping,Tents,549.00,Family camping tent,"{""capacity"": ""6 person"", ""weight"": ""9kg"", ""season"": ""3-season"", ""rooms"": 2}",Beginner,Unisex,1,6
+CMP015,Tent: Nemo Dagger 2P,Nemo,Camping,Tents,449.99,Premium 2-person tent,"{""capacity"": ""2 person"", ""weight"": ""1.4kg"", ""season"": ""3-season""}",Intermediate,Unisex,1,8
+CMP016,Atmos AG 65 Pack,Osprey,Camping,Backpacks,319.99,Premium ventilated backpack,"{""capacity"": ""65L"", ""weight"": ""2.2kg"", ""anti_gravity"": true}",Intermediate,Men,1,10
+CMP017,Aura AG 50 Pack,Osprey,Camping,Backpacks,269.99,Womens ventilated pack,"{""capacity"": ""50L"", ""weight"": ""1.8kg"", ""anti_gravity"": true}",Intermediate,Women,1,12
+CMP018,Granite Gear Crown2 60,Granite Gear,Camping,Backpacks,199.99,Lightweight thru-hiking pack,"{""capacity"": ""60L"", ""weight"": ""1.1kg"", ""frame"": ""HDPE""}",Intermediate,Unisex,1,8
+CMP019,Gregory Baltoro 65,Gregory,Camping,Backpacks,329.99,Full-featured expedition pack,"{""capacity"": ""65L"", ""weight"": ""2.3kg"", ""suspension"": ""Response A3""}",Advanced,Men,1,7
+CMP020,Deuter Aircontact Lite 50+10,Deuter,Camping,Backpacks,249.99,Adjustable hiking pack,"{""capacity"": ""50+10L"", ""weight"": ""1.7kg"", ""women_fit"": false}",Intermediate,Unisex,1,9
+CMP021,Nemo Tensor Insulated,Nemo,Camping,Sleeping Pads,179.99,Ultralight insulated pad,"{""r_value"": ""4.2"", ""weight"": ""425g"", ""thickness"": ""3in""}",Intermediate,Unisex,1,15
+CMP022,Therm-a-Rest NeoAir XLite,Therm-a-Rest,Camping,Sleeping Pads,214.99,Premium ultralight pad,"{""r_value"": ""4.2"", ""weight"": ""340g"", ""thickness"": ""2.5in""}",Advanced,Unisex,1,12
+CMP023,Exped MegaMat 10,Exped,Camping,Sleeping Pads,239.99,Luxury camping pad,"{""r_value"": ""8.1"", ""weight"": ""2.5kg"", ""thickness"": ""4in""}",All,Unisex,1,10
+CMP024,Sea to Summit Ether Light,Sea to Summit,Camping,Sleeping Pads,169.99,Comfortable lightweight pad,"{""r_value"": ""3.2"", ""weight"": ""490g"", ""thickness"": ""4in""}",Intermediate,Unisex,1,14
+CMP025,Nemo Disco 15,Nemo,Camping,Sleeping Bags,299.99,Spoon-shaped down bag,"{""temp_rating"": ""15F"", ""fill"": ""650-fill Down"", ""weight"": ""1.1kg""}",Intermediate,Men,1,10
+CMP026,Western Mountaineering Alpinlite,Western Mountaineering,Camping,Sleeping Bags,599.99,Premium 20F down bag,"{""temp_rating"": ""20F"", ""fill"": ""850-fill Down"", ""weight"": ""0.9kg""}",Pro,Unisex,1,5
+CMP027,Sea to Summit Spark SP3,Sea to Summit,Camping,Sleeping Bags,449.99,Ultralight 18F bag,"{""temp_rating"": ""18F"", ""fill"": ""850-fill Down"", ""weight"": ""0.7kg""}",Advanced,Unisex,1,8
+CMP028,Big Agnes Anthracite 20,Big Agnes,Camping,Sleeping Bags,199.99,Affordable synthetic bag,"{""temp_rating"": ""20F"", ""fill"": ""FireLine ECO"", ""weight"": ""1.4kg""}",Beginner,Unisex,1,15
+CMP029,Enlightened Equipment Enigma,Enlightened Equipment,Camping,Sleeping Bags,319.99,Quilt-style ultralight bag,"{""temp_rating"": ""20F"", ""fill"": ""850-fill Down"", ""weight"": ""0.5kg""}",Advanced,Unisex,1,8
+CMP030,Salomon X Ultra 4 GTX,Salomon,Camping,Footwear,169.99,Waterproof hiking shoes,"{""waterproof"": true, ""sole"": ""Contagrip"", ""support"": ""Low""}",Intermediate,Unisex,1,20
+CMP031,Scarpa Zodiac Plus GTX,Scarpa,Camping,Footwear,299.99,Alpine approach boots,"{""waterproof"": true, ""sole"": ""Vibram"", ""support"": ""High""}",Advanced,Unisex,1,12
+CMP032,La Sportiva TX4,La Sportiva,Camping,Footwear,159.99,Technical approach shoes,"{""waterproof"": false, ""sole"": ""Vibram"", ""climbing_zone"": true}",Intermediate,Unisex,1,15
+CMP033,Oboz Bridger Mid BDry,Oboz,Camping,Footwear,189.99,Durable waterproof hikers,"{""waterproof"": true, ""sole"": ""BDry"", ""support"": ""Mid""}",Beginner,Unisex,1,18
+CMP034,MSR PocketRocket 2,MSR,Camping,Equipment,49.99,Ultracompact backpacking stove,"{""boil_time"": ""3.5 min"", ""weight"": ""73g"", ""fuel"": ""Canister""}",All,Unisex,1,30
+CMP035,Snow Peak GigaPower Stove,Snow Peak,Camping,Equipment,59.99,Lightweight canister stove,"{""boil_time"": ""4 min"", ""weight"": ""88g"", ""auto_ignition"": true}",All,Unisex,1,25
+CMP036,Jetboil MiniMo,Jetboil,Camping,Equipment,144.99,Regulated cooking system,"{""boil_time"": ""2.25 min"", ""capacity"": ""1L"", ""simmer"": true}",Intermediate,Unisex,1,18
+CMP037,BioLite CampStove 2,BioLite,Camping,Equipment,149.99,Wood-burning stove with USB,"{""fuel"": ""Wood"", ""usb_charging"": true, ""led_dashboard"": true}",All,Unisex,1,14
+CMP038,Sawyer Squeeze Filter,Sawyer,Camping,Equipment,39.99,Lightweight water filter,"{""capacity"": ""378541L"", ""pore_size"": ""0.1 micron"", ""weight"": ""85g""}",All,Unisex,1,40
+CMP039,Katadyn BeFree 1L,Katadyn,Camping,Equipment,44.99,Fast-flow water filter,"{""capacity"": ""1L"", ""flow_rate"": ""2L/min"", ""weight"": ""63g""}",Intermediate,Unisex,1,35
+CMP040,Petzl Actik Core Headlamp,Petzl,Camping,Equipment,79.99,Rechargeable headlamp,"{""lumens"": 600, ""battery"": ""USB-C"", ""weight"": ""75g""}",Intermediate,Unisex,1,25
+CMP041,Black Diamond Spot 400,Black Diamond,Camping,Equipment,49.99,Versatile headlamp,"{""lumens"": 400, ""battery"": ""AAA"", ""weight"": ""72g""}",All,Unisex,1,30
+CMP042,Nite Ize SlapLit LED Slap Wrap,Nite Ize,Camping,Equipment,14.99,Reflective LED bracelet,"{""modes"": 3, ""battery"": ""CR2032"", ""visibility"": ""1 mile""}",All,Unisex,1,50
+CMP043,Leatherman Signal Multi-Tool,Leatherman,Camping,Equipment,149.99,Outdoor multi-tool,"{""tools"": 19, ""weight"": ""212g"", ""fire_starter"": true}",Intermediate,Unisex,1,18
+CMP044,MSR Hubba Hubba Shield,MSR,Camping,Equipment,79.99,Tent footprint,"{""material"": ""70D Nylon"", ""waterproof"": true, ""tent"": ""Hubba Hubba""}",All,Unisex,1,25
+CMP045,Sea to Summit Ultra-Sil Dry Sack,Sea to Summit,Camping,Equipment,24.99,Waterproof stuff sack,"{""capacity"": ""8L"", ""weight"": ""25g"", ""waterproof"": true}",All,Unisex,1,40
+TMS007,A2000 1786 Baseball Glove,Wilson,Team Sports,Baseball,299.99,Pro-grade infield glove,"{""size"": ""11.5in"", ""position"": ""Infield"", ""leather"": ""Pro Stock""}",Advanced,Unisex,1,12
+TMS008,Heart of the Hide Glove,Rawlings,Team Sports,Baseball,279.99,Premium leather glove,"{""size"": ""12.75in"", ""position"": ""Outfield"", ""leather"": ""Horween""}",Advanced,Unisex,1,10
+TMS009,Demarini The Goods Bat,Demarini,Team Sports,Baseball,499.99,Two-piece hybrid BBCOR bat,"{""length"": ""33in"", ""weight"": ""-3"", ""barrel"": ""X14 Alloy""}",Pro,Unisex,1,8
+TMS010,Easton Maxum Ultra Bat,Easton,Team Sports,Baseball,449.99,One-piece composite BBCOR bat,"{""length"": ""33in"", ""weight"": ""-3"", ""seamless"": true}",Advanced,Unisex,1,10
+TMS011,Catchers Gear Set,All-Star,Team Sports,Baseball,449.99,Complete catchers set,"{""helmet"": true, ""chest"": true, ""leg_guards"": true, ""level"": ""Adult""}",Intermediate,Unisex,1,8
+TMS012,Under Armour F7 Football Gloves,Under Armour,Team Sports,Football,64.99,Sticky receiver gloves,"{""position"": ""Receiver"", ""grip"": ""GlueGrip"", ""ventilation"": true}",Intermediate,Unisex,1,25
+TMS013,Nike Vapor Jet 7.0 Gloves,Nike,Team Sports,Football,44.99,All-purpose football gloves,"{""position"": ""Skill"", ""grip"": ""Magnigrip+"", ""fit"": ""Stretch""}",All,Unisex,1,30
+TMS014,Schutt F7 2.0 Helmet,Schutt,Team Sports,Football,399.99,Premium football helmet,"{""shell"": ""TPU"", ""liner"": ""TPU cushioning"", ""facemask"": ""Included""}",Advanced,Unisex,1,10
+TMS015,Riddell SpeedFlex Helmet,Riddell,Team Sports,Football,449.99,Flexible football helmet,"{""shell"": ""Flexible"", ""technology"": ""Ratchet-Loc"", ""facemask"": ""Quick-release""}",Pro,Unisex,1,8
+TMS016,Wilson GST Football,Wilson,Team Sports,Football,119.99,Official leather game ball,"{""size"": ""Official"", ""material"": ""Leather"", ""ncaa"": true}",Advanced,Unisex,1,20
+TMS017,Sherwood BPM 150 Hockey Stick,Sherwood,Team Sports,Hockey,199.99,Mid-kick point stick,"{""flex"": ""85"", ""blade"": ""PP28"", ""lie"": ""5""}",Intermediate,Unisex,1,15
+TMS018,Warrior Alpha LX2 Gloves,Warrior,Team Sports,Hockey,159.99,Four-roll protection gloves,"{""palm"": ""AX Suede"", ""protection"": ""Max Smart"", ""fit"": ""Tapered""}",Intermediate,Unisex,1,14
+TMS019,True Catalyst 9X3 Skates,True,Team Sports,Hockey,549.99,Custom-moldable skates,"{""fit"": ""Custom"", ""holder"": ""Shift"", ""boot"": ""Moldable""}",Intermediate,Unisex,1,8
+TMS020,STX Surgeon 700 Lacrosse Head,STX,Team Sports,Lacrosse,119.99,Elite attack head,"{""position"": ""Attack"", ""strung"": false, ""sidewall"": ""Flexible""}",Advanced,Unisex,1,12
+TMS021,Maverik Tactik 3.0 Head,Maverik,Team Sports,Lacrosse,109.99,All-around midfield head,"{""position"": ""Midfield"", ""face_shape"": ""Universal"", ""release"": ""Medium""}",Intermediate,Unisex,1,15
+TMS022,StringKing Complete 2 Pro,StringKing,Team Sports,Lacrosse,249.99,Complete lacrosse stick,"{""position"": ""Midfield"", ""shaft"": ""Metal 3"", ""strung"": true}",Intermediate,Unisex,1,10
+TMS023,Cascade XRS Lacrosse Helmet,Cascade,Team Sports,Lacrosse,329.99,Premium lacrosse helmet,"{""shell"": ""ABS"", ""liner"": ""EPP"", ""visor_compatible"": true}",Advanced,Unisex,1,8
+TMS024,STX Stallion 900 Gloves,STX,Team Sports,Lacrosse,149.99,Flexible lacrosse gloves,"{""palm"": ""AX Suede"", ""protection"": ""Flexible"", ""fit"": ""Performance""}",Advanced,Unisex,1,12
+TMS025,Brine King V Arm Guards,Brine,Team Sports,Lacrosse,79.99,Arm protection pads,"{""style"": ""Arm guard"", ""protection"": ""HD foam"", ""ventilation"": true}",Intermediate,Unisex,1,18
+WTR007,Eddyline Sitka LT Kayak,Eddyline,Water Sports,Kayaks,2599.99,Lightweight touring kayak,"{""length"": ""14.5ft"", ""width"": ""24in"", ""weight"": ""44lbs"", ""material"": ""Thermoform""}",Intermediate,Unisex,1,3
+WTR008,Wilderness Systems Pungo 125,Wilderness Systems,Water Sports,Kayaks,1099.99,Recreational touring kayak,"{""length"": ""12.5ft"", ""width"": ""29in"", ""weight"": ""49lbs"", ""capacity"": ""325lbs""}",Beginner,Unisex,1,5
+WTR009,Old Town Sportsman 106,Old Town,Water Sports,Kayaks,899.99,Fishing kayak with PDL drive,"{""length"": ""10.6ft"", ""width"": ""34in"", ""weight"": ""93lbs"", ""pedal_drive"": true}",Intermediate,Unisex,1,4
+WTR010,NRS Ninja PFD,NRS,Water Sports,Safety,119.99,Low-profile kayaking PFD,"{""type"": ""Type III"", ""buoyancy"": ""16lbs"", ""pockets"": 3}",Intermediate,Unisex,1,20
+WTR011,Astral V-Eight PFD,Astral,Water Sports,Safety,129.99,Ventilated touring PFD,"{""type"": ""Type III"", ""foam"": ""PE"", ""mesh_back"": true}",Intermediate,Unisex,1,18
+WTR012,Werner Camano Paddle,Werner,Water Sports,Paddles,269.99,Fiberglass touring paddle,"{""length"": ""220cm"", ""blade"": ""Fiberglass"", ""shaft"": ""Carbon""}",Intermediate,Unisex,1,12
+WTR013,Aqua-Bound Sting Ray Paddle,Aqua-Bound,Water Sports,Paddles,99.99,Affordable touring paddle,"{""length"": ""230cm"", ""blade"": ""Fiberglass"", ""shaft"": ""Fiberglass""}",Beginner,Unisex,1,20
+WTR014,Bending Branches Whisper Paddle,Bending Branches,Water Sports,Paddles,149.99,Wood blade paddle,"{""length"": ""230cm"", ""blade"": ""Basswood"", ""shaft"": ""Fiberglass""}",Intermediate,Unisex,1,15
+WTR015,ISLE Pioneer Inflatable SUP,ISLE,Water Sports,Paddleboards,699.99,Touring inflatable SUP,"{""length"": ""11.6ft"", ""width"": ""31in"", ""weight"": ""23lbs"", ""capacity"": ""285lbs""}",Beginner,Unisex,1,8
+WTR016,Red Paddle Co Ride 10.6,Red Paddle Co,Water Sports,Paddleboards,1095.00,Premium inflatable SUP,"{""length"": ""10.6ft"", ""width"": ""32in"", ""weight"": ""20lbs"", ""msl_fusion"": true}",Intermediate,Unisex,1,5
+WTR017,Rip Curl Dawn Patrol 3/2 Wetsuit,Rip Curl,Water Sports,Wetsuits,199.99,Value fullsuit wetsuit,"{""thickness"": ""3/2mm"", ""entry"": ""Back zip"", ""seams"": ""Flatlock""}",Beginner,Men,1,14
+WTR018,ONeill Psycho Tech 5/4 Wetsuit,ONeill,Water Sports,Wetsuits,449.99,Cold water fullsuit,"{""thickness"": ""5/4mm"", ""entry"": ""Chest zip"", ""seams"": ""TechnoButter""}",Advanced,Men,1,8
+WTR019,Xcel Comp X 4/3 Wetsuit,Xcel,Water Sports,Wetsuits,349.99,Performance fullsuit,"{""thickness"": ""4/3mm"", ""entry"": ""Chest zip"", ""flex"": ""Ultra stretch""}",Intermediate,Unisex,1,10
+WTR020,Billabong Furnace 3/2 Wetsuit,Billabong,Water Sports,Wetsuits,249.99,Graphene-lined wetsuit,"{""thickness"": ""3/2mm"", ""entry"": ""Chest zip"", ""graphene"": true}",Intermediate,Men,1,12
+CLM001,Momentum DS Harness,Black Diamond,Climbing,Harnesses,64.99,All-around climbing harness,"{""type"": ""Sit"", ""gear_loops"": 4, ""weight"": ""350g""}",Beginner,Unisex,1,20
+CLM002,Solution Comp Harness,Black Diamond,Climbing,Harnesses,89.99,Competition harness,"{""type"": ""Sit"", ""gear_loops"": 2, ""weight"": ""240g""}",Advanced,Unisex,1,15
+CLM003,Petzl Corax Harness,Petzl,Climbing,Harnesses,74.99,Versatile starter harness,"{""type"": ""Sit"", ""gear_loops"": 4, ""adjustable"": ""Legs""}",Beginner,Unisex,1,18
+CLM004,Arcteryx AR-395a Harness,Arcteryx,Climbing,Harnesses,159.99,Alpine harness,"{""type"": ""Sit"", ""gear_loops"": 4, ""weight"": ""380g"", ""ice_clipper"": true}",Advanced,Unisex,1,10
+CLM005,La Sportiva Solution Comp Shoes,La Sportiva,Climbing,Shoes,189.99,Competition climbing shoes,"{""closure"": ""Velcro"", ""downturn"": ""Aggressive"", ""rubber"": ""XS Grip2""}",Advanced,Unisex,1,15
+CLM006,Scarpa Instinct VS Shoes,Scarpa,Climbing,Shoes,179.99,Sensitive bouldering shoes,"{""closure"": ""Velcro"", ""downturn"": ""Moderate"", ""rubber"": ""Vibram XS Edge""}",Intermediate,Unisex,1,18
+CLM007,Evolv Kronos Shoes,Evolv,Climbing,Shoes,99.99,All-around climbing shoes,"{""closure"": ""Velcro"", ""downturn"": ""Flat"", ""rubber"": ""Trax SAS""}",Beginner,Unisex,1,22
+CLM008,Black Diamond Zone LV Shoes,Black Diamond,Climbing,Shoes,154.99,Low volume performance shoes,"{""closure"": ""Velcro"", ""downturn"": ""Moderate"", ""rubber"": ""Neo Fuse""}",Intermediate,Unisex,1,16
+CLM009,Sterling Velocity 9.8mm Rope,Sterling,Climbing,Ropes,189.99,All-around dynamic rope,"{""diameter"": ""9.8mm"", ""length"": ""60m"", ""falls"": 8, ""dry"": true}",Intermediate,Unisex,1,12
+CLM010,Mammut 9.5 Crag Dry Rope,Mammut,Climbing,Ropes,219.99,Dry treated sport rope,"{""diameter"": ""9.5mm"", ""length"": ""60m"", ""falls"": 9, ""dry"": true}",Intermediate,Unisex,1,10
+CLM011,Petzl GriGri,Petzl,Climbing,Gear,119.99,Assisted braking belay device,"{""rope_range"": ""8.5-11mm"", ""weight"": ""175g"", ""assisted_brake"": true}",All,Unisex,1,25
+CLM012,Black Diamond ATC-XP,Black Diamond,Climbing,Gear,24.99,Tubular belay device,"{""rope_range"": ""7.7-11mm"", ""weight"": ""71g"", ""modes"": 2}",Beginner,Unisex,1,35
+CLM013,Petzl Reverso,Petzl,Climbing,Gear,32.99,Versatile belay device,"{""rope_range"": ""8.1-11mm"", ""weight"": ""59g"", ""guide_mode"": true}",Intermediate,Unisex,1,30
+CLM014,Black Diamond Positron Carabiner 6-Pack,Black Diamond,Climbing,Gear,69.99,Wiregate carabiners,"{""gate"": ""Wire"", ""strength"": ""23kN"", ""quantity"": 6}",All,Unisex,1,25
+CLM015,Petzl Spirit Express Quickdraw 6-Pack,Petzl,Climbing,Gear,99.99,Sport climbing quickdraws,"{""length"": ""12cm"", ""gate"": ""Keylock"", ""quantity"": 6}",Intermediate,Unisex,1,20
+CLM016,Petzl Meteor Helmet,Petzl,Climbing,Protection,99.99,Lightweight climbing helmet,"{""weight"": ""240g"", ""vents"": 18, ""certification"": ""CE/UIAA""}",All,Unisex,1,18
+CLM017,Black Diamond Half Dome Helmet,Black Diamond,Climbing,Protection,59.99,All-around climbing helmet,"{""weight"": ""310g"", ""vents"": 16, ""suspension"": ""Adjustable""}",Beginner,Unisex,1,22
+CLM018,Petzl Boreo Helmet,Petzl,Climbing,Protection,69.99,Durable outdoor helmet,"{""weight"": ""295g"", ""vents"": 8, ""headlamp_clips"": true}",Intermediate,Unisex,1,20
+CLM019,Metolius TCU Set 4-Pack,Metolius,Climbing,Gear,269.99,Cam set for thin cracks,"{""sizes"": ""00-1"", ""type"": ""TCU"", ""quantity"": 4}",Advanced,Unisex,1,10
+CLM020,Black Diamond Camalot C4 4-Pack,Black Diamond,Climbing,Gear,349.99,Standard cam set,"{""sizes"": ""0.5-2"", ""type"": ""Cam"", ""quantity"": 4}",Advanced,Unisex,1,8
+BOX001,Hayabusa T3 Boxing Gloves,Hayabusa,Boxing,Gloves,149.99,Premium training gloves,"{""weight"": ""16oz"", ""closure"": ""Dual-X"", ""foam"": ""Multi-layer""}",Intermediate,Unisex,1,18
+BOX002,Venum Elite Boxing Gloves,Venum,Boxing,Gloves,79.99,All-purpose boxing gloves,"{""weight"": ""14oz"", ""closure"": ""Triple Density"", ""ventilation"": true}",Beginner,Unisex,1,25
+BOX003,Rival RB1 Ultra Bag Gloves,Rival,Boxing,Gloves,69.99,Heavy bag training gloves,"{""weight"": ""16oz"", ""closure"": ""Hook & Loop"", ""padding"": ""IMF Tech""}",Intermediate,Unisex,1,20
+BOX004,Winning Training Gloves,Winning,Boxing,Gloves,499.99,Japanese pro-grade gloves,"{""weight"": ""16oz"", ""closure"": ""Lace"", ""leather"": ""Premium""}",Pro,Unisex,1,6
+BOX005,Fairtex BGV1 Muay Thai Gloves,Fairtex,Boxing,Gloves,119.99,Thai boxing gloves,"{""weight"": ""16oz"", ""closure"": ""Hook & Loop"", ""style"": ""Thai""}",Intermediate,Unisex,1,16
+BOX006,RDX F6 MMA Gloves,RDX,Boxing,Gloves,49.99,MMA sparring gloves,"{""weight"": ""7oz"", ""closure"": ""Hook & Loop"", ""open_palm"": true}",Beginner,Unisex,1,28
+BOX007,Everlast Pro Style Training,Everlast,Boxing,Gloves,39.99,Entry-level training gloves,"{""weight"": ""14oz"", ""closure"": ""Hook & Loop"", ""thumb"": ""Attached""}",Beginner,Unisex,1,35
+BOX008,Ringside 180 Handwraps,Ringside,Boxing,Accessories,12.99,Mexican-style handwraps,"{""length"": ""180in"", ""material"": ""Cotton"", ""quantity"": 1}",All,Unisex,1,80
+BOX009,Cleto Reyes Headgear,Cleto Reyes,Boxing,Protection,299.99,Pro sparring headgear,"{""material"": ""Leather"", ""cheek"": true, ""chin"": true}",Pro,Unisex,1,8
+BOX010,Rival RHG2 Headgear,Rival,Boxing,Protection,149.99,Training headgear,"{""material"": ""Leather"", ""vision"": ""Wide"", ""padding"": ""Gel""}",Intermediate,Unisex,1,14
+BOX011,Aqua Training Bag 150lb,Aqua,Boxing,Equipment,299.99,Water-filled heavy bag,"{""weight"": ""150lb filled"", ""material"": ""Vinyl"", ""water"": true}",All,Unisex,1,8
+BOX012,Outslayer 100lb Heavy Bag,Outslayer,Boxing,Equipment,199.99,Traditional heavy bag,"{""weight"": ""100lb"", ""material"": ""Leather"", ""filled"": true}",Intermediate,Unisex,1,10
+BOX013,Everlast Double-End Bag,Everlast,Boxing,Equipment,44.99,Speed and accuracy bag,"{""diameter"": ""7in"", ""straps"": ""Included"", ""bladder"": ""Rubber""}",Intermediate,Unisex,1,20
+BOX014,Title Speed Bag,Title,Boxing,Equipment,39.99,Leather speed bag,"{""size"": ""Medium"", ""material"": ""Leather"", ""swivel"": ""Not included""}",All,Unisex,1,25
+BOX015,Venum Challenger 2.0 Shin Guards,Venum,Boxing,Protection,54.99,MMA shin guards,"{""material"": ""Skintex"", ""foam"": ""High density"", ""instep"": true}",Beginner,Unisex,1,22
+VLY001,Mikasa MVA200 Volleyball,Mikasa,Volleyball,Balls,89.99,FIVB official game ball,"{""size"": ""Official"", ""material"": ""Microfiber"", ""fivb"": true}",Pro,Unisex,1,18
+VLY002,Molten FLISTATEC Volleyball,Molten,Volleyball,Balls,119.99,NCAA official match ball,"{""size"": ""Official"", ""material"": ""Microfiber"", ""ncaa"": true}",Advanced,Unisex,1,15
+VLY003,Wilson AVP Replica Ball,Wilson,Volleyball,Balls,29.99,Beach volleyball,"{""size"": ""Official"", ""material"": ""Synthetic leather"", ""outdoor"": true}",All,Unisex,1,30
+VLY004,Mizuno Wave Momentum 2,Mizuno,Volleyball,Shoes,139.99,Mid-cut volleyball shoes,"{""cushion"": ""Wave"", ""traction"": ""Rubber"", ""height"": ""Mid""}",Intermediate,Unisex,1,20
+VLY005,Asics Sky Elite FF 2,Asics,Volleyball,Shoes,159.99,Lightweight volleyball shoes,"{""cushion"": ""FlyteFoam"", ""traction"": ""AHAR+"", ""height"": ""Low""}",Intermediate,Unisex,1,18
+VLY006,Asics Gel-Tactic,Asics,Volleyball,Shoes,99.99,Value volleyball shoes,"{""cushion"": ""GEL"", ""traction"": ""NC Rubber"", ""height"": ""Low""}",Beginner,Unisex,1,25
+VLY007,Tandem Volleyball Knee Pads,Tandem,Volleyball,Protection,24.99,Standard knee pads,"{""material"": ""Neoprene"", ""padding"": ""EVA"", ""quantity"": 2}",All,Unisex,1,40
+VLY008,Asics Slider Knee Pads,Asics,Volleyball,Protection,34.99,Competition knee pads,"{""material"": ""Gel cushion"", ""profile"": ""Low"", ""quantity"": 2}",Intermediate,Unisex,1,35
+VLY009,Park & Sun Tournament Net,Park & Sun,Volleyball,Equipment,499.99,Professional outdoor net system,"{""height"": ""Adjustable"", ""poles"": ""Steel"", ""regulation"": true}",All,Unisex,1,6
+VLY010,Franklin Portable Net,Franklin,Volleyball,Equipment,89.99,Backyard volleyball net,"{""height"": ""7ft"", ""poles"": ""Steel"", ""portable"": true}",Beginner,Unisex,1,15
+PKL001,Joola Ben Johns Hyperion Paddle,Joola,Pickleball,Paddles,219.99,Pro carbon fiber paddle,"{""core"": ""Reactive Honeycomb"", ""face"": ""Carbon Friction"", ""weight"": ""8.2oz""}",Pro,Unisex,1,12
+PKL002,Selkirk Amped S2,Selkirk,Pickleball,Paddles,149.99,Control-focused paddle,"{""core"": ""X5 Polypropylene"", ""face"": ""FiberFlex"", ""weight"": ""7.9oz""}",Intermediate,Unisex,1,18
+PKL003,Engage Pursuit Pro MX,Engage,Pickleball,Paddles,179.99,Power paddle,"{""core"": ""ControlPro"", ""face"": ""Graphite"", ""weight"": ""7.9oz""}",Intermediate,Unisex,1,15
+PKL004,Onix Z5 Graphite,Onix,Pickleball,Paddles,99.99,All-around paddle,"{""core"": ""Nomex"", ""face"": ""Graphite"", ""weight"": ""7.8oz""}",Beginner,Unisex,1,25
+PKL005,Paddletek Tempest Wave Pro,Paddletek,Pickleball,Paddles,189.99,Premium control paddle,"{""core"": ""Smart Response"", ""face"": ""Graphite"", ""weight"": ""7.6oz""}",Advanced,Unisex,1,14
+PKL006,Franklin X-40 Balls 12-Pack,Franklin,Pickleball,Balls,24.99,Outdoor pickleball balls,"{""quantity"": 12, ""holes"": 40, ""outdoor"": true}",All,Unisex,1,35
+PKL007,Dura Fast 40 Balls 6-Pack,Dura,Pickleball,Balls,14.99,Tournament outdoor balls,"{""quantity"": 6, ""holes"": 40, ""usapa"": true}",Intermediate,Unisex,1,45
+PKL008,Onix Fuse Indoor Balls 6-Pack,Onix,Pickleball,Balls,12.99,Indoor pickleball balls,"{""quantity"": 6, ""holes"": 26, ""indoor"": true}",All,Unisex,1,50
+PKL009,K-Swiss Express Light 3 Shoes,K-Swiss,Pickleball,Shoes,99.99,Court shoes for pickleball,"{""sole"": ""AOSTA 7.0"", ""cushion"": ""K-EVA"", ""lateral"": true}",Intermediate,Unisex,1,20
+PKL010,Skechers Viper Court Shoes,Skechers,Pickleball,Shoes,89.99,Lightweight court shoes,"{""sole"": ""Goodyear"", ""cushion"": ""Arch Fit"", ""breathable"": true}",Beginner,Unisex,1,25
+BBM001,Miken Freak Gold Slowpitch Bat,Miken,Badminton,Bats,299.99,Maxload slowpitch softball bat,"{""length"": ""34in"", ""weight"": ""26oz"", ""barrel"": ""14in""}",Intermediate,Unisex,1,12
+BBM002,DeMarini Nautalai Slowpitch,DeMarini,Badminton,Bats,249.99,Balanced slowpitch bat,"{""length"": ""34in"", ""weight"": ""27oz"", ""composite"": true}",Intermediate,Unisex,1,14
+BBM003,Worth Krecher XL,Worth,Badminton,Bats,279.99,Power slowpitch bat,"{""length"": ""34in"", ""weight"": ""27oz"", ""maxload"": true}",Advanced,Unisex,1,10
+BBM004,Yonex Astrox 99 Pro Racquet,Yonex,Badminton,Racquets,229.99,Professional badminton racquet,"{""weight"": ""4U"", ""balance"": ""Head heavy"", ""flex"": ""Stiff""}",Pro,Unisex,1,15
+BBM005,Li-Ning Axforce 80 Racquet,Li-Ning,Badminton,Racquets,199.99,Attack racquet,"{""weight"": ""3U"", ""balance"": ""Head heavy"", ""flex"": ""Medium""}",Advanced,Unisex,1,18
+BBM006,Victor Thruster K Falcon,Victor,Badminton,Racquets,169.99,All-round racquet,"{""weight"": ""4U"", ""balance"": ""Even"", ""flex"": ""Medium""}",Intermediate,Unisex,1,20
+BBM007,Yonex Mavis 350 Shuttles,Yonex,Badminton,Shuttles,24.99,Nylon shuttlecocks tube,"{""quantity"": 6, ""material"": ""Nylon"", ""speed"": ""Medium""}",All,Unisex,1,45
+BBM008,Yonex Feather Shuttles,Yonex,Badminton,Shuttles,34.99,Tournament feather shuttles,"{""quantity"": 12, ""material"": ""Feather"", ""grade"": ""Tournament""}",Advanced,Unisex,1,30
+BDG001,Mikasa King of the Beach Ball,Mikasa,Beach,Balls,34.99,Official beach volleyball,"{""size"": ""Official"", ""material"": ""Synthetic leather"", ""avp"": true}",All,Unisex,1,25
+BDG002,Speedo Fastskin Pure Focus,Speedo,Beach,Goggles,169.99,Racing swim goggles,"{""lens"": ""Mirror"", ""gasket"": ""Silicone"", ""hydrodynamic"": true}",Pro,Unisex,1,12
+BDG003,Body Glove Vapor X Wetsuit,Body Glove,Beach,Wetsuits,179.99,Spring wetsuit 2mm,"{""thickness"": ""2mm"", ""entry"": ""Back zip"", ""seams"": ""Glued""}",Beginner,Men,1,15
+BDG004,Roxy Syncro 3/2 Womens Wetsuit,Roxy,Beach,Wetsuits,199.99,Womens spring wetsuit,"{""thickness"": ""3/2mm"", ""entry"": ""Back zip"", ""warmth"": ""Medium""}",Beginner,Women,1,14
+BDG005,Cressi Palau Snorkel Set,Cressi,Beach,Snorkeling,59.99,Mask fins snorkel combo,"{""mask"": ""Tempered glass"", ""fins"": ""Adjustable"", ""snorkel"": ""Dry top""}",Beginner,Unisex,1,20
+BDG006,Aqua Lung Sport Snorkel Set,Aqua Lung,Beach,Snorkeling,79.99,Premium snorkel package,"{""mask"": ""Pro Series"", ""fins"": ""Trek"", ""snorkel"": ""Dry""}",Intermediate,Unisex,1,15
+TBL001,JOOLA Inside 25 Table,JOOLA,Table Tennis,Tables,599.99,Tournament table tennis table,"{""thickness"": ""25mm"", ""wheels"": 8, ""folding"": true}",Advanced,Unisex,1,4
+TBL002,STIGA Advantage Table,STIGA,Table Tennis,Tables,449.99,Competition table,"{""thickness"": ""16mm"", ""wheels"": 4, ""playback"": true}",Intermediate,Unisex,1,6
+TBL003,Butterfly Timo Boll ALC Blade,Butterfly,Table Tennis,Paddles,199.99,Pro carbon blade,"{""layers"": 7, ""speed"": ""Fast"", ""control"": ""High""}",Pro,Unisex,1,10
+TBL004,Killerspin JET800 Paddle,Killerspin,Table Tennis,Paddles,149.99,Premium assembled paddle,"{""speed"": 9, ""spin"": 9, ""control"": 8.5}",Intermediate,Unisex,1,15
+TBL005,STIGA Pro Carbon Paddle,STIGA,Table Tennis,Paddles,79.99,Carbon technology paddle,"{""speed"": 8, ""spin"": 8, ""control"": 7}",Intermediate,Unisex,1,20
+TBL006,Nittaku 3-Star Balls 12-Pack,Nittaku,Table Tennis,Balls,29.99,Tournament balls,"{""quantity"": 12, ""star"": 3, ""material"": ""Plastic""}",Advanced,Unisex,1,30
+TBL007,Butterfly G40+ Balls 12-Pack,Butterfly,Table Tennis,Balls,24.99,ITTF approved balls,"{""quantity"": 12, ""star"": 3, ""ittf"": true}",Intermediate,Unisex,1,35
+ARC001,Bear Archery Cruzer G2 Bow,Bear,Archery,Bows,449.99,Ready to hunt compound bow,"{""draw_weight"": ""5-70lbs"", ""let_off"": ""70%"", ""axle"": ""30in""}",Beginner,Unisex,1,8
+ARC002,Hoyt Carbon RX-7 Bow,Hoyt,Archery,Bows,1799.99,Carbon hunting bow,"{""draw_weight"": ""40-80lbs"", ""let_off"": ""85%"", ""axle"": ""30in""}",Pro,Unisex,1,4
+ARC003,Mathews V3X 29 Bow,Mathews,Archery,Bows,1299.99,Performance compound bow,"{""draw_weight"": ""60-75lbs"", ""let_off"": ""80%"", ""axle"": ""29in""}",Advanced,Unisex,1,5
+ARC004,PSE Stinger Max Bow,PSE,Archery,Bows,399.99,Value compound bow,"{""draw_weight"": ""21-70lbs"", ""let_off"": ""80%"", ""ready"": true}",Beginner,Unisex,1,10
+ARC005,Easton Axis Arrows 6-Pack,Easton,Archery,Arrows,109.99,Carbon hunting arrows,"{""quantity"": 6, ""spine"": ""340"", ""fletching"": ""Blazer""}",Intermediate,Unisex,1,20
+ARC006,Gold Tip Hunter XT Arrows,Gold Tip,Archery,Arrows,89.99,All-around hunting arrows,"{""quantity"": 6, ""spine"": ""400"", ""nock"": ""Accu-Lite""}",Intermediate,Unisex,1,25
+ARC007,Tru-Fire Edge Release,Tru-Fire,Archery,Accessories,39.99,Wrist strap release,"{""type"": ""Wrist"", ""trigger"": ""Foldback"", ""adjustment"": true}",Beginner,Unisex,1,30
+ARC008,Spot Hogg Fast Eddie Release,Spot Hogg,Archery,Accessories,179.99,Handheld thumb release,"{""type"": ""Handheld"", ""trigger"": ""Thumb"", ""rotation"": ""360""}",Advanced,Unisex,1,12
+SKT001,Element Section Complete,Element,Skateboarding,Skateboards,149.99,Complete beginner skateboard,"{""deck"": ""8.0in"", ""trucks"": ""Element"", ""wheels"": ""52mm""}",Beginner,Unisex,1,18
+SKT002,Baker Brand Logo Deck,Baker,Skateboarding,Decks,59.99,Pro skateboard deck,"{""width"": ""8.25in"", ""length"": ""31.75in"", ""concave"": ""Medium""}",Intermediate,Unisex,1,25
+SKT003,Independent Stage 11 Trucks,Independent,Skateboarding,Trucks,54.99,Standard skateboard trucks,"{""size"": ""144mm"", ""height"": ""Standard"", ""baseplate"": ""Forged""}",All,Unisex,1,30
+SKT004,Spitfire Formula Four Wheels,Spitfire,Skateboarding,Wheels,39.99,Durable skate wheels 4-pack,"{""size"": ""52mm"", ""durometer"": ""99a"", ""shape"": ""Classic""}",Intermediate,Unisex,1,35
+SKT005,Bones Reds Bearings,Bones,Skateboarding,Bearings,19.99,Skate bearings 8-pack,"{""quantity"": 8, ""rating"": ""ABEC equivalent"", ""pre_lubed"": true}",All,Unisex,1,50
+SKT006,Triple Eight Sweatsaver Helmet,Triple Eight,Skateboarding,Protection,49.99,Skate helmet,"{""certification"": ""CPSC/ASTM"", ""liner"": ""Sweatsaver"", ""fit"": ""Standard""}",All,Unisex,1,25
+SKT007,187 Killer Pads Pro Knee,187,Skateboarding,Protection,54.99,Pro knee pads,"{""cap"": ""Recessed"", ""foam"": ""Triple 8"", ""closure"": ""Velcro""}",Intermediate,Unisex,1,20
+RSK001,Rollerblade Twister XT Skates,Rollerblade,Roller Sports,Inline Skates,299.99,Urban inline skates,"{""frame"": ""Aluminum"", ""wheels"": ""80mm"", ""closure"": ""3-buckle""}",Intermediate,Unisex,1,12
+RSK002,K2 Alexis 84 Boa Skates,K2,Roller Sports,Inline Skates,199.99,Fitness inline skates,"{""frame"": ""Composite"", ""wheels"": ""84mm"", ""closure"": ""Boa""}",Beginner,Women,1,15
+RSK003,FR Skates FR3 310,FR Skates,Roller Sports,Inline Skates,349.99,Freeride inline skates,"{""frame"": ""Aluminum"", ""wheels"": ""3x110mm"", ""closure"": ""45-degree""}",Advanced,Unisex,1,8
+RSK004,Moxi Lolly Roller Skates,Moxi,Roller Sports,Quad Skates,349.99,Outdoor quad skates,"{""plate"": ""Nylon"", ""wheels"": ""65mm"", ""boot"": ""Suede""}",Intermediate,Women,1,10
+RSK005,Sure-Grip Boardwalk Skates,Sure-Grip,Roller Sports,Quad Skates,199.99,Rink quad skates,"{""plate"": ""Aluminum"", ""wheels"": ""57mm"", ""boot"": ""Vinyl""}",Beginner,Unisex,1,14
+RSK006,Impala Quad Skates,Impala,Roller Sports,Quad Skates,99.99,Fashion quad skates,"{""plate"": ""Aluminum"", ""wheels"": ""58mm"", ""boot"": ""Vegan leather""}",Beginner,Unisex,1,20
+SCT001,Razor A5 Lux Scooter,Razor,Scooters,Scooters,109.99,Folding kick scooter,"{""wheels"": ""200mm"", ""folding"": true, ""capacity"": ""220lbs""}",All,Unisex,1,18
+SCT002,Micro Adult Kickboard,Micro,Scooters,Scooters,199.99,3-wheel adult scooter,"{""wheels"": ""120mm"", ""deck"": ""Wide"", ""lean_steer"": true}",Beginner,Unisex,1,12
+SCT003,Envy Prodigy S9 Pro Scooter,Envy,Scooters,Scooters,249.99,Park pro scooter,"{""deck"": ""Integrated"", ""wheels"": ""120mm"", ""bars"": ""Chromoly""}",Advanced,Unisex,1,10
+SCT004,Fuzion Z300 Pro Scooter,Fuzion,Scooters,Scooters,159.99,Intermediate pro scooter,"{""deck"": ""Forged"", ""wheels"": ""110mm"", ""bars"": ""Steel""}",Intermediate,Unisex,1,15
+EQS001,NordicTrack S22i Studio Cycle,NordicTrack,Equestrian,Bikes,1999.00,Studio cycle with incline,"{""screen"": ""22in"", ""incline"": ""-10 to 20%"", ""resistance"": ""24 levels""}",All,Unisex,1,3
+EQS002,Ariat Heritage Breeze Boots,Ariat,Equestrian,Boots,219.99,Paddock boots,"{""material"": ""Leather"", ""sole"": ""Duratread"", ""zip"": true}",Intermediate,Unisex,1,12
+EQS003,Dublin Pinnacle II Boots,Dublin,Equestrian,Boots,149.99,Field boots,"{""material"": ""Synthetic"", ""sole"": ""Rubber"", ""waterproof"": true}",Beginner,Unisex,1,15
+EQS004,Troxel Spirit Helmet,Troxel,Equestrian,Protection,59.99,Riding helmet,"{""certification"": ""ASTM/SEI"", ""vents"": 6, ""dial_fit"": true}",Beginner,Unisex,1,20
+EQS005,Charles Owen Ayr8 Helmet,Charles Owen,Equestrian,Protection,399.99,Premium riding helmet,"{""certification"": ""ASTM/SEI/PAS"", ""ventilation"": ""Advanced"", ""leather"": true}",Pro,Unisex,1,8

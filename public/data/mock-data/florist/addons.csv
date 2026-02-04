@@ -1,0 +1,81 @@
+id,name,category,description,price,stock
+1,Godiva Chocolate Box (8pc),Chocolates,Premium assorted Godiva chocolates,24.99,50
+2,Godiva Chocolate Box (16pc),Chocolates,Deluxe assorted Godiva chocolates,39.99,30
+3,Lindt Truffle Collection,Chocolates,Assorted Lindt chocolate truffles,19.99,45
+4,Premium Chocolate Strawberries (6),Chocolates,Fresh strawberries dipped in Belgian chocolate,29.99,25
+5,Classic Glass Vase,Vases,Elegant clear glass vase,14.99,60
+6,Premium Crystal Vase,Vases,Stunning lead-free crystal vase,34.99,25
+7,Rustic Mason Jar Vase,Vases,Charming farmhouse-style mason jar,9.99,40
+8,Ceramic Decorative Vase,Vases,Hand-painted ceramic vase,24.99,30
+9,Teddy Bear (12 inch),Plush,Soft and cuddly teddy bear,19.99,35
+10,Love Bear with Heart,Plush,Adorable bear holding a red heart,24.99,30
+11,Celebration Balloon Bouquet,Balloons,5 festive Mylar balloons,14.99,50
+12,Happy Birthday Balloon,Balloons,Single jumbo birthday balloon,7.99,60
+13,I Love You Balloon,Balloons,Heart-shaped I Love You balloon,7.99,55
+14,Get Well Soon Balloon,Balloons,Cheerful get well balloon,7.99,40
+15,Handwritten Card,Cards,Custom handwritten message card,4.99,100
+16,Premium Gift Card,Cards,Elegant folded card with envelope,6.99,80
+17,Singing Card,Cards,Musical greeting card,9.99,30
+18,Wine - Red (Cabernet),Wine,Premium California Cabernet Sauvignon,29.99,20
+19,Wine - White (Chardonnay),Wine,Crisp California Chardonnay,27.99,20
+20,Champagne (Sparkling),Wine,Celebratory sparkling wine,34.99,25
+21,Scented Candle (Vanilla),Candles,Soy wax vanilla scented candle,18.99,35
+22,Scented Candle (Lavender),Candles,Relaxing lavender aromatherapy candle,18.99,35
+23,Luxury Candle Set,Candles,Set of 3 premium scented candles,44.99,20
+24,Fruit Basket Add-on,Food,Fresh seasonal fruit assortment,34.99,15
+25,Gourmet Cookie Box,Food,Assorted gourmet cookies (12 pieces),22.99,25
+26,Ferrero Rocher Box (12pc),Chocolates,Classic Ferrero Rocher hazelnut chocolates,18.99,40
+27,Ghirardelli Squares Collection,Chocolates,Assorted Ghirardelli chocolate squares,16.99,45
+28,Chocolate Covered Cherries,Chocolates,Dark chocolate covered cherries,14.99,30
+29,Belgian Truffle Assortment,Chocolates,Hand-crafted Belgian truffles,34.99,20
+30,White Chocolate Box,Chocolates,Premium white chocolate selection,22.99,25
+31,Modern Cylinder Vase,Vases,Contemporary tall cylinder vase,19.99,35
+32,Colored Glass Vase (Red),Vases,Beautiful red-tinted glass vase,16.99,20
+33,Colored Glass Vase (Blue),Vases,Beautiful blue-tinted glass vase,16.99,20
+34,Metallic Gold Vase,Vases,Elegant gold metallic finish vase,29.99,15
+35,Ceramic Planter Pot,Vases,Decorative ceramic planter with drainage,22.99,25
+36,Woven Basket Container,Vases,Natural woven basket for arrangements,12.99,40
+37,Giant Teddy Bear (36 inch),Plush,Extra large cuddly teddy bear,49.99,15
+38,Bunny Plush,Plush,Soft plush bunny for Easter or baby gifts,17.99,30
+39,Elephant Plush,Plush,Adorable gray elephant stuffed animal,19.99,25
+40,Unicorn Plush,Plush,Magical unicorn plush toy,22.99,20
+41,Baby Bear (Pink),Plush,Pink teddy bear for baby girl,16.99,30
+42,Baby Bear (Blue),Plush,Blue teddy bear for baby boy,16.99,30
+43,Congratulations Balloon,Balloons,Congratulations Mylar balloon,7.99,50
+44,Baby Girl Balloon,Balloons,Its a Girl pink balloon,7.99,40
+45,Baby Boy Balloon,Balloons,Its a Boy blue balloon,7.99,40
+46,Anniversary Balloon,Balloons,Happy Anniversary heart balloon,8.99,35
+47,Graduation Balloon,Balloons,Congrats Grad celebration balloon,8.99,30
+48,Number Balloons (0-9),Balloons,Gold Mylar number balloons,5.99,100
+49,Balloon Bouquet Deluxe,Balloons,10 premium Mylar balloons assorted,24.99,25
+50,Thank You Card,Cards,Beautiful thank you greeting card,5.99,80
+51,Sympathy Card,Cards,Thoughtful sympathy card,5.99,60
+52,Anniversary Card,Cards,Romantic anniversary card,6.99,50
+53,New Baby Card,Cards,Welcome baby greeting card,5.99,45
+54,Blank Premium Card,Cards,High-quality blank card for custom message,7.99,70
+55,Wine - Rose,Wine,Refreshing French rose wine,25.99,20
+56,Wine - Pinot Noir,Wine,Elegant Oregon Pinot Noir,32.99,15
+57,Wine - Prosecco,Wine,Italian Prosecco sparkling wine,22.99,25
+58,Wine - Moscato,Wine,Sweet Moscato dessert wine,19.99,20
+59,Wine Gift Set,Wine,Wine with glasses gift set,54.99,10
+60,Champagne Premium (Moet),Wine,Moet Chandon champagne,59.99,12
+61,Scented Candle (Rose),Candles,Romantic rose scented candle,18.99,30
+62,Scented Candle (Ocean),Candles,Fresh ocean breeze candle,18.99,30
+63,Scented Candle (Eucalyptus),Candles,Refreshing eucalyptus mint candle,19.99,25
+64,Candle Gift Box,Candles,Set of 6 mini scented candles,29.99,20
+65,Battery Tea Lights (10),Candles,Flameless LED tea light candles,12.99,40
+66,Pillar Candle Set,Candles,3 unscented pillar candles,16.99,30
+67,Cheese and Cracker Box,Food,Gourmet cheese and artisan crackers,39.99,15
+68,Macaron Box (12),Food,French macarons assorted flavors,28.99,20
+69,Brownie Box (6),Food,Fudgy chocolate brownies,19.99,25
+70,Cake Pops (6),Food,Decorated cake pops assortment,16.99,30
+71,Tea Gift Set,Food,Premium tea collection with honey,32.99,18
+72,Coffee Gift Set,Food,Gourmet coffee and biscotti,34.99,15
+73,Spa Gift Set,Self Care,Bath bombs soap and lotion set,44.99,20
+74,Luxury Hand Cream,Self Care,Premium moisturizing hand cream,18.99,35
+75,Aromatherapy Diffuser Oil,Self Care,Essential oil for diffuser,14.99,40
+76,Silk Eye Mask,Self Care,Luxurious silk sleep mask,24.99,25
+77,Gift Wrap Upgrade,Services,Premium gift wrapping with ribbon,5.99,200
+78,Personal Video Message,Services,Record a personal video greeting,9.99,100
+79,Same-Day Rush Fee,Services,Guaranteed same-day delivery,15.99,100
+80,Photo Print Add-on,Services,Include a 4x6 photo with arrangement,8.99,50

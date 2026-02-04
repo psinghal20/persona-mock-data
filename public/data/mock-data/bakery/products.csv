@@ -1,0 +1,141 @@
+id,name,category,description,price,stock,is_vegan,is_gluten_free,is_dairy_free,is_nut_free,calories,allergens,ingredients,available_daily
+1,Sourdough Loaf,Bread,Traditional San Francisco-style sourdough with a crispy crust and tangy flavor,6.99,25,1,0,1,1,180,Wheat,"Flour, water, salt, sourdough starter",1
+2,Whole Wheat Bread,Bread,Hearty whole wheat bread perfect for sandwiches,5.49,30,1,0,1,1,160,Wheat,"Whole wheat flour, water, yeast, honey, salt",1
+3,French Baguette,Bread,Classic crusty French baguette with soft interior,3.99,40,1,0,1,1,140,Wheat,"Flour, water, yeast, salt",1
+4,Ciabatta Roll,Bread,Italian-style ciabatta with olive oil and herbs,2.49,35,1,0,1,1,150,Wheat,"Flour, water, olive oil, yeast, salt, herbs",1
+5,Gluten-Free Multigrain,Bread,Delicious multigrain bread made without gluten,8.99,15,1,1,1,1,170,None,"Rice flour, tapioca starch, flax seeds, chia seeds, psyllium husk",1
+6,Croissant,Pastries,Buttery flaky French croissant,3.99,50,0,0,0,1,280,Wheat Dairy,"Flour, butter, milk, yeast, sugar, salt, eggs",1
+7,Chocolate Croissant,Pastries,Croissant filled with rich dark chocolate,4.49,40,0,0,0,1,340,Wheat Dairy,"Flour, butter, dark chocolate, milk, yeast, sugar, eggs",1
+8,Almond Croissant,Pastries,Croissant topped with almond cream and sliced almonds,4.99,30,0,0,0,0,380,Wheat Dairy Tree Nuts,"Flour, butter, almonds, almond paste, milk, sugar, eggs",1
+9,Apple Danish,Pastries,Flaky pastry with cinnamon apple filling and vanilla glaze,4.29,25,0,0,0,1,320,Wheat Dairy Eggs,"Flour, butter, apples, cinnamon, sugar, cream cheese, eggs",1
+10,Blueberry Muffin,Pastries,Moist muffin bursting with fresh blueberries,3.49,45,0,0,0,1,290,Wheat Dairy Eggs,"Flour, blueberries, butter, sugar, eggs, milk, vanilla",1
+11,Banana Nut Muffin,Pastries,Classic muffin with ripe bananas and walnuts,3.49,35,0,0,0,0,310,Wheat Dairy Eggs Tree Nuts,"Flour, bananas, walnuts, butter, sugar, eggs, cinnamon",1
+12,Vegan Chocolate Muffin,Pastries,Rich chocolate muffin made without any animal products,3.99,20,1,0,1,1,270,Wheat,"Flour, cocoa, coconut oil, maple syrup, almond milk, apple cider vinegar",1
+13,Cinnamon Roll,Pastries,Soft roll swirled with cinnamon sugar and cream cheese frosting,4.49,30,0,0,0,1,420,Wheat Dairy Eggs,"Flour, butter, brown sugar, cinnamon, cream cheese, vanilla",1
+14,Chocolate Chip Cookie,Cookies,Classic chewy cookie loaded with chocolate chips,2.49,60,0,0,0,1,220,Wheat Dairy Eggs,"Flour, butter, chocolate chips, brown sugar, eggs, vanilla",1
+15,Oatmeal Raisin Cookie,Cookies,Chewy oatmeal cookie with plump raisins,2.49,50,0,0,0,1,200,Wheat Dairy Eggs,"Oats, flour, butter, raisins, brown sugar, eggs, cinnamon",1
+16,Peanut Butter Cookie,Cookies,Rich and crumbly peanut butter cookie,2.49,40,0,0,0,0,230,Wheat Dairy Eggs Peanuts,"Flour, peanut butter, butter, sugar, eggs",1
+17,Vegan Oat Cookie,Cookies,Crispy oat cookie sweetened with maple syrup,2.99,25,1,0,1,1,180,Wheat Oats,"Oats, flour, coconut oil, maple syrup, vanilla",1
+18,Gluten-Free Chocolate Cookie,Cookies,Fudgy chocolate cookie made with almond flour,3.49,20,0,1,0,0,200,Eggs Tree Nuts,"Almond flour, cocoa, eggs, sugar, butter",1
+19,Macarons (6 pack),Cookies,Assorted French macarons in various flavors,12.99,15,0,1,0,0,180,Eggs Tree Nuts,"Almond flour, egg whites, sugar, various fillings",1
+20,Chocolate Layer Cake (slice),Cakes,Rich chocolate cake with chocolate ganache,5.99,20,0,0,0,1,450,Wheat Dairy Eggs,"Flour, cocoa, butter, eggs, sugar, heavy cream, chocolate",1
+21,Carrot Cake (slice),Cakes,Spiced carrot cake with cream cheese frosting,5.99,18,0,0,0,0,420,Wheat Dairy Eggs Tree Nuts,"Flour, carrots, walnuts, cream cheese, butter, sugar, eggs, spices",1
+22,Red Velvet Cake (slice),Cakes,Classic red velvet with cream cheese frosting,6.49,15,0,0,0,1,400,Wheat Dairy Eggs,"Flour, cocoa, buttermilk, cream cheese, butter, eggs",1
+23,Lemon Pound Cake (slice),Cakes,Tangy lemon cake with lemon glaze,4.99,22,0,0,0,1,380,Wheat Dairy Eggs,"Flour, butter, eggs, lemon, sugar, sour cream",1
+24,Vegan Chocolate Cake (slice),Cakes,Moist chocolate cake made entirely plant-based,6.99,12,1,0,1,1,390,Wheat,"Flour, cocoa, coconut cream, maple syrup, apple sauce, coconut oil",1
+25,New York Cheesecake (slice),Cakes,Creamy classic cheesecake with graham cracker crust,6.99,16,0,0,0,1,480,Wheat Dairy Eggs,"Cream cheese, graham crackers, butter, eggs, sugar, sour cream",1
+26,Quiche Lorraine,Savory,Classic French quiche with bacon and Gruyere,5.99,20,0,0,0,1,380,Wheat Dairy Eggs,"Flour, butter, eggs, bacon, Gruyere cheese, cream",1
+27,Spinach Feta Quiche,Savory,Vegetarian quiche with spinach and feta cheese,5.99,18,0,0,0,1,340,Wheat Dairy Eggs,"Flour, butter, eggs, spinach, feta cheese, cream",1
+28,Ham and Cheese Croissant,Savory,Buttery croissant filled with ham and Swiss cheese,5.49,25,0,0,0,1,420,Wheat Dairy,"Flour, butter, ham, Swiss cheese, eggs",1
+29,Veggie Focaccia,Savory,Herb focaccia topped with roasted vegetables,4.99,15,1,0,1,1,280,Wheat,"Flour, olive oil, tomatoes, zucchini, peppers, herbs",1
+30,Sausage Roll,Savory,Flaky pastry wrapped around seasoned pork sausage,4.49,30,0,0,0,1,350,Wheat,"Flour, butter, pork sausage, herbs, eggs",1
+31,Cheese Danish,Pastries,Sweet cheese filling in a flaky pastry,4.29,28,0,0,0,1,330,Wheat Dairy Eggs,"Flour, butter, cream cheese, sugar, vanilla, eggs",1
+32,Fruit Tart,Pastries,Buttery tart shell with pastry cream and fresh fruits,5.49,12,0,0,0,1,290,Wheat Dairy Eggs,"Flour, butter, eggs, milk, sugar, fresh seasonal fruits",1
+33,Eclair,Pastries,Chocolate-topped choux pastry with vanilla cream,4.49,20,0,0,0,1,310,Wheat Dairy Eggs,"Flour, butter, eggs, milk, chocolate, vanilla cream",1
+34,Brownie,Pastries,Dense fudgy chocolate brownie,3.49,35,0,0,0,0,350,Wheat Dairy Eggs Tree Nuts,"Flour, chocolate, butter, eggs, sugar, walnuts",1
+35,Gluten-Free Brownie,Pastries,Rich brownie made with almond flour,4.49,15,0,1,0,0,320,Eggs Tree Nuts,"Almond flour, chocolate, butter, eggs, sugar",1
+36,Pretzel,Bread,Soft Bavarian-style pretzel with coarse salt,3.49,25,1,0,1,1,340,Wheat,"Flour, water, yeast, baking soda, salt",1
+37,Everything Bagel,Bread,Classic bagel topped with everything seasoning,2.99,40,1,0,1,1,280,Wheat Sesame,"Flour, water, yeast, malt, poppy seeds, sesame seeds, onion, garlic, salt",1
+38,Plain Bagel,Bread,Traditional boiled and baked New York-style bagel,2.49,45,1,0,1,1,260,Wheat,"Flour, water, yeast, malt, salt",1
+39,Scone (Plain),Pastries,Buttery British-style scone perfect with jam and cream,3.29,30,0,0,0,1,280,Wheat Dairy Eggs,"Flour, butter, sugar, eggs, cream",1
+40,Blueberry Scone,Pastries,Tender scone studded with fresh blueberries,3.79,25,0,0,0,1,300,Wheat Dairy Eggs,"Flour, butter, blueberries, sugar, eggs, cream",1
+41,Cranberry Walnut Scone,Pastries,Buttery scone with tart cranberries and toasted walnuts,3.99,22,0,0,0,0,320,Wheat Dairy Eggs Tree Nuts,"Flour, butter, cranberries, walnuts, sugar, eggs, cream",1
+42,Maple Pecan Scone,Pastries,Sweet scone drizzled with maple glaze and topped with pecans,4.29,20,0,0,0,0,350,Wheat Dairy Eggs Tree Nuts,"Flour, butter, pecans, maple syrup, sugar, eggs, cream",1
+43,Classic Glazed Donut,Donuts,Light and fluffy yeast donut with vanilla glaze,2.49,50,0,0,0,1,250,Wheat Dairy Eggs,"Flour, sugar, butter, eggs, milk, yeast, vanilla glaze",1
+44,Chocolate Frosted Donut,Donuts,Yeast donut topped with rich chocolate frosting,2.79,45,0,0,0,1,290,Wheat Dairy Eggs,"Flour, sugar, butter, eggs, milk, yeast, chocolate frosting",1
+45,Boston Cream Donut,Donuts,Filled with vanilla custard and topped with chocolate,3.29,35,0,0,0,1,340,Wheat Dairy Eggs,"Flour, sugar, butter, eggs, milk, vanilla custard, chocolate",1
+46,Jelly Donut,Donuts,Powdered sugar donut filled with raspberry jam,2.79,40,0,0,0,1,280,Wheat Dairy Eggs,"Flour, sugar, butter, eggs, milk, raspberry jam, powdered sugar",1
+47,Apple Fritter,Donuts,Deep-fried pastry studded with apple pieces and cinnamon,3.49,30,0,0,0,1,420,Wheat Dairy Eggs,"Flour, apples, sugar, cinnamon, butter, eggs, milk",1
+48,Old Fashioned Donut,Donuts,Dense cake donut with crackly glaze,2.49,40,0,0,0,1,300,Wheat Dairy Eggs,"Flour, sugar, butter, eggs, buttermilk, nutmeg, glaze",1
+49,Maple Bacon Donut,Donuts,Maple glazed donut topped with crispy bacon pieces,3.99,25,0,0,0,1,380,Wheat Dairy Eggs,"Flour, sugar, butter, eggs, milk, maple glaze, bacon",1
+50,Vegan Glazed Donut,Donuts,Classic glazed donut made without animal products,3.49,20,1,0,1,1,240,Wheat,"Flour, coconut oil, almond milk, maple syrup, yeast, vanilla",1
+51,Rye Bread,Bread,Traditional European rye with caraway seeds,5.99,20,1,0,1,1,180,Wheat Rye,"Rye flour, wheat flour, caraway seeds, water, yeast, salt",1
+52,Pumpernickel,Bread,Dense dark German bread with molasses,6.49,15,1,0,1,1,190,Wheat Rye,"Rye flour, wheat flour, molasses, cocoa, water, yeast",1
+53,Challah,Bread,Traditional Jewish egg bread perfect for Shabbat,7.99,18,0,0,0,1,200,Wheat Eggs,"Flour, eggs, honey, oil, yeast, salt",1
+54,Brioche Loaf,Bread,Rich French butter bread with golden crust,8.49,15,0,0,0,1,280,Wheat Dairy Eggs,"Flour, butter, eggs, sugar, milk, yeast, salt",1
+55,Olive Bread,Bread,Mediterranean bread studded with kalamata olives,6.99,18,1,0,1,1,170,Wheat,"Flour, kalamata olives, olive oil, water, yeast, rosemary, salt",1
+56,Jalapeño Cheddar Bread,Bread,Spicy bread with jalapeños and sharp cheddar,7.49,20,0,0,0,1,210,Wheat Dairy,"Flour, jalapeños, cheddar cheese, water, yeast, salt",1
+57,Focaccia,Bread,Italian flatbread with rosemary and sea salt,5.99,25,1,0,1,1,190,Wheat,"Flour, olive oil, rosemary, sea salt, water, yeast",1
+58,Asiago Cheese Bread,Bread,Crusty bread with melted asiago cheese,7.99,15,0,0,0,1,220,Wheat Dairy,"Flour, asiago cheese, water, yeast, olive oil, salt",1
+59,Gluten-Free Sandwich Bread,Bread,Soft sliced bread made without gluten,9.99,12,1,1,1,1,160,None,"Rice flour, tapioca starch, potato starch, xanthan gum, yeast",1
+60,Keto Bread,Bread,Low-carb bread made with almond flour,10.99,10,0,1,0,0,90,Eggs Tree Nuts,"Almond flour, eggs, butter, baking powder, psyllium husk",1
+61,Apple Pie (slice),Pies,Classic American pie with cinnamon apples and flaky crust,5.49,18,0,0,0,1,380,Wheat Dairy,"Flour, butter, apples, sugar, cinnamon, nutmeg, lemon",1
+62,Pumpkin Pie (slice),Pies,Spiced pumpkin custard in a buttery crust,5.49,15,0,0,0,1,340,Wheat Dairy Eggs,"Flour, butter, pumpkin, eggs, cream, cinnamon, ginger, nutmeg",0
+63,Pecan Pie (slice),Pies,Rich caramel filling loaded with toasted pecans,6.49,12,0,0,0,0,520,Wheat Dairy Eggs Tree Nuts,"Flour, butter, pecans, corn syrup, brown sugar, eggs, vanilla",1
+64,Cherry Pie (slice),Pies,Sweet and tart cherry filling in buttery crust,5.49,15,0,0,0,1,350,Wheat Dairy,"Flour, butter, cherries, sugar, almond extract, lemon",1
+65,Blueberry Pie (slice),Pies,Fresh blueberries baked in a flaky pie crust,5.49,15,0,0,0,1,340,Wheat Dairy,"Flour, butter, blueberries, sugar, lemon, cornstarch",1
+66,Key Lime Pie (slice),Pies,Tangy key lime custard with graham cracker crust,5.99,16,0,0,0,1,360,Wheat Dairy Eggs,"Graham crackers, butter, key lime juice, condensed milk, eggs",1
+67,Chocolate Cream Pie (slice),Pies,Silky chocolate pudding with whipped cream topping,5.99,14,0,0,0,1,420,Wheat Dairy Eggs,"Flour, butter, chocolate, milk, sugar, eggs, whipped cream",1
+68,Banana Cream Pie (slice),Pies,Vanilla custard layered with fresh bananas,5.99,12,0,0,0,1,380,Wheat Dairy Eggs,"Flour, butter, bananas, milk, sugar, eggs, vanilla, whipped cream",1
+69,Lemon Meringue Pie (slice),Pies,Tart lemon filling topped with fluffy meringue,5.99,14,0,0,0,1,350,Wheat Dairy Eggs,"Flour, butter, lemons, sugar, eggs, cornstarch",1
+70,Coconut Cream Pie (slice),Pies,Coconut custard with toasted coconut topping,5.99,10,0,0,0,1,400,Wheat Dairy Eggs,"Flour, butter, coconut, coconut milk, sugar, eggs, whipped cream",1
+71,Mixed Berry Pie (slice),Pies,Blend of strawberries raspberries and blackberries,5.99,12,0,0,0,1,330,Wheat Dairy,"Flour, butter, mixed berries, sugar, lemon, cornstarch",1
+72,Vegan Apple Pie (slice),Pies,Classic apple pie made without dairy or eggs,6.99,8,1,0,1,1,360,Wheat,"Flour, coconut oil, apples, sugar, cinnamon, lemon",1
+73,Tiramisu (slice),Cakes,Italian coffee-soaked ladyfingers with mascarpone cream,6.99,15,0,0,0,1,420,Wheat Dairy Eggs,"Ladyfingers, mascarpone, espresso, cocoa, eggs, sugar, rum",1
+74,German Chocolate Cake (slice),Cakes,Chocolate cake with coconut pecan frosting,6.49,14,0,0,0,0,480,Wheat Dairy Eggs Tree Nuts,"Flour, chocolate, butter, eggs, coconut, pecans, evaporated milk",1
+75,Black Forest Cake (slice),Cakes,Chocolate layers with cherries and whipped cream,6.99,12,0,0,0,1,440,Wheat Dairy Eggs,"Flour, chocolate, eggs, butter, cherries, whipped cream, kirsch",1
+76,Tres Leches Cake (slice),Cakes,Sponge cake soaked in three milks,5.99,16,0,0,0,1,380,Wheat Dairy Eggs,"Flour, eggs, condensed milk, evaporated milk, heavy cream, vanilla",1
+77,Opera Cake (slice),Cakes,French layered cake with coffee and chocolate,7.49,10,0,0,0,0,450,Wheat Dairy Eggs Tree Nuts,"Flour, almonds, butter, eggs, coffee, chocolate ganache",1
+78,Strawberry Shortcake,Cakes,Fluffy biscuit with fresh strawberries and cream,5.99,18,0,0,0,1,320,Wheat Dairy Eggs,"Flour, butter, strawberries, sugar, whipped cream, eggs",1
+79,Angel Food Cake (slice),Cakes,Light airy cake made with egg whites,4.49,20,0,0,1,1,180,Wheat Eggs,"Flour, egg whites, sugar, cream of tartar, vanilla",1
+80,Flourless Chocolate Cake (slice),Cakes,Dense rich chocolate cake made without flour,7.49,12,0,1,0,1,380,Eggs Dairy,"Chocolate, butter, eggs, sugar, vanilla, espresso",1
+81,Lemon Bar,Cookies,Buttery shortbread topped with tangy lemon curd,3.29,30,0,0,0,1,240,Wheat Dairy Eggs,"Flour, butter, eggs, lemon, sugar, powdered sugar",1
+82,Snickerdoodle,Cookies,Soft cinnamon sugar coated cookie,2.49,45,0,0,0,1,190,Wheat Dairy Eggs,"Flour, butter, sugar, eggs, cream of tartar, cinnamon",1
+83,White Chocolate Macadamia Cookie,Cookies,Buttery cookie with white chocolate and macadamia nuts,2.99,35,0,0,0,0,260,Wheat Dairy Eggs Tree Nuts,"Flour, butter, white chocolate, macadamia nuts, eggs, sugar",1
+84,Double Chocolate Cookie,Cookies,Rich chocolate cookie with chocolate chips,2.79,40,0,0,0,1,250,Wheat Dairy Eggs,"Flour, cocoa, butter, chocolate chips, eggs, sugar",1
+85,Sugar Cookie,Cookies,Classic vanilla sugar cookie with sprinkles,2.29,50,0,0,0,1,180,Wheat Dairy Eggs,"Flour, butter, sugar, eggs, vanilla, sprinkles",1
+86,Shortbread Cookie,Cookies,Traditional Scottish butter cookie,2.49,40,0,0,0,1,160,Wheat Dairy,"Flour, butter, sugar, salt",1
+87,Biscotti (Almond),Cookies,Twice-baked Italian cookie perfect for dipping,2.99,35,0,0,0,0,140,Wheat Eggs Tree Nuts,"Flour, almonds, eggs, sugar, anise, vanilla",1
+88,Biscotti (Chocolate Hazelnut),Cookies,Chocolate biscotti studded with hazelnuts,3.29,30,0,0,0,0,160,Wheat Eggs Tree Nuts,"Flour, cocoa, hazelnuts, eggs, sugar, vanilla",1
+89,Coconut Macaroon,Cookies,Chewy coconut cookie dipped in chocolate,2.79,35,0,1,0,1,150,Eggs,"Coconut, egg whites, sugar, vanilla, chocolate",1
+90,Linzer Cookie,Cookies,Almond cookie sandwich filled with raspberry jam,3.49,25,0,0,0,0,200,Wheat Dairy Eggs Tree Nuts,"Flour, almonds, butter, eggs, raspberry jam, powdered sugar",1
+91,Mushroom Swiss Quiche,Savory,Earthy mushrooms and Swiss cheese in flaky crust,6.49,15,0,0,0,1,360,Wheat Dairy Eggs,"Flour, butter, mushrooms, Swiss cheese, eggs, cream",1
+92,Tomato Basil Quiche,Savory,Fresh tomatoes and basil with mozzarella,5.99,16,0,0,0,1,330,Wheat Dairy Eggs,"Flour, butter, tomatoes, basil, mozzarella, eggs, cream",1
+93,Chicken Pot Pie (individual),Savory,Creamy chicken and vegetables in flaky crust,7.99,18,0,0,0,1,480,Wheat Dairy Eggs,"Flour, butter, chicken, peas, carrots, cream, eggs",1
+94,Beef and Ale Pie (individual),Savory,Slow-braised beef in rich ale gravy,8.49,12,0,0,0,1,520,Wheat Dairy Eggs,"Flour, butter, beef, ale, onions, mushrooms, eggs",1
+95,Spanakopita,Savory,Greek spinach and feta wrapped in phyllo,4.99,20,0,0,0,1,280,Wheat Dairy Eggs,"Phyllo, spinach, feta, eggs, onions, dill, olive oil",1
+96,Cheese Straws,Savory,Flaky puff pastry twisted with cheddar,3.49,30,0,0,0,1,180,Wheat Dairy,"Puff pastry, cheddar cheese, cayenne, paprika",1
+97,Empanada (Beef),Savory,Argentine pastry filled with seasoned beef,4.49,22,0,0,0,1,320,Wheat Eggs,"Flour, beef, onions, olives, eggs, paprika, cumin",1
+98,Empanada (Chicken),Savory,Flaky pastry filled with seasoned chicken,4.49,20,0,0,0,1,300,Wheat Eggs,"Flour, chicken, onions, peppers, eggs, oregano",1
+99,Vegan Mushroom Hand Pie,Savory,Flaky pie filled with savory mushroom mixture,5.49,15,1,0,1,1,290,Wheat,"Flour, coconut oil, mushrooms, onions, thyme, vegetable broth",1
+100,Gluten-Free Quiche (Broccoli Cheddar),Savory,Crustless quiche with broccoli and cheddar,7.49,10,0,1,0,1,280,Dairy Eggs,"Eggs, broccoli, cheddar cheese, cream, onions, garlic",1
+101,Pain au Chocolat,Pastries,French chocolate-filled puff pastry,4.29,35,0,0,0,1,320,Wheat Dairy Eggs,"Puff pastry, butter, dark chocolate, eggs",1
+102,Bear Claw,Pastries,Almond-filled pastry shaped like a bear claw,3.99,25,0,0,0,0,350,Wheat Dairy Eggs Tree Nuts,"Flour, butter, almond paste, sugar, eggs",1
+103,Kouign-Amann,Pastries,Caramelized Breton butter cake,4.99,18,0,0,0,1,400,Wheat Dairy,"Flour, butter, sugar, salt, yeast",1
+104,Palmier,Pastries,Crispy caramelized puff pastry hearts,2.99,30,0,0,0,1,180,Wheat Dairy,"Puff pastry, butter, sugar",1
+105,Napoleon (Mille-Feuille),Pastries,Layers of puff pastry with vanilla cream,5.49,15,0,0,0,1,380,Wheat Dairy Eggs,"Puff pastry, pastry cream, fondant, chocolate",1
+106,Cream Puff,Pastries,Light choux pastry filled with vanilla cream,3.99,25,0,0,0,1,280,Wheat Dairy Eggs,"Flour, butter, eggs, vanilla pastry cream",1
+107,Profiterole,Pastries,Cream puffs drizzled with chocolate sauce,4.49,20,0,0,0,1,320,Wheat Dairy Eggs,"Flour, butter, eggs, pastry cream, chocolate sauce",1
+108,Cannoli,Pastries,Sicilian crispy shell filled with sweet ricotta,4.49,22,0,0,0,0,310,Wheat Dairy Eggs,"Flour, ricotta, powdered sugar, chocolate chips, pistachios",1
+109,Strudel (Apple),Pastries,Thin-layered Austrian pastry with spiced apples,4.99,15,0,0,0,1,280,Wheat Dairy,"Flour, apples, raisins, cinnamon, bread crumbs, butter",1
+110,Rugelach (Chocolate),Pastries,Crescent-shaped Jewish pastry with chocolate,3.49,25,0,0,0,1,180,Wheat Dairy Eggs,"Flour, cream cheese, butter, chocolate, walnuts",1
+111,Lemon Poppy Seed Muffin,Pastries,Bright lemon muffin with crunchy poppy seeds,3.49,35,0,0,0,1,280,Wheat Dairy Eggs,"Flour, poppy seeds, lemon, butter, eggs, sugar",1
+112,Carrot Muffin,Pastries,Spiced muffin with carrots and cream cheese swirl,3.79,28,0,0,0,1,300,Wheat Dairy Eggs,"Flour, carrots, cream cheese, sugar, eggs, cinnamon, nutmeg",1
+113,Corn Muffin,Pastries,Sweet and savory cornmeal muffin,2.99,40,0,0,0,1,220,Wheat Dairy Eggs,"Cornmeal, flour, butter, eggs, milk, honey",1
+114,Morning Glory Muffin,Pastries,Hearty muffin with carrots apples and coconut,3.79,25,0,0,0,1,310,Wheat Dairy Eggs,"Flour, carrots, apples, coconut, raisins, eggs, oil",1
+115,Pumpkin Muffin,Pastries,Spiced pumpkin muffin with cream cheese frosting,3.79,22,0,0,0,1,290,Wheat Dairy Eggs,"Flour, pumpkin puree, cream cheese, eggs, cinnamon, nutmeg",0
+116,Vegan Banana Muffin,Pastries,Moist banana muffin made without animal products,3.99,18,1,0,1,1,260,Wheat,"Flour, bananas, coconut oil, maple syrup, oat milk, vanilla",1
+117,Gluten-Free Blueberry Muffin,Pastries,Almond flour muffin bursting with blueberries,4.49,15,0,1,0,0,270,Eggs Tree Nuts,"Almond flour, blueberries, eggs, honey, coconut oil",1
+118,Cinnamon Raisin Bagel,Bread,Sweet bagel with cinnamon swirl and raisins,2.99,35,1,0,1,1,290,Wheat,"Flour, raisins, cinnamon, malt, water, yeast",1
+119,Sesame Bagel,Bread,Classic bagel coated with toasted sesame seeds,2.69,38,1,0,1,1,270,Wheat Sesame,"Flour, sesame seeds, malt, water, yeast, salt",1
+120,Onion Bagel,Bread,Savory bagel topped with dried onion flakes,2.69,35,1,0,1,1,260,Wheat,"Flour, dried onion, malt, water, yeast, salt",1
+121,Asiago Bagel,Bread,Bagel topped with melted asiago cheese,3.29,28,0,0,0,1,300,Wheat Dairy,"Flour, asiago cheese, malt, water, yeast, salt",1
+122,Blueberry Bagel,Bread,Sweet bagel studded with dried blueberries,3.19,30,1,0,1,1,280,Wheat,"Flour, dried blueberries, malt, water, yeast, sugar",1
+123,Garlic Knots,Bread,Soft bread knots brushed with garlic butter,3.49,40,0,0,0,1,180,Wheat Dairy,"Flour, butter, garlic, parsley, parmesan, yeast",1
+124,Dinner Roll (6 pack),Bread,Soft fluffy dinner rolls,4.99,35,0,0,0,1,120,Wheat Dairy Eggs,"Flour, butter, eggs, milk, yeast, sugar",1
+125,Parker House Rolls (6 pack),Bread,Buttery folded dinner rolls,5.49,28,0,0,0,1,140,Wheat Dairy Eggs,"Flour, butter, eggs, milk, yeast, sugar",1
+126,Hawaiian Sweet Rolls (6 pack),Bread,Soft sweet rolls with pineapple flavor,5.99,25,0,0,0,1,160,Wheat Dairy Eggs,"Flour, butter, eggs, pineapple juice, brown sugar, yeast",1
+127,Monkey Bread,Bread,Pull-apart bread coated in cinnamon sugar,12.99,10,0,0,0,1,380,Wheat Dairy Eggs,"Flour, butter, brown sugar, cinnamon, yeast, cream cheese glaze",1
+128,Coffee Cake,Cakes,Cinnamon streusel topped breakfast cake,5.99,18,0,0,0,1,340,Wheat Dairy Eggs,"Flour, butter, sour cream, eggs, cinnamon, brown sugar",1
+129,Bundt Cake (Vanilla),Cakes,Classic vanilla bundt with vanilla glaze,24.99,8,0,0,0,1,320,Wheat Dairy Eggs,"Flour, butter, eggs, vanilla, sour cream, sugar",0
+130,Bundt Cake (Chocolate),Cakes,Rich chocolate bundt with chocolate glaze,26.99,6,0,0,0,1,380,Wheat Dairy Eggs,"Flour, cocoa, butter, eggs, sour cream, chocolate glaze",0
+131,Fruit Tartlet,Pastries,Individual tart with pastry cream and fresh fruit,4.99,18,0,0,0,1,240,Wheat Dairy Eggs,"Flour, butter, eggs, pastry cream, seasonal fruits",1
+132,Chocolate Tart,Pastries,Rich chocolate ganache in buttery shell,5.49,15,0,0,0,1,380,Wheat Dairy Eggs,"Flour, butter, chocolate, cream, eggs, sugar",1
+133,Pecan Tart,Pastries,Individual pecan tart with caramel filling,5.49,14,0,0,0,0,420,Wheat Dairy Eggs Tree Nuts,"Flour, butter, pecans, corn syrup, brown sugar, eggs",1
+134,Lemon Tart,Pastries,Tangy lemon curd in crisp pastry shell,5.29,16,0,0,0,1,280,Wheat Dairy Eggs,"Flour, butter, lemons, eggs, sugar",1
+135,Vegan Chocolate Tart,Pastries,Rich chocolate tart made with coconut cream,6.49,10,1,0,1,1,360,Wheat,"Flour, coconut oil, dark chocolate, coconut cream, maple syrup",1
+136,Cheese Danish Braid,Pastries,Large danish braid filled with sweet cheese,8.99,12,0,0,0,1,340,Wheat Dairy Eggs,"Flour, butter, cream cheese, eggs, sugar, vanilla",1
+137,Raspberry Danish,Pastries,Flaky pastry with raspberry filling and icing,4.29,22,0,0,0,1,310,Wheat Dairy Eggs,"Flour, butter, raspberries, cream cheese, eggs, sugar",1
+138,Peach Danish,Pastries,Danish pastry topped with glazed peaches,4.29,20,0,0,0,1,300,Wheat Dairy Eggs,"Flour, butter, peaches, cream cheese, eggs, sugar",0
+139,Sugar-Free Oat Cookie,Cookies,Sweetened with stevia for diabetic-friendly option,3.49,20,0,0,0,1,120,Wheat Oats,"Oats, flour, butter, stevia, eggs, vanilla",1
+140,Keto Chocolate Brownie,Pastries,Low-carb brownie made with almond flour,4.99,12,0,1,0,0,180,Eggs Tree Nuts,"Almond flour, cocoa, butter, eggs, erythritol, vanilla",1

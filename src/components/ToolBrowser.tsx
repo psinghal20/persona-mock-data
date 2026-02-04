@@ -2,7 +2,6 @@
 
 import { useState } from "react";
 import { ToolServerData, ToolDefinition } from "@/types";
-import * as XLSX from "xlsx";
 
 // Get basePath from environment (set during build)
 const basePath = process.env.NODE_ENV === "production" ? "/persona-mock-data" : "";
@@ -21,48 +20,101 @@ interface ToolComponentProps {
   tool: ToolDefinition;
 }
 
-interface DataModalProps {
-  filename: string;
-  workbook: XLSX.WorkBook;
+interface CsvData {
+  headers: string[];
+  rows: string[][];
+}
+
+interface CsvModalProps {
+  serverName: string;
+  files: { name: string; data: CsvData }[];
   onClose: () => void;
 }
 
-function DataModal({ filename, workbook, onClose }: DataModalProps) {
-  const [activeSheet, setActiveSheet] = useState(0);
-  const sheetNames = workbook.SheetNames;
+function parseCSV(text: string): CsvData {
+  const lines = text.trim().split('\n');
+  if (lines.length === 0) return { headers: [], rows: [] };
 
-  const getSheetHtml = (sheetIndex: number) => {
-    const sheet = workbook.Sheets[sheetNames[sheetIndex]];
-    return XLSX.utils.sheet_to_html(sheet, { editable: false });
+  // Simple CSV parsing (handles basic cases)
+  const parseLine = (line: string): string[] => {
+    const result: string[] = [];
+    let current = '';
+    let inQuotes = false;
+
+    for (let i = 0; i < line.length; i++) {
+      const char = line[i];
+      if (char === '"') {
+        if (inQuotes && line[i + 1] === '"') {
+          current += '"';
+          i++;
+        } else {
+          inQuotes = !inQuotes;
+        }
+      } else if (char === ',' && !inQuotes) {
+        result.push(current.trim());
+        current = '';
+      } else {
+        current += char;
+      }
+    }
+    result.push(current.trim());
+    return result;
   };
+
+  const headers = parseLine(lines[0]);
+  const rows = lines.slice(1).map(line => parseLine(line));
+
+  return { headers, rows };
+}
+
+function CsvModal({ serverName, files, onClose }: CsvModalProps) {
+  const [activeFile, setActiveFile] = useState(0);
+
+  const currentFile = files[activeFile];
 
   return (
     <div className="modal-overlay" onClick={onClose}>
       <div className="modal-content" onClick={(e) => e.stopPropagation()}>
         <div className="modal-header">
-          <h2>{filename}</h2>
+          <h2>{serverName} - Mock Data</h2>
           <button className="modal-close" onClick={onClose}>
             &times;
           </button>
         </div>
-        {sheetNames.length > 1 && (
+        {files.length > 1 && (
           <div className="sheet-tabs">
-            {sheetNames.map((name, i) => (
+            {files.map((file, i) => (
               <button
-                key={name}
-                className={`sheet-tab ${i === activeSheet ? "active" : ""}`}
-                onClick={() => setActiveSheet(i)}
+                key={file.name}
+                className={`sheet-tab ${i === activeFile ? "active" : ""}`}
+                onClick={() => setActiveFile(i)}
               >
-                {name}
+                {file.name.replace('.csv', '')}
               </button>
             ))}
           </div>
         )}
         <div className="modal-body">
-          <div
-            className="sheet-content active"
-            dangerouslySetInnerHTML={{ __html: getSheetHtml(activeSheet) }}
-          />
+          <div className="sheet-content active">
+            <table>
+              <thead>
+                <tr>
+                  {currentFile.data.headers.map((header, i) => (
+                    <th key={i}>{header}</th>
+                  ))}
+                </tr>
+              </thead>
+              <tbody>
+                {currentFile.data.rows.map((row, i) => (
+                  <tr key={i}>
+                    {row.map((cell, j) => (
+                      <td key={j}>{cell}</td>
+                    ))}
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
         </div>
       </div>
     </div>
@@ -113,33 +165,38 @@ function ToolComponent({ tool }: ToolComponentProps) {
 function ServerComponent({ server, category }: ServerComponentProps) {
   const [isOpen, setIsOpen] = useState(false);
   const [isLoadingData, setIsLoadingData] = useState(false);
-  const [dataModal, setDataModal] = useState<{
-    filename: string;
-    workbook: XLSX.WorkBook;
+  const [csvModal, setCsvModal] = useState<{
+    serverName: string;
+    files: { name: string; data: CsvData }[];
   } | null>(null);
 
   const handleViewData = async (e: React.MouseEvent) => {
     e.stopPropagation();
-    if (!server.dataFile) return;
+    if (!server.dataFiles || !server.dataDir) return;
 
     setIsLoadingData(true);
     try {
-      const response = await fetch(
-        `${basePath}/tools/${category}/data/${encodeURIComponent(server.dataFile)}`
-      );
-      if (!response.ok) throw new Error("Failed to load data file");
+      // Load all CSV files for this server
+      const filePromises = server.dataFiles.map(async (filename) => {
+        const response = await fetch(
+          `${basePath}/data/mock-data/${server.dataDir}/${encodeURIComponent(filename)}`
+        );
+        if (!response.ok) throw new Error(`Failed to load ${filename}`);
+        const text = await response.text();
+        return { name: filename, data: parseCSV(text) };
+      });
 
-      const arrayBuffer = await response.arrayBuffer();
-      const workbook = XLSX.read(arrayBuffer, { type: "array" });
-
-      setDataModal({ filename: server.dataFile, workbook });
+      const files = await Promise.all(filePromises);
+      setCsvModal({ serverName: server.name, files });
     } catch (err) {
       console.error("Failed to load data:", err);
-      alert("Failed to load data file");
+      alert("Failed to load data files");
     } finally {
       setIsLoadingData(false);
     }
   };
+
+  const hasData = server.dataFiles && server.dataFiles.length > 0;
 
   return (
     <>
@@ -152,13 +209,13 @@ function ServerComponent({ server, category }: ServerComponentProps) {
               {server.tools.length} tool{server.tools.length !== 1 ? "s" : ""}
             </span>
           </div>
-          {server.dataFile && (
+          {hasData && (
             <button
               className="mock-data-btn"
               onClick={handleViewData}
               disabled={isLoadingData}
             >
-              {isLoadingData ? "Loading..." : "View Mock Data"}
+              {isLoadingData ? "Loading..." : `View Mock Data (${server.dataFiles!.length} files)`}
             </button>
           )}
         </div>
@@ -175,11 +232,11 @@ function ServerComponent({ server, category }: ServerComponentProps) {
         </div>
       </div>
 
-      {dataModal && (
-        <DataModal
-          filename={dataModal.filename}
-          workbook={dataModal.workbook}
-          onClose={() => setDataModal(null)}
+      {csvModal && (
+        <CsvModal
+          serverName={csvModal.serverName}
+          files={csvModal.files}
+          onClose={() => setCsvModal(null)}
         />
       )}
     </>

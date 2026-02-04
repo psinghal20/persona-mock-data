@@ -1,0 +1,306 @@
+id,name,category,room,price,description,dimensions_json,weight_lbs,material,color,assembly_required,assembly_time_minutes,in_stock,stock_quantity
+LR001,Stockholm Sectional Sofa,Sofas,Living Room,1299.99,Modern L-shaped sectional with reversible chaise and premium fabric upholstery,"{""width"": 110, ""depth"": 65, ""height"": 34, ""unit"": ""inches""}",185,Fabric,Gray,1,90,1,8
+LR002,Copenhagen 3-Seater Sofa,Sofas,Living Room,899.99,Scandinavian-inspired sofa with solid oak legs and linen blend fabric,"{""width"": 84, ""depth"": 36, ""height"": 33, ""unit"": ""inches""}",120,Fabric,Beige,0,0,1,12
+LR003,Oslo Loveseat,Sofas,Living Room,649.99,Compact two-seater perfect for small spaces with velvet upholstery,"{""width"": 58, ""depth"": 34, ""height"": 32, ""unit"": ""inches""}",85,Velvet,Navy Blue,0,0,1,15
+LR004,Malmo Coffee Table,Tables,Living Room,299.99,Rectangular coffee table with solid walnut top and black metal frame,"{""width"": 48, ""depth"": 24, ""height"": 18, ""unit"": ""inches""}",45,Wood/Metal,Walnut,1,30,1,20
+LR005,Bergen Side Table Set,Tables,Living Room,149.99,Set of 2 nesting side tables with oak veneer tops,"{""width"": 20, ""depth"": 20, ""height"": 22, ""unit"": ""inches""}",25,Wood,Natural Oak,1,15,1,25
+LR006,Helsinki TV Stand,TV Stands,Living Room,449.99,Entertainment center with cable management and adjustable shelves,"{""width"": 72, ""depth"": 18, ""height"": 24, ""unit"": ""inches""}",95,Wood,White/Oak,1,60,1,10
+LR007,Aarhus Bookcase,Bookcases,Living Room,349.99,5-shelf bookcase with solid pine construction,"{""width"": 36, ""depth"": 12, ""height"": 72, ""unit"": ""inches""}",75,Wood,Black,1,45,1,18
+LR008,Gothenburg Accent Chair,Chairs,Living Room,399.99,Mid-century modern accent chair with walnut legs,"{""width"": 28, ""depth"": 30, ""height"": 33, ""unit"": ""inches""}",35,Fabric,Mustard Yellow,0,0,1,14
+LR009,Turku Floor Lamp,Lighting,Living Room,129.99,Arc floor lamp with marble base and adjustable arm,"{""width"": 14, ""depth"": 14, ""height"": 72, ""unit"": ""inches""}",18,Metal/Marble,Brass,1,20,1,30
+LR010,Tampere Area Rug 8x10,Rugs,Living Room,399.99,Hand-woven wool area rug with geometric pattern,"{""width"": 120, ""depth"": 96, ""height"": 0.5, ""unit"": ""inches""}",35,Wool,Ivory/Gray,0,0,1,8
+BR001,Malmo Queen Platform Bed,Beds,Bedroom,799.99,Queen platform bed with upholstered headboard and solid wood frame,"{""width"": 65, ""depth"": 86, ""height"": 48, ""unit"": ""inches""}",150,Wood/Fabric,Gray,1,75,1,10
+BR002,Stockholm King Bed Frame,Beds,Bedroom,999.99,King size bed with oak slat headboard and under-bed storage,"{""width"": 80, ""depth"": 88, ""height"": 45, ""unit"": ""inches""}",180,Wood,Natural Oak,1,90,1,6
+BR003,Copenhagen Twin Bed,Beds,Bedroom,449.99,Twin bed with spindle headboard in solid beech wood,"{""width"": 42, ""depth"": 78, ""height"": 40, ""unit"": ""inches""}",75,Wood,White,1,45,1,12
+BR004,Oslo 6-Drawer Dresser,Dressers,Bedroom,649.99,Wide dresser with soft-close drawers and walnut veneer,"{""width"": 60, ""depth"": 18, ""height"": 34, ""unit"": ""inches""}",135,Wood,Walnut,1,60,1,8
+BR005,Bergen 4-Drawer Chest,Dressers,Bedroom,399.99,Tall chest of drawers with brass hardware,"{""width"": 32, ""depth"": 18, ""height"": 48, ""unit"": ""inches""}",95,Wood,White,1,45,1,15
+BR006,Helsinki Nightstand,Nightstands,Bedroom,179.99,Bedside table with drawer and open shelf,"{""width"": 20, ""depth"": 16, ""height"": 24, ""unit"": ""inches""}",28,Wood,Natural Oak,1,20,1,25
+BR007,Aarhus Nightstand Set,Nightstands,Bedroom,299.99,Set of 2 matching nightstands with USB charging,"{""width"": 18, ""depth"": 14, ""height"": 22, ""unit"": ""inches""}",45,Wood,Black,1,30,1,12
+BR008,Gothenburg Wardrobe,Wardrobes,Bedroom,899.99,2-door wardrobe with interior shelves and hanging rod,"{""width"": 48, ""depth"": 24, ""height"": 78, ""unit"": ""inches""}",195,Wood,White,1,120,1,5
+BR009,Turku Vanity with Mirror,Vanities,Bedroom,449.99,Vanity table with tilting mirror and storage drawers,"{""width"": 42, ""depth"": 18, ""height"": 55, ""unit"": ""inches""}",65,Wood,White,1,45,1,10
+BR010,Tampere Bench,Benches,Bedroom,199.99,Upholstered end-of-bed bench with storage,"{""width"": 48, ""depth"": 18, ""height"": 18, ""unit"": ""inches""}",35,Wood/Fabric,Beige,1,25,1,18
+DR001,Copenhagen Dining Table,Tables,Dining Room,899.99,Extendable dining table seats 6-8 with butterfly leaf,"{""width"": 72, ""depth"": 36, ""height"": 30, ""unit"": ""inches""}",125,Wood,Natural Oak,1,60,1,8
+DR002,Malmo Round Dining Table,Tables,Dining Room,599.99,48-inch round pedestal table in solid oak,"{""width"": 48, ""depth"": 48, ""height"": 30, ""unit"": ""inches""}",95,Wood,Walnut,1,45,1,10
+DR003,Stockholm Dining Chair Set,Chairs,Dining Room,449.99,Set of 4 upholstered dining chairs with oak legs,"{""width"": 20, ""depth"": 22, ""height"": 34, ""unit"": ""inches""}",60,Wood/Fabric,Gray,1,30,1,15
+DR004,Oslo Dining Chair Set,Chairs,Dining Room,349.99,Set of 4 Windsor-style dining chairs in solid beech,"{""width"": 18, ""depth"": 20, ""height"": 36, ""unit"": ""inches""}",48,Wood,Black,1,20,1,20
+DR005,Bergen Bench,Benches,Dining Room,249.99,Dining bench seats 2-3 with solid wood construction,"{""width"": 48, ""depth"": 15, ""height"": 18, ""unit"": ""inches""}",35,Wood,Natural Oak,1,25,1,18
+DR006,Helsinki Buffet,Buffets,Dining Room,749.99,Sideboard with drawers and cabinet storage,"{""width"": 60, ""depth"": 18, ""height"": 34, ""unit"": ""inches""}",145,Wood,White/Oak,1,75,1,6
+DR007,Aarhus Bar Cart,Bar Carts,Dining Room,299.99,Rolling bar cart with 2 tiers and wine rack,"{""width"": 32, ""depth"": 16, ""height"": 32, ""unit"": ""inches""}",28,Metal/Wood,Gold/Walnut,1,20,1,22
+DR008,Gothenburg China Cabinet,Cabinets,Dining Room,999.99,Display cabinet with glass doors and interior lighting,"{""width"": 42, ""depth"": 16, ""height"": 72, ""unit"": ""inches""}",165,Wood/Glass,White,1,90,1,4
+OF001,Stockholm Standing Desk,Desks,Office,699.99,Electric sit-stand desk with memory presets,"{""width"": 60, ""depth"": 30, ""height"": 49, ""unit"": ""inches""}",95,Wood/Metal,Walnut/Black,1,45,1,12
+OF002,Copenhagen Writing Desk,Desks,Office,449.99,Compact writing desk with drawer and cable management,"{""width"": 48, ""depth"": 24, ""height"": 30, ""unit"": ""inches""}",55,Wood,White,1,30,1,18
+OF003,Malmo L-Desk,Desks,Office,599.99,L-shaped corner desk with ample workspace,"{""width"": 66, ""depth"": 66, ""height"": 30, ""unit"": ""inches""}",115,Wood,Natural Oak,1,60,1,8
+OF004,Oslo Executive Chair,Chairs,Office,399.99,Ergonomic office chair with lumbar support and adjustable arms,"{""width"": 27, ""depth"": 28, ""height"": 45, ""unit"": ""inches""}",45,Mesh/Metal,Black,1,20,1,20
+OF005,Bergen Task Chair,Chairs,Office,249.99,Mid-back task chair with breathable mesh,"{""width"": 24, ""depth"": 24, ""height"": 40, ""unit"": ""inches""}",32,Mesh/Metal,Gray,1,15,1,30
+OF006,Helsinki Filing Cabinet,Filing Cabinets,Office,299.99,3-drawer lateral file cabinet with lock,"{""width"": 36, ""depth"": 20, ""height"": 40, ""unit"": ""inches""}",85,Metal,White,1,30,1,15
+OF007,Aarhus Bookshelf,Shelving,Office,279.99,5-tier ladder bookshelf with metal frame,"{""width"": 30, ""depth"": 12, ""height"": 72, ""unit"": ""inches""}",45,Wood/Metal,Walnut/Black,1,35,1,20
+OF008,Gothenburg Monitor Stand,Accessories,Office,79.99,Bamboo monitor riser with storage drawer,"{""width"": 22, ""depth"": 10, ""height"": 5, ""unit"": ""inches""}",5,Bamboo,Natural,0,0,1,50
+OD001,Malibu Patio Dining Set,Patio Sets,Outdoor,1199.99,7-piece outdoor dining set with umbrella hole,"{""width"": 72, ""depth"": 42, ""height"": 30, ""unit"": ""inches""}",185,Teak,Natural,1,90,1,5
+OD002,Laguna Sectional Sofa,Sofas,Outdoor,1499.99,Modular outdoor sectional with weather-resistant cushions,"{""width"": 100, ""depth"": 80, ""height"": 32, ""unit"": ""inches""}",210,Wicker/Metal,Gray,1,120,1,4
+OD003,Pacific Lounge Chair Set,Loungers,Outdoor,599.99,Set of 2 adjustable chaise loungers with cushions,"{""width"": 28, ""depth"": 78, ""height"": 38, ""unit"": ""inches""}",95,Aluminum,White,1,45,1,8
+OD004,Coastal Adirondack Chair,Chairs,Outdoor,199.99,Classic Adirondack chair in recycled HDPE,"{""width"": 30, ""depth"": 36, ""height"": 38, ""unit"": ""inches""}",38,Plastic,Navy Blue,1,25,1,25
+OD005,Marina Coffee Table,Tables,Outdoor,249.99,Outdoor coffee table with tempered glass top,"{""width"": 42, ""depth"": 24, ""height"": 18, ""unit"": ""inches""}",35,Wicker/Glass,Brown,1,20,1,15
+OD006,Harbor Side Table,Tables,Outdoor,99.99,Small outdoor side table perfect for drinks,"{""width"": 18, ""depth"": 18, ""height"": 20, ""unit"": ""inches""}",12,Metal,Black,1,10,1,35
+OD007,Sunset Planter Set,Planters,Outdoor,149.99,Set of 3 modern planters in varying sizes,"{""width"": 14, ""depth"": 14, ""height"": 16, ""unit"": ""inches""}",25,Ceramic,Terracotta,0,0,1,20
+OD008,Beach Umbrella 9ft,Umbrellas,Outdoor,179.99,Tilting patio umbrella with crank lift,"{""width"": 108, ""depth"": 108, ""height"": 96, ""unit"": ""inches""}",22,Aluminum/Polyester,Beige,1,15,1,18
+LR011,Reykjavik Recliner,Chairs,Living Room,699.99,Power recliner with USB charging and cup holders,"{""width"": 36, ""depth"": 38, ""height"": 40, ""unit"": ""inches""}",95,Leather,Brown,0,0,1,8
+LR012,Nuuk Sleeper Sofa,Sofas,Living Room,1199.99,Queen sleeper sofa with memory foam mattress,"{""width"": 86, ""depth"": 38, ""height"": 35, ""unit"": ""inches""}",195,Fabric,Charcoal,0,0,1,5
+LR013,Stavanger Console Table,Tables,Living Room,249.99,Narrow console table with shelf for entryway,"{""width"": 48, ""depth"": 12, ""height"": 30, ""unit"": ""inches""}",35,Wood,Espresso,1,25,1,18
+LR014,Trondheim Ottoman,Ottomans,Living Room,179.99,Round storage ottoman with removable lid,"{""width"": 24, ""depth"": 24, ""height"": 18, ""unit"": ""inches""}",22,Fabric,Sage Green,1,15,1,25
+LR015,Uppsala Cube Ottoman Set,Ottomans,Living Room,129.99,Set of 2 fabric cube ottomans,"{""width"": 15, ""depth"": 15, ""height"": 15, ""unit"": ""inches""}",18,Fabric,Cream,0,0,1,30
+LR016,Odense Media Console,TV Stands,Living Room,599.99,70-inch media console with sliding barn doors,"{""width"": 70, ""depth"": 16, ""height"": 26, ""unit"": ""inches""}",110,Wood,Rustic Gray,1,75,1,7
+LR017,Aalborg Corner Shelf,Shelving,Living Room,149.99,5-tier corner shelf maximizes space,"{""width"": 24, ""depth"": 24, ""height"": 60, ""unit"": ""inches""}",28,Wood,White,1,25,1,22
+LR018,Esbjerg Sofa Table,Tables,Living Room,199.99,Long sofa table fits behind couch,"{""width"": 60, ""depth"": 12, ""height"": 28, ""unit"": ""inches""}",32,Wood/Metal,Walnut/Black,1,20,1,15
+LR019,Roskilde Accent Cabinet,Cabinets,Living Room,349.99,Accent cabinet with patterned doors,"{""width"": 32, ""depth"": 14, ""height"": 32, ""unit"": ""inches""}",55,Wood,Navy Blue,1,30,1,12
+LR020,Viborg Plant Stand Set,Plant Stands,Living Room,89.99,Set of 3 metal plant stands varying heights,"{""width"": 12, ""depth"": 12, ""height"": 30, ""unit"": ""inches""}",15,Metal,Gold,1,15,1,28
+LR021,Kolding Swivel Chair,Chairs,Living Room,449.99,360-degree swivel accent chair in velvet,"{""width"": 30, ""depth"": 32, ""height"": 32, ""unit"": ""inches""}",42,Velvet,Emerald Green,0,0,1,10
+LR022,Horsens Media Tower,TV Stands,Living Room,199.99,Tall media tower for CD DVD and games,"{""width"": 10, ""depth"": 10, ""height"": 52, ""unit"": ""inches""}",35,Wood,Black,1,30,1,20
+LR023,Silkeborg Leather Sofa,Sofas,Living Room,1899.99,Top grain leather sofa with nailhead trim,"{""width"": 90, ""depth"": 38, ""height"": 35, ""unit"": ""inches""}",175,Leather,Cognac,0,0,1,4
+LR024,Herning Tufted Loveseat,Sofas,Living Room,799.99,Chesterfield-style tufted loveseat,"{""width"": 62, ""depth"": 34, ""height"": 30, ""unit"": ""inches""}",95,Velvet,Teal,0,0,1,8
+LR025,Vejle Lift Top Coffee Table,Tables,Living Room,349.99,Coffee table with lift-top for laptop use,"{""width"": 44, ""depth"": 22, ""height"": 19, ""unit"": ""inches""}",65,Wood,Espresso,1,35,1,12
+LR026,Fredericia Floating Shelves,Shelving,Living Room,79.99,Set of 3 floating wall shelves,"{""width"": 24, ""depth"": 6, ""height"": 2, ""unit"": ""inches""}",12,Wood,Natural Oak,1,20,1,35
+LR027,Sonderborg Table Lamp Set,Lighting,Living Room,99.99,Set of 2 ceramic table lamps,"{""width"": 12, ""depth"": 12, ""height"": 24, ""unit"": ""inches""}",14,Ceramic,White,0,0,1,20
+LR028,Nyborg Pendant Light,Lighting,Living Room,179.99,Modern geometric pendant light,"{""width"": 18, ""depth"": 18, ""height"": 15, ""unit"": ""inches""}",8,Metal,Black/Gold,1,25,1,15
+LR029,Holstebro Area Rug 5x7,Rugs,Living Room,249.99,Soft shag area rug in neutral tones,"{""width"": 84, ""depth"": 60, ""height"": 1.5, ""unit"": ""inches""}",25,Polyester,Ivory,0,0,1,18
+LR030,Skanderborg Wall Mirror,Mirrors,Living Room,199.99,Large round wall mirror with gold frame,"{""width"": 36, ""depth"": 2, ""height"": 36, ""unit"": ""inches""}",22,Glass/Metal,Gold,1,15,1,14
+BR011,Malmo California King Bed,Beds,Bedroom,1199.99,California king bed with storage drawers,"{""width"": 76, ""depth"": 88, ""height"": 50, ""unit"": ""inches""}",210,Wood,Gray,1,105,1,4
+BR012,Oslo Bunk Bed,Beds,Bedroom,699.99,Twin over twin bunk bed with ladder,"{""width"": 42, ""depth"": 80, ""height"": 65, ""unit"": ""inches""}",145,Wood,White,1,90,1,8
+BR013,Bergen Full Daybed,Beds,Bedroom,549.99,Full daybed with trundle for guests,"{""width"": 56, ""depth"": 80, ""height"": 38, ""unit"": ""inches""}",125,Wood/Metal,Black,1,60,1,10
+BR014,Stockholm Canopy Bed,Beds,Bedroom,1499.99,King canopy bed with modern metal frame,"{""width"": 82, ""depth"": 88, ""height"": 82, ""unit"": ""inches""}",165,Metal,Matte Black,1,120,1,3
+BR015,Helsinki Murphy Bed,Beds,Bedroom,1899.99,Queen murphy bed with shelving,"{""width"": 66, ""depth"": 14, ""height"": 84, ""unit"": ""inches""}",285,Wood,White,1,180,0,2
+BR016,Aarhus 8-Drawer Dresser,Dressers,Bedroom,849.99,Extra wide dresser with mirror,"{""width"": 72, ""depth"": 18, ""height"": 34, ""unit"": ""inches""}",175,Wood,Natural Oak,1,75,1,6
+BR017,Gothenburg Tall Chest,Dressers,Bedroom,549.99,7-drawer tall chest with jewelry tray,"{""width"": 36, ""depth"": 18, ""height"": 54, ""unit"": ""inches""}",115,Wood,Espresso,1,55,1,9
+BR018,Turku 3-Drawer Nightstand,Nightstands,Bedroom,229.99,Nightstand with USB ports and outlet,"{""width"": 24, ""depth"": 16, ""height"": 26, ""unit"": ""inches""}",38,Wood,White,1,25,1,18
+BR019,Tampere Floating Nightstand,Nightstands,Bedroom,149.99,Wall-mounted nightstand with drawer,"{""width"": 18, ""depth"": 12, ""height"": 8, ""unit"": ""inches""}",15,Wood,Walnut,1,35,1,22
+BR020,Reykjavik Armoire,Wardrobes,Bedroom,1199.99,Traditional armoire with hanging and shelves,"{""width"": 42, ""depth"": 22, ""height"": 72, ""unit"": ""inches""}",225,Wood,Cherry,1,150,1,3
+BR021,Nuuk Walk-In Closet System,Wardrobes,Bedroom,799.99,Modular closet organizer system,"{""width"": 96, ""depth"": 16, ""height"": 84, ""unit"": ""inches""}",165,Wood/Metal,White,1,180,1,5
+BR022,Stavanger Jewelry Armoire,Storage,Bedroom,349.99,Standing jewelry armoire with mirror,"{""width"": 18, ""depth"": 14, ""height"": 48, ""unit"": ""inches""}",55,Wood,Espresso,1,40,1,12
+BR023,Trondheim Blanket Chest,Storage,Bedroom,299.99,Cedar-lined blanket chest,"{""width"": 42, ""depth"": 18, ""height"": 20, ""unit"": ""inches""}",48,Cedar,Natural,1,35,1,14
+BR024,Uppsala Shoe Rack,Storage,Bedroom,129.99,3-tier shoe rack holds 15 pairs,"{""width"": 30, ""depth"": 12, ""height"": 24, ""unit"": ""inches""}",18,Wood/Metal,Gray,1,20,1,28
+BR025,Odense Laundry Hamper,Storage,Bedroom,79.99,Woven hamper with removable liner,"{""width"": 18, ""depth"": 14, ""height"": 24, ""unit"": ""inches""}",8,Wicker,Natural,0,0,1,35
+BR026,Aalborg Valet Stand,Accessories,Bedroom,119.99,Gentleman valet stand for suit,"{""width"": 18, ""depth"": 16, ""height"": 48, ""unit"": ""inches""}",12,Wood,Walnut,1,15,1,20
+BR027,Esbjerg Full Length Mirror,Mirrors,Bedroom,179.99,Floor standing full length mirror,"{""width"": 24, ""depth"": 2, ""height"": 65, ""unit"": ""inches""}",28,Glass/Wood,Black,1,20,1,15
+BR028,Roskilde Bedroom Bench,Benches,Bedroom,249.99,Upholstered bench with gold legs,"{""width"": 52, ""depth"": 18, ""height"": 20, ""unit"": ""inches""}",38,Velvet/Metal,Blush Pink,1,25,1,10
+BR029,Viborg Headboard Only Queen,Headboards,Bedroom,349.99,Tufted headboard attaches to wall,"{""width"": 64, ""depth"": 4, ""height"": 52, ""unit"": ""inches""}",45,Fabric,Gray,1,45,1,12
+BR030,Kolding Headboard Only King,Headboards,Bedroom,449.99,Channel tufted headboard for king,"{""width"": 80, ""depth"": 4, ""height"": 54, ""unit"": ""inches""}",55,Velvet,Navy Blue,1,45,1,8
+DR009,Horsens Farmhouse Table,Tables,Dining Room,1099.99,Solid wood farmhouse table seats 8,"{""width"": 84, ""depth"": 42, ""height"": 30, ""unit"": ""inches""}",165,Wood,Reclaimed Gray,1,75,1,5
+DR010,Silkeborg Counter Height Table,Tables,Dining Room,499.99,Counter height dining table seats 4,"{""width"": 48, ""depth"": 36, ""height"": 36, ""unit"": ""inches""}",85,Wood,Black,1,50,1,10
+DR011,Herning Drop Leaf Table,Tables,Dining Room,399.99,Space-saving drop leaf table,"{""width"": 42, ""depth"": 30, ""height"": 30, ""unit"": ""inches""}",65,Wood,White,1,35,1,15
+DR012,Vejle Bistro Table,Tables,Dining Room,249.99,Small bistro table for two,"{""width"": 30, ""depth"": 30, ""height"": 30, ""unit"": ""inches""}",45,Marble/Metal,White/Gold,1,25,1,18
+DR013,Fredericia Parsons Chairs Set,Chairs,Dining Room,549.99,Set of 6 upholstered parsons chairs,"{""width"": 18, ""depth"": 22, ""height"": 38, ""unit"": ""inches""}",72,Fabric,Cream,1,45,1,8
+DR014,Sonderborg Counter Stools Set,Chairs,Dining Room,349.99,Set of 2 counter height stools,"{""width"": 18, ""depth"": 18, ""height"": 26, ""unit"": ""inches""}",32,Metal/Wood,Black/Walnut,1,20,1,20
+DR015,Nyborg Bar Stools Set,Chairs,Dining Room,399.99,Set of 2 swivel bar stools,"{""width"": 20, ""depth"": 20, ""height"": 30, ""unit"": ""inches""}",38,Leather/Metal,Brown/Chrome,1,25,1,15
+DR016,Holstebro Upholstered Bench,Benches,Dining Room,299.99,Tufted dining bench seats 3,"{""width"": 54, ""depth"": 16, ""height"": 20, ""unit"": ""inches""}",42,Fabric,Gray,1,30,1,12
+DR017,Skanderborg Server,Buffets,Dining Room,649.99,Narrow server with wine storage,"{""width"": 48, ""depth"": 16, ""height"": 36, ""unit"": ""inches""}",95,Wood,Walnut,1,50,1,8
+DR018,Randers Credenza,Buffets,Dining Room,899.99,Mid-century modern credenza,"{""width"": 66, ""depth"": 18, ""height"": 30, ""unit"": ""inches""}",125,Wood,Natural Oak,1,60,1,6
+DR019,Hjorring Hutch,Cabinets,Dining Room,799.99,Hutch topper for buffet with glass doors,"{""width"": 60, ""depth"": 14, ""height"": 48, ""unit"": ""inches""}",85,Wood/Glass,White,1,75,1,5
+DR020,Slagelse Corner Cabinet,Cabinets,Dining Room,549.99,Corner china cabinet with display,"{""width"": 32, ""depth"": 32, ""height"": 72, ""unit"": ""inches""}",95,Wood/Glass,Cherry,1,60,1,7
+DR021,Naestved Wine Rack,Bar Carts,Dining Room,199.99,Wall mounted wine rack holds 24 bottles,"{""width"": 36, ""depth"": 8, ""height"": 24, ""unit"": ""inches""}",18,Metal,Black,1,25,1,22
+DR022,Ringsted Serving Cart,Bar Carts,Dining Room,249.99,3-tier serving cart on wheels,"{""width"": 28, ""depth"": 16, ""height"": 34, ""unit"": ""inches""}",25,Metal/Glass,Chrome,1,20,1,18
+DR023,Svendborg Chandelier,Lighting,Dining Room,349.99,Modern sputnik chandelier,"{""width"": 24, ""depth"": 24, ""height"": 18, ""unit"": ""inches""}",15,Metal,Gold,1,45,1,10
+DR024,Haderslev Pendant Cluster,Lighting,Dining Room,279.99,3-light pendant cluster for over table,"{""width"": 30, ""depth"": 8, ""height"": 48, ""unit"": ""inches""}",12,Glass/Metal,Clear/Brass,1,35,1,14
+DR025,Grenaa Dining Room Rug,Rugs,Dining Room,349.99,Stain resistant dining rug 6x9,"{""width"": 108, ""depth"": 72, ""height"": 0.3, ""unit"": ""inches""}",28,Polypropylene,Blue/Ivory,0,0,1,12
+OF009,Randers Executive Desk,Desks,Office,899.99,Large executive desk with file drawers,"{""width"": 72, ""depth"": 36, ""height"": 30, ""unit"": ""inches""}",145,Wood,Dark Walnut,1,90,1,5
+OF010,Hjorring Floating Desk,Desks,Office,249.99,Wall-mounted floating desk saves space,"{""width"": 42, ""depth"": 20, ""height"": 8, ""unit"": ""inches""}",35,Wood,White,1,40,1,18
+OF011,Slagelse Secretary Desk,Desks,Office,449.99,Traditional secretary desk with hutch,"{""width"": 36, ""depth"": 18, ""height"": 42, ""unit"": ""inches""}",85,Wood,Cherry,1,60,1,10
+OF012,Naestved Computer Desk,Desks,Office,349.99,Computer desk with keyboard tray,"{""width"": 54, ""depth"": 24, ""height"": 30, ""unit"": ""inches""}",65,Wood/Metal,Black,1,40,1,15
+OF013,Ringsted Drafting Table,Desks,Office,549.99,Adjustable drafting table for artists,"{""width"": 42, ""depth"": 30, ""height"": 36, ""unit"": ""inches""}",55,Wood/Metal,Natural/Black,1,45,1,8
+OF014,Svendborg High Back Chair,Chairs,Office,499.99,Leather executive chair with headrest,"{""width"": 28, ""depth"": 30, ""height"": 50, ""unit"": ""inches""}",52,Leather,Black,1,25,1,12
+OF015,Haderslev Kneeling Chair,Chairs,Office,199.99,Ergonomic kneeling chair,"{""width"": 20, ""depth"": 28, ""height"": 24, ""unit"": ""inches""}",22,Fabric/Wood,Black,1,15,1,20
+OF016,Grenaa Gaming Chair,Chairs,Office,349.99,Racing style gaming chair,"{""width"": 26, ""depth"": 28, ""height"": 52, ""unit"": ""inches""}",48,Leather/Mesh,Black/Red,1,30,1,15
+OF017,Lemvig Ball Chair,Chairs,Office,149.99,Exercise ball chair for active sitting,"{""width"": 22, ""depth"": 22, ""height"": 24, ""unit"": ""inches""}",15,Fabric/Rubber,Gray,0,0,1,25
+OF018,Thisted Credenza,Storage,Office,599.99,Office credenza with locking doors,"{""width"": 60, ""depth"": 20, ""height"": 30, ""unit"": ""inches""}",115,Wood,Espresso,1,65,1,7
+OF019,Skive Vertical File,Filing Cabinets,Office,249.99,4-drawer vertical file cabinet,"{""width"": 18, ""depth"": 24, ""height"": 52, ""unit"": ""inches""}",75,Metal,Black,1,25,1,18
+OF020,Mariager Printer Stand,Accessories,Office,129.99,Printer stand with storage,"{""width"": 24, ""depth"": 20, ""height"": 26, ""unit"": ""inches""}",32,Wood/Metal,White,1,25,1,22
+OF021,Hobro Cable Management Box,Accessories,Office,39.99,Desk cable organizer box,"{""width"": 16, ""depth"": 6, ""height"": 6, ""unit"": ""inches""}",3,Plastic,White,0,0,1,50
+OF022,Struer Desk Lamp,Lighting,Office,79.99,LED desk lamp with USB charging,"{""width"": 6, ""depth"": 18, ""height"": 18, ""unit"": ""inches""}",4,Metal,Black,0,0,1,35
+OF023,Ikast Office Rug,Rugs,Office,199.99,Low pile office rug 5x7,"{""width"": 84, ""depth"": 60, ""height"": 0.2, ""unit"": ""inches""}",18,Nylon,Charcoal,0,0,1,20
+OF024,Frederikshavn Whiteboard,Accessories,Office,149.99,Magnetic whiteboard 4x3 feet,"{""width"": 48, ""depth"": 2, ""height"": 36, ""unit"": ""inches""}",22,Metal/Glass,White,1,20,1,18
+OF025,Bronderslev Corkboard,Accessories,Office,69.99,Large cork bulletin board,"{""width"": 36, ""depth"": 1, ""height"": 24, ""unit"": ""inches""}",8,Cork/Wood,Natural,1,10,1,28
+OD009,Sunset Egg Chair,Chairs,Outdoor,799.99,Hanging egg chair with stand,"{""width"": 42, ""depth"": 42, ""height"": 78, ""unit"": ""inches""}",85,Wicker/Metal,Gray,1,60,1,6
+OD010,Coastal Rocking Chair,Chairs,Outdoor,249.99,Outdoor rocking chair in HDPE,"{""width"": 28, ""depth"": 34, ""height"": 42, ""unit"": ""inches""}",42,Plastic,White,1,30,1,15
+OD011,Pacific Swivel Chair,Chairs,Outdoor,349.99,Outdoor swivel glider with cushion,"{""width"": 32, ""depth"": 34, ""height"": 36, ""unit"": ""inches""}",55,Wicker,Brown,1,35,1,10
+OD012,Marina Bistro Set,Patio Sets,Outdoor,299.99,3-piece bistro set for balcony,"{""width"": 24, ""depth"": 24, ""height"": 30, ""unit"": ""inches""}",45,Metal,Black,1,30,1,18
+OD013,Harbor Bar Height Set,Patio Sets,Outdoor,899.99,5-piece bar height patio set,"{""width"": 42, ""depth"": 42, ""height"": 42, ""unit"": ""inches""}",135,Aluminum,Gray,1,75,1,5
+OD014,Laguna Conversation Set,Patio Sets,Outdoor,1299.99,4-piece seating with fire pit table,"{""width"": 84, ""depth"": 84, ""height"": 32, ""unit"": ""inches""}",195,Wicker,Espresso,1,90,1,4
+OD015,Malibu Daybed,Loungers,Outdoor,1199.99,Outdoor daybed with canopy,"{""width"": 72, ""depth"": 54, ""height"": 72, ""unit"": ""inches""}",145,Wicker/Fabric,Gray,1,105,1,3
+OD016,Beach Double Lounger,Loungers,Outdoor,449.99,Double wide chaise for two,"{""width"": 54, ""depth"": 78, ""height"": 38, ""unit"": ""inches""}",85,Wicker,Natural,1,50,1,8
+OD017,Coastal Hammock Stand,Hammocks,Outdoor,299.99,Steel hammock stand with hammock,"{""width"": 144, ""depth"": 48, ""height"": 48, ""unit"": ""inches""}",55,Steel/Cotton,Bronze/Stripe,1,40,1,12
+OD018,Pacific Pergola,Structures,Outdoor,1499.99,10x12 aluminum pergola kit,"{""width"": 144, ""depth"": 120, ""height"": 96, ""unit"": ""inches""}",285,Aluminum,Gray,1,360,0,2
+OD019,Marina Gazebo,Structures,Outdoor,1999.99,12x12 hardtop gazebo,"{""width"": 144, ""depth"": 144, ""height"": 108, ""unit"": ""inches""}",425,Aluminum/Steel,Brown,1,480,0,1
+OD020,Harbor Fire Pit,Fire Pits,Outdoor,399.99,Propane fire pit table,"{""width"": 42, ""depth"": 42, ""height"": 24, ""unit"": ""inches""}",75,Concrete/Metal,Gray,1,60,1,10
+OD021,Laguna Fire Bowl,Fire Pits,Outdoor,249.99,Wood burning fire bowl,"{""width"": 30, ""depth"": 30, ""height"": 24, ""unit"": ""inches""}",35,Steel,Black,1,30,1,15
+OD022,Malibu Outdoor Bar,Bars,Outdoor,799.99,Outdoor bar with storage,"{""width"": 60, ""depth"": 24, ""height"": 42, ""unit"": ""inches""}",125,Wicker,Brown,1,75,1,5
+OD023,Beach Outdoor Bar Stools,Bars,Outdoor,299.99,Set of 2 outdoor bar stools,"{""width"": 18, ""depth"": 18, ""height"": 30, ""unit"": ""inches""}",32,Aluminum,White,1,25,1,12
+OD024,Coastal Storage Bench,Storage,Outdoor,299.99,Deck storage bench holds cushions,"{""width"": 52, ""depth"": 22, ""height"": 24, ""unit"": ""inches""}",45,Resin,Brown,1,40,1,14
+OD025,Pacific Outdoor Rug,Rugs,Outdoor,149.99,Weather resistant outdoor rug 5x7,"{""width"": 84, ""depth"": 60, ""height"": 0.2, ""unit"": ""inches""}",12,Polypropylene,Blue/White,0,0,1,20
+KD001,Copenhagen Kids Twin Bed,Beds,Kids,399.99,Twin bed with safety rails,"{""width"": 42, ""depth"": 78, ""height"": 35, ""unit"": ""inches""}",65,Wood,White,1,45,1,15
+KD002,Stockholm Loft Bed,Beds,Kids,599.99,Twin loft bed with desk underneath,"{""width"": 42, ""depth"": 80, ""height"": 68, ""unit"": ""inches""}",125,Wood/Metal,Gray,1,90,1,8
+KD003,Oslo Toddler Bed,Beds,Kids,199.99,Toddler bed with low profile,"{""width"": 30, ""depth"": 56, ""height"": 24, ""unit"": ""inches""}",35,Wood,Natural,1,25,1,20
+KD004,Malmo Trundle Bed,Beds,Kids,549.99,Twin bed with pull-out trundle,"{""width"": 42, ""depth"": 78, ""height"": 36, ""unit"": ""inches""}",95,Wood,Espresso,1,60,1,10
+KD005,Bergen Triple Bunk,Beds,Kids,899.99,Triple bunk bed for shared rooms,"{""width"": 42, ""depth"": 80, ""height"": 78, ""unit"": ""inches""}",185,Wood/Metal,Black,1,120,1,4
+KD006,Helsinki Kids Dresser,Dressers,Kids,349.99,5-drawer kids dresser with safety hardware,"{""width"": 36, ""depth"": 18, ""height"": 42, ""unit"": ""inches""}",85,Wood,Pink,1,40,1,12
+KD007,Aarhus Kids Nightstand,Nightstands,Kids,129.99,Kids nightstand with open shelf,"{""width"": 18, ""depth"": 14, ""height"": 20, ""unit"": ""inches""}",22,Wood,Blue,1,15,1,25
+KD008,Gothenburg Toy Chest,Storage,Kids,199.99,Toy chest with slow-close lid,"{""width"": 36, ""depth"": 18, ""height"": 20, ""unit"": ""inches""}",38,Wood,White,1,25,1,18
+KD009,Turku Bookcase Kids,Shelving,Kids,179.99,Kids bookcase with toy bins,"{""width"": 36, ""depth"": 12, ""height"": 42, ""unit"": ""inches""}",45,Wood,Natural/Multi,1,30,1,15
+KD010,Tampere Kids Desk,Desks,Kids,249.99,Kids desk with hutch storage,"{""width"": 42, ""depth"": 20, ""height"": 48, ""unit"": ""inches""}",55,Wood,White,1,45,1,12
+KD011,Reykjavik Kids Chair,Chairs,Kids,79.99,Adjustable kids desk chair,"{""width"": 18, ""depth"": 18, ""height"": 32, ""unit"": ""inches""}",15,Fabric/Metal,Blue,1,15,1,30
+KD012,Nuuk Bean Bag Chair,Chairs,Kids,69.99,Large bean bag chair for kids,"{""width"": 36, ""depth"": 36, ""height"": 28, ""unit"": ""inches""}",8,Fabric,Pink,0,0,1,25
+KD013,Stavanger Play Table,Tables,Kids,149.99,Kids activity table with storage,"{""width"": 40, ""depth"": 24, ""height"": 22, ""unit"": ""inches""}",28,Wood,White/Natural,1,25,1,18
+KD014,Trondheim Stool Set,Chairs,Kids,59.99,Set of 2 kids stools,"{""width"": 12, ""depth"": 12, ""height"": 12, ""unit"": ""inches""}",10,Wood,Multi,1,10,1,30
+KD015,Uppsala Kids Wardrobe,Wardrobes,Kids,449.99,Kids wardrobe with lower rod,"{""width"": 36, ""depth"": 22, ""height"": 60, ""unit"": ""inches""}",95,Wood,White,1,60,1,8
+KD016,Odense Reading Nook,Seating,Kids,299.99,Kids reading corner chair,"{""width"": 30, ""depth"": 28, ""height"": 48, ""unit"": ""inches""}",35,Fabric/Wood,Gray,1,30,1,10
+KD017,Aalborg Kids Rug,Rugs,Kids,99.99,Playful kids rug 5x7,"{""width"": 84, ""depth"": 60, ""height"": 0.5, ""unit"": ""inches""}",15,Nylon,Multi/Roads,0,0,1,22
+KD018,Esbjerg Teepee Tent,Decor,Kids,89.99,Cotton teepee play tent,"{""width"": 48, ""depth"": 48, ""height"": 60, ""unit"": ""inches""}",12,Cotton/Wood,White/Gray,1,20,1,20
+KD019,Roskilde Wall Shelf,Shelving,Kids,49.99,Cloud-shaped floating shelf,"{""width"": 24, ""depth"": 6, ""height"": 10, ""unit"": ""inches""}",5,Wood,White,1,15,1,35
+KD020,Viborg Growth Chart,Decor,Kids,29.99,Wooden growth chart ruler,"{""width"": 8, ""depth"": 1, ""height"": 60, ""unit"": ""inches""}",3,Wood,Natural,1,10,1,40
+EN001,Copenhagen Entry Bench,Benches,Entryway,249.99,Entry bench with shoe storage,"{""width"": 42, ""depth"": 16, ""height"": 18, ""unit"": ""inches""}",38,Wood,White,1,25,1,15
+EN002,Stockholm Hall Tree,Hall Trees,Entryway,349.99,Hall tree with bench and hooks,"{""width"": 36, ""depth"": 18, ""height"": 72, ""unit"": ""inches""}",65,Wood,Espresso,1,45,1,10
+EN003,Oslo Coat Rack,Coat Racks,Entryway,99.99,Freestanding coat rack with umbrella holder,"{""width"": 16, ""depth"": 16, ""height"": 72, ""unit"": ""inches""}",18,Metal,Black,1,15,1,25
+EN004,Malmo Console Entry,Tables,Entryway,299.99,Narrow entry console with drawers,"{""width"": 42, ""depth"": 14, ""height"": 32, ""unit"": ""inches""}",42,Wood,Walnut,1,30,1,12
+EN005,Bergen Shoe Cabinet,Storage,Entryway,249.99,Shoe cabinet with tilt-out bins,"{""width"": 36, ""depth"": 10, ""height"": 42, ""unit"": ""inches""}",48,Wood,White,1,35,1,14
+EN006,Helsinki Entry Mirror,Mirrors,Entryway,149.99,Entryway mirror with hooks,"{""width"": 24, ""depth"": 4, ""height"": 36, ""unit"": ""inches""}",18,Glass/Wood,Natural Oak,1,20,1,20
+EN007,Aarhus Key Cabinet,Accessories,Entryway,59.99,Wall mounted key cabinet,"{""width"": 12, ""depth"": 4, ""height"": 16, ""unit"": ""inches""}",5,Wood,White,1,10,1,35
+EN008,Gothenburg Umbrella Stand,Accessories,Entryway,49.99,Ceramic umbrella holder,"{""width"": 8, ""depth"": 8, ""height"": 18, ""unit"": ""inches""}",8,Ceramic,Gray,0,0,1,28
+EN009,Turku Entry Rug,Rugs,Entryway,79.99,Indoor outdoor entry mat 3x5,"{""width"": 60, ""depth"": 36, ""height"": 0.3, ""unit"": ""inches""}",8,Polypropylene,Navy,0,0,1,30
+EN010,Tampere Wall Hooks Set,Accessories,Entryway,39.99,Set of 5 wall mounted hooks,"{""width"": 4, ""depth"": 3, ""height"": 4, ""unit"": ""inches""}",2,Metal,Brass,1,10,1,45
+BA001,Copenhagen Vanity Cabinet,Vanities,Bathroom,599.99,36-inch bathroom vanity with sink,"{""width"": 36, ""depth"": 22, ""height"": 34, ""unit"": ""inches""}",95,Wood,White,1,60,1,8
+BA002,Stockholm Double Vanity,Vanities,Bathroom,999.99,60-inch double sink vanity,"{""width"": 60, ""depth"": 22, ""height"": 34, ""unit"": ""inches""}",165,Wood,Gray,1,90,1,4
+BA003,Oslo Floating Vanity,Vanities,Bathroom,449.99,Wall mounted bathroom vanity,"{""width"": 30, ""depth"": 18, ""height"": 20, ""unit"": ""inches""}",55,Wood,Walnut,1,45,1,10
+BA004,Malmo Medicine Cabinet,Cabinets,Bathroom,199.99,Mirrored medicine cabinet,"{""width"": 24, ""depth"": 6, ""height"": 30, ""unit"": ""inches""}",28,Glass/Wood,White,1,25,1,18
+BA005,Bergen Linen Tower,Storage,Bathroom,249.99,Tall bathroom linen cabinet,"{""width"": 16, ""depth"": 14, ""height"": 65, ""unit"": ""inches""}",55,Wood,White,1,40,1,12
+BA006,Helsinki Over Toilet Cabinet,Storage,Bathroom,129.99,Space saver over toilet storage,"{""width"": 24, ""depth"": 10, ""height"": 68, ""unit"": ""inches""}",28,Wood,Espresso,1,30,1,20
+BA007,Aarhus Bath Stool,Seating,Bathroom,79.99,Teak shower bench,"{""width"": 18, ""depth"": 12, ""height"": 18, ""unit"": ""inches""}",12,Teak,Natural,1,15,1,25
+BA008,Gothenburg Ladder Shelf,Shelving,Bathroom,119.99,Leaning ladder bathroom shelf,"{""width"": 18, ""depth"": 12, ""height"": 60, ""unit"": ""inches""}",18,Wood,White,1,20,1,22
+BA009,Turku Towel Rack,Accessories,Bathroom,49.99,Freestanding towel rack,"{""width"": 24, ""depth"": 12, ""height"": 36, ""unit"": ""inches""}",8,Metal,Chrome,1,15,1,30
+BA010,Tampere Bath Mat,Rugs,Bathroom,39.99,Bamboo bath mat,"{""width"": 24, ""depth"": 16, ""height"": 0.5, ""unit"": ""inches""}",4,Bamboo,Natural,0,0,1,40
+GA001,Copenhagen Outdoor Potting Bench,Work Benches,Garden,349.99,Potting bench with sink hook-up,"{""width"": 48, ""depth"": 24, ""height"": 48, ""unit"": ""inches""}",65,Wood,Natural,1,45,1,8
+GA002,Stockholm Garden Shed,Structures,Garden,1999.99,8x10 wooden garden shed,"{""width"": 120, ""depth"": 96, ""height"": 96, ""unit"": ""inches""}",485,Wood,Gray,1,480,0,2
+GA003,Oslo Tool Storage,Storage,Garden,299.99,Outdoor tool storage cabinet,"{""width"": 36, ""depth"": 18, ""height"": 60, ""unit"": ""inches""}",75,Resin,Brown,1,60,1,10
+GA004,Malmo Garden Bench,Benches,Garden,249.99,Classic wooden garden bench,"{""width"": 52, ""depth"": 24, ""height"": 36, ""unit"": ""inches""}",45,Wood,Natural,1,35,1,12
+GA005,Bergen Arbor,Structures,Garden,399.99,Wooden garden arbor,"{""width"": 54, ""depth"": 24, ""height"": 90, ""unit"": ""inches""}",65,Wood,White,1,75,1,6
+GA006,Helsinki Trellis Set,Decor,Garden,89.99,Set of 3 wooden trellises,"{""width"": 24, ""depth"": 1, ""height"": 72, ""unit"": ""inches""}",18,Wood,Black,1,20,1,20
+GA007,Aarhus Raised Bed,Planters,Garden,149.99,Raised garden bed 4x4,"{""width"": 48, ""depth"": 48, ""height"": 12, ""unit"": ""inches""}",35,Cedar,Natural,1,25,1,15
+GA008,Gothenburg Composter,Accessories,Garden,129.99,Tumbling compost bin,"{""width"": 28, ""depth"": 28, ""height"": 36, ""unit"": ""inches""}",25,Plastic,Black,1,30,1,18
+GA009,Turku Garden Cart,Accessories,Garden,199.99,Utility garden cart,"{""width"": 42, ""depth"": 22, ""height"": 24, ""unit"": ""inches""}",35,Metal/Plastic,Green,1,20,1,14
+GA010,Tampere Bird Bath,Decor,Garden,99.99,Pedestal bird bath,"{""width"": 18, ""depth"": 18, ""height"": 28, ""unit"": ""inches""}",28,Concrete,Gray,0,0,1,20
+HM001,Copenhagen Smart Speaker Stand,Tech,Home,59.99,Stand for smart speakers,"{""width"": 8, ""depth"": 8, ""height"": 32, ""unit"": ""inches""}",8,Wood,Walnut,1,15,1,30
+HM002,Stockholm Charging Station,Tech,Home,79.99,Multi-device charging station,"{""width"": 12, ""depth"": 8, ""height"": 6, ""unit"": ""inches""}",4,Bamboo,Natural,0,0,1,35
+HM003,Oslo Router Box,Tech,Home,49.99,Decorative router cover box,"{""width"": 14, ""depth"": 6, ""height"": 10, ""unit"": ""inches""}",5,Wood,White,0,0,1,40
+HM004,Malmo TV Tray Set,Tables,Home,149.99,Set of 4 folding TV trays,"{""width"": 20, ""depth"": 15, ""height"": 26, ""unit"": ""inches""}",25,Wood,Natural Oak,1,15,1,20
+HM005,Bergen Magazine Rack,Storage,Home,69.99,Floor magazine holder,"{""width"": 14, ""depth"": 10, ""height"": 20, ""unit"": ""inches""}",8,Metal,Gold,0,0,1,28
+HM006,Helsinki Record Cabinet,Storage,Home,349.99,Vinyl record storage cabinet,"{""width"": 36, ""depth"": 16, ""height"": 30, ""unit"": ""inches""}",65,Wood,Walnut,1,40,1,10
+HM007,Aarhus Room Divider,Dividers,Home,249.99,3-panel folding room divider,"{""width"": 54, ""depth"": 1, ""height"": 70, ""unit"": ""inches""}",28,Wood/Fabric,Natural,0,0,1,12
+HM008,Gothenburg Murphy Bar,Bars,Home,499.99,Wall mounted fold-down bar,"{""width"": 36, ""depth"": 6, ""height"": 24, ""unit"": ""inches""}",45,Wood,Espresso,1,45,1,8
+HM009,Turku Pet Bed,Pet,Home,129.99,Modern pet bed with cushion,"{""width"": 32, ""depth"": 24, ""height"": 12, ""unit"": ""inches""}",15,Wood/Fabric,Gray,0,0,1,18
+HM010,Tampere Cat Tree,Pet,Home,199.99,Modern cat tower,"{""width"": 24, ""depth"": 24, ""height"": 60, ""unit"": ""inches""}",35,Wood/Sisal,Natural/White,1,30,1,12
+MD001,Scandinavian Modern Sofa,Sofas,Living Room,1499.99,Designer sofa with clean lines,"{""width"": 88, ""depth"": 36, ""height"": 32, ""unit"": ""inches""}",135,Fabric,Cream,0,0,1,5
+MD002,Eames Style Lounge Chair,Chairs,Living Room,1299.99,Mid-century lounge chair and ottoman,"{""width"": 33, ""depth"": 33, ""height"": 33, ""unit"": ""inches""}",65,Leather/Wood,Black/Walnut,0,0,1,6
+MD003,Noguchi Style Coffee Table,Tables,Living Room,599.99,Sculptural glass coffee table,"{""width"": 50, ""depth"": 36, ""height"": 16, ""unit"": ""inches""}",55,Glass/Wood,Clear/Walnut,1,25,1,8
+MD004,Nelson Style Platform Bench,Benches,Living Room,449.99,Slatted wood platform bench,"{""width"": 48, ""depth"": 18, ""height"": 14, ""unit"": ""inches""}",35,Wood,Natural,1,20,1,10
+MD005,Tulip Style Dining Table,Tables,Dining Room,799.99,Pedestal dining table with marble top,"{""width"": 48, ""depth"": 48, ""height"": 29, ""unit"": ""inches""}",95,Marble/Metal,White,1,45,1,6
+MD006,Wishbone Style Chairs Set,Chairs,Dining Room,699.99,Set of 4 wishbone dining chairs,"{""width"": 22, ""depth"": 20, ""height"": 30, ""unit"": ""inches""}",48,Wood,Natural,1,30,1,8
+MD007,Arc Style Floor Lamp,Lighting,Living Room,349.99,Overhanging arc floor lamp,"{""width"": 14, ""depth"": 65, ""height"": 85, ""unit"": ""inches""}",35,Metal/Marble,Chrome/Black,1,30,1,10
+MD008,Bubble Style Chandelier,Lighting,Dining Room,599.99,Modern bubble glass chandelier,"{""width"": 32, ""depth"": 32, ""height"": 24, ""unit"": ""inches""}",22,Glass/Metal,Clear/Chrome,1,60,1,5
+MD009,Barcelona Style Daybed,Beds,Living Room,1199.99,Tufted leather daybed,"{""width"": 78, ""depth"": 39, ""height"": 26, ""unit"": ""inches""}",85,Leather/Metal,Black/Chrome,0,0,1,4
+MD010,Womb Style Chair,Chairs,Living Room,899.99,Curved lounge chair with ottoman,"{""width"": 40, ""depth"": 38, ""height"": 36, ""unit"": ""inches""}",55,Fabric,Orange,0,0,1,6
+FM001,Rustic Farmhouse Table,Tables,Dining Room,899.99,Distressed farm table seats 6,"{""width"": 72, ""depth"": 38, ""height"": 30, ""unit"": ""inches""}",145,Wood,Weathered Gray,1,60,1,6
+FM002,Farmhouse Bench,Benches,Dining Room,199.99,Matching farm table bench,"{""width"": 60, ""depth"": 14, ""height"": 18, ""unit"": ""inches""}",35,Wood,Weathered Gray,1,25,1,12
+FM003,Barnwood Bookcase,Bookcases,Living Room,449.99,Reclaimed barnwood bookshelf,"{""width"": 42, ""depth"": 14, ""height"": 72, ""unit"": ""inches""}",95,Reclaimed Wood,Mixed,1,45,1,8
+FM004,Distressed Console,Tables,Entryway,349.99,Farmhouse console with baskets,"{""width"": 48, ""depth"": 16, ""height"": 32, ""unit"": ""inches""}",55,Wood/Wicker,White/Natural,1,30,1,10
+FM005,Ladder Back Chairs Set,Chairs,Dining Room,399.99,Set of 4 ladder back chairs,"{""width"": 18, ""depth"": 20, ""height"": 40, ""unit"": ""inches""}",52,Wood,Black,1,25,1,14
+FM006,Farmhouse Hutch,Cabinets,Dining Room,1099.99,Display hutch with barn doors,"{""width"": 54, ""depth"": 18, ""height"": 78, ""unit"": ""inches""}",185,Wood,Distressed White,1,120,1,3
+FM007,Shiplap Wall Shelf,Shelving,Living Room,129.99,Shiplap-backed floating shelf,"{""width"": 36, ""depth"": 8, ""height"": 24, ""unit"": ""inches""}",18,Wood,White,1,20,1,20
+FM008,Galvanized Wall Decor,Decor,Living Room,79.99,Galvanized metal wall art set,"{""width"": 24, ""depth"": 2, ""height"": 24, ""unit"": ""inches""}",8,Metal,Silver,1,15,1,25
+FM009,Mason Jar Pendant,Lighting,Kitchen,89.99,Mason jar pendant light,"{""width"": 6, ""depth"": 6, ""height"": 12, ""unit"": ""inches""}",4,Glass/Metal,Clear/Bronze,1,20,1,28
+FM010,Country Rooster Clock,Decor,Kitchen,49.99,Vintage style wall clock,"{""width"": 18, ""depth"": 2, ""height"": 18, ""unit"": ""inches""}",5,Metal,Black,1,10,1,35
+IN001,Industrial Pipe Shelf,Shelving,Living Room,199.99,Industrial pipe wall shelving,"{""width"": 48, ""depth"": 10, ""height"": 36, ""unit"": ""inches""}",35,Wood/Metal,Walnut/Black,1,30,1,15
+IN002,Metal Factory Table,Tables,Dining Room,699.99,Industrial metal base table,"{""width"": 72, ""depth"": 36, ""height"": 30, ""unit"": ""inches""}",125,Wood/Metal,Natural/Black,1,50,1,7
+IN003,Pipe Bed Frame Queen,Beds,Bedroom,599.99,Industrial pipe bed frame,"{""width"": 62, ""depth"": 82, ""height"": 48, ""unit"": ""inches""}",95,Metal,Black,1,60,1,8
+IN004,Factory Cart Coffee Table,Tables,Living Room,449.99,Vintage factory cart style table,"{""width"": 48, ""depth"": 24, ""height"": 18, ""unit"": ""inches""}",75,Wood/Metal,Distressed/Black,1,35,1,10
+IN005,Wire Mesh Locker,Storage,Entryway,299.99,Industrial wire storage locker,"{""width"": 24, ""depth"": 18, ""height"": 72, ""unit"": ""inches""}",65,Metal,Black,1,40,1,12
+IN006,Edison Bulb Chandelier,Lighting,Dining Room,249.99,Industrial Edison style chandelier,"{""width"": 30, ""depth"": 8, ""height"": 18, ""unit"": ""inches""}",18,Metal,Bronze,1,35,1,14
+IN007,Metal Stool Set,Chairs,Kitchen,149.99,Set of 2 industrial metal stools,"{""width"": 14, ""depth"": 14, ""height"": 26, ""unit"": ""inches""}",28,Metal,Gunmetal,1,15,1,20
+IN008,Warehouse Desk,Desks,Office,449.99,Industrial desk with pipe legs,"{""width"": 60, ""depth"": 28, ""height"": 30, ""unit"": ""inches""}",85,Wood/Metal,Brown/Black,1,45,1,10
+IN009,Gear Wall Clock,Decor,Living Room,99.99,Exposed gear wall clock,"{""width"": 24, ""depth"": 3, ""height"": 24, ""unit"": ""inches""}",12,Metal,Bronze,0,0,1,18
+IN010,Rivet Trunk Coffee Table,Tables,Living Room,349.99,Steamer trunk style table,"{""width"": 42, ""depth"": 24, ""height"": 18, ""unit"": ""inches""}",55,Wood/Metal,Black,1,30,1,12
+BH001,Coastal Seagrass Sofa,Sofas,Living Room,1099.99,Coastal style sofa with seagrass accents,"{""width"": 84, ""depth"": 36, ""height"": 34, ""unit"": ""inches""}",125,Fabric/Seagrass,White/Natural,0,0,1,6
+BH002,Beach House Coffee Table,Tables,Living Room,349.99,Whitewashed wood coffee table,"{""width"": 48, ""depth"": 28, ""height"": 18, ""unit"": ""inches""}",55,Wood,Whitewash,1,30,1,10
+BH003,Rattan Peacock Chair,Chairs,Living Room,499.99,Statement rattan peacock chair,"{""width"": 42, ""depth"": 34, ""height"": 60, ""unit"": ""inches""}",35,Rattan,Natural,0,0,1,8
+BH004,Driftwood Console,Tables,Entryway,399.99,Driftwood and glass console,"{""width"": 48, ""depth"": 16, ""height"": 30, ""unit"": ""inches""}",45,Wood/Glass,Natural,1,25,1,10
+BH005,Nautical Rope Mirror,Mirrors,Bathroom,149.99,Round mirror with rope frame,"{""width"": 32, ""depth"": 2, ""height"": 32, ""unit"": ""inches""}",15,Glass/Rope,Natural,1,20,1,18
+BH006,Wicker Storage Baskets,Storage,Living Room,89.99,Set of 3 wicker baskets,"{""width"": 18, ""depth"": 14, ""height"": 14, ""unit"": ""inches""}",12,Wicker,Natural,0,0,1,25
+BH007,Shell Table Lamp,Lighting,Bedroom,129.99,Capiz shell table lamp,"{""width"": 14, ""depth"": 14, ""height"": 26, ""unit"": ""inches""}",8,Shell/Fabric,Natural/White,0,0,1,18
+BH008,Coastal Blue Rug,Rugs,Living Room,299.99,Coastal wave pattern rug 6x9,"{""width"": 108, ""depth"": 72, ""height"": 0.5, ""unit"": ""inches""}",28,Wool,Blue/Ivory,0,0,1,12
+BH009,Bamboo Bed Frame,Beds,Bedroom,799.99,Queen bamboo platform bed,"{""width"": 64, ""depth"": 84, ""height"": 45, ""unit"": ""inches""}",95,Bamboo,Natural,1,75,1,5
+BH010,Seashell Wall Art,Decor,Living Room,79.99,Framed seashell shadow box,"{""width"": 24, ""depth"": 2, ""height"": 24, ""unit"": ""inches""}",8,Glass/Wood,White,0,0,1,22
+GL001,Velvet Tufted Sofa,Sofas,Living Room,1899.99,Glamorous velvet tufted sofa,"{""width"": 88, ""depth"": 36, ""height"": 32, ""unit"": ""inches""}",145,Velvet,Emerald Green,0,0,1,4
+GL002,Mirrored Coffee Table,Tables,Living Room,599.99,Mirrored coffee table with gold trim,"{""width"": 48, ""depth"": 24, ""height"": 18, ""unit"": ""inches""}",75,Glass/Metal,Mirror/Gold,1,30,1,6
+GL003,Crystal Chandelier,Lighting,Dining Room,899.99,Crystal drop chandelier,"{""width"": 24, ""depth"": 24, ""height"": 30, ""unit"": ""inches""}",35,Crystal/Metal,Clear/Chrome,1,75,1,4
+GL004,Faux Fur Accent Chair,Chairs,Bedroom,449.99,Faux fur swivel chair,"{""width"": 30, ""depth"": 32, ""height"": 32, ""unit"": ""inches""}",38,Faux Fur,White,0,0,1,8
+GL005,Acrylic Console,Tables,Entryway,399.99,Clear acrylic waterfall console,"{""width"": 42, ""depth"": 14, ""height"": 30, ""unit"": ""inches""}",35,Acrylic,Clear,1,20,1,10
+GL006,Mirrored Nightstand,Nightstands,Bedroom,349.99,Mirrored 3-drawer nightstand,"{""width"": 24, ""depth"": 18, ""height"": 28, ""unit"": ""inches""}",55,Glass/Wood,Mirror,1,35,1,8
+GL007,Gold Bar Cart,Bar Carts,Dining Room,349.99,Art deco style bar cart,"{""width"": 32, ""depth"": 18, ""height"": 34, ""unit"": ""inches""}",32,Metal/Glass,Gold,1,25,1,12
+GL008,Tufted Storage Ottoman,Ottomans,Bedroom,299.99,Round tufted storage ottoman,"{""width"": 32, ""depth"": 32, ""height"": 18, ""unit"": ""inches""}",35,Velvet,Blush Pink,1,25,1,10
+GL009,Lucite Desk Chair,Chairs,Office,399.99,Clear acrylic desk chair,"{""width"": 24, ""depth"": 26, ""height"": 36, ""unit"": ""inches""}",28,Acrylic,Clear,0,0,1,12
+GL010,Sunburst Wall Mirror,Mirrors,Living Room,249.99,Gold sunburst wall mirror,"{""width"": 36, ""depth"": 2, ""height"": 36, ""unit"": ""inches""}",18,Metal/Glass,Gold,1,20,1,14
+TR001,Kilim Pattern Rug,Rugs,Living Room,399.99,Traditional kilim area rug 8x10,"{""width"": 120, ""depth"": 96, ""height"": 0.3, ""unit"": ""inches""}",32,Wool,Multi,0,0,1,8
+TR002,Carved Wood Cabinet,Cabinets,Dining Room,899.99,Hand-carved accent cabinet,"{""width"": 42, ""depth"": 18, ""height"": 36, ""unit"": ""inches""}",85,Wood,Natural,1,60,1,5
+TR003,Brass Tray Table,Tables,Living Room,199.99,Moroccan brass tray table,"{""width"": 24, ""depth"": 24, ""height"": 24, ""unit"": ""inches""}",15,Brass,Gold,0,0,1,18
+TR004,Inlay Dresser,Dressers,Bedroom,1299.99,Bone inlay 6-drawer dresser,"{""width"": 60, ""depth"": 18, ""height"": 34, ""unit"": ""inches""}",145,Wood/Bone,White/Gray,1,90,1,3
+TR005,Suzani Ottoman,Ottomans,Living Room,249.99,Embroidered suzani ottoman,"{""width"": 18, ""depth"": 18, ""height"": 18, ""unit"": ""inches""}",12,Fabric,Multi,0,0,1,15
+TR006,Pierced Metal Lantern,Lighting,Outdoor,79.99,Moroccan pierced metal lantern,"{""width"": 8, ""depth"": 8, ""height"": 16, ""unit"": ""inches""}",4,Metal,Brass,0,0,1,28
+TR007,Carved Room Screen,Dividers,Living Room,599.99,Hand-carved 4-panel screen,"{""width"": 80, ""depth"": 1, ""height"": 72, ""unit"": ""inches""}",45,Wood,Whitewash,0,0,1,6
+TR008,Jute Pouf,Seating,Living Room,89.99,Natural jute floor pouf,"{""width"": 20, ""depth"": 20, ""height"": 14, ""unit"": ""inches""}",8,Jute,Natural,0,0,1,25
+TR009,Wooden Trunk,Storage,Bedroom,349.99,Antique style wooden trunk,"{""width"": 36, ""depth"": 20, ""height"": 22, ""unit"": ""inches""}",45,Wood/Metal,Brown,0,0,1,10
+TR010,Batik Throw Pillows,Decor,Living Room,49.99,Set of 2 batik print pillows,"{""width"": 18, ""depth"": 18, ""height"": 6, ""unit"": ""inches""}",3,Cotton,Blue/White,0,0,1,35
+MN001,Minimalist Sofa,Sofas,Living Room,1199.99,Clean-lined minimalist sofa,"{""width"": 82, ""depth"": 34, ""height"": 30, ""unit"": ""inches""}",105,Fabric,Charcoal,0,0,1,8
+MN002,Simple Platform Bed,Beds,Bedroom,599.99,Low profile platform bed queen,"{""width"": 64, ""depth"": 84, ""height"": 12, ""unit"": ""inches""}",85,Wood,Black,1,45,1,10
+MN003,Floating TV Console,TV Stands,Living Room,349.99,Wall-mounted floating console,"{""width"": 60, ""depth"": 14, ""height"": 12, ""unit"": ""inches""}",45,Wood,White,1,50,1,12
+MN004,Slim Console Table,Tables,Entryway,199.99,Ultra slim console table,"{""width"": 48, ""depth"": 8, ""height"": 30, ""unit"": ""inches""}",25,Metal,Black,1,15,1,18
+MN005,Simple Dining Table,Tables,Dining Room,549.99,Minimalist dining table seats 6,"{""width"": 72, ""depth"": 36, ""height"": 30, ""unit"": ""inches""}",85,Wood,Natural Oak,1,40,1,8
+MN006,Wire Chair Set,Chairs,Dining Room,299.99,Set of 4 wire frame chairs,"{""width"": 20, ""depth"": 22, ""height"": 32, ""unit"": ""inches""}",36,Metal,Black,1,20,1,15
+MN007,Floating Nightstand Pair,Nightstands,Bedroom,199.99,Set of 2 floating nightstands,"{""width"": 16, ""depth"": 12, ""height"": 6, ""unit"": ""inches""}",18,Wood,Walnut,1,30,1,18
+MN008,Wall Mounted Desk,Desks,Office,299.99,Fold-down wall desk,"{""width"": 36, ""depth"": 20, ""height"": 24, ""unit"": ""inches""}",35,Wood,White,1,40,1,14
+MN009,Slim Bookshelf,Shelving,Living Room,179.99,Narrow tall bookshelf,"{""width"": 24, ""depth"": 8, ""height"": 72, ""unit"": ""inches""}",35,Metal/Wood,Black/Natural,1,25,1,16
+MN010,Concrete Side Table,Tables,Living Room,149.99,Concrete cylinder side table,"{""width"": 14, ""depth"": 14, ""height"": 18, ""unit"": ""inches""}",35,Concrete,Gray,0,0,1,20
+SC001,Teak Dining Set,Patio Sets,Outdoor,2499.99,Premium teak 7-piece dining set,"{""width"": 72, ""depth"": 42, ""height"": 30, ""unit"": ""inches""}",245,Teak,Natural,1,120,1,3
+SC002,Scandinavian Armchair,Chairs,Living Room,549.99,Danish-inspired armchair,"{""width"": 28, ""depth"": 30, ""height"": 32, ""unit"": ""inches""}",38,Fabric/Wood,Gray/Oak,0,0,1,10
+SC003,Round Oak Table,Tables,Dining Room,699.99,Solid oak round dining table,"{""width"": 54, ""depth"": 54, ""height"": 30, ""unit"": ""inches""}",115,Wood,Natural Oak,1,50,1,6
+SC004,Hygge Floor Lamp,Lighting,Living Room,199.99,Cozy tripod floor lamp,"{""width"": 18, ""depth"": 18, ""height"": 60, ""unit"": ""inches""}",15,Wood/Fabric,Natural/Linen,1,25,1,14
+SC005,Wool Throw Blanket,Decor,Living Room,129.99,Chunky knit wool throw,"{""width"": 50, ""depth"": 60, ""height"": 2, ""unit"": ""inches""}",4,Wool,Cream,0,0,1,25
+SC006,Ceramic Table Lamp,Lighting,Bedroom,149.99,Handmade ceramic lamp,"{""width"": 12, ""depth"": 12, ""height"": 22, ""unit"": ""inches""}",8,Ceramic/Fabric,Blue/White,0,0,1,18
+SC007,Linen Sofa Covers,Accessories,Living Room,199.99,Slipcover set for 3-seat sofa,"{""width"": 84, ""depth"": 36, ""height"": 34, ""unit"": ""inches""}",8,Linen,Natural,0,0,1,15
+SC008,Oak Coat Hook Rail,Accessories,Entryway,69.99,Wall mounted coat rail,"{""width"": 36, ""depth"": 3, ""height"": 4, ""unit"": ""inches""}",4,Wood,Natural Oak,1,10,1,28
+SC009,Simple Wood Tray,Accessories,Kitchen,39.99,Serving tray with handles,"{""width"": 20, ""depth"": 14, ""height"": 2, ""unit"": ""inches""}",3,Wood,Natural,0,0,1,35
+SC010,Woven Storage Basket,Storage,Living Room,49.99,Large woven storage basket,"{""width"": 18, ""depth"": 18, ""height"": 14, ""unit"": ""inches""}",4,Seagrass,Natural,0,0,1,30
+CL001,Chesterfield Sofa,Sofas,Living Room,2499.99,Classic leather chesterfield sofa,"{""width"": 90, ""depth"": 38, ""height"": 31, ""unit"": ""inches""}",175,Leather,Brown,0,0,1,3
+CL002,Wingback Chair,Chairs,Living Room,699.99,Traditional wingback armchair,"{""width"": 32, ""depth"": 34, ""height"": 42, ""unit"": ""inches""}",55,Fabric,Red,0,0,1,8
+CL003,Claw Foot Dining Table,Tables,Dining Room,1299.99,Mahogany table with claw feet,"{""width"": 84, ""depth"": 44, ""height"": 30, ""unit"": ""inches""}",185,Wood,Mahogany,1,90,1,4
+CL004,Queen Anne Chair Set,Chairs,Dining Room,899.99,Set of 4 Queen Anne chairs,"{""width"": 22, ""depth"": 24, ""height"": 42, ""unit"": ""inches""}",72,Wood/Fabric,Cherry/Cream,1,45,1,5
+CL005,Sleigh Bed King,Beds,Bedroom,1499.99,King sleigh bed in cherry,"{""width"": 82, ""depth"": 92, ""height"": 56, ""unit"": ""inches""}",225,Wood,Cherry,1,120,1,3
+CL006,Pedestal Sink Cabinet,Vanities,Bathroom,399.99,Classic pedestal sink vanity,"{""width"": 24, ""depth"": 20, ""height"": 34, ""unit"": ""inches""}",65,Porcelain/Wood,White,1,60,1,8
+CL007,Grandfather Clock,Decor,Living Room,1999.99,Traditional grandfather clock,"{""width"": 22, ""depth"": 14, ""height"": 78, ""unit"": ""inches""}",125,Wood,Dark Oak,1,180,1,2
+CL008,Secretary Bookcase,Bookcases,Office,1199.99,Secretary desk with bookcase,"{""width"": 36, ""depth"": 18, ""height"": 78, ""unit"": ""inches""}",145,Wood,Mahogany,1,90,1,4
+CL009,Tiffany Style Lamp,Lighting,Living Room,299.99,Stained glass table lamp,"{""width"": 16, ""depth"": 16, ""height"": 24, ""unit"": ""inches""}",15,Glass/Metal,Multi/Bronze,0,0,1,10
+CL010,Oriental Area Rug,Rugs,Dining Room,699.99,Traditional oriental rug 9x12,"{""width"": 144, ""depth"": 108, ""height"": 0.5, ""unit"": ""inches""}",45,Wool,Red/Navy,0,0,1,5
+EC001,Sustainable Bamboo Sofa,Sofas,Living Room,1199.99,Eco-friendly bamboo frame sofa,"{""width"": 80, ""depth"": 34, ""height"": 32, ""unit"": ""inches""}",95,Bamboo/Organic Cotton,Natural/Cream,0,0,1,6
+EC002,Reclaimed Wood Table,Tables,Dining Room,899.99,Dining table from reclaimed barn wood,"{""width"": 72, ""depth"": 38, ""height"": 30, ""unit"": ""inches""}",135,Reclaimed Wood,Mixed,1,60,1,5
+EC003,Cork Side Table,Tables,Living Room,199.99,Sustainable cork side table,"{""width"": 18, ""depth"": 18, ""height"": 20, ""unit"": ""inches""}",18,Cork,Natural,0,0,1,18
+EC004,Hemp Rug,Rugs,Living Room,349.99,Natural hemp area rug 8x10,"{""width"": 120, ""depth"": 96, ""height"": 0.3, ""unit"": ""inches""}",25,Hemp,Natural,0,0,1,12
+EC005,Recycled Plastic Chairs,Chairs,Outdoor,399.99,Set of 4 recycled HDPE chairs,"{""width"": 22, ""depth"": 24, ""height"": 34, ""unit"": ""inches""}",52,Recycled HDPE,White,1,25,1,10
+SP001,Smart Adjustable Bed,Beds,Bedroom,2499.99,Smart base with massage and app control,"{""width"": 60, ""depth"": 80, ""height"": 15, ""unit"": ""inches""}",185,Metal/Electronics,Gray,1,60,1,4
+SP002,Motorized Recliner,Chairs,Living Room,1299.99,Power recliner with heat and massage,"{""width"": 38, ""depth"": 40, ""height"": 42, ""unit"": ""inches""}",125,Leather,Brown,0,0,1,6
+SP003,LED Coffee Table,Tables,Living Room,499.99,Coffee table with built-in LED lighting,"{""width"": 48, ""depth"": 24, ""height"": 18, ""unit"": ""inches""}",65,Glass/Metal/LED,White,1,35,1,8
+SP004,Wireless Charging Nightstand,Nightstands,Bedroom,299.99,Nightstand with wireless charging,"{""width"": 22, ""depth"": 18, ""height"": 24, ""unit"": ""inches""}",42,Wood,White,1,30,1,12
+SP005,Smart Mirror Cabinet,Cabinets,Bathroom,599.99,LED mirror with defogging and bluetooth,"{""width"": 30, ""depth"": 6, ""height"": 36, ""unit"": ""inches""}",45,Glass/LED,Silver,1,45,1,8
+KT001,Kitchen Island Cart,Islands,Kitchen,449.99,Rolling kitchen island with storage,"{""width"": 42, ""depth"": 24, ""height"": 36, ""unit"": ""inches""}",85,Wood,White/Natural,1,45,1,10
+KT002,Butcher Block Island,Islands,Kitchen,799.99,Solid butcher block prep island,"{""width"": 48, ""depth"": 30, ""height"": 36, ""unit"": ""inches""}",145,Wood,Natural,1,60,1,6
+KT003,Baker's Rack,Shelving,Kitchen,249.99,5-tier baker's rack with wine storage,"{""width"": 36, ""depth"": 14, ""height"": 68, ""unit"": ""inches""}",48,Metal/Wood,Black/Walnut,1,40,1,14
+KT004,Kitchen Pantry Cabinet,Cabinets,Kitchen,399.99,Freestanding pantry cabinet,"{""width"": 36, ""depth"": 18, ""height"": 72, ""unit"": ""inches""}",95,Wood,White,1,60,1,8
+KT005,Microwave Cart,Carts,Kitchen,149.99,Microwave stand with storage,"{""width"": 24, ""depth"": 18, ""height"": 36, ""unit"": ""inches""}",38,Wood/Metal,Black,1,25,1,18
+LD001,Laundry Sorter,Storage,Laundry,99.99,3-bag laundry sorting hamper,"{""width"": 32, ""depth"": 16, ""height"": 34, ""unit"": ""inches""}",15,Metal/Fabric,Chrome/Gray,1,20,1,22
+LD002,Ironing Board Cabinet,Storage,Laundry,299.99,Wall-mounted ironing center,"{""width"": 14, ""depth"": 4, ""height"": 48, ""unit"": ""inches""}",35,Wood,White,1,35,1,12
+LD003,Utility Sink Cabinet,Cabinets,Laundry,349.99,Laundry utility sink with cabinet,"{""width"": 24, ""depth"": 22, ""height"": 34, ""unit"": ""inches""}",65,Composite,White,1,45,1,8
+LD004,Drying Rack,Accessories,Laundry,49.99,Expandable clothes drying rack,"{""width"": 32, ""depth"": 18, ""height"": 48, ""unit"": ""inches""}",8,Wood,Natural,0,0,1,30
+LD005,Laundry Room Shelf,Shelving,Laundry,129.99,Over washer dryer shelf unit,"{""width"": 68, ""depth"": 12, ""height"": 75, ""unit"": ""inches""}",35,Metal,Chrome,1,30,1,15

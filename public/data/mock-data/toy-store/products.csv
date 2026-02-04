@@ -1,0 +1,451 @@
+id,name,brand,category,age_min,age_max,price,description,features_json,educational,battery_required,in_stock,stock_quantity
+TOY-001,LEGO City Police Station,LEGO,Building & Construction,6,12,99.99,Complete police station with jail cells and helicopter landing pad,"{""pieces"": 743, ""minifigures"": 6, ""vehicles"": 2}",1,0,1,15
+TOY-002,LEGO Star Wars Millennium Falcon,LEGO,Building & Construction,9,14,169.99,Iconic starship with detailed interior and crew minifigures,"{""pieces"": 1351, ""minifigures"": 7, ""features"": [""opening cockpit"", ""rotating turrets""]}",0,0,1,8
+TOY-003,LEGO Friends Heartlake City Mall,LEGO,Building & Construction,8,12,129.99,Three-story mall with shops and food court,"{""pieces"": 1032, ""minifigures"": 6, ""stores"": 5}",0,0,1,10
+TOY-004,LEGO Technic Excavator,LEGO,Building & Construction,10,16,199.99,Fully functional excavator with pneumatic arm,"{""pieces"": 1987, ""functions"": [""rotating cabin"", ""working arm"", ""tracks""]}",1,0,1,5
+TOY-005,Mega Bloks First Builders Big Bag,Mega Bloks,Building & Construction,1,5,24.99,80 piece big building bag for toddlers,"{""pieces"": 80, ""storage"": ""included bag""}",1,0,1,25
+TOY-006,Barbie Dreamhouse,Barbie,Action Figures & Dolls,3,9,199.99,Three-story dollhouse with lights and sounds,"{""floors"": 3, ""rooms"": 8, ""accessories"": 75}",0,1,1,6
+TOY-007,Barbie Career Doctor Playset,Barbie,Action Figures & Dolls,3,7,29.99,Doctor Barbie with examination room and accessories,"{""includes"": [""doll"", ""patient"", ""medical equipment""]}",1,0,1,18
+TOY-008,Hot Wheels Ultimate Garage,Hot Wheels,Vehicles & RC,5,12,179.99,Mega garage tower with track and shark attack,"{""levels"": 4, ""car_capacity"": 140, ""features"": [""shark attack"", ""elevator""]}",0,1,1,7
+TOY-009,Hot Wheels 20 Car Pack,Hot Wheels,Vehicles & RC,3,10,21.99,Pack of 20 die-cast vehicles in various styles,"{""cars"": 20, ""scale"": ""1:64""}",0,0,1,30
+TOY-010,Paw Patrol Lookout Tower,Spin Master,Action Figures & Dolls,3,6,79.99,Headquarters playset with lights sounds and vehicle,"{""height_inches"": 30, ""features"": [""working elevator"", ""slide""]}",0,1,1,12
+TOY-011,Marvel Legends Spider-Man Figure,Hasbro,Action Figures & Dolls,4,12,24.99,Highly detailed 6-inch action figure with accessories,"{""height_inches"": 6, ""articulation_points"": 32}",0,0,1,20
+TOY-012,Star Wars Lightsaber Academy,Hasbro,Action Figures & Dolls,5,10,49.99,Interactive lightsaber with training modes,"{""modes"": 3, ""sounds"": ""movie authentic""}",0,1,1,14
+TOY-013,Nerf Elite 2.0 Commander,Nerf,Outdoor Play,8,15,29.99,Motorized blaster with 12-dart clip,"{""dart_capacity"": 12, ""range_feet"": 90, ""firing_rate"": ""6 darts/sec""}",0,1,1,22
+TOY-014,Nerf Rival Prometheus,Nerf,Outdoor Play,14,99,199.99,High-capacity blaster with 200 round hopper,"{""capacity"": 200, ""rounds_per_sec"": 8, ""velocity_fps"": 100}",0,1,1,4
+TOY-015,Fisher-Price Laugh & Learn Smart Stages Chair,Fisher-Price,Electronics & Tech,1,3,49.99,Interactive chair with songs and learning content,"{""songs"": 50, ""phrases"": 50, ""stages"": 3}",1,1,1,16
+TOY-016,Fisher-Price Little People Farm,Fisher-Price,Action Figures & Dolls,1,5,39.99,Interactive farm with animals and songs,"{""animals"": 5, ""songs"": 20}",1,1,1,18
+TOY-017,VTech KidiZoom Camera,VTech,Electronics & Tech,3,9,49.99,Kid-friendly digital camera with games,"{""resolution_mp"": 5, ""storage_mb"": 256, ""games"": 5}",1,1,1,14
+TOY-018,LeapFrog LeapPad Academy,LeapFrog,Electronics & Tech,3,8,149.99,Kids learning tablet with educational apps,"{""screen_inches"": 7, ""apps_included"": 20, ""wifi"": true}",1,1,1,9
+TOY-019,Melissa & Doug Wooden Puzzle Pack,Melissa & Doug,Games & Puzzles,2,5,29.99,Set of 4 wooden puzzles with peg handles,"{""puzzles"": 4, ""pieces_each"": 12, ""themes"": [""animals"", ""vehicles""]}",1,0,1,24
+TOY-020,Ravensburger Disney 1000pc Puzzle,Ravensburger,Games & Puzzles,12,99,19.99,Premium quality jigsaw puzzle,"{""pieces"": 1000, ""size_inches"": ""27x20""}",0,0,1,20
+TOY-021,Monopoly Classic,Hasbro,Games & Puzzles,8,99,24.99,The classic property trading board game,"{""players"": ""2-8"", ""playtime_min"": 60}",1,0,1,28
+TOY-022,Uno Card Game,Mattel,Games & Puzzles,7,99,9.99,Classic color and number matching card game,"{""cards"": 112, ""players"": ""2-10""}",0,0,1,50
+TOY-023,Jenga Classic,Hasbro,Games & Puzzles,6,99,14.99,Original block stacking tower game,"{""blocks"": 54, ""players"": ""1+""}",0,0,1,35
+TOY-024,Crayola Art Case,Crayola,Arts & Crafts,4,12,29.99,140 piece portable art studio,"{""pieces"": 140, ""includes"": [""crayons"", ""markers"", ""colored pencils""]}",1,0,1,30
+TOY-025,Play-Doh Ultimate Color Collection,Play-Doh,Arts & Crafts,2,6,24.99,65 cans of modeling compound,"{""cans"": 65, ""colors"": 65, ""weight_oz"": 65}",1,0,1,25
+TOY-026,Kinetic Sand Beach Day Set,Spin Master,Arts & Crafts,3,10,19.99,Sand that sticks to itself with beach molds,"{""sand_lbs"": 1.5, ""molds"": 6}",1,0,1,20
+TOY-027,Squishmallows 16 inch Cat,Squishmallows,Plush & Stuffed Animals,3,99,24.99,Super soft marshmallow textured plush,"{""size_inches"": 16, ""material"": ""polyester""}",0,0,1,22
+TOY-028,Build-A-Bear Workshop Teddy,Build-A-Bear,Plush & Stuffed Animals,3,99,35.00,Customizable stuffed teddy bear,"{""size_inches"": 16, ""stuffable"": true}",0,0,1,15
+TOY-029,Jellycat Bashful Bunny,Jellycat,Plush & Stuffed Animals,0,99,29.00,Premium soft bunny plush,"{""size_inches"": 12, ""material"": ""premium plush""}",0,0,1,18
+TOY-030,Radio Flyer My First Wagon,Radio Flyer,Outdoor Play,1,4,69.99,Classic red wagon for toddlers,"{""capacity_lbs"": 35, ""features"": [""removable sides"", ""storage""]}",0,0,1,10
+TOY-031,Little Tikes Cozy Coupe,Little Tikes,Outdoor Play,1,5,89.99,Classic foot-powered ride-on car,"{""weight_limit_lbs"": 50, ""features"": [""working horn"", ""storage""]}",0,0,1,8
+TOY-032,Razor A Kick Scooter,Razor,Outdoor Play,5,12,49.99,Lightweight aluminum folding scooter,"{""max_weight_lbs"": 143, ""wheel_size_mm"": 98}",0,0,1,14
+TOY-033,Schwinn Balance Bike,Schwinn,Outdoor Play,2,5,79.99,Learn to balance bike with no pedals,"{""tire_inches"": 12, ""seat_adjustable"": true}",1,0,1,9
+TOY-034,Nintendo Switch Lite,Nintendo,Electronics & Tech,6,99,199.99,Handheld gaming console,"{""screen_inches"": 5.5, ""battery_hours"": ""3-7"", ""storage_gb"": 32}",0,1,1,12
+TOY-035,Pokemon Trading Card Elite Box,Pokemon,Games & Puzzles,6,99,49.99,Elite trainer box with booster packs,"{""booster_packs"": 8, ""includes"": [""dice"", ""sleeves"", ""energy cards""]}",0,0,1,16
+TOY-036,Beyblades Burst Pro Set,Hasbro,Action Figures & Dolls,8,15,34.99,Spinning top battle set with stadium,"{""beyblades"": 2, ""launchers"": 2, ""stadium"": ""included""}",0,0,1,18
+TOY-037,Transformers Optimus Prime,Hasbro,Action Figures & Dolls,6,12,39.99,Converting action figure truck to robot,"{""height_inches"": 11, ""conversion_steps"": 35}",0,0,1,14
+TOY-038,LOL Surprise OMG Doll,MGA Entertainment,Action Figures & Dolls,6,10,29.99,Fashion doll with 20 surprises,"{""surprises"": 20, ""height_inches"": 10}",0,0,1,20
+TOY-039,Baby Alive Real As Can Be Baby,Hasbro,Action Figures & Dolls,3,8,79.99,Lifelike baby doll with 80+ expressions,"{""expressions"": 80, ""sounds"": ""lifelike""}",0,1,1,10
+TOY-040,Magna-Tiles 100pc Set,Magna-Tiles,Building & Construction,3,8,129.99,Magnetic building tiles set,"{""pieces"": 100, ""shapes"": [""squares"", ""triangles""]}",1,0,1,12
+TOY-041,Osmo Genius Starter Kit,Osmo,Electronics & Tech,6,10,99.99,Educational gaming system for iPad,"{""games"": 5, ""requires"": ""iPad""}",1,0,1,11
+TOY-042,Sphero Mini Robot Ball,Sphero,Electronics & Tech,8,99,49.99,App-controlled robotic ball,"{""diameter_inches"": 1.6, ""range_feet"": 32}",1,1,1,13
+TOY-043,Thames & Kosmos Science Kit,Thames & Kosmos,Electronics & Tech,8,14,49.99,Chemistry lab with 150 experiments,"{""experiments"": 150, ""safety_tested"": true}",1,0,1,16
+TOY-044,National Geographic Rock Tumbler,National Geographic,Electronics & Tech,8,15,59.99,Real rock polishing tumbler kit,"{""capacity_lbs"": 2, ""cycle_days"": 7}",1,1,1,10
+TOY-045,Hatchimals Mystery Egg,Spin Master,Action Figures & Dolls,5,8,69.99,Interactive hatching creature egg,"{""hatching_time_min"": 20, ""interactions"": ""100+""}",0,1,1,8
+TOY-046,FurReal Friends Tiger,Hasbro,Action Figures & Dolls,4,8,99.99,Interactive pet tiger with 100+ sounds,"{""sounds"": 100, ""movements"": ""interactive""}",0,1,1,6
+TOY-047,American Girl Truly Me Doll,American Girl,Action Figures & Dolls,8,12,115.00,18-inch doll with book and accessories,"{""height_inches"": 18, ""includes"": [""outfit"", ""book""]}",0,0,1,7
+TOY-048,Playmobil Pirate Ship,Playmobil,Action Figures & Dolls,4,10,79.99,Floating pirate ship with crew,"{""features"": [""floating"", ""working cannon""], ""figures"": 3}",0,0,1,11
+TOY-049,LEGO Harry Potter Hogwarts Castle,LEGO,Building & Construction,10,16,469.99,Massive Hogwarts castle with Great Hall and towers,"{""pieces"": 6020, ""minifigures"": 27, ""features"": [""Great Hall"", ""Chamber of Secrets""]}",0,0,1,3
+TOY-050,LEGO Creator Expert Taj Mahal,LEGO,Building & Construction,16,99,369.99,Detailed replica of the Taj Mahal,"{""pieces"": 5923, ""scale"": ""1:450""}",0,0,1,4
+TOY-051,LEGO Ideas Ship in a Bottle,LEGO,Building & Construction,12,99,79.99,Display set with buildable ship and bottle,"{""pieces"": 962, ""display_stand"": true}",0,0,1,14
+TOY-052,LEGO Architecture Eiffel Tower,LEGO,Building & Construction,16,99,629.99,Giant scale model of the Eiffel Tower,"{""pieces"": 10001, ""height_inches"": 59}",0,0,1,2
+TOY-053,LEGO Super Mario Starter Course,LEGO,Building & Construction,6,12,59.99,Interactive Mario building set with LCD figure,"{""pieces"": 231, ""interactive"": true}",1,1,1,16
+TOY-054,LEGO Minecraft The Village,LEGO,Building & Construction,8,14,89.99,Minecraft village with houses and characters,"{""pieces"": 1106, ""minifigures"": 4}",0,0,1,12
+TOY-055,LEGO Ninjago Dragon,LEGO,Building & Construction,8,14,79.99,Poseable ninja dragon with ninja figures,"{""pieces"": 747, ""minifigures"": 5}",0,0,1,14
+TOY-056,LEGO Disney Princess Castle,LEGO,Building & Construction,6,12,99.99,Disney castle with princess minifigures,"{""pieces"": 698, ""minifigures"": 5}",0,0,1,10
+TOY-057,LEGO Jurassic World T-Rex,LEGO,Building & Construction,8,12,59.99,T-Rex breakout scene with vehicles,"{""pieces"": 577, ""dinosaurs"": 1, ""vehicles"": 2}",0,0,1,15
+TOY-058,LEGO Speed Champions Ferrari,LEGO,Building & Construction,7,14,24.99,Ferrari race car with driver minifigure,"{""pieces"": 275, ""scale"": ""1:20""}",0,0,1,22
+TOY-059,LEGO Classic Large Creative Box,LEGO,Building & Construction,4,99,59.99,Large box of assorted LEGO bricks,"{""pieces"": 790, ""colors"": 33}",1,0,1,18
+TOY-060,LEGO DUPLO Town,LEGO,Building & Construction,2,5,49.99,DUPLO town set for toddlers,"{""pieces"": 129, ""figures"": 5}",1,0,1,20
+TOY-061,LEGO BrickHeadz Mandalorian,LEGO,Building & Construction,10,99,19.99,Collectible brick-built figure,"{""pieces"": 295, ""display_base"": true}",0,0,1,25
+TOY-062,LEGO Dots Bracelet Mega Pack,LEGO,Building & Construction,6,12,19.99,DIY bracelet making kit with tiles,"{""bracelets"": 5, ""tiles"": 300}",1,0,1,28
+TOY-063,K'NEX Thrill Rides Coaster,K'NEX,Building & Construction,9,16,99.99,Motorized roller coaster building set,"{""pieces"": 475, ""height_inches"": 24, ""motorized"": true}",1,1,1,8
+TOY-064,Lincoln Logs Classic Set,Lincoln Logs,Building & Construction,3,8,49.99,Classic wooden log building set,"{""pieces"": 137, ""projects"": 3}",1,0,1,15
+TOY-065,Tinkertoy Super Building Set,Tinkertoy,Building & Construction,3,8,39.99,Classic construction set with rods and connectors,"{""pieces"": 200, ""projects"": 30}",1,0,1,18
+TOY-066,Hot Wheels Track Builder Set,Hot Wheels,Vehicles & RC,6,12,39.99,Customizable track system with launcher,"{""track_feet"": 15, ""connectors"": 30}",0,0,1,20
+TOY-067,Hot Wheels Monster Trucks Set,Hot Wheels,Vehicles & RC,3,8,29.99,Set of 4 die-cast monster trucks,"{""trucks"": 4, ""scale"": ""1:64""}",0,0,1,25
+TOY-068,Matchbox Construction Site,Matchbox,Vehicles & RC,3,8,34.99,Construction playset with vehicles,"{""vehicles"": 5, ""accessories"": 10}",0,0,1,18
+TOY-069,Tonka Steel Classics Dump Truck,Tonka,Vehicles & RC,3,8,39.99,Durable steel construction truck,"{""material"": ""steel"", ""length_inches"": 17}",0,0,1,12
+TOY-070,Bruder CAT Excavator,Bruder,Vehicles & RC,4,10,69.99,Realistic construction vehicle replica,"{""scale"": ""1:16"", ""features"": [""working arm"", ""rotating cab""]}",1,0,1,10
+TOY-071,Traxxas Slash RC Truck,Traxxas,Vehicles & RC,14,99,299.99,High-speed 4x4 RC short course truck,"{""scale"": ""1:10"", ""speed_mph"": 30, ""range_feet"": 300}",0,1,1,5
+TOY-072,DJI Tello Drone,DJI,Vehicles & RC,14,99,99.99,Programmable mini drone for beginners,"{""flight_time_min"": 13, ""camera_mp"": 5}",1,1,1,8
+TOY-073,LEGO Technic RC Car,LEGO,Vehicles & RC,11,16,199.99,App-controlled LEGO race car,"{""pieces"": 463, ""app_controlled"": true}",1,1,1,7
+TOY-074,Thomas & Friends Super Station,Fisher-Price,Vehicles & RC,3,7,99.99,3-in-1 Thomas track set with train,"{""configurations"": 3, ""track_feet"": 35}",0,1,1,9
+TOY-075,Disney Cars Lightning McQueen RC,Disney,Vehicles & RC,4,8,49.99,Remote control Lightning McQueen,"{""scale"": ""1:24"", ""range_feet"": 100}",0,1,1,15
+TOY-076,Paw Patrol Chase RC Vehicle,Spin Master,Vehicles & RC,3,6,39.99,Remote control Chase police vehicle,"{""range_feet"": 50, ""lights"": true}",0,1,1,18
+TOY-077,Mario Kart RC,Nintendo,Vehicles & RC,4,99,59.99,Official Mario Kart remote control car,"{""scale"": ""1:18"", ""anti_gravity"": true}",0,1,1,12
+TOY-078,Air Hogs Jet,Air Hogs,Vehicles & RC,8,14,34.99,Indoor flying jet with easy control,"{""flight_time_min"": 8, ""range_feet"": 200}",0,1,1,14
+TOY-079,Barbie Fashionistas Doll Pack,Barbie,Action Figures & Dolls,3,9,49.99,Set of 5 diverse Barbie dolls,"{""dolls"": 5, ""outfits"": 5}",0,0,1,12
+TOY-080,Barbie Camper Van,Barbie,Action Figures & Dolls,3,9,109.99,Transforming camper with pool and slide,"{""features"": [""pool"", ""slide"", ""hammock""], ""accessories"": 60}",0,0,1,8
+TOY-081,Ken Doll Fashionista,Barbie,Action Figures & Dolls,3,9,12.99,Ken fashion doll with outfit,"{""height_inches"": 12, ""articulation"": ""basic""}",0,0,1,25
+TOY-082,Barbie Color Reveal,Barbie,Action Figures & Dolls,3,9,24.99,Mystery doll revealed with water,"{""surprises"": 7, ""water_reveal"": true}",0,0,1,20
+TOY-083,Disney Princess Ultimate Collection,Disney,Action Figures & Dolls,3,10,99.99,Set of 12 Disney princess dolls,"{""dolls"": 12, ""height_inches"": 11}",0,0,1,7
+TOY-084,Frozen 2 Elsa Singing Doll,Disney,Action Figures & Dolls,3,8,34.99,Singing Elsa doll with lights,"{""songs"": 4, ""height_inches"": 14}",0,1,1,15
+TOY-085,Encanto Mirabel Doll,Disney,Action Figures & Dolls,3,8,24.99,Mirabel fashion doll with accessories,"{""height_inches"": 11, ""accessories"": 5}",0,0,1,18
+TOY-086,Rainbow High Fashion Doll,MGA Entertainment,Action Figures & Dolls,6,12,29.99,Fashion doll with designer outfit,"{""outfits"": 2, ""height_inches"": 11}",0,0,1,16
+TOY-087,Bratz 20th Anniversary Doll,MGA Entertainment,Action Figures & Dolls,6,12,34.99,Collector edition Bratz doll,"{""edition"": ""anniversary"", ""accessories"": 10}",0,0,1,12
+TOY-088,Na Na Na Surprise,MGA Entertainment,Action Figures & Dolls,5,10,19.99,Balloon surprise fashion doll,"{""surprises"": 8, ""balloon_included"": true}",0,0,1,22
+TOY-089,Cry Babies Magic Tears,IMC Toys,Action Figures & Dolls,3,8,14.99,Mini crying baby doll with house,"{""tears"": ""water"", ""house_included"": true}",0,0,1,28
+TOY-090,Baby Born Interactive Doll,Zapf Creation,Action Figures & Dolls,3,8,59.99,Lifelike baby doll that eats and drinks,"{""functions"": [""drinks"", ""cries"", ""bathes""], ""accessories"": 10}",0,0,1,10
+TOY-091,WWE Championship Belt,Mattel,Action Figures & Dolls,6,15,39.99,Replica championship wrestling belt,"{""material"": ""plastic"", ""adjustable"": true}",0,0,1,14
+TOY-092,WWE Action Figure Set,Mattel,Action Figures & Dolls,6,12,29.99,Set of 4 WWE superstar figures,"{""figures"": 4, ""height_inches"": 6}",0,0,1,18
+TOY-093,G.I. Joe Classified Figure,Hasbro,Action Figures & Dolls,4,99,24.99,Premium 6-inch G.I. Joe figure,"{""height_inches"": 6, ""accessories"": 5}",0,0,1,16
+TOY-094,Power Rangers Lightning Collection,Hasbro,Action Figures & Dolls,4,99,24.99,Premium collector Power Rangers figure,"{""height_inches"": 6, ""articulation_points"": 28}",0,0,1,15
+TOY-095,Teenage Mutant Ninja Turtles Set,Playmates,Action Figures & Dolls,4,10,49.99,Set of 4 TMNT action figures,"{""figures"": 4, ""accessories"": 12}",0,0,1,12
+TOY-096,DC Comics Batman Figure,DC,Action Figures & Dolls,4,12,19.99,12-inch Batman action figure,"{""height_inches"": 12, ""accessories"": 3}",0,0,1,20
+TOY-097,Marvel Avengers Titan Set,Hasbro,Action Figures & Dolls,4,12,59.99,Set of 5 Avengers 12-inch figures,"{""figures"": 5, ""height_inches"": 12}",0,0,1,10
+TOY-098,Sonic the Hedgehog Figure Set,Jakks Pacific,Action Figures & Dolls,4,10,29.99,Set of 4 Sonic characters,"{""figures"": 4, ""height_inches"": 4}",0,0,1,18
+TOY-099,Pokemon Battle Figure Set,Pokemon,Action Figures & Dolls,4,10,24.99,Set of 8 Pokemon battle figures,"{""figures"": 8, ""scale"": ""1:20""}",0,0,1,22
+TOY-100,Funko Pop Marvel Collection,Funko,Action Figures & Dolls,6,99,49.99,Set of 4 Marvel Funko Pop figures,"{""figures"": 4, ""height_inches"": 4}",0,0,1,15
+TOY-101,Schleich Dinosaur Set,Schleich,Action Figures & Dolls,3,10,39.99,Set of 5 detailed dinosaur figures,"{""dinosaurs"": 5, ""hand_painted"": true}",1,0,1,16
+TOY-102,Breyer Horse Collection,Breyer,Action Figures & Dolls,4,12,49.99,Set of 4 collectible horse models,"{""horses"": 4, ""scale"": ""1:12""}",0,0,1,12
+TOY-103,Calico Critters Family Set,Epoch,Action Figures & Dolls,3,10,24.99,Family of rabbit figurines,"{""figures"": 4, ""accessories"": 3}",0,0,1,18
+TOY-104,Playmobil City Life Hospital,Playmobil,Action Figures & Dolls,4,10,99.99,Hospital playset with figures,"{""rooms"": 5, ""figures"": 6, ""accessories"": 200}",1,0,1,8
+TOY-105,Playmobil Zoo,Playmobil,Action Figures & Dolls,4,10,79.99,Zoo playset with animals and figures,"{""animals"": 12, ""figures"": 4}",1,0,1,10
+TOY-106,Monopoly Junior,Hasbro,Games & Puzzles,5,8,19.99,Simplified Monopoly for kids,"{""players"": ""2-4"", ""playtime_min"": 30}",1,0,1,25
+TOY-107,Candy Land,Hasbro,Games & Puzzles,3,6,14.99,Classic first board game for kids,"{""players"": ""2-4"", ""playtime_min"": 15}",1,0,1,30
+TOY-108,Chutes and Ladders,Hasbro,Games & Puzzles,3,6,14.99,Classic counting board game,"{""players"": ""2-4"", ""playtime_min"": 20}",1,0,1,28
+TOY-109,Connect 4,Hasbro,Games & Puzzles,6,99,12.99,Classic vertical four-in-a-row game,"{""players"": ""2"", ""playtime_min"": 10}",1,0,1,35
+TOY-110,Operation Game,Hasbro,Games & Puzzles,6,99,24.99,Classic skill game with buzzer,"{""players"": ""1+"", ""ailments"": 13}",1,1,1,22
+TOY-111,Battleship,Hasbro,Games & Puzzles,7,99,19.99,Classic naval combat strategy game,"{""players"": ""2"", ""playtime_min"": 30}",1,0,1,20
+TOY-112,Clue,Hasbro,Games & Puzzles,8,99,24.99,Classic mystery detective game,"{""players"": ""3-6"", ""playtime_min"": 45}",1,0,1,18
+TOY-113,Risk,Hasbro,Games & Puzzles,10,99,34.99,Classic world domination strategy game,"{""players"": ""2-6"", ""playtime_min"": 120}",1,0,1,15
+TOY-114,Scrabble,Hasbro,Games & Puzzles,8,99,24.99,Classic crossword word game,"{""players"": ""2-4"", ""tiles"": 100}",1,0,1,20
+TOY-115,Trivial Pursuit Family Edition,Hasbro,Games & Puzzles,8,99,29.99,Family trivia game with kid questions,"{""players"": ""2-6"", ""questions"": 2400}",1,0,1,16
+TOY-116,Sorry!,Hasbro,Games & Puzzles,6,99,14.99,Classic slide pursuit game,"{""players"": ""2-4"", ""playtime_min"": 30}",0,0,1,25
+TOY-117,Yahtzee,Hasbro,Games & Puzzles,8,99,14.99,Classic dice rolling game,"{""players"": ""1+"", ""dice"": 5}",0,0,1,28
+TOY-118,Boggle,Hasbro,Games & Puzzles,8,99,14.99,Word search dice game,"{""players"": ""1+"", ""dice"": 16}",1,0,1,22
+TOY-119,Guess Who?,Hasbro,Games & Puzzles,6,99,17.99,Classic face guessing game,"{""players"": ""2"", ""characters"": 24}",1,0,1,20
+TOY-120,Mouse Trap,Hasbro,Games & Puzzles,6,99,24.99,Crazy contraption board game,"{""players"": ""2-4"", ""parts"": 25}",0,0,1,16
+TOY-121,Ticket to Ride,Days of Wonder,Games & Puzzles,8,99,54.99,Cross-country train adventure game,"{""players"": ""2-5"", ""playtime_min"": 60}",1,0,1,12
+TOY-122,Catan,Catan Studio,Games & Puzzles,10,99,49.99,Strategy resource building game,"{""players"": ""3-4"", ""playtime_min"": 90}",1,0,1,14
+TOY-123,Codenames,Czech Games,Games & Puzzles,10,99,24.99,Word association party game,"{""players"": ""4-8"", ""playtime_min"": 15}",1,0,1,18
+TOY-124,Pandemic,Z-Man Games,Games & Puzzles,8,99,44.99,Cooperative disease fighting game,"{""players"": ""2-4"", ""playtime_min"": 45}",1,0,1,15
+TOY-125,Exploding Kittens,Exploding Kittens,Games & Puzzles,7,99,19.99,Strategic kitty-powered card game,"{""players"": ""2-5"", ""cards"": 56}",0,0,1,25
+TOY-126,Cards Against Humanity Family,Cards Against Humanity,Games & Puzzles,8,99,24.99,Family-friendly fill in the blank game,"{""players"": ""4-20"", ""cards"": 600}",0,0,1,20
+TOY-127,What Do You Meme?,What Do You Meme,Games & Puzzles,17,99,29.99,Adult caption photo game,"{""players"": ""3-20"", ""cards"": 435}",0,0,1,18
+TOY-128,Dixit,Libellud,Games & Puzzles,8,99,34.99,Creative storytelling card game,"{""players"": ""3-6"", ""cards"": 84}",1,0,1,15
+TOY-129,Azul,Plan B Games,Games & Puzzles,8,99,39.99,Pattern building tile game,"{""players"": ""2-4"", ""playtime_min"": 45}",1,0,1,12
+TOY-130,Wingspan,Stonemaier Games,Games & Puzzles,10,99,60.00,Bird collection engine building game,"{""players"": ""1-5"", ""bird_cards"": 170}",1,0,1,10
+TOY-131,Sequence,Jax,Games & Puzzles,7,99,19.99,Strategy board card game,"{""players"": ""2-12"", ""cards"": 104}",1,0,1,22
+TOY-132,Blokus,Mattel,Games & Puzzles,7,99,24.99,Strategy shape placement game,"{""players"": ""2-4"", ""pieces"": 84}",1,0,1,18
+TOY-133,Splendor,Space Cowboys,Games & Puzzles,10,99,39.99,Gem collecting strategy game,"{""players"": ""2-4"", ""playtime_min"": 30}",1,0,1,14
+TOY-134,7 Wonders,Repos Production,Games & Puzzles,10,99,49.99,Ancient civilization card game,"{""players"": ""3-7"", ""playtime_min"": 30}",1,0,1,12
+TOY-135,Spot It!,Blue Orange,Games & Puzzles,6,99,14.99,Symbol matching speed game,"{""players"": ""2-8"", ""cards"": 55}",1,0,1,30
+TOY-136,Qwirkle,MindWare,Games & Puzzles,6,99,24.99,Mix and match tile game,"{""players"": ""2-4"", ""tiles"": 108}",1,0,1,20
+TOY-137,Kingdomino,Blue Orange,Games & Puzzles,8,99,19.99,Domino kingdom building game,"{""players"": ""2-4"", ""dominoes"": 48}",1,0,1,18
+TOY-138,Hive,Gen42 Games,Games & Puzzles,9,99,34.99,Strategy bug placement game,"{""players"": ""2"", ""pieces"": 22}",1,0,1,15
+TOY-139,Rubiks Cube Original,Rubiks,Games & Puzzles,8,99,14.99,Classic 3x3 twisting puzzle,"{""size"": ""3x3"", ""combinations"": ""43 quintillion""}",1,0,1,35
+TOY-140,Rubiks Cube 4x4,Rubiks,Games & Puzzles,8,99,19.99,Advanced 4x4 twisting puzzle,"{""size"": ""4x4""}",1,0,1,25
+TOY-141,Perplexus Beast,Spin Master,Games & Puzzles,8,99,29.99,3D maze ball with 100 barriers,"{""barriers"": 100, ""difficulty"": ""advanced""}",1,0,1,18
+TOY-142,ThinkFun Gravity Maze,ThinkFun,Games & Puzzles,8,99,29.99,Marble run logic game,"{""challenges"": 60, ""pieces"": 9}",1,0,1,16
+TOY-143,ThinkFun Rush Hour,ThinkFun,Games & Puzzles,8,99,24.99,Traffic jam logic puzzle,"{""challenges"": 40, ""difficulty_levels"": 4}",1,0,1,20
+TOY-144,Kanoodle,Educational Insights,Games & Puzzles,7,99,12.99,Brain teasing puzzle game,"{""puzzles"": 200, ""pieces"": 12}",1,0,1,28
+TOY-145,IQ Puzzler Pro,SmartGames,Games & Puzzles,6,99,14.99,Multi-level IQ puzzle game,"{""challenges"": 120, ""modes"": 3}",1,0,1,25
+TOY-146,Crayola Inspiration Art Case,Crayola,Arts & Crafts,4,12,49.99,150 piece deluxe art set,"{""pieces"": 150, ""case"": ""portable""}",1,0,1,18
+TOY-147,Crayola Light Up Tracing Pad,Crayola,Arts & Crafts,6,12,24.99,LED powered tracing activity,"{""sheets"": 10, ""graphite_pencil"": true}",1,1,1,20
+TOY-148,Crayola Silly Scents Set,Crayola,Arts & Crafts,3,10,19.99,Scented markers and crayons,"{""markers"": 20, ""scents"": 20}",0,0,1,25
+TOY-149,Spirograph Deluxe Set,Spirograph,Arts & Crafts,8,99,29.99,Classic design drawing set,"{""wheels"": 19, ""designs"": ""unlimited""}",1,0,1,16
+TOY-150,Aquabeads Mega Set,Epoch,Arts & Crafts,4,10,34.99,Water fusing bead craft kit,"{""beads"": 2500, ""colors"": 24}",1,0,1,14
+TOY-151,Perler Beads Mega Kit,Perler,Arts & Crafts,6,12,29.99,Fuse bead activity kit,"{""beads"": 5000, ""pegboards"": 4}",1,0,1,18
+TOY-152,Rainbow Loom,Rainbow Loom,Arts & Crafts,7,14,24.99,Rubber band bracelet loom,"{""bands"": 600, ""clips"": 24}",1,0,1,22
+TOY-153,Friendship Bracelet Kit,Alex Toys,Arts & Crafts,7,14,14.99,Thread bracelet making kit,"{""threads"": 120, ""patterns"": 16}",1,0,1,25
+TOY-154,String Art Kit,Craftster,Arts & Crafts,8,14,19.99,Nail and string art set,"{""boards"": 3, ""string_yards"": 50}",1,0,1,20
+TOY-155,Shrinky Dinks Deluxe,Alex Toys,Arts & Crafts,6,12,19.99,Shrink art jewelry making kit,"{""sheets"": 25, ""accessories"": 30}",1,0,1,22
+TOY-156,Tie Dye Kit,Tulip,Arts & Crafts,8,99,19.99,One-step tie dye kit,"{""colors"": 5, ""shirts"": 10}",1,0,1,28
+TOY-157,Pottery Wheel Studio,Faber-Castell,Arts & Crafts,8,99,34.99,Working pottery wheel with clay,"{""clay_lbs"": 3, ""tools"": 5}",1,0,1,12
+TOY-158,Fashion Design Sketchbook,Make It Real,Arts & Crafts,8,14,24.99,Fashion design activity kit,"{""stencils"": 40, ""fabrics"": 20}",1,0,1,16
+TOY-159,Rock Painting Kit,Creativity for Kids,Arts & Crafts,6,12,14.99,Rock painting supplies set,"{""rocks"": 10, ""paint_colors"": 8}",1,0,1,24
+TOY-160,Diamond Art Kit,Diamond Dotz,Arts & Crafts,8,99,19.99,Diamond painting craft kit,"{""gems"": 1000, ""size_inches"": ""12x12""}",1,0,1,18
+TOY-161,Nerf Fortnite Blaster,Nerf,Outdoor Play,8,15,29.99,Fortnite themed dart blaster,"{""darts"": 10, ""range_feet"": 75}",0,1,1,20
+TOY-162,Nerf Ultra One,Nerf,Outdoor Play,8,15,49.99,Farthest flying Nerf blaster,"{""darts"": 25, ""range_feet"": 120}",0,1,1,12
+TOY-163,Super Soaker XP100,Nerf,Outdoor Play,6,99,24.99,Classic water blaster design,"{""capacity_oz"": 26, ""range_feet"": 34}",0,0,1,25
+TOY-164,Super Soaker Hydra,Nerf,Outdoor Play,6,99,49.99,Large capacity water soaker,"{""capacity_oz"": 65, ""range_feet"": 38}",0,0,1,15
+TOY-165,Stomp Rocket,Stomp Rocket,Outdoor Play,5,12,29.99,Air powered rocket launcher,"{""rockets"": 4, ""height_feet"": 200}",0,0,1,20
+TOY-166,Glow Battle Light Up Swords,Starlux,Outdoor Play,5,12,29.99,Light up foam swords for play,"{""swords"": 2, ""led_modes"": 8}",0,1,1,18
+TOY-167,Pogo Stick,Flybar,Outdoor Play,5,10,39.99,Classic bouncing pogo stick,"{""max_weight_lbs"": 80, ""squeak"": ""classic""}",0,0,1,14
+TOY-168,Skip Ball,The Original,Outdoor Play,5,12,12.99,Ankle skip ball toy,"{""colors"": ""assorted"", ""led"": false}",0,0,1,35
+TOY-169,Giant Bubbles Kit,WOWmazing,Outdoor Play,5,99,19.99,Huge bubble wand and solution,"{""wand_inches"": 36, ""solution_oz"": 12}",0,0,1,22
+TOY-170,Lawn Darts Set,Franklin,Outdoor Play,6,99,24.99,Soft tip lawn dart game,"{""darts"": 4, ""rings"": 2}",0,0,1,18
+TOY-171,Spikeball Standard Set,Spikeball,Outdoor Play,8,99,59.99,Roundnet game for teams,"{""players"": ""2-4"", ""includes"": [""net"", ""balls""]}",0,0,1,14
+TOY-172,KanJam Original,KanJam,Outdoor Play,8,99,44.99,Disc throwing goal game,"{""players"": ""2-4"", ""includes"": [""goals"", ""disc""]}",0,0,1,16
+TOY-173,Crossnet Four Square,Crossnet,Outdoor Play,8,99,149.99,Four square volleyball net game,"{""players"": ""4"", ""net_height"": ""adjustable""}",0,0,1,8
+TOY-174,Swingball,Mookie,Outdoor Play,6,99,39.99,Tethered tennis for two,"{""players"": ""2"", ""adjustable_height"": true}",0,0,1,12
+TOY-175,Badminton Set,Franklin,Outdoor Play,6,99,29.99,4 player badminton set with net,"{""rackets"": 4, ""shuttlecocks"": 2, ""net"": ""included""}",0,0,1,18
+TOY-176,Croquet Set,Juegoal,Outdoor Play,6,99,49.99,6 player wooden croquet set,"{""mallets"": 6, ""balls"": 6, ""wickets"": 9}",0,0,1,10
+TOY-177,Bocce Ball Set,GoSports,Outdoor Play,8,99,39.99,8 ball bocce set with case,"{""balls"": 8, ""pallino"": 1, ""case"": ""included""}",0,0,1,14
+TOY-178,Frisbee Golf Set,Franklin,Outdoor Play,8,99,34.99,Disc golf starter set,"{""discs"": 3, ""target"": ""included""}",0,0,1,16
+TOY-179,Little Tikes Slide,Little Tikes,Outdoor Play,1,4,49.99,Toddler indoor outdoor slide,"{""height_inches"": 24, ""weight_limit_lbs"": 60}",0,0,1,10
+TOY-180,Step2 Play Kitchen,Step2,Outdoor Play,2,6,149.99,Play kitchen with sounds,"{""accessories"": 38, ""sounds"": ""cooking""}",1,1,1,6
+TOY-181,Fisher-Price Corn Popper,Fisher-Price,Baby & Toddler,1,3,14.99,Classic push toy with popping balls,"{""balls"": 6, ""popping"": ""visual""}",1,0,1,28
+TOY-182,VTech Sit-to-Stand Walker,VTech,Baby & Toddler,0,3,34.99,Learning walker with activity panel,"{""songs"": 70, ""activities"": 5}",1,1,1,15
+TOY-183,Fisher-Price Rock-a-Stack,Fisher-Price,Baby & Toddler,0,2,9.99,Classic stacking ring toy,"{""rings"": 5, ""bat_at_base"": true}",1,0,1,30
+TOY-184,Baby Einstein Take Along Tunes,Baby Einstein,Baby & Toddler,0,3,12.99,Musical toy with lights,"{""melodies"": 7, ""volume_control"": true}",1,1,1,25
+TOY-185,Bright Starts Oball,Bright Starts,Baby & Toddler,0,2,7.99,Flexible ball for babies,"{""diameter_inches"": 4, ""holes"": 32}",1,0,1,40
+TOY-186,Manhattan Toy Winkel,Manhattan Toy,Baby & Toddler,0,2,14.99,Classic teether rattle,"{""loops"": ""interlocking"", ""bpa_free"": true}",1,0,1,30
+TOY-187,Sophie la Girafe,Vulli,Baby & Toddler,0,2,24.99,Natural rubber teething toy,"{""material"": ""natural rubber"", ""squeaker"": true}",0,0,1,22
+TOY-188,Lamaze Freddie Firefly,Lamaze,Baby & Toddler,0,2,14.99,Developmental clip-on toy,"{""features"": [""crinkle"", ""squeak"", ""rattle""]}",1,0,1,28
+TOY-189,Fat Brain Dimpl,Fat Brain Toys,Baby & Toddler,0,3,14.99,Silicone popping sensory toy,"{""buttons"": 5, ""colors"": 5}",1,0,1,35
+TOY-190,Infantino Sensory Balls,Infantino,Baby & Toddler,0,2,12.99,Set of textured balls for babies,"{""balls"": 6, ""textures"": 6}",1,0,1,30
+TOY-191,Hape Pound and Tap Bench,Hape,Baby & Toddler,1,3,29.99,Pounding bench with xylophone,"{""balls"": 3, ""keys"": 8}",1,0,1,18
+TOY-192,B. toys Bristle Blocks,B. toys,Baby & Toddler,2,5,24.99,Soft interlocking blocks,"{""blocks"": 68, ""storage_bag"": true}",1,0,1,20
+TOY-193,Melissa & Doug Shape Sorter,Melissa & Doug,Baby & Toddler,1,3,19.99,Classic shape sorting cube,"{""shapes"": 12, ""material"": ""wood""}",1,0,1,22
+TOY-194,LeapFrog Learn & Groove Table,LeapFrog,Baby & Toddler,0,3,49.99,Musical activity table,"{""activities"": 8, ""songs"": 40}",1,1,1,12
+TOY-195,VTech Turn and Learn Driver,VTech,Baby & Toddler,0,3,17.99,Pretend driving toy with sounds,"{""songs"": 60, ""sounds"": 45}",1,1,1,20
+TOY-196,Squishmallows 8 inch Pack,Squishmallows,Plush & Stuffed Animals,3,99,29.99,Set of 3 mini squishmallows,"{""size_inches"": 8, ""quantity"": 3}",0,0,1,18
+TOY-197,Squishmallows Hugmees,Squishmallows,Plush & Stuffed Animals,3,99,34.99,Extra long huggable squishmallow,"{""length_inches"": 24, ""style"": ""hugmee""}",0,0,1,14
+TOY-198,Pusheen Plush,Gund,Plush & Stuffed Animals,3,99,24.99,Pusheen cat plush toy,"{""size_inches"": 12, ""material"": ""polyester""}",0,0,1,20
+TOY-199,Gund Snuffles Bear,Gund,Plush & Stuffed Animals,0,99,29.99,Classic white teddy bear,"{""size_inches"": 13, ""material"": ""premium plush""}",0,0,1,16
+TOY-200,Aurora Miyoni Cat,Aurora,Plush & Stuffed Animals,3,99,19.99,Realistic cat plush,"{""size_inches"": 11, ""realistic"": true}",0,0,1,22
+TOY-201,Wild Republic Dinosaur,Wild Republic,Plush & Stuffed Animals,3,99,14.99,Realistic T-Rex plush,"{""size_inches"": 12, ""cuddlekins"": true}",0,0,1,25
+TOY-202,Douglas Cuddle Toys Horse,Douglas,Plush & Stuffed Animals,3,99,24.99,Soft horse plush toy,"{""size_inches"": 15, ""poseable"": false}",0,0,1,18
+TOY-203,Ty Beanie Baby Classic,Ty,Plush & Stuffed Animals,3,99,9.99,Classic collectible beanie,"{""size_inches"": 8, ""collectible"": true}",0,0,1,35
+TOY-204,Ty Beanie Boo Medium,Ty,Plush & Stuffed Animals,3,99,14.99,Big-eyed plush animal,"{""size_inches"": 13, ""glitter_eyes"": true}",0,0,1,28
+TOY-205,Webkinz Classic Pet,Webkinz,Plush & Stuffed Animals,5,12,14.99,Plush with online world code,"{""size_inches"": 8, ""online_code"": true}",0,0,1,22
+TOY-206,Giant Teddy Bear 4ft,Way To Celebrate,Plush & Stuffed Animals,3,99,49.99,Huge huggable teddy bear,"{""size_inches"": 48, ""material"": ""plush""}",0,0,1,8
+TOY-207,Folkmanis Hand Puppet Dog,Folkmanis,Plush & Stuffed Animals,3,99,29.99,High quality hand puppet,"{""size_inches"": 15, ""movable_mouth"": true}",1,0,1,14
+TOY-208,Warmies Lavender Bear,Warmies,Plush & Stuffed Animals,3,99,24.99,Microwaveable plush with lavender,"{""size_inches"": 13, ""heatable"": true}",0,0,1,18
+TOY-209,Pokemon Pikachu 16 inch,Pokemon,Plush & Stuffed Animals,3,99,29.99,Official Pikachu plush,"{""size_inches"": 16, ""official"": true}",0,0,1,15
+TOY-210,Minecraft Creeper Plush,Minecraft,Plush & Stuffed Animals,6,99,19.99,Official Creeper plush toy,"{""size_inches"": 14, ""official"": true}",0,0,1,20
+TOY-211,Nintendo Mario Plush,Nintendo,Plush & Stuffed Animals,3,99,19.99,Super Mario plush figure,"{""size_inches"": 12, ""official"": true}",0,0,1,22
+TOY-212,Nintendo Yoshi Plush,Nintendo,Plush & Stuffed Animals,3,99,19.99,Yoshi dinosaur plush,"{""size_inches"": 11, ""official"": true}",0,0,1,20
+TOY-213,VTech Switch and Go Dino,VTech,Electronics & Tech,3,8,24.99,Transforming dinosaur vehicle,"{""modes"": 2, ""sounds"": 20}",1,1,1,16
+TOY-214,VTech Kidi Star Karaoke,VTech,Electronics & Tech,5,12,49.99,Kids karaoke machine,"{""songs"": 8, ""effects"": 4}",1,1,1,10
+TOY-215,LeapFrog Scribble and Write,LeapFrog,Electronics & Tech,3,5,24.99,Learn to write tablet,"{""letters"": 26, ""numbers"": 10}",1,1,1,18
+TOY-216,LeapFrog Mr Pencil,LeapFrog,Electronics & Tech,3,6,29.99,Interactive writing toy,"{""activities"": 6, ""letters"": 26}",1,1,1,15
+TOY-217,Tamagotchi Pix,Bandai,Electronics & Tech,6,99,59.99,Digital pet with camera,"{""pets"": 100, ""camera"": true}",0,1,1,12
+TOY-218,Tamagotchi Original,Bandai,Electronics & Tech,6,99,19.99,Classic digital pet toy,"{""stages"": 7, ""retro"": true}",0,1,1,20
+TOY-219,Bitzee Interactive Pet,Spin Master,Electronics & Tech,5,99,29.99,Digital pet in 3D case,"{""pets"": 15, ""touchable"": true}",1,1,1,14
+TOY-220,Little Live Pets Bird,Moose Toys,Electronics & Tech,5,10,29.99,Interactive talking bird,"{""phrases"": 20, ""sings"": true}",0,1,1,16
+TOY-221,Little Live Pets Turtle,Moose Toys,Electronics & Tech,5,10,19.99,Swimming robotic turtle,"{""swimming"": true, ""water_activated"": true}",0,1,1,18
+TOY-222,Fingerlings Monkey,WowWee,Electronics & Tech,5,10,19.99,Interactive finger puppet,"{""sounds"": 40, ""responds_to_touch"": true}",0,1,1,20
+TOY-223,Hatchimals Pixies Crystal,Spin Master,Electronics & Tech,5,8,24.99,Crystal flyers doll,"{""flying"": true, ""hand_controlled"": true}",0,1,1,14
+TOY-224,Magic Mixies Cauldron,Moose Toys,Electronics & Tech,5,10,74.99,Magical mist cauldron with mixie,"{""mist"": true, ""spells"": 50}",0,1,1,8
+TOY-225,Botley 2.0 Coding Robot,Learning Resources,Electronics & Tech,5,10,79.99,Screen-free coding robot,"{""coding_steps"": 150, ""programs"": 16}",1,1,1,10
+TOY-226,Dash Robot,Wonder Workshop,Electronics & Tech,6,11,149.99,Programmable learning robot,"{""sensors"": 5, ""app_controlled"": true}",1,1,1,6
+TOY-227,Cozmo Robot,Digital Dream Labs,Electronics & Tech,8,99,249.99,AI-powered robot companion,"{""expressions"": 1000, ""games"": 3}",1,1,1,4
+TOY-228,Anki Vector Robot,Digital Dream Labs,Electronics & Tech,8,99,299.99,Voice-activated AI robot,"{""voice_commands"": true, ""alexa"": true}",1,1,1,3
+TOY-229,Ozobot Bit,Ozobot,Electronics & Tech,6,10,59.99,Tiny programmable robot,"{""color_codes"": true, ""size_mm"": 25}",1,1,1,12
+TOY-230,Cubetto Coding Robot,Primo Toys,Electronics & Tech,3,6,224.99,Screen-free coding for toddlers,"{""blocks"": 16, ""no_screen"": true}",1,1,1,5
+TOY-231,Snap Circuits Jr,Elenco,Electronics & Tech,8,15,34.99,Electronic circuit building kit,"{""projects"": 100, ""parts"": 30}",1,0,1,16
+TOY-232,Snap Circuits Pro,Elenco,Electronics & Tech,8,15,74.99,Advanced electronics kit,"{""projects"": 500, ""parts"": 75}",1,0,1,10
+TOY-233,littleBits Base Kit,Sphero,Electronics & Tech,8,99,99.99,Electronic building blocks,"{""bits"": 10, ""projects"": 8}",1,0,1,8
+TOY-234,Kano Computer Kit,Kano,Electronics & Tech,6,14,149.99,Build your own computer kit,"{""coding"": true, ""games"": 100}",1,0,1,6
+TOY-235,Bloxels Game Builder,Mattel,Electronics & Tech,8,99,19.99,Video game creation set,"{""blocks"": 320, ""app"": ""free""}",1,0,1,14
+TOY-236,Merge Cube,Merge,Electronics & Tech,10,99,19.99,Holographic AR cube,"{""apps"": 100, ""ar_compatible"": true}",1,0,1,18
+TOY-237,Nintendo Labo Vehicle Kit,Nintendo,Electronics & Tech,6,99,69.99,Cardboard vehicle controllers,"{""vehicles"": 3, ""switch_required"": true}",1,0,1,8
+TOY-238,Klutz LEGO Chain Reactions,Klutz,Building & Construction,7,14,21.99,LEGO machine building book,"{""machines"": 10, ""pieces"": 78}",1,0,1,20
+TOY-239,GraviTrax Starter Set,Ravensburger,Building & Construction,8,99,49.99,Marble run building system,"{""pieces"": 122, ""expandable"": true}",1,0,1,12
+TOY-240,Marble Genius Marble Run,Marble Genius,Building & Construction,4,10,39.99,Translucent marble run set,"{""pieces"": 130, ""marbles"": 20}",1,0,1,15
+TOY-241,Plus-Plus Tube,Plus-Plus,Building & Construction,5,12,9.99,One-shape building blocks,"{""pieces"": 70, ""ideas"": 4}",1,0,1,30
+TOY-242,Plus-Plus Big 100,Plus-Plus,Building & Construction,3,6,24.99,Large Plus-Plus for toddlers,"{""pieces"": 100, ""storage_tub"": true}",1,0,1,18
+TOY-243,Magformers Basic Set,Magformers,Building & Construction,3,8,49.99,Magnetic building shapes,"{""pieces"": 30, ""shapes"": 6}",1,0,1,14
+TOY-244,Picasso Tiles 100pc,Picasso Tiles,Building & Construction,3,8,39.99,Magnetic building tiles,"{""pieces"": 100, ""colors"": 7}",1,0,1,16
+TOY-245,Tegu Magnetic Blocks,Tegu,Building & Construction,1,99,44.99,Premium wooden magnetic blocks,"{""pieces"": 14, ""material"": ""wood""}",1,0,1,12
+TOY-246,Geomag Classic Set,Geomag,Building & Construction,6,99,34.99,Magnetic rods and balls,"{""pieces"": 68, ""magnets"": 26}",1,0,1,15
+TOY-247,Erector Set Helicopter,Meccano,Building & Construction,10,99,29.99,Metal building helicopter,"{""pieces"": 406, ""models"": 2}",1,0,1,14
+TOY-248,Meccano Roadster,Meccano,Building & Construction,10,99,49.99,Motorized building car,"{""pieces"": 651, ""motor"": true}",1,1,1,10
+TOY-249,Fort Building Kit,Tiny Land,Building & Construction,5,12,49.99,Build your own fort kit,"{""sticks"": 140, ""connectors"": 44}",1,0,1,14
+TOY-250,Brackitz Educational Set,Brackitz,Building & Construction,4,10,59.99,STEM building set with wheels,"{""pieces"": 100, ""wheels"": ""included""}",1,0,1,12
+TOY-251,Learning Resources Gears,Learning Resources,Building & Construction,3,8,29.99,Motorized gear building set,"{""gears"": 95, ""motor"": true}",1,1,1,16
+TOY-252,Fat Brain Squigz,Fat Brain Toys,Building & Construction,3,99,24.99,Suction cup building toy,"{""pieces"": 24, ""sticks_to_surfaces"": true}",1,0,1,20
+TOY-253,Original Blocks Kapla 200,Kapla,Building & Construction,3,99,49.99,Precision wooden planks,"{""planks"": 200, ""material"": ""pine""}",1,0,1,14
+TOY-254,CITIBLOCS Original,CITIBLOCS,Building & Construction,3,99,34.99,Natural wooden building blocks,"{""blocks"": 200, ""material"": ""wood""}",1,0,1,16
+TOY-255,Uncle Goose ABC Blocks,Uncle Goose,Building & Construction,2,5,44.99,Classic alphabet blocks,"{""blocks"": 28, ""letters"": ""embossed""}",1,0,1,18
+TOY-256,Melissa & Doug Castle Blocks,Melissa & Doug,Building & Construction,3,8,29.99,Wooden castle building blocks,"{""blocks"": 100, ""themed"": ""castle""}",1,0,1,20
+TOY-257,Hape Fantasia Blocks,Hape,Building & Construction,1,5,29.99,Colorful wooden blocks,"{""blocks"": 50, ""shapes"": 9}",1,0,1,22
+TOY-258,Grimms Rainbow Stacker,Grimms,Building & Construction,1,99,79.99,Premium wooden rainbow arches,"{""arches"": 12, ""material"": ""lime wood""}",1,0,1,8
+TOY-259,Lovevery Block Set,Lovevery,Building & Construction,2,5,90.00,Developmental wooden blocks,"{""blocks"": 70, ""activities"": 20}",1,0,1,6
+TOY-260,Guidecraft Rainbow Blocks,Guidecraft,Building & Construction,2,6,49.99,Acrylic sensory blocks,"{""blocks"": 10, ""colors"": ""translucent""}",1,0,1,14
+TOY-261,National Geographic Dino Dig,National Geographic,Science & Discovery,8,15,19.99,Excavate real dino fossils,"{""fossils"": 3, ""tools"": ""included""}",1,0,1,20
+TOY-262,National Geographic Volcano,National Geographic,Science & Discovery,8,15,29.99,Build and erupt volcano kit,"{""eruptions"": ""multiple"", ""mold"": ""included""}",1,0,1,18
+TOY-263,National Geographic Crystal Growing,National Geographic,Science & Discovery,8,15,14.99,Grow real crystals kit,"{""crystals"": 3, ""display_case"": true}",1,0,1,22
+TOY-264,National Geographic Mega Slime Kit,National Geographic,Science & Discovery,6,12,29.99,Slime making science kit,"{""slimes"": 8, ""glow"": true}",1,0,1,20
+TOY-265,Thames Kosmos Chem C500,Thames & Kosmos,Science & Discovery,10,15,49.99,Chemistry set with 500 experiments,"{""experiments"": 500, ""manual"": ""full color""}",1,0,1,12
+TOY-266,Thames Kosmos Physics Workshop,Thames & Kosmos,Science & Discovery,10,15,54.99,Physics experiments kit,"{""experiments"": 36, ""projects"": 10}",1,0,1,10
+TOY-267,Scientific Explorer Disgusting Science,Scientific Explorer,Science & Discovery,8,12,24.99,Gross science experiments,"{""experiments"": 20, ""gross_factor"": ""high""}",1,0,1,16
+TOY-268,Klutz Maker Lab Circuit,Klutz,Science & Discovery,8,14,24.99,Circuit building experiments,"{""projects"": 15, ""components"": 35}",1,0,1,18
+TOY-269,4M Solar Robot,4M,Science & Discovery,8,15,19.99,Solar powered robot kit,"{""robots"": 3, ""solar_powered"": true}",1,0,1,20
+TOY-270,4M Kitchen Science,4M,Science & Discovery,8,15,19.99,Kitchen chemistry experiments,"{""experiments"": 6, ""household_items"": true}",1,0,1,22
+TOY-271,Melissa & Doug Bug Jug,Melissa & Doug,Science & Discovery,3,8,9.99,Bug catching observation jar,"{""magnification"": ""2x"", ""mesh_lid"": true}",1,0,1,28
+TOY-272,GeoSafari Jr Talking Microscope,Educational Insights,Science & Discovery,4,8,39.99,Talking microscope for kids,"{""facts"": 100, ""slides"": 20}",1,1,1,14
+TOY-273,My First Lab Microscope,C&A Scientific,Science & Discovery,8,14,49.99,Dual LED microscope,"{""magnification"": ""40x-400x"", ""slides"": 50}",1,1,1,10
+TOY-274,Celestron Telescope for Kids,Celestron,Science & Discovery,8,99,59.99,Beginner telescope with tripod,"{""magnification"": ""18x-90x"", ""tripod"": ""included""}",1,0,1,8
+TOY-275,4M Solar System Mobile,4M,Science & Discovery,8,15,14.99,Glow in dark solar system,"{""planets"": 9, ""glow"": true}",1,0,1,24
+TOY-276,SmartLab Squishy Human Body,SmartLab,Science & Discovery,8,12,34.99,Anatomy model with organs,"{""organs"": 12, ""removable"": true}",1,0,1,12
+TOY-277,Ant Farm Gel Colony,Uncle Milton,Science & Discovery,6,99,24.99,LED gel ant habitat,"{""gel"": ""nutrient"", ""led_light"": true}",1,0,1,16
+TOY-278,Sea Monkeys Ocean Zoo,Big Time Toys,Science & Discovery,6,99,14.99,Instant live sea monkeys,"{""tank"": ""included"", ""food"": ""included""}",1,0,1,25
+TOY-279,Butterfly Garden,Insect Lore,Science & Discovery,4,99,29.99,Live butterfly raising kit,"{""caterpillars"": ""mail-in"", ""habitat"": ""pop-up""}",1,0,1,18
+TOY-280,Smithsonian Prehistoric Sea,Smithsonian,Science & Discovery,8,14,19.99,Prehistoric creatures growing kit,"{""creatures"": 6, ""fact_cards"": true}",1,0,1,20
+TOY-281,Pokemon TCG Elite Trainer Box,Pokemon,Trading Cards & Collectibles,6,99,49.99,Pokemon card collection box,"{""packs"": 9, ""sleeves"": 65}",0,0,1,25
+TOY-282,Pokemon Build and Battle Box,Pokemon,Trading Cards & Collectibles,6,99,39.99,Pokemon deck building kit,"{""packs"": 4, ""promo_card"": true}",0,0,1,20
+TOY-283,Yu-Gi-Oh Starter Deck,Konami,Trading Cards & Collectibles,6,99,12.99,Beginner Yu-Gi-Oh deck,"{""cards"": 44, ""rule_book"": true}",0,0,1,25
+TOY-284,Magic The Gathering Starter,Wizards,Trading Cards & Collectibles,13,99,14.99,MTG beginner two-player set,"{""cards"": 100, ""decks"": 2}",0,0,1,20
+TOY-285,Digimon Card Game Starter,Bandai,Trading Cards & Collectibles,6,99,14.99,Digimon TCG starter deck,"{""cards"": 54, ""memory_gauge"": true}",0,0,1,18
+TOY-286,Sports Cards Mega Box,Panini,Trading Cards & Collectibles,6,99,24.99,Multi-sport trading cards,"{""packs"": 8, ""sports"": ""multi""}",0,0,1,22
+TOY-287,NBA Trading Cards Box,Panini,Trading Cards & Collectibles,6,99,29.99,Basketball card collection box,"{""packs"": 8, ""hits"": ""guaranteed""}",0,0,1,18
+TOY-288,NFL Trading Cards Blaster,Panini,Trading Cards & Collectibles,6,99,34.99,Football card blaster box,"{""packs"": 6, ""exclusive"": true}",0,0,1,16
+TOY-289,MLB Topps Series Box,Topps,Trading Cards & Collectibles,6,99,24.99,Baseball card hobby box,"{""packs"": 7, ""cards_per"": 14}",0,0,1,20
+TOY-290,LOL Surprise Trading Cards,Panini,Trading Cards & Collectibles,4,10,4.99,LOL dolls collectible cards,"{""cards"": 6, ""stickers"": true}",0,0,1,40
+TOY-291,Nintendo Switch Game - Mario Kart 8,Nintendo,Video Games,6,99,59.99,Racing game with iconic Nintendo characters,"{""players"": ""1-12"", ""online"": true}",0,0,1,35
+TOY-292,Nintendo Switch Game - Zelda TOTK,Nintendo,Video Games,10,99,69.99,Epic adventure in the kingdom of Hyrule,"{""genre"": ""action-adventure"", ""hours"": ""100+""}",0,0,1,22
+TOY-293,PlayStation 5 Game - Spider-Man 2,Sony,Video Games,13,99,69.99,Web-slinging action adventure,"{""players"": 1, ""4k"": true}",0,0,1,18
+TOY-294,Xbox Game - Forza Motorsport,Microsoft,Video Games,3,99,69.99,Realistic racing simulation,"{""cars"": ""500+"", ""tracks"": 20}",0,0,1,15
+TOY-295,Roblox Gift Card $25,Roblox,Video Games,6,18,25.00,Digital currency for Roblox platform,"{""robux"": 2000}",0,0,1,100
+TOY-296,Minecraft Java & Bedrock Edition,Mojang,Video Games,7,99,29.99,Sandbox building and survival game,"{""multiplayer"": true, ""mods"": true}",1,0,1,45
+TOY-297,VR Headset - Meta Quest 3,Meta,Video Games,13,99,499.99,Standalone VR gaming headset,"{""resolution"": ""2064x2208"", ""storage_gb"": 128}",0,0,1,8
+TOY-298,Gaming Headset - Turtle Beach Stealth,Turtle Beach,Video Games,8,99,79.99,Wireless gaming headset,"{""wireless"": true, ""battery_hours"": 15}",0,1,1,20
+TOY-299,Nintendo Switch Pro Controller,Nintendo,Video Games,6,99,69.99,Premium wireless controller,"{""battery_hours"": 40, ""motion"": true}",0,1,1,25
+TOY-300,Xbox Elite Series 2 Controller,Microsoft,Video Games,8,99,179.99,Professional gaming controller,"{""paddles"": 4, ""adjustable"": true}",0,1,1,12
+TOY-301,Melissa & Doug Wooden Kitchen,Melissa & Doug,Pretend Play,3,8,179.99,Wooden play kitchen with accessories,"{""material"": ""wood"", ""accessories"": 20}",1,0,1,6
+TOY-302,KidKraft Dollhouse,KidKraft,Pretend Play,3,10,199.99,Large wooden dollhouse with furniture,"{""rooms"": 8, ""furniture_pieces"": 34}",0,0,1,4
+TOY-303,Little Tikes Cook n Learn Kitchen,Little Tikes,Pretend Play,2,6,129.99,Interactive play kitchen with sounds,"{""activities"": 40, ""sounds"": true}",1,1,1,8
+TOY-304,Melissa & Doug Doctor Kit,Melissa & Doug,Pretend Play,3,7,29.99,Wooden doctor play set,"{""pieces"": 25, ""bag"": ""included""}",1,0,1,22
+TOY-305,Barbie Dream Camper,Barbie,Pretend Play,3,9,99.99,Transforming camper vehicle playset,"{""features"": [""pool"", ""slide"", ""hammock""]}",0,0,1,10
+TOY-306,Paw Patrol Lookout Tower,Spin Master,Pretend Play,3,7,79.99,Headquarters playset with lights and sounds,"{""height_inches"": 29, ""figures"": 1}",0,1,1,14
+TOY-307,Bluey Family Home Playset,Moose Toys,Pretend Play,3,7,49.99,Bluey house with furniture,"{""rooms"": 4, ""figures"": 1}",0,0,1,18
+TOY-308,Disney Princess Castle,Disney,Pretend Play,3,8,149.99,Large castle playset with lights,"{""height_inches"": 36, ""rooms"": 5}",0,1,1,7
+TOY-309,Peppa Pig World Playset,Hasbro,Pretend Play,2,5,39.99,Peppa's house and garden,"{""figures"": 2, ""accessories"": 15}",0,0,1,20
+TOY-310,Fisher-Price Cash Register,Fisher-Price,Pretend Play,2,6,24.99,Classic pretend cash register,"{""coins"": 6, ""sounds"": true}",1,1,1,25
+TOY-311,First Act Discovery Guitar,First Act,Musical Instruments,5,10,29.99,Beginner acoustic guitar for kids,"{""strings"": 6, ""size"": ""30-inch""}",1,0,1,15
+TOY-312,VTech KidiBeats Drum Set,VTech,Musical Instruments,2,5,29.99,Electronic drum set for toddlers,"{""drum_pads"": 4, ""songs"": 9}",1,1,1,18
+TOY-313,Melissa & Doug Band in a Box,Melissa & Doug,Musical Instruments,3,8,34.99,10-piece musical instrument set,"{""instruments"": 10, ""storage"": ""included""}",1,0,1,14
+TOY-314,Casio Mini Keyboard,Casio,Musical Instruments,5,12,79.99,44-key beginner keyboard,"{""keys"": 44, ""tones"": 100}",1,1,1,10
+TOY-315,Otamatone Electronic Instrument,Cube,Musical Instruments,8,99,29.99,Quirky electronic musical toy,"{""sound"": ""synthesized"", ""touch"": true}",0,1,1,22
+TOY-316,Baby Einstein Magic Touch Piano,Baby Einstein,Musical Instruments,1,3,24.99,Wooden touch piano for babies,"{""songs"": 6, ""touch"": true}",1,1,1,20
+TOY-317,Korg tinyPIANO,Korg,Musical Instruments,3,8,199.99,Digital toy piano with quality sound,"{""keys"": 25, ""songs"": 50}",1,1,1,5
+TOY-318,Loog Mini Guitar,Loog,Musical Instruments,3,8,79.99,3-string beginner guitar,"{""strings"": 3, ""app"": true}",1,0,1,8
+TOY-319,Hohner Kids Glockenspiel,Hohner,Musical Instruments,3,10,24.99,8-note colorful glockenspiel,"{""notes"": 8, ""mallets"": 2}",1,0,1,16
+TOY-320,Remo Kids Percussion Floor Tom,Remo,Musical Instruments,3,10,49.99,Kid-sized floor tom drum,"{""size_inches"": 10, ""mallet"": ""included""}",1,0,1,9
+TOY-321,Franklin Sports Baseball Set,Franklin,Sports Toys,5,12,24.99,T-ball set with bat and balls,"{""bat"": 1, ""balls"": 6}",0,0,1,20
+TOY-322,Nerf N-Strike Elite Football,Nerf,Sports Toys,6,14,14.99,Foam football for long throws,"{""size"": ""standard"", ""grip"": ""spiral""}",0,0,1,35
+TOY-323,Little Tikes Basketball Hoop,Little Tikes,Sports Toys,2,5,49.99,Adjustable basketball hoop for toddlers,"{""height_range"": ""2.5-4 ft"", ""ball"": ""included""}",0,0,1,12
+TOY-324,SKLZ Pro Mini Hoop,SKLZ,Sports Toys,6,99,34.99,Over-the-door basketball hoop,"{""backboard"": ""polycarbonate"", ""ball"": ""included""}",0,0,1,18
+TOY-325,Franklin Soccer Goal Set,Franklin,Sports Toys,4,12,39.99,Pop-up soccer goals with ball,"{""goals"": 2, ""ball"": ""included""}",0,0,1,14
+TOY-326,Stomp Rocket Ultra,Stomp Rocket,Sports Toys,6,14,24.99,Air-powered rocket launcher,"{""rockets"": 4, ""height_ft"": 200}",0,0,1,25
+TOY-327,Ogosport Discs Set,Ogosport,Sports Toys,4,99,29.99,Bouncy disc and ball game,"{""discs"": 2, ""balls"": 2}",0,0,1,16
+TOY-328,Waboba Moon Ball,Waboba,Sports Toys,5,99,7.99,Super bouncy outdoor ball,"{""bounce"": ""extreme"", ""material"": ""polymer""}",0,0,1,50
+TOY-329,Kan Jam Ultimate Game,Kan Jam,Sports Toys,8,99,44.99,Outdoor flying disc game,"{""cans"": 2, ""disc"": 1}",0,0,1,10
+TOY-330,GoSports Cornhole Set,GoSports,Sports Toys,6,99,89.99,Regulation cornhole boards,"{""boards"": 2, ""bags"": 8}",0,0,1,6
+TOY-331,Schleich Horse Club Stable,Schleich,Collectible Figures,5,12,99.99,Detailed horse stable playset,"{""horses"": 2, ""accessories"": 20}",0,0,1,8
+TOY-332,Schleich Dinosaur Set,Schleich,Collectible Figures,4,10,39.99,Realistic dinosaur figure pack,"{""figures"": 5, ""scale"": ""1:40""}",1,0,1,15
+TOY-333,Funko Pop Marvel Spider-Man,Funko,Collectible Figures,6,99,12.99,Vinyl collectible figure,"{""height_inches"": 4, ""exclusive"": false}",0,0,1,30
+TOY-334,Funko Pop Star Wars Grogu,Funko,Collectible Figures,6,99,12.99,Baby Yoda vinyl figure,"{""height_inches"": 4, ""series"": ""Star Wars""}",0,0,1,28
+TOY-335,Hot Wheels Monster Trucks 5-Pack,Hot Wheels,Collectible Figures,3,10,19.99,Set of monster truck vehicles,"{""trucks"": 5, ""scale"": ""1:64""}",0,0,1,22
+TOY-336,Playmobil Pirate Ship,Playmobil,Collectible Figures,4,10,79.99,Detailed pirate ship playset,"{""figures"": 3, ""cannons"": 2}",0,0,1,9
+TOY-337,Calico Critters Family Set,Calico Critters,Collectible Figures,3,10,24.99,Rabbit family figurines,"{""figures"": 4, ""accessories"": 5}",0,0,1,18
+TOY-338,Breyer Horse Collectible,Breyer,Collectible Figures,4,99,29.99,Detailed model horse,"{""scale"": ""1:9"", ""material"": ""resin""}",0,0,1,12
+TOY-339,Safari Ltd Wild Animals TOOB,Safari Ltd,Collectible Figures,3,10,14.99,Tube of wild animal figures,"{""figures"": 12, ""educational"": true}",1,0,1,25
+TOY-340,Papo Medieval Knights,Papo,Collectible Figures,3,12,34.99,Detailed medieval figure set,"{""figures"": 4, ""accessories"": 6}",0,0,1,10
+TOY-341,Kinetic Sand 2lb Bag,Spin Master,Sensory Play,3,10,12.99,Moldable sensory sand,"{""weight_lb"": 2, ""colors"": ""natural""}",0,0,1,40
+TOY-342,Kinetic Sand Sandisfying Set,Spin Master,Sensory Play,3,10,19.99,Sand with 10 tools,"{""tools"": 10, ""sand_lb"": 2}",0,0,1,25
+TOY-343,Orbeez Spa Set,Spin Master,Sensory Play,5,12,24.99,Water bead spa experience,"{""orbeez"": 2000, ""accessories"": 5}",0,0,1,18
+TOY-344,Mad Mattr Sensory Dough,Relevant Play,Sensory Play,3,10,14.99,Never-dries modeling compound,"{""oz"": 10, ""texture"": ""soft""}",0,0,1,30
+TOY-345,Playfoam Combo 8-Pack,Educational Insights,Sensory Play,3,8,12.99,Non-toxic sculpting foam,"{""pods"": 8, ""colors"": 8}",0,0,1,28
+TOY-346,Fidget Cube Original,Antsy Labs,Sensory Play,6,99,14.99,6-sided fidget toy,"{""sides"": 6, ""features"": [""click"", ""spin"", ""roll""]}",0,0,1,45
+TOY-347,Pop It Rainbow Board,Generic,Sensory Play,3,99,9.99,Silicone bubble popping toy,"{""bubbles"": 40, ""reusable"": true}",0,0,1,60
+TOY-348,Speks Magnetic Balls,Speks,Sensory Play,14,99,24.99,Magnetic desk toy,"{""magnets"": 512, ""size_mm"": 2.5}",0,0,1,15
+TOY-349,Crazy Aaron's Thinking Putty,Crazy Aaron,Sensory Play,3,99,14.99,Stretchable sensory putty,"{""oz"": 3.2, ""type"": ""glow""}",0,0,1,35
+TOY-350,Tangle Jr Textured,Tangle,Sensory Play,3,99,7.99,Twistable fidget toy,"{""pieces"": 18, ""texture"": ""bumpy""}",0,0,1,40
+TOY-351,Water Wow Safari Pad,Melissa & Doug,Water Toys,3,7,6.99,Reusable water reveal pad,"{""pages"": 4, ""pen"": ""included""}",1,0,1,35
+TOY-352,AquaDoodle Mat,Spin Master,Water Toys,2,5,29.99,Water drawing mat,"{""size_inches"": ""30x30"", ""pens"": 2}",1,0,1,18
+TOY-353,Bunch O Balloons 100 Pack,Zuru,Water Toys,5,12,9.99,Quick-fill water balloons,"{""balloons"": 100, ""fill_time"": ""60 seconds""}",0,0,1,55
+TOY-354,SwimWays Spring Float,SwimWays,Water Toys,5,99,29.99,Pool float lounger,"{""weight_capacity_lb"": 250, ""foldable"": true}",0,0,1,12
+TOY-355,Poolmaster Floating Hoops,Poolmaster,Water Toys,6,99,24.99,Floating basketball game,"{""backboard"": true, ""ball"": ""included""}",0,0,1,10
+TOY-356,Step2 Water Table,Step2,Water Toys,2,6,79.99,Outdoor water play table,"{""capacity_gal"": 6, ""accessories"": 13}",0,0,1,8
+TOY-357,Melissa & Doug Fishing Game,Melissa & Doug,Water Toys,3,6,14.99,Magnetic fishing game,"{""fish"": 10, ""rods"": 2}",1,0,1,22
+TOY-358,Stream Machine Water Launcher,Stream Machine,Water Toys,6,14,19.99,Powerful water shooter,"{""range_ft"": 70, ""capacity_oz"": 24}",0,0,1,16
+TOY-359,Swimline Giant Inflatable Pizza,Swimline,Water Toys,6,99,19.99,Pool float shaped like pizza slice,"{""length_inches"": 72, ""vinyl"": true}",0,0,1,14
+TOY-360,Intex Inflatable Play Center,Intex,Water Toys,2,6,49.99,Backyard water play center,"{""slide"": true, ""sprayer"": true}",0,0,1,6
+TOY-361,LEGO Friends Heartlake City,LEGO,Building & Construction,7,12,129.99,Friends themed building set,"{""pieces"": 1513, ""minifigures"": 6}",0,0,1,9
+TOY-362,LEGO City Police Station,LEGO,Building & Construction,6,12,99.99,Police headquarters set,"{""pieces"": 668, ""minifigures"": 5}",0,0,1,11
+TOY-363,LEGO Ninjago Dragon,LEGO,Building & Construction,8,14,49.99,Ninja dragon build,"{""pieces"": 521, ""minifigures"": 4}",0,0,1,14
+TOY-364,LEGO Creator 3-in-1 Castle,LEGO,Building & Construction,9,14,99.99,Medieval castle with three builds,"{""pieces"": 1426, ""builds"": 3}",0,0,1,8
+TOY-365,LEGO Speed Champions,LEGO,Building & Construction,8,14,24.99,Buildable race car,"{""pieces"": 280, ""minifigures"": 1}",0,0,1,20
+TOY-366,LEGO Architecture Eiffel Tower,LEGO,Building & Construction,18,99,629.99,Detailed Eiffel Tower model,"{""pieces"": 10001, ""height_inches"": 59}",0,0,1,3
+TOY-367,LEGO Ideas Tree House,LEGO,Building & Construction,16,99,249.99,Detailed treehouse build,"{""pieces"": 3036, ""leaves"": ""plant-based""}",0,0,1,5
+TOY-368,LEGO Botanical Orchid,LEGO,Building & Construction,18,99,49.99,Buildable orchid plant,"{""pieces"": 608, ""display"": true}",0,0,1,18
+TOY-369,LEGO Duplo Farm,LEGO,Building & Construction,2,5,59.99,Large farm set for toddlers,"{""pieces"": 97, ""animals"": 8}",1,0,1,12
+TOY-370,LEGO Duplo Fire Station,LEGO,Building & Construction,2,5,49.99,Fire rescue set for toddlers,"{""pieces"": 117, ""figures"": 2}",1,0,1,14
+TOY-371,Transformers Optimus Prime,Hasbro,Action Figures & Dolls,6,14,49.99,Converting robot figure,"{""height_inches"": 11, ""steps"": 35}",0,0,1,15
+TOY-372,Transformers Bumblebee,Hasbro,Action Figures & Dolls,6,14,29.99,Converting Camaro robot,"{""height_inches"": 7, ""steps"": 22}",0,0,1,18
+TOY-373,Power Rangers Lightning Collection,Hasbro,Action Figures & Dolls,4,99,24.99,Premium ranger figure,"{""height_inches"": 6, ""accessories"": 5}",0,0,1,20
+TOY-374,Teenage Mutant Ninja Turtles Set,Playmates,Action Figures & Dolls,4,10,49.99,4-pack of turtle figures,"{""figures"": 4, ""weapons"": ""included""}",0,0,1,12
+TOY-375,Sonic the Hedgehog Figure,Jakks Pacific,Action Figures & Dolls,4,12,14.99,Articulated Sonic figure,"{""height_inches"": 4, ""points"": 10}",0,0,1,25
+TOY-376,Super Mario Figure Set,Jakks Pacific,Action Figures & Dolls,4,12,24.99,Mario characters pack,"{""figures"": 5, ""scale"": ""2.5 inch""}",0,0,1,22
+TOY-377,Dragon Ball Z Action Figure,Bandai,Action Figures & Dolls,8,99,29.99,Goku super saiyan figure,"{""height_inches"": 6, ""articulation"": 16}",0,0,1,16
+TOY-378,My Hero Academia Figure,McFarlane,Action Figures & Dolls,14,99,19.99,Deku action figure,"{""height_inches"": 7, ""base"": ""included""}",0,0,1,14
+TOY-379,One Piece Luffy Figure,Bandai,Action Figures & Dolls,12,99,24.99,Monkey D Luffy figure,"{""height_inches"": 6, ""pose"": ""attack""}",0,0,1,12
+TOY-380,Demon Slayer Tanjiro,Bandai,Action Figures & Dolls,14,99,29.99,Articulated Tanjiro figure,"{""height_inches"": 6, ""sword"": ""included""}",0,0,1,10
+TOY-381,Baby Shark Singing Plush,WowWee,Plush & Stuffed Animals,1,5,19.99,Interactive singing shark,"{""songs"": 1, ""tempo_control"": true}",0,1,1,30
+TOY-382,Sesame Street Elmo Plush,Gund,Plush & Stuffed Animals,1,6,24.99,Classic Elmo stuffed toy,"{""height_inches"": 14, ""material"": ""plush""}",0,0,1,25
+TOY-383,Disney Stitch Plush,Disney,Plush & Stuffed Animals,2,99,19.99,Blue alien plush toy,"{""height_inches"": 12, ""soft"": true}",0,0,1,28
+TOY-384,Pusheen Cat Plush,Gund,Plush & Stuffed Animals,3,99,14.99,Gray tabby cat plush,"{""height_inches"": 9, ""style"": ""classic""}",0,0,1,22
+TOY-385,Jellycat Bashful Bunny,Jellycat,Plush & Stuffed Animals,0,99,22.50,Luxury plush bunny,"{""height_inches"": 12, ""material"": ""premium""}",0,0,1,18
+TOY-386,Aurora World Penguin,Aurora,Plush & Stuffed Animals,2,99,12.99,Soft penguin plush,"{""height_inches"": 10, ""realistic"": true}",0,0,1,24
+TOY-387,Wild Republic Tiger,Wild Republic,Plush & Stuffed Animals,3,99,14.99,Realistic tiger plush,"{""height_inches"": 12, ""educational"": true}",1,0,1,20
+TOY-388,Douglas Cuddle Toys Horse,Douglas,Plush & Stuffed Animals,2,99,19.99,Soft horse plush,"{""height_inches"": 11, ""brushable"": true}",0,0,1,15
+TOY-389,Pillow Pets Unicorn,Pillow Pets,Plush & Stuffed Animals,3,12,24.99,Transforms to pillow,"{""open_inches"": 18, ""closed_inches"": 11}",0,0,1,22
+TOY-390,Warmies Lavender Sloth,Warmies,Plush & Stuffed Animals,3,99,24.99,Microwavable scented plush,"{""scent"": ""lavender"", ""heatable"": true}",0,0,1,16
+TOY-391,Crayola Washable Paint Set,Crayola,Arts & Crafts,3,12,14.99,10-color washable paints,"{""colors"": 10, ""washable"": true}",1,0,1,35
+TOY-392,Crayola Model Magic,Crayola,Arts & Crafts,3,12,12.99,Air-dry modeling compound,"{""oz"": 14, ""colors"": 4}",1,0,1,28
+TOY-393,Perler Beads Mega Kit,Perler,Arts & Crafts,6,14,29.99,Fuse bead craft set,"{""beads"": 4000, ""pegboards"": 4}",1,0,1,18
+TOY-394,Rainbow Loom Deluxe,Rainbow Loom,Arts & Crafts,7,14,29.99,Rubber band bracelet maker,"{""bands"": 1800, ""looms"": 2}",1,0,1,22
+TOY-395,Klutz Friendship Bracelets,Klutz,Arts & Crafts,8,14,14.99,Bracelet making kit with book,"{""thread_colors"": 10, ""patterns"": 15}",1,0,1,25
+TOY-396,LEGO DOTS Bracelet Kit,LEGO,Arts & Crafts,6,12,9.99,Customizable tile bracelets,"{""bracelets"": 5, ""tiles"": 75}",1,0,1,30
+TOY-397,Cra-Z-Art Shimmer n Sparkle,Cra-Z-Art,Arts & Crafts,6,12,19.99,Glitter art studio,"{""activities"": 10, ""glitter"": ""included""}",0,0,1,20
+TOY-398,Melissa & Doug Scratch Art,Melissa & Doug,Arts & Crafts,4,10,9.99,Rainbow scratch paper pad,"{""sheets"": 16, ""stylus"": ""included""}",1,0,1,32
+TOY-399,Creativity for Kids Rock Painting,Creativity for Kids,Arts & Crafts,6,12,14.99,Rock painting kit,"{""rocks"": 10, ""paints"": 6}",1,0,1,24
+TOY-400,Alex Spa Hair Chalk Pens,Alex Brands,Arts & Crafts,8,14,12.99,Temporary hair color pens,"{""colors"": 5, ""washable"": true}",0,0,1,28
+TOY-401,Osmo Genius Starter Kit,Osmo,Electronics & Tech,6,10,99.99,iPad learning system with games,"{""games"": 5, ""pieces"": ""multiple""}",1,0,1,12
+TOY-402,Osmo Coding Starter Kit,Osmo,Electronics & Tech,5,10,99.99,Learn coding with physical blocks,"{""games"": 3, ""blocks"": 31}",1,0,1,10
+TOY-403,littleBits Base Inventor Kit,littleBits,Electronics & Tech,8,14,99.99,Electronic building blocks,"{""bits"": 10, ""inventions"": 12}",1,1,1,8
+TOY-404,Snap Circuits Pro,Elenco,Electronics & Tech,8,15,74.99,Advanced electronics kit,"{""parts"": 500, ""projects"": 500}",1,0,1,11
+TOY-405,Snap Circuits Jr,Elenco,Electronics & Tech,8,14,34.99,Beginner electronics kit,"{""parts"": 30, ""projects"": 100}",1,0,1,18
+TOY-406,Kano Computer Kit,Kano,Electronics & Tech,6,14,149.99,Build your own computer,"{""os"": ""Kano OS"", ""projects"": 100}",1,0,1,6
+TOY-407,Kano Harry Potter Wand,Kano,Electronics & Tech,6,99,99.99,Coding wand with gestures,"{""spells"": 70, ""challenges"": 100}",1,1,1,9
+TOY-408,Nintendo Labo VR Kit,Nintendo,Electronics & Tech,7,99,79.99,Cardboard VR for Switch,"{""builds"": 6, ""games"": 64}",1,0,1,7
+TOY-409,Anki Vector Robot,Anki,Electronics & Tech,8,99,299.99,AI companion robot,"{""voice"": true, ""facial_recognition"": true}",0,1,1,5
+TOY-410,Cozmo Robot,Anki,Electronics & Tech,8,99,179.99,Programmable robot companion,"{""games"": 3, ""coding"": true}",1,1,1,7
+TOY-411,4M Green Science Weather Station,4M,Science & Discovery,8,14,24.99,Build a weather station,"{""instruments"": 6, ""activities"": 8}",1,0,1,16
+TOY-412,Thames & Kosmos Chem C500,Thames & Kosmos,Science & Discovery,10,14,49.99,Chemistry experiment set,"{""experiments"": 28, ""equipment"": ""included""}",1,0,1,12
+TOY-413,Scientific Explorer Mind Blowing,Scientific Explorer,Science & Discovery,6,12,14.99,Science experiment kit,"{""experiments"": 11, ""safe"": true}",1,0,1,22
+TOY-414,Learning Resources Beaker Creatures,Learning Resources,Science & Discovery,5,10,9.99,Collectible science creatures,"{""creatures"": 2, ""reactor"": ""included""}",1,0,1,35
+TOY-415,Educational Insights GeoSafari Jr,Educational Insights,Science & Discovery,4,7,29.99,Talking microscope for kids,"{""slides"": 20, ""facts"": 100}",1,1,1,14
+TOY-416,Smithsonian Crystal Growing,NSI,Science & Discovery,10,99,14.99,Grow crystals at home,"{""crystals"": 6, ""display_domes"": 6}",1,0,1,20
+TOY-417,Magna-Tiles Metropolis,Magna-Tiles,Building & Construction,3,8,199.99,Magnetic building tiles city set,"{""pieces"": 110, ""theme"": ""city""}",1,0,1,7
+TOY-418,Magna-Tiles Glow in Dark,Magna-Tiles,Building & Construction,3,8,49.99,Magnetic tiles that glow,"{""pieces"": 16, ""glow"": true}",1,0,1,15
+TOY-419,PicassoTiles 100 Piece Set,PicassoTiles,Building & Construction,3,8,49.99,Magnetic building tiles,"{""pieces"": 100, ""colors"": 8}",1,0,1,20
+TOY-420,Magformers Smart Set,Magformers,Building & Construction,3,8,99.99,Magnetic construction set,"{""pieces"": 144, ""remote"": true}",1,0,1,9
+TOY-421,Magformers Vehicle Set,Magformers,Building & Construction,3,8,49.99,Build magnetic vehicles,"{""pieces"": 44, ""wheels"": ""included""}",1,0,1,14
+TOY-422,Tegu Magnetic Wooden Blocks,Tegu,Building & Construction,1,99,129.99,Magnetic wooden blocks,"{""pieces"": 42, ""material"": ""wood""}",1,0,1,8
+TOY-423,BiOBUDDi Eco Building Blocks,BiOBUDDi,Building & Construction,1,6,29.99,Plant-based building blocks,"{""pieces"": 40, ""eco"": true}",1,0,1,18
+TOY-424,Plus-Plus Big,Plus-Plus,Building & Construction,1,6,29.99,Large building pieces for toddlers,"{""pieces"": 50, ""size"": ""big""}",1,0,1,16
+TOY-425,Brackitz STEM Building Set,Brackitz,Building & Construction,3,10,39.99,Engineering building system,"{""pieces"": 100, ""guides"": ""included""}",1,0,1,12
+TOY-426,Roominate Studio,Roominate,Building & Construction,6,11,49.99,Build and wire dollhouses,"{""rooms"": 2, ""circuits"": true}",1,0,1,8
+TOY-427,ThinkFun Rush Hour,ThinkFun,Games & Puzzles,8,99,22.99,Traffic jam logic game,"{""challenges"": 40, ""cars"": 16}",1,0,1,25
+TOY-428,ThinkFun Gravity Maze,ThinkFun,Games & Puzzles,8,99,29.99,Marble run logic game,"{""challenges"": 60, ""towers"": 9}",1,0,1,18
+TOY-429,ThinkFun Laser Maze,ThinkFun,Games & Puzzles,8,99,32.99,Beam-bending logic game,"{""challenges"": 60, ""laser"": ""real""}",1,1,1,14
+TOY-430,ThinkFun Circuit Maze,ThinkFun,Games & Puzzles,8,99,34.99,Electric current logic game,"{""challenges"": 60, ""circuits"": true}",1,1,1,12
+TOY-431,Smart Games IQ Puzzler Pro,Smart Games,Games & Puzzles,6,99,14.99,120 challenge puzzle,"{""challenges"": 120, ""pieces"": 12}",1,0,1,28
+TOY-432,Smart Games Castle Logix,Smart Games,Games & Puzzles,3,8,29.99,Wooden castle building puzzle,"{""challenges"": 48, ""blocks"": 4}",1,0,1,16
+TOY-433,Kanoodle Genius,Educational Insights,Games & Puzzles,8,99,14.99,Brain-twisting puzzle game,"{""puzzles"": 200, ""pieces"": 11}",1,0,1,24
+TOY-434,Blokus Strategy Game,Mattel,Games & Puzzles,7,99,24.99,Territory strategy game,"{""players"": ""2-4"", ""pieces"": 84}",1,0,1,18
+TOY-435,Qwirkle Board Game,MindWare,Games & Puzzles,6,99,29.99,Mix match strategy game,"{""tiles"": 108, ""players"": ""2-4""}",1,0,1,15
+TOY-436,Azul Board Game,Plan B Games,Games & Puzzles,8,99,39.99,Tile-laying strategy game,"{""players"": ""2-4"", ""playtime_min"": 45}",1,0,1,12
+TOY-437,Patchwork Board Game,Lookout Games,Games & Puzzles,8,99,29.99,Quilt-building strategy game,"{""players"": 2, ""playtime_min"": 30}",1,0,1,14
+TOY-438,Kingdomino,Blue Orange Games,Games & Puzzles,8,99,19.99,Domino kingdom building,"{""players"": ""2-4"", ""awards"": ""Spiel des Jahres""}",1,0,1,20
+TOY-439,Santorini Strategy Game,Spin Master,Games & Puzzles,8,99,29.99,Greek island building game,"{""players"": ""2-4"", ""3d"": true}",1,0,1,11
+TOY-440,Exploding Kittens,Exploding Kittens,Games & Puzzles,7,99,19.99,Strategic card game,"{""cards"": 56, ""players"": ""2-5""}",0,0,1,35
+TOY-441,Unstable Unicorns,TeeTurtle,Games & Puzzles,14,99,19.99,Unicorn army building game,"{""cards"": 135, ""players"": ""2-8""}",0,0,1,28
+TOY-442,Throw Throw Burrito,Exploding Kittens,Games & Puzzles,7,99,24.99,Dodgeball card game,"{""burritos"": 2, ""players"": ""2-6""}",0,0,1,22
+TOY-443,Kids Against Maturity,Kids Against Maturity,Games & Puzzles,8,99,29.99,Family-friendly party game,"{""cards"": 600, ""players"": ""4+""}",0,0,1,25
+TOY-444,Spot It! Party Game,Asmodee,Games & Puzzles,6,99,14.99,Symbol matching game,"{""cards"": 55, ""symbols"": 50}",0,0,1,40
+TOY-445,Telestrations Party Pack,The Op,Games & Puzzles,12,99,39.99,Drawing telephone game,"{""players"": ""4-12"", ""sketching"": true}",0,0,1,15
+TOY-446,Codenames Party Game,Czech Games,Games & Puzzles,14,99,19.99,Word association spy game,"{""cards"": 400, ""players"": ""2-8""}",1,0,1,20
+TOY-447,Dixit Board Game,Libellud,Games & Puzzles,8,99,34.99,Creative storytelling game,"{""cards"": 84, ""players"": ""3-6""}",1,0,1,14
+TOY-448,Splendor Board Game,Space Cowboys,Games & Puzzles,10,99,39.99,Gem trading strategy,"{""players"": ""2-4"", ""chips"": 40}",1,0,1,12
+TOY-449,7 Wonders Board Game,Repos Production,Games & Puzzles,10,99,49.99,Civilization building game,"{""players"": ""3-7"", ""cards"": 150}",1,0,1,10
+TOY-450,Wingspan Board Game,Stonemaier Games,Games & Puzzles,10,99,60.00,Bird collection strategy,"{""birds"": 170, ""players"": ""1-5""}",1,0,1,9

@@ -1,0 +1,71 @@
+id,brand,model,type,capacity_gb,speed_mhz,latency,modules,voltage,rgb,price,in_stock,heat_spreader,rating,review_count
+RAM001,Corsair,Vengeance DDR5,DDR5,32,6000,CL36,2x16GB,1.35,false,119.99,true,true,4.3,10738
+RAM002,Corsair,Vengeance RGB DDR5,DDR5,32,6000,CL36,2x16GB,1.35,true,139.99,true,true,4.2,9305
+RAM003,Corsair,Vengeance DDR5,DDR5,64,5600,CL40,2x32GB,1.25,false,199.99,true,true,4.3,10982
+RAM004,Corsair,Dominator Platinum RGB DDR5,DDR5,32,6400,CL32,2x16GB,1.4,true,189.99,true,true,4.0,5749
+RAM005,G.Skill,Trident Z5 RGB,DDR5,32,6000,CL30,2x16GB,1.35,true,149.99,true,true,4.2,13117
+RAM006,G.Skill,Trident Z5 Neo RGB,DDR5,32,6000,CL30,2x16GB,1.35,true,154.99,true,true,4.7,845
+RAM007,G.Skill,Flare X5,DDR5,32,6000,CL36,2x16GB,1.35,false,109.99,true,true,4.9,1246
+RAM008,G.Skill,Trident Z5 RGB,DDR5,64,6400,CL32,2x32GB,1.4,true,279.99,true,true,4.3,2032
+RAM009,Kingston,Fury Beast DDR5,DDR5,32,5600,CL40,2x16GB,1.25,false,99.99,true,true,4.2,4293
+RAM010,Kingston,Fury Beast RGB DDR5,DDR5,32,6000,CL36,2x16GB,1.35,true,124.99,true,true,4.1,3832
+RAM011,Kingston,Fury Renegade DDR5,DDR5,32,6400,CL32,2x16GB,1.4,false,159.99,true,true,4.5,5913
+RAM012,TeamGroup,T-Force Delta RGB DDR5,DDR5,32,6000,CL38,2x16GB,1.35,true,114.99,true,true,4.1,13121
+RAM013,TeamGroup,T-Force Vulcan DDR5,DDR5,32,5600,CL40,2x16GB,1.25,false,89.99,true,true,4.1,351
+RAM014,Corsair,Vengeance LPX DDR4,DDR4,32,3200,CL16,2x16GB,1.35,false,64.99,true,true,4.6,11730
+RAM015,Corsair,Vengeance RGB Pro DDR4,DDR4,32,3600,CL18,2x16GB,1.35,true,84.99,true,true,4.6,13693
+RAM016,G.Skill,Trident Z RGB DDR4,DDR4,32,3600,CL16,2x16GB,1.35,true,94.99,true,true,4.7,1882
+RAM017,G.Skill,Ripjaws V DDR4,DDR4,32,3200,CL16,2x16GB,1.35,false,59.99,true,true,4.9,5487
+RAM018,Kingston,Fury Beast DDR4,DDR4,32,3200,CL16,2x16GB,1.35,false,54.99,true,true,4.4,14229
+RAM019,G.Skill,Trident Z5 RGB,DDR5,96,6400,CL32,2x48GB,1.4,true,349.99,true,true,4.9,8787
+RAM020,Corsair,Vengeance DDR5,DDR5,48,5600,CL40,2x24GB,1.25,false,159.99,true,true,4.5,778
+RAM021,TeamGroup,T-Force Delta RGB DDR4,DDR4,16,3600,CL18,2x8GB,1.35,true,49.99,true,true,4.0,308
+RAM022,Crucial,Ballistix DDR4,DDR4,16,3200,CL16,2x8GB,1.35,false,39.99,true,true,4.8,9193
+RAM023,G.Skill,Ripjaws V DDR4,DDR4,16,3600,CL16,2x8GB,1.35,false,44.99,true,true,4.6,1901
+RAM024,Corsair,Vengeance LPX DDR4,DDR4,16,3200,CL16,2x8GB,1.35,false,34.99,true,true,4.9,9946
+RAM025,G.Skill,Ripjaws S5,DDR5,32,5600,CL36,2x16GB,1.25,false,94.99,true,true,4.8,10388
+RAM026,Corsair,Vengeance DDR5,DDR5,16,5600,CL36,2x8GB,1.25,false,69.99,true,true,4.6,9089
+RAM027,Kingston,Fury Beast DDR5,DDR5,64,5200,CL40,2x32GB,1.25,false,179.99,true,true,4.4,11395
+RAM028,TeamGroup,T-Force Xtreem ARGB DDR5,DDR5,32,6400,CL32,2x16GB,1.4,true,179.99,true,true,4.1,7963
+RAM029,Patriot,Viper Venom DDR5,DDR5,32,6200,CL36,2x16GB,1.35,true,134.99,true,true,4.9,9729
+RAM030,Patriot,Viper Steel DDR5,DDR5,32,6000,CL36,2x16GB,1.35,false,109.99,true,true,4.5,3560
+RAM031,ADATA,XPG Lancer RGB DDR5,DDR5,32,6000,CL40,2x16GB,1.35,true,119.99,true,true,5.0,8780
+RAM032,ADATA,XPG Lancer DDR5,DDR5,32,5600,CL40,2x16GB,1.25,false,89.99,true,true,4.4,10650
+RAM033,Corsair,Dominator Titanium DDR5,DDR5,32,6600,CL32,2x16GB,1.4,true,249.99,true,true,4.5,2239
+RAM034,Corsair,Dominator Titanium DDR5,DDR5,64,6600,CL32,2x32GB,1.4,true,429.99,true,true,4.2,4234
+RAM035,G.Skill,Trident Z5 Royal,DDR5,32,6400,CL32,2x16GB,1.4,true,214.99,true,true,4.9,4624
+RAM036,G.Skill,Ripjaws M5 RGB,DDR5,32,6000,CL30,2x16GB,1.35,true,144.99,true,true,4.2,13357
+RAM037,Kingston,Fury Renegade RGB DDR5,DDR5,64,6000,CL32,2x32GB,1.35,true,289.99,true,true,4.9,5679
+RAM038,TeamGroup,T-Create Expert DDR5,DDR5,64,6400,CL32,2x32GB,1.35,false,259.99,true,true,4.1,8426
+RAM039,Patriot,Viper Xtreme 5 RGB,DDR5,32,8000,CL38,2x16GB,1.45,true,299.99,true,true,4.4,9038
+RAM040,Corsair,Vengeance RGB DDR5,DDR5,64,6000,CL36,2x32GB,1.35,true,259.99,true,true,4.0,3265
+RAM041,G.Skill,Trident Z Neo DDR4,DDR4,32,3600,CL14,2x16GB,1.45,true,159.99,true,true,4.4,11527
+RAM042,Corsair,Dominator Platinum RGB DDR4,DDR4,32,3600,CL18,2x16GB,1.35,true,139.99,true,true,4.7,6605
+RAM043,Kingston,Fury Renegade DDR4,DDR4,32,3600,CL16,2x16GB,1.35,false,99.99,true,true,4.1,6526
+RAM044,TeamGroup,T-Force Dark Za DDR4,DDR4,32,3600,CL18,2x16GB,1.35,false,74.99,true,true,4.2,3203
+RAM045,Patriot,Viper Steel DDR4,DDR4,64,3600,CL18,2x32GB,1.35,false,124.99,true,true,4.8,5277
+RAM046,ADATA,XPG Spectrix D60G DDR4,DDR4,32,3600,CL18,2x16GB,1.35,true,99.99,true,true,4.4,6946
+RAM047,Corsair,Vengeance LPX DDR4,DDR4,64,3200,CL16,2x32GB,1.35,false,119.99,true,true,4.8,14432
+RAM048,G.Skill,Ripjaws V DDR4,DDR4,64,3200,CL16,2x32GB,1.35,false,109.99,true,true,4.0,5397
+RAM049,Kingston,Fury Beast DDR4,DDR4,64,3200,CL16,2x32GB,1.35,false,99.99,true,true,4.5,9119
+RAM050,TeamGroup,Elite Plus DDR4,DDR4,16,3200,CL22,2x8GB,1.2,false,29.99,true,false,4.5,9682
+RAM051,Crucial,DDR4 Desktop,DDR4,16,3200,CL22,1x16GB,1.2,false,34.99,true,false,4.4,13836
+RAM052,Crucial,DDR5 Desktop,DDR5,16,4800,CL40,1x16GB,1.1,false,44.99,true,false,4.0,12543
+RAM053,Samsung,DDR5 Desktop,DDR5,32,4800,CL40,2x16GB,1.1,false,79.99,true,false,4.5,9851
+RAM054,Kingston,Server Premier DDR5,DDR5,32,4800,CL40,1x32GB,1.1,false,119.99,true,false,4.7,4606
+RAM055,G.Skill,Trident Z5 RGB,DDR5,48,7200,CL34,2x24GB,1.4,true,224.99,true,true,4.3,12040
+RAM056,Corsair,Vengeance RGB DDR5,DDR5,48,6400,CL36,2x24GB,1.35,true,189.99,true,true,4.8,9346
+RAM057,Kingston,Fury Beast DDR5,DDR5,48,6000,CL40,2x24GB,1.35,false,149.99,true,true,4.6,14906
+RAM058,TeamGroup,T-Force Delta RGB DDR5,DDR5,48,6200,CL38,2x24GB,1.35,true,164.99,true,true,4.2,252
+RAM059,G.Skill,Trident Z5,DDR5,128,6400,CL32,4x32GB,1.4,false,529.99,true,true,4.6,3123
+RAM060,Corsair,Vengeance DDR5,DDR5,128,5600,CL40,4x32GB,1.25,false,459.99,true,true,4.5,3967
+RAM061,Kingston,Fury Renegade DDR5,DDR5,128,6000,CL32,4x32GB,1.35,false,499.99,true,true,4.5,14439
+RAM062,TeamGroup,T-Create Expert DDR5,DDR5,128,6000,CL38,4x32GB,1.35,false,479.99,true,true,4.7,5387
+RAM063,Corsair,Vengeance SO-DIMM DDR5,DDR5,32,4800,CL40,2x16GB,1.1,false,89.99,true,false,4.2,173
+RAM064,Kingston,Fury Impact SO-DIMM DDR5,DDR5,32,5600,CL40,2x16GB,1.25,false,99.99,true,true,4.0,1463
+RAM065,G.Skill,Ripjaws SO-DIMM DDR5,DDR5,32,5200,CL38,2x16GB,1.25,false,94.99,true,false,4.4,7778
+RAM066,Crucial,SO-DIMM DDR5,DDR5,16,4800,CL40,1x16GB,1.1,false,39.99,true,false,4.6,12802
+RAM067,Kingston,ValueRAM DDR4,DDR4,8,2666,CL19,1x8GB,1.2,false,19.99,true,false,4.6,9976
+RAM068,Crucial,DDR4 Desktop,DDR4,8,2666,CL19,1x8GB,1.2,false,17.99,true,false,4.8,11622
+RAM069,Samsung,ECC DDR5,DDR5,32,4800,CL40,1x32GB,1.1,false,149.99,true,false,4.5,3361
+RAM070,Micron,ECC DDR5,DDR5,64,4800,CL40,1x64GB,1.1,false,279.99,true,false,4.5,4978

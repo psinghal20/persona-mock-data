@@ -1,0 +1,521 @@
+id,title,author,genre,isbn,price,stock,published_year,publisher,pages,description,rating,review_count
+1,To Kill a Mockingbird,Harper Lee,Fiction,978-0061120084,14.99,25,1960,Harper Perennial,336,A gripping tale of racial injustice and childhood innocence in the American South.,4.5,1739
+2,1984,George Orwell,Dystopian,978-0451524935,13.99,30,1949,Signet Classics,328,A chilling prophecy about the future that has uncannily become reality.,4.6,16149
+3,Pride and Prejudice,Jane Austen,Romance,978-0141439518,9.99,20,1813,Penguin Classics,432,A witty comedy of manners about love and social standing in Regency England.,3.8,48365
+4,The Great Gatsby,F. Scott Fitzgerald,Fiction,978-0743273565,15.99,18,1925,Scribner,180,A tragic story of wealth and obsession during the Jazz Age.,3.7,48640
+5,One Hundred Years of Solitude,Gabriel García Márquez,Magical Realism,978-0060883287,16.99,12,1967,Harper Perennial,417,The multi-generational story of the Buendía family in the fictional town of Macondo.,4.8,5797
+6,The Catcher in the Rye,J.D. Salinger,Fiction,978-0316769488,12.99,22,1951,Little Brown,277,The story of teenage alienation and loss of innocence in America.,4.4,2182
+7,Brave New World,Aldous Huxley,Dystopian,978-0060850524,14.99,15,1932,Harper Perennial,288,A darkly satiric vision of a utopia gone wrong.,3.5,14428
+8,The Lord of the Rings,J.R.R. Tolkien,Fantasy,978-0544003415,29.99,10,1954,Mariner Books,1216,An epic high fantasy adventure following the quest to destroy the One Ring.,3.8,39553
+9,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,978-0590353427,12.99,35,1997,Scholastic,309,A young wizard discovers his magical heritage and begins his journey at Hogwarts.,3.5,13131
+10,The Hobbit,J.R.R. Tolkien,Fantasy,978-0547928227,15.99,20,1937,Mariner Books,300,A reluctant hobbit embarks on an unexpected journey with a company of dwarves.,4.6,46062
+11,Crime and Punishment,Fyodor Dostoevsky,Psychological Fiction,978-0143058144,14.99,8,1866,Penguin Classics,671,A psychological exploration of guilt and redemption in 19th century Russia.,4.3,14546
+12,The Brothers Karamazov,Fyodor Dostoevsky,Philosophical Fiction,978-0374528379,18.99,6,1880,Farrar Straus and Giroux,824,A passionate philosophical novel exploring faith doubt and morality.,4.2,18331
+13,War and Peace,Leo Tolstoy,Historical Fiction,978-0143039990,20.99,5,1869,Penguin Classics,1296,An epic chronicle of Russian society during the Napoleonic Wars.,4.7,525
+14,Anna Karenina,Leo Tolstoy,Fiction,978-0143035008,16.99,10,1877,Penguin Classics,964,A tragic love story set against the backdrop of Russian high society.,4.6,10563
+15,Moby-Dick,Herman Melville,Adventure,978-0142437247,15.99,7,1851,Penguin Classics,720,Captain Ahab's obsessive quest to hunt the white whale.,4.5,22398
+16,Don Quixote,Miguel de Cervantes,Adventure,978-0060934347,18.99,9,1605,Ecco,992,The adventures of an idealistic knight and his loyal squire.,3.9,14210
+17,The Odyssey,Homer,Epic Poetry,978-0140268867,14.99,12,800 BC,Penguin Classics,541,The epic journey of Odysseus returning home after the Trojan War.,4.9,22159
+18,Jane Eyre,Charlotte Brontë,Gothic Romance,978-0141441146,11.99,15,1847,Penguin Classics,532,An orphaned governess finds love and independence.,3.7,24998
+19,Wuthering Heights,Emily Brontë,Gothic Fiction,978-0141439556,10.99,14,1847,Penguin Classics,416,A dark tale of passion and revenge on the Yorkshire moors.,3.6,22641
+20,Great Expectations,Charles Dickens,Fiction,978-0141439563,12.99,16,1861,Penguin Classics,544,A poor orphan's journey to becoming a gentleman in Victorian England.,4.4,2947
+21,A Tale of Two Cities,Charles Dickens,Historical Fiction,978-0141439600,11.99,18,1859,Penguin Classics,489,A story of love and sacrifice during the French Revolution.,4.6,35242
+22,The Picture of Dorian Gray,Oscar Wilde,Gothic Fiction,978-0141439570,10.99,20,1890,Penguin Classics,272,A tale of beauty corruption and moral decay in Victorian London.,3.7,24907
+23,Frankenstein,Mary Shelley,Gothic Horror,978-0141439471,9.99,22,1818,Penguin Classics,352,The original science fiction novel about the dangers of playing God.,3.6,19313
+24,Dracula,Bram Stoker,Gothic Horror,978-0141439846,11.99,19,1897,Penguin Classics,488,The classic vampire tale that defined the genre.,4.7,40635
+25,The Count of Monte Cristo,Alexandre Dumas,Adventure,978-0140449266,16.99,11,1844,Penguin Classics,1276,An epic tale of betrayal imprisonment and revenge.,4.8,23800
+26,Les Misérables,Victor Hugo,Historical Fiction,978-0451419439,19.99,8,1862,Signet Classics,1488,An epic story of redemption and revolution in 19th century France.,4.4,46274
+27,The Alchemist,Paulo Coelho,Fiction,978-0062315007,16.99,28,1988,HarperOne,208,A shepherd boy's journey to find his personal legend.,3.6,43436
+28,Sapiens: A Brief History of Humankind,Yuval Noah Harari,Non-Fiction,978-0062316110,24.99,15,2011,Harper,464,A groundbreaking narrative of humanity's creation and evolution.,3.8,19065
+29,Thinking Fast and Slow,Daniel Kahneman,Psychology,978-0374533557,18.99,12,2011,Farrar Straus and Giroux,499,A tour of the mind explaining the two systems that drive the way we think.,5.0,15356
+30,Atomic Habits,James Clear,Self-Help,978-0735211292,18.99,40,2018,Avery,320,A proven framework for improving every day through tiny changes.,4.8,25011
+31,The Lean Startup,Eric Ries,Business,978-0307887894,16.99,14,2011,Currency,336,How today's entrepreneurs use continuous innovation to create successful businesses.,3.9,41760
+32,Dune,Frank Herbert,Science Fiction,978-0441172719,18.99,16,1965,Ace,688,An epic science fiction saga of politics religion and ecology on a desert planet.,4.8,10759
+33,Foundation,Isaac Asimov,Science Fiction,978-0553293357,17.99,13,1951,Bantam Spectra,296,The story of a foundation established to preserve knowledge during galactic collapse.,4.1,13830
+34,Neuromancer,William Gibson,Cyberpunk,978-0441569595,16.99,10,1984,Ace,271,The groundbreaking cyberpunk novel that defined a genre.,4.5,46094
+35,Snow Crash,Neal Stephenson,Cyberpunk,978-0553380958,17.99,9,1992,Bantam Spectra,480,A wild ride through a future America dominated by corporations and virtual reality.,4.9,42569
+36,The Hitchhiker's Guide to the Galaxy,Douglas Adams,Science Fiction Comedy,978-0345391803,15.99,24,1979,Del Rey,224,A comedic science fiction adventure following the last surviving human.,3.6,41713
+37,Ender's Game,Orson Scott Card,Science Fiction,978-0812550702,15.99,17,1985,Tor Books,324,A brilliant child is trained to command humanity's fleet against alien invaders.,3.8,47884
+38,The Handmaid's Tale,Margaret Atwood,Dystopian,978-0385490818,16.99,19,1985,Anchor,311,A chilling vision of a totalitarian theocracy built on the subjugation of women.,3.9,30394
+39,Never Let Me Go,Kazuo Ishiguro,Dystopian,978-1400078776,16.99,11,2005,Vintage,288,A haunting story of friendship and love at an English boarding school.,4.1,42043
+40,The Road,Cormac McCarthy,Post-Apocalyptic,978-0307387899,16.99,13,2006,Vintage,287,A father and son journey through a devastated America.,4.5,14492
+41,Gone Girl,Gillian Flynn,Thriller,978-0307588371,16.99,21,2012,Crown,419,A twisting thriller about a wife's disappearance and a husband's guilt.,4.5,3765
+42,The Girl with the Dragon Tattoo,Stieg Larsson,Mystery,978-0307454546,17.99,14,2005,Vintage Crime,672,A journalist and a hacker investigate a decades-old disappearance.,3.8,2203
+43,The Da Vinci Code,Dan Brown,Thriller,978-0307474278,17.99,18,2003,Anchor,489,A symbologist unravels a conspiracy hidden in Da Vinci's artwork.,4.7,26390
+44,And Then There Were None,Agatha Christie,Mystery,978-0062073488,15.99,16,1939,William Morrow,272,Ten strangers are lured to an island where they are murdered one by one.,3.9,13926
+45,The Shining,Stephen King,Horror,978-0307743657,17.99,15,1977,Anchor,497,A family's stay at an isolated hotel descends into supernatural terror.,4.9,37270
+46,It,Stephen King,Horror,978-1501142970,19.99,12,1986,Scribner,1168,Seven friends confront an ancient evil that has haunted their town.,4.8,20722
+47,The Name of the Wind,Patrick Rothfuss,Fantasy,978-0756404741,18.99,14,2007,DAW Books,662,A legendary hero tells the true story of his extraordinary life.,3.8,32817
+48,A Game of Thrones,George R.R. Martin,Fantasy,978-0553593716,18.99,20,1996,Bantam,835,Noble families vie for control of the Iron Throne in a land of intrigue and magic.,4.1,42229
+49,The Way of Kings,Brandon Sanderson,Fantasy,978-0765365279,19.99,11,2010,Tor Books,1007,An epic fantasy of war destiny and the nature of heroism.,4.2,17459
+50,Mistborn: The Final Empire,Brandon Sanderson,Fantasy,978-0765350381,16.99,16,2006,Tor Books,541,A street thief leads a rebellion against an immortal ruler using forbidden magic.,3.7,48923
+51,The Midnight Library,Matt Haig,Fiction,978-0525559474,17.99,25,2020,Viking,304,A woman discovers a library between life and death containing infinite versions of her life.,4.3,17319
+52,Where the Crawdads Sing,Delia Owens,Mystery,978-0735219090,18.99,30,2018,G.P. Putnam's Sons,384,A murder mystery intertwined with a coming-of-age story set in North Carolina marshlands.,4.6,28177
+53,Project Hail Mary,Andy Weir,Science Fiction,978-0593135204,19.99,22,2021,Ballantine Books,496,An astronaut wakes up alone on a spacecraft with no memory of how he got there.,4.8,26275
+54,The Silent Patient,Alex Michaelides,Thriller,978-1250301697,17.99,28,2019,Celadon Books,336,A woman shoots her husband and never speaks another word.,4.0,9165
+55,Educated,Tara Westover,Memoir,978-0399590504,18.99,20,2018,Random House,352,A woman raised by survivalists earns a PhD from Cambridge.,4.3,6057
+56,Becoming,Michelle Obama,Memoir,978-1524763138,32.50,18,2018,Crown,448,The former First Lady's intimate memoir of her journey.,4.6,7285
+57,The Subtle Art of Not Giving a F*ck,Mark Manson,Self-Help,978-0062457714,16.99,35,2016,Harper,224,A counterintuitive approach to living a good life.,3.7,10584
+58,Circe,Madeline Miller,Fantasy,978-0316556347,17.99,16,2018,Little Brown,400,The witch Circe's journey from outcast to powerful goddess.,4.7,27766
+59,The Song of Achilles,Madeline Miller,Fantasy,978-0062060624,16.99,19,2012,Ecco,378,A retelling of the Iliad from the perspective of Patroclus.,4.4,25316
+60,Piranesi,Susanna Clarke,Fantasy,978-1635575637,17.99,14,2020,Bloomsbury,272,A man explores an infinite house filled with ocean tides and statues.,4.1,30774
+61,The House in the Cerulean Sea,TJ Klune,Fantasy,978-1250217318,17.99,21,2020,Tor Books,396,A caseworker for magical children discovers a special orphanage.,4.3,36356
+62,Mexican Gothic,Silvia Moreno-Garcia,Horror,978-0525620785,17.99,15,2020,Del Rey,301,A socialite confronts dark secrets in a crumbling Mexican mansion.,4.8,852
+63,The Vanishing Half,Brit Bennett,Fiction,978-0525536291,18.99,23,2020,Riverhead Books,352,Twin sisters choose different paths and different racial identities.,4.5,7607
+64,Such a Fun Age,Kiley Reid,Fiction,978-0525541905,17.99,17,2019,G.P. Putnam's Sons,320,A young Black babysitter and her white employer face a racial incident.,4.5,35290
+65,Normal People,Sally Rooney,Fiction,978-1984822185,17.99,24,2018,Hogarth,288,Two Irish teenagers navigate class differences and intimacy.,4.6,42106
+66,Beautiful World Where Are You,Sally Rooney,Fiction,978-0374602604,18.99,19,2021,Farrar Straus and Giroux,368,Four young people navigate love friendship and politics in Ireland.,4.0,19334
+67,Klara and the Sun,Kazuo Ishiguro,Science Fiction,978-0593318171,18.99,16,2021,Knopf,320,An Artificial Friend observes humanity from a store window.,4.2,29835
+68,The Invisible Life of Addie LaRue,V.E. Schwab,Fantasy,978-0765387561,17.99,22,2020,Tor Books,448,A woman makes a Faustian bargain to live forever but be forgotten.,3.5,47423
+69,Anxious People,Fredrik Backman,Fiction,978-1501160837,18.99,20,2020,Atria Books,352,A failed bank robber takes hostages during an apartment open house.,4.8,17361
+70,A Man Called Ove,Fredrik Backman,Fiction,978-1476738024,17.99,26,2012,Atria Books,337,A curmudgeonly widower finds unexpected friendship with new neighbors.,5.0,11808
+71,The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Fiction,978-1501161933,17.99,32,2017,Atria Books,400,An aging Hollywood icon reveals the truth about her glamorous life.,4.3,7073
+72,Daisy Jones & The Six,Taylor Jenkins Reid,Fiction,978-1524798628,17.99,24,2019,Ballantine Books,368,The rise and fall of a fictional 1970s rock band.,4.8,19658
+73,Malibu Rising,Taylor Jenkins Reid,Fiction,978-1524798659,18.99,21,2021,Ballantine Books,384,One epic party in 1983 Malibu changes the lives of the Riva siblings.,4.8,33370
+74,The Four Winds,Kristin Hannah,Historical Fiction,978-1250178602,18.99,18,2021,St. Martin's Press,464,A woman's struggle during the Dust Bowl and Great Depression.,4.4,10116
+75,The Nightingale,Kristin Hannah,Historical Fiction,978-1250080400,17.99,27,2015,St. Martin's Press,440,Two sisters in Nazi-occupied France find courage in the darkest days.,4.1,10687
+76,The Great Alone,Kristin Hannah,Fiction,978-0312577230,17.99,19,2018,St. Martin's Press,448,A family seeks a fresh start in 1970s Alaska's dangerous wilderness.,4.3,34857
+77,Little Fires Everywhere,Celeste Ng,Fiction,978-0735224315,17.99,23,2017,Penguin Press,352,A mysterious artist and her daughter upend a planned community.,4.9,39352
+78,Everything I Never Told You,Celeste Ng,Fiction,978-0143127550,17.99,15,2014,Penguin Books,304,A Chinese-American family deals with the death of their favorite daughter.,4.0,1376
+79,The Dutch House,Ann Patchett,Fiction,978-0062963673,18.99,17,2019,Harper,352,A brother and sister navigate memory and inheritance over five decades.,3.7,23888
+80,Commonwealth,Ann Patchett,Fiction,978-0062491831,17.99,14,2016,Harper,336,One kiss at a christening party changes the course of two families.,4.8,20253
+81,The Kite Runner,Khaled Hosseini,Fiction,978-1594631931,16.99,28,2003,Riverhead Books,400,A haunting tale of friendship and redemption set in Afghanistan.,3.9,15885
+82,A Thousand Splendid Suns,Khaled Hosseini,Fiction,978-1594483851,16.99,22,2007,Riverhead Books,432,Two Afghan women forge an unlikely bond across generations.,4.8,5261
+83,And the Mountains Echoed,Khaled Hosseini,Fiction,978-1594632389,17.99,16,2013,Riverhead Books,416,Siblings are separated in Afghanistan with ripples across generations.,3.6,31949
+84,The Book Thief,Markus Zusak,Historical Fiction,978-0375842207,14.99,29,2005,Knopf,584,A young girl steals books in Nazi Germany narrated by Death.,4.7,49946
+85,All the Light We Cannot See,Anthony Doerr,Historical Fiction,978-1501173219,18.99,21,2014,Scribner,544,A blind French girl and a German boy's paths cross in WWII.,4.3,8341
+86,The Tattooist of Auschwitz,Heather Morris,Historical Fiction,978-0062797155,16.99,24,2018,Harper,288,A love story born in the darkest of places.,3.7,31248
+87,The Alice Network,Kate Quinn,Historical Fiction,978-0062654199,17.99,18,2017,William Morrow,544,Two women across two wars hunt down a traitor.,4.9,10921
+88,The Rose Code,Kate Quinn,Historical Fiction,978-0062943477,18.99,15,2021,William Morrow,656,Three women at Bletchley Park uncover a traitor among them.,3.9,39853
+89,The Paris Wife,Paula McLain,Historical Fiction,978-0345521316,17.99,14,2011,Ballantine Books,336,Ernest Hemingway's first wife tells her story of 1920s Paris.,4.1,13980
+90,Hamnet,Maggie O'Farrell,Historical Fiction,978-0525657606,18.99,17,2020,Knopf,320,A reimagining of Shakespeare's son's life and death.,4.9,49597
+91,The Pillars of the Earth,Ken Follett,Historical Fiction,978-0451166890,20.99,12,1989,Signet,1008,The building of a cathedral in 12th century England.,4.6,13282
+92,World Without End,Ken Follett,Historical Fiction,978-0451228376,20.99,10,2007,Dutton,1024,The sequel to Pillars set during the Black Death.,4.6,26248
+93,A Column of Fire,Ken Follett,Historical Fiction,978-0525954972,19.99,11,2017,Viking,928,The third Kingsbridge novel set during the religious wars.,5.0,42690
+94,Shogun,James Clavell,Historical Fiction,978-0385343251,20.99,13,1975,Blackstone,1152,An English navigator becomes embroiled in feudal Japan politics.,4.1,34019
+95,Memoirs of a Geisha,Arthur Golden,Historical Fiction,978-0679781585,17.99,19,1997,Vintage,448,A geisha recounts her life from poverty to success in Kyoto.,4.2,16346
+96,The Other Boleyn Girl,Philippa Gregory,Historical Fiction,978-0743227445,17.99,16,2001,Touchstone,672,Mary Boleyn's story as sister to Anne Boleyn.,3.8,22256
+97,Wolf Hall,Hilary Mantel,Historical Fiction,978-0312429980,18.99,12,2009,Picador,560,Thomas Cromwell's rise to power in Henry VIII's court.,3.5,36401
+98,Bring Up the Bodies,Hilary Mantel,Historical Fiction,978-1250024176,18.99,11,2012,Picador,432,Cromwell engineers the downfall of Anne Boleyn.,3.8,14532
+99,The Mirror and the Light,Hilary Mantel,Historical Fiction,978-1250622679,20.99,9,2020,Henry Holt,784,The final chapter of Thomas Cromwell's life.,3.5,46489
+100,Rebecca,Daphne du Maurier,Gothic Romance,978-0380730407,17.99,23,1938,Avon,449,A young bride is haunted by her husband's first wife.,4.4,15103
+101,The Secret History,Donna Tartt,Literary Thriller,978-1400031702,18.99,18,1992,Vintage,559,A group of classics students at an elite college commit murder.,3.6,2158
+102,The Goldfinch,Donna Tartt,Fiction,978-0316055444,20.99,14,2013,Little Brown,784,A boy survives a terrorist attack and steals a priceless painting.,4.8,4743
+103,A Little Life,Hanya Yanagihara,Fiction,978-0804172707,18.99,12,2015,Anchor,832,Four friends navigate success and trauma in New York City.,4.3,18350
+104,The Sympathizer,Viet Thanh Nguyen,Fiction,978-0802124944,17.99,15,2015,Grove Press,384,A communist spy reflects on his role in the Vietnam War's end.,4.5,14140
+105,Pachinko,Min Jin Lee,Historical Fiction,978-1455563920,18.99,20,2017,Grand Central,496,Four generations of a Korean family in Japan.,4.3,47505
+106,Homegoing,Yaa Gyasi,Historical Fiction,978-1101971062,17.99,17,2016,Vintage,320,Two half-sisters' descendants across three centuries.,4.9,37523
+107,The Underground Railroad,Colson Whitehead,Historical Fiction,978-0345804327,17.99,19,2016,Anchor,320,An escaped slave discovers a literal underground railroad.,4.4,16025
+108,Beloved,Toni Morrison,Fiction,978-1400033416,17.99,16,1987,Vintage,324,A former slave is haunted by the ghost of her daughter.,4.7,26777
+109,Song of Solomon,Toni Morrison,Fiction,978-1400033423,17.99,14,1977,Vintage,337,A Black man embarks on a journey to discover his heritage.,3.8,6452
+110,The Color Purple,Alice Walker,Fiction,978-0156028356,16.99,21,1982,Mariner Books,300,Letters reveal a Black woman's struggle and triumph in the South.,4.5,23319
+111,The Remains of the Day,Kazuo Ishiguro,Fiction,978-0679731726,16.99,17,1989,Vintage,256,An English butler reflects on his life of service.,4.1,30706
+112,On Earth We're Briefly Gorgeous,Ocean Vuong,Fiction,978-0525562047,17.99,14,2019,Penguin Press,256,A son writes to his illiterate mother about their Vietnamese-American family.,4.8,3650
+113,The Nickel Boys,Colson Whitehead,Historical Fiction,978-0345804341,17.99,18,2019,Anchor,224,Two boys endure abuse at a reform school in Jim Crow Florida.,4.5,42448
+114,Harrow the Ninth,Tamsyn Muir,Science Fantasy,978-1250313225,18.99,15,2020,Tor,528,The necromancer Harrowhark serves a dying god in space.,3.6,26486
+115,Gideon the Ninth,Tamsyn Muir,Science Fantasy,978-1250313195,17.99,19,2019,Tor,448,Lesbian necromancers in space compete in a deadly trial.,4.6,7261
+116,The Poppy War,R.F. Kuang,Fantasy,978-0062662569,17.99,20,2018,Harper Voyager,544,A war orphan discovers her shamanic powers in a fantasy China.,3.9,12565
+117,The Dragon Republic,R.F. Kuang,Fantasy,978-0062662606,18.99,16,2019,Harper Voyager,672,The war continues as alliances shift in this epic sequel.,4.3,9286
+118,The Burning God,R.F. Kuang,Fantasy,978-0062662644,18.99,14,2020,Harper Voyager,656,The explosive conclusion to the Poppy War trilogy.,4.1,18354
+119,Babel,R.F. Kuang,Fantasy,978-0063021426,28.99,22,2022,Harper Voyager,560,A dark academic fantasy about translation and colonialism at Oxford.,4.2,5040
+120,Yellowface,R.F. Kuang,Fiction,978-0063250833,27.99,25,2023,William Morrow,336,A white author steals her dead friend's manuscript.,4.2,36166
+121,Recursion,Blake Crouch,Science Fiction,978-1524759780,17.99,21,2019,Crown,336,A detective and a neuroscientist race to stop false memories.,3.6,42838
+122,Dark Matter,Blake Crouch,Science Fiction,978-1101904244,17.99,24,2016,Crown,352,A physicist is abducted into a multiverse of his own making.,5.0,1067
+123,The Martian,Andy Weir,Science Fiction,978-0553418026,16.99,30,2014,Crown,384,An astronaut must survive alone on Mars.,5.0,49485
+124,Artemis,Andy Weir,Science Fiction,978-0553448146,17.99,18,2017,Crown,320,A smuggler gets caught up in a conspiracy on the Moon.,4.8,10999
+125,Children of Time,Adrian Tchaikovsky,Science Fiction,978-1447273301,17.99,15,2015,Tor,608,Humans and evolved spiders vie for a terraformed planet.,4.1,31646
+126,Children of Ruin,Adrian Tchaikovsky,Science Fiction,978-1509865857,18.99,12,2019,Tor,592,The sequel exploring first contact with alien life.,3.8,26382
+127,Seveneves,Neal Stephenson,Science Fiction,978-0062334510,20.99,11,2015,William Morrow,880,Humanity survives the Moon's destruction in orbit.,4.9,10889
+128,The Three-Body Problem,Liu Cixin,Science Fiction,978-0765382030,17.99,23,2014,Tor,400,China's Cultural Revolution meets alien contact.,4.1,25686
+129,The Dark Forest,Liu Cixin,Science Fiction,978-0765386694,18.99,18,2015,Tor,512,Humanity prepares for alien invasion over four centuries.,3.9,29919
+130,Death's End,Liu Cixin,Science Fiction,978-0765386632,18.99,15,2016,Tor,608,The epic conclusion of the Three-Body trilogy.,3.9,45751
+131,Hyperion,Dan Simmons,Science Fiction,978-0553283686,18.99,14,1989,Spectra,500,Seven pilgrims share their tales on a journey to the Time Tombs.,4.9,36522
+132,The Fall of Hyperion,Dan Simmons,Science Fiction,978-0553288209,18.99,12,1990,Spectra,517,The Shrike pilgrims reach their destination as war erupts.,4.5,31994
+133,Leviathan Wakes,James S.A. Corey,Science Fiction,978-0316129084,17.99,20,2011,Orbit,592,A detective and a ship captain uncover a vast conspiracy.,3.7,19545
+134,Caliban's War,James S.A. Corey,Science Fiction,978-0316129060,17.99,17,2012,Orbit,624,The second Expanse novel as protomolecule spreads.,3.8,3932
+135,Abaddon's Gate,James S.A. Corey,Science Fiction,978-0316129077,17.99,15,2013,Orbit,539,The Ring opens a gateway to a thousand new worlds.,4.4,35633
+136,Old Man's War,John Scalzi,Science Fiction,978-0765348272,16.99,19,2005,Tor,320,Senior citizens are recruited into an interstellar military.,3.6,20652
+137,The Ghost Brigades,John Scalzi,Science Fiction,978-0765354068,16.99,16,2006,Tor,352,Clone soldiers hunt a traitor with stolen memories.,3.6,38384
+138,Redshirts,John Scalzi,Science Fiction,978-0765334794,16.99,22,2012,Tor,320,Crew members realize they're expendable on their starship.,4.2,34907
+139,The Long Way to a Small Angry Planet,Becky Chambers,Science Fiction,978-0062444134,16.99,24,2014,Harper Voyager,464,A diverse crew travels through space building wormholes.,3.7,33381
+140,A Closed and Common Orbit,Becky Chambers,Science Fiction,978-0062569400,16.99,20,2016,Harper Voyager,384,An AI adjusts to life in a human body.,3.6,12278
+141,The Name of the Wind,Patrick Rothfuss,Fantasy,978-0756404741,17.99,35,2007,DAW Books,662,A legendary figure tells his own story.,3.6,4553
+142,The Way of Kings,Brandon Sanderson,Fantasy,978-0765326355,18.99,40,2010,Tor Books,1007,An epic fantasy of war and magic on Roshar.,4.5,15514
+143,Mistborn: The Final Empire,Brandon Sanderson,Fantasy,978-0765350381,16.99,45,2006,Tor Books,541,A thief leads a heist against an immortal emperor.,4.1,37434
+144,The Lies of Locke Lamora,Scott Lynch,Fantasy,978-0553588941,17.99,28,2006,Bantam Spectra,499,A con artist pulls off elaborate heists in a fantasy world.,3.9,39062
+145,The Blade Itself,Joe Abercrombie,Fantasy,978-0316387316,16.99,32,2006,Orbit,531,A grimdark tale of warriors and politics.,3.6,5472
+146,Gardens of the Moon,Steven Erikson,Fantasy,978-0765348784,18.99,22,1999,Tor Books,666,The beginning of an epic fantasy series.,4.1,38351
+147,The Fifth Season,N.K. Jemisin,Fantasy,978-0316229296,16.99,38,2015,Orbit,468,A world plagued by catastrophic seasons.,4.3,20833
+148,Circe,Madeline Miller,Fantasy,978-0316556347,17.99,42,2018,Little Brown,393,The witch of Greek mythology tells her story.,4.9,13486
+149,Piranesi,Susanna Clarke,Fantasy,978-1635575637,17.00,35,2020,Bloomsbury,272,A man lives in a mysterious house of infinite halls.,4.5,20690
+150,The Priory of the Orange Tree,Samantha Shannon,Fantasy,978-1635570298,18.99,28,2019,Bloomsbury,848,An epic standalone fantasy of queens and dragons.,3.9,26038
+151,The Poppy War,R.F. Kuang,Fantasy,978-0062662569,17.99,33,2018,Harper Voyager,527,A war orphan discovers her shamanic powers.,3.7,42403
+152,An Ember in the Ashes,Sabaa Tahir,Fantasy,978-1595148049,18.99,30,2015,Razorbill,446,A slave and a soldier in a brutal empire.,3.9,20820
+153,Children of Blood and Bone,Tomi Adeyemi,Fantasy,978-1250170972,19.99,35,2018,Henry Holt,525,Magic returns to a world that outlawed it.,4.9,4854
+154,The House in the Cerulean Sea,TJ Klune,Fantasy,978-1250217288,17.99,45,2020,Tor Books,398,A caseworker visits an orphanage for magical children.,3.5,40808
+155,Spinning Silver,Naomi Novik,Fantasy,978-0399180996,17.00,28,2018,Del Rey,466,A fairy tale retelling set in a harsh winter land.,5.0,6652
+156,The Bear and the Nightingale,Katherine Arden,Fantasy,978-1101885956,17.00,32,2017,Del Rey,323,Russian folklore comes alive in winter.,3.6,14069
+157,Sorcery of Thorns,Margaret Rogerson,Fantasy,978-1481497619,18.99,26,2019,Margaret K. McElderry,456,A librarian apprentice battles demons among magical books.,4.3,8780
+158,The Invisible Life of Addie LaRue,V.E. Schwab,Fantasy,978-0765387561,17.99,40,2020,Tor Books,448,A woman makes a Faustian bargain to live forever.,4.9,4608
+159,Daughter of the Moon Goddess,Sue Lynn Tan,Fantasy,978-0063031319,18.99,24,2022,Harper Voyager,496,A retelling of the Chinese legend of Chang'e.,4.8,24317
+160,The Atlas Six,Olivie Blake,Fantasy,978-1250854513,18.99,30,2022,Tor Books,400,Six magicians compete for a secret society.,3.9,28816
+161,Gone Girl,Gillian Flynn,Thriller,978-0307588371,16.99,50,2012,Crown,419,A wife disappears on her fifth anniversary.,4.8,46207
+162,The Girl with the Dragon Tattoo,Stieg Larsson,Thriller,978-0307454546,17.99,42,2005,Knopf,465,A journalist and hacker investigate a disappearance.,4.0,42958
+163,The Silent Patient,Alex Michaelides,Thriller,978-1250301697,17.99,55,2019,Celadon Books,336,A woman shoots her husband and never speaks again.,4.3,43869
+164,The Woman in the Window,A.J. Finn,Thriller,978-0062678416,16.99,38,2018,William Morrow,427,An agoraphobic woman witnesses something in a neighbors house.,4.7,19720
+165,Big Little Lies,Liane Moriarty,Thriller,978-0399587191,17.00,45,2014,Berkley,460,Three women and a school trivia night gone wrong.,4.9,6888
+166,The Last Thing He Told Me,Laura Dave,Thriller,978-1501171345,17.99,40,2021,Simon & Schuster,320,A woman discovers her husband had secrets.,4.9,8900
+167,The Maid,Nita Prose,Mystery,978-0593356159,18.00,35,2022,Ballantine Books,304,A hotel maid discovers a dead body.,3.9,7114
+168,The Thursday Murder Club,Richard Osman,Mystery,978-0241988268,17.99,48,2020,Viking,400,Four retirees investigate cold cases.,4.6,10287
+169,The 7½ Deaths of Evelyn Hardcastle,Stuart Turton,Mystery,978-1492657965,17.99,28,2018,Sourcebooks,432,Groundhog Day meets Agatha Christie.,3.9,39738
+170,Mexican Gothic,Silvia Moreno-Garcia,Horror,978-0525620785,17.00,32,2020,Del Rey,301,A socialite investigates her cousins strange husband.,3.8,22571
+171,The Only Good Indians,Stephen Graham Jones,Horror,978-1982136451,17.00,25,2020,Gallery/Saga Press,320,Four Native American men are haunted by their past.,3.8,41665
+172,House of Leaves,Mark Z. Danielewski,Horror,978-0375703768,20.00,18,2000,Pantheon,709,A house that is bigger on the inside.,4.8,33222
+173,The Haunting of Hill House,Shirley Jackson,Horror,978-0143039983,16.00,30,1959,Penguin Classics,182,The classic haunted house story.,4.2,3429
+174,Pet Sematary,Stephen King,Horror,978-1501156700,18.00,35,1983,Gallery Books,416,Sometimes dead is better.,3.6,27859
+175,It,Stephen King,Horror,978-1501142970,19.99,40,1986,Scribner,1138,A clown terrorizes a small town.,4.7,2989
+176,The Shining,Stephen King,Horror,978-0307743657,17.00,45,1977,Anchor,447,A family winters at an isolated hotel.,3.5,8673
+177,Bird Box,Josh Malerman,Horror,978-0062259660,16.99,32,2014,Ecco,262,Something outside will drive you mad if you look.,4.5,17267
+178,The Exorcist,William Peter Blatty,Horror,978-0061007224,16.99,22,1971,Harper,385,A girl is possessed by a demon.,3.7,29056
+179,Hell House,Richard Matheson,Horror,978-0312868857,16.99,18,1971,Tor Books,301,Investigators enter the most haunted house in the world.,4.3,28128
+180,The Ritual,Adam Nevill,Horror,978-1250052131,17.99,20,2011,St. Martins Griffin,418,Four friends get lost in Scandinavian wilderness.,4.3,7431
+181,Pride and Prejudice,Jane Austen,Romance,978-0141439518,12.99,60,1813,Penguin Classics,279,Elizabeth Bennet and Mr. Darcy clash and fall in love.,3.6,45386
+182,Outlander,Diana Gabaldon,Romance,978-0440212560,18.99,45,1991,Dell,850,A nurse travels back in time to 18th century Scotland.,4.9,35855
+183,The Notebook,Nicholas Sparks,Romance,978-1455582877,16.00,55,1996,Grand Central,214,An elderly man reads their love story to his wife.,3.6,24296
+184,Beach Read,Emily Henry,Romance,978-1984806734,17.00,42,2020,Berkley,361,Two writers with opposite genres swap styles.,4.4,9805
+185,People We Meet on Vacation,Emily Henry,Romance,978-1984806758,17.00,48,2021,Berkley,384,Best friends take annual vacations together.,4.1,2841
+186,The Hating Game,Sally Thorne,Romance,978-0062439598,16.99,38,2016,William Morrow,384,Executive assistants compete for a promotion.,4.0,2714
+187,Red White & Royal Blue,Casey McQuiston,Romance,978-1250316776,17.99,50,2019,St. Martins Griffin,432,The First Son falls for a British prince.,4.8,13867
+188,The Love Hypothesis,Ali Hazelwood,Romance,978-0593336823,17.00,55,2021,Berkley,384,A fake dating scheme between scientists.,4.5,43808
+189,It Ends with Us,Colleen Hoover,Romance,978-1501110368,16.99,65,2016,Atria Books,384,A woman must make an impossible choice.,3.7,36792
+190,Verity,Colleen Hoover,Thriller,978-1791392796,17.99,58,2018,Grand Central,336,A writer discovers a disturbing manuscript.,4.8,26732
+191,Ugly Love,Colleen Hoover,Romance,978-1476753188,16.99,45,2014,Atria Books,322,A no-strings relationship becomes complicated.,5.0,49217
+192,The Spanish Love Deception,Elena Armas,Romance,978-1668002308,17.00,40,2021,Atria Books,432,A woman needs a fake date for a wedding.,3.7,15614
+193,Book Lovers,Emily Henry,Romance,978-0593334836,17.00,52,2022,Berkley,373,A literary agent meets her nemesis in a small town.,4.8,11703
+194,Happy Place,Emily Henry,Romance,978-0593441275,18.99,48,2023,Berkley,400,Exes pretend theyre still together on vacation.,4.8,1724
+195,The Flatshare,Beth OLeary,Romance,978-1250295637,16.99,35,2019,Flatiron Books,352,Two strangers share an apartment in shifts.,3.8,21870
+196,The Kiss Quotient,Helen Hoang,Romance,978-0451490803,16.00,32,2018,Berkley,336,A woman with autism hires an escort to teach her dating.,4.7,27082
+197,In a Holidaze,Christina Lauren,Romance,978-1982163808,17.00,28,2020,Gallery Books,304,A woman gets a do-over of her holiday vacation.,4.7,48272
+198,The Ex Hex,Erin Sterling,Romance,978-0063027473,16.99,30,2021,Avon,304,A witchs hex on her ex comes back to haunt them.,4.7,17585
+199,A Court of Thorns and Roses,Sarah J. Maas,Fantasy,978-1635575569,18.99,60,2015,Bloomsbury,419,A huntress is taken to a faerie land.,3.7,46058
+200,Fourth Wing,Rebecca Yarros,Fantasy,978-1649374042,19.99,70,2023,Entangled Red Tower,498,Dragon riders at a war college.,3.7,2637
+201,Sapiens: A Brief History of Humankind,Yuval Noah Harari,Non-Fiction,978-0062316110,24.99,55,2011,Harper,443,The history of humanity from the Stone Age.,4.8,14677
+202,Educated,Tara Westover,Memoir,978-0399590504,18.00,60,2018,Random House,334,A woman escapes her survivalist family through education.,3.8,30266
+203,Becoming,Michelle Obama,Memoir,978-1524763138,19.99,65,2018,Crown,448,The former First Ladys story.,4.0,15015
+204,The Immortal Life of Henrietta Lacks,Rebecca Skloot,Non-Fiction,978-1400052189,17.00,40,2010,Broadway Books,381,The woman whose cells changed medicine forever.,3.8,43355
+205,Atomic Habits,James Clear,Self-Help,978-0735211292,27.00,80,2018,Avery,320,Small changes create remarkable results.,3.8,21612
+206,Thinking Fast and Slow,Daniel Kahneman,Psychology,978-0374533557,18.00,45,2011,Farrar Straus Giroux,499,How we think and make decisions.,3.9,4649
+207,The Body Keeps the Score,Bessel van der Kolk,Psychology,978-0143127741,19.00,50,2014,Penguin Books,464,How trauma affects the body and mind.,5.0,18392
+208,Quiet,Susan Cain,Psychology,978-0307352156,18.00,38,2012,Broadway Books,352,The power of introverts in a noisy world.,4.0,33484
+209,How to Win Friends and Influence People,Dale Carnegie,Self-Help,978-0671027032,17.99,55,1936,Gallery Books,288,The classic guide to social skills.,4.1,35241
+210,The Subtle Art of Not Giving a Fck,Mark Manson,Self-Help,978-0062457714,26.00,62,2016,HarperOne,224,A counterintuitive approach to living a good life.,4.0,1908
+211,Outliers,Malcolm Gladwell,Non-Fiction,978-0316017930,18.99,42,2008,Little Brown,309,What makes high achievers different.,3.7,17218
+212,Blink,Malcolm Gladwell,Non-Fiction,978-0316010665,17.99,35,2005,Little Brown,296,The power of thinking without thinking.,3.8,17497
+213,Freakonomics,Steven D. Levitt,Economics,978-0060731335,17.99,30,2005,William Morrow,315,The hidden side of everything.,3.6,39196
+214,The Power of Habit,Charles Duhigg,Self-Help,978-0812981605,18.00,48,2012,Random House,371,Why we do what we do.,4.2,47845
+215,Range,David Epstein,Non-Fiction,978-0735214484,18.00,32,2019,Riverhead Books,352,Why generalists triumph in a specialized world.,4.7,28699
+216,A Short History of Nearly Everything,Bill Bryson,Science,978-0767908184,18.00,28,2003,Broadway Books,544,An accessible tour of science.,4.4,33616
+217,The Gene,Siddhartha Mukherjee,Science,978-1476733524,20.00,25,2016,Scribner,594,An intimate history of the gene.,3.7,37887
+218,Guns Germs and Steel,Jared Diamond,History,978-0393354324,18.95,35,1997,W. W. Norton,498,Why some civilizations conquered others.,3.8,3008
+219,1491,Charles C. Mann,History,978-1400032051,18.00,22,2005,Vintage,541,The Americas before Columbus.,4.6,210
+220,The Wright Brothers,David McCullough,Biography,978-1476728759,18.00,28,2015,Simon & Schuster,336,The story of aviation pioneers.,4.3,35387
+221,Steve Jobs,Walter Isaacson,Biography,978-1451648539,19.99,45,2011,Simon & Schuster,656,The definitive biography of Apples cofounder.,4.5,48724
+222,The Diary of a Young Girl,Anne Frank,Memoir,978-0553577129,7.99,70,1947,Bantam,283,A Jewish girls diary during WWII.,4.6,13012
+223,Long Walk to Freedom,Nelson Mandela,Autobiography,978-0316548182,22.00,30,1994,Little Brown,656,Mandelas journey from prisoner to president.,4.0,4685
+224,Born a Crime,Trevor Noah,Memoir,978-0399588198,18.00,55,2016,One World,304,Growing up in apartheid South Africa.,4.9,21739
+225,When Breath Becomes Air,Paul Kalanithi,Memoir,978-0812988406,16.00,48,2016,Random House,228,A neurosurgeon faces terminal cancer.,4.4,43575
+226,The Glass Castle,Jeannette Walls,Memoir,978-0743247542,18.00,52,2005,Scribner,288,A remarkable memoir of resilience.,4.8,47269
+227,Wild,Cheryl Strayed,Memoir,978-0307476074,17.00,40,2012,Vintage,336,Hiking the Pacific Crest Trail after tragedy.,4.9,33334
+228,Into the Wild,Jon Krakauer,Non-Fiction,978-0385486804,16.95,45,1996,Anchor,207,The true story of Chris McCandless.,4.0,26864
+229,Into Thin Air,Jon Krakauer,Non-Fiction,978-0385494786,17.00,38,1997,Anchor,368,The 1996 Everest disaster.,4.0,45792
+230,Unbroken,Laura Hillenbrand,Biography,978-0812974492,18.00,50,2010,Random House,473,An Olympic runners survival in WWII.,3.9,8441
+231,The Boys in the Boat,Daniel James Brown,History,978-0143125471,18.00,35,2013,Penguin Books,404,American rowers at the 1936 Olympics.,3.8,43676
+232,Hidden Figures,Margot Lee Shetterly,History,978-0062363602,16.99,42,2016,William Morrow,368,Black women mathematicians at NASA.,4.9,44488
+233,The Code Breaker,Walter Isaacson,Biography,978-1982115852,35.00,28,2021,Simon & Schuster,560,Jennifer Doudna and the CRISPR revolution.,4.6,11505
+234,Shoe Dog,Phil Knight,Memoir,978-1501135927,18.00,38,2016,Scribner,400,The Nike founders memoir.,4.4,19823
+235,Bad Blood,John Carreyrou,Non-Fiction,978-0525431992,18.00,45,2018,Knopf,339,The Theranos scandal exposed.,4.1,126
+236,The Innovators,Walter Isaacson,History,978-1476708706,20.00,30,2014,Simon & Schuster,560,How a group of hackers created the digital revolution.,4.0,13874
+237,Elon Musk,Ashlee Vance,Biography,978-0062301253,18.99,40,2015,Ecco,400,The biography of the tech visionary.,4.1,38109
+238,Alexander Hamilton,Ron Chernow,Biography,978-0143034759,20.00,25,2004,Penguin Books,818,The founding father who inspired the musical.,4.4,21218
+239,Team of Rivals,Doris Kearns Goodwin,History,978-0743270755,22.00,22,2005,Simon & Schuster,916,Lincoln and his cabinet during the Civil War.,4.2,29077
+240,The Rise of Theodore Roosevelt,Edmund Morris,Biography,978-0375756788,22.00,18,1979,Random House,920,The first volume of the definitive TR biography.,4.5,33600
+241,The Hunger Games,Suzanne Collins,Young Adult,978-0439023528,14.99,75,2008,Scholastic,374,A girl fights for survival in a dystopian arena.,4.2,48331
+242,Catching Fire,Suzanne Collins,Young Adult,978-0439023498,14.99,68,2009,Scholastic,391,The rebellion grows after the Games.,3.8,5657
+243,Mockingjay,Suzanne Collins,Young Adult,978-0439023511,14.99,65,2010,Scholastic,390,The final battle against the Capitol.,3.9,43606
+244,Divergent,Veronica Roth,Young Adult,978-0062024039,12.99,55,2011,Katherine Tegen Books,487,A society divided into factions.,4.4,22066
+245,The Maze Runner,James Dashner,Young Adult,978-0385737951,12.99,50,2009,Delacorte Press,374,Boys trapped in a deadly maze.,3.6,49326
+246,The Fault in Our Stars,John Green,Young Adult,978-0142424179,12.99,62,2012,Dutton Books,313,Two teens with cancer fall in love.,3.9,20443
+247,Looking for Alaska,John Green,Young Adult,978-0142402511,12.99,45,2005,Dutton Books,221,A boy searches for meaning at boarding school.,3.8,13150
+248,The Perks of Being a Wallflower,Stephen Chbosky,Young Adult,978-1451696196,14.99,58,1999,Gallery Books,213,A shy freshman navigates high school.,3.7,3128
+249,Twilight,Stephenie Meyer,Young Adult,978-0316015844,12.99,48,2005,Little Brown,498,A girl falls for a vampire.,3.9,31238
+250,The Giver,Lois Lowry,Young Adult,978-0544336261,9.99,70,1993,HMH Books,240,A boy discovers the dark truth of his utopia.,4.4,4872
+251,Enders Game,Orson Scott Card,Young Adult,978-0812550702,16.99,55,1985,Tor Books,324,A child genius trains to fight aliens.,4.2,41372
+252,Percy Jackson and the Lightning Thief,Rick Riordan,Young Adult,978-0786838653,9.99,80,2005,Disney Hyperion,377,A boy discovers hes the son of Poseidon.,4.4,47177
+253,The Book Thief,Markus Zusak,Young Adult,978-0375842207,14.99,65,2005,Knopf,552,A girl steals books in Nazi Germany.,4.5,32499
+254,Six of Crows,Leigh Bardugo,Young Adult,978-1250076960,12.99,52,2015,Henry Holt,465,A heist crew in a fantasy world.,4.1,9771
+255,Shadow and Bone,Leigh Bardugo,Young Adult,978-1250027436,11.99,48,2012,Henry Holt,358,A soldier discovers her magical power.,4.5,463
+256,The Cruel Prince,Holly Black,Young Adult,978-0316310314,12.99,45,2018,Little Brown,370,A mortal girl among the faeries.,4.8,7085
+257,Children of Virtue and Vengeance,Tomi Adeyemi,Young Adult,978-1250170996,19.99,38,2019,Henry Holt,448,The sequel to Children of Blood and Bone.,4.7,14441
+258,We Were Liars,E. Lockhart,Young Adult,978-0385741262,12.99,42,2014,Delacorte Press,227,A wealthy family with dark secrets.,3.8,45707
+259,All the Bright Places,Jennifer Niven,Young Adult,978-0385755917,12.99,40,2015,Knopf,388,Two teens struggle with mental health.,4.3,3391
+260,Eleanor & Park,Rainbow Rowell,Young Adult,978-1250012579,11.99,55,2013,St. Martins Griffin,328,Misfits fall in love on the school bus.,4.3,8053
+261,Goodnight Moon,Margaret Wise Brown,Childrens,978-0694003617,8.99,90,1947,HarperFestival,32,A bunny says goodnight to everything.,4.2,30550
+262,Where the Wild Things Are,Maurice Sendak,Childrens,978-0064431781,18.99,75,1963,HarperCollins,48,Max visits the land of wild things.,4.5,36729
+263,The Very Hungry Caterpillar,Eric Carle,Childrens,978-0399226908,7.99,95,1969,Philomel Books,26,A caterpillar eats through the week.,4.4,49596
+264,Green Eggs and Ham,Dr. Seuss,Childrens,978-0394800165,9.99,85,1960,Random House,62,Sam-I-Am persists with his offer.,4.8,40250
+265,The Cat in the Hat,Dr. Seuss,Childrens,978-0394800011,9.99,88,1957,Random House,61,A cat creates chaos on a rainy day.,4.7,33181
+266,Charlotte's Web,E.B. White,Childrens,978-0061124952,8.99,72,1952,HarperCollins,184,A spider saves a pig from slaughter.,4.1,36005
+267,Matilda,Roald Dahl,Childrens,978-0142410370,8.99,65,1988,Puffin Books,240,A genius girl with telekinetic powers.,4.2,10530
+268,Charlie and the Chocolate Factory,Roald Dahl,Childrens,978-0142410318,8.99,70,1964,Puffin Books,176,A boy wins a tour of a magical factory.,4.6,31208
+269,Harry Potter and the Sorcerers Stone,J.K. Rowling,Childrens,978-0590353427,12.99,100,1997,Scholastic,309,A boy discovers hes a wizard.,4.2,49368
+270,Harry Potter and the Chamber of Secrets,J.K. Rowling,Childrens,978-0439064873,12.99,95,1998,Scholastic,341,Harry returns to Hogwarts for year two.,3.9,41889
+271,Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Childrens,978-0439136365,12.99,92,1999,Scholastic,435,An escaped prisoner threatens Harry.,3.9,34263
+272,Harry Potter and the Goblet of Fire,J.K. Rowling,Childrens,978-0439139601,14.99,88,2000,Scholastic,734,Harry enters the Triwizard Tournament.,4.2,15779
+273,Harry Potter and the Order of the Phoenix,J.K. Rowling,Childrens,978-0439358071,14.99,85,2003,Scholastic,870,Harry forms Dumbledores Army.,3.9,5177
+274,Harry Potter and the Half-Blood Prince,J.K. Rowling,Childrens,978-0439785969,14.99,82,2005,Scholastic,652,Harry learns Voldemorts secret.,4.6,15467
+275,Harry Potter and the Deathly Hallows,J.K. Rowling,Childrens,978-0545139700,14.99,80,2007,Scholastic,759,The final battle against Voldemort.,3.9,21052
+276,The Lion the Witch and the Wardrobe,C.S. Lewis,Childrens,978-0064404990,9.99,68,1950,HarperCollins,208,Children discover a magical world through a wardrobe.,4.8,5380
+277,A Wrinkle in Time,Madeleine LEngle,Childrens,978-0312367541,8.99,55,1962,Square Fish,256,A girl travels through space and time to save her father.,3.7,15255
+278,The Phantom Tollbooth,Norton Juster,Childrens,978-0394820378,8.99,45,1961,Random House,272,A boy drives through a magical tollbooth.,4.1,10114
+279,James and the Giant Peach,Roald Dahl,Childrens,978-0142410363,8.99,58,1961,Puffin Books,160,A boy travels in a giant fruit.,4.6,4309
+280,The BFG,Roald Dahl,Childrens,978-0142410387,8.99,52,1982,Puffin Books,224,A girl befriends a big friendly giant.,4.1,21784
+281,The Design of Everyday Things,Don Norman,Design,978-0465050659,17.99,32,1988,Basic Books,368,How design affects our daily lives.,4.3,27348
+282,Dont Make Me Think,Steve Krug,Design,978-0321965516,45.00,25,2000,New Riders,216,Web usability fundamentals.,3.6,27634
+283,Hooked,Nir Eyal,Business,978-1591847786,26.00,35,2014,Portfolio,256,How to build habit-forming products.,4.1,38378
+284,Zero to One,Peter Thiel,Business,978-0804139298,27.00,42,2014,Crown Business,224,Notes on startups and building the future.,4.9,1380
+285,The Lean Startup,Eric Ries,Business,978-0307887894,28.00,48,2011,Crown Business,336,Build measure learn.,4.8,37828
+286,Good to Great,Jim Collins,Business,978-0066620992,29.99,40,2001,Harper Business,320,Why some companies make the leap.,4.1,486
+287,Start with Why,Simon Sinek,Business,978-1591846444,17.00,45,2009,Portfolio,256,How great leaders inspire action.,4.9,19669
+288,The Hard Thing About Hard Things,Ben Horowitz,Business,978-0062273208,29.99,35,2014,Harper Business,304,Building a business when there are no easy answers.,4.6,27560
+289,Creativity Inc.,Ed Catmull,Business,978-0812993011,17.00,30,2014,Random House,368,The story of Pixar and fostering creativity.,4.3,48244
+290,Principles,Ray Dalio,Business,978-1501124020,30.00,38,2017,Simon & Schuster,592,Life and work principles from Bridgewater founder.,4.3,39634
+291,The 4-Hour Workweek,Tim Ferriss,Self-Help,978-0307465351,17.00,52,2007,Harmony,416,Escape the 9-5 and live anywhere.,4.8,32096
+292,Deep Work,Cal Newport,Self-Help,978-1455586691,28.00,45,2016,Grand Central,296,Rules for focused success in a distracted world.,3.8,28662
+293,Digital Minimalism,Cal Newport,Self-Help,978-0525536512,27.00,38,2019,Portfolio,304,Choosing a focused life in a noisy world.,4.2,25584
+294,Essentialism,Greg McKeown,Self-Help,978-0804137386,27.00,42,2014,Crown Business,272,The disciplined pursuit of less.,4.0,44608
+295,The War of Art,Steven Pressfield,Self-Help,978-1936891023,16.00,35,2002,Black Irish Entertainment,168,Break through creative blocks.,4.7,47559
+296,Mans Search for Meaning,Viktor E. Frankl,Philosophy,978-0807014295,15.00,58,1946,Beacon Press,184,Finding purpose in suffering.,3.7,30730
+297,Meditations,Marcus Aurelius,Philosophy,978-0140449334,14.00,45,180,Penguin Classics,256,Stoic wisdom from a Roman emperor.,4.9,40880
+298,The Alchemist,Paulo Coelho,Philosophy,978-0062315007,16.99,65,1988,HarperOne,208,A shepherd seeks his personal legend.,4.3,25922
+299,Siddhartha,Hermann Hesse,Philosophy,978-0553208849,7.99,40,1922,Bantam Classics,152,A spiritual journey in ancient India.,4.4,43550
+300,Zen and the Art of Motorcycle Maintenance,Robert M. Pirsig,Philosophy,978-0060839871,17.99,32,1974,William Morrow,540,An inquiry into values.,3.5,42223
+301,Clean Code,Robert C. Martin,Technology,978-0132350884,49.99,45,2008,Prentice Hall,464,A handbook of agile software craftsmanship.,4.1,30357
+302,The Pragmatic Programmer,David Thomas,Technology,978-0135957059,59.99,40,1999,Addison-Wesley,352,From journeyman to master.,3.8,17149
+303,Design Patterns,Gang of Four,Technology,978-0201633610,59.99,28,1994,Addison-Wesley,416,Elements of reusable object-oriented software.,4.1,13971
+304,Introduction to Algorithms,Thomas H. Cormen,Technology,978-0262033848,89.99,22,1990,MIT Press,1312,The comprehensive algorithms textbook.,4.2,22218
+305,Structure and Interpretation of Computer Programs,Harold Abelson,Technology,978-0262510875,55.00,18,1984,MIT Press,657,The wizard book of programming.,4.6,24946
+306,Code Complete,Steve McConnell,Technology,978-0735619678,49.99,32,1993,Microsoft Press,960,A practical handbook of software construction.,3.9,27727
+307,The Mythical Man-Month,Frederick P. Brooks Jr.,Technology,978-0201835953,34.99,25,1975,Addison-Wesley,336,Essays on software engineering.,3.9,5467
+308,Cracking the Coding Interview,Gayle Laakmann McDowell,Technology,978-0984782857,39.95,55,2008,CareerCup,687,189 programming questions and solutions.,4.2,49188
+309,You Dont Know JS: Scope & Closures,Kyle Simpson,Technology,978-1491904152,24.99,35,2014,OReilly Media,98,Deep dive into JavaScript.,4.3,23035
+310,Eloquent JavaScript,Marijn Haverbeke,Technology,978-1593279509,39.95,42,2011,No Starch Press,472,A modern introduction to programming.,3.8,4596
+311,JavaScript: The Good Parts,Douglas Crockford,Technology,978-0596517748,29.99,30,2008,OReilly Media,176,Unearthing the excellence in JavaScript.,4.7,42813
+312,Learning Python,Mark Lutz,Technology,978-1449355739,64.99,38,1999,OReilly Media,1648,Comprehensive Python guide.,3.6,2133
+313,Python Crash Course,Eric Matthes,Technology,978-1593279288,39.95,52,2015,No Starch Press,544,A hands-on project-based introduction.,4.9,13165
+314,Automate the Boring Stuff with Python,Al Sweigart,Technology,978-1593279929,39.95,48,2015,No Starch Press,592,Practical programming for total beginners.,4.8,40819
+315,Fluent Python,Luciano Ramalho,Technology,978-1492056355,69.99,28,2015,OReilly Media,792,Clear concise and effective programming.,3.7,8372
+316,Effective Java,Joshua Bloch,Technology,978-0134685991,54.99,35,2001,Addison-Wesley,416,Best practices for Java programming.,4.2,7596
+317,Head First Design Patterns,Eric Freeman,Technology,978-0596007126,59.99,40,2004,OReilly Media,694,A brain-friendly guide to design patterns.,4.3,14384
+318,The Art of Computer Programming Vol 1,Donald Knuth,Technology,978-0201896831,79.99,15,1968,Addison-Wesley,672,The bible of fundamental algorithms.,4.2,16893
+319,Refactoring,Martin Fowler,Technology,978-0134757599,54.99,32,1999,Addison-Wesley,448,Improving the design of existing code.,4.7,11096
+320,Domain-Driven Design,Eric Evans,Technology,978-0321125217,69.99,22,2003,Addison-Wesley,560,Tackling complexity in software.,4.4,49116
+321,The Joy of Cooking,Irma S. Rombauer,Cooking,978-1501169717,40.00,55,1931,Scribner,1200,The essential American cookbook.,4.6,10832
+322,Salt Fat Acid Heat,Samin Nosrat,Cooking,978-1476753836,35.00,48,2017,Simon & Schuster,480,Mastering the elements of good cooking.,4.9,7184
+323,The Food Lab,J. Kenji Lopez-Alt,Cooking,978-0393081084,49.95,42,2015,W. W. Norton,960,Better home cooking through science.,4.4,20544
+324,On Food and Cooking,Harold McGee,Cooking,978-0684800011,45.00,28,1984,Scribner,896,The science and lore of the kitchen.,4.4,24696
+325,Mastering the Art of French Cooking,Julia Child,Cooking,978-0375413407,40.00,35,1961,Knopf,752,The classic French cookbook.,4.1,46959
+326,Jerusalem,Yotam Ottolenghi,Cooking,978-1607743941,35.00,38,2012,Ten Speed Press,320,A cookbook celebrating the city.,3.8,38903
+327,Plenty,Yotam Ottolenghi,Cooking,978-1452101248,35.00,32,2010,Chronicle Books,288,Vibrant vegetable recipes.,4.5,41206
+328,The Flavor Bible,Karen Page,Cooking,978-0316118408,40.00,25,2008,Little Brown,392,The essential guide to culinary creativity.,3.9,45791
+329,Kitchen Confidential,Anthony Bourdain,Cooking,978-0060899226,17.99,45,2000,Ecco,312,Adventures in the culinary underbelly.,4.7,44943
+330,Flour Water Salt Yeast,Ken Forkish,Cooking,978-1607742739,35.00,40,2012,Ten Speed Press,272,The fundamentals of artisan bread and pizza.,4.4,8033
+331,The Smitten Kitchen Cookbook,Deb Perelman,Cooking,978-0307595652,35.00,42,2012,Knopf,320,Recipes from the beloved blog.,4.7,37188
+332,Half Baked Harvest Super Simple,Tieghan Gerard,Cooking,978-0525577072,29.99,38,2019,Clarkson Potter,304,More than 125 recipes for instant comfort.,4.7,22854
+333,Dessert Person,Claire Saffitz,Cooking,978-1984826923,35.00,50,2020,Clarkson Potter,352,Recipes and guidance for baking with confidence.,4.3,43453
+334,My Paris Kitchen,David Lebovitz,Cooking,978-1607742678,35.00,28,2014,Ten Speed Press,344,Recipes and stories from Paris.,4.1,33258
+335,Ratio,Michael Ruhlman,Cooking,978-1416571728,18.00,22,2009,Scribner,272,The simple codes behind culinary craft.,4.5,929
+336,Running on Empty,Marshall Ulrich,Sports,978-1583334904,16.00,18,2011,Avery,320,An ultramarathoners journey across America.,4.8,32225
+337,Born to Run,Christopher McDougall,Sports,978-0307279187,17.00,55,2009,Vintage,304,A hidden tribe and the secrets of running.,3.7,23836
+338,Open,Andre Agassi,Sports,978-0307388407,18.00,42,2009,Vintage,400,The tennis legends revealing autobiography.,4.5,30229
+339,The Boys of Summer,Roger Kahn,Sports,978-0060883966,16.99,25,1972,Harper Perennial,442,The Brooklyn Dodgers and the American dream.,4.6,28640
+340,Moneyball,Michael Lewis,Sports,978-0393324815,16.95,48,2003,W. W. Norton,317,The art of winning an unfair game.,3.8,34293
+341,Watchmen,Alan Moore,Graphic Novel,978-1401245252,24.99,45,1986,DC Comics,416,A deconstruction of the superhero genre.,4.9,17800
+342,Maus,Art Spiegelman,Graphic Novel,978-0679406419,35.00,38,1991,Pantheon,296,A Holocaust survivors story told with mice and cats.,4.4,35369
+343,Persepolis,Marjane Satrapi,Graphic Novel,978-0375714832,14.95,42,2000,Pantheon,160,Growing up in Iran during the revolution.,4.7,30565
+344,Saga Volume 1,Brian K. Vaughan,Graphic Novel,978-1607066019,9.99,55,2012,Image Comics,160,Star-crossed lovers from warring planets.,4.2,48008
+345,Sandman Volume 1,Neil Gaiman,Graphic Novel,978-1401284770,19.99,48,1989,DC Comics,240,The Lord of Dreams escapes captivity.,4.4,21222
+346,V for Vendetta,Alan Moore,Graphic Novel,978-1401208417,19.99,40,1988,DC Comics,296,A masked anarchist fights totalitarianism.,4.8,5779
+347,Batman: The Dark Knight Returns,Frank Miller,Graphic Novel,978-1563893421,19.99,52,1986,DC Comics,224,An aging Batman comes out of retirement.,3.9,29643
+348,Fun Home,Alison Bechdel,Graphic Novel,978-0618871711,16.00,35,2006,Mariner Books,232,A family tragicomic memoir.,3.9,30555
+349,The Walking Dead Compendium One,Robert Kirkman,Graphic Novel,978-1607060765,59.99,32,2009,Image Comics,1088,The zombie apocalypse begins.,4.4,43890
+350,Y: The Last Man Volume 1,Brian K. Vaughan,Graphic Novel,978-1563899805,14.99,28,2002,DC Comics,128,The last man alive in a world of women.,4.1,1980
+351,Milk and Honey,Rupi Kaur,Poetry,978-1449474256,14.99,70,2014,Andrews McMeel,208,Poetry about survival and healing.,4.2,21400
+352,The Sun and Her Flowers,Rupi Kaur,Poetry,978-1449486792,16.99,62,2017,Andrews McMeel,256,Poetry about growth and ancestry.,3.8,14001
+353,Where the Sidewalk Ends,Shel Silverstein,Poetry,978-0060256678,19.99,75,1974,HarperCollins,176,Poems and drawings for children.,4.0,17031
+354,The Waste Land,T.S. Eliot,Poetry,978-0156948777,15.00,25,1922,Harvest Books,96,A modernist masterpiece.,4.0,39169
+355,Leaves of Grass,Walt Whitman,Poetry,978-0486456768,6.00,35,1855,Dover Publications,400,Americas essential poetry collection.,4.6,18205
+356,Selected Poems,Emily Dickinson,Poetry,978-0486264660,4.00,40,1890,Dover Publications,96,Timeless American verse.,4.3,33957
+357,The Odyssey,Homer,Poetry,978-0140268867,17.00,45,800,Penguin Classics,560,The epic journey home from Troy.,4.9,5710
+358,The Iliad,Homer,Poetry,978-0140275360,18.00,40,750,Penguin Classics,704,The rage of Achilles and the Trojan War.,3.9,26735
+359,Beowulf,Anonymous,Poetry,978-0393320978,15.95,32,1000,W. W. Norton,288,The Old English epic of a hero.,4.2,49787
+360,Paradise Lost,John Milton,Poetry,978-0140424393,14.00,28,1667,Penguin Classics,453,The fall of man and Satan.,3.9,31301
+361,The Catcher in the Rye,J.D. Salinger,Classic,978-0316769488,9.99,65,1951,Little Brown,277,A teenagers alienation in New York City.,4.5,32266
+362,To Kill a Mockingbird,Harper Lee,Classic,978-0060935467,16.99,72,1960,Harper Perennial,336,A lawyers defense of a Black man in Alabama.,4.2,1230
+363,1984,George Orwell,Classic,978-0451524935,9.99,78,1949,Signet Classics,328,A dystopia of totalitarian control.,3.6,14622
+364,Animal Farm,George Orwell,Classic,978-0451526342,9.99,70,1945,Signet Classics,144,A political fable about revolution corrupted.,4.1,16045
+365,Brave New World,Aldous Huxley,Classic,978-0060850524,16.99,58,1932,Harper Perennial,288,A society controlled by pleasure.,4.0,38212
+366,Fahrenheit 451,Ray Bradbury,Classic,978-1451673319,16.99,62,1953,Simon & Schuster,249,A world where books are burned.,4.1,36372
+367,The Great Gatsby,F. Scott Fitzgerald,Classic,978-0743273565,17.00,68,1925,Scribner,180,The American Dream in the Jazz Age.,4.3,27985
+368,Of Mice and Men,John Steinbeck,Classic,978-0140186420,9.00,55,1937,Penguin Books,107,Two displaced workers during the Depression.,5.0,36170
+369,The Grapes of Wrath,John Steinbeck,Classic,978-0143039433,18.00,42,1939,Penguin Classics,464,A family flees the Dust Bowl.,4.0,46162
+370,East of Eden,John Steinbeck,Classic,978-0142004234,18.00,38,1952,Penguin Books,608,A multigenerational saga in California.,4.2,20194
+371,One Hundred Years of Solitude,Gabriel Garcia Marquez,Classic,978-0060883287,17.99,45,1967,Harper Perennial,417,A family and a town across generations.,3.9,8007
+372,Crime and Punishment,Fyodor Dostoevsky,Classic,978-0143058144,17.00,35,1866,Penguin Classics,671,A students moral struggle after murder.,4.6,20779
+373,The Brothers Karamazov,Fyodor Dostoevsky,Classic,978-0374528379,18.00,28,1880,FSG Classics,796,Four brothers and their fathers murder.,3.7,35218
+374,War and Peace,Leo Tolstoy,Classic,978-0140447934,20.00,25,1869,Penguin Classics,1392,Russia during the Napoleonic Wars.,4.9,45330
+375,Anna Karenina,Leo Tolstoy,Classic,978-0143035008,18.00,32,1877,Penguin Classics,838,An aristocrats tragic affair.,3.8,14280
+376,Moby-Dick,Herman Melville,Classic,978-0142437247,17.00,30,1851,Penguin Classics,720,Captain Ahabs obsessive hunt for a whale.,4.6,18220
+377,The Scarlet Letter,Nathaniel Hawthorne,Classic,978-0142437261,11.00,40,1850,Penguin Classics,238,Sin and redemption in Puritan Massachusetts.,4.6,49920
+378,Wuthering Heights,Emily Bronte,Classic,978-0141439556,10.00,48,1847,Penguin Classics,338,A tale of passion and revenge on the moors.,4.3,18646
+379,Jane Eyre,Charlotte Bronte,Classic,978-0141441146,12.00,52,1847,Penguin Classics,532,A governesss journey to independence.,5.0,12821
+380,Great Expectations,Charles Dickens,Classic,978-0141439563,13.00,45,1861,Penguin Classics,544,A boys rise from poverty to gentleman.,3.9,23750
+381,A Tale of Two Cities,Charles Dickens,Classic,978-0141439600,11.00,42,1859,Penguin Classics,489,London and Paris during the French Revolution.,3.8,1027
+382,David Copperfield,Charles Dickens,Classic,978-0140439441,14.00,35,1850,Penguin Classics,882,Dickens most autobiographical novel.,4.6,8395
+383,The Picture of Dorian Gray,Oscar Wilde,Classic,978-0141439570,12.00,55,1890,Penguin Classics,256,A portrait ages while its subject stays young.,3.9,3673
+384,Dracula,Bram Stoker,Classic,978-0141439846,14.00,58,1897,Penguin Classics,454,The original vampire novel.,4.3,45805
+385,Frankenstein,Mary Shelley,Classic,978-0141439471,12.00,62,1818,Penguin Classics,280,A scientist creates life from death.,4.9,41903
+386,The Count of Monte Cristo,Alexandre Dumas,Classic,978-0140449266,18.00,35,1844,Penguin Classics,1276,A wronged man seeks revenge.,4.8,32270
+387,Les Miserables,Victor Hugo,Classic,978-0140444308,20.00,28,1862,Penguin Classics,1232,Justice and redemption in 19th century France.,3.7,903
+388,Don Quixote,Miguel de Cervantes,Classic,978-0060934347,22.00,22,1605,Ecco,992,A knight errant tilts at windmills.,4.4,30862
+389,The Metamorphosis,Franz Kafka,Classic,978-0553213690,7.99,48,1915,Bantam Classics,201,A man wakes up transformed into an insect.,4.2,22428
+390,The Trial,Franz Kafka,Classic,978-0805209990,16.00,32,1925,Schocken,255,A man is arrested for an unknown crime.,3.8,3467
+391,Slaughterhouse-Five,Kurt Vonnegut,Classic,978-0385333849,17.00,55,1969,Dell,275,An anti-war novel unstuck in time.,3.9,31408
+392,Catch-22,Joseph Heller,Classic,978-1451626650,18.00,42,1961,Simon & Schuster,544,The absurdity of war and bureaucracy.,3.7,4382
+393,The Bell Jar,Sylvia Plath,Classic,978-0060837020,15.99,48,1963,Harper Perennial,288,A young womans descent into depression.,4.1,4955
+394,The Stranger,Albert Camus,Classic,978-0679720201,14.00,52,1942,Vintage,123,An indifferent man commits a senseless crime.,4.4,45087
+395,Lolita,Vladimir Nabokov,Classic,978-0679723165,17.00,35,1955,Vintage,317,A controversial novel of obsession.,3.6,9877
+396,On the Road,Jack Kerouac,Classic,978-0140283297,17.00,40,1957,Penguin Books,307,A Beat Generation journey across America.,4.7,20012
+397,Lord of the Flies,William Golding,Classic,978-0399501487,17.00,58,1954,Penguin Books,224,Boys stranded on an island descend into savagery.,3.6,16365
+398,The Handmaids Tale,Margaret Atwood,Classic,978-0385490818,16.95,65,1985,Anchor,311,A dystopia of women as property.,3.7,27374
+399,Beloved,Toni Morrison,Classic,978-1400033416,17.00,45,1987,Vintage,324,A former slaves haunting by her past.,4.4,40628
+400,The Color Purple,Alice Walker,Classic,978-0156028356,17.00,48,1982,Mariner Books,295,Black womens lives in early 20th century Georgia.,3.8,34347
+401,What to Expect When Youre Expecting,Heidi Murkoff,Parenting,978-0761187486,18.95,55,1984,Workman Publishing,656,The pregnancy bible.,4.1,29114
+402,The Whole-Brain Child,Daniel J. Siegel,Parenting,978-0553386691,17.00,42,2011,Bantam,176,12 strategies to nurture your childs mind.,3.9,38669
+403,How to Talk So Kids Will Listen,Adele Faber,Parenting,978-1451663884,17.00,48,1980,Scribner,380,Communication strategies for parents.,5.0,20113
+404,Untangled,Lisa Damour,Parenting,978-0553393071,17.00,35,2016,Ballantine Books,352,Guiding teenage girls through adolescence.,4.4,4047
+405,Cribsheet,Emily Oster,Parenting,978-0525559252,28.00,40,2019,Penguin Press,352,A data-driven guide to parenting.,4.4,48602
+406,The Gardening Book,DK Publishing,Gardening,978-0744026641,25.00,32,2022,DK Publishing,320,A complete guide to growing your garden.,3.6,13717
+407,The Well-Tempered Garden,Christopher Lloyd,Gardening,978-1780227825,22.00,18,1970,Timber Press,512,A classic of garden writing.,4.4,17443
+408,Braiding Sweetgrass,Robin Wall Kimmerer,Nature,978-1571313560,18.00,65,2013,Milkweed Editions,390,Indigenous wisdom and scientific knowledge.,4.5,10392
+409,The Hidden Life of Trees,Peter Wohlleben,Nature,978-1771642484,24.95,52,2015,Greystone Books,288,What trees feel and communicate.,3.9,36275
+410,H Is for Hawk,Helen Macdonald,Nature,978-0802124739,17.00,40,2014,Grove Press,320,Grief and the training of a goshawk.,3.6,275
+411,Lab Girl,Hope Jahren,Nature,978-1101873724,17.00,35,2016,Vintage,304,A scientists memoir of plants and life.,4.1,45278
+412,The Overstory,Richard Powers,Fiction,978-0393356687,18.95,48,2018,W. W. Norton,502,Nine people and their connection to trees.,4.4,19187
+413,Pilgrim at Tinker Creek,Annie Dillard,Nature,978-0061233326,15.99,30,1974,Harper Perennial,290,A year observing nature in Virginia.,3.5,18981
+414,Silent Spring,Rachel Carson,Nature,978-0618249060,16.00,42,1962,Mariner Books,400,The book that launched environmentalism.,4.6,46170
+415,The Sea Around Us,Rachel Carson,Nature,978-0190906764,17.95,25,1951,Oxford University Press,264,The science and poetry of the ocean.,4.8,4764
+416,Endurance,Alfred Lansing,Adventure,978-0465062881,17.99,45,1959,Basic Books,357,Shackletons Antarctic expedition.,4.5,17437
+417,The Perfect Storm,Sebastian Junger,Adventure,978-0393337013,16.95,38,1997,W. W. Norton,226,A fishing boat lost at sea.,4.7,41063
+418,Touching the Void,Joe Simpson,Adventure,978-0060730550,16.99,32,1988,Harper Perennial,218,A climbing disaster in the Andes.,4.4,13064
+419,127 Hours,Aron Ralston,Adventure,978-1451617702,16.00,35,2004,Atria Books,354,A climber trapped by a boulder.,4.1,35788
+420,The Lost City of Z,David Grann,Adventure,978-1400078455,17.00,40,2009,Vintage,352,A search for a legendary Amazon city.,3.8,9864
+421,The Lord of the Rings,J.R.R. Tolkien,Fantasy,978-0544003415,35.00,70,1954,Mariner Books,1178,The complete trilogy in one volume.,4.9,9421
+422,The Hobbit,J.R.R. Tolkien,Fantasy,978-0547928227,15.99,75,1937,Mariner Books,300,A hobbits unexpected adventure.,3.6,10973
+423,The Silmarillion,J.R.R. Tolkien,Fantasy,978-0544338012,15.99,35,1977,Mariner Books,365,The mythology of Middle-earth.,4.7,39096
+424,A Game of Thrones,George R.R. Martin,Fantasy,978-0553593716,18.00,62,1996,Bantam,835,The war for the Iron Throne begins.,4.6,37403
+425,A Clash of Kings,George R.R. Martin,Fantasy,978-0553579901,18.00,55,1998,Bantam,969,The five kings fight for power.,4.9,28880
+426,A Storm of Swords,George R.R. Martin,Fantasy,978-0553573428,18.00,52,2000,Bantam,1177,The bloodiest book in the series.,3.7,45233
+427,A Feast for Crows,George R.R. Martin,Fantasy,978-0553582024,18.00,45,2005,Bantam,753,The realm picks up the pieces.,4.0,26478
+428,A Dance with Dragons,George R.R. Martin,Fantasy,978-0553582017,18.00,48,2011,Bantam,1040,The long-awaited fifth book.,4.9,32898
+429,The Wheel of Time: Eye of the World,Robert Jordan,Fantasy,978-1250768681,18.99,42,1990,Tor Books,782,The beginning of an epic saga.,4.3,28788
+430,Good Omens,Terry Pratchett,Fantasy,978-0060853983,17.99,55,1990,William Morrow,432,An angel and demon try to stop Armageddon.,3.6,2712
+431,American Gods,Neil Gaiman,Fantasy,978-0063081918,18.99,58,2001,William Morrow,541,Old gods clash with new in America.,4.8,48238
+432,Neverwhere,Neil Gaiman,Fantasy,978-0063070738,17.99,45,1996,William Morrow,370,A secret London beneath the streets.,4.0,16508
+433,Stardust,Neil Gaiman,Fantasy,978-0061689246,15.99,40,1999,William Morrow,333,A young man seeks a fallen star.,3.5,15102
+434,The Ocean at the End of the Lane,Neil Gaiman,Fantasy,978-0062459367,16.99,48,2013,William Morrow,243,A man recalls a strange childhood summer.,4.9,37796
+435,Coraline,Neil Gaiman,Fantasy,978-0380807345,8.99,55,2002,HarperCollins,162,A girl discovers a sinister other world.,4.4,1459
+436,The Dark Tower: The Gunslinger,Stephen King,Fantasy,978-1501182105,17.00,42,1982,Scribner,231,The man in black fled across the desert.,5.0,44158
+437,The Stand,Stephen King,Horror,978-0307743688,19.99,50,1978,Anchor,1153,A plague survivors battle against evil.,4.7,37864
+438,Salem's Lot,Stephen King,Horror,978-0307743671,17.00,45,1975,Anchor,653,Vampires come to a small town.,3.6,49662
+439,Carrie,Stephen King,Horror,978-0307743664,16.00,40,1974,Anchor,290,A bullied girl discovers her powers.,3.8,34110
+440,The Green Mile,Stephen King,Fiction,978-1501192265,18.00,55,1996,Scribner,400,A death row guard meets a miraculous prisoner.,4.5,18329
+441,And Then There Were None,Agatha Christie,Mystery,978-0062073488,15.99,58,1939,William Morrow,272,Ten strangers are murdered one by one.,3.8,38460
+442,Murder on the Orient Express,Agatha Christie,Mystery,978-0062073501,15.99,55,1934,William Morrow,256,A murder on a snowed-in train.,4.2,32325
+443,The Murder of Roger Ackroyd,Agatha Christie,Mystery,978-0062073563,15.99,45,1926,William Morrow,256,A shocking twist ending.,5.0,30902
+444,The Girl on the Train,Paula Hawkins,Thriller,978-1594634024,17.00,52,2015,Riverhead Books,336,A commuter witnesses something shocking.,4.0,21943
+445,The Da Vinci Code,Dan Brown,Thriller,978-0307474278,17.00,60,2003,Anchor,597,A symbologist uncovers religious secrets.,4.0,6955
+446,Angels & Demons,Dan Brown,Thriller,978-0671027360,9.99,48,2000,Pocket Books,736,A thriller set in Vatican City.,4.8,21714
+447,Inferno,Dan Brown,Thriller,978-1400079155,17.00,42,2013,Anchor,642,A race against a deadly plague.,4.1,32571
+448,The Bourne Identity,Robert Ludlum,Thriller,978-0553593549,17.00,45,1980,Bantam,566,A man with no memory is hunted.,3.9,26344
+449,The Hunt for Red October,Tom Clancy,Thriller,978-0425240335,9.99,40,1984,Berkley,480,A Soviet submarine defects.,4.7,36151
+450,The Firm,John Grisham,Thriller,978-0385319058,17.00,55,1991,Doubleday,501,A young lawyer discovers his firms secrets.,3.6,5871
+451,A Time to Kill,John Grisham,Thriller,978-0385338608,18.00,48,1989,Dell,672,A father takes the law into his own hands.,4.0,21286
+452,The Pelican Brief,John Grisham,Thriller,978-0385339704,17.00,42,1992,Dell,436,A law student uncovers a conspiracy.,3.7,26588
+453,Along Came a Spider,James Patterson,Thriller,978-1538745199,17.99,50,1993,Grand Central,435,Alex Cross hunts a kidnapper.,4.8,175
+454,Kiss the Girls,James Patterson,Thriller,978-0446677387,9.99,45,1995,Grand Central,480,Cross tracks a serial collector.,4.5,35659
+455,The Girl with the Dragon Tattoo,Stieg Larsson,Mystery,978-0307454546,17.99,52,2005,Vintage,590,A hacker and journalist investigate.,4.2,3652
+456,The Girl Who Played with Fire,Stieg Larsson,Mystery,978-0307454553,17.99,45,2006,Vintage,724,Salander is accused of murder.,3.8,23809
+457,The Girl Who Kicked the Hornets Nest,Stieg Larsson,Mystery,978-0307454560,17.99,42,2007,Vintage,563,The explosive finale.,4.4,32769
+458,In Cold Blood,Truman Capote,True Crime,978-0679745587,17.00,38,1966,Vintage,343,The true crime genre begins.,4.4,49906
+459,Helter Skelter,Vincent Bugliosi,True Crime,978-0393322231,18.95,32,1974,W. W. Norton,689,The Manson murder investigation.,3.6,17601
+460,I'll Be Gone in the Dark,Michelle McNamara,True Crime,978-0062319791,17.99,48,2018,Harper,352,The hunt for the Golden State Killer.,4.3,18976
+461,A Brief History of Time,Stephen Hawking,Science,978-0553380163,18.00,55,1988,Bantam,212,The universe explained for everyone.,4.2,45860
+462,The Elegant Universe,Brian Greene,Science,978-0393338102,18.95,35,1999,W. W. Norton,464,String theory and the fabric of spacetime.,4.2,1991
+463,Cosmos,Carl Sagan,Science,978-0345539434,18.00,48,1980,Ballantine Books,432,A personal voyage through the universe.,5.0,40003
+464,Pale Blue Dot,Carl Sagan,Science,978-0345376596,18.00,38,1994,Ballantine Books,429,A vision of our place in the cosmos.,4.7,46616
+465,The Selfish Gene,Richard Dawkins,Science,978-0198788607,17.99,42,1976,Oxford University Press,544,Evolution from the genes perspective.,3.7,36199
+466,The Origin of Species,Charles Darwin,Science,978-0451529060,9.99,35,1859,Signet Classics,576,The foundation of evolutionary biology.,3.5,26838
+467,Silent Spring,Rachel Carson,Science,978-0618249060,16.00,40,1962,Mariner Books,400,The environmental classic.,3.6,7535
+468,The Double Helix,James D. Watson,Science,978-0743216302,17.00,30,1968,Touchstone,256,The discovery of DNA structure.,4.2,7798
+469,The Structure of Scientific Revolutions,Thomas S. Kuhn,Science,978-0226458120,15.00,28,1962,University of Chicago Press,264,How scientific paradigms shift.,4.5,10190
+470,Surely Youre Joking Mr. Feynman,Richard P. Feynman,Science,978-0393355628,17.95,48,1985,W. W. Norton,352,Adventures of a curious character.,4.2,47063
+471,What If?,Randall Munroe,Science,978-0544272996,24.00,55,2014,Houghton Mifflin,320,Serious scientific answers to absurd questions.,3.9,46329
+472,Astrophysics for People in a Hurry,Neil deGrasse Tyson,Science,978-0393609394,18.95,62,2017,W. W. Norton,224,The universe in bite-sized chapters.,3.9,31721
+473,The Sixth Extinction,Elizabeth Kolbert,Science,978-1250062185,18.00,40,2014,Picador,336,An unnatural history of mass extinction.,5.0,16073
+474,Sapiens,Yuval Noah Harari,Science,978-0062316097,24.99,65,2011,Harper,464,A brief history of humankind.,4.2,9579
+475,Homo Deus,Yuval Noah Harari,Science,978-0062464316,24.99,52,2015,Harper,464,A brief history of tomorrow.,4.1,39380
+476,21 Lessons for the 21st Century,Yuval Noah Harari,Science,978-0525512196,24.00,48,2018,Spiegel & Grau,372,Addressing todays most urgent issues.,4.3,9046
+477,The Emperor of All Maladies,Siddhartha Mukherjee,Science,978-1439170915,18.00,38,2010,Scribner,571,A biography of cancer.,4.8,18204
+478,The Man Who Mistook His Wife for a Hat,Oliver Sacks,Science,978-0684853949,17.00,42,1985,Touchstone,243,Clinical tales of neurological patients.,4.7,27293
+479,Being Mortal,Atul Gawande,Science,978-1250076229,17.00,55,2014,Picador,282,Medicine and what matters in the end.,4.0,33375
+480,The Immortal Life of Henrietta Lacks,Rebecca Skloot,Science,978-1400052189,17.00,48,2010,Broadway Books,381,The woman whose cells changed medicine.,3.9,268
+481,The Art of War,Sun Tzu,Military,978-1599869773,9.99,55,500,Canterbury Classics,224,Ancient Chinese military strategy.,3.9,19666
+482,On War,Carl von Clausewitz,Military,978-0691018546,26.95,18,1832,Princeton University Press,752,The philosophy of warfare.,4.8,38105
+483,Band of Brothers,Stephen E. Ambrose,Military,978-1501179402,18.00,45,1992,Simon & Schuster,432,Easy Company in World War II.,5.0,32189
+484,The Guns of August,Barbara W. Tuchman,History,978-0345476098,18.00,35,1962,Ballantine Books,606,The outbreak of World War I.,4.8,29364
+485,A Peoples History of the United States,Howard Zinn,History,978-0062397348,19.99,42,1980,Harper Perennial,784,American history from below.,4.3,22718
+486,The Rise and Fall of the Third Reich,William L. Shirer,History,978-1451651683,25.00,25,1960,Simon & Schuster,1280,A history of Nazi Germany.,4.0,35714
+487,SPQR,Mary Beard,History,978-1631492228,18.00,35,2015,Liveright,608,A history of ancient Rome.,4.1,21188
+488,The Silk Roads,Peter Frankopan,History,978-1101912379,20.00,32,2015,Vintage,636,A new history of the world.,4.8,45811
+489,1776,David McCullough,History,978-0743226721,18.00,48,2005,Simon & Schuster,386,The year of American independence.,3.9,25198
+490,John Adams,David McCullough,Biography,978-0743223133,22.00,38,2001,Simon & Schuster,751,The second presidents life.,3.9,27020
+491,Truman,David McCullough,Biography,978-0671456542,25.00,30,1992,Simon & Schuster,1120,The 33rd president.,3.6,48904
+492,The Warmth of Other Suns,Isabel Wilkerson,History,978-0679763888,18.99,52,2010,Vintage,640,The Great Migration of Black Americans.,4.2,25084
+493,Caste,Isabel Wilkerson,History,978-0593230251,18.00,58,2020,Random House,496,The origins of our discontents.,4.1,43595
+494,Stamped from the Beginning,Ibram X. Kendi,History,978-1568585987,19.99,45,2016,Bold Type Books,592,The definitive history of racist ideas.,4.7,42830
+495,The New Jim Crow,Michelle Alexander,History,978-1620971932,18.99,55,2010,The New Press,336,Mass incarceration in America.,5.0,32561
+496,Between the World and Me,Ta-Nehisi Coates,Memoir,978-0812993547,16.00,62,2015,One World,176,A letter to his son about being Black in America.,4.9,8373
+497,Just Mercy,Bryan Stevenson,Memoir,978-0812984965,18.00,58,2014,One World,368,A story of justice and redemption.,4.3,38778
+498,I Know Why the Caged Bird Sings,Maya Angelou,Memoir,978-0345514400,16.00,55,1969,Ballantine Books,304,A poets powerful memoir.,4.0,6677
+499,The Autobiography of Malcolm X,Malcolm X,Autobiography,978-0345350688,17.00,48,1965,Ballantine Books,500,The civil rights leaders story.,4.8,28955
+500,Long Walk to Freedom,Nelson Mandela,Autobiography,978-0316548182,22.00,42,1994,Back Bay Books,656,From prisoner to president.,3.6,30045
+501,The Kite Runner,Khaled Hosseini,Fiction,978-1594631931,17.00,58,2003,Riverhead Books,371,A haunting tale of friendship in Afghanistan.,3.5,9547
+502,A Thousand Splendid Suns,Khaled Hosseini,Fiction,978-1594483851,17.00,52,2007,Riverhead Books,419,Two women endure decades of hardship.,4.1,43011
+503,And the Mountains Echoed,Khaled Hosseini,Fiction,978-1594632389,17.00,45,2013,Riverhead Books,404,Siblings separated across continents.,5.0,5003
+504,Little Fires Everywhere,Celeste Ng,Fiction,978-0735224315,17.00,55,2017,Penguin Books,338,Two families collide in suburban Ohio.,4.2,17468
+505,The Midnight Library,Matt Haig,Fiction,978-0525559474,18.00,62,2020,Viking,304,A library between life and death.,4.0,45497
+506,Anxious People,Fredrik Backman,Fiction,978-1501160837,17.00,48,2019,Atria Books,352,A bank robber takes hostages at an open house.,4.1,5363
+507,Project Hail Mary,Andy Weir,Science Fiction,978-0593135204,20.00,65,2021,Ballantine Books,496,A man alone must save Earth.,4.8,44294
+508,Klara and the Sun,Kazuo Ishiguro,Science Fiction,978-0593318171,17.00,42,2021,Vintage,320,An artificial friend observes humanity.,4.8,25004
+509,Tomorrow and Tomorrow and Tomorrow,Gabrielle Zevin,Fiction,978-0593321201,18.00,55,2022,Knopf,416,Two friends create video games together.,4.9,41177
+510,Lessons in Chemistry,Bonnie Garmus,Fiction,978-0385547345,18.00,60,2022,Doubleday,400,A 1960s chemist becomes a cooking show host.,4.6,49868
+511,The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Fiction,978-1501161933,17.00,68,2017,Atria Books,400,A Hollywood icon reveals her secrets.,4.2,35556
+512,Daisy Jones & The Six,Taylor Jenkins Reid,Fiction,978-1524798642,17.00,55,2019,Ballantine Books,368,The rise and fall of a 1970s rock band.,3.6,4584
+513,Malibu Rising,Taylor Jenkins Reid,Fiction,978-1524798673,18.00,48,2021,Ballantine Books,369,One legendary party in 1983 Malibu.,3.9,44952
+514,Carrie Soto Is Back,Taylor Jenkins Reid,Fiction,978-1524798697,18.00,45,2022,Ballantine Books,384,A tennis legend comes out of retirement.,4.9,15008
+515,The House of the Spirits,Isabel Allende,Fiction,978-1501117015,17.00,38,1982,Atria Books,490,A multigenerational saga in Chile.,4.6,28540
+516,Norwegian Wood,Haruki Murakami,Fiction,978-0375704024,16.95,45,1987,Vintage,296,A nostalgic story of loss and sexuality.,5.0,49931
+517,Kafka on the Shore,Haruki Murakami,Fiction,978-1400079278,17.95,42,2002,Vintage,505,Two characters on metaphysical journeys.,4.5,6686
+518,1Q84,Haruki Murakami,Fiction,978-0307476463,20.00,35,2009,Vintage,1157,An alternate Tokyo with two moons.,4.2,45582
+519,The Wind-Up Bird Chronicle,Haruki Murakami,Fiction,978-0679775430,18.00,38,1994,Vintage,607,A mans search for his missing cat and wife.,3.9,1997
+520,Never Let Me Go,Kazuo Ishiguro,Fiction,978-1400078776,16.95,48,2005,Vintage,288,Students discover their disturbing purpose.,3.6,3777

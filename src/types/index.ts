@@ -217,5 +217,7 @@ export interface ToolServerData {
   filename: string;
   name: string;
   tools: ToolDefinition[];
-  dataFile?: string;  // Name of matching *_data.xlsx file if exists
+  dataFile?: string;  // Legacy: single data file
+  dataFiles?: string[];  // Multiple CSV data files
+  dataDir?: string;  // Directory containing data files (e.g., "amazon-shop")
 }

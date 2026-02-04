@@ -1,0 +1,91 @@
+id,brand,model,form_factor,max_gpu_length_mm,max_cpu_cooler_height_mm,drive_bays_25,drive_bays_35,front_io,color,side_panel,price,in_stock,rating,review_count
+CASE001,Lian Li,O11 Dynamic EVO,ATX,422,167,6,4,USB-C/USB-A/Audio,Black,Tempered Glass,169.99,true,4.3,1075
+CASE002,Lian Li,O11 Dynamic EVO,ATX,422,167,6,4,USB-C/USB-A/Audio,White,Tempered Glass,169.99,true,4.1,2819
+CASE003,Lian Li,O11 Air Mini,mATX,362,170,4,2,USB-C/USB-A/Audio,Black,Tempered Glass,119.99,true,4.6,9646
+CASE004,Lian Li,Lancool III,ATX,435,187,4,4,USB-C/USB-A/Audio,Black,Tempered Glass,149.99,true,4.0,10155
+CASE005,Lian Li,Lancool II Mesh,ATX,384,176,4,2,USB-C/USB-A/Audio,Black,Tempered Glass,119.99,true,4.8,4035
+CASE006,Lian Li,A4-H2O,ITX,322,55,2,0,USB-C/USB-A,Black,Aluminum/Glass,179.99,true,4.5,11166
+CASE007,NZXT,H9 Elite,ATX,435,165,4,2,USB-C/USB-A/Audio,Black,Tempered Glass,189.99,true,4.1,3989
+CASE008,NZXT,H9 Flow,ATX,435,165,4,2,USB-C/USB-A/Audio,White,Tempered Glass,159.99,true,5.0,9776
+CASE009,NZXT,H7 Flow,ATX,400,185,4,2,USB-C/USB-A/Audio,Black,Tempered Glass,129.99,true,4.3,7809
+CASE010,NZXT,H7 Flow,ATX,400,185,4,2,USB-C/USB-A/Audio,White,Tempered Glass,129.99,true,4.7,9308
+CASE011,NZXT,H5 Flow,ATX,365,165,2,2,USB-C/USB-A/Audio,Black,Tempered Glass,94.99,true,4.4,13922
+CASE012,NZXT,H5 Elite,ATX,365,165,2,2,USB-C/USB-A/Audio,Black,Tempered Glass,164.99,true,4.6,11576
+CASE013,Corsair,5000D Airflow,ATX,400,170,4,2,USB-C/USB-A/Audio,Black,Tempered Glass,174.99,true,4.8,185
+CASE014,Corsair,5000D Airflow,ATX,400,170,4,2,USB-C/USB-A/Audio,White,Tempered Glass,174.99,true,4.1,10096
+CASE015,Corsair,4000D Airflow,ATX,360,170,2,2,USB-C/USB-A/Audio,Black,Tempered Glass,104.99,true,4.3,5351
+CASE016,Corsair,4000D Airflow,ATX,360,170,2,2,USB-C/USB-A/Audio,White,Tempered Glass,104.99,true,5.0,871
+CASE017,Corsair,iCUE 5000T RGB,ATX,400,170,4,2,USB-C/USB-A/Audio,Black,Tempered Glass,399.99,true,4.7,12714
+CASE018,Corsair,2000D Airflow,ITX,365,75,2,0,USB-C/USB-A/Audio,Black,Steel/Mesh,109.99,true,4.3,14198
+CASE019,Fractal Design,Torrent,ATX,461,188,4,2,USB-C/USB-A/Audio,Black,Tempered Glass,199.99,true,4.2,8408
+CASE020,Fractal Design,Torrent Compact,ATX,330,175,4,3,USB-C/USB-A/Audio,Black,Tempered Glass,169.99,true,4.3,13062
+CASE021,Fractal Design,North,ATX,355,170,2,2,USB-C/USB-A/Audio,Charcoal Black,Walnut/Mesh,139.99,true,4.6,3572
+CASE022,Fractal Design,North,ATX,355,170,2,2,USB-C/USB-A/Audio,Chalk White,Oak/Mesh,139.99,true,4.9,9733
+CASE023,Fractal Design,Meshify 2,ATX,467,185,4,6,USB-C/USB-A/Audio,Black,Tempered Glass,159.99,true,4.5,8524
+CASE024,Fractal Design,Pop Air,ATX,405,170,4,2,USB-C/USB-A/Audio,Black,Tempered Glass,99.99,true,4.5,11590
+CASE025,Fractal Design,Terra,ITX,322,77,1,0,USB-C/USB-A,Silver,Aluminum,179.99,true,4.4,1717
+CASE026,be quiet!,Dark Base Pro 901,ATX,495,185,7,5,USB-C/USB-A/Audio,Black,Tempered Glass,299.99,true,4.3,680
+CASE027,be quiet!,Pure Base 500DX,ATX,369,190,5,2,USB-C/USB-A/Audio,Black,Tempered Glass,109.99,true,4.4,3607
+CASE028,be quiet!,Pure Base 500DX,ATX,369,190,5,2,USB-C/USB-A/Audio,White,Tempered Glass,109.99,true,4.4,1056
+CASE029,Phanteks,Eclipse G360A,ATX,400,163,3,2,USB-C/USB-A/Audio,Black,Tempered Glass,89.99,true,4.7,5844
+CASE030,Phanteks,Eclipse G360A,ATX,400,163,3,2,USB-C/USB-A/Audio,White,Tempered Glass,89.99,true,4.2,12200
+CASE031,Phanteks,Enthoo Pro 2,ATX,503,195,12,6,USB-C/USB-A/Audio,Black,Tempered Glass,199.99,true,4.0,11847
+CASE032,Cooler Master,HAF 700 EVO,ATX,490,185,6,4,USB-C/USB-A/Audio,Black,Tempered Glass,399.99,true,4.5,14134
+CASE033,Cooler Master,MasterBox TD500 Mesh,ATX,410,165,2,2,USB-A/Audio,Black,Tempered Glass,109.99,true,4.5,13278
+CASE034,Cooler Master,NR200P,ITX,330,155,3,0,USB-A/Audio,Black,Tempered Glass,99.99,true,4.0,4158
+CASE035,Cooler Master,NR200P,ITX,330,155,3,0,USB-A/Audio,White,Tempered Glass,99.99,true,4.7,2683
+CASE036,Thermaltake,Core P3 TG Pro,ATX,450,180,4,2,USB-C/USB-A/Audio,Black,Tempered Glass,149.99,true,4.6,5251
+CASE037,Thermaltake,Tower 500,ATX,420,210,4,2,USB-C/USB-A/Audio,Black,Tempered Glass,169.99,true,4.9,4486
+CASE038,Thermaltake,S100 TG Snow,mATX,330,165,3,1,USB-A/Audio,White,Tempered Glass,69.99,true,4.1,4167
+CASE039,Thermaltake,View 71 TG RGB,ATX,410,190,8,3,USB-C/USB-A/Audio,Black,Tempered Glass,219.99,true,4.3,12179
+CASE040,Thermaltake,Level 20 VT,mATX,350,185,4,2,USB-C/USB-A/Audio,Black,Tempered Glass,119.99,true,4.2,3552
+CASE041,InWin,A1 Plus,ITX,320,160,2,0,USB-C/USB-A,Black,Tempered Glass,229.99,true,4.7,14942
+CASE042,InWin,303C,ATX,400,165,4,2,USB-C/USB-A/Audio,White,Tempered Glass,119.99,true,5.0,449
+CASE043,InWin,905,ATX,370,164,4,2,USB-C/USB-A/Audio,Silver,Tempered Glass,199.99,true,4.4,12011
+CASE044,SilverStone,SUGO 16,ITX,330,175,3,0,USB-C/USB-A,Black,Steel/Mesh,119.99,true,4.1,4652
+CASE045,SilverStone,FARA R1,ATX,380,165,4,2,USB-A/Audio,Black,Tempered Glass,74.99,true,4.9,6512
+CASE046,SilverStone,Primera PM02,ATX,400,182,9,2,USB-C/USB-A/Audio,Black,Tempered Glass,149.99,true,4.0,11489
+CASE047,Lian Li,PC-O11 Dynamic XL,ATX,446,167,8,4,USB-C/USB-A/Audio,Black,Tempered Glass,219.99,true,4.6,14058
+CASE048,Lian Li,PC-O11 Dynamic XL,ATX,446,167,8,4,USB-C/USB-A/Audio,White,Tempered Glass,219.99,true,4.4,14562
+CASE049,Lian Li,Lancool 215,ATX,370,166,2,2,USB-A/Audio,Black,Tempered Glass,89.99,true,4.1,2868
+CASE050,Lian Li,Lancool II Mesh C,ATX,384,176,4,2,USB-C/USB-A/Audio,Black,Mesh,99.99,true,4.0,12952
+CASE051,Lian Li,Dan A4-H20 X4,ITX,322,55,2,0,USB-C/USB-A,Silver,Aluminum,199.99,true,4.7,10122
+CASE052,NZXT,H510,ATX,381,165,3,2,USB-C/USB-A/Audio,Black,Tempered Glass,79.99,true,4.5,7727
+CASE053,NZXT,H510,ATX,381,165,3,2,USB-C/USB-A/Audio,White,Tempered Glass,79.99,true,4.0,6579
+CASE054,NZXT,H710,ATX,413,185,7,3,USB-C/USB-A/Audio,Black,Tempered Glass,169.99,true,4.8,2026
+CASE055,NZXT,H210i,ITX,325,165,3,1,USB-C/USB-A/Audio,Black,Tempered Glass,119.99,true,4.1,14961
+CASE056,Corsair,3000D Airflow,ATX,360,170,2,2,USB-A/Audio,Black,Tempered Glass,84.99,true,4.4,9104
+CASE057,Corsair,3000D Airflow,ATX,360,170,2,2,USB-A/Audio,White,Tempered Glass,84.99,true,4.6,5920
+CASE058,Corsair,7000D Airflow,ATX,450,190,6,4,USB-C/USB-A/Audio,Black,Tempered Glass,269.99,true,4.2,2061
+CASE059,Corsair,iCUE 4000X RGB,ATX,360,170,2,2,USB-C/USB-A/Audio,Black,Tempered Glass,139.99,true,4.8,11027
+CASE060,Corsair,Carbide 275R,ATX,370,170,4,2,USB-A/Audio,Black,Tempered Glass,79.99,true,4.5,11233
+CASE061,Fractal Design,Define 7,ATX,491,185,4,6,USB-C/USB-A/Audio,Black,Solid/Glass,169.99,true,4.6,3882
+CASE062,Fractal Design,Define 7 Compact,ATX,360,169,4,3,USB-C/USB-A/Audio,Black,Tempered Glass,139.99,true,4.4,8347
+CASE063,Fractal Design,Focus 2,ATX,405,170,4,2,USB-C/USB-A/Audio,Black,Tempered Glass,89.99,true,4.9,1232
+CASE064,Fractal Design,Pop Mini Air,mATX,330,170,2,2,USB-C/USB-A/Audio,Black,Mesh,79.99,true,4.9,14228
+CASE065,Fractal Design,Ridge,ITX,335,70,0,0,USB-C/USB-A,Black,Aluminum,159.99,true,4.5,8711
+CASE066,be quiet!,Silent Base 802,ATX,432,185,7,2,USB-C/USB-A/Audio,Black,Tempered Glass,189.99,true,4.7,3271
+CASE067,be quiet!,Dark Base 700,ATX,430,180,7,3,USB-C/USB-A/Audio,Black,Tempered Glass,179.99,true,4.6,7554
+CASE068,be quiet!,Pure Base 500,ATX,369,190,5,2,USB-A/Audio,Black,Tempered Glass,89.99,true,4.8,14369
+CASE069,be quiet!,Pure Base 500FX,ATX,369,190,5,2,USB-C/USB-A/Audio,Black,Tempered Glass,119.99,true,4.3,14450
+CASE070,Phanteks,Enthoo Evolv X,ATX,435,190,8,2,USB-C/USB-A/Audio,Black,Tempered Glass,209.99,true,4.3,979
+CASE071,Phanteks,Eclipse P500A,ATX,435,190,4,2,USB-C/USB-A/Audio,Black,Mesh,149.99,true,4.8,4518
+CASE072,Phanteks,Eclipse P400A,ATX,400,160,3,2,USB-A/Audio,Black,Mesh,89.99,true,4.9,14638
+CASE073,Phanteks,NV7,ATX,467,185,7,4,USB-C/USB-A/Audio,Black,Tempered Glass,199.99,true,4.3,14619
+CASE074,Phanteks,XT Pro Ultra,ATX,435,185,4,2,USB-C/USB-A/Audio,White,Tempered Glass,119.99,true,4.9,11373
+CASE075,Cooler Master,H500 Mesh,ATX,410,167,4,2,USB-C/USB-A/Audio,Black,Mesh,109.99,true,4.9,3480
+CASE076,Cooler Master,Q300L,mATX,360,157,2,1,USB-A/Audio,Black,Acrylic,49.99,true,4.0,10393
+CASE077,Cooler Master,MasterCase H100,ITX,210,83,2,0,USB-A/Audio,Black,Mesh,59.99,true,4.5,5051
+CASE078,Montech,Air 903 MAX,ATX,400,175,4,2,USB-C/USB-A/Audio,Black,Tempered Glass,89.99,true,4.7,7162
+CASE079,Montech,Sky Two,ATX,395,170,4,2,USB-C/USB-A/Audio,White,Tempered Glass,79.99,true,4.8,12670
+CASE080,SSUPD,Meshilicious,ITX,336,74,0,0,USB-C/USB-A,Black,Mesh,119.99,true,4.9,14847
+CASE081,SSUPD,Meshlicious,ITX,336,74,0,0,USB-C/USB-A,White,Mesh,119.99,true,4.2,6699
+CASE082,FormD,T1,ITX,315,67,0,0,USB-C,Titanium,Aluminum,299.99,false,4.6,1884
+CASE083,DAN Cases,A4-SFX V4.1,ITX,295,48,2,0,USB-A,Black,Aluminum,299.99,false,4.6,14063
+CASE084,HYTE,Y60,ATX,430,160,4,2,USB-C/USB-A/Audio,Black/Red,Tempered Glass,199.99,true,4.2,2443
+CASE085,HYTE,Y60,ATX,430,160,4,2,USB-C/USB-A/Audio,White,Tempered Glass,199.99,true,4.5,11773
+CASE086,HYTE,Y40,ATX,395,155,2,2,USB-C/USB-A/Audio,Black,Tempered Glass,149.99,true,4.2,3087
+CASE087,HYTE,Revolt 3,ITX,350,92,2,0,USB-C/USB-A,Black,Tempered Glass,139.99,true,4.5,9982
+CASE088,Jonsbo,D31 Mesh,mATX,355,168,4,2,USB-C/USB-A/Audio,Black,Mesh,89.99,true,4.7,5859
+CASE089,Jonsbo,D41 Mesh,ATX,400,175,4,2,USB-C/USB-A/Audio,White,Mesh,109.99,true,4.3,5062
+CASE090,Jonsbo,U4 Plus,ATX,328,175,4,2,USB-C/USB-A/Audio,Silver,Tempered Glass,119.99,true,4.3,14413

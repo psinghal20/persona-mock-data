@@ -1,0 +1,16 @@
+id,product_id,name,duration_months,price,coverage_description
+W001,,Basic Protection Plan,12,49.99,Covers manufacturer defects and hardware failures. Does not cover accidental damage.
+W002,,Standard Protection Plan,24,99.99,Covers manufacturer defects and hardware failures for 2 years. Includes 24/7 tech support.
+W003,,Premium Protection Plan,36,149.99,Covers manufacturer defects and hardware failures for 3 years. Includes accidental damage from handling (ADH) and 24/7 premium tech support.
+W004,,Total Tech Support,12,199.99,Unlimited tech support for all your devices plus coverage for one product. Includes in-home service.
+W005,TV001,TV Protection Plan 2-Year,24,199.99,Covers screen defects power surges and component failures for your Samsung QLED TV.
+W006,TV002,OLED Care Plan 3-Year,36,299.99,Specialized coverage for OLED burn-in panel defects and component failures.
+W007,TV003,Sony Extended Care,36,349.99,Premium coverage including accidental damage for your Sony Bravia XR.
+W008,PH001,AppleCare+ for iPhone,24,199.99,Apple-certified repairs unlimited incidents of accidental damage with service fees.
+W009,PH003,Samsung Care+,24,149.99,Covers mechanical breakdown and accidental damage with low deductibles.
+W010,LP001,AppleCare+ for Mac,36,299.99,Apple-certified repairs and priority access to Apple experts.
+W011,LP006,ThinkPad Premier Support,36,249.99,On-site next-business-day repair and 24/7 technical support.
+W012,LP008,ASUS Premium Care,24,149.99,Extended coverage for your gaming laptop including accidental damage.
+W013,AU002,AppleCare+ for Headphones,24,59.99,Coverage for your AirPods Max with battery service.
+W014,AU003,Sony Protection Plus,24,49.99,Extended warranty coverage for your Sony headphones.
+W015,SH006,Arlo Secure Plus,12,179.99,Extended device warranty plus premium cloud storage for all cameras.

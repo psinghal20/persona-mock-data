@@ -1,0 +1,16 @@
+id,name,frequency,description,price_per_delivery,discount_percent,arrangement_size
+1,Weekly Fresh,weekly,Fresh flowers delivered every week - perfect for flower lovers,39.99,20,Small
+2,Biweekly Blooms,biweekly,Beautiful arrangements every two weeks,49.99,15,Medium
+3,Monthly Moments,monthly,A stunning bouquet once a month,59.99,10,Large
+4,Weekly Premium,weekly,Premium arrangements delivered weekly,69.99,25,Large
+5,Biweekly Deluxe,biweekly,Luxurious flowers every two weeks,79.99,20,Large
+6,Monthly Grand,monthly,Grand arrangements for special monthly delivery,99.99,15,Deluxe
+7,Seasonal Surprise,quarterly,Quarterly seasonal arrangement surprise,89.99,10,Large
+8,Office Weekly,weekly,Professional arrangements for office spaces weekly,49.99,25,Medium
+9,Office Biweekly,biweekly,Office flowers delivered every two weeks,59.99,20,Medium
+10,Corporate Monthly,monthly,Premium corporate arrangements monthly,129.99,15,Deluxe
+11,Plant Parent Monthly,monthly,New houseplant delivered each month,44.99,15,Medium
+12,Succulent Club,monthly,Unique succulent arrangement monthly,34.99,10,Small
+13,Rose Lovers Weekly,weekly,Fresh roses every week for rose enthusiasts,54.99,20,Medium
+14,Seasonal Blooms,monthly,Seasonal flowers curated each month,64.99,12,Large
+15,Luxury Collection,monthly,Our most premium luxury arrangement monthly,149.99,20,Deluxe

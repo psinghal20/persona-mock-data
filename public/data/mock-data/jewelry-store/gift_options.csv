@@ -1,0 +1,13 @@
+id,name,type,price,description
+GIFT-001,Signature Gift Box,Box,15.00,Elegant navy blue gift box with gold ribbon and tissue paper
+GIFT-002,Luxury Presentation Box,Box,35.00,Premium wooden presentation box with velvet interior and magnetic closure
+GIFT-003,Collector Display Case,Box,75.00,Glass-topped wooden display case perfect for watches and statement pieces
+GIFT-004,Gift Wrap - Classic,Wrap,10.00,Classic gift wrapping in white with silver ribbon and bow
+GIFT-005,Gift Wrap - Celebration,Wrap,12.00,Festive gift wrapping in gold with matching bow and gift tag
+GIFT-006,Gift Wrap - Romance,Wrap,12.00,Romantic red wrapping with white ribbon and fresh flower accent
+GIFT-007,Gift Message Card,Card,0.00,Complimentary personalized gift message card
+GIFT-008,Handwritten Note,Card,5.00,Handwritten note on premium card stock with wax seal
+GIFT-009,Video Message,Card,15.00,Record a personal video message delivered via QR code on card
+GIFT-010,Jewelry Cleaning Kit,Accessory,25.00,Professional jewelry cleaning solution with polishing cloth
+GIFT-011,Ring Sizer Set,Accessory,0.00,Complimentary plastic ring sizer set for finding perfect fit
+GIFT-012,Travel Jewelry Case,Accessory,45.00,Compact leather travel case with ring rolls and compartments
