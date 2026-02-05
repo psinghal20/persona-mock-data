@@ -371,7 +371,7 @@ export default function WhoopDashboard({ data }: WhoopDashboardProps) {
                     cx="50%"
                     cy="50%"
                     outerRadius={80}
-                    label={({ name, percent }) => `${name} ${(percent * 100).toFixed(0)}%`}
+                    label={({ name, percent }) => `${name} ${((percent ?? 0) * 100).toFixed(0)}%`}
                     labelLine={false}
                   >
                     {workoutPieData.map((_, index) => (
