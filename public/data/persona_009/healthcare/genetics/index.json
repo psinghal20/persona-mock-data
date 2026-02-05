@@ -1,0 +1,230 @@
+{
+  "persona_id": "persona_009",
+  "server_id": "genetics",
+  "server_name": "Genetics",
+  "summary": {
+    "total_items": 18,
+    "category_count": 4
+  },
+  "categories": [
+    {
+      "id": "health_risks",
+      "name": "Health Risks",
+      "item_count": 6,
+      "items": [
+        {
+          "id": "Coronary Heart Disease",
+          "condition": "Coronary Heart Disease",
+          "category": "cardiovascular",
+          "risk_level": "elevated",
+          "genetic_risk_score": 0.28,
+          "population_average": 0.22,
+          "percentile": 28,
+          "key_genes": "",
+          "recommended_actions": "Discuss with healthcare provider"
+        },
+        {
+          "id": "Macular Degeneration",
+          "condition": "Macular Degeneration",
+          "category": "cardiovascular",
+          "risk_level": "slightly_elevated",
+          "genetic_risk_score": 0.22,
+          "population_average": 0.18,
+          "percentile": 22,
+          "key_genes": "",
+          "recommended_actions": "Discuss with healthcare provider"
+        },
+        {
+          "id": "Coronary Artery Disease",
+          "condition": "Coronary Artery Disease",
+          "category": "cardiovascular",
+          "risk_level": "slightly_elevated",
+          "genetic_risk_score": 0.21,
+          "population_average": 0.15,
+          "percentile": 63,
+          "key_genes": "CDKN2A/B;LPA",
+          "recommended_actions": "Lipid panel annually; cardio exercise; Mediterranean diet"
+        },
+        {
+          "id": "Alzheimers",
+          "condition": "Alzheimers",
+          "category": "cardiovascular",
+          "risk_level": "slightly_elevated",
+          "genetic_risk_score": 0.18,
+          "population_average": 0.14,
+          "percentile": 18,
+          "key_genes": "",
+          "recommended_actions": "Discuss with healthcare provider"
+        },
+        {
+          "id": "Type 2 Diabetes",
+          "condition": "Type 2 Diabetes",
+          "category": "metabolic",
+          "risk_level": "slightly_elevated",
+          "genetic_risk_score": 0.16,
+          "population_average": 0.13,
+          "percentile": 16,
+          "key_genes": "",
+          "recommended_actions": "Discuss with healthcare provider"
+        },
+        {
+          "id": "Atrial Fibrillation",
+          "condition": "Atrial Fibrillation",
+          "category": "cardiovascular",
+          "risk_level": "reduced",
+          "genetic_risk_score": 0.09,
+          "population_average": 0.07,
+          "percentile": 9,
+          "key_genes": "",
+          "recommended_actions": "Discuss with healthcare provider"
+        }
+      ]
+    },
+    {
+      "id": "pharmacogenomics",
+      "name": "Pharmacogenomics",
+      "item_count": 4,
+      "items": [
+        {
+          "id": "CYP2C19",
+          "gene": "CYP2C19",
+          "genotype": "",
+          "phenotype": "Normal Metabolizer",
+          "metabolism": "",
+          "affected_medications": "",
+          "recommendations": ""
+        },
+        {
+          "id": "CYP2C9",
+          "gene": "CYP2C9",
+          "genotype": "",
+          "phenotype": "Intermediate Metabolizer",
+          "metabolism": "",
+          "affected_medications": "",
+          "recommendations": ""
+        },
+        {
+          "id": "CYP2D6",
+          "gene": "CYP2D6",
+          "genotype": "",
+          "phenotype": "Normal Metabolizer",
+          "metabolism": "",
+          "affected_medications": "",
+          "recommendations": ""
+        },
+        {
+          "id": "SLCO1B1",
+          "gene": "SLCO1B1",
+          "genotype": "",
+          "phenotype": "Poor Function",
+          "metabolism": "",
+          "affected_medications": "",
+          "recommendations": ""
+        }
+      ]
+    },
+    {
+      "id": "carrier_status",
+      "name": "Carrier Status",
+      "item_count": 3,
+      "items": [
+        {
+          "id": "Cystic Fibrosis",
+          "condition": "Cystic Fibrosis",
+          "carrier_status": "not_carrier",
+          "inheritance_pattern": "autosomal_recessive",
+          "gene": "CFTR",
+          "variant": ""
+        },
+        {
+          "id": "Hemochromatosis",
+          "condition": "Hemochromatosis",
+          "carrier_status": "not_carrier",
+          "inheritance_pattern": "autosomal_recessive",
+          "gene": "HFE",
+          "variant": ""
+        },
+        {
+          "id": "Sickle Cell Disease",
+          "condition": "Sickle Cell Disease",
+          "carrier_status": "not_carrier",
+          "inheritance_pattern": "autosomal_recessive",
+          "gene": "HBB",
+          "variant": ""
+        }
+      ]
+    },
+    {
+      "id": "screenings",
+      "name": "Recommended Screenings",
+      "item_count": 5,
+      "items": [
+        {
+          "id": "HbA1c",
+          "persona_id": "persona_009",
+          "screening_name": "HbA1c",
+          "screening_type": "blood_test",
+          "reason": "Slightly Elevated Type 2 Diabetes risk",
+          "genetic_basis": "",
+          "priority": "medium",
+          "recommended_frequency": "Every 6 months",
+          "recommended_start_age": "62",
+          "cpt_code": "83036",
+          "specialist_type": "Primary Care"
+        },
+        {
+          "id": "Comprehensive Lipid Panel",
+          "persona_id": "persona_009",
+          "screening_name": "Comprehensive Lipid Panel",
+          "screening_type": "blood_test",
+          "reason": "Elevated cardiovascular risk",
+          "genetic_basis": "",
+          "priority": "high",
+          "recommended_frequency": "Annually",
+          "recommended_start_age": "62",
+          "cpt_code": "80061",
+          "specialist_type": "Cardiologist"
+        },
+        {
+          "id": "Comprehensive Lipid Panel",
+          "persona_id": "persona_009",
+          "screening_name": "Comprehensive Lipid Panel",
+          "screening_type": "blood_test",
+          "reason": "Slightly Elevated cardiovascular risk",
+          "genetic_basis": "",
+          "priority": "medium",
+          "recommended_frequency": "Annually",
+          "recommended_start_age": "62",
+          "cpt_code": "80061",
+          "specialist_type": "Primary Care"
+        },
+        {
+          "id": "Comprehensive Lipid Panel",
+          "persona_id": "persona_009",
+          "screening_name": "Comprehensive Lipid Panel",
+          "screening_type": "blood_test",
+          "reason": "Slightly Elevated cardiovascular risk",
+          "genetic_basis": "",
+          "priority": "medium",
+          "recommended_frequency": "Annually",
+          "recommended_start_age": "62",
+          "cpt_code": "80061",
+          "specialist_type": "Primary Care"
+        },
+        {
+          "id": "Comprehensive Lipid Panel",
+          "persona_id": "persona_009",
+          "screening_name": "Comprehensive Lipid Panel",
+          "screening_type": "blood_test",
+          "reason": "Slightly Elevated cardiovascular risk",
+          "genetic_basis": "CDKN2A/B;LPA",
+          "priority": "medium",
+          "recommended_frequency": "Annually",
+          "recommended_start_age": "62",
+          "cpt_code": "80061",
+          "specialist_type": "Primary Care"
+        }
+      ]
+    }
+  ]
+}

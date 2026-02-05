@@ -292,5 +292,536 @@
     "total_orders": 426,
     "total_spent": 342430.14,
     "stores_count": 11
+  },
+  "health_profile": {
+    "demographics": {
+      "dob": "1978-03-17",
+      "gender": "male",
+      "height_cm": 178,
+      "weight_kg": 92.5,
+      "blood_type": "O-",
+      "race": {
+        "code": "2106-3",
+        "display": "White"
+      },
+      "ethnicity": {
+        "code": "2186-5",
+        "display": "Not Hispanic or Latino"
+      },
+      "location": {
+        "city": "Boston",
+        "state": "Massachusetts",
+        "zip": "02102"
+      },
+      "contact": {
+        "email": "patrick.murphy@email.com",
+        "phone": "555-0127",
+        "emergency_contact": "Siobhan Murphy",
+        "emergency_phone": "555-0128"
+      }
+    },
+    "conditions": [
+      {
+        "icd10": "K70.30",
+        "snomed": "419728003",
+        "name": "Alcoholic cirrhosis of liver without ascites",
+        "category": "hepatic",
+        "onset": "2022-08-15",
+        "status": "active",
+        "severity": "severe",
+        "provider_ref": "hepatology",
+        "notes": "In recovery, monitoring closely, compensated cirrhosis",
+        "effects": {
+          "activity_limit": "moderate",
+          "fatigue_increase": 0.25,
+          "glucose_impact": "slight_elevation",
+          "dietary_restrictions": [
+            "no_alcohol",
+            "low_sodium"
+          ],
+          "sleep_impact": "moderate"
+        }
+      },
+      {
+        "icd10": "I10",
+        "snomed": "38341003",
+        "name": "Essential hypertension",
+        "category": "cardiovascular",
+        "onset": "2015-06-20",
+        "status": "active",
+        "severity": "moderate",
+        "provider_ref": "primary_care",
+        "notes": "On combination therapy, complicated by liver disease",
+        "effects": {
+          "dietary_restrictions": [
+            "low_sodium"
+          ]
+        }
+      }
+    ],
+    "medications": [
+      {
+        "name": "Spironolactone",
+        "brand": "Aldactone",
+        "rxnorm": "9997",
+        "ndc": "00093-0175-01",
+        "dose": "50mg",
+        "frequency": "once_daily",
+        "route": "oral",
+        "for_condition": "K70.30",
+        "start_date": "2022-09-01",
+        "prescriber_ref": "hepatology",
+        "pharmacy": "CVS Pharmacy",
+        "refills_remaining": 5,
+        "notes": "For ascites prevention, potassium-sparing"
+      },
+      {
+        "name": "Lactulose",
+        "brand": "Enulose",
+        "rxnorm": "6026",
+        "ndc": "00054-3057-63",
+        "dose": "30ml",
+        "frequency": "three_times_daily",
+        "route": "oral",
+        "for_condition": "K70.30",
+        "start_date": "2022-09-01",
+        "prescriber_ref": "hepatology",
+        "pharmacy": "CVS Pharmacy",
+        "refills_remaining": 3,
+        "notes": "Hepatic encephalopathy prevention, titrate to 2-3 soft stools/day"
+      }
+    ],
+    "allergies": [
+      {
+        "allergen": "Statins (HMG-CoA reductase inhibitors)",
+        "type": "medication",
+        "reaction": "Muscle pain (myalgia)",
+        "severity": "moderate",
+        "notes": "Myalgia with atorvastatin, avoid all statins"
+      }
+    ],
+    "vitals": {
+      "blood_pressure": {
+        "systolic": 144,
+        "diastolic": 92,
+        "variance": 10
+      },
+      "resting_hr": 82,
+      "resting_hr_variance": 6,
+      "max_hr": 173,
+      "spo2": 95,
+      "respiratory_rate": 18,
+      "temperature_c": 36.8
+    },
+    "fitness": {
+      "level": "moderate",
+      "vo2_max": 32,
+      "training_status": "maintaining",
+      "daily_activity": {
+        "steps_target": 8000,
+        "steps_typical": [
+          5000,
+          10000
+        ],
+        "active_minutes_target": 30,
+        "active_calories_target": 350
+      },
+      "weekly_workouts": [
+        {
+          "type": "walking",
+          "frequency": 5,
+          "duration_min": 35,
+          "intensity": "moderate",
+          "preferred_time": "morning"
+        },
+        {
+          "type": "golf",
+          "frequency": 1,
+          "duration_min": 180,
+          "intensity": "light"
+        },
+        {
+          "type": "cycling",
+          "frequency": 2,
+          "duration_min": 30,
+          "intensity": "light"
+        },
+        {
+          "type": "strength_training",
+          "frequency": 1,
+          "duration_min": 30,
+          "intensity": "light"
+        }
+      ],
+      "sports": {
+        "primary": "walking",
+        "secondary": "golf"
+      },
+      "performance": {
+        "running_pace_min_per_km": null,
+        "cycling_ftp_watts": null
+      }
+    },
+    "sleep": {
+      "target_hours": 7.5,
+      "typical_hours": [
+        5.0,
+        7.0
+      ],
+      "quality": "poor",
+      "schedule": {
+        "chronotype": "night_owl",
+        "typical_bedtime": "01:00",
+        "typical_wake": "08:00",
+        "weekend_shift_hours": 1
+      },
+      "architecture": {
+        "deep_pct": 10,
+        "rem_pct": 15,
+        "light_pct": 55,
+        "awake_pct": 20
+      },
+      "issues": [
+        "difficulty_staying_asleep",
+        "early_waking"
+      ]
+    },
+    "nutrition": {
+      "diet_type": "low_sodium",
+      "calorie_target": 2000,
+      "macros": {
+        "protein_pct": 20,
+        "carbs_pct": 55,
+        "fat_pct": 25
+      },
+      "restrictions": [
+        "no_alcohol",
+        "low_sodium"
+      ],
+      "hydration": {
+        "target_ml": 2000,
+        "typical_ml": [
+          1500,
+          2000
+        ]
+      },
+      "meal_patterns": {
+        "meals_per_day": 3,
+        "snacks_per_day": 2,
+        "typical_meal_times": [
+          "09:00",
+          "14:00",
+          "20:00"
+        ]
+      }
+    },
+    "devices": {
+      "fitness_tracker": {
+        "enabled": true,
+        "brand": "garmin",
+        "model": "Venu 3",
+        "device_id": "GRM-P027-001"
+      },
+      "smart_scale": {
+        "enabled": true,
+        "brand": "renpho",
+        "model": "ES-CS20M"
+      },
+      "cgm": {
+        "enabled": true,
+        "brand": "abbott",
+        "model": "FreeStyle Libre 3",
+        "sensor_id": "FL3-181391"
+      },
+      "blood_pressure_monitor": {
+        "enabled": true,
+        "brand": "omron"
+      }
+    },
+    "insurance": {
+      "provider": "United Healthcare",
+      "plan": "PPO",
+      "member_id": "INS027",
+      "group_id": "GRP027"
+    }
+  },
+  "healthcare": {
+    "servers": [
+      {
+        "id": "myfitnesspal",
+        "name": "MyFitnessPal",
+        "item_count": 257,
+        "category_count": 3,
+        "primary_category": "Food Logs",
+        "categories": [
+          {
+            "id": "food_logs",
+            "name": "Food Logs",
+            "count": 30
+          },
+          {
+            "id": "exercise_logs",
+            "name": "Exercise Logs",
+            "count": 40
+          },
+          {
+            "id": "water_logs",
+            "name": "Water Logs",
+            "count": 187
+          }
+        ]
+      },
+      {
+        "id": "garmin_health",
+        "name": "Garmin Health",
+        "item_count": 232,
+        "category_count": 9,
+        "primary_category": "Daily Stats",
+        "categories": [
+          {
+            "id": "daily_stats",
+            "name": "Daily Stats",
+            "count": 30
+          },
+          {
+            "id": "sleep",
+            "name": "Sleep",
+            "count": 30
+          },
+          {
+            "id": "stress",
+            "name": "Stress",
+            "count": 30
+          },
+          {
+            "id": "body_battery",
+            "name": "Body Battery",
+            "count": 30
+          },
+          {
+            "id": "activities",
+            "name": "Activities",
+            "count": 12
+          },
+          {
+            "id": "heart_rate",
+            "name": "Heart Rate",
+            "count": 30
+          },
+          {
+            "id": "hrv",
+            "name": "HRV",
+            "count": 30
+          },
+          {
+            "id": "spo2",
+            "name": "SpO2",
+            "count": 30
+          },
+          {
+            "id": "body_composition",
+            "name": "Body Composition",
+            "count": 10
+          }
+        ]
+      },
+      {
+        "id": "fitbit",
+        "name": "Fitbit",
+        "item_count": 121,
+        "category_count": 5,
+        "primary_category": "Daily Activity",
+        "categories": [
+          {
+            "id": "daily_stats",
+            "name": "Daily Activity",
+            "count": 31
+          },
+          {
+            "id": "sleep",
+            "name": "Sleep Logs",
+            "count": 31
+          },
+          {
+            "id": "activities",
+            "name": "Activities",
+            "count": 20
+          },
+          {
+            "id": "heart_rate",
+            "name": "Heart Rate",
+            "count": 31
+          },
+          {
+            "id": "body",
+            "name": "Body Measurements",
+            "count": 8
+          }
+        ]
+      },
+      {
+        "id": "whoop",
+        "name": "WHOOP",
+        "item_count": 118,
+        "category_count": 4,
+        "primary_category": "Physiological Cycles",
+        "categories": [
+          {
+            "id": "cycles",
+            "name": "Physiological Cycles",
+            "count": 31
+          },
+          {
+            "id": "recovery",
+            "name": "Recovery",
+            "count": 31
+          },
+          {
+            "id": "sleep",
+            "name": "Sleep",
+            "count": 31
+          },
+          {
+            "id": "workouts",
+            "name": "Workouts",
+            "count": 25
+          }
+        ]
+      },
+      {
+        "id": "librelink",
+        "name": "LibreLink CGM",
+        "item_count": 36,
+        "category_count": 1,
+        "primary_category": "Glucose Readings",
+        "categories": [
+          {
+            "id": "glucose",
+            "name": "Glucose Readings",
+            "count": 36
+          }
+        ]
+      },
+      {
+        "id": "fhir",
+        "name": "FHIR EHR",
+        "item_count": 27,
+        "category_count": 4,
+        "primary_category": "Conditions",
+        "categories": [
+          {
+            "id": "conditions",
+            "name": "Conditions",
+            "count": 2
+          },
+          {
+            "id": "observations",
+            "name": "Observations",
+            "count": 22
+          },
+          {
+            "id": "medications",
+            "name": "Medications",
+            "count": 2
+          },
+          {
+            "id": "allergies",
+            "name": "Allergies",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "renpho",
+        "name": "Renpho Scale",
+        "item_count": 20,
+        "category_count": 1,
+        "primary_category": "Body Measurements",
+        "categories": [
+          {
+            "id": "measurements",
+            "name": "Body Measurements",
+            "count": 20
+          }
+        ]
+      },
+      {
+        "id": "athenahealth",
+        "name": "Athenahealth EHR",
+        "item_count": 15,
+        "category_count": 7,
+        "primary_category": "Medical Conditions",
+        "categories": [
+          {
+            "id": "conditions",
+            "name": "Medical Conditions",
+            "count": 2
+          },
+          {
+            "id": "prescriptions",
+            "name": "Prescriptions",
+            "count": 2
+          },
+          {
+            "id": "allergies",
+            "name": "Allergies",
+            "count": 1
+          },
+          {
+            "id": "appointments",
+            "name": "Appointments",
+            "count": 1
+          },
+          {
+            "id": "encounters",
+            "name": "Encounters",
+            "count": 1
+          },
+          {
+            "id": "vitals",
+            "name": "Vitals",
+            "count": 2
+          },
+          {
+            "id": "labs",
+            "name": "Lab Results",
+            "count": 6
+          }
+        ]
+      },
+      {
+        "id": "genetics",
+        "name": "Genetics",
+        "item_count": 14,
+        "category_count": 4,
+        "primary_category": "Health Risks",
+        "categories": [
+          {
+            "id": "health_risks",
+            "name": "Health Risks",
+            "count": 4
+          },
+          {
+            "id": "pharmacogenomics",
+            "name": "Pharmacogenomics",
+            "count": 4
+          },
+          {
+            "id": "carrier_status",
+            "name": "Carrier Status",
+            "count": 3
+          },
+          {
+            "id": "screenings",
+            "name": "Recommended Screenings",
+            "count": 3
+          }
+        ]
+      }
+    ],
+    "stats": {
+      "total_items": 840,
+      "servers_count": 9
+    }
   }
 }

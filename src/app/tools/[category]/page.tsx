@@ -37,18 +37,26 @@ function extractServerName(toolName: string): string {
   return toolName.substring(0, underscoreIndex);
 }
 
+// Map category routes to their tools JSON files
+const CATEGORY_TOOLS_FILES: Record<string, string> = {
+  shopping: "shopping-tools.json",
+  medical: "healthcare-tools.json",
+};
+
 async function getCategoryData(category: string): Promise<ToolServerData[]> {
   try {
     const fs = await import("fs/promises");
     const path = await import("path");
 
-    // For shopping category, use the single consolidated tools file
-    if (category === "shopping") {
+    // Check if this category has a consolidated tools file
+    const toolsFileName = CATEGORY_TOOLS_FILES[category];
+
+    if (toolsFileName) {
       const toolsFile = path.join(
         process.cwd(),
         "public",
         "data",
-        "shopping-tools.json"
+        toolsFileName
       );
 
       const mockDataDir = path.join(

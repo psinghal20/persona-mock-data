@@ -1,0 +1,3427 @@
+{
+  "persona_id": "persona_027",
+  "server_id": "myfitnesspal",
+  "server_name": "MyFitnessPal",
+  "summary": {
+    "total_items": 257,
+    "category_count": 3
+  },
+  "categories": [
+    {
+      "id": "food_logs",
+      "name": "Food Logs",
+      "item_count": 30,
+      "items": [
+        {
+          "id": "2026-02-05",
+          "date": "2026-02-05",
+          "total_calories": 2533,
+          "meal_count": 10,
+          "meals": [
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Acai Bowl",
+              "servings": 1.7,
+              "calories": 578.0
+            },
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Oatmeal",
+              "servings": 1.6,
+              "calories": 240.0
+            },
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Scrambled Eggs",
+              "servings": 1.7,
+              "calories": 309.4
+            },
+            {
+              "meal_type": "Lunch",
+              "food_name": "Caprese Salad",
+              "servings": 1.1,
+              "calories": 308.0
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Fish Tacos",
+              "servings": 1.4,
+              "calories": 475.99999999999994
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Whole Wheat Bread",
+              "servings": 1.2,
+              "calories": 97.2
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Chicken Breast Grilled",
+              "servings": 1.5,
+              "calories": 247.5
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Tofu Firm",
+              "servings": 1.3,
+              "calories": 98.8
+            },
+            {
+              "meal_type": "Snacks",
+              "food_name": "Mixed Berries",
+              "servings": 0.7,
+              "calories": 31.499999999999996
+            },
+            {
+              "meal_type": "Snacks",
+              "food_name": "Banana",
+              "servings": 1.4,
+              "calories": 147.0
+            }
+          ]
+        },
+        {
+          "id": "2026-02-04",
+          "date": "2026-02-04",
+          "total_calories": 3180,
+          "meal_count": 9,
+          "meals": [
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Acai Bowl",
+              "servings": 1.6,
+              "calories": 544.0
+            },
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Apple",
+              "servings": 1.4,
+              "calories": 133.0
+            },
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Green Smoothie",
+              "servings": 1.1,
+              "calories": 198.00000000000003
+            },
+            {
+              "meal_type": "Lunch",
+              "food_name": "Chicken Caesar Wrap",
+              "servings": 0.9,
+              "calories": 423.0
+            },
+            {
+              "meal_type": "Lunch",
+              "food_name": "Tuna Canned in Water",
+              "servings": 1.1,
+              "calories": 127.60000000000001
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Pad Thai",
+              "servings": 2.0,
+              "calories": 960.0
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Burrito Bowl",
+              "servings": 1.0,
+              "calories": 665.0
+            },
+            {
+              "meal_type": "Snacks",
+              "food_name": "Orange",
+              "servings": 0.9,
+              "calories": 55.800000000000004
+            },
+            {
+              "meal_type": "Snacks",
+              "food_name": "Blueberries",
+              "servings": 1.3,
+              "calories": 74.10000000000001
+            }
+          ]
+        },
+        {
+          "id": "2026-02-03",
+          "date": "2026-02-03",
+          "total_calories": 1251,
+          "meal_count": 7,
+          "meals": [
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Green Smoothie",
+              "servings": 1.5,
+              "calories": 270.0
+            },
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Acai Bowl",
+              "servings": 0.7,
+              "calories": 237.99999999999997
+            },
+            {
+              "meal_type": "Lunch",
+              "food_name": "Tuna Canned in Water",
+              "servings": 0.9,
+              "calories": 104.4
+            },
+            {
+              "meal_type": "Lunch",
+              "food_name": "Salmon Fillet",
+              "servings": 1.0,
+              "calories": 208.0
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Sweet Potato",
+              "servings": 2.0,
+              "calories": 180.0
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Brown Rice",
+              "servings": 1.2,
+              "calories": 147.6
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Turkey Breast Sliced",
+              "servings": 1.9,
+              "calories": 102.6
+            }
+          ]
+        },
+        {
+          "id": "2026-02-02",
+          "date": "2026-02-02",
+          "total_calories": 943,
+          "meal_count": 6,
+          "meals": [
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Apple",
+              "servings": 1.6,
+              "calories": 152.0
+            },
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Scrambled Eggs",
+              "servings": 0.7,
+              "calories": 127.39999999999999
+            },
+            {
+              "meal_type": "Lunch",
+              "food_name": "Turkey Breast Sliced",
+              "servings": 0.9,
+              "calories": 48.6
+            },
+            {
+              "meal_type": "Lunch",
+              "food_name": "Chicken Breast Grilled",
+              "servings": 1.5,
+              "calories": 247.5
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Tuna Canned in Water",
+              "servings": 1.1,
+              "calories": 127.60000000000001
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Quinoa",
+              "servings": 2.0,
+              "calories": 240.0
+            }
+          ]
+        },
+        {
+          "id": "2026-02-01",
+          "date": "2026-02-01",
+          "total_calories": 1734,
+          "meal_count": 7,
+          "meals": [
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Coffee Black",
+              "servings": 1.2,
+              "calories": 2.4
+            },
+            {
+              "meal_type": "Lunch",
+              "food_name": "Steak Ribeye",
+              "servings": 1.0,
+              "calories": 291.0
+            },
+            {
+              "meal_type": "Lunch",
+              "food_name": "Chicken Caesar Wrap",
+              "servings": 1.2,
+              "calories": 564.0
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Salmon Fillet",
+              "servings": 1.6,
+              "calories": 332.8
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Sushi Roll California",
+              "servings": 1.8,
+              "calories": 459.0
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Spinach Salad",
+              "servings": 1.7,
+              "calories": 39.1
+            },
+            {
+              "meal_type": "Snacks",
+              "food_name": "Blueberries",
+              "servings": 0.8,
+              "calories": 45.6
+            }
+          ]
+        },
+        {
+          "id": "2026-01-31",
+          "date": "2026-01-31",
+          "total_calories": 1159,
+          "meal_count": 5,
+          "meals": [
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Egg White Omelette",
+              "servings": 1.7,
+              "calories": 86.7
+            },
+            {
+              "meal_type": "Lunch",
+              "food_name": "Turkey Sandwich",
+              "servings": 1.2,
+              "calories": 384.0
+            },
+            {
+              "meal_type": "Lunch",
+              "food_name": "Steak Ribeye",
+              "servings": 0.9,
+              "calories": 261.90000000000003
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Salmon Fillet",
+              "servings": 1.1,
+              "calories": 228.8
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Veggie Stir Fry",
+              "servings": 1.1,
+              "calories": 198.00000000000003
+            }
+          ]
+        },
+        {
+          "id": "2026-01-30",
+          "date": "2026-01-30",
+          "total_calories": 1778,
+          "meal_count": 8,
+          "meals": [
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Scrambled Eggs",
+              "servings": 1.2,
+              "calories": 218.4
+            },
+            {
+              "meal_type": "Lunch",
+              "food_name": "Caprese Salad",
+              "servings": 1.0,
+              "calories": 280.0
+            },
+            {
+              "meal_type": "Lunch",
+              "food_name": "Turkey Breast Sliced",
+              "servings": 1.4,
+              "calories": 75.6
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Chicken Tikka Masala",
+              "servings": 1.1,
+              "calories": 418.00000000000006
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Tofu Firm",
+              "servings": 1.0,
+              "calories": 76.0
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Steak Ribeye",
+              "servings": 1.2,
+              "calories": 349.2
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Sushi Roll California",
+              "servings": 1.1,
+              "calories": 280.5
+            },
+            {
+              "meal_type": "Snacks",
+              "food_name": "Orange",
+              "servings": 1.3,
+              "calories": 80.60000000000001
+            }
+          ]
+        },
+        {
+          "id": "2026-01-29",
+          "date": "2026-01-29",
+          "total_calories": 1584,
+          "meal_count": 7,
+          "meals": [
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Greek Yogurt",
+              "servings": 1.5,
+              "calories": 150.0
+            },
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Scrambled Eggs",
+              "servings": 1.1,
+              "calories": 200.20000000000002
+            },
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Overnight Oats",
+              "servings": 0.8,
+              "calories": 232.0
+            },
+            {
+              "meal_type": "Lunch",
+              "food_name": "Chicken Breast Grilled",
+              "servings": 1.4,
+              "calories": 230.99999999999997
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Veggie Stir Fry",
+              "servings": 1.0,
+              "calories": 180.0
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Salmon Fillet",
+              "servings": 1.0,
+              "calories": 208.0
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Sushi Roll California",
+              "servings": 1.5,
+              "calories": 382.5
+            }
+          ]
+        },
+        {
+          "id": "2026-01-28",
+          "date": "2026-01-28",
+          "total_calories": 1529,
+          "meal_count": 7,
+          "meals": [
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Egg White Omelette",
+              "servings": 1.6,
+              "calories": 81.60000000000001
+            },
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Scrambled Eggs",
+              "servings": 1.7,
+              "calories": 309.4
+            },
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Milk 2%",
+              "servings": 1.5,
+              "calories": 183.0
+            },
+            {
+              "meal_type": "Lunch",
+              "food_name": "Tofu Firm",
+              "servings": 1.2,
+              "calories": 91.2
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Steak Ribeye",
+              "servings": 1.8,
+              "calories": 523.8000000000001
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Quinoa",
+              "servings": 1.5,
+              "calories": 180.0
+            },
+            {
+              "meal_type": "Snacks",
+              "food_name": "Protein Bar",
+              "servings": 0.8,
+              "calories": 160.0
+            }
+          ]
+        },
+        {
+          "id": "2026-01-27",
+          "date": "2026-01-27",
+          "total_calories": 2986,
+          "meal_count": 9,
+          "meals": [
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Blueberries",
+              "servings": 1.8,
+              "calories": 102.60000000000001
+            },
+            {
+              "meal_type": "Lunch",
+              "food_name": "Steak Ribeye",
+              "servings": 1.2,
+              "calories": 349.2
+            },
+            {
+              "meal_type": "Lunch",
+              "food_name": "Turkey Sandwich",
+              "servings": 1.4,
+              "calories": 448.0
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Quinoa",
+              "servings": 1.7,
+              "calories": 204.0
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Broccoli Steamed",
+              "servings": 1.8,
+              "calories": 63.0
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Veggie Stir Fry",
+              "servings": 1.4,
+              "calories": 251.99999999999997
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Burrito Bowl",
+              "servings": 2.0,
+              "calories": 1330.0
+            },
+            {
+              "meal_type": "Snacks",
+              "food_name": "Blueberries",
+              "servings": 0.7,
+              "calories": 39.9
+            },
+            {
+              "meal_type": "Snacks",
+              "food_name": "Almonds",
+              "servings": 1.2,
+              "calories": 196.79999999999998
+            }
+          ]
+        },
+        {
+          "id": "2026-01-26",
+          "date": "2026-01-26",
+          "total_calories": 1956,
+          "meal_count": 9,
+          "meals": [
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Banana",
+              "servings": 0.7,
+              "calories": 73.5
+            },
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Apple",
+              "servings": 1.9,
+              "calories": 180.5
+            },
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Green Smoothie",
+              "servings": 1.7,
+              "calories": 306.0
+            },
+            {
+              "meal_type": "Lunch",
+              "food_name": "Turkey Sandwich",
+              "servings": 1.3,
+              "calories": 416.0
+            },
+            {
+              "meal_type": "Lunch",
+              "food_name": "Vegetable Soup",
+              "servings": 0.8,
+              "calories": 64.0
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Fish Tacos",
+              "servings": 1.9,
+              "calories": 646.0
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Turkey Breast Sliced",
+              "servings": 1.4,
+              "calories": 75.6
+            },
+            {
+              "meal_type": "Snacks",
+              "food_name": "Protein Shake",
+              "servings": 1.0,
+              "calories": 120.0
+            },
+            {
+              "meal_type": "Snacks",
+              "food_name": "Orange",
+              "servings": 1.2,
+              "calories": 74.39999999999999
+            }
+          ]
+        },
+        {
+          "id": "2026-01-25",
+          "date": "2026-01-25",
+          "total_calories": 1465,
+          "meal_count": 7,
+          "meals": [
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Egg White Omelette",
+              "servings": 0.5,
+              "calories": 25.5
+            },
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Blueberries",
+              "servings": 1.3,
+              "calories": 74.10000000000001
+            },
+            {
+              "meal_type": "Lunch",
+              "food_name": "Caprese Salad",
+              "servings": 1.1,
+              "calories": 308.0
+            },
+            {
+              "meal_type": "Lunch",
+              "food_name": "Turkey Sandwich",
+              "servings": 1.0,
+              "calories": 320.0
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Tofu Firm",
+              "servings": 1.3,
+              "calories": 98.8
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Chicken Breast Grilled",
+              "servings": 1.6,
+              "calories": 264.0
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Salmon Fillet",
+              "servings": 1.8,
+              "calories": 374.40000000000003
+            }
+          ]
+        },
+        {
+          "id": "2026-01-24",
+          "date": "2026-01-24",
+          "total_calories": 1995,
+          "meal_count": 9,
+          "meals": [
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Apple",
+              "servings": 0.8,
+              "calories": 76.0
+            },
+            {
+              "meal_type": "Lunch",
+              "food_name": "Caprese Salad",
+              "servings": 1.2,
+              "calories": 336.0
+            },
+            {
+              "meal_type": "Lunch",
+              "food_name": "Vegetable Soup",
+              "servings": 1.2,
+              "calories": 96.0
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Pad Thai",
+              "servings": 2.0,
+              "calories": 960.0
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Tuna Canned in Water",
+              "servings": 1.8,
+              "calories": 208.8
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Sweet Potato",
+              "servings": 1.7,
+              "calories": 153.0
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Carrots Raw",
+              "servings": 1.4,
+              "calories": 57.4
+            },
+            {
+              "meal_type": "Snacks",
+              "food_name": "Mixed Berries",
+              "servings": 0.5,
+              "calories": 22.5
+            },
+            {
+              "meal_type": "Snacks",
+              "food_name": "Apple",
+              "servings": 0.9,
+              "calories": 85.5
+            }
+          ]
+        },
+        {
+          "id": "2026-01-23",
+          "date": "2026-01-23",
+          "total_calories": 1041,
+          "meal_count": 9,
+          "meals": [
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Overnight Oats",
+              "servings": 1.3,
+              "calories": 377.0
+            },
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Coffee Black",
+              "servings": 1.2,
+              "calories": 2.4
+            },
+            {
+              "meal_type": "Lunch",
+              "food_name": "Vegetable Soup",
+              "servings": 1.1,
+              "calories": 88.0
+            },
+            {
+              "meal_type": "Lunch",
+              "food_name": "Tofu Firm",
+              "servings": 1.3,
+              "calories": 98.8
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Spinach Salad",
+              "servings": 1.7,
+              "calories": 39.1
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Whole Wheat Bread",
+              "servings": 1.1,
+              "calories": 89.10000000000001
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Sweet Potato",
+              "servings": 1.4,
+              "calories": 125.99999999999999
+            },
+            {
+              "meal_type": "Snacks",
+              "food_name": "Banana",
+              "servings": 1.5,
+              "calories": 157.5
+            },
+            {
+              "meal_type": "Snacks",
+              "food_name": "Mixed Berries",
+              "servings": 1.4,
+              "calories": 62.99999999999999
+            }
+          ]
+        },
+        {
+          "id": "2026-01-22",
+          "date": "2026-01-22",
+          "total_calories": 2182,
+          "meal_count": 9,
+          "meals": [
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Banana",
+              "servings": 1.6,
+              "calories": 168.0
+            },
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Scrambled Eggs",
+              "servings": 0.7,
+              "calories": 127.39999999999999
+            },
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Blueberries",
+              "servings": 0.8,
+              "calories": 45.6
+            },
+            {
+              "meal_type": "Lunch",
+              "food_name": "Chicken Breast Grilled",
+              "servings": 1.4,
+              "calories": 230.99999999999997
+            },
+            {
+              "meal_type": "Lunch",
+              "food_name": "Tuna Canned in Water",
+              "servings": 1.1,
+              "calories": 127.60000000000001
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Tofu Firm",
+              "servings": 1.2,
+              "calories": 91.2
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Tuna Canned in Water",
+              "servings": 1.1,
+              "calories": 127.60000000000001
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Burrito Bowl",
+              "servings": 1.6,
+              "calories": 1064.0
+            },
+            {
+              "meal_type": "Snacks",
+              "food_name": "Protein Bar",
+              "servings": 1.0,
+              "calories": 200.0
+            }
+          ]
+        },
+        {
+          "id": "2026-01-21",
+          "date": "2026-01-21",
+          "total_calories": 2433,
+          "meal_count": 10,
+          "meals": [
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Green Smoothie",
+              "servings": 0.5,
+              "calories": 90.0
+            },
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Orange",
+              "servings": 1.5,
+              "calories": 93.0
+            },
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Coffee Black",
+              "servings": 1.4,
+              "calories": 2.8
+            },
+            {
+              "meal_type": "Lunch",
+              "food_name": "Turkey Sandwich",
+              "servings": 0.9,
+              "calories": 288.0
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Quinoa",
+              "servings": 1.0,
+              "calories": 120.0
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Veggie Stir Fry",
+              "servings": 1.0,
+              "calories": 180.0
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Burrito Bowl",
+              "servings": 1.5,
+              "calories": 997.5
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Sushi Roll California",
+              "servings": 1.7,
+              "calories": 433.5
+            },
+            {
+              "meal_type": "Snacks",
+              "food_name": "Almonds",
+              "servings": 1.1,
+              "calories": 180.4
+            },
+            {
+              "meal_type": "Snacks",
+              "food_name": "Apple",
+              "servings": 0.5,
+              "calories": 47.5
+            }
+          ]
+        },
+        {
+          "id": "2026-01-20",
+          "date": "2026-01-20",
+          "total_calories": 1983,
+          "meal_count": 7,
+          "meals": [
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Overnight Oats",
+              "servings": 1.4,
+              "calories": 406.0
+            },
+            {
+              "meal_type": "Lunch",
+              "food_name": "Turkey Sandwich",
+              "servings": 1.4,
+              "calories": 448.0
+            },
+            {
+              "meal_type": "Lunch",
+              "food_name": "Salmon Fillet",
+              "servings": 1.3,
+              "calories": 270.40000000000003
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Tofu Firm",
+              "servings": 1.4,
+              "calories": 106.39999999999999
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Spinach Salad",
+              "servings": 1.2,
+              "calories": 27.599999999999998
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Fish Tacos",
+              "servings": 1.6,
+              "calories": 544.0
+            },
+            {
+              "meal_type": "Snacks",
+              "food_name": "Almonds",
+              "servings": 1.1,
+              "calories": 180.4
+            }
+          ]
+        },
+        {
+          "id": "2026-01-19",
+          "date": "2026-01-19",
+          "total_calories": 2486,
+          "meal_count": 9,
+          "meals": [
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Milk 2%",
+              "servings": 2.0,
+              "calories": 244.0
+            },
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Overnight Oats",
+              "servings": 0.8,
+              "calories": 232.0
+            },
+            {
+              "meal_type": "Lunch",
+              "food_name": "Grilled Cheese Sandwich",
+              "servings": 1.3,
+              "calories": 507.0
+            },
+            {
+              "meal_type": "Lunch",
+              "food_name": "Turkey Sandwich",
+              "servings": 1.5,
+              "calories": 480.0
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Broccoli Steamed",
+              "servings": 1.4,
+              "calories": 49.0
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Steak Ribeye",
+              "servings": 1.8,
+              "calories": 523.8000000000001
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Whole Wheat Bread",
+              "servings": 1.1,
+              "calories": 89.10000000000001
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Brown Rice",
+              "servings": 1.6,
+              "calories": 196.8
+            },
+            {
+              "meal_type": "Snacks",
+              "food_name": "Almonds",
+              "servings": 1.0,
+              "calories": 164.0
+            }
+          ]
+        },
+        {
+          "id": "2026-01-18",
+          "date": "2026-01-18",
+          "total_calories": 1395,
+          "meal_count": 8,
+          "meals": [
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Oatmeal",
+              "servings": 1.6,
+              "calories": 240.0
+            },
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Egg White Omelette",
+              "servings": 1.2,
+              "calories": 61.199999999999996
+            },
+            {
+              "meal_type": "Lunch",
+              "food_name": "Turkey Breast Sliced",
+              "servings": 1.3,
+              "calories": 70.2
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Steak Ribeye",
+              "servings": 1.8,
+              "calories": 523.8000000000001
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Spinach Salad",
+              "servings": 1.3,
+              "calories": 29.900000000000002
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Turkey Breast Sliced",
+              "servings": 1.4,
+              "calories": 75.6
+            },
+            {
+              "meal_type": "Snacks",
+              "food_name": "Protein Bar",
+              "servings": 1.5,
+              "calories": 300.0
+            },
+            {
+              "meal_type": "Snacks",
+              "food_name": "Banana",
+              "servings": 0.9,
+              "calories": 94.5
+            }
+          ]
+        },
+        {
+          "id": "2026-01-17",
+          "date": "2026-01-17",
+          "total_calories": 2381,
+          "meal_count": 9,
+          "meals": [
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Milk 2%",
+              "servings": 0.5,
+              "calories": 61.0
+            },
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Banana",
+              "servings": 1.9,
+              "calories": 199.5
+            },
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Blueberries",
+              "servings": 0.8,
+              "calories": 45.6
+            },
+            {
+              "meal_type": "Lunch",
+              "food_name": "Salmon Fillet",
+              "servings": 1.0,
+              "calories": 208.0
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Sushi Roll California",
+              "servings": 1.7,
+              "calories": 433.5
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Carrots Raw",
+              "servings": 1.3,
+              "calories": 53.300000000000004
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Burrito Bowl",
+              "servings": 1.7,
+              "calories": 1130.5
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Sweet Potato",
+              "servings": 1.0,
+              "calories": 90.0
+            },
+            {
+              "meal_type": "Snacks",
+              "food_name": "Protein Bar",
+              "servings": 0.8,
+              "calories": 160.0
+            }
+          ]
+        },
+        {
+          "id": "2026-01-16",
+          "date": "2026-01-16",
+          "total_calories": 2989,
+          "meal_count": 9,
+          "meals": [
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Mixed Berries",
+              "servings": 0.6,
+              "calories": 27.0
+            },
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Milk 2%",
+              "servings": 1.1,
+              "calories": 134.20000000000002
+            },
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Green Smoothie",
+              "servings": 1.8,
+              "calories": 324.0
+            },
+            {
+              "meal_type": "Lunch",
+              "food_name": "Chicken Caesar Wrap",
+              "servings": 1.0,
+              "calories": 470.0
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Chicken Breast Grilled",
+              "servings": 2.0,
+              "calories": 330.0
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Burrito Bowl",
+              "servings": 1.5,
+              "calories": 997.5
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Brown Rice",
+              "servings": 1.7,
+              "calories": 209.1
+            },
+            {
+              "meal_type": "Snacks",
+              "food_name": "Almonds",
+              "servings": 1.2,
+              "calories": 196.79999999999998
+            },
+            {
+              "meal_type": "Snacks",
+              "food_name": "Protein Bar",
+              "servings": 1.5,
+              "calories": 300.0
+            }
+          ]
+        },
+        {
+          "id": "2026-01-15",
+          "date": "2026-01-15",
+          "total_calories": 2930,
+          "meal_count": 10,
+          "meals": [
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Banana",
+              "servings": 1.3,
+              "calories": 136.5
+            },
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Acai Bowl",
+              "servings": 1.9,
+              "calories": 646.0
+            },
+            {
+              "meal_type": "Lunch",
+              "food_name": "Chicken Caesar Wrap",
+              "servings": 0.8,
+              "calories": 376.0
+            },
+            {
+              "meal_type": "Lunch",
+              "food_name": "Tofu Firm",
+              "servings": 1.5,
+              "calories": 114.0
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Broccoli Steamed",
+              "servings": 1.1,
+              "calories": 38.5
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Veggie Stir Fry",
+              "servings": 1.6,
+              "calories": 288.0
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Steak Ribeye",
+              "servings": 1.7,
+              "calories": 494.7
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Chicken Tikka Masala",
+              "servings": 1.9,
+              "calories": 722.0
+            },
+            {
+              "meal_type": "Snacks",
+              "food_name": "Mixed Berries",
+              "servings": 0.9,
+              "calories": 40.5
+            },
+            {
+              "meal_type": "Snacks",
+              "food_name": "Blueberries",
+              "servings": 1.3,
+              "calories": 74.10000000000001
+            }
+          ]
+        },
+        {
+          "id": "2026-01-14",
+          "date": "2026-01-14",
+          "total_calories": 2016,
+          "meal_count": 6,
+          "meals": [
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Greek Yogurt",
+              "servings": 1.1,
+              "calories": 110.00000000000001
+            },
+            {
+              "meal_type": "Lunch",
+              "food_name": "Caprese Salad",
+              "servings": 1.1,
+              "calories": 308.0
+            },
+            {
+              "meal_type": "Lunch",
+              "food_name": "Chicken Caesar Wrap",
+              "servings": 0.9,
+              "calories": 423.0
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Burrito Bowl",
+              "servings": 1.6,
+              "calories": 1064.0
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Spinach Salad",
+              "servings": 1.7,
+              "calories": 39.1
+            },
+            {
+              "meal_type": "Snacks",
+              "food_name": "Protein Shake",
+              "servings": 0.6,
+              "calories": 72.0
+            }
+          ]
+        },
+        {
+          "id": "2026-01-13",
+          "date": "2026-01-13",
+          "total_calories": 862,
+          "meal_count": 7,
+          "meals": [
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Egg White Omelette",
+              "servings": 1.3,
+              "calories": 66.3
+            },
+            {
+              "meal_type": "Lunch",
+              "food_name": "Salmon Fillet",
+              "servings": 1.2,
+              "calories": 249.6
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Tofu Firm",
+              "servings": 1.3,
+              "calories": 98.8
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Sweet Potato",
+              "servings": 2.0,
+              "calories": 180.0
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Turkey Breast Sliced",
+              "servings": 1.8,
+              "calories": 97.2
+            },
+            {
+              "meal_type": "Snacks",
+              "food_name": "Almonds",
+              "servings": 0.7,
+              "calories": 114.8
+            },
+            {
+              "meal_type": "Snacks",
+              "food_name": "Orange",
+              "servings": 0.9,
+              "calories": 55.800000000000004
+            }
+          ]
+        },
+        {
+          "id": "2026-01-12",
+          "date": "2026-01-12",
+          "total_calories": 1488,
+          "meal_count": 7,
+          "meals": [
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Acai Bowl",
+              "servings": 0.6,
+              "calories": 204.0
+            },
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Egg White Omelette",
+              "servings": 0.8,
+              "calories": 40.800000000000004
+            },
+            {
+              "meal_type": "Lunch",
+              "food_name": "Salmon Fillet",
+              "servings": 1.1,
+              "calories": 228.8
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Fish Tacos",
+              "servings": 1.7,
+              "calories": 578.0
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Sushi Roll California",
+              "servings": 1.0,
+              "calories": 255.0
+            },
+            {
+              "meal_type": "Snacks",
+              "food_name": "Apple",
+              "servings": 0.9,
+              "calories": 85.5
+            },
+            {
+              "meal_type": "Snacks",
+              "food_name": "Protein Shake",
+              "servings": 0.8,
+              "calories": 96.0
+            }
+          ]
+        },
+        {
+          "id": "2026-01-11",
+          "date": "2026-01-11",
+          "total_calories": 1448,
+          "meal_count": 9,
+          "meals": [
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Orange",
+              "servings": 0.8,
+              "calories": 49.6
+            },
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Banana",
+              "servings": 1.3,
+              "calories": 136.5
+            },
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Acai Bowl",
+              "servings": 0.9,
+              "calories": 306.0
+            },
+            {
+              "meal_type": "Lunch",
+              "food_name": "Chicken Caesar Wrap",
+              "servings": 1.1,
+              "calories": 517.0
+            },
+            {
+              "meal_type": "Lunch",
+              "food_name": "Vegetable Soup",
+              "servings": 1.5,
+              "calories": 120.0
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Sweet Potato",
+              "servings": 1.6,
+              "calories": 144.0
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Spinach Salad",
+              "servings": 1.6,
+              "calories": 36.800000000000004
+            },
+            {
+              "meal_type": "Snacks",
+              "food_name": "Mixed Berries",
+              "servings": 1.2,
+              "calories": 54.0
+            },
+            {
+              "meal_type": "Snacks",
+              "food_name": "Banana",
+              "servings": 0.8,
+              "calories": 84.0
+            }
+          ]
+        },
+        {
+          "id": "2026-01-10",
+          "date": "2026-01-10",
+          "total_calories": 2540,
+          "meal_count": 11,
+          "meals": [
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Green Smoothie",
+              "servings": 1.8,
+              "calories": 324.0
+            },
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Banana",
+              "servings": 1.4,
+              "calories": 147.0
+            },
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Greek Yogurt",
+              "servings": 1.7,
+              "calories": 170.0
+            },
+            {
+              "meal_type": "Lunch",
+              "food_name": "Tuna Canned in Water",
+              "servings": 1.5,
+              "calories": 174.0
+            },
+            {
+              "meal_type": "Lunch",
+              "food_name": "Vegetable Soup",
+              "servings": 1.0,
+              "calories": 80.0
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Tofu Firm",
+              "servings": 1.4,
+              "calories": 106.39999999999999
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Sweet Potato",
+              "servings": 1.2,
+              "calories": 108.0
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Quinoa",
+              "servings": 1.9,
+              "calories": 228.0
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Burrito Bowl",
+              "servings": 1.6,
+              "calories": 1064.0
+            },
+            {
+              "meal_type": "Snacks",
+              "food_name": "Orange",
+              "servings": 1.4,
+              "calories": 86.8
+            },
+            {
+              "meal_type": "Snacks",
+              "food_name": "Blueberries",
+              "servings": 0.9,
+              "calories": 51.300000000000004
+            }
+          ]
+        },
+        {
+          "id": "2026-01-09",
+          "date": "2026-01-09",
+          "total_calories": 1266,
+          "meal_count": 9,
+          "meals": [
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Greek Yogurt",
+              "servings": 1.4,
+              "calories": 140.0
+            },
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Oatmeal",
+              "servings": 0.6,
+              "calories": 90.0
+            },
+            {
+              "meal_type": "Lunch",
+              "food_name": "Tofu Firm",
+              "servings": 0.9,
+              "calories": 68.4
+            },
+            {
+              "meal_type": "Lunch",
+              "food_name": "Chicken Breast Grilled",
+              "servings": 1.1,
+              "calories": 181.50000000000003
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Turkey Breast Sliced",
+              "servings": 1.6,
+              "calories": 86.4
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Whole Wheat Bread",
+              "servings": 1.9,
+              "calories": 153.9
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Brown Rice",
+              "servings": 1.5,
+              "calories": 184.5
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Quinoa",
+              "servings": 1.1,
+              "calories": 132.0
+            },
+            {
+              "meal_type": "Snacks",
+              "food_name": "Almonds",
+              "servings": 1.4,
+              "calories": 229.6
+            }
+          ]
+        },
+        {
+          "id": "2026-01-08",
+          "date": "2026-01-08",
+          "total_calories": 1935,
+          "meal_count": 6,
+          "meals": [
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Milk 2%",
+              "servings": 1.2,
+              "calories": 146.4
+            },
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Overnight Oats",
+              "servings": 1.5,
+              "calories": 435.0
+            },
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Orange",
+              "servings": 1.5,
+              "calories": 93.0
+            },
+            {
+              "meal_type": "Lunch",
+              "food_name": "Steak Ribeye",
+              "servings": 1.4,
+              "calories": 407.4
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Whole Wheat Bread",
+              "servings": 1.5,
+              "calories": 121.5
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Burrito Bowl",
+              "servings": 1.1,
+              "calories": 731.5000000000001
+            }
+          ]
+        },
+        {
+          "id": "2026-01-07",
+          "date": "2026-01-07",
+          "total_calories": 939,
+          "meal_count": 6,
+          "meals": [
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Scrambled Eggs",
+              "servings": 0.9,
+              "calories": 163.8
+            },
+            {
+              "meal_type": "Breakfast",
+              "food_name": "Orange",
+              "servings": 0.7,
+              "calories": 43.4
+            },
+            {
+              "meal_type": "Lunch",
+              "food_name": "Steak Ribeye",
+              "servings": 1.5,
+              "calories": 436.5
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Quinoa",
+              "servings": 1.6,
+              "calories": 192.0
+            },
+            {
+              "meal_type": "Dinner",
+              "food_name": "Broccoli Steamed",
+              "servings": 1.9,
+              "calories": 66.5
+            },
+            {
+              "meal_type": "Snacks",
+              "food_name": "Orange",
+              "servings": 0.6,
+              "calories": 37.199999999999996
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exercise_logs",
+      "name": "Exercise Logs",
+      "item_count": 40,
+      "items": [
+        {
+          "id": "2026-02-05",
+          "persona_id": "persona_027",
+          "log_date": "2026-02-05",
+          "exercise_id": "EX016",
+          "duration_minutes": "180",
+          "calories_burned": "810",
+          "notes": "Golf session",
+          "logged_at": "2026-02-05T07:00:00"
+        },
+        {
+          "id": "2026-02-05",
+          "persona_id": "persona_027",
+          "log_date": "2026-02-05",
+          "exercise_id": "EX003",
+          "duration_minutes": "30",
+          "calories_burned": "240",
+          "notes": "Cycling session",
+          "logged_at": "2026-02-05T05:00:00"
+        },
+        {
+          "id": "2026-02-04",
+          "persona_id": "persona_027",
+          "log_date": "2026-02-04",
+          "exercise_id": "EX002",
+          "duration_minutes": "35",
+          "calories_burned": "150",
+          "notes": "Walking session",
+          "logged_at": "2026-02-04T08:00:00"
+        },
+        {
+          "id": "2026-02-04",
+          "persona_id": "persona_027",
+          "log_date": "2026-02-04",
+          "exercise_id": "EX003",
+          "duration_minutes": "30",
+          "calories_burned": "240",
+          "notes": "Cycling session",
+          "logged_at": "2026-02-04T06:00:00"
+        },
+        {
+          "id": "2026-02-03",
+          "persona_id": "persona_027",
+          "log_date": "2026-02-03",
+          "exercise_id": "EX002",
+          "duration_minutes": "35",
+          "calories_burned": "150",
+          "notes": "Walking session",
+          "logged_at": "2026-02-03T08:00:00"
+        },
+        {
+          "id": "2026-02-02",
+          "persona_id": "persona_027",
+          "log_date": "2026-02-02",
+          "exercise_id": "EX002",
+          "duration_minutes": "35",
+          "calories_burned": "150",
+          "notes": "Walking session",
+          "logged_at": "2026-02-02T05:00:00"
+        },
+        {
+          "id": "2026-02-02",
+          "persona_id": "persona_027",
+          "log_date": "2026-02-02",
+          "exercise_id": "EX003",
+          "duration_minutes": "30",
+          "calories_burned": "240",
+          "notes": "Cycling session",
+          "logged_at": "2026-02-02T07:00:00"
+        },
+        {
+          "id": "2026-02-01",
+          "persona_id": "persona_027",
+          "log_date": "2026-02-01",
+          "exercise_id": "EX002",
+          "duration_minutes": "35",
+          "calories_burned": "150",
+          "notes": "Walking session",
+          "logged_at": "2026-02-01T07:00:00"
+        },
+        {
+          "id": "2026-02-01",
+          "persona_id": "persona_027",
+          "log_date": "2026-02-01",
+          "exercise_id": "EX016",
+          "duration_minutes": "180",
+          "calories_burned": "810",
+          "notes": "Golf session",
+          "logged_at": "2026-02-01T08:00:00"
+        },
+        {
+          "id": "2026-01-31",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-31",
+          "exercise_id": "EX002",
+          "duration_minutes": "35",
+          "calories_burned": "150",
+          "notes": "Walking session",
+          "logged_at": "2026-01-31T07:00:00"
+        },
+        {
+          "id": "2026-01-30",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-30",
+          "exercise_id": "EX002",
+          "duration_minutes": "35",
+          "calories_burned": "150",
+          "notes": "Walking session",
+          "logged_at": "2026-01-30T08:00:00"
+        },
+        {
+          "id": "2026-01-29",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-29",
+          "exercise_id": "EX002",
+          "duration_minutes": "35",
+          "calories_burned": "150",
+          "notes": "Walking session",
+          "logged_at": "2026-01-29T06:00:00"
+        },
+        {
+          "id": "2026-01-28",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-28",
+          "exercise_id": "EX002",
+          "duration_minutes": "35",
+          "calories_burned": "150",
+          "notes": "Walking session",
+          "logged_at": "2026-01-28T05:00:00"
+        },
+        {
+          "id": "2026-01-28",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-28",
+          "exercise_id": "EX016",
+          "duration_minutes": "180",
+          "calories_burned": "810",
+          "notes": "Golf session",
+          "logged_at": "2026-01-28T08:00:00"
+        },
+        {
+          "id": "2026-01-26",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-26",
+          "exercise_id": "EX016",
+          "duration_minutes": "180",
+          "calories_burned": "810",
+          "notes": "Golf session",
+          "logged_at": "2026-01-26T05:00:00"
+        },
+        {
+          "id": "2026-01-26",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-26",
+          "exercise_id": "EX003",
+          "duration_minutes": "30",
+          "calories_burned": "240",
+          "notes": "Cycling session",
+          "logged_at": "2026-01-26T05:00:00"
+        },
+        {
+          "id": "2026-01-24",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-24",
+          "exercise_id": "EX002",
+          "duration_minutes": "35",
+          "calories_burned": "150",
+          "notes": "Walking session",
+          "logged_at": "2026-01-24T06:00:00"
+        },
+        {
+          "id": "2026-01-23",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-23",
+          "exercise_id": "EX002",
+          "duration_minutes": "35",
+          "calories_burned": "150",
+          "notes": "Walking session",
+          "logged_at": "2026-01-23T07:00:00"
+        },
+        {
+          "id": "2026-01-23",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-23",
+          "exercise_id": "EX005",
+          "duration_minutes": "30",
+          "calories_burned": "150",
+          "notes": "Strength Training session",
+          "logged_at": "2026-01-23T07:00:00"
+        },
+        {
+          "id": "2026-01-22",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-22",
+          "exercise_id": "EX002",
+          "duration_minutes": "35",
+          "calories_burned": "150",
+          "notes": "Walking session",
+          "logged_at": "2026-01-22T05:00:00"
+        },
+        {
+          "id": "2026-01-22",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-22",
+          "exercise_id": "EX003",
+          "duration_minutes": "30",
+          "calories_burned": "240",
+          "notes": "Cycling session",
+          "logged_at": "2026-01-22T07:00:00"
+        },
+        {
+          "id": "2026-01-21",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-21",
+          "exercise_id": "EX002",
+          "duration_minutes": "35",
+          "calories_burned": "150",
+          "notes": "Walking session",
+          "logged_at": "2026-01-21T05:00:00"
+        },
+        {
+          "id": "2026-01-20",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-20",
+          "exercise_id": "EX002",
+          "duration_minutes": "35",
+          "calories_burned": "150",
+          "notes": "Walking session",
+          "logged_at": "2026-01-20T05:00:00"
+        },
+        {
+          "id": "2026-01-19",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-19",
+          "exercise_id": "EX002",
+          "duration_minutes": "35",
+          "calories_burned": "150",
+          "notes": "Walking session",
+          "logged_at": "2026-01-19T07:00:00"
+        },
+        {
+          "id": "2026-01-19",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-19",
+          "exercise_id": "EX003",
+          "duration_minutes": "30",
+          "calories_burned": "240",
+          "notes": "Cycling session",
+          "logged_at": "2026-01-19T06:00:00"
+        },
+        {
+          "id": "2026-01-18",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-18",
+          "exercise_id": "EX002",
+          "duration_minutes": "35",
+          "calories_burned": "150",
+          "notes": "Walking session",
+          "logged_at": "2026-01-18T05:00:00"
+        },
+        {
+          "id": "2026-01-18",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-18",
+          "exercise_id": "EX003",
+          "duration_minutes": "30",
+          "calories_burned": "240",
+          "notes": "Cycling session",
+          "logged_at": "2026-01-18T06:00:00"
+        },
+        {
+          "id": "2026-01-17",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-17",
+          "exercise_id": "EX002",
+          "duration_minutes": "35",
+          "calories_burned": "150",
+          "notes": "Walking session",
+          "logged_at": "2026-01-17T07:00:00"
+        },
+        {
+          "id": "2026-01-14",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-14",
+          "exercise_id": "EX002",
+          "duration_minutes": "35",
+          "calories_burned": "150",
+          "notes": "Walking session",
+          "logged_at": "2026-01-14T05:00:00"
+        },
+        {
+          "id": "2026-01-13",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-13",
+          "exercise_id": "EX002",
+          "duration_minutes": "35",
+          "calories_burned": "150",
+          "notes": "Walking session",
+          "logged_at": "2026-01-13T07:00:00"
+        },
+        {
+          "id": "2026-01-12",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-12",
+          "exercise_id": "EX002",
+          "duration_minutes": "35",
+          "calories_burned": "150",
+          "notes": "Walking session",
+          "logged_at": "2026-01-12T06:00:00"
+        },
+        {
+          "id": "2026-01-12",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-12",
+          "exercise_id": "EX003",
+          "duration_minutes": "30",
+          "calories_burned": "240",
+          "notes": "Cycling session",
+          "logged_at": "2026-01-12T08:00:00"
+        },
+        {
+          "id": "2026-01-11",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-11",
+          "exercise_id": "EX002",
+          "duration_minutes": "35",
+          "calories_burned": "150",
+          "notes": "Walking session",
+          "logged_at": "2026-01-11T07:00:00"
+        },
+        {
+          "id": "2026-01-10",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-10",
+          "exercise_id": "EX003",
+          "duration_minutes": "30",
+          "calories_burned": "240",
+          "notes": "Cycling session",
+          "logged_at": "2026-01-10T07:00:00"
+        },
+        {
+          "id": "2026-01-09",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-09",
+          "exercise_id": "EX002",
+          "duration_minutes": "35",
+          "calories_burned": "150",
+          "notes": "Walking session",
+          "logged_at": "2026-01-09T06:00:00"
+        },
+        {
+          "id": "2026-01-09",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-09",
+          "exercise_id": "EX003",
+          "duration_minutes": "30",
+          "calories_burned": "240",
+          "notes": "Cycling session",
+          "logged_at": "2026-01-09T08:00:00"
+        },
+        {
+          "id": "2026-01-08",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-08",
+          "exercise_id": "EX002",
+          "duration_minutes": "35",
+          "calories_burned": "150",
+          "notes": "Walking session",
+          "logged_at": "2026-01-08T08:00:00"
+        },
+        {
+          "id": "2026-01-08",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-08",
+          "exercise_id": "EX016",
+          "duration_minutes": "180",
+          "calories_burned": "810",
+          "notes": "Golf session",
+          "logged_at": "2026-01-08T08:00:00"
+        },
+        {
+          "id": "2026-01-07",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-07",
+          "exercise_id": "EX002",
+          "duration_minutes": "35",
+          "calories_burned": "150",
+          "notes": "Walking session",
+          "logged_at": "2026-01-07T05:00:00"
+        },
+        {
+          "id": "2026-01-07",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-07",
+          "exercise_id": "EX003",
+          "duration_minutes": "30",
+          "calories_burned": "240",
+          "notes": "Cycling session",
+          "logged_at": "2026-01-07T07:00:00"
+        }
+      ]
+    },
+    {
+      "id": "water_logs",
+      "name": "Water Logs",
+      "item_count": 187,
+      "items": [
+        {
+          "id": "2026-02-05",
+          "persona_id": "persona_027",
+          "log_date": "2026-02-05",
+          "amount_ml": "750",
+          "logged_at": "2026-02-05T06:00:00"
+        },
+        {
+          "id": "2026-02-05",
+          "persona_id": "persona_027",
+          "log_date": "2026-02-05",
+          "amount_ml": "500",
+          "logged_at": "2026-02-05T09:00:00"
+        },
+        {
+          "id": "2026-02-05",
+          "persona_id": "persona_027",
+          "log_date": "2026-02-05",
+          "amount_ml": "750",
+          "logged_at": "2026-02-05T10:00:00"
+        },
+        {
+          "id": "2026-02-05",
+          "persona_id": "persona_027",
+          "log_date": "2026-02-05",
+          "amount_ml": "250",
+          "logged_at": "2026-02-05T15:00:00"
+        },
+        {
+          "id": "2026-02-04",
+          "persona_id": "persona_027",
+          "log_date": "2026-02-04",
+          "amount_ml": "750",
+          "logged_at": "2026-02-04T06:00:00"
+        },
+        {
+          "id": "2026-02-04",
+          "persona_id": "persona_027",
+          "log_date": "2026-02-04",
+          "amount_ml": "750",
+          "logged_at": "2026-02-04T11:00:00"
+        },
+        {
+          "id": "2026-02-04",
+          "persona_id": "persona_027",
+          "log_date": "2026-02-04",
+          "amount_ml": "250",
+          "logged_at": "2026-02-04T16:00:00"
+        },
+        {
+          "id": "2026-02-04",
+          "persona_id": "persona_027",
+          "log_date": "2026-02-04",
+          "amount_ml": "250",
+          "logged_at": "2026-02-04T19:00:00"
+        },
+        {
+          "id": "2026-02-03",
+          "persona_id": "persona_027",
+          "log_date": "2026-02-03",
+          "amount_ml": "500",
+          "logged_at": "2026-02-03T10:00:00"
+        },
+        {
+          "id": "2026-02-03",
+          "persona_id": "persona_027",
+          "log_date": "2026-02-03",
+          "amount_ml": "500",
+          "logged_at": "2026-02-03T11:00:00"
+        },
+        {
+          "id": "2026-02-03",
+          "persona_id": "persona_027",
+          "log_date": "2026-02-03",
+          "amount_ml": "500",
+          "logged_at": "2026-02-03T13:00:00"
+        },
+        {
+          "id": "2026-02-03",
+          "persona_id": "persona_027",
+          "log_date": "2026-02-03",
+          "amount_ml": "500",
+          "logged_at": "2026-02-03T14:00:00"
+        },
+        {
+          "id": "2026-02-03",
+          "persona_id": "persona_027",
+          "log_date": "2026-02-03",
+          "amount_ml": "500",
+          "logged_at": "2026-02-03T18:00:00"
+        },
+        {
+          "id": "2026-02-03",
+          "persona_id": "persona_027",
+          "log_date": "2026-02-03",
+          "amount_ml": "250",
+          "logged_at": "2026-02-03T19:00:00"
+        },
+        {
+          "id": "2026-02-02",
+          "persona_id": "persona_027",
+          "log_date": "2026-02-02",
+          "amount_ml": "250",
+          "logged_at": "2026-02-02T06:00:00"
+        },
+        {
+          "id": "2026-02-02",
+          "persona_id": "persona_027",
+          "log_date": "2026-02-02",
+          "amount_ml": "250",
+          "logged_at": "2026-02-02T10:00:00"
+        },
+        {
+          "id": "2026-02-02",
+          "persona_id": "persona_027",
+          "log_date": "2026-02-02",
+          "amount_ml": "500",
+          "logged_at": "2026-02-02T12:00:00"
+        },
+        {
+          "id": "2026-02-02",
+          "persona_id": "persona_027",
+          "log_date": "2026-02-02",
+          "amount_ml": "500",
+          "logged_at": "2026-02-02T16:00:00"
+        },
+        {
+          "id": "2026-02-02",
+          "persona_id": "persona_027",
+          "log_date": "2026-02-02",
+          "amount_ml": "750",
+          "logged_at": "2026-02-02T20:00:00"
+        },
+        {
+          "id": "2026-02-02",
+          "persona_id": "persona_027",
+          "log_date": "2026-02-02",
+          "amount_ml": "250",
+          "logged_at": "2026-02-02T21:00:00"
+        },
+        {
+          "id": "2026-02-01",
+          "persona_id": "persona_027",
+          "log_date": "2026-02-01",
+          "amount_ml": "750",
+          "logged_at": "2026-02-01T07:00:00"
+        },
+        {
+          "id": "2026-02-01",
+          "persona_id": "persona_027",
+          "log_date": "2026-02-01",
+          "amount_ml": "500",
+          "logged_at": "2026-02-01T08:00:00"
+        },
+        {
+          "id": "2026-02-01",
+          "persona_id": "persona_027",
+          "log_date": "2026-02-01",
+          "amount_ml": "500",
+          "logged_at": "2026-02-01T11:00:00"
+        },
+        {
+          "id": "2026-02-01",
+          "persona_id": "persona_027",
+          "log_date": "2026-02-01",
+          "amount_ml": "500",
+          "logged_at": "2026-02-01T12:00:00"
+        },
+        {
+          "id": "2026-02-01",
+          "persona_id": "persona_027",
+          "log_date": "2026-02-01",
+          "amount_ml": "500",
+          "logged_at": "2026-02-01T13:00:00"
+        },
+        {
+          "id": "2026-02-01",
+          "persona_id": "persona_027",
+          "log_date": "2026-02-01",
+          "amount_ml": "500",
+          "logged_at": "2026-02-01T15:00:00"
+        },
+        {
+          "id": "2026-02-01",
+          "persona_id": "persona_027",
+          "log_date": "2026-02-01",
+          "amount_ml": "250",
+          "logged_at": "2026-02-01T17:00:00"
+        },
+        {
+          "id": "2026-02-01",
+          "persona_id": "persona_027",
+          "log_date": "2026-02-01",
+          "amount_ml": "250",
+          "logged_at": "2026-02-01T20:00:00"
+        },
+        {
+          "id": "2026-01-31",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-31",
+          "amount_ml": "500",
+          "logged_at": "2026-01-31T07:00:00"
+        },
+        {
+          "id": "2026-01-31",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-31",
+          "amount_ml": "250",
+          "logged_at": "2026-01-31T11:00:00"
+        },
+        {
+          "id": "2026-01-31",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-31",
+          "amount_ml": "500",
+          "logged_at": "2026-01-31T13:00:00"
+        },
+        {
+          "id": "2026-01-31",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-31",
+          "amount_ml": "500",
+          "logged_at": "2026-01-31T14:00:00"
+        },
+        {
+          "id": "2026-01-31",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-31",
+          "amount_ml": "250",
+          "logged_at": "2026-01-31T21:00:00"
+        },
+        {
+          "id": "2026-01-30",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-30",
+          "amount_ml": "500",
+          "logged_at": "2026-01-30T10:00:00"
+        },
+        {
+          "id": "2026-01-30",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-30",
+          "amount_ml": "750",
+          "logged_at": "2026-01-30T11:00:00"
+        },
+        {
+          "id": "2026-01-30",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-30",
+          "amount_ml": "500",
+          "logged_at": "2026-01-30T12:00:00"
+        },
+        {
+          "id": "2026-01-30",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-30",
+          "amount_ml": "750",
+          "logged_at": "2026-01-30T14:00:00"
+        },
+        {
+          "id": "2026-01-30",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-30",
+          "amount_ml": "250",
+          "logged_at": "2026-01-30T15:00:00"
+        },
+        {
+          "id": "2026-01-30",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-30",
+          "amount_ml": "250",
+          "logged_at": "2026-01-30T21:00:00"
+        },
+        {
+          "id": "2026-01-29",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-29",
+          "amount_ml": "250",
+          "logged_at": "2026-01-29T06:00:00"
+        },
+        {
+          "id": "2026-01-29",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-29",
+          "amount_ml": "500",
+          "logged_at": "2026-01-29T09:00:00"
+        },
+        {
+          "id": "2026-01-29",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-29",
+          "amount_ml": "500",
+          "logged_at": "2026-01-29T11:00:00"
+        },
+        {
+          "id": "2026-01-29",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-29",
+          "amount_ml": "750",
+          "logged_at": "2026-01-29T12:00:00"
+        },
+        {
+          "id": "2026-01-29",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-29",
+          "amount_ml": "500",
+          "logged_at": "2026-01-29T14:00:00"
+        },
+        {
+          "id": "2026-01-29",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-29",
+          "amount_ml": "500",
+          "logged_at": "2026-01-29T15:00:00"
+        },
+        {
+          "id": "2026-01-29",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-29",
+          "amount_ml": "500",
+          "logged_at": "2026-01-29T19:00:00"
+        },
+        {
+          "id": "2026-01-29",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-29",
+          "amount_ml": "250",
+          "logged_at": "2026-01-29T21:00:00"
+        },
+        {
+          "id": "2026-01-28",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-28",
+          "amount_ml": "250",
+          "logged_at": "2026-01-28T06:00:00"
+        },
+        {
+          "id": "2026-01-28",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-28",
+          "amount_ml": "500",
+          "logged_at": "2026-01-28T13:00:00"
+        },
+        {
+          "id": "2026-01-28",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-28",
+          "amount_ml": "500",
+          "logged_at": "2026-01-28T17:00:00"
+        },
+        {
+          "id": "2026-01-28",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-28",
+          "amount_ml": "250",
+          "logged_at": "2026-01-28T18:00:00"
+        },
+        {
+          "id": "2026-01-28",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-28",
+          "amount_ml": "500",
+          "logged_at": "2026-01-28T20:00:00"
+        },
+        {
+          "id": "2026-01-28",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-28",
+          "amount_ml": "250",
+          "logged_at": "2026-01-28T21:00:00"
+        },
+        {
+          "id": "2026-01-27",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-27",
+          "amount_ml": "500",
+          "logged_at": "2026-01-27T08:00:00"
+        },
+        {
+          "id": "2026-01-27",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-27",
+          "amount_ml": "500",
+          "logged_at": "2026-01-27T09:00:00"
+        },
+        {
+          "id": "2026-01-27",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-27",
+          "amount_ml": "500",
+          "logged_at": "2026-01-27T15:00:00"
+        },
+        {
+          "id": "2026-01-27",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-27",
+          "amount_ml": "500",
+          "logged_at": "2026-01-27T17:00:00"
+        },
+        {
+          "id": "2026-01-27",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-27",
+          "amount_ml": "250",
+          "logged_at": "2026-01-27T18:00:00"
+        },
+        {
+          "id": "2026-01-26",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-26",
+          "amount_ml": "500",
+          "logged_at": "2026-01-26T08:00:00"
+        },
+        {
+          "id": "2026-01-26",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-26",
+          "amount_ml": "500",
+          "logged_at": "2026-01-26T10:00:00"
+        },
+        {
+          "id": "2026-01-26",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-26",
+          "amount_ml": "500",
+          "logged_at": "2026-01-26T11:00:00"
+        },
+        {
+          "id": "2026-01-26",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-26",
+          "amount_ml": "750",
+          "logged_at": "2026-01-26T16:00:00"
+        },
+        {
+          "id": "2026-01-26",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-26",
+          "amount_ml": "250",
+          "logged_at": "2026-01-26T21:00:00"
+        },
+        {
+          "id": "2026-01-25",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-25",
+          "amount_ml": "750",
+          "logged_at": "2026-01-25T06:00:00"
+        },
+        {
+          "id": "2026-01-25",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-25",
+          "amount_ml": "500",
+          "logged_at": "2026-01-25T09:00:00"
+        },
+        {
+          "id": "2026-01-25",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-25",
+          "amount_ml": "750",
+          "logged_at": "2026-01-25T13:00:00"
+        },
+        {
+          "id": "2026-01-25",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-25",
+          "amount_ml": "500",
+          "logged_at": "2026-01-25T17:00:00"
+        },
+        {
+          "id": "2026-01-25",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-25",
+          "amount_ml": "250",
+          "logged_at": "2026-01-25T20:00:00"
+        },
+        {
+          "id": "2026-01-24",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-24",
+          "amount_ml": "500",
+          "logged_at": "2026-01-24T07:00:00"
+        },
+        {
+          "id": "2026-01-24",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-24",
+          "amount_ml": "500",
+          "logged_at": "2026-01-24T09:00:00"
+        },
+        {
+          "id": "2026-01-24",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-24",
+          "amount_ml": "500",
+          "logged_at": "2026-01-24T12:00:00"
+        },
+        {
+          "id": "2026-01-24",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-24",
+          "amount_ml": "750",
+          "logged_at": "2026-01-24T18:00:00"
+        },
+        {
+          "id": "2026-01-24",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-24",
+          "amount_ml": "750",
+          "logged_at": "2026-01-24T19:00:00"
+        },
+        {
+          "id": "2026-01-24",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-24",
+          "amount_ml": "250",
+          "logged_at": "2026-01-24T20:00:00"
+        },
+        {
+          "id": "2026-01-24",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-24",
+          "amount_ml": "250",
+          "logged_at": "2026-01-24T21:00:00"
+        },
+        {
+          "id": "2026-01-23",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-23",
+          "amount_ml": "750",
+          "logged_at": "2026-01-23T06:00:00"
+        },
+        {
+          "id": "2026-01-23",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-23",
+          "amount_ml": "250",
+          "logged_at": "2026-01-23T07:00:00"
+        },
+        {
+          "id": "2026-01-23",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-23",
+          "amount_ml": "750",
+          "logged_at": "2026-01-23T10:00:00"
+        },
+        {
+          "id": "2026-01-23",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-23",
+          "amount_ml": "250",
+          "logged_at": "2026-01-23T12:00:00"
+        },
+        {
+          "id": "2026-01-23",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-23",
+          "amount_ml": "250",
+          "logged_at": "2026-01-23T16:00:00"
+        },
+        {
+          "id": "2026-01-23",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-23",
+          "amount_ml": "250",
+          "logged_at": "2026-01-23T18:00:00"
+        },
+        {
+          "id": "2026-01-23",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-23",
+          "amount_ml": "250",
+          "logged_at": "2026-01-23T21:00:00"
+        },
+        {
+          "id": "2026-01-22",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-22",
+          "amount_ml": "750",
+          "logged_at": "2026-01-22T07:00:00"
+        },
+        {
+          "id": "2026-01-22",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-22",
+          "amount_ml": "250",
+          "logged_at": "2026-01-22T08:00:00"
+        },
+        {
+          "id": "2026-01-22",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-22",
+          "amount_ml": "500",
+          "logged_at": "2026-01-22T09:00:00"
+        },
+        {
+          "id": "2026-01-22",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-22",
+          "amount_ml": "750",
+          "logged_at": "2026-01-22T12:00:00"
+        },
+        {
+          "id": "2026-01-22",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-22",
+          "amount_ml": "750",
+          "logged_at": "2026-01-22T13:00:00"
+        },
+        {
+          "id": "2026-01-22",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-22",
+          "amount_ml": "250",
+          "logged_at": "2026-01-22T14:00:00"
+        },
+        {
+          "id": "2026-01-22",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-22",
+          "amount_ml": "500",
+          "logged_at": "2026-01-22T15:00:00"
+        },
+        {
+          "id": "2026-01-22",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-22",
+          "amount_ml": "250",
+          "logged_at": "2026-01-22T19:00:00"
+        },
+        {
+          "id": "2026-01-21",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-21",
+          "amount_ml": "500",
+          "logged_at": "2026-01-21T06:00:00"
+        },
+        {
+          "id": "2026-01-21",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-21",
+          "amount_ml": "500",
+          "logged_at": "2026-01-21T07:00:00"
+        },
+        {
+          "id": "2026-01-21",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-21",
+          "amount_ml": "500",
+          "logged_at": "2026-01-21T08:00:00"
+        },
+        {
+          "id": "2026-01-21",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-21",
+          "amount_ml": "750",
+          "logged_at": "2026-01-21T09:00:00"
+        },
+        {
+          "id": "2026-01-21",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-21",
+          "amount_ml": "500",
+          "logged_at": "2026-01-21T10:00:00"
+        },
+        {
+          "id": "2026-01-21",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-21",
+          "amount_ml": "500",
+          "logged_at": "2026-01-21T14:00:00"
+        },
+        {
+          "id": "2026-01-21",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-21",
+          "amount_ml": "750",
+          "logged_at": "2026-01-21T16:00:00"
+        },
+        {
+          "id": "2026-01-21",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-21",
+          "amount_ml": "250",
+          "logged_at": "2026-01-21T18:00:00"
+        },
+        {
+          "id": "2026-01-20",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-20",
+          "amount_ml": "500",
+          "logged_at": "2026-01-20T08:00:00"
+        },
+        {
+          "id": "2026-01-20",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-20",
+          "amount_ml": "750",
+          "logged_at": "2026-01-20T09:00:00"
+        },
+        {
+          "id": "2026-01-20",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-20",
+          "amount_ml": "500",
+          "logged_at": "2026-01-20T16:00:00"
+        },
+        {
+          "id": "2026-01-20",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-20",
+          "amount_ml": "500",
+          "logged_at": "2026-01-20T18:00:00"
+        },
+        {
+          "id": "2026-01-20",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-20",
+          "amount_ml": "500",
+          "logged_at": "2026-01-20T20:00:00"
+        },
+        {
+          "id": "2026-01-20",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-20",
+          "amount_ml": "250",
+          "logged_at": "2026-01-20T21:00:00"
+        },
+        {
+          "id": "2026-01-19",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-19",
+          "amount_ml": "500",
+          "logged_at": "2026-01-19T06:00:00"
+        },
+        {
+          "id": "2026-01-19",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-19",
+          "amount_ml": "250",
+          "logged_at": "2026-01-19T12:00:00"
+        },
+        {
+          "id": "2026-01-19",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-19",
+          "amount_ml": "500",
+          "logged_at": "2026-01-19T17:00:00"
+        },
+        {
+          "id": "2026-01-19",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-19",
+          "amount_ml": "750",
+          "logged_at": "2026-01-19T18:00:00"
+        },
+        {
+          "id": "2026-01-18",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-18",
+          "amount_ml": "750",
+          "logged_at": "2026-01-18T06:00:00"
+        },
+        {
+          "id": "2026-01-18",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-18",
+          "amount_ml": "500",
+          "logged_at": "2026-01-18T11:00:00"
+        },
+        {
+          "id": "2026-01-18",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-18",
+          "amount_ml": "500",
+          "logged_at": "2026-01-18T14:00:00"
+        },
+        {
+          "id": "2026-01-18",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-18",
+          "amount_ml": "250",
+          "logged_at": "2026-01-18T15:00:00"
+        },
+        {
+          "id": "2026-01-18",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-18",
+          "amount_ml": "500",
+          "logged_at": "2026-01-18T17:00:00"
+        },
+        {
+          "id": "2026-01-18",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-18",
+          "amount_ml": "250",
+          "logged_at": "2026-01-18T18:00:00"
+        },
+        {
+          "id": "2026-01-18",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-18",
+          "amount_ml": "250",
+          "logged_at": "2026-01-18T21:00:00"
+        },
+        {
+          "id": "2026-01-17",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-17",
+          "amount_ml": "500",
+          "logged_at": "2026-01-17T06:00:00"
+        },
+        {
+          "id": "2026-01-17",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-17",
+          "amount_ml": "500",
+          "logged_at": "2026-01-17T07:00:00"
+        },
+        {
+          "id": "2026-01-17",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-17",
+          "amount_ml": "500",
+          "logged_at": "2026-01-17T12:00:00"
+        },
+        {
+          "id": "2026-01-17",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-17",
+          "amount_ml": "500",
+          "logged_at": "2026-01-17T13:00:00"
+        },
+        {
+          "id": "2026-01-17",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-17",
+          "amount_ml": "750",
+          "logged_at": "2026-01-17T15:00:00"
+        },
+        {
+          "id": "2026-01-17",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-17",
+          "amount_ml": "500",
+          "logged_at": "2026-01-17T18:00:00"
+        },
+        {
+          "id": "2026-01-17",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-17",
+          "amount_ml": "250",
+          "logged_at": "2026-01-17T20:00:00"
+        },
+        {
+          "id": "2026-01-16",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-16",
+          "amount_ml": "500",
+          "logged_at": "2026-01-16T11:00:00"
+        },
+        {
+          "id": "2026-01-16",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-16",
+          "amount_ml": "500",
+          "logged_at": "2026-01-16T12:00:00"
+        },
+        {
+          "id": "2026-01-16",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-16",
+          "amount_ml": "250",
+          "logged_at": "2026-01-16T13:00:00"
+        },
+        {
+          "id": "2026-01-16",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-16",
+          "amount_ml": "250",
+          "logged_at": "2026-01-16T14:00:00"
+        },
+        {
+          "id": "2026-01-16",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-16",
+          "amount_ml": "500",
+          "logged_at": "2026-01-16T15:00:00"
+        },
+        {
+          "id": "2026-01-16",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-16",
+          "amount_ml": "500",
+          "logged_at": "2026-01-16T16:00:00"
+        },
+        {
+          "id": "2026-01-16",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-16",
+          "amount_ml": "250",
+          "logged_at": "2026-01-16T20:00:00"
+        },
+        {
+          "id": "2026-01-16",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-16",
+          "amount_ml": "250",
+          "logged_at": "2026-01-16T21:00:00"
+        },
+        {
+          "id": "2026-01-15",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-15",
+          "amount_ml": "500",
+          "logged_at": "2026-01-15T06:00:00"
+        },
+        {
+          "id": "2026-01-15",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-15",
+          "amount_ml": "250",
+          "logged_at": "2026-01-15T07:00:00"
+        },
+        {
+          "id": "2026-01-15",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-15",
+          "amount_ml": "500",
+          "logged_at": "2026-01-15T09:00:00"
+        },
+        {
+          "id": "2026-01-15",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-15",
+          "amount_ml": "500",
+          "logged_at": "2026-01-15T11:00:00"
+        },
+        {
+          "id": "2026-01-15",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-15",
+          "amount_ml": "750",
+          "logged_at": "2026-01-15T16:00:00"
+        },
+        {
+          "id": "2026-01-15",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-15",
+          "amount_ml": "250",
+          "logged_at": "2026-01-15T19:00:00"
+        },
+        {
+          "id": "2026-01-14",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-14",
+          "amount_ml": "500",
+          "logged_at": "2026-01-14T07:00:00"
+        },
+        {
+          "id": "2026-01-14",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-14",
+          "amount_ml": "750",
+          "logged_at": "2026-01-14T10:00:00"
+        },
+        {
+          "id": "2026-01-14",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-14",
+          "amount_ml": "250",
+          "logged_at": "2026-01-14T13:00:00"
+        },
+        {
+          "id": "2026-01-14",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-14",
+          "amount_ml": "500",
+          "logged_at": "2026-01-14T14:00:00"
+        },
+        {
+          "id": "2026-01-14",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-14",
+          "amount_ml": "250",
+          "logged_at": "2026-01-14T19:00:00"
+        },
+        {
+          "id": "2026-01-13",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-13",
+          "amount_ml": "500",
+          "logged_at": "2026-01-13T06:00:00"
+        },
+        {
+          "id": "2026-01-13",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-13",
+          "amount_ml": "500",
+          "logged_at": "2026-01-13T08:00:00"
+        },
+        {
+          "id": "2026-01-13",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-13",
+          "amount_ml": "250",
+          "logged_at": "2026-01-13T12:00:00"
+        },
+        {
+          "id": "2026-01-13",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-13",
+          "amount_ml": "500",
+          "logged_at": "2026-01-13T13:00:00"
+        },
+        {
+          "id": "2026-01-13",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-13",
+          "amount_ml": "250",
+          "logged_at": "2026-01-13T15:00:00"
+        },
+        {
+          "id": "2026-01-13",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-13",
+          "amount_ml": "500",
+          "logged_at": "2026-01-13T16:00:00"
+        },
+        {
+          "id": "2026-01-13",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-13",
+          "amount_ml": "250",
+          "logged_at": "2026-01-13T21:00:00"
+        },
+        {
+          "id": "2026-01-12",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-12",
+          "amount_ml": "500",
+          "logged_at": "2026-01-12T08:00:00"
+        },
+        {
+          "id": "2026-01-12",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-12",
+          "amount_ml": "750",
+          "logged_at": "2026-01-12T09:00:00"
+        },
+        {
+          "id": "2026-01-12",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-12",
+          "amount_ml": "500",
+          "logged_at": "2026-01-12T10:00:00"
+        },
+        {
+          "id": "2026-01-12",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-12",
+          "amount_ml": "750",
+          "logged_at": "2026-01-12T15:00:00"
+        },
+        {
+          "id": "2026-01-12",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-12",
+          "amount_ml": "250",
+          "logged_at": "2026-01-12T20:00:00"
+        },
+        {
+          "id": "2026-01-11",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-11",
+          "amount_ml": "500",
+          "logged_at": "2026-01-11T07:00:00"
+        },
+        {
+          "id": "2026-01-11",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-11",
+          "amount_ml": "500",
+          "logged_at": "2026-01-11T09:00:00"
+        },
+        {
+          "id": "2026-01-11",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-11",
+          "amount_ml": "250",
+          "logged_at": "2026-01-11T12:00:00"
+        },
+        {
+          "id": "2026-01-11",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-11",
+          "amount_ml": "500",
+          "logged_at": "2026-01-11T13:00:00"
+        },
+        {
+          "id": "2026-01-11",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-11",
+          "amount_ml": "750",
+          "logged_at": "2026-01-11T16:00:00"
+        },
+        {
+          "id": "2026-01-11",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-11",
+          "amount_ml": "500",
+          "logged_at": "2026-01-11T19:00:00"
+        },
+        {
+          "id": "2026-01-11",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-11",
+          "amount_ml": "500",
+          "logged_at": "2026-01-11T20:00:00"
+        },
+        {
+          "id": "2026-01-11",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-11",
+          "amount_ml": "250",
+          "logged_at": "2026-01-11T21:00:00"
+        },
+        {
+          "id": "2026-01-10",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-10",
+          "amount_ml": "500",
+          "logged_at": "2026-01-10T09:00:00"
+        },
+        {
+          "id": "2026-01-10",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-10",
+          "amount_ml": "500",
+          "logged_at": "2026-01-10T13:00:00"
+        },
+        {
+          "id": "2026-01-10",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-10",
+          "amount_ml": "500",
+          "logged_at": "2026-01-10T14:00:00"
+        },
+        {
+          "id": "2026-01-10",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-10",
+          "amount_ml": "750",
+          "logged_at": "2026-01-10T18:00:00"
+        },
+        {
+          "id": "2026-01-10",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-10",
+          "amount_ml": "500",
+          "logged_at": "2026-01-10T19:00:00"
+        },
+        {
+          "id": "2026-01-10",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-10",
+          "amount_ml": "250",
+          "logged_at": "2026-01-10T21:00:00"
+        },
+        {
+          "id": "2026-01-09",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-09",
+          "amount_ml": "250",
+          "logged_at": "2026-01-09T06:00:00"
+        },
+        {
+          "id": "2026-01-09",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-09",
+          "amount_ml": "500",
+          "logged_at": "2026-01-09T10:00:00"
+        },
+        {
+          "id": "2026-01-09",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-09",
+          "amount_ml": "500",
+          "logged_at": "2026-01-09T12:00:00"
+        },
+        {
+          "id": "2026-01-09",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-09",
+          "amount_ml": "500",
+          "logged_at": "2026-01-09T16:00:00"
+        },
+        {
+          "id": "2026-01-09",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-09",
+          "amount_ml": "250",
+          "logged_at": "2026-01-09T20:00:00"
+        },
+        {
+          "id": "2026-01-08",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-08",
+          "amount_ml": "500",
+          "logged_at": "2026-01-08T07:00:00"
+        },
+        {
+          "id": "2026-01-08",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-08",
+          "amount_ml": "250",
+          "logged_at": "2026-01-08T09:00:00"
+        },
+        {
+          "id": "2026-01-08",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-08",
+          "amount_ml": "250",
+          "logged_at": "2026-01-08T10:00:00"
+        },
+        {
+          "id": "2026-01-08",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-08",
+          "amount_ml": "750",
+          "logged_at": "2026-01-08T13:00:00"
+        },
+        {
+          "id": "2026-01-08",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-08",
+          "amount_ml": "500",
+          "logged_at": "2026-01-08T15:00:00"
+        },
+        {
+          "id": "2026-01-08",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-08",
+          "amount_ml": "500",
+          "logged_at": "2026-01-08T17:00:00"
+        },
+        {
+          "id": "2026-01-08",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-08",
+          "amount_ml": "500",
+          "logged_at": "2026-01-08T18:00:00"
+        },
+        {
+          "id": "2026-01-08",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-08",
+          "amount_ml": "250",
+          "logged_at": "2026-01-08T20:00:00"
+        },
+        {
+          "id": "2026-01-07",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-07",
+          "amount_ml": "500",
+          "logged_at": "2026-01-07T09:00:00"
+        },
+        {
+          "id": "2026-01-07",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-07",
+          "amount_ml": "500",
+          "logged_at": "2026-01-07T11:00:00"
+        },
+        {
+          "id": "2026-01-07",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-07",
+          "amount_ml": "500",
+          "logged_at": "2026-01-07T12:00:00"
+        },
+        {
+          "id": "2026-01-07",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-07",
+          "amount_ml": "500",
+          "logged_at": "2026-01-07T13:00:00"
+        },
+        {
+          "id": "2026-01-07",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-07",
+          "amount_ml": "500",
+          "logged_at": "2026-01-07T15:00:00"
+        },
+        {
+          "id": "2026-01-07",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-07",
+          "amount_ml": "500",
+          "logged_at": "2026-01-07T16:00:00"
+        },
+        {
+          "id": "2026-01-07",
+          "persona_id": "persona_027",
+          "log_date": "2026-01-07",
+          "amount_ml": "250",
+          "logged_at": "2026-01-07T18:00:00"
+        }
+      ]
+    }
+  ]
+}

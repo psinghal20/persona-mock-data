@@ -1,0 +1,2374 @@
+{
+  "persona_id": "persona_014",
+  "server_id": "garmin_health",
+  "server_name": "Garmin Health",
+  "summary": {
+    "total_items": 232,
+    "category_count": 9
+  },
+  "categories": [
+    {
+      "id": "daily_stats",
+      "name": "Daily Stats",
+      "item_count": 30,
+      "items": [
+        {
+          "id": "2026-02-02",
+          "date": "2026-02-02",
+          "steps": 10048,
+          "distance_meters": 8038,
+          "calories_total": 1782,
+          "calories_active": 502,
+          "floors_climbed": 9,
+          "intensity_minutes": 56
+        },
+        {
+          "id": "2026-02-01",
+          "date": "2026-02-01",
+          "steps": 9976,
+          "distance_meters": 7980,
+          "calories_total": 1778,
+          "calories_active": 498,
+          "floors_climbed": 3,
+          "intensity_minutes": 56
+        },
+        {
+          "id": "2026-01-31",
+          "date": "2026-01-31",
+          "steps": 11749,
+          "distance_meters": 9399,
+          "calories_total": 1867,
+          "calories_active": 587,
+          "floors_climbed": 9,
+          "intensity_minutes": 66
+        },
+        {
+          "id": "2026-01-30",
+          "date": "2026-01-30",
+          "steps": 11895,
+          "distance_meters": 9516,
+          "calories_total": 1874,
+          "calories_active": 594,
+          "floors_climbed": 4,
+          "intensity_minutes": 66
+        },
+        {
+          "id": "2026-01-29",
+          "date": "2026-01-29",
+          "steps": 4041,
+          "distance_meters": 3232,
+          "calories_total": 1482,
+          "calories_active": 202,
+          "floors_climbed": 11,
+          "intensity_minutes": 22
+        },
+        {
+          "id": "2026-01-28",
+          "date": "2026-01-28",
+          "steps": 9525,
+          "distance_meters": 7620,
+          "calories_total": 1756,
+          "calories_active": 476,
+          "floors_climbed": 19,
+          "intensity_minutes": 53
+        },
+        {
+          "id": "2026-01-27",
+          "date": "2026-01-27",
+          "steps": 6073,
+          "distance_meters": 4858,
+          "calories_total": 1583,
+          "calories_active": 303,
+          "floors_climbed": 20,
+          "intensity_minutes": 34
+        },
+        {
+          "id": "2026-01-26",
+          "date": "2026-01-26",
+          "steps": 10689,
+          "distance_meters": 8551,
+          "calories_total": 1814,
+          "calories_active": 534,
+          "floors_climbed": 17,
+          "intensity_minutes": 60
+        },
+        {
+          "id": "2026-01-25",
+          "date": "2026-01-25",
+          "steps": 11677,
+          "distance_meters": 9341,
+          "calories_total": 1863,
+          "calories_active": 583,
+          "floors_climbed": 3,
+          "intensity_minutes": 65
+        },
+        {
+          "id": "2026-01-24",
+          "date": "2026-01-24",
+          "steps": 11046,
+          "distance_meters": 8836,
+          "calories_total": 1832,
+          "calories_active": 552,
+          "floors_climbed": 9,
+          "intensity_minutes": 62
+        },
+        {
+          "id": "2026-01-23",
+          "date": "2026-01-23",
+          "steps": 8761,
+          "distance_meters": 7008,
+          "calories_total": 1718,
+          "calories_active": 438,
+          "floors_climbed": 15,
+          "intensity_minutes": 49
+        },
+        {
+          "id": "2026-01-22",
+          "date": "2026-01-22",
+          "steps": 11329,
+          "distance_meters": 9063,
+          "calories_total": 1846,
+          "calories_active": 566,
+          "floors_climbed": 17,
+          "intensity_minutes": 63
+        },
+        {
+          "id": "2026-01-21",
+          "date": "2026-01-21",
+          "steps": 7467,
+          "distance_meters": 5973,
+          "calories_total": 1653,
+          "calories_active": 373,
+          "floors_climbed": 14,
+          "intensity_minutes": 42
+        },
+        {
+          "id": "2026-01-20",
+          "date": "2026-01-20",
+          "steps": 7929,
+          "distance_meters": 6343,
+          "calories_total": 1676,
+          "calories_active": 396,
+          "floors_climbed": 11,
+          "intensity_minutes": 44
+        },
+        {
+          "id": "2026-01-19",
+          "date": "2026-01-19",
+          "steps": 10124,
+          "distance_meters": 8099,
+          "calories_total": 1786,
+          "calories_active": 506,
+          "floors_climbed": 9,
+          "intensity_minutes": 56
+        },
+        {
+          "id": "2026-01-18",
+          "date": "2026-01-18",
+          "steps": 8659,
+          "distance_meters": 6927,
+          "calories_total": 1712,
+          "calories_active": 432,
+          "floors_climbed": 18,
+          "intensity_minutes": 48
+        },
+        {
+          "id": "2026-01-17",
+          "date": "2026-01-17",
+          "steps": 8615,
+          "distance_meters": 6892,
+          "calories_total": 1710,
+          "calories_active": 430,
+          "floors_climbed": 14,
+          "intensity_minutes": 48
+        },
+        {
+          "id": "2026-01-16",
+          "date": "2026-01-16",
+          "steps": 7508,
+          "distance_meters": 6006,
+          "calories_total": 1655,
+          "calories_active": 375,
+          "floors_climbed": 20,
+          "intensity_minutes": 42
+        },
+        {
+          "id": "2026-01-15",
+          "date": "2026-01-15",
+          "steps": 10818,
+          "distance_meters": 8654,
+          "calories_total": 1820,
+          "calories_active": 540,
+          "floors_climbed": 18,
+          "intensity_minutes": 60
+        },
+        {
+          "id": "2026-01-14",
+          "date": "2026-01-14",
+          "steps": 5025,
+          "distance_meters": 4020,
+          "calories_total": 1531,
+          "calories_active": 251,
+          "floors_climbed": 7,
+          "intensity_minutes": 28
+        },
+        {
+          "id": "2026-01-13",
+          "date": "2026-01-13",
+          "steps": 7202,
+          "distance_meters": 5761,
+          "calories_total": 1640,
+          "calories_active": 360,
+          "floors_climbed": 19,
+          "intensity_minutes": 40
+        },
+        {
+          "id": "2026-01-12",
+          "date": "2026-01-12",
+          "steps": 7043,
+          "distance_meters": 5634,
+          "calories_total": 1632,
+          "calories_active": 352,
+          "floors_climbed": 15,
+          "intensity_minutes": 39
+        },
+        {
+          "id": "2026-01-11",
+          "date": "2026-01-11",
+          "steps": 7908,
+          "distance_meters": 6326,
+          "calories_total": 1675,
+          "calories_active": 395,
+          "floors_climbed": 7,
+          "intensity_minutes": 44
+        },
+        {
+          "id": "2026-01-10",
+          "date": "2026-01-10",
+          "steps": 6571,
+          "distance_meters": 5256,
+          "calories_total": 1608,
+          "calories_active": 328,
+          "floors_climbed": 10,
+          "intensity_minutes": 36
+        },
+        {
+          "id": "2026-01-09",
+          "date": "2026-01-09",
+          "steps": 9072,
+          "distance_meters": 7257,
+          "calories_total": 1733,
+          "calories_active": 453,
+          "floors_climbed": 20,
+          "intensity_minutes": 51
+        },
+        {
+          "id": "2026-01-08",
+          "date": "2026-01-08",
+          "steps": 11378,
+          "distance_meters": 9102,
+          "calories_total": 1848,
+          "calories_active": 568,
+          "floors_climbed": 5,
+          "intensity_minutes": 64
+        },
+        {
+          "id": "2026-01-07",
+          "date": "2026-01-07",
+          "steps": 5879,
+          "distance_meters": 4703,
+          "calories_total": 1573,
+          "calories_active": 293,
+          "floors_climbed": 6,
+          "intensity_minutes": 33
+        },
+        {
+          "id": "2026-01-06",
+          "date": "2026-01-06",
+          "steps": 10989,
+          "distance_meters": 8791,
+          "calories_total": 1829,
+          "calories_active": 549,
+          "floors_climbed": 12,
+          "intensity_minutes": 61
+        },
+        {
+          "id": "2026-01-05",
+          "date": "2026-01-05",
+          "steps": 9425,
+          "distance_meters": 7540,
+          "calories_total": 1751,
+          "calories_active": 471,
+          "floors_climbed": 18,
+          "intensity_minutes": 53
+        },
+        {
+          "id": "2026-01-04",
+          "date": "2026-01-04",
+          "steps": 11901,
+          "distance_meters": 9520,
+          "calories_total": 1875,
+          "calories_active": 595,
+          "floors_climbed": 9,
+          "intensity_minutes": 66
+        }
+      ]
+    },
+    {
+      "id": "sleep",
+      "name": "Sleep",
+      "item_count": 30,
+      "items": [
+        {
+          "id": "2026-02-02",
+          "date": "2026-02-02",
+          "duration_seconds": 0,
+          "duration_hours": 0.0,
+          "deep_seconds": 0,
+          "light_seconds": 0,
+          "rem_seconds": 0,
+          "awake_seconds": 0,
+          "sleep_score": 98
+        },
+        {
+          "id": "2026-02-01",
+          "date": "2026-02-01",
+          "duration_seconds": 0,
+          "duration_hours": 0.0,
+          "deep_seconds": 0,
+          "light_seconds": 0,
+          "rem_seconds": 0,
+          "awake_seconds": 0,
+          "sleep_score": 95
+        },
+        {
+          "id": "2026-01-31",
+          "date": "2026-01-31",
+          "duration_seconds": 0,
+          "duration_hours": 0.0,
+          "deep_seconds": 0,
+          "light_seconds": 0,
+          "rem_seconds": 0,
+          "awake_seconds": 0,
+          "sleep_score": 100
+        },
+        {
+          "id": "2026-01-30",
+          "date": "2026-01-30",
+          "duration_seconds": 0,
+          "duration_hours": 0.0,
+          "deep_seconds": 0,
+          "light_seconds": 0,
+          "rem_seconds": 0,
+          "awake_seconds": 0,
+          "sleep_score": 95
+        },
+        {
+          "id": "2026-01-29",
+          "date": "2026-01-29",
+          "duration_seconds": 0,
+          "duration_hours": 0.0,
+          "deep_seconds": 0,
+          "light_seconds": 0,
+          "rem_seconds": 0,
+          "awake_seconds": 0,
+          "sleep_score": 90
+        },
+        {
+          "id": "2026-01-28",
+          "date": "2026-01-28",
+          "duration_seconds": 0,
+          "duration_hours": 0.0,
+          "deep_seconds": 0,
+          "light_seconds": 0,
+          "rem_seconds": 0,
+          "awake_seconds": 0,
+          "sleep_score": 93
+        },
+        {
+          "id": "2026-01-27",
+          "date": "2026-01-27",
+          "duration_seconds": 0,
+          "duration_hours": 0.0,
+          "deep_seconds": 0,
+          "light_seconds": 0,
+          "rem_seconds": 0,
+          "awake_seconds": 0,
+          "sleep_score": 91
+        },
+        {
+          "id": "2026-01-26",
+          "date": "2026-01-26",
+          "duration_seconds": 0,
+          "duration_hours": 0.0,
+          "deep_seconds": 0,
+          "light_seconds": 0,
+          "rem_seconds": 0,
+          "awake_seconds": 0,
+          "sleep_score": 93
+        },
+        {
+          "id": "2026-01-25",
+          "date": "2026-01-25",
+          "duration_seconds": 0,
+          "duration_hours": 0.0,
+          "deep_seconds": 0,
+          "light_seconds": 0,
+          "rem_seconds": 0,
+          "awake_seconds": 0,
+          "sleep_score": 85
+        },
+        {
+          "id": "2026-01-24",
+          "date": "2026-01-24",
+          "duration_seconds": 0,
+          "duration_hours": 0.0,
+          "deep_seconds": 0,
+          "light_seconds": 0,
+          "rem_seconds": 0,
+          "awake_seconds": 0,
+          "sleep_score": 96
+        },
+        {
+          "id": "2026-01-23",
+          "date": "2026-01-23",
+          "duration_seconds": 0,
+          "duration_hours": 0.0,
+          "deep_seconds": 0,
+          "light_seconds": 0,
+          "rem_seconds": 0,
+          "awake_seconds": 0,
+          "sleep_score": 91
+        },
+        {
+          "id": "2026-01-22",
+          "date": "2026-01-22",
+          "duration_seconds": 0,
+          "duration_hours": 0.0,
+          "deep_seconds": 0,
+          "light_seconds": 0,
+          "rem_seconds": 0,
+          "awake_seconds": 0,
+          "sleep_score": 91
+        },
+        {
+          "id": "2026-01-21",
+          "date": "2026-01-21",
+          "duration_seconds": 0,
+          "duration_hours": 0.0,
+          "deep_seconds": 0,
+          "light_seconds": 0,
+          "rem_seconds": 0,
+          "awake_seconds": 0,
+          "sleep_score": 91
+        },
+        {
+          "id": "2026-01-20",
+          "date": "2026-01-20",
+          "duration_seconds": 0,
+          "duration_hours": 0.0,
+          "deep_seconds": 0,
+          "light_seconds": 0,
+          "rem_seconds": 0,
+          "awake_seconds": 0,
+          "sleep_score": 94
+        },
+        {
+          "id": "2026-01-19",
+          "date": "2026-01-19",
+          "duration_seconds": 0,
+          "duration_hours": 0.0,
+          "deep_seconds": 0,
+          "light_seconds": 0,
+          "rem_seconds": 0,
+          "awake_seconds": 0,
+          "sleep_score": 94
+        },
+        {
+          "id": "2026-01-18",
+          "date": "2026-01-18",
+          "duration_seconds": 0,
+          "duration_hours": 0.0,
+          "deep_seconds": 0,
+          "light_seconds": 0,
+          "rem_seconds": 0,
+          "awake_seconds": 0,
+          "sleep_score": 95
+        },
+        {
+          "id": "2026-01-17",
+          "date": "2026-01-17",
+          "duration_seconds": 0,
+          "duration_hours": 0.0,
+          "deep_seconds": 0,
+          "light_seconds": 0,
+          "rem_seconds": 0,
+          "awake_seconds": 0,
+          "sleep_score": 97
+        },
+        {
+          "id": "2026-01-16",
+          "date": "2026-01-16",
+          "duration_seconds": 0,
+          "duration_hours": 0.0,
+          "deep_seconds": 0,
+          "light_seconds": 0,
+          "rem_seconds": 0,
+          "awake_seconds": 0,
+          "sleep_score": 84
+        },
+        {
+          "id": "2026-01-15",
+          "date": "2026-01-15",
+          "duration_seconds": 0,
+          "duration_hours": 0.0,
+          "deep_seconds": 0,
+          "light_seconds": 0,
+          "rem_seconds": 0,
+          "awake_seconds": 0,
+          "sleep_score": 92
+        },
+        {
+          "id": "2026-01-14",
+          "date": "2026-01-14",
+          "duration_seconds": 0,
+          "duration_hours": 0.0,
+          "deep_seconds": 0,
+          "light_seconds": 0,
+          "rem_seconds": 0,
+          "awake_seconds": 0,
+          "sleep_score": 86
+        },
+        {
+          "id": "2026-01-13",
+          "date": "2026-01-13",
+          "duration_seconds": 0,
+          "duration_hours": 0.0,
+          "deep_seconds": 0,
+          "light_seconds": 0,
+          "rem_seconds": 0,
+          "awake_seconds": 0,
+          "sleep_score": 94
+        },
+        {
+          "id": "2026-01-12",
+          "date": "2026-01-12",
+          "duration_seconds": 0,
+          "duration_hours": 0.0,
+          "deep_seconds": 0,
+          "light_seconds": 0,
+          "rem_seconds": 0,
+          "awake_seconds": 0,
+          "sleep_score": 95
+        },
+        {
+          "id": "2026-01-11",
+          "date": "2026-01-11",
+          "duration_seconds": 0,
+          "duration_hours": 0.0,
+          "deep_seconds": 0,
+          "light_seconds": 0,
+          "rem_seconds": 0,
+          "awake_seconds": 0,
+          "sleep_score": 94
+        },
+        {
+          "id": "2026-01-10",
+          "date": "2026-01-10",
+          "duration_seconds": 0,
+          "duration_hours": 0.0,
+          "deep_seconds": 0,
+          "light_seconds": 0,
+          "rem_seconds": 0,
+          "awake_seconds": 0,
+          "sleep_score": 99
+        },
+        {
+          "id": "2026-01-09",
+          "date": "2026-01-09",
+          "duration_seconds": 0,
+          "duration_hours": 0.0,
+          "deep_seconds": 0,
+          "light_seconds": 0,
+          "rem_seconds": 0,
+          "awake_seconds": 0,
+          "sleep_score": 94
+        },
+        {
+          "id": "2026-01-08",
+          "date": "2026-01-08",
+          "duration_seconds": 0,
+          "duration_hours": 0.0,
+          "deep_seconds": 0,
+          "light_seconds": 0,
+          "rem_seconds": 0,
+          "awake_seconds": 0,
+          "sleep_score": 100
+        },
+        {
+          "id": "2026-01-07",
+          "date": "2026-01-07",
+          "duration_seconds": 0,
+          "duration_hours": 0.0,
+          "deep_seconds": 0,
+          "light_seconds": 0,
+          "rem_seconds": 0,
+          "awake_seconds": 0,
+          "sleep_score": 85
+        },
+        {
+          "id": "2026-01-06",
+          "date": "2026-01-06",
+          "duration_seconds": 0,
+          "duration_hours": 0.0,
+          "deep_seconds": 0,
+          "light_seconds": 0,
+          "rem_seconds": 0,
+          "awake_seconds": 0,
+          "sleep_score": 92
+        },
+        {
+          "id": "2026-01-05",
+          "date": "2026-01-05",
+          "duration_seconds": 0,
+          "duration_hours": 0.0,
+          "deep_seconds": 0,
+          "light_seconds": 0,
+          "rem_seconds": 0,
+          "awake_seconds": 0,
+          "sleep_score": 92
+        },
+        {
+          "id": "2026-01-04",
+          "date": "2026-01-04",
+          "duration_seconds": 0,
+          "duration_hours": 0.0,
+          "deep_seconds": 0,
+          "light_seconds": 0,
+          "rem_seconds": 0,
+          "awake_seconds": 0,
+          "sleep_score": 93
+        }
+      ]
+    },
+    {
+      "id": "stress",
+      "name": "Stress",
+      "item_count": 30,
+      "items": [
+        {
+          "id": "2026-02-02",
+          "date": "2026-02-02",
+          "overall_score": 0,
+          "rest_stress": 0,
+          "low_stress": 0,
+          "medium_stress": 0,
+          "high_stress": 0
+        },
+        {
+          "id": "2026-02-01",
+          "date": "2026-02-01",
+          "overall_score": 0,
+          "rest_stress": 0,
+          "low_stress": 0,
+          "medium_stress": 0,
+          "high_stress": 0
+        },
+        {
+          "id": "2026-01-31",
+          "date": "2026-01-31",
+          "overall_score": 0,
+          "rest_stress": 0,
+          "low_stress": 0,
+          "medium_stress": 0,
+          "high_stress": 0
+        },
+        {
+          "id": "2026-01-30",
+          "date": "2026-01-30",
+          "overall_score": 0,
+          "rest_stress": 0,
+          "low_stress": 0,
+          "medium_stress": 0,
+          "high_stress": 0
+        },
+        {
+          "id": "2026-01-29",
+          "date": "2026-01-29",
+          "overall_score": 0,
+          "rest_stress": 0,
+          "low_stress": 0,
+          "medium_stress": 0,
+          "high_stress": 0
+        },
+        {
+          "id": "2026-01-28",
+          "date": "2026-01-28",
+          "overall_score": 0,
+          "rest_stress": 0,
+          "low_stress": 0,
+          "medium_stress": 0,
+          "high_stress": 0
+        },
+        {
+          "id": "2026-01-27",
+          "date": "2026-01-27",
+          "overall_score": 0,
+          "rest_stress": 0,
+          "low_stress": 0,
+          "medium_stress": 0,
+          "high_stress": 0
+        },
+        {
+          "id": "2026-01-26",
+          "date": "2026-01-26",
+          "overall_score": 0,
+          "rest_stress": 0,
+          "low_stress": 0,
+          "medium_stress": 0,
+          "high_stress": 0
+        },
+        {
+          "id": "2026-01-25",
+          "date": "2026-01-25",
+          "overall_score": 0,
+          "rest_stress": 0,
+          "low_stress": 0,
+          "medium_stress": 0,
+          "high_stress": 0
+        },
+        {
+          "id": "2026-01-24",
+          "date": "2026-01-24",
+          "overall_score": 0,
+          "rest_stress": 0,
+          "low_stress": 0,
+          "medium_stress": 0,
+          "high_stress": 0
+        },
+        {
+          "id": "2026-01-23",
+          "date": "2026-01-23",
+          "overall_score": 0,
+          "rest_stress": 0,
+          "low_stress": 0,
+          "medium_stress": 0,
+          "high_stress": 0
+        },
+        {
+          "id": "2026-01-22",
+          "date": "2026-01-22",
+          "overall_score": 0,
+          "rest_stress": 0,
+          "low_stress": 0,
+          "medium_stress": 0,
+          "high_stress": 0
+        },
+        {
+          "id": "2026-01-21",
+          "date": "2026-01-21",
+          "overall_score": 0,
+          "rest_stress": 0,
+          "low_stress": 0,
+          "medium_stress": 0,
+          "high_stress": 0
+        },
+        {
+          "id": "2026-01-20",
+          "date": "2026-01-20",
+          "overall_score": 0,
+          "rest_stress": 0,
+          "low_stress": 0,
+          "medium_stress": 0,
+          "high_stress": 0
+        },
+        {
+          "id": "2026-01-19",
+          "date": "2026-01-19",
+          "overall_score": 0,
+          "rest_stress": 0,
+          "low_stress": 0,
+          "medium_stress": 0,
+          "high_stress": 0
+        },
+        {
+          "id": "2026-01-18",
+          "date": "2026-01-18",
+          "overall_score": 0,
+          "rest_stress": 0,
+          "low_stress": 0,
+          "medium_stress": 0,
+          "high_stress": 0
+        },
+        {
+          "id": "2026-01-17",
+          "date": "2026-01-17",
+          "overall_score": 0,
+          "rest_stress": 0,
+          "low_stress": 0,
+          "medium_stress": 0,
+          "high_stress": 0
+        },
+        {
+          "id": "2026-01-16",
+          "date": "2026-01-16",
+          "overall_score": 0,
+          "rest_stress": 0,
+          "low_stress": 0,
+          "medium_stress": 0,
+          "high_stress": 0
+        },
+        {
+          "id": "2026-01-15",
+          "date": "2026-01-15",
+          "overall_score": 0,
+          "rest_stress": 0,
+          "low_stress": 0,
+          "medium_stress": 0,
+          "high_stress": 0
+        },
+        {
+          "id": "2026-01-14",
+          "date": "2026-01-14",
+          "overall_score": 0,
+          "rest_stress": 0,
+          "low_stress": 0,
+          "medium_stress": 0,
+          "high_stress": 0
+        },
+        {
+          "id": "2026-01-13",
+          "date": "2026-01-13",
+          "overall_score": 0,
+          "rest_stress": 0,
+          "low_stress": 0,
+          "medium_stress": 0,
+          "high_stress": 0
+        },
+        {
+          "id": "2026-01-12",
+          "date": "2026-01-12",
+          "overall_score": 0,
+          "rest_stress": 0,
+          "low_stress": 0,
+          "medium_stress": 0,
+          "high_stress": 0
+        },
+        {
+          "id": "2026-01-11",
+          "date": "2026-01-11",
+          "overall_score": 0,
+          "rest_stress": 0,
+          "low_stress": 0,
+          "medium_stress": 0,
+          "high_stress": 0
+        },
+        {
+          "id": "2026-01-10",
+          "date": "2026-01-10",
+          "overall_score": 0,
+          "rest_stress": 0,
+          "low_stress": 0,
+          "medium_stress": 0,
+          "high_stress": 0
+        },
+        {
+          "id": "2026-01-09",
+          "date": "2026-01-09",
+          "overall_score": 0,
+          "rest_stress": 0,
+          "low_stress": 0,
+          "medium_stress": 0,
+          "high_stress": 0
+        },
+        {
+          "id": "2026-01-08",
+          "date": "2026-01-08",
+          "overall_score": 0,
+          "rest_stress": 0,
+          "low_stress": 0,
+          "medium_stress": 0,
+          "high_stress": 0
+        },
+        {
+          "id": "2026-01-07",
+          "date": "2026-01-07",
+          "overall_score": 0,
+          "rest_stress": 0,
+          "low_stress": 0,
+          "medium_stress": 0,
+          "high_stress": 0
+        },
+        {
+          "id": "2026-01-06",
+          "date": "2026-01-06",
+          "overall_score": 0,
+          "rest_stress": 0,
+          "low_stress": 0,
+          "medium_stress": 0,
+          "high_stress": 0
+        },
+        {
+          "id": "2026-01-05",
+          "date": "2026-01-05",
+          "overall_score": 0,
+          "rest_stress": 0,
+          "low_stress": 0,
+          "medium_stress": 0,
+          "high_stress": 0
+        },
+        {
+          "id": "2026-01-04",
+          "date": "2026-01-04",
+          "overall_score": 0,
+          "rest_stress": 0,
+          "low_stress": 0,
+          "medium_stress": 0,
+          "high_stress": 0
+        }
+      ]
+    },
+    {
+      "id": "body_battery",
+      "name": "Body Battery",
+      "item_count": 30,
+      "items": [
+        {
+          "id": "2026-02-02",
+          "date": "2026-02-02",
+          "high": 0,
+          "low": 0,
+          "charged": 49,
+          "drained": 50
+        },
+        {
+          "id": "2026-02-01",
+          "date": "2026-02-01",
+          "high": 0,
+          "low": 0,
+          "charged": 58,
+          "drained": 63
+        },
+        {
+          "id": "2026-01-31",
+          "date": "2026-01-31",
+          "high": 0,
+          "low": 0,
+          "charged": 55,
+          "drained": 59
+        },
+        {
+          "id": "2026-01-30",
+          "date": "2026-01-30",
+          "high": 0,
+          "low": 0,
+          "charged": 66,
+          "drained": 60
+        },
+        {
+          "id": "2026-01-29",
+          "date": "2026-01-29",
+          "high": 0,
+          "low": 0,
+          "charged": 71,
+          "drained": 73
+        },
+        {
+          "id": "2026-01-28",
+          "date": "2026-01-28",
+          "high": 0,
+          "low": 0,
+          "charged": 67,
+          "drained": 75
+        },
+        {
+          "id": "2026-01-27",
+          "date": "2026-01-27",
+          "high": 0,
+          "low": 0,
+          "charged": 56,
+          "drained": 63
+        },
+        {
+          "id": "2026-01-26",
+          "date": "2026-01-26",
+          "high": 0,
+          "low": 0,
+          "charged": 57,
+          "drained": 58
+        },
+        {
+          "id": "2026-01-25",
+          "date": "2026-01-25",
+          "high": 0,
+          "low": 0,
+          "charged": 76,
+          "drained": 47
+        },
+        {
+          "id": "2026-01-24",
+          "date": "2026-01-24",
+          "high": 0,
+          "low": 0,
+          "charged": 65,
+          "drained": 53
+        },
+        {
+          "id": "2026-01-23",
+          "date": "2026-01-23",
+          "high": 0,
+          "low": 0,
+          "charged": 41,
+          "drained": 59
+        },
+        {
+          "id": "2026-01-22",
+          "date": "2026-01-22",
+          "high": 0,
+          "low": 0,
+          "charged": 70,
+          "drained": 74
+        },
+        {
+          "id": "2026-01-21",
+          "date": "2026-01-21",
+          "high": 0,
+          "low": 0,
+          "charged": 54,
+          "drained": 51
+        },
+        {
+          "id": "2026-01-20",
+          "date": "2026-01-20",
+          "high": 0,
+          "low": 0,
+          "charged": 61,
+          "drained": 52
+        },
+        {
+          "id": "2026-01-19",
+          "date": "2026-01-19",
+          "high": 0,
+          "low": 0,
+          "charged": 48,
+          "drained": 61
+        },
+        {
+          "id": "2026-01-18",
+          "date": "2026-01-18",
+          "high": 0,
+          "low": 0,
+          "charged": 58,
+          "drained": 73
+        },
+        {
+          "id": "2026-01-17",
+          "date": "2026-01-17",
+          "high": 0,
+          "low": 0,
+          "charged": 76,
+          "drained": 54
+        },
+        {
+          "id": "2026-01-16",
+          "date": "2026-01-16",
+          "high": 0,
+          "low": 0,
+          "charged": 63,
+          "drained": 47
+        },
+        {
+          "id": "2026-01-15",
+          "date": "2026-01-15",
+          "high": 0,
+          "low": 0,
+          "charged": 43,
+          "drained": 61
+        },
+        {
+          "id": "2026-01-14",
+          "date": "2026-01-14",
+          "high": 0,
+          "low": 0,
+          "charged": 52,
+          "drained": 63
+        },
+        {
+          "id": "2026-01-13",
+          "date": "2026-01-13",
+          "high": 0,
+          "low": 0,
+          "charged": 63,
+          "drained": 52
+        },
+        {
+          "id": "2026-01-12",
+          "date": "2026-01-12",
+          "high": 0,
+          "low": 0,
+          "charged": 64,
+          "drained": 54
+        },
+        {
+          "id": "2026-01-11",
+          "date": "2026-01-11",
+          "high": 0,
+          "low": 0,
+          "charged": 58,
+          "drained": 72
+        },
+        {
+          "id": "2026-01-10",
+          "date": "2026-01-10",
+          "high": 0,
+          "low": 0,
+          "charged": 70,
+          "drained": 52
+        },
+        {
+          "id": "2026-01-09",
+          "date": "2026-01-09",
+          "high": 0,
+          "low": 0,
+          "charged": 60,
+          "drained": 45
+        },
+        {
+          "id": "2026-01-08",
+          "date": "2026-01-08",
+          "high": 0,
+          "low": 0,
+          "charged": 72,
+          "drained": 56
+        },
+        {
+          "id": "2026-01-07",
+          "date": "2026-01-07",
+          "high": 0,
+          "low": 0,
+          "charged": 60,
+          "drained": 72
+        },
+        {
+          "id": "2026-01-06",
+          "date": "2026-01-06",
+          "high": 0,
+          "low": 0,
+          "charged": 77,
+          "drained": 66
+        },
+        {
+          "id": "2026-01-05",
+          "date": "2026-01-05",
+          "high": 0,
+          "low": 0,
+          "charged": 55,
+          "drained": 58
+        },
+        {
+          "id": "2026-01-04",
+          "date": "2026-01-04",
+          "high": 0,
+          "low": 0,
+          "charged": 42,
+          "drained": 66
+        }
+      ]
+    },
+    {
+      "id": "activities",
+      "name": "Activities",
+      "item_count": 12,
+      "items": [
+        {
+          "id": "",
+          "user_id": "persona_014",
+          "activity_id": "ACT-P014-001",
+          "activity_type": "yoga",
+          "activity_name": "Vinyasa Flow",
+          "start_time": "2026-01-09T18:05:00",
+          "duration_seconds": "1968",
+          "distance_meters": "0",
+          "calories": "127",
+          "avg_hr": "152",
+          "max_hr": "180",
+          "avg_pace_seconds_per_km": "0",
+          "elevation_gain_meters": "0",
+          "steps": "1610",
+          "avg_cadence": "0",
+          "training_effect_aerobic": "1.9",
+          "training_effect_anaerobic": "0.4",
+          "vo2_max": "0"
+        },
+        {
+          "id": "",
+          "user_id": "persona_014",
+          "activity_id": "ACT-P014-002",
+          "activity_type": "walking",
+          "activity_name": "Lunch Walk",
+          "start_time": "2026-01-12T18:21:00",
+          "duration_seconds": "3322",
+          "distance_meters": "4394",
+          "calories": "267",
+          "avg_hr": "130",
+          "max_hr": "160",
+          "avg_pace_seconds_per_km": "756",
+          "elevation_gain_meters": "0",
+          "steps": "5272",
+          "avg_cadence": "0",
+          "training_effect_aerobic": "3.0",
+          "training_effect_anaerobic": "1.1",
+          "vo2_max": "0"
+        },
+        {
+          "id": "",
+          "user_id": "persona_014",
+          "activity_id": "ACT-P014-003",
+          "activity_type": "pilates",
+          "activity_name": "Mat Pilates",
+          "start_time": "2026-01-13T06:13:00",
+          "duration_seconds": "3394",
+          "distance_meters": "0",
+          "calories": "339",
+          "avg_hr": "152",
+          "max_hr": "170",
+          "avg_pace_seconds_per_km": "0",
+          "elevation_gain_meters": "0",
+          "steps": "2031",
+          "avg_cadence": "0",
+          "training_effect_aerobic": "1.7",
+          "training_effect_anaerobic": "3.3",
+          "vo2_max": "0"
+        },
+        {
+          "id": "",
+          "user_id": "persona_014",
+          "activity_id": "ACT-P014-004",
+          "activity_type": "yoga",
+          "activity_name": "Evening Yoga",
+          "start_time": "2026-01-15T18:24:00",
+          "duration_seconds": "2267",
+          "distance_meters": "0",
+          "calories": "145",
+          "avg_hr": "147",
+          "max_hr": "172",
+          "avg_pace_seconds_per_km": "0",
+          "elevation_gain_meters": "0",
+          "steps": "361",
+          "avg_cadence": "0",
+          "training_effect_aerobic": "3.7",
+          "training_effect_anaerobic": "2.5",
+          "vo2_max": "0"
+        },
+        {
+          "id": "",
+          "user_id": "persona_014",
+          "activity_id": "ACT-P014-005",
+          "activity_type": "yoga",
+          "activity_name": "Power Yoga",
+          "start_time": "2026-01-18T17:14:00",
+          "duration_seconds": "2159",
+          "distance_meters": "0",
+          "calories": "158",
+          "avg_hr": "148",
+          "max_hr": "166",
+          "avg_pace_seconds_per_km": "0",
+          "elevation_gain_meters": "0",
+          "steps": "473",
+          "avg_cadence": "0",
+          "training_effect_aerobic": "4.1",
+          "training_effect_anaerobic": "2.4",
+          "vo2_max": "0"
+        },
+        {
+          "id": "",
+          "user_id": "persona_014",
+          "activity_id": "ACT-P014-006",
+          "activity_type": "dancing",
+          "activity_name": "Dance Practice",
+          "start_time": "2026-01-20T06:11:00",
+          "duration_seconds": "2153",
+          "distance_meters": "0",
+          "calories": "298",
+          "avg_hr": "131",
+          "max_hr": "151",
+          "avg_pace_seconds_per_km": "0",
+          "elevation_gain_meters": "0",
+          "steps": "2749",
+          "avg_cadence": "0",
+          "training_effect_aerobic": "2.9",
+          "training_effect_anaerobic": "0.5",
+          "vo2_max": "0"
+        },
+        {
+          "id": "",
+          "user_id": "persona_014",
+          "activity_id": "ACT-P014-007",
+          "activity_type": "pilates",
+          "activity_name": "Core Pilates",
+          "start_time": "2026-01-21T07:16:00",
+          "duration_seconds": "2514",
+          "distance_meters": "0",
+          "calories": "189",
+          "avg_hr": "130",
+          "max_hr": "151",
+          "avg_pace_seconds_per_km": "0",
+          "elevation_gain_meters": "0",
+          "steps": "1206",
+          "avg_cadence": "0",
+          "training_effect_aerobic": "4.1",
+          "training_effect_anaerobic": "0.4",
+          "vo2_max": "0"
+        },
+        {
+          "id": "",
+          "user_id": "persona_014",
+          "activity_id": "ACT-P014-008",
+          "activity_type": "pilates",
+          "activity_name": "Reformer Pilates",
+          "start_time": "2026-01-24T12:12:00",
+          "duration_seconds": "3462",
+          "distance_meters": "0",
+          "calories": "284",
+          "avg_hr": "129",
+          "max_hr": "164",
+          "avg_pace_seconds_per_km": "0",
+          "elevation_gain_meters": "0",
+          "steps": "61",
+          "avg_cadence": "0",
+          "training_effect_aerobic": "3.2",
+          "training_effect_anaerobic": "0.8",
+          "vo2_max": "0"
+        },
+        {
+          "id": "",
+          "user_id": "persona_014",
+          "activity_id": "ACT-P014-009",
+          "activity_type": "dancing",
+          "activity_name": "Zumba",
+          "start_time": "2026-01-30T19:18:00",
+          "duration_seconds": "2415",
+          "distance_meters": "0",
+          "calories": "261",
+          "avg_hr": "143",
+          "max_hr": "159",
+          "avg_pace_seconds_per_km": "0",
+          "elevation_gain_meters": "0",
+          "steps": "3000",
+          "avg_cadence": "0",
+          "training_effect_aerobic": "3.4",
+          "training_effect_anaerobic": "0.3",
+          "vo2_max": "0"
+        },
+        {
+          "id": "",
+          "user_id": "persona_014",
+          "activity_id": "ACT-P014-010",
+          "activity_type": "walking",
+          "activity_name": "Evening Stroll",
+          "start_time": "2026-01-31T06:06:00",
+          "duration_seconds": "3544",
+          "distance_meters": "5581",
+          "calories": "298",
+          "avg_hr": "141",
+          "max_hr": "174",
+          "avg_pace_seconds_per_km": "635",
+          "elevation_gain_meters": "0",
+          "steps": "6697",
+          "avg_cadence": "0",
+          "training_effect_aerobic": "3.7",
+          "training_effect_anaerobic": "1.6",
+          "vo2_max": "0"
+        },
+        {
+          "id": "",
+          "user_id": "persona_014",
+          "activity_id": "ACT-P014-011",
+          "activity_type": "walking",
+          "activity_name": "Evening Stroll",
+          "start_time": "2026-02-01T18:18:00",
+          "duration_seconds": "2034",
+          "distance_meters": "3435",
+          "calories": "169",
+          "avg_hr": "146",
+          "max_hr": "177",
+          "avg_pace_seconds_per_km": "592",
+          "elevation_gain_meters": "0",
+          "steps": "4122",
+          "avg_cadence": "0",
+          "training_effect_aerobic": "2.2",
+          "training_effect_anaerobic": "2.6",
+          "vo2_max": "0"
+        },
+        {
+          "id": "",
+          "user_id": "persona_014",
+          "activity_id": "ACT-P014-012",
+          "activity_type": "yoga",
+          "activity_name": "Power Yoga",
+          "start_time": "2026-02-02T06:07:00",
+          "duration_seconds": "2269",
+          "distance_meters": "0",
+          "calories": "180",
+          "avg_hr": "154",
+          "max_hr": "180",
+          "avg_pace_seconds_per_km": "0",
+          "elevation_gain_meters": "0",
+          "steps": "408",
+          "avg_cadence": "0",
+          "training_effect_aerobic": "3.2",
+          "training_effect_anaerobic": "3.5",
+          "vo2_max": "0"
+        }
+      ]
+    },
+    {
+      "id": "heart_rate",
+      "name": "Heart Rate",
+      "item_count": 30,
+      "items": [
+        {
+          "id": "2026-01-04",
+          "user_id": "persona_014",
+          "date": "2026-01-04",
+          "resting_hr": "72",
+          "min_hr": "67",
+          "max_hr": "190",
+          "avg_hr": "90"
+        },
+        {
+          "id": "2026-01-05",
+          "user_id": "persona_014",
+          "date": "2026-01-05",
+          "resting_hr": "76",
+          "min_hr": "72",
+          "max_hr": "186",
+          "avg_hr": "90"
+        },
+        {
+          "id": "2026-01-06",
+          "user_id": "persona_014",
+          "date": "2026-01-06",
+          "resting_hr": "70",
+          "min_hr": "63",
+          "max_hr": "174",
+          "avg_hr": "87"
+        },
+        {
+          "id": "2026-01-07",
+          "user_id": "persona_014",
+          "date": "2026-01-07",
+          "resting_hr": "73",
+          "min_hr": "69",
+          "max_hr": "136",
+          "avg_hr": "90"
+        },
+        {
+          "id": "2026-01-08",
+          "user_id": "persona_014",
+          "date": "2026-01-08",
+          "resting_hr": "75",
+          "min_hr": "70",
+          "max_hr": "161",
+          "avg_hr": "85"
+        },
+        {
+          "id": "2026-01-09",
+          "user_id": "persona_014",
+          "date": "2026-01-09",
+          "resting_hr": "77",
+          "min_hr": "71",
+          "max_hr": "182",
+          "avg_hr": "95"
+        },
+        {
+          "id": "2026-01-10",
+          "user_id": "persona_014",
+          "date": "2026-01-10",
+          "resting_hr": "81",
+          "min_hr": "75",
+          "max_hr": "151",
+          "avg_hr": "98"
+        },
+        {
+          "id": "2026-01-11",
+          "user_id": "persona_014",
+          "date": "2026-01-11",
+          "resting_hr": "80",
+          "min_hr": "74",
+          "max_hr": "199",
+          "avg_hr": "99"
+        },
+        {
+          "id": "2026-01-12",
+          "user_id": "persona_014",
+          "date": "2026-01-12",
+          "resting_hr": "78",
+          "min_hr": "74",
+          "max_hr": "194",
+          "avg_hr": "96"
+        },
+        {
+          "id": "2026-01-13",
+          "user_id": "persona_014",
+          "date": "2026-01-13",
+          "resting_hr": "71",
+          "min_hr": "63",
+          "max_hr": "160",
+          "avg_hr": "84"
+        },
+        {
+          "id": "2026-01-14",
+          "user_id": "persona_014",
+          "date": "2026-01-14",
+          "resting_hr": "75",
+          "min_hr": "69",
+          "max_hr": "176",
+          "avg_hr": "85"
+        },
+        {
+          "id": "2026-01-15",
+          "user_id": "persona_014",
+          "date": "2026-01-15",
+          "resting_hr": "76",
+          "min_hr": "72",
+          "max_hr": "157",
+          "avg_hr": "92"
+        },
+        {
+          "id": "2026-01-16",
+          "user_id": "persona_014",
+          "date": "2026-01-16",
+          "resting_hr": "81",
+          "min_hr": "75",
+          "max_hr": "197",
+          "avg_hr": "93"
+        },
+        {
+          "id": "2026-01-17",
+          "user_id": "persona_014",
+          "date": "2026-01-17",
+          "resting_hr": "76",
+          "min_hr": "70",
+          "max_hr": "152",
+          "avg_hr": "95"
+        },
+        {
+          "id": "2026-01-18",
+          "user_id": "persona_014",
+          "date": "2026-01-18",
+          "resting_hr": "77",
+          "min_hr": "73",
+          "max_hr": "191",
+          "avg_hr": "90"
+        },
+        {
+          "id": "2026-01-19",
+          "user_id": "persona_014",
+          "date": "2026-01-19",
+          "resting_hr": "78",
+          "min_hr": "71",
+          "max_hr": "170",
+          "avg_hr": "94"
+        },
+        {
+          "id": "2026-01-20",
+          "user_id": "persona_014",
+          "date": "2026-01-20",
+          "resting_hr": "78",
+          "min_hr": "70",
+          "max_hr": "146",
+          "avg_hr": "89"
+        },
+        {
+          "id": "2026-01-21",
+          "user_id": "persona_014",
+          "date": "2026-01-21",
+          "resting_hr": "71",
+          "min_hr": "66",
+          "max_hr": "154",
+          "avg_hr": "90"
+        },
+        {
+          "id": "2026-01-22",
+          "user_id": "persona_014",
+          "date": "2026-01-22",
+          "resting_hr": "72",
+          "min_hr": "67",
+          "max_hr": "142",
+          "avg_hr": "92"
+        },
+        {
+          "id": "2026-01-23",
+          "user_id": "persona_014",
+          "date": "2026-01-23",
+          "resting_hr": "82",
+          "min_hr": "76",
+          "max_hr": "178",
+          "avg_hr": "99"
+        },
+        {
+          "id": "2026-01-24",
+          "user_id": "persona_014",
+          "date": "2026-01-24",
+          "resting_hr": "75",
+          "min_hr": "71",
+          "max_hr": "141",
+          "avg_hr": "86"
+        },
+        {
+          "id": "2026-01-25",
+          "user_id": "persona_014",
+          "date": "2026-01-25",
+          "resting_hr": "77",
+          "min_hr": "70",
+          "max_hr": "144",
+          "avg_hr": "90"
+        },
+        {
+          "id": "2026-01-26",
+          "user_id": "persona_014",
+          "date": "2026-01-26",
+          "resting_hr": "80",
+          "min_hr": "75",
+          "max_hr": "184",
+          "avg_hr": "93"
+        },
+        {
+          "id": "2026-01-27",
+          "user_id": "persona_014",
+          "date": "2026-01-27",
+          "resting_hr": "81",
+          "min_hr": "73",
+          "max_hr": "173",
+          "avg_hr": "94"
+        },
+        {
+          "id": "2026-01-28",
+          "user_id": "persona_014",
+          "date": "2026-01-28",
+          "resting_hr": "82",
+          "min_hr": "75",
+          "max_hr": "176",
+          "avg_hr": "97"
+        },
+        {
+          "id": "2026-01-29",
+          "user_id": "persona_014",
+          "date": "2026-01-29",
+          "resting_hr": "72",
+          "min_hr": "68",
+          "max_hr": "187",
+          "avg_hr": "89"
+        },
+        {
+          "id": "2026-01-30",
+          "user_id": "persona_014",
+          "date": "2026-01-30",
+          "resting_hr": "76",
+          "min_hr": "71",
+          "max_hr": "145",
+          "avg_hr": "91"
+        },
+        {
+          "id": "2026-01-31",
+          "user_id": "persona_014",
+          "date": "2026-01-31",
+          "resting_hr": "81",
+          "min_hr": "76",
+          "max_hr": "169",
+          "avg_hr": "99"
+        },
+        {
+          "id": "2026-02-01",
+          "user_id": "persona_014",
+          "date": "2026-02-01",
+          "resting_hr": "70",
+          "min_hr": "65",
+          "max_hr": "158",
+          "avg_hr": "85"
+        },
+        {
+          "id": "2026-02-02",
+          "user_id": "persona_014",
+          "date": "2026-02-02",
+          "resting_hr": "72",
+          "min_hr": "67",
+          "max_hr": "160",
+          "avg_hr": "90"
+        }
+      ]
+    },
+    {
+      "id": "hrv",
+      "name": "HRV",
+      "item_count": 30,
+      "items": [
+        {
+          "id": "2026-01-04",
+          "user_id": "persona_014",
+          "date": "2026-01-04",
+          "hrv_weekly_avg": "37.4",
+          "hrv_last_night": "26.3",
+          "hrv_status": "low",
+          "baseline_low": "28",
+          "baseline_high": "52"
+        },
+        {
+          "id": "2026-01-05",
+          "user_id": "persona_014",
+          "date": "2026-01-05",
+          "hrv_weekly_avg": "40.0",
+          "hrv_last_night": "37.5",
+          "hrv_status": "balanced",
+          "baseline_low": "28",
+          "baseline_high": "52"
+        },
+        {
+          "id": "2026-01-06",
+          "user_id": "persona_014",
+          "date": "2026-01-06",
+          "hrv_weekly_avg": "38.2",
+          "hrv_last_night": "32.6",
+          "hrv_status": "balanced",
+          "baseline_low": "28",
+          "baseline_high": "52"
+        },
+        {
+          "id": "2026-01-07",
+          "user_id": "persona_014",
+          "date": "2026-01-07",
+          "hrv_weekly_avg": "36.9",
+          "hrv_last_night": "31.9",
+          "hrv_status": "balanced",
+          "baseline_low": "28",
+          "baseline_high": "52"
+        },
+        {
+          "id": "2026-01-08",
+          "user_id": "persona_014",
+          "date": "2026-01-08",
+          "hrv_weekly_avg": "38.7",
+          "hrv_last_night": "52.6",
+          "hrv_status": "high",
+          "baseline_low": "28",
+          "baseline_high": "52"
+        },
+        {
+          "id": "2026-01-09",
+          "user_id": "persona_014",
+          "date": "2026-01-09",
+          "hrv_weekly_avg": "37.2",
+          "hrv_last_night": "34.1",
+          "hrv_status": "balanced",
+          "baseline_low": "28",
+          "baseline_high": "52"
+        },
+        {
+          "id": "2026-01-10",
+          "user_id": "persona_014",
+          "date": "2026-01-10",
+          "hrv_weekly_avg": "36.9",
+          "hrv_last_night": "42.3",
+          "hrv_status": "balanced",
+          "baseline_low": "28",
+          "baseline_high": "52"
+        },
+        {
+          "id": "2026-01-11",
+          "user_id": "persona_014",
+          "date": "2026-01-11",
+          "hrv_weekly_avg": "38.1",
+          "hrv_last_night": "37.8",
+          "hrv_status": "balanced",
+          "baseline_low": "28",
+          "baseline_high": "52"
+        },
+        {
+          "id": "2026-01-12",
+          "user_id": "persona_014",
+          "date": "2026-01-12",
+          "hrv_weekly_avg": "36.5",
+          "hrv_last_night": "42.9",
+          "hrv_status": "balanced",
+          "baseline_low": "28",
+          "baseline_high": "52"
+        },
+        {
+          "id": "2026-01-13",
+          "user_id": "persona_014",
+          "date": "2026-01-13",
+          "hrv_weekly_avg": "37.4",
+          "hrv_last_night": "30.6",
+          "hrv_status": "balanced",
+          "baseline_low": "28",
+          "baseline_high": "52"
+        },
+        {
+          "id": "2026-01-14",
+          "user_id": "persona_014",
+          "date": "2026-01-14",
+          "hrv_weekly_avg": "37.6",
+          "hrv_last_night": "28.7",
+          "hrv_status": "balanced",
+          "baseline_low": "28",
+          "baseline_high": "52"
+        },
+        {
+          "id": "2026-01-15",
+          "user_id": "persona_014",
+          "date": "2026-01-15",
+          "hrv_weekly_avg": "39.9",
+          "hrv_last_night": "32.3",
+          "hrv_status": "balanced",
+          "baseline_low": "28",
+          "baseline_high": "52"
+        },
+        {
+          "id": "2026-01-16",
+          "user_id": "persona_014",
+          "date": "2026-01-16",
+          "hrv_weekly_avg": "36.3",
+          "hrv_last_night": "43.0",
+          "hrv_status": "balanced",
+          "baseline_low": "28",
+          "baseline_high": "52"
+        },
+        {
+          "id": "2026-01-17",
+          "user_id": "persona_014",
+          "date": "2026-01-17",
+          "hrv_weekly_avg": "37.5",
+          "hrv_last_night": "33.7",
+          "hrv_status": "balanced",
+          "baseline_low": "28",
+          "baseline_high": "52"
+        },
+        {
+          "id": "2026-01-18",
+          "user_id": "persona_014",
+          "date": "2026-01-18",
+          "hrv_weekly_avg": "37.6",
+          "hrv_last_night": "30.6",
+          "hrv_status": "balanced",
+          "baseline_low": "28",
+          "baseline_high": "52"
+        },
+        {
+          "id": "2026-01-19",
+          "user_id": "persona_014",
+          "date": "2026-01-19",
+          "hrv_weekly_avg": "37.7",
+          "hrv_last_night": "47.1",
+          "hrv_status": "balanced",
+          "baseline_low": "28",
+          "baseline_high": "52"
+        },
+        {
+          "id": "2026-01-20",
+          "user_id": "persona_014",
+          "date": "2026-01-20",
+          "hrv_weekly_avg": "36.5",
+          "hrv_last_night": "29.0",
+          "hrv_status": "balanced",
+          "baseline_low": "28",
+          "baseline_high": "52"
+        },
+        {
+          "id": "2026-01-21",
+          "user_id": "persona_014",
+          "date": "2026-01-21",
+          "hrv_weekly_avg": "36.5",
+          "hrv_last_night": "32.9",
+          "hrv_status": "balanced",
+          "baseline_low": "28",
+          "baseline_high": "52"
+        },
+        {
+          "id": "2026-01-22",
+          "user_id": "persona_014",
+          "date": "2026-01-22",
+          "hrv_weekly_avg": "39.4",
+          "hrv_last_night": "43.7",
+          "hrv_status": "balanced",
+          "baseline_low": "28",
+          "baseline_high": "52"
+        },
+        {
+          "id": "2026-01-23",
+          "user_id": "persona_014",
+          "date": "2026-01-23",
+          "hrv_weekly_avg": "39.1",
+          "hrv_last_night": "25.9",
+          "hrv_status": "low",
+          "baseline_low": "28",
+          "baseline_high": "52"
+        },
+        {
+          "id": "2026-01-24",
+          "user_id": "persona_014",
+          "date": "2026-01-24",
+          "hrv_weekly_avg": "39.1",
+          "hrv_last_night": "29.8",
+          "hrv_status": "balanced",
+          "baseline_low": "28",
+          "baseline_high": "52"
+        },
+        {
+          "id": "2026-01-25",
+          "user_id": "persona_014",
+          "date": "2026-01-25",
+          "hrv_weekly_avg": "38.5",
+          "hrv_last_night": "35.0",
+          "hrv_status": "balanced",
+          "baseline_low": "28",
+          "baseline_high": "52"
+        },
+        {
+          "id": "2026-01-26",
+          "user_id": "persona_014",
+          "date": "2026-01-26",
+          "hrv_weekly_avg": "37.3",
+          "hrv_last_night": "42.1",
+          "hrv_status": "balanced",
+          "baseline_low": "28",
+          "baseline_high": "52"
+        },
+        {
+          "id": "2026-01-27",
+          "user_id": "persona_014",
+          "date": "2026-01-27",
+          "hrv_weekly_avg": "39.6",
+          "hrv_last_night": "27.9",
+          "hrv_status": "low",
+          "baseline_low": "28",
+          "baseline_high": "52"
+        },
+        {
+          "id": "2026-01-28",
+          "user_id": "persona_014",
+          "date": "2026-01-28",
+          "hrv_weekly_avg": "38.3",
+          "hrv_last_night": "43.4",
+          "hrv_status": "balanced",
+          "baseline_low": "28",
+          "baseline_high": "52"
+        },
+        {
+          "id": "2026-01-29",
+          "user_id": "persona_014",
+          "date": "2026-01-29",
+          "hrv_weekly_avg": "36.3",
+          "hrv_last_night": "51.9",
+          "hrv_status": "balanced",
+          "baseline_low": "28",
+          "baseline_high": "52"
+        },
+        {
+          "id": "2026-01-30",
+          "user_id": "persona_014",
+          "date": "2026-01-30",
+          "hrv_weekly_avg": "38.8",
+          "hrv_last_night": "40.3",
+          "hrv_status": "balanced",
+          "baseline_low": "28",
+          "baseline_high": "52"
+        },
+        {
+          "id": "2026-01-31",
+          "user_id": "persona_014",
+          "date": "2026-01-31",
+          "hrv_weekly_avg": "39.7",
+          "hrv_last_night": "40.2",
+          "hrv_status": "balanced",
+          "baseline_low": "28",
+          "baseline_high": "52"
+        },
+        {
+          "id": "2026-02-01",
+          "user_id": "persona_014",
+          "date": "2026-02-01",
+          "hrv_weekly_avg": "38.0",
+          "hrv_last_night": "52.8",
+          "hrv_status": "high",
+          "baseline_low": "28",
+          "baseline_high": "52"
+        },
+        {
+          "id": "2026-02-02",
+          "user_id": "persona_014",
+          "date": "2026-02-02",
+          "hrv_weekly_avg": "37.4",
+          "hrv_last_night": "44.6",
+          "hrv_status": "balanced",
+          "baseline_low": "28",
+          "baseline_high": "52"
+        }
+      ]
+    },
+    {
+      "id": "spo2",
+      "name": "SpO2",
+      "item_count": 30,
+      "items": [
+        {
+          "id": "2026-01-04",
+          "user_id": "persona_014",
+          "date": "2026-01-04",
+          "avg_spo2": "96.1",
+          "min_spo2": "92",
+          "max_spo2": "97"
+        },
+        {
+          "id": "2026-01-05",
+          "user_id": "persona_014",
+          "date": "2026-01-05",
+          "avg_spo2": "94.6",
+          "min_spo2": "90",
+          "max_spo2": "96"
+        },
+        {
+          "id": "2026-01-06",
+          "user_id": "persona_014",
+          "date": "2026-01-06",
+          "avg_spo2": "94.5",
+          "min_spo2": "90",
+          "max_spo2": "95"
+        },
+        {
+          "id": "2026-01-07",
+          "user_id": "persona_014",
+          "date": "2026-01-07",
+          "avg_spo2": "96.1",
+          "min_spo2": "94",
+          "max_spo2": "99"
+        },
+        {
+          "id": "2026-01-08",
+          "user_id": "persona_014",
+          "date": "2026-01-08",
+          "avg_spo2": "96.2",
+          "min_spo2": "91",
+          "max_spo2": "97"
+        },
+        {
+          "id": "2026-01-09",
+          "user_id": "persona_014",
+          "date": "2026-01-09",
+          "avg_spo2": "95.8",
+          "min_spo2": "92",
+          "max_spo2": "98"
+        },
+        {
+          "id": "2026-01-10",
+          "user_id": "persona_014",
+          "date": "2026-01-10",
+          "avg_spo2": "95.9",
+          "min_spo2": "90",
+          "max_spo2": "97"
+        },
+        {
+          "id": "2026-01-11",
+          "user_id": "persona_014",
+          "date": "2026-01-11",
+          "avg_spo2": "97.2",
+          "min_spo2": "92",
+          "max_spo2": "99"
+        },
+        {
+          "id": "2026-01-12",
+          "user_id": "persona_014",
+          "date": "2026-01-12",
+          "avg_spo2": "97.3",
+          "min_spo2": "95",
+          "max_spo2": "100"
+        },
+        {
+          "id": "2026-01-13",
+          "user_id": "persona_014",
+          "date": "2026-01-13",
+          "avg_spo2": "97.1",
+          "min_spo2": "94",
+          "max_spo2": "100"
+        },
+        {
+          "id": "2026-01-14",
+          "user_id": "persona_014",
+          "date": "2026-01-14",
+          "avg_spo2": "95.1",
+          "min_spo2": "90",
+          "max_spo2": "98"
+        },
+        {
+          "id": "2026-01-15",
+          "user_id": "persona_014",
+          "date": "2026-01-15",
+          "avg_spo2": "94.5",
+          "min_spo2": "90",
+          "max_spo2": "95"
+        },
+        {
+          "id": "2026-01-16",
+          "user_id": "persona_014",
+          "date": "2026-01-16",
+          "avg_spo2": "94.8",
+          "min_spo2": "91",
+          "max_spo2": "96"
+        },
+        {
+          "id": "2026-01-17",
+          "user_id": "persona_014",
+          "date": "2026-01-17",
+          "avg_spo2": "95.7",
+          "min_spo2": "91",
+          "max_spo2": "98"
+        },
+        {
+          "id": "2026-01-18",
+          "user_id": "persona_014",
+          "date": "2026-01-18",
+          "avg_spo2": "96.8",
+          "min_spo2": "92",
+          "max_spo2": "98"
+        },
+        {
+          "id": "2026-01-19",
+          "user_id": "persona_014",
+          "date": "2026-01-19",
+          "avg_spo2": "97.1",
+          "min_spo2": "93",
+          "max_spo2": "100"
+        },
+        {
+          "id": "2026-01-20",
+          "user_id": "persona_014",
+          "date": "2026-01-20",
+          "avg_spo2": "97.3",
+          "min_spo2": "91",
+          "max_spo2": "99"
+        },
+        {
+          "id": "2026-01-21",
+          "user_id": "persona_014",
+          "date": "2026-01-21",
+          "avg_spo2": "94.9",
+          "min_spo2": "91",
+          "max_spo2": "95"
+        },
+        {
+          "id": "2026-01-22",
+          "user_id": "persona_014",
+          "date": "2026-01-22",
+          "avg_spo2": "95.3",
+          "min_spo2": "91",
+          "max_spo2": "98"
+        },
+        {
+          "id": "2026-01-23",
+          "user_id": "persona_014",
+          "date": "2026-01-23",
+          "avg_spo2": "94.7",
+          "min_spo2": "90",
+          "max_spo2": "97"
+        },
+        {
+          "id": "2026-01-24",
+          "user_id": "persona_014",
+          "date": "2026-01-24",
+          "avg_spo2": "97.4",
+          "min_spo2": "91",
+          "max_spo2": "98"
+        },
+        {
+          "id": "2026-01-25",
+          "user_id": "persona_014",
+          "date": "2026-01-25",
+          "avg_spo2": "95.5",
+          "min_spo2": "91",
+          "max_spo2": "96"
+        },
+        {
+          "id": "2026-01-26",
+          "user_id": "persona_014",
+          "date": "2026-01-26",
+          "avg_spo2": "94.9",
+          "min_spo2": "91",
+          "max_spo2": "96"
+        },
+        {
+          "id": "2026-01-27",
+          "user_id": "persona_014",
+          "date": "2026-01-27",
+          "avg_spo2": "95.3",
+          "min_spo2": "90",
+          "max_spo2": "98"
+        },
+        {
+          "id": "2026-01-28",
+          "user_id": "persona_014",
+          "date": "2026-01-28",
+          "avg_spo2": "95.0",
+          "min_spo2": "91",
+          "max_spo2": "97"
+        },
+        {
+          "id": "2026-01-29",
+          "user_id": "persona_014",
+          "date": "2026-01-29",
+          "avg_spo2": "95.6",
+          "min_spo2": "90",
+          "max_spo2": "96"
+        },
+        {
+          "id": "2026-01-30",
+          "user_id": "persona_014",
+          "date": "2026-01-30",
+          "avg_spo2": "95.7",
+          "min_spo2": "90",
+          "max_spo2": "97"
+        },
+        {
+          "id": "2026-01-31",
+          "user_id": "persona_014",
+          "date": "2026-01-31",
+          "avg_spo2": "95.6",
+          "min_spo2": "92",
+          "max_spo2": "96"
+        },
+        {
+          "id": "2026-02-01",
+          "user_id": "persona_014",
+          "date": "2026-02-01",
+          "avg_spo2": "96.1",
+          "min_spo2": "92",
+          "max_spo2": "97"
+        },
+        {
+          "id": "2026-02-02",
+          "user_id": "persona_014",
+          "date": "2026-02-02",
+          "avg_spo2": "95.9",
+          "min_spo2": "90",
+          "max_spo2": "96"
+        }
+      ]
+    },
+    {
+      "id": "body_composition",
+      "name": "Body Composition",
+      "item_count": 10,
+      "items": [
+        {
+          "id": "2026-01-04",
+          "user_id": "persona_014",
+          "date": "2026-01-04",
+          "weight_kg": "52.6",
+          "bmi": "19.8",
+          "body_fat_percent": "21.3",
+          "muscle_mass_kg": "22.7",
+          "bone_mass_kg": "2.1",
+          "body_water_percent": "54.3"
+        },
+        {
+          "id": "2026-01-07",
+          "user_id": "persona_014",
+          "date": "2026-01-07",
+          "weight_kg": "53.7",
+          "bmi": "20.2",
+          "body_fat_percent": "22.8",
+          "muscle_mass_kg": "22.5",
+          "bone_mass_kg": "2.1",
+          "body_water_percent": "54.9"
+        },
+        {
+          "id": "2026-01-10",
+          "user_id": "persona_014",
+          "date": "2026-01-10",
+          "weight_kg": "53.3",
+          "bmi": "20.1",
+          "body_fat_percent": "21.2",
+          "muscle_mass_kg": "22.2",
+          "bone_mass_kg": "2.1",
+          "body_water_percent": "55.9"
+        },
+        {
+          "id": "2026-01-13",
+          "user_id": "persona_014",
+          "date": "2026-01-13",
+          "weight_kg": "52.7",
+          "bmi": "19.9",
+          "body_fat_percent": "22.2",
+          "muscle_mass_kg": "22.7",
+          "bone_mass_kg": "2.1",
+          "body_water_percent": "55.6"
+        },
+        {
+          "id": "2026-01-16",
+          "user_id": "persona_014",
+          "date": "2026-01-16",
+          "weight_kg": "53.1",
+          "bmi": "20.0",
+          "body_fat_percent": "21.6",
+          "muscle_mass_kg": "22.7",
+          "bone_mass_kg": "2.1",
+          "body_water_percent": "54.6"
+        },
+        {
+          "id": "2026-01-19",
+          "user_id": "persona_014",
+          "date": "2026-01-19",
+          "weight_kg": "52.8",
+          "bmi": "19.9",
+          "body_fat_percent": "21.2",
+          "muscle_mass_kg": "22.5",
+          "bone_mass_kg": "2.1",
+          "body_water_percent": "54.9"
+        },
+        {
+          "id": "2026-01-22",
+          "user_id": "persona_014",
+          "date": "2026-01-22",
+          "weight_kg": "53.3",
+          "bmi": "20.1",
+          "body_fat_percent": "22.6",
+          "muscle_mass_kg": "22.6",
+          "bone_mass_kg": "2.1",
+          "body_water_percent": "55.9"
+        },
+        {
+          "id": "2026-01-25",
+          "user_id": "persona_014",
+          "date": "2026-01-25",
+          "weight_kg": "53.9",
+          "bmi": "20.3",
+          "body_fat_percent": "21.1",
+          "muscle_mass_kg": "22.7",
+          "bone_mass_kg": "2.1",
+          "body_water_percent": "54.1"
+        },
+        {
+          "id": "2026-01-28",
+          "user_id": "persona_014",
+          "date": "2026-01-28",
+          "weight_kg": "53.8",
+          "bmi": "20.2",
+          "body_fat_percent": "21.8",
+          "muscle_mass_kg": "22.3",
+          "bone_mass_kg": "2.1",
+          "body_water_percent": "55.9"
+        },
+        {
+          "id": "2026-01-31",
+          "user_id": "persona_014",
+          "date": "2026-01-31",
+          "weight_kg": "53.4",
+          "bmi": "20.1",
+          "body_fat_percent": "22.5",
+          "muscle_mass_kg": "22.3",
+          "bone_mass_kg": "2.1",
+          "body_water_percent": "54.5"
+        }
+      ]
+    }
+  ]
+}

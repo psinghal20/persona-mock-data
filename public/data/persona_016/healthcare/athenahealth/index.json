@@ -1,0 +1,267 @@
+{
+  "persona_id": "persona_016",
+  "server_id": "athenahealth",
+  "server_name": "Athenahealth EHR",
+  "summary": {
+    "total_items": 20,
+    "category_count": 7
+  },
+  "categories": [
+    {
+      "id": "conditions",
+      "name": "Medical Conditions",
+      "item_count": 2,
+      "items": [
+        {
+          "id": "",
+          "name": "Type 2 diabetes mellitus with hyperglycemia",
+          "icd10_code": "E11.65",
+          "status": "active",
+          "onset_date": "2024-01-20",
+          "severity": "moderate",
+          "date": "2024-01-20"
+        },
+        {
+          "id": "",
+          "name": "Nontoxic single thyroid nodule",
+          "icd10_code": "E04.1",
+          "status": "active",
+          "onset_date": "2023-05-10",
+          "severity": "mild",
+          "date": "2023-05-10"
+        }
+      ]
+    },
+    {
+      "id": "prescriptions",
+      "name": "Prescriptions",
+      "item_count": 2,
+      "items": [
+        {
+          "id": "",
+          "medication": "Metformin",
+          "dosage": "500mg",
+          "quantity": "30",
+          "refills": "3",
+          "prescriber": "",
+          "pharmacy": "HEB Pharmacy",
+          "status": "active",
+          "date": "2024-02-01T10:00:00"
+        },
+        {
+          "id": "",
+          "medication": "Levothyroxine",
+          "dosage": "50mcg",
+          "quantity": "30",
+          "refills": "5",
+          "prescriber": "",
+          "pharmacy": "HEB Pharmacy",
+          "status": "active",
+          "date": "2023-06-15T10:00:00"
+        }
+      ]
+    },
+    {
+      "id": "allergies",
+      "name": "Allergies",
+      "item_count": 1,
+      "items": [
+        {
+          "id": "",
+          "allergen": "",
+          "type": "",
+          "reaction": "Skin rash",
+          "severity": "moderate",
+          "status": "active",
+          "onset_date": "2016-02-07",
+          "date": "2016-02-07"
+        }
+      ]
+    },
+    {
+      "id": "appointments",
+      "name": "Appointments",
+      "item_count": 1,
+      "items": [
+        {
+          "id": "",
+          "date": "2026-04-30",
+          "time": "",
+          "datetime": "2026-04-30",
+          "provider": "",
+          "department": "",
+          "reason": "Diabetes and thyroid check",
+          "status": "scheduled",
+          "notes": "3 month follow-up"
+        }
+      ]
+    },
+    {
+      "id": "encounters",
+      "name": "Encounters",
+      "item_count": 1,
+      "items": [
+        {
+          "id": "ENC010",
+          "date": "2026-01-30",
+          "type": "Office Visit",
+          "provider": "",
+          "department": "",
+          "reason": "",
+          "status": "closed",
+          "notes": "Discussed carbohydrate counting"
+        }
+      ]
+    },
+    {
+      "id": "vitals",
+      "name": "Vitals",
+      "item_count": 3,
+      "items": [
+        {
+          "id": "",
+          "date": "2026-02-04T23:54:15.986598",
+          "blood_pressure_systolic": "123",
+          "blood_pressure_diastolic": "74",
+          "heart_rate": "",
+          "temperature": "",
+          "weight": "",
+          "height": "",
+          "spo2": "99",
+          "respiratory_rate": "14"
+        },
+        {
+          "id": "",
+          "date": "2025-12-15T23:54:15.986598",
+          "blood_pressure_systolic": "116",
+          "blood_pressure_diastolic": "73",
+          "heart_rate": "",
+          "temperature": "",
+          "weight": "",
+          "height": "",
+          "spo2": "99",
+          "respiratory_rate": "14"
+        },
+        {
+          "id": "",
+          "date": "2025-11-02T23:54:15.986598",
+          "blood_pressure_systolic": "113",
+          "blood_pressure_diastolic": "73",
+          "heart_rate": "",
+          "temperature": "",
+          "weight": "",
+          "height": "",
+          "spo2": "99",
+          "respiratory_rate": "14"
+        }
+      ]
+    },
+    {
+      "id": "labs",
+      "name": "Lab Results",
+      "item_count": 10,
+      "items": [
+        {
+          "id": "",
+          "date": "",
+          "test_name": "Creatinine",
+          "result_value": "1.0",
+          "unit": "",
+          "reference_range": "0.7-1.3",
+          "status": "final",
+          "abnormal_flag": ""
+        },
+        {
+          "id": "",
+          "date": "",
+          "test_name": "Glucose, Fasting",
+          "result_value": "155",
+          "unit": "",
+          "reference_range": "70-99",
+          "status": "final",
+          "abnormal_flag": "H"
+        },
+        {
+          "id": "",
+          "date": "",
+          "test_name": "Hemoglobin A1c",
+          "result_value": "7.4",
+          "unit": "",
+          "reference_range": "4.0-5.6",
+          "status": "final",
+          "abnormal_flag": "H"
+        },
+        {
+          "id": "",
+          "date": "",
+          "test_name": "TSH",
+          "result_value": "3.01",
+          "unit": "",
+          "reference_range": "0.4-4.0",
+          "status": "final",
+          "abnormal_flag": ""
+        },
+        {
+          "id": "",
+          "date": "",
+          "test_name": "BUN",
+          "result_value": "10",
+          "unit": "",
+          "reference_range": "7-20",
+          "status": "final",
+          "abnormal_flag": ""
+        },
+        {
+          "id": "",
+          "date": "",
+          "test_name": "Creatinine",
+          "result_value": "1.0",
+          "unit": "",
+          "reference_range": "0.7-1.3",
+          "status": "final",
+          "abnormal_flag": ""
+        },
+        {
+          "id": "",
+          "date": "",
+          "test_name": "Glucose, Fasting",
+          "result_value": "175",
+          "unit": "",
+          "reference_range": "70-99",
+          "status": "final",
+          "abnormal_flag": "H"
+        },
+        {
+          "id": "",
+          "date": "",
+          "test_name": "Hemoglobin A1c",
+          "result_value": "7.4",
+          "unit": "",
+          "reference_range": "4.0-5.6",
+          "status": "final",
+          "abnormal_flag": "H"
+        },
+        {
+          "id": "",
+          "date": "",
+          "test_name": "TSH",
+          "result_value": "2.5",
+          "unit": "",
+          "reference_range": "0.4-4.0",
+          "status": "final",
+          "abnormal_flag": ""
+        },
+        {
+          "id": "",
+          "date": "",
+          "test_name": "BUN",
+          "result_value": "17",
+          "unit": "",
+          "reference_range": "7-20",
+          "status": "final",
+          "abnormal_flag": ""
+        }
+      ]
+    }
+  ]
+}

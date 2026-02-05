@@ -1,0 +1,149 @@
+{
+  "persona_id": "persona_002",
+  "server_id": "athenahealth",
+  "server_name": "Athenahealth EHR",
+  "summary": {
+    "total_items": 9,
+    "category_count": 6
+  },
+  "categories": [
+    {
+      "id": "conditions",
+      "name": "Medical Conditions",
+      "item_count": 1,
+      "items": [
+        {
+          "id": "",
+          "name": "Mild intermittent asthma",
+          "icd10_code": "J45.20",
+          "status": "active",
+          "onset_date": "2015-05-20",
+          "severity": "mild",
+          "date": "2015-05-20"
+        }
+      ]
+    },
+    {
+      "id": "prescriptions",
+      "name": "Prescriptions",
+      "item_count": 1,
+      "items": [
+        {
+          "id": "",
+          "medication": "Albuterol",
+          "dosage": "90mcg",
+          "quantity": "60",
+          "refills": "2",
+          "prescriber": "",
+          "pharmacy": "Walgreens",
+          "status": "active",
+          "date": "2023-06-10T10:00:00"
+        }
+      ]
+    },
+    {
+      "id": "allergies",
+      "name": "Allergies",
+      "item_count": 1,
+      "items": [
+        {
+          "id": "",
+          "allergen": "",
+          "type": "",
+          "reaction": "Difficulty breathing",
+          "severity": "severe",
+          "status": "active",
+          "onset_date": "2016-02-07",
+          "date": "2016-02-07"
+        }
+      ]
+    },
+    {
+      "id": "encounters",
+      "name": "Encounters",
+      "item_count": 1,
+      "items": [
+        {
+          "id": "ENC003",
+          "date": "2026-01-20",
+          "type": "Office Visit",
+          "provider": "",
+          "department": "",
+          "reason": "",
+          "status": "closed",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "vitals",
+      "name": "Vitals",
+      "item_count": 3,
+      "items": [
+        {
+          "id": "",
+          "date": "2026-02-04T23:54:15.986397",
+          "blood_pressure_systolic": "118",
+          "blood_pressure_diastolic": "79",
+          "heart_rate": "",
+          "temperature": "",
+          "weight": "",
+          "height": "",
+          "spo2": "99",
+          "respiratory_rate": "14"
+        },
+        {
+          "id": "",
+          "date": "2025-12-27T23:54:15.986397",
+          "blood_pressure_systolic": "116",
+          "blood_pressure_diastolic": "76",
+          "heart_rate": "",
+          "temperature": "",
+          "weight": "",
+          "height": "",
+          "spo2": "99",
+          "respiratory_rate": "14"
+        },
+        {
+          "id": "",
+          "date": "2025-12-06T23:54:15.986397",
+          "blood_pressure_systolic": "113",
+          "blood_pressure_diastolic": "76",
+          "heart_rate": "",
+          "temperature": "",
+          "weight": "",
+          "height": "",
+          "spo2": "99",
+          "respiratory_rate": "14"
+        }
+      ]
+    },
+    {
+      "id": "labs",
+      "name": "Lab Results",
+      "item_count": 2,
+      "items": [
+        {
+          "id": "",
+          "date": "",
+          "test_name": "Creatinine",
+          "result_value": "1.0",
+          "unit": "",
+          "reference_range": "0.7-1.3",
+          "status": "final",
+          "abnormal_flag": ""
+        },
+        {
+          "id": "",
+          "date": "",
+          "test_name": "BUN",
+          "result_value": "17",
+          "unit": "",
+          "reference_range": "7-20",
+          "status": "final",
+          "abnormal_flag": ""
+        }
+      ]
+    }
+  ]
+}

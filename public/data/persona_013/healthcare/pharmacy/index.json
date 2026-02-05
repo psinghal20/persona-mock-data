@@ -1,0 +1,261 @@
+{
+  "persona_id": "persona_013",
+  "server_id": "pharmacy",
+  "server_name": "Pharmacy",
+  "summary": {
+    "total_items": 27,
+    "category_count": 1
+  },
+  "categories": [
+    {
+      "id": "purchases",
+      "name": "Purchases",
+      "item_count": 27,
+      "items": [
+        {
+          "id": "41",
+          "user_id": "persona_013",
+          "medicine_id": "255",
+          "quantity": "3",
+          "total_price": "29.97",
+          "prescription_verified": "0",
+          "purchased_at": "2025-10-04T18:08:13"
+        },
+        {
+          "id": "42",
+          "user_id": "persona_013",
+          "medicine_id": "250",
+          "quantity": "3",
+          "total_price": "56.97",
+          "prescription_verified": "0",
+          "purchased_at": "2025-12-08T22:35:00"
+        },
+        {
+          "id": "43",
+          "user_id": "persona_013",
+          "medicine_id": "252",
+          "quantity": "1",
+          "total_price": "13.99",
+          "prescription_verified": "0",
+          "purchased_at": "2026-01-25T07:26:18"
+        },
+        {
+          "id": "44",
+          "user_id": "persona_013",
+          "medicine_id": "259",
+          "quantity": "2",
+          "total_price": "49.98",
+          "prescription_verified": "0",
+          "purchased_at": "2025-10-26T12:52:43"
+        },
+        {
+          "id": "45",
+          "user_id": "persona_013",
+          "medicine_id": "246",
+          "quantity": "2",
+          "total_price": "39.98",
+          "prescription_verified": "0",
+          "purchased_at": "2026-01-02T20:07:42"
+        },
+        {
+          "id": "46",
+          "user_id": "persona_013",
+          "medicine_id": "245",
+          "quantity": "1",
+          "total_price": "9.99",
+          "prescription_verified": "0",
+          "purchased_at": "2025-12-04T05:00:38"
+        },
+        {
+          "id": "47",
+          "user_id": "persona_013",
+          "medicine_id": "258",
+          "quantity": "1",
+          "total_price": "11.99",
+          "prescription_verified": "0",
+          "purchased_at": "2025-11-07T04:33:42"
+        },
+        {
+          "id": "48",
+          "user_id": "persona_013",
+          "medicine_id": "256",
+          "quantity": "3",
+          "total_price": "89.97",
+          "prescription_verified": "0",
+          "purchased_at": "2025-12-26T10:40:29"
+        },
+        {
+          "id": "49",
+          "user_id": "persona_013",
+          "medicine_id": "254",
+          "quantity": "1",
+          "total_price": "8.99",
+          "prescription_verified": "0",
+          "purchased_at": "2025-11-05T00:33:03"
+        },
+        {
+          "id": "50",
+          "user_id": "persona_013",
+          "medicine_id": "254",
+          "quantity": "1",
+          "total_price": "8.99",
+          "prescription_verified": "0",
+          "purchased_at": "2026-01-05T11:19:32"
+        },
+        {
+          "id": "51",
+          "user_id": "persona_013",
+          "medicine_id": "259",
+          "quantity": "2",
+          "total_price": "49.98",
+          "prescription_verified": "0",
+          "purchased_at": "2026-01-01T12:16:43"
+        },
+        {
+          "id": "52",
+          "user_id": "persona_013",
+          "medicine_id": "259",
+          "quantity": "3",
+          "total_price": "74.97",
+          "prescription_verified": "0",
+          "purchased_at": "2025-11-21T23:26:45"
+        },
+        {
+          "id": "53",
+          "user_id": "persona_013",
+          "medicine_id": "244",
+          "quantity": "1",
+          "total_price": "13.99",
+          "prescription_verified": "0",
+          "purchased_at": "2025-12-27T06:33:29"
+        },
+        {
+          "id": "132",
+          "user_id": "persona_013",
+          "medicine_id": "256",
+          "quantity": "2",
+          "total_price": "59.98",
+          "prescription_verified": "0",
+          "purchased_at": "2025-12-23T01:23:19"
+        },
+        {
+          "id": "133",
+          "user_id": "persona_013",
+          "medicine_id": "256",
+          "quantity": "1",
+          "total_price": "29.99",
+          "prescription_verified": "0",
+          "purchased_at": "2025-11-20T20:41:08"
+        },
+        {
+          "id": "134",
+          "user_id": "persona_013",
+          "medicine_id": "254",
+          "quantity": "2",
+          "total_price": "17.98",
+          "prescription_verified": "0",
+          "purchased_at": "2025-12-10T22:19:34"
+        },
+        {
+          "id": "135",
+          "user_id": "persona_013",
+          "medicine_id": "247",
+          "quantity": "1",
+          "total_price": "24.99",
+          "prescription_verified": "0",
+          "purchased_at": "2025-10-31T13:31:02"
+        },
+        {
+          "id": "136",
+          "user_id": "persona_013",
+          "medicine_id": "252",
+          "quantity": "3",
+          "total_price": "41.97",
+          "prescription_verified": "0",
+          "purchased_at": "2025-12-30T00:08:01"
+        },
+        {
+          "id": "137",
+          "user_id": "persona_013",
+          "medicine_id": "245",
+          "quantity": "1",
+          "total_price": "9.99",
+          "prescription_verified": "0",
+          "purchased_at": "2026-01-05T22:44:33"
+        },
+        {
+          "id": "138",
+          "user_id": "persona_013",
+          "medicine_id": "260",
+          "quantity": "2",
+          "total_price": "25.98",
+          "prescription_verified": "0",
+          "purchased_at": "2026-01-10T17:14:17"
+        },
+        {
+          "id": "139",
+          "user_id": "persona_013",
+          "medicine_id": "254",
+          "quantity": "3",
+          "total_price": "26.97",
+          "prescription_verified": "0",
+          "purchased_at": "2025-12-12T16:56:12"
+        },
+        {
+          "id": "140",
+          "user_id": "persona_013",
+          "medicine_id": "241",
+          "quantity": "1",
+          "total_price": "14.99",
+          "prescription_verified": "0",
+          "purchased_at": "2026-01-14T02:20:32"
+        },
+        {
+          "id": "141",
+          "user_id": "persona_013",
+          "medicine_id": "248",
+          "quantity": "1",
+          "total_price": "16.99",
+          "prescription_verified": "0",
+          "purchased_at": "2025-10-11T21:33:32"
+        },
+        {
+          "id": "142",
+          "user_id": "persona_013",
+          "medicine_id": "260",
+          "quantity": "1",
+          "total_price": "12.99",
+          "prescription_verified": "0",
+          "purchased_at": "2025-11-10T09:19:02"
+        },
+        {
+          "id": "143",
+          "user_id": "persona_013",
+          "medicine_id": "256",
+          "quantity": "2",
+          "total_price": "59.98",
+          "prescription_verified": "0",
+          "purchased_at": "2026-01-05T15:18:32"
+        },
+        {
+          "id": "144",
+          "user_id": "persona_013",
+          "medicine_id": "245",
+          "quantity": "3",
+          "total_price": "29.97",
+          "prescription_verified": "0",
+          "purchased_at": "2025-10-01T05:26:16"
+        },
+        {
+          "id": "145",
+          "user_id": "persona_013",
+          "medicine_id": "245",
+          "quantity": "1",
+          "total_price": "9.99",
+          "prescription_verified": "0",
+          "purchased_at": "2025-12-09T13:10:40"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "persona_id": "persona_022",
+  "server_id": "athenahealth",
+  "server_name": "Athenahealth EHR",
+  "summary": {
+    "total_items": 13,
+    "category_count": 7
+  },
+  "categories": [
+    {
+      "id": "conditions",
+      "name": "Medical Conditions",
+      "item_count": 2,
+      "items": [
+        {
+          "id": "",
+          "name": "Panniculitis, unspecified",
+          "icd10_code": "M79.3",
+          "status": "resolved",
+          "onset_date": "2021-02-18",
+          "severity": "mild",
+          "date": "2021-02-18"
+        },
+        {
+          "id": "",
+          "name": "Migraine, unspecified, not intractable",
+          "icd10_code": "G43.909",
+          "status": "active",
+          "onset_date": "2016-08-05",
+          "severity": "moderate",
+          "date": "2016-08-05"
+        }
+      ]
+    },
+    {
+      "id": "prescriptions",
+      "name": "Prescriptions",
+      "item_count": 2,
+      "items": [
+        {
+          "id": "",
+          "medication": "Sumatriptan",
+          "dosage": "50mg",
+          "quantity": "60",
+          "refills": "2",
+          "prescriber": "",
+          "pharmacy": "Rite Aid",
+          "status": "active",
+          "date": "2023-08-20T10:00:00"
+        },
+        {
+          "id": "",
+          "medication": "Topiramate",
+          "dosage": "50mg",
+          "quantity": "30",
+          "refills": "5",
+          "prescriber": "",
+          "pharmacy": "Rite Aid",
+          "status": "active",
+          "date": "2017-01-15T10:00:00"
+        }
+      ]
+    },
+    {
+      "id": "allergies",
+      "name": "Allergies",
+      "item_count": 2,
+      "items": [
+        {
+          "id": "",
+          "allergen": "",
+          "type": "",
+          "reaction": "Anaphylaxis",
+          "severity": "severe",
+          "status": "active",
+          "onset_date": "2023-02-05",
+          "date": "2023-02-05"
+        },
+        {
+          "id": "",
+          "allergen": "",
+          "type": "",
+          "reaction": "Severe itching",
+          "severity": "moderate",
+          "status": "active",
+          "onset_date": "2022-02-05",
+          "date": "2022-02-05"
+        }
+      ]
+    },
+    {
+      "id": "appointments",
+      "name": "Appointments",
+      "item_count": 1,
+      "items": [
+        {
+          "id": "",
+          "date": "2026-03-01",
+          "time": "",
+          "datetime": "2026-03-01",
+          "provider": "",
+          "department": "",
+          "reason": "Migraine follow-up",
+          "status": "scheduled",
+          "notes": "Evaluate medication adjustment"
+        }
+      ]
+    },
+    {
+      "id": "encounters",
+      "name": "Encounters",
+      "item_count": 1,
+      "items": [
+        {
+          "id": "ENC011",
+          "date": "2026-02-01",
+          "type": "Office Visit",
+          "provider": "",
+          "department": "",
+          "reason": "",
+          "status": "closed",
+          "notes": "Headache diary reviewed"
+        }
+      ]
+    },
+    {
+      "id": "vitals",
+      "name": "Vitals",
+      "item_count": 3,
+      "items": [
+        {
+          "id": "",
+          "date": "2026-02-04T23:54:15.986644",
+          "blood_pressure_systolic": "117",
+          "blood_pressure_diastolic": "77",
+          "heart_rate": "",
+          "temperature": "",
+          "weight": "",
+          "height": "",
+          "spo2": "98",
+          "respiratory_rate": "16"
+        },
+        {
+          "id": "",
+          "date": "2025-12-09T23:54:15.986644",
+          "blood_pressure_systolic": "125",
+          "blood_pressure_diastolic": "78",
+          "heart_rate": "",
+          "temperature": "",
+          "weight": "",
+          "height": "",
+          "spo2": "98",
+          "respiratory_rate": "16"
+        },
+        {
+          "id": "",
+          "date": "2025-11-30T23:54:15.986644",
+          "blood_pressure_systolic": "116",
+          "blood_pressure_diastolic": "80",
+          "heart_rate": "",
+          "temperature": "",
+          "weight": "",
+          "height": "",
+          "spo2": "98",
+          "respiratory_rate": "16"
+        }
+      ]
+    },
+    {
+      "id": "labs",
+      "name": "Lab Results",
+      "item_count": 2,
+      "items": [
+        {
+          "id": "",
+          "date": "",
+          "test_name": "Creatinine",
+          "result_value": "1.1",
+          "unit": "",
+          "reference_range": "0.7-1.3",
+          "status": "final",
+          "abnormal_flag": ""
+        },
+        {
+          "id": "",
+          "date": "",
+          "test_name": "BUN",
+          "result_value": "16",
+          "unit": "",
+          "reference_range": "7-20",
+          "status": "final",
+          "abnormal_flag": ""
+        }
+      ]
+    }
+  ]
+}

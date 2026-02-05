@@ -202,5 +202,446 @@
     "total_orders": 367,
     "total_spent": 554210.33,
     "stores_count": 8
+  },
+  "health_profile": {
+    "demographics": {
+      "dob": "2005-06-20",
+      "gender": "male",
+      "height_cm": 183,
+      "weight_kg": 76.7,
+      "blood_type": "O+",
+      "race": {
+        "code": "2054-5",
+        "display": "Black or African American"
+      },
+      "ethnicity": {
+        "code": "2186-5",
+        "display": "Not Hispanic or Latino"
+      },
+      "location": {
+        "city": "Cleveland",
+        "state": "Ohio",
+        "zip": "44101"
+      },
+      "contact": {
+        "email": "jordan.williams@email.com",
+        "phone": "555-0123",
+        "emergency_contact": "Marcus Williams",
+        "emergency_phone": "555-0124"
+      }
+    },
+    "conditions": [
+      {
+        "icd10": "J30.9",
+        "snomed": "61582004",
+        "name": "Allergic rhinitis, unspecified",
+        "category": "respiratory",
+        "onset": "2018-04-10",
+        "status": "active",
+        "severity": "mild",
+        "provider_ref": "primary_care",
+        "notes": "Seasonal symptoms, OTC antihistamines as needed",
+        "effects": {
+          "activity_limit": "none",
+          "fatigue_increase": 0,
+          "glucose_impact": "none",
+          "sleep_impact": "none"
+        }
+      }
+    ],
+    "medications": [],
+    "allergies": [
+      {
+        "allergen": "No known drug allergies",
+        "type": "medication",
+        "reaction": "",
+        "severity": "mild",
+        "notes": "NKDA documented"
+      }
+    ],
+    "vitals": {
+      "blood_pressure": {
+        "systolic": 114,
+        "diastolic": 72,
+        "variance": 5
+      },
+      "resting_hr": 54,
+      "resting_hr_variance": 4,
+      "max_hr": 200,
+      "spo2": 99,
+      "respiratory_rate": 14,
+      "temperature_c": 36.8
+    },
+    "fitness": {
+      "level": "active",
+      "vo2_max": 50,
+      "training_status": "productive",
+      "daily_activity": {
+        "steps_target": 12000,
+        "steps_typical": [
+          8000,
+          18000
+        ],
+        "active_minutes_target": 60,
+        "active_calories_target": 700
+      },
+      "weekly_workouts": [
+        {
+          "type": "basketball",
+          "frequency": 4,
+          "duration_min": 90,
+          "intensity": "vigorous",
+          "preferred_time": "afternoon"
+        },
+        {
+          "type": "running",
+          "frequency": 3,
+          "duration_min": 30,
+          "intensity": "moderate",
+          "preferred_time": "morning"
+        },
+        {
+          "type": "strength_training",
+          "frequency": 3,
+          "duration_min": 45,
+          "intensity": "vigorous"
+        },
+        {
+          "type": "esports",
+          "frequency": 3,
+          "duration_min": 120,
+          "intensity": "light",
+          "preferred_time": "evening"
+        }
+      ],
+      "sports": {
+        "primary": "basketball",
+        "secondary": "track"
+      },
+      "performance": {
+        "running_pace_min_per_km": 4.5,
+        "cycling_ftp_watts": null
+      }
+    },
+    "sleep": {
+      "target_hours": 9.0,
+      "typical_hours": [
+        6.5,
+        9.0
+      ],
+      "quality": "good",
+      "schedule": {
+        "chronotype": "night_owl",
+        "typical_bedtime": "00:00",
+        "typical_wake": "07:00",
+        "weekend_shift_hours": 3
+      },
+      "architecture": {
+        "deep_pct": 22,
+        "rem_pct": 25,
+        "light_pct": 47,
+        "awake_pct": 6
+      },
+      "issues": []
+    },
+    "nutrition": {
+      "diet_type": "standard",
+      "calorie_target": 3000,
+      "macros": {
+        "protein_pct": 25,
+        "carbs_pct": 50,
+        "fat_pct": 25
+      },
+      "restrictions": [],
+      "hydration": {
+        "target_ml": 3500,
+        "typical_ml": [
+          2500,
+          4000
+        ]
+      },
+      "meal_patterns": {
+        "meals_per_day": 3,
+        "snacks_per_day": 3,
+        "typical_meal_times": [
+          "07:30",
+          "12:00",
+          "18:30"
+        ]
+      }
+    },
+    "devices": {
+      "fitness_tracker": {
+        "enabled": true,
+        "brand": "garmin",
+        "model": "Forerunner 265",
+        "device_id": "GRM-P023-001"
+      },
+      "smart_scale": {
+        "enabled": false
+      },
+      "cgm": {
+        "enabled": false
+      },
+      "blood_pressure_monitor": {
+        "enabled": false
+      }
+    },
+    "insurance": {
+      "provider": "Medicaid",
+      "plan": "Standard",
+      "member_id": "INS023",
+      "group_id": "MEDICAID"
+    }
+  },
+  "healthcare": {
+    "servers": [
+      {
+        "id": "myfitnesspal",
+        "name": "MyFitnessPal",
+        "item_count": 258,
+        "category_count": 3,
+        "primary_category": "Food Logs",
+        "categories": [
+          {
+            "id": "food_logs",
+            "name": "Food Logs",
+            "count": 30
+          },
+          {
+            "id": "exercise_logs",
+            "name": "Exercise Logs",
+            "count": 46
+          },
+          {
+            "id": "water_logs",
+            "name": "Water Logs",
+            "count": 182
+          }
+        ]
+      },
+      {
+        "id": "garmin_health",
+        "name": "Garmin Health",
+        "item_count": 238,
+        "category_count": 9,
+        "primary_category": "Daily Stats",
+        "categories": [
+          {
+            "id": "daily_stats",
+            "name": "Daily Stats",
+            "count": 30
+          },
+          {
+            "id": "sleep",
+            "name": "Sleep",
+            "count": 30
+          },
+          {
+            "id": "stress",
+            "name": "Stress",
+            "count": 30
+          },
+          {
+            "id": "body_battery",
+            "name": "Body Battery",
+            "count": 30
+          },
+          {
+            "id": "activities",
+            "name": "Activities",
+            "count": 18
+          },
+          {
+            "id": "heart_rate",
+            "name": "Heart Rate",
+            "count": 30
+          },
+          {
+            "id": "hrv",
+            "name": "HRV",
+            "count": 30
+          },
+          {
+            "id": "spo2",
+            "name": "SpO2",
+            "count": 30
+          },
+          {
+            "id": "body_composition",
+            "name": "Body Composition",
+            "count": 10
+          }
+        ]
+      },
+      {
+        "id": "fitbit",
+        "name": "Fitbit",
+        "item_count": 121,
+        "category_count": 5,
+        "primary_category": "Daily Activity",
+        "categories": [
+          {
+            "id": "daily_stats",
+            "name": "Daily Activity",
+            "count": 31
+          },
+          {
+            "id": "sleep",
+            "name": "Sleep Logs",
+            "count": 31
+          },
+          {
+            "id": "activities",
+            "name": "Activities",
+            "count": 20
+          },
+          {
+            "id": "heart_rate",
+            "name": "Heart Rate",
+            "count": 31
+          },
+          {
+            "id": "body",
+            "name": "Body Measurements",
+            "count": 8
+          }
+        ]
+      },
+      {
+        "id": "whoop",
+        "name": "WHOOP",
+        "item_count": 118,
+        "category_count": 4,
+        "primary_category": "Physiological Cycles",
+        "categories": [
+          {
+            "id": "cycles",
+            "name": "Physiological Cycles",
+            "count": 31
+          },
+          {
+            "id": "recovery",
+            "name": "Recovery",
+            "count": 31
+          },
+          {
+            "id": "sleep",
+            "name": "Sleep",
+            "count": 31
+          },
+          {
+            "id": "workouts",
+            "name": "Workouts",
+            "count": 25
+          }
+        ]
+      },
+      {
+        "id": "fhir",
+        "name": "FHIR EHR",
+        "item_count": 35,
+        "category_count": 3,
+        "primary_category": "Conditions",
+        "categories": [
+          {
+            "id": "conditions",
+            "name": "Conditions",
+            "count": 1
+          },
+          {
+            "id": "observations",
+            "name": "Observations",
+            "count": 33
+          },
+          {
+            "id": "allergies",
+            "name": "Allergies",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "renpho",
+        "name": "Renpho Scale",
+        "item_count": 18,
+        "category_count": 1,
+        "primary_category": "Body Measurements",
+        "categories": [
+          {
+            "id": "measurements",
+            "name": "Body Measurements",
+            "count": 18
+          }
+        ]
+      },
+      {
+        "id": "genetics",
+        "name": "Genetics",
+        "item_count": 12,
+        "category_count": 4,
+        "primary_category": "Health Risks",
+        "categories": [
+          {
+            "id": "health_risks",
+            "name": "Health Risks",
+            "count": 4
+          },
+          {
+            "id": "pharmacogenomics",
+            "name": "Pharmacogenomics",
+            "count": 4
+          },
+          {
+            "id": "carrier_status",
+            "name": "Carrier Status",
+            "count": 3
+          },
+          {
+            "id": "screenings",
+            "name": "Recommended Screenings",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "athenahealth",
+        "name": "Athenahealth EHR",
+        "item_count": 9,
+        "category_count": 5,
+        "primary_category": "Medical Conditions",
+        "categories": [
+          {
+            "id": "conditions",
+            "name": "Medical Conditions",
+            "count": 1
+          },
+          {
+            "id": "allergies",
+            "name": "Allergies",
+            "count": 1
+          },
+          {
+            "id": "encounters",
+            "name": "Encounters",
+            "count": 1
+          },
+          {
+            "id": "vitals",
+            "name": "Vitals",
+            "count": 2
+          },
+          {
+            "id": "labs",
+            "name": "Lab Results",
+            "count": 4
+          }
+        ]
+      }
+    ],
+    "stats": {
+      "total_items": 809,
+      "servers_count": 8
+    }
   }
 }

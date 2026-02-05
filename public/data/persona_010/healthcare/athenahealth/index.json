@@ -1,0 +1,159 @@
+{
+  "persona_id": "persona_010",
+  "server_id": "athenahealth",
+  "server_name": "Athenahealth EHR",
+  "summary": {
+    "total_items": 10,
+    "category_count": 6
+  },
+  "categories": [
+    {
+      "id": "conditions",
+      "name": "Medical Conditions",
+      "item_count": 1,
+      "items": [
+        {
+          "id": "",
+          "name": "Gastro-esophageal reflux disease with esophagitis",
+          "icd10_code": "K21.0",
+          "status": "active",
+          "onset_date": "2019-07-22",
+          "severity": "mild",
+          "date": "2019-07-22"
+        }
+      ]
+    },
+    {
+      "id": "prescriptions",
+      "name": "Prescriptions",
+      "item_count": 1,
+      "items": [
+        {
+          "id": "",
+          "medication": "Omeprazole",
+          "dosage": "20mg",
+          "quantity": "30",
+          "refills": "3",
+          "prescriber": "",
+          "pharmacy": "CVS Pharmacy",
+          "status": "active",
+          "date": "2019-08-01T10:00:00"
+        }
+      ]
+    },
+    {
+      "id": "allergies",
+      "name": "Allergies",
+      "item_count": 2,
+      "items": [
+        {
+          "id": "",
+          "allergen": "",
+          "type": "",
+          "reaction": "Nausea and vomiting",
+          "severity": "moderate",
+          "status": "active",
+          "onset_date": "2025-02-04",
+          "date": "2025-02-04"
+        },
+        {
+          "id": "",
+          "allergen": "",
+          "type": "",
+          "reaction": "Throat swelling",
+          "severity": "severe",
+          "status": "active",
+          "onset_date": "2017-02-06",
+          "date": "2017-02-06"
+        }
+      ]
+    },
+    {
+      "id": "encounters",
+      "name": "Encounters",
+      "item_count": 1,
+      "items": [
+        {
+          "id": "ENC006",
+          "date": "2026-01-22",
+          "type": "Office Visit",
+          "provider": "",
+          "department": "",
+          "reason": "",
+          "status": "closed",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "vitals",
+      "name": "Vitals",
+      "item_count": 3,
+      "items": [
+        {
+          "id": "",
+          "date": "2026-02-04T23:54:15.986499",
+          "blood_pressure_systolic": "114",
+          "blood_pressure_diastolic": "77",
+          "heart_rate": "",
+          "temperature": "",
+          "weight": "",
+          "height": "",
+          "spo2": "99",
+          "respiratory_rate": "14"
+        },
+        {
+          "id": "",
+          "date": "2025-12-16T23:54:15.986499",
+          "blood_pressure_systolic": "113",
+          "blood_pressure_diastolic": "72",
+          "heart_rate": "",
+          "temperature": "",
+          "weight": "",
+          "height": "",
+          "spo2": "99",
+          "respiratory_rate": "14"
+        },
+        {
+          "id": "",
+          "date": "2025-10-15T23:54:15.986499",
+          "blood_pressure_systolic": "113",
+          "blood_pressure_diastolic": "77",
+          "heart_rate": "",
+          "temperature": "",
+          "weight": "",
+          "height": "",
+          "spo2": "99",
+          "respiratory_rate": "14"
+        }
+      ]
+    },
+    {
+      "id": "labs",
+      "name": "Lab Results",
+      "item_count": 2,
+      "items": [
+        {
+          "id": "",
+          "date": "",
+          "test_name": "Creatinine",
+          "result_value": "0.9",
+          "unit": "",
+          "reference_range": "0.7-1.3",
+          "status": "final",
+          "abnormal_flag": ""
+        },
+        {
+          "id": "",
+          "date": "",
+          "test_name": "BUN",
+          "result_value": "18",
+          "unit": "",
+          "reference_range": "7-20",
+          "status": "final",
+          "abnormal_flag": ""
+        }
+      ]
+    }
+  ]
+}

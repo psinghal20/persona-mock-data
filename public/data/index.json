@@ -10,7 +10,9 @@
       "region": "Pennsylvania",
       "age_group": "middle-aged",
       "total_orders": 407,
-      "total_spent": 153083.92
+      "total_spent": 153083.92,
+      "healthcare_items": 829,
+      "healthcare_servers": 9
     },
     {
       "id": "persona_013",
@@ -22,7 +24,9 @@
       "region": "Texas",
       "age_group": "middle-aged",
       "total_orders": 406,
-      "total_spent": 325621.25
+      "total_spent": 325621.25,
+      "healthcare_items": 891,
+      "healthcare_servers": 10
     },
     {
       "id": "persona_031",
@@ -34,7 +38,9 @@
       "region": "Arizona",
       "age_group": "mid-30s",
       "total_orders": 485,
-      "total_spent": 102015.95
+      "total_spent": 102015.95,
+      "healthcare_items": 846,
+      "healthcare_servers": 10
     },
     {
       "id": "USR001",
@@ -46,7 +52,9 @@
       "region": "California",
       "age_group": "adult",
       "total_orders": 53,
-      "total_spent": 2744.04
+      "total_spent": 2744.04,
+      "healthcare_items": 867,
+      "healthcare_servers": 10
     },
     {
       "id": "persona_023",
@@ -58,7 +66,9 @@
       "region": "Ohio",
       "age_group": "teenager",
       "total_orders": 367,
-      "total_spent": 554210.33
+      "total_spent": 554210.33,
+      "healthcare_items": 809,
+      "healthcare_servers": 8
     },
     {
       "id": "persona_014",
@@ -70,7 +80,9 @@
       "region": "California",
       "age_group": "young",
       "total_orders": 449,
-      "total_spent": 418791.0
+      "total_spent": 418791.0,
+      "healthcare_items": 780,
+      "healthcare_servers": 8
     },
     {
       "id": "persona_002",
@@ -82,7 +94,9 @@
       "region": "California",
       "age_group": "young",
       "total_orders": 347,
-      "total_spent": 291143.33
+      "total_spent": 291143.33,
+      "healthcare_items": 798,
+      "healthcare_servers": 8
     },
     {
       "id": "persona_027",
@@ -94,7 +108,9 @@
       "region": "Massachusetts",
       "age_group": "middle-aged",
       "total_orders": 426,
-      "total_spent": 342430.14
+      "total_spent": 342430.14,
+      "healthcare_items": 840,
+      "healthcare_servers": 9
     },
     {
       "id": "persona_016",
@@ -106,7 +122,9 @@
       "region": "Texas",
       "age_group": "young",
       "total_orders": 495,
-      "total_spent": 221086.15
+      "total_spent": 221086.15,
+      "healthcare_items": 898,
+      "healthcare_servers": 10
     },
     {
       "id": "persona_010",
@@ -118,7 +136,9 @@
       "region": "Louisiana",
       "age_group": "middle-aged",
       "total_orders": 416,
-      "total_spent": 292991.25
+      "total_spent": 292991.25,
+      "healthcare_items": 782,
+      "healthcare_servers": 8
     },
     {
       "id": "persona_009",
@@ -130,7 +150,9 @@
       "region": "Florida",
       "age_group": "retired",
       "total_orders": 403,
-      "total_spent": 135906.69
+      "total_spent": 135906.69,
+      "healthcare_items": 826,
+      "healthcare_servers": 9
     }
   ],
   "stats": {
@@ -138,5 +160,5 @@
     "total_orders": 4254,
     "total_stores": 21
   },
-  "generated_at": "2026-02-03T19:24:56.711282"
+  "generated_at": "2026-02-05T17:12:05.578626"
 }

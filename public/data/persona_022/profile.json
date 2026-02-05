@@ -246,5 +246,529 @@
     "total_orders": 407,
     "total_spent": 153083.92,
     "stores_count": 9
+  },
+  "health_profile": {
+    "demographics": {
+      "dob": "1988-12-03",
+      "gender": "female",
+      "height_cm": 168,
+      "weight_kg": 64.9,
+      "blood_type": "A-",
+      "race": {
+        "code": "2106-3",
+        "display": "White"
+      },
+      "ethnicity": {
+        "code": "2186-5",
+        "display": "Not Hispanic or Latino"
+      },
+      "location": {
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "zip": "19102"
+      },
+      "contact": {
+        "email": "anna.kowalczyk@email.com",
+        "phone": "555-0122",
+        "emergency_contact": "Jan Kowalczyk",
+        "emergency_phone": "555-0123"
+      }
+    },
+    "conditions": [
+      {
+        "icd10": "G43.909",
+        "snomed": "37796009",
+        "name": "Migraine, unspecified, not intractable",
+        "category": "neurological",
+        "onset": "2016-08-05",
+        "status": "active",
+        "severity": "moderate",
+        "provider_ref": "neurology",
+        "notes": "Preventive therapy with topiramate, sumatriptan for acute episodes",
+        "effects": {
+          "activity_limit": "mild",
+          "fatigue_increase": 0.15,
+          "glucose_impact": "none",
+          "sleep_impact": "moderate"
+        }
+      },
+      {
+        "icd10": "M79.3",
+        "snomed": "22253000",
+        "name": "Panniculitis, unspecified",
+        "category": "other",
+        "onset": "2021-02-18",
+        "status": "resolved",
+        "severity": "mild",
+        "provider_ref": "dermatology",
+        "notes": "Resolved with treatment",
+        "effects": {}
+      }
+    ],
+    "medications": [
+      {
+        "name": "Topiramate",
+        "brand": "Topamax",
+        "rxnorm": "38404",
+        "ndc": "00093-0152-01",
+        "dose": "50mg",
+        "frequency": "twice_daily",
+        "route": "oral",
+        "for_condition": "G43.909",
+        "start_date": "2017-01-15",
+        "prescriber_ref": "neurology",
+        "pharmacy": "Rite Aid",
+        "refills_remaining": 5,
+        "notes": "Migraine prevention"
+      },
+      {
+        "name": "Sumatriptan",
+        "brand": "Imitrex",
+        "rxnorm": "37418",
+        "ndc": "00093-5352-01",
+        "dose": "50mg",
+        "frequency": "as_needed",
+        "route": "oral",
+        "for_condition": "G43.909",
+        "start_date": "2023-08-20",
+        "prescriber_ref": "neurology",
+        "pharmacy": "Rite Aid",
+        "refills_remaining": 2,
+        "notes": "For acute migraine, max 2 doses per 24 hours"
+      }
+    ],
+    "allergies": [
+      {
+        "allergen": "Bee stings",
+        "type": "environmental",
+        "reaction": "Anaphylaxis",
+        "severity": "severe",
+        "notes": "Carries EpiPen"
+      },
+      {
+        "allergen": "Morphine",
+        "type": "medication",
+        "reaction": "Severe itching",
+        "severity": "moderate",
+        "notes": "Use alternative opioids if needed"
+      }
+    ],
+    "vitals": {
+      "blood_pressure": {
+        "systolic": 120,
+        "diastolic": 78,
+        "variance": 7
+      },
+      "resting_hr": 68,
+      "resting_hr_variance": 5,
+      "max_hr": 183,
+      "spo2": 98,
+      "respiratory_rate": 16,
+      "temperature_c": 36.7
+    },
+    "fitness": {
+      "level": "moderate",
+      "vo2_max": 34,
+      "training_status": "maintaining",
+      "daily_activity": {
+        "steps_target": 10000,
+        "steps_typical": [
+          8000,
+          15000
+        ],
+        "active_minutes_target": 30,
+        "active_calories_target": 400
+      },
+      "weekly_workouts": [
+        {
+          "type": "walking",
+          "frequency": 5,
+          "duration_min": 35,
+          "intensity": "moderate",
+          "preferred_time": "evening"
+        },
+        {
+          "type": "gardening",
+          "frequency": 2,
+          "duration_min": 90,
+          "intensity": "light",
+          "preferred_time": "morning"
+        },
+        {
+          "type": "yoga",
+          "frequency": 2,
+          "duration_min": 45,
+          "intensity": "light",
+          "preferred_time": "evening"
+        },
+        {
+          "type": "cycling",
+          "frequency": 1,
+          "duration_min": 45,
+          "intensity": "moderate"
+        }
+      ],
+      "sports": {
+        "primary": "walking",
+        "secondary": null
+      },
+      "performance": {
+        "running_pace_min_per_km": null,
+        "cycling_ftp_watts": null
+      }
+    },
+    "sleep": {
+      "target_hours": 7.5,
+      "typical_hours": [
+        5.5,
+        8.0
+      ],
+      "quality": "fair",
+      "schedule": {
+        "chronotype": "intermediate",
+        "typical_bedtime": "23:30",
+        "typical_wake": "07:00",
+        "weekend_shift_hours": 1
+      },
+      "architecture": {
+        "deep_pct": 15,
+        "rem_pct": 20,
+        "light_pct": 55,
+        "awake_pct": 10
+      },
+      "issues": [
+        "difficulty_staying_asleep"
+      ]
+    },
+    "nutrition": {
+      "diet_type": "standard",
+      "calorie_target": 1900,
+      "macros": {
+        "protein_pct": 25,
+        "carbs_pct": 45,
+        "fat_pct": 30
+      },
+      "restrictions": [],
+      "hydration": {
+        "target_ml": 2500,
+        "typical_ml": [
+          2000,
+          3000
+        ]
+      },
+      "meal_patterns": {
+        "meals_per_day": 3,
+        "snacks_per_day": 2,
+        "typical_meal_times": [
+          "07:00",
+          "12:30",
+          "19:30"
+        ]
+      }
+    },
+    "devices": {
+      "fitness_tracker": {
+        "enabled": true,
+        "brand": "garmin",
+        "model": "Vivomove Trend",
+        "device_id": "GRM-P022-001"
+      },
+      "smart_scale": {
+        "enabled": true,
+        "brand": "renpho",
+        "model": "ES-CS20M"
+      },
+      "cgm": {
+        "enabled": false
+      },
+      "blood_pressure_monitor": {
+        "enabled": false
+      }
+    },
+    "insurance": {
+      "provider": "Aetna",
+      "plan": "PPO",
+      "member_id": "INS022",
+      "group_id": "GRP022"
+    }
+  },
+  "healthcare": {
+    "servers": [
+      {
+        "id": "myfitnesspal",
+        "name": "MyFitnessPal",
+        "item_count": 242,
+        "category_count": 3,
+        "primary_category": "Food Logs",
+        "categories": [
+          {
+            "id": "food_logs",
+            "name": "Food Logs",
+            "count": 30
+          },
+          {
+            "id": "exercise_logs",
+            "name": "Exercise Logs",
+            "count": 38
+          },
+          {
+            "id": "water_logs",
+            "name": "Water Logs",
+            "count": 174
+          }
+        ]
+      },
+      {
+        "id": "garmin_health",
+        "name": "Garmin Health",
+        "item_count": 232,
+        "category_count": 9,
+        "primary_category": "Daily Stats",
+        "categories": [
+          {
+            "id": "daily_stats",
+            "name": "Daily Stats",
+            "count": 30
+          },
+          {
+            "id": "sleep",
+            "name": "Sleep",
+            "count": 30
+          },
+          {
+            "id": "stress",
+            "name": "Stress",
+            "count": 30
+          },
+          {
+            "id": "body_battery",
+            "name": "Body Battery",
+            "count": 30
+          },
+          {
+            "id": "activities",
+            "name": "Activities",
+            "count": 12
+          },
+          {
+            "id": "heart_rate",
+            "name": "Heart Rate",
+            "count": 30
+          },
+          {
+            "id": "hrv",
+            "name": "HRV",
+            "count": 30
+          },
+          {
+            "id": "spo2",
+            "name": "SpO2",
+            "count": 30
+          },
+          {
+            "id": "body_composition",
+            "name": "Body Composition",
+            "count": 10
+          }
+        ]
+      },
+      {
+        "id": "fitbit",
+        "name": "Fitbit",
+        "item_count": 121,
+        "category_count": 5,
+        "primary_category": "Daily Activity",
+        "categories": [
+          {
+            "id": "daily_stats",
+            "name": "Daily Activity",
+            "count": 31
+          },
+          {
+            "id": "sleep",
+            "name": "Sleep Logs",
+            "count": 31
+          },
+          {
+            "id": "activities",
+            "name": "Activities",
+            "count": 20
+          },
+          {
+            "id": "heart_rate",
+            "name": "Heart Rate",
+            "count": 31
+          },
+          {
+            "id": "body",
+            "name": "Body Measurements",
+            "count": 8
+          }
+        ]
+      },
+      {
+        "id": "whoop",
+        "name": "WHOOP",
+        "item_count": 118,
+        "category_count": 4,
+        "primary_category": "Physiological Cycles",
+        "categories": [
+          {
+            "id": "cycles",
+            "name": "Physiological Cycles",
+            "count": 31
+          },
+          {
+            "id": "recovery",
+            "name": "Recovery",
+            "count": 31
+          },
+          {
+            "id": "sleep",
+            "name": "Sleep",
+            "count": 31
+          },
+          {
+            "id": "workouts",
+            "name": "Workouts",
+            "count": 25
+          }
+        ]
+      },
+      {
+        "id": "fhir",
+        "name": "FHIR EHR",
+        "item_count": 39,
+        "category_count": 4,
+        "primary_category": "Conditions",
+        "categories": [
+          {
+            "id": "conditions",
+            "name": "Conditions",
+            "count": 2
+          },
+          {
+            "id": "observations",
+            "name": "Observations",
+            "count": 33
+          },
+          {
+            "id": "medications",
+            "name": "Medications",
+            "count": 2
+          },
+          {
+            "id": "allergies",
+            "name": "Allergies",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "id": "pharmacy",
+        "name": "Pharmacy",
+        "item_count": 32,
+        "category_count": 1,
+        "primary_category": "Purchases",
+        "categories": [
+          {
+            "id": "purchases",
+            "name": "Purchases",
+            "count": 32
+          }
+        ]
+      },
+      {
+        "id": "renpho",
+        "name": "Renpho Scale",
+        "item_count": 20,
+        "category_count": 1,
+        "primary_category": "Body Measurements",
+        "categories": [
+          {
+            "id": "measurements",
+            "name": "Body Measurements",
+            "count": 20
+          }
+        ]
+      },
+      {
+        "id": "athenahealth",
+        "name": "Athenahealth EHR",
+        "item_count": 13,
+        "category_count": 7,
+        "primary_category": "Medical Conditions",
+        "categories": [
+          {
+            "id": "conditions",
+            "name": "Medical Conditions",
+            "count": 2
+          },
+          {
+            "id": "prescriptions",
+            "name": "Prescriptions",
+            "count": 2
+          },
+          {
+            "id": "allergies",
+            "name": "Allergies",
+            "count": 2
+          },
+          {
+            "id": "appointments",
+            "name": "Appointments",
+            "count": 1
+          },
+          {
+            "id": "encounters",
+            "name": "Encounters",
+            "count": 1
+          },
+          {
+            "id": "vitals",
+            "name": "Vitals",
+            "count": 3
+          },
+          {
+            "id": "labs",
+            "name": "Lab Results",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "id": "genetics",
+        "name": "Genetics",
+        "item_count": 12,
+        "category_count": 4,
+        "primary_category": "Health Risks",
+        "categories": [
+          {
+            "id": "health_risks",
+            "name": "Health Risks",
+            "count": 4
+          },
+          {
+            "id": "pharmacogenomics",
+            "name": "Pharmacogenomics",
+            "count": 4
+          },
+          {
+            "id": "carrier_status",
+            "name": "Carrier Status",
+            "count": 3
+          },
+          {
+            "id": "screenings",
+            "name": "Recommended Screenings",
+            "count": 1
+          }
+        ]
+      }
+    ],
+    "stats": {
+      "total_items": 829,
+      "servers_count": 9
+    }
   }
 }

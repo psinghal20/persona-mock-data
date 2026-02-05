@@ -256,5 +256,534 @@
     "total_orders": 406,
     "total_spent": 325621.25,
     "stores_count": 10
+  },
+  "health_profile": {
+    "demographics": {
+      "dob": "1985-07-25",
+      "gender": "male",
+      "height_cm": 180,
+      "weight_kg": 79.4,
+      "blood_type": "O+",
+      "race": {
+        "code": "2106-3",
+        "display": "White"
+      },
+      "ethnicity": {
+        "code": "2135-2",
+        "display": "Hispanic or Latino"
+      },
+      "location": {
+        "city": "Houston",
+        "state": "Texas",
+        "zip": "77001"
+      },
+      "contact": {
+        "email": "carlos.mendez@email.com",
+        "phone": "555-0113",
+        "emergency_contact": "Maria Mendez",
+        "emergency_phone": "555-0114"
+      }
+    },
+    "conditions": [
+      {
+        "icd10": "M54.5",
+        "snomed": "279039007",
+        "name": "Low back pain",
+        "category": "musculoskeletal",
+        "onset": "2021-03-10",
+        "status": "active",
+        "severity": "moderate",
+        "provider_ref": "orthopedics",
+        "notes": "Physical therapy ongoing, likely from years of basketball",
+        "effects": {
+          "activity_limit": "mild",
+          "fatigue_increase": 0.1,
+          "glucose_impact": "none",
+          "sleep_impact": "mild"
+        }
+      },
+      {
+        "icd10": "R73.03",
+        "snomed": "714628002",
+        "name": "Prediabetes",
+        "category": "metabolic",
+        "onset": "2023-09-15",
+        "status": "active",
+        "severity": "mild",
+        "provider_ref": "primary_care",
+        "notes": "Elevated fasting glucose discovered during routine physical. Diagnosis was a wake-up call - now more focused on diet and consistent exercise. Using CGM to monitor glucose response to meals and workouts.",
+        "effects": {
+          "activity_limit": "none",
+          "glucose_impact": "slight_elevation",
+          "dietary_restrictions": [
+            "low_sugar"
+          ]
+        }
+      }
+    ],
+    "medications": [
+      {
+        "name": "Naproxen",
+        "brand": "Naprosyn",
+        "rxnorm": "7258",
+        "ndc": "00904-5801-60",
+        "dose": "500mg",
+        "frequency": "twice_daily",
+        "route": "oral",
+        "for_condition": "M54.5",
+        "start_date": "2024-01-10",
+        "prescriber_ref": "orthopedics",
+        "pharmacy": "Walgreens",
+        "refills_remaining": 2,
+        "notes": "For back pain, take with food"
+      }
+    ],
+    "allergies": [
+      {
+        "allergen": "Ibuprofen",
+        "type": "medication",
+        "reaction": "Stomach pain",
+        "severity": "mild"
+      }
+    ],
+    "vitals": {
+      "blood_pressure": {
+        "systolic": 126,
+        "diastolic": 82,
+        "variance": 6
+      },
+      "resting_hr": 62,
+      "resting_hr_variance": 5,
+      "max_hr": 180,
+      "spo2": 98,
+      "respiratory_rate": 16,
+      "temperature_c": 36.7
+    },
+    "fitness": {
+      "level": "active",
+      "vo2_max": 40,
+      "training_status": "improving",
+      "daily_activity": {
+        "steps_target": 10000,
+        "steps_typical": [
+          7000,
+          12000
+        ],
+        "active_minutes_target": 45,
+        "active_calories_target": 550
+      },
+      "weekly_workouts": [
+        {
+          "type": "basketball",
+          "frequency": 3,
+          "duration_min": 60,
+          "intensity": "moderate",
+          "preferred_time": "afternoon"
+        },
+        {
+          "type": "walking",
+          "frequency": 5,
+          "duration_min": 30,
+          "intensity": "moderate",
+          "preferred_time": "morning"
+        },
+        {
+          "type": "strength_training",
+          "frequency": 2,
+          "duration_min": 40,
+          "intensity": "moderate"
+        },
+        {
+          "type": "cycling",
+          "frequency": 1,
+          "duration_min": 45,
+          "intensity": "moderate",
+          "notes": "Weekend rides, low-impact alternative to running"
+        }
+      ],
+      "sports": {
+        "primary": "basketball",
+        "secondary": null
+      },
+      "performance": {
+        "running_pace_min_per_km": 6.0,
+        "cycling_ftp_watts": null
+      }
+    },
+    "sleep": {
+      "target_hours": 7.5,
+      "typical_hours": [
+        6.5,
+        8.0
+      ],
+      "quality": "good",
+      "schedule": {
+        "chronotype": "intermediate",
+        "typical_bedtime": "23:00",
+        "typical_wake": "06:30",
+        "weekend_shift_hours": 1
+      },
+      "architecture": {
+        "deep_pct": 20,
+        "rem_pct": 22,
+        "light_pct": 50,
+        "awake_pct": 8
+      },
+      "issues": [
+        "difficulty_staying_asleep"
+      ]
+    },
+    "nutrition": {
+      "diet_type": "diabetic",
+      "calorie_target": 2100,
+      "macros": {
+        "protein_pct": 30,
+        "carbs_pct": 35,
+        "fat_pct": 35
+      },
+      "restrictions": [
+        "low_sugar",
+        "low_carb"
+      ],
+      "hydration": {
+        "target_ml": 3000,
+        "typical_ml": [
+          2500,
+          3500
+        ]
+      },
+      "meal_patterns": {
+        "meals_per_day": 3,
+        "snacks_per_day": 1,
+        "typical_meal_times": [
+          "07:00",
+          "12:30",
+          "19:00"
+        ]
+      },
+      "notes": "Working with nutritionist since prediabetes diagnosis. Cut back on tortillas, rice, and sugary drinks."
+    },
+    "devices": {
+      "fitness_tracker": {
+        "enabled": true,
+        "brand": "garmin",
+        "model": "Venu 3",
+        "device_id": "GRM-P013-001"
+      },
+      "smart_scale": {
+        "enabled": true,
+        "brand": "renpho",
+        "model": "ES-CS20M"
+      },
+      "cgm": {
+        "enabled": true,
+        "brand": "abbott",
+        "model": "FreeStyle Libre 3",
+        "sensor_id": "FL3-429611",
+        "notes": "Using CGM to understand glucose response to different foods and exercise"
+      },
+      "blood_pressure_monitor": {
+        "enabled": false
+      }
+    },
+    "insurance": {
+      "provider": "United Healthcare",
+      "plan": "PPO",
+      "member_id": "INS013",
+      "group_id": "GRP013"
+    }
+  },
+  "healthcare": {
+    "servers": [
+      {
+        "id": "myfitnesspal",
+        "name": "MyFitnessPal",
+        "item_count": 274,
+        "category_count": 3,
+        "primary_category": "Food Logs",
+        "categories": [
+          {
+            "id": "food_logs",
+            "name": "Food Logs",
+            "count": 30
+          },
+          {
+            "id": "exercise_logs",
+            "name": "Exercise Logs",
+            "count": 50
+          },
+          {
+            "id": "water_logs",
+            "name": "Water Logs",
+            "count": 194
+          }
+        ]
+      },
+      {
+        "id": "garmin_health",
+        "name": "Garmin Health",
+        "item_count": 238,
+        "category_count": 9,
+        "primary_category": "Daily Stats",
+        "categories": [
+          {
+            "id": "daily_stats",
+            "name": "Daily Stats",
+            "count": 30
+          },
+          {
+            "id": "sleep",
+            "name": "Sleep",
+            "count": 30
+          },
+          {
+            "id": "stress",
+            "name": "Stress",
+            "count": 30
+          },
+          {
+            "id": "body_battery",
+            "name": "Body Battery",
+            "count": 30
+          },
+          {
+            "id": "activities",
+            "name": "Activities",
+            "count": 18
+          },
+          {
+            "id": "heart_rate",
+            "name": "Heart Rate",
+            "count": 30
+          },
+          {
+            "id": "hrv",
+            "name": "HRV",
+            "count": 30
+          },
+          {
+            "id": "spo2",
+            "name": "SpO2",
+            "count": 30
+          },
+          {
+            "id": "body_composition",
+            "name": "Body Composition",
+            "count": 10
+          }
+        ]
+      },
+      {
+        "id": "fitbit",
+        "name": "Fitbit",
+        "item_count": 121,
+        "category_count": 5,
+        "primary_category": "Daily Activity",
+        "categories": [
+          {
+            "id": "daily_stats",
+            "name": "Daily Activity",
+            "count": 31
+          },
+          {
+            "id": "sleep",
+            "name": "Sleep Logs",
+            "count": 31
+          },
+          {
+            "id": "activities",
+            "name": "Activities",
+            "count": 20
+          },
+          {
+            "id": "heart_rate",
+            "name": "Heart Rate",
+            "count": 31
+          },
+          {
+            "id": "body",
+            "name": "Body Measurements",
+            "count": 8
+          }
+        ]
+      },
+      {
+        "id": "whoop",
+        "name": "WHOOP",
+        "item_count": 118,
+        "category_count": 4,
+        "primary_category": "Physiological Cycles",
+        "categories": [
+          {
+            "id": "cycles",
+            "name": "Physiological Cycles",
+            "count": 31
+          },
+          {
+            "id": "recovery",
+            "name": "Recovery",
+            "count": 31
+          },
+          {
+            "id": "sleep",
+            "name": "Sleep",
+            "count": 31
+          },
+          {
+            "id": "workouts",
+            "name": "Workouts",
+            "count": 25
+          }
+        ]
+      },
+      {
+        "id": "librelink",
+        "name": "LibreLink CGM",
+        "item_count": 36,
+        "category_count": 1,
+        "primary_category": "Glucose Readings",
+        "categories": [
+          {
+            "id": "glucose",
+            "name": "Glucose Readings",
+            "count": 36
+          }
+        ]
+      },
+      {
+        "id": "pharmacy",
+        "name": "Pharmacy",
+        "item_count": 27,
+        "category_count": 1,
+        "primary_category": "Purchases",
+        "categories": [
+          {
+            "id": "purchases",
+            "name": "Purchases",
+            "count": 27
+          }
+        ]
+      },
+      {
+        "id": "fhir",
+        "name": "FHIR EHR",
+        "item_count": 26,
+        "category_count": 4,
+        "primary_category": "Conditions",
+        "categories": [
+          {
+            "id": "conditions",
+            "name": "Conditions",
+            "count": 2
+          },
+          {
+            "id": "observations",
+            "name": "Observations",
+            "count": 22
+          },
+          {
+            "id": "medications",
+            "name": "Medications",
+            "count": 1
+          },
+          {
+            "id": "allergies",
+            "name": "Allergies",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "renpho",
+        "name": "Renpho Scale",
+        "item_count": 19,
+        "category_count": 1,
+        "primary_category": "Body Measurements",
+        "categories": [
+          {
+            "id": "measurements",
+            "name": "Body Measurements",
+            "count": 19
+          }
+        ]
+      },
+      {
+        "id": "athenahealth",
+        "name": "Athenahealth EHR",
+        "item_count": 17,
+        "category_count": 7,
+        "primary_category": "Medical Conditions",
+        "categories": [
+          {
+            "id": "conditions",
+            "name": "Medical Conditions",
+            "count": 2
+          },
+          {
+            "id": "prescriptions",
+            "name": "Prescriptions",
+            "count": 1
+          },
+          {
+            "id": "allergies",
+            "name": "Allergies",
+            "count": 1
+          },
+          {
+            "id": "appointments",
+            "name": "Appointments",
+            "count": 1
+          },
+          {
+            "id": "encounters",
+            "name": "Encounters",
+            "count": 2
+          },
+          {
+            "id": "vitals",
+            "name": "Vitals",
+            "count": 2
+          },
+          {
+            "id": "labs",
+            "name": "Lab Results",
+            "count": 8
+          }
+        ]
+      },
+      {
+        "id": "genetics",
+        "name": "Genetics",
+        "item_count": 15,
+        "category_count": 4,
+        "primary_category": "Health Risks",
+        "categories": [
+          {
+            "id": "health_risks",
+            "name": "Health Risks",
+            "count": 5
+          },
+          {
+            "id": "pharmacogenomics",
+            "name": "Pharmacogenomics",
+            "count": 4
+          },
+          {
+            "id": "carrier_status",
+            "name": "Carrier Status",
+            "count": 3
+          },
+          {
+            "id": "screenings",
+            "name": "Recommended Screenings",
+            "count": 3
+          }
+        ]
+      }
+    ],
+    "stats": {
+      "total_items": 891,
+      "servers_count": 10
+    }
   }
 }

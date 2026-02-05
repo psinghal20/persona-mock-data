@@ -1,0 +1,342 @@
+{
+  "persona_id": "persona_016",
+  "server_id": "librelink",
+  "server_name": "LibreLink CGM",
+  "summary": {
+    "total_items": 36,
+    "category_count": 1
+  },
+  "categories": [
+    {
+      "id": "glucose",
+      "name": "Glucose Readings",
+      "item_count": 36,
+      "items": [
+        {
+          "id": "2026-02-03",
+          "date": "2026-02-03",
+          "reading_count": 1,
+          "average": 129,
+          "min": 129,
+          "max": 129,
+          "time_in_range": 100
+        },
+        {
+          "id": "2026-02-02",
+          "date": "2026-02-02",
+          "reading_count": 288,
+          "average": 147,
+          "min": 103,
+          "max": 192,
+          "time_in_range": 97
+        },
+        {
+          "id": "2026-02-01",
+          "date": "2026-02-01",
+          "reading_count": 288,
+          "average": 150,
+          "min": 109,
+          "max": 210,
+          "time_in_range": 91
+        },
+        {
+          "id": "2026-01-31",
+          "date": "2026-01-31",
+          "reading_count": 288,
+          "average": 148,
+          "min": 100,
+          "max": 203,
+          "time_in_range": 93
+        },
+        {
+          "id": "2026-01-30",
+          "date": "2026-01-30",
+          "reading_count": 288,
+          "average": 151,
+          "min": 109,
+          "max": 218,
+          "time_in_range": 91
+        },
+        {
+          "id": "2026-01-29",
+          "date": "2026-01-29",
+          "reading_count": 288,
+          "average": 146,
+          "min": 112,
+          "max": 229,
+          "time_in_range": 93
+        },
+        {
+          "id": "2026-01-28",
+          "date": "2026-01-28",
+          "reading_count": 288,
+          "average": 149,
+          "min": 105,
+          "max": 200,
+          "time_in_range": 93
+        },
+        {
+          "id": "2026-01-27",
+          "date": "2026-01-27",
+          "reading_count": 288,
+          "average": 147,
+          "min": 108,
+          "max": 207,
+          "time_in_range": 95
+        },
+        {
+          "id": "2026-01-26",
+          "date": "2026-01-26",
+          "reading_count": 288,
+          "average": 148,
+          "min": 111,
+          "max": 234,
+          "time_in_range": 91
+        },
+        {
+          "id": "2026-01-25",
+          "date": "2026-01-25",
+          "reading_count": 288,
+          "average": 150,
+          "min": 111,
+          "max": 210,
+          "time_in_range": 92
+        },
+        {
+          "id": "2026-01-24",
+          "date": "2026-01-24",
+          "reading_count": 288,
+          "average": 149,
+          "min": 111,
+          "max": 204,
+          "time_in_range": 93
+        },
+        {
+          "id": "2026-01-23",
+          "date": "2026-01-23",
+          "reading_count": 288,
+          "average": 147,
+          "min": 112,
+          "max": 214,
+          "time_in_range": 96
+        },
+        {
+          "id": "2026-01-22",
+          "date": "2026-01-22",
+          "reading_count": 288,
+          "average": 150,
+          "min": 118,
+          "max": 200,
+          "time_in_range": 91
+        },
+        {
+          "id": "2026-01-21",
+          "date": "2026-01-21",
+          "reading_count": 288,
+          "average": 147,
+          "min": 109,
+          "max": 215,
+          "time_in_range": 92
+        },
+        {
+          "id": "2026-01-20",
+          "date": "2026-01-20",
+          "reading_count": 288,
+          "average": 149,
+          "min": 104,
+          "max": 202,
+          "time_in_range": 95
+        },
+        {
+          "id": "2026-01-19",
+          "date": "2026-01-19",
+          "reading_count": 288,
+          "average": 149,
+          "min": 111,
+          "max": 219,
+          "time_in_range": 89
+        },
+        {
+          "id": "2026-01-18",
+          "date": "2026-01-18",
+          "reading_count": 288,
+          "average": 148,
+          "min": 108,
+          "max": 198,
+          "time_in_range": 91
+        },
+        {
+          "id": "2026-01-17",
+          "date": "2026-01-17",
+          "reading_count": 288,
+          "average": 150,
+          "min": 112,
+          "max": 215,
+          "time_in_range": 91
+        },
+        {
+          "id": "2026-01-16",
+          "date": "2026-01-16",
+          "reading_count": 288,
+          "average": 150,
+          "min": 103,
+          "max": 204,
+          "time_in_range": 89
+        },
+        {
+          "id": "2026-01-15",
+          "date": "2026-01-15",
+          "reading_count": 288,
+          "average": 149,
+          "min": 98,
+          "max": 227,
+          "time_in_range": 91
+        },
+        {
+          "id": "2026-01-14",
+          "date": "2026-01-14",
+          "reading_count": 288,
+          "average": 149,
+          "min": 105,
+          "max": 227,
+          "time_in_range": 91
+        },
+        {
+          "id": "2026-01-13",
+          "date": "2026-01-13",
+          "reading_count": 288,
+          "average": 149,
+          "min": 106,
+          "max": 213,
+          "time_in_range": 92
+        },
+        {
+          "id": "2026-01-12",
+          "date": "2026-01-12",
+          "reading_count": 288,
+          "average": 148,
+          "min": 110,
+          "max": 207,
+          "time_in_range": 90
+        },
+        {
+          "id": "2026-01-11",
+          "date": "2026-01-11",
+          "reading_count": 288,
+          "average": 147,
+          "min": 107,
+          "max": 210,
+          "time_in_range": 91
+        },
+        {
+          "id": "2026-01-10",
+          "date": "2026-01-10",
+          "reading_count": 288,
+          "average": 148,
+          "min": 102,
+          "max": 206,
+          "time_in_range": 91
+        },
+        {
+          "id": "2026-01-09",
+          "date": "2026-01-09",
+          "reading_count": 288,
+          "average": 149,
+          "min": 107,
+          "max": 210,
+          "time_in_range": 87
+        },
+        {
+          "id": "2026-01-08",
+          "date": "2026-01-08",
+          "reading_count": 288,
+          "average": 149,
+          "min": 113,
+          "max": 212,
+          "time_in_range": 90
+        },
+        {
+          "id": "2026-01-07",
+          "date": "2026-01-07",
+          "reading_count": 288,
+          "average": 148,
+          "min": 109,
+          "max": 212,
+          "time_in_range": 92
+        },
+        {
+          "id": "2026-01-06",
+          "date": "2026-01-06",
+          "reading_count": 288,
+          "average": 146,
+          "min": 98,
+          "max": 196,
+          "time_in_range": 95
+        },
+        {
+          "id": "2026-01-05",
+          "date": "2026-01-05",
+          "reading_count": 288,
+          "average": 150,
+          "min": 113,
+          "max": 205,
+          "time_in_range": 91
+        },
+        {
+          "id": "2026-01-04",
+          "date": "2026-01-04",
+          "reading_count": 288,
+          "average": 149,
+          "min": 102,
+          "max": 192,
+          "time_in_range": 95
+        },
+        {
+          "id": "2026-01-03",
+          "date": "2026-01-03",
+          "reading_count": 288,
+          "average": 149,
+          "min": 118,
+          "max": 202,
+          "time_in_range": 93
+        },
+        {
+          "id": "2026-01-02",
+          "date": "2026-01-02",
+          "reading_count": 288,
+          "average": 149,
+          "min": 103,
+          "max": 208,
+          "time_in_range": 87
+        },
+        {
+          "id": "2026-01-01",
+          "date": "2026-01-01",
+          "reading_count": 288,
+          "average": 150,
+          "min": 110,
+          "max": 214,
+          "time_in_range": 92
+        },
+        {
+          "id": "2025-12-31",
+          "date": "2025-12-31",
+          "reading_count": 288,
+          "average": 148,
+          "min": 109,
+          "max": 198,
+          "time_in_range": 93
+        },
+        {
+          "id": "2025-12-30",
+          "date": "2025-12-30",
+          "reading_count": 288,
+          "average": 148,
+          "min": 112,
+          "max": 199,
+          "time_in_range": 95
+        }
+      ]
+    }
+  ]
+}

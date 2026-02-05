@@ -1,0 +1,1244 @@
+{
+  "persona_id": "persona_023",
+  "server_id": "whoop",
+  "server_name": "WHOOP",
+  "summary": {
+    "total_items": 118,
+    "category_count": 4
+  },
+  "categories": [
+    {
+      "id": "cycles",
+      "name": "Physiological Cycles",
+      "item_count": 31,
+      "items": [
+        {
+          "id": "CYC-P023-001",
+          "date": "2026-02-03",
+          "start_time": "2026-02-03T04:00:00Z",
+          "end_time": "2026-02-03T23:59:59Z",
+          "strain": 3.6,
+          "kilojoules": 6691,
+          "average_heart_rate": 59,
+          "max_heart_rate": 79
+        },
+        {
+          "id": "CYC-P023-002",
+          "date": "2026-02-02",
+          "start_time": "2026-02-02T04:00:00Z",
+          "end_time": "2026-02-02T23:59:59Z",
+          "strain": 6.5,
+          "kilojoules": 8255,
+          "average_heart_rate": 64,
+          "max_heart_rate": 111
+        },
+        {
+          "id": "CYC-P023-003",
+          "date": "2026-02-01",
+          "start_time": "2026-02-01T04:00:00Z",
+          "end_time": "2026-02-01T23:59:59Z",
+          "strain": 6.3,
+          "kilojoules": 8257,
+          "average_heart_rate": 68,
+          "max_heart_rate": 113
+        },
+        {
+          "id": "CYC-P023-004",
+          "date": "2026-01-31",
+          "start_time": "2026-01-31T04:00:00Z",
+          "end_time": "2026-01-31T23:59:59Z",
+          "strain": 10.2,
+          "kilojoules": 9249,
+          "average_heart_rate": 68,
+          "max_heart_rate": 112
+        },
+        {
+          "id": "CYC-P023-005",
+          "date": "2026-01-30",
+          "start_time": "2026-01-30T04:00:00Z",
+          "end_time": "2026-01-30T23:59:59Z",
+          "strain": 8.2,
+          "kilojoules": 8176,
+          "average_heart_rate": 66,
+          "max_heart_rate": 115
+        },
+        {
+          "id": "CYC-P023-006",
+          "date": "2026-01-29",
+          "start_time": "2026-01-29T04:00:00Z",
+          "end_time": "2026-01-29T23:59:59Z",
+          "strain": 4.8,
+          "kilojoules": 7907,
+          "average_heart_rate": 58,
+          "max_heart_rate": 99
+        },
+        {
+          "id": "CYC-P023-007",
+          "date": "2026-01-28",
+          "start_time": "2026-01-28T04:00:00Z",
+          "end_time": "2026-01-28T23:59:59Z",
+          "strain": 10.1,
+          "kilojoules": 9077,
+          "average_heart_rate": 71,
+          "max_heart_rate": 130
+        },
+        {
+          "id": "CYC-P023-008",
+          "date": "2026-01-27",
+          "start_time": "2026-01-27T04:00:00Z",
+          "end_time": "2026-01-27T23:59:59Z",
+          "strain": 7.4,
+          "kilojoules": 8203,
+          "average_heart_rate": 61,
+          "max_heart_rate": 112
+        },
+        {
+          "id": "CYC-P023-009",
+          "date": "2026-01-26",
+          "start_time": "2026-01-26T04:00:00Z",
+          "end_time": "2026-01-26T23:59:59Z",
+          "strain": 7.4,
+          "kilojoules": 8084,
+          "average_heart_rate": 63,
+          "max_heart_rate": 100
+        },
+        {
+          "id": "CYC-P023-010",
+          "date": "2026-01-25",
+          "start_time": "2026-01-25T04:00:00Z",
+          "end_time": "2026-01-25T23:59:59Z",
+          "strain": 9.8,
+          "kilojoules": 8898,
+          "average_heart_rate": 67,
+          "max_heart_rate": 106
+        },
+        {
+          "id": "CYC-P023-011",
+          "date": "2026-01-24",
+          "start_time": "2026-01-24T04:00:00Z",
+          "end_time": "2026-01-24T23:59:59Z",
+          "strain": 5.1,
+          "kilojoules": 7309,
+          "average_heart_rate": 56,
+          "max_heart_rate": 98
+        },
+        {
+          "id": "CYC-P023-012",
+          "date": "2026-01-23",
+          "start_time": "2026-01-23T04:00:00Z",
+          "end_time": "2026-01-23T23:59:59Z",
+          "strain": 4.2,
+          "kilojoules": 7482,
+          "average_heart_rate": 56,
+          "max_heart_rate": 85
+        },
+        {
+          "id": "CYC-P023-013",
+          "date": "2026-01-22",
+          "start_time": "2026-01-22T04:00:00Z",
+          "end_time": "2026-01-22T23:59:59Z",
+          "strain": 3.7,
+          "kilojoules": 7408,
+          "average_heart_rate": 59,
+          "max_heart_rate": 94
+        },
+        {
+          "id": "CYC-P023-014",
+          "date": "2026-01-21",
+          "start_time": "2026-01-21T04:00:00Z",
+          "end_time": "2026-01-21T23:59:59Z",
+          "strain": 9.0,
+          "kilojoules": 8718,
+          "average_heart_rate": 69,
+          "max_heart_rate": 114
+        },
+        {
+          "id": "CYC-P023-015",
+          "date": "2026-01-20",
+          "start_time": "2026-01-20T04:00:00Z",
+          "end_time": "2026-01-20T23:59:59Z",
+          "strain": 5.5,
+          "kilojoules": 7768,
+          "average_heart_rate": 64,
+          "max_heart_rate": 110
+        },
+        {
+          "id": "CYC-P023-016",
+          "date": "2026-01-19",
+          "start_time": "2026-01-19T04:00:00Z",
+          "end_time": "2026-01-19T23:59:59Z",
+          "strain": 5.0,
+          "kilojoules": 7265,
+          "average_heart_rate": 62,
+          "max_heart_rate": 101
+        },
+        {
+          "id": "CYC-P023-017",
+          "date": "2026-01-18",
+          "start_time": "2026-01-18T04:00:00Z",
+          "end_time": "2026-01-18T23:59:59Z",
+          "strain": 6.9,
+          "kilojoules": 7981,
+          "average_heart_rate": 59,
+          "max_heart_rate": 100
+        },
+        {
+          "id": "CYC-P023-018",
+          "date": "2026-01-17",
+          "start_time": "2026-01-17T04:00:00Z",
+          "end_time": "2026-01-17T23:59:59Z",
+          "strain": 6.1,
+          "kilojoules": 7449,
+          "average_heart_rate": 59,
+          "max_heart_rate": 102
+        },
+        {
+          "id": "CYC-P023-019",
+          "date": "2026-01-16",
+          "start_time": "2026-01-16T04:00:00Z",
+          "end_time": "2026-01-16T23:59:59Z",
+          "strain": 10.9,
+          "kilojoules": 9662,
+          "average_heart_rate": 75,
+          "max_heart_rate": 129
+        },
+        {
+          "id": "CYC-P023-020",
+          "date": "2026-01-15",
+          "start_time": "2026-01-15T04:00:00Z",
+          "end_time": "2026-01-15T23:59:59Z",
+          "strain": 7.0,
+          "kilojoules": 8393,
+          "average_heart_rate": 59,
+          "max_heart_rate": 109
+        },
+        {
+          "id": "CYC-P023-021",
+          "date": "2026-01-14",
+          "start_time": "2026-01-14T04:00:00Z",
+          "end_time": "2026-01-14T23:59:59Z",
+          "strain": 9.0,
+          "kilojoules": 9147,
+          "average_heart_rate": 65,
+          "max_heart_rate": 111
+        },
+        {
+          "id": "CYC-P023-022",
+          "date": "2026-01-13",
+          "start_time": "2026-01-13T04:00:00Z",
+          "end_time": "2026-01-13T23:59:59Z",
+          "strain": 7.4,
+          "kilojoules": 7912,
+          "average_heart_rate": 64,
+          "max_heart_rate": 109
+        },
+        {
+          "id": "CYC-P023-023",
+          "date": "2026-01-12",
+          "start_time": "2026-01-12T04:00:00Z",
+          "end_time": "2026-01-12T23:59:59Z",
+          "strain": 7.9,
+          "kilojoules": 8854,
+          "average_heart_rate": 70,
+          "max_heart_rate": 106
+        },
+        {
+          "id": "CYC-P023-024",
+          "date": "2026-01-11",
+          "start_time": "2026-01-11T04:00:00Z",
+          "end_time": "2026-01-11T23:59:59Z",
+          "strain": 7.9,
+          "kilojoules": 7990,
+          "average_heart_rate": 64,
+          "max_heart_rate": 111
+        },
+        {
+          "id": "CYC-P023-025",
+          "date": "2026-01-10",
+          "start_time": "2026-01-10T04:00:00Z",
+          "end_time": "2026-01-10T23:59:59Z",
+          "strain": 7.8,
+          "kilojoules": 7954,
+          "average_heart_rate": 65,
+          "max_heart_rate": 116
+        },
+        {
+          "id": "CYC-P023-026",
+          "date": "2026-01-09",
+          "start_time": "2026-01-09T04:00:00Z",
+          "end_time": "2026-01-09T23:59:59Z",
+          "strain": 8.3,
+          "kilojoules": 8773,
+          "average_heart_rate": 71,
+          "max_heart_rate": 108
+        },
+        {
+          "id": "CYC-P023-027",
+          "date": "2026-01-08",
+          "start_time": "2026-01-08T04:00:00Z",
+          "end_time": "2026-01-08T23:59:59Z",
+          "strain": 6.4,
+          "kilojoules": 8049,
+          "average_heart_rate": 63,
+          "max_heart_rate": 109
+        },
+        {
+          "id": "CYC-P023-028",
+          "date": "2026-01-07",
+          "start_time": "2026-01-07T04:00:00Z",
+          "end_time": "2026-01-07T23:59:59Z",
+          "strain": 10.0,
+          "kilojoules": 8828,
+          "average_heart_rate": 70,
+          "max_heart_rate": 111
+        },
+        {
+          "id": "CYC-P023-029",
+          "date": "2026-01-06",
+          "start_time": "2026-01-06T04:00:00Z",
+          "end_time": "2026-01-06T23:59:59Z",
+          "strain": 6.9,
+          "kilojoules": 8476,
+          "average_heart_rate": 60,
+          "max_heart_rate": 93
+        },
+        {
+          "id": "CYC-P023-030",
+          "date": "2026-01-05",
+          "start_time": "2026-01-05T04:00:00Z",
+          "end_time": "2026-01-05T23:59:59Z",
+          "strain": 7.2,
+          "kilojoules": 8201,
+          "average_heart_rate": 60,
+          "max_heart_rate": 104
+        },
+        {
+          "id": "CYC-P023-031",
+          "date": "2026-01-04",
+          "start_time": "2026-01-04T04:00:00Z",
+          "end_time": "2026-01-04T23:59:59Z",
+          "strain": 7.6,
+          "kilojoules": 8465,
+          "average_heart_rate": 62,
+          "max_heart_rate": 96
+        }
+      ]
+    },
+    {
+      "id": "recovery",
+      "name": "Recovery",
+      "item_count": 31,
+      "items": [
+        {
+          "id": "CYC-P023-001",
+          "date": "",
+          "recovery_score": 96,
+          "resting_heart_rate": 56.0,
+          "hrv": 55.0,
+          "spo2": 99.2,
+          "skin_temp": 36.6,
+          "state": "green"
+        },
+        {
+          "id": "CYC-P023-002",
+          "date": "",
+          "recovery_score": 98,
+          "resting_heart_rate": 46.0,
+          "hrv": 56.8,
+          "spo2": 98.6,
+          "skin_temp": 35.6,
+          "state": "green"
+        },
+        {
+          "id": "CYC-P023-003",
+          "date": "",
+          "recovery_score": 97,
+          "resting_heart_rate": 53.0,
+          "hrv": 55.7,
+          "spo2": 98.6,
+          "skin_temp": 36.3,
+          "state": "green"
+        },
+        {
+          "id": "CYC-P023-004",
+          "date": "",
+          "recovery_score": 91,
+          "resting_heart_rate": 48.0,
+          "hrv": 55.0,
+          "spo2": 99.0,
+          "skin_temp": 36.3,
+          "state": "green"
+        },
+        {
+          "id": "CYC-P023-005",
+          "date": "",
+          "recovery_score": 96,
+          "resting_heart_rate": 56.0,
+          "hrv": 58.3,
+          "spo2": 98.4,
+          "skin_temp": 36.2,
+          "state": "green"
+        },
+        {
+          "id": "CYC-P023-006",
+          "date": "",
+          "recovery_score": 89,
+          "resting_heart_rate": 48.0,
+          "hrv": 55.0,
+          "spo2": 99.4,
+          "skin_temp": 35.6,
+          "state": "green"
+        },
+        {
+          "id": "CYC-P023-007",
+          "date": "",
+          "recovery_score": 77,
+          "resting_heart_rate": 50.0,
+          "hrv": 55.0,
+          "spo2": 97.9,
+          "skin_temp": 36.4,
+          "state": "green"
+        },
+        {
+          "id": "CYC-P023-008",
+          "date": "",
+          "recovery_score": 92,
+          "resting_heart_rate": 50.0,
+          "hrv": 55.0,
+          "spo2": 97.6,
+          "skin_temp": 36.1,
+          "state": "green"
+        },
+        {
+          "id": "CYC-P023-009",
+          "date": "",
+          "recovery_score": 90,
+          "resting_heart_rate": 49.0,
+          "hrv": 55.2,
+          "spo2": 97.9,
+          "skin_temp": 36.2,
+          "state": "green"
+        },
+        {
+          "id": "CYC-P023-010",
+          "date": "",
+          "recovery_score": 87,
+          "resting_heart_rate": 48.0,
+          "hrv": 55.0,
+          "spo2": 98.2,
+          "skin_temp": 35.7,
+          "state": "green"
+        },
+        {
+          "id": "CYC-P023-011",
+          "date": "",
+          "recovery_score": 96,
+          "resting_heart_rate": 50.0,
+          "hrv": 55.0,
+          "spo2": 98.9,
+          "skin_temp": 36.1,
+          "state": "green"
+        },
+        {
+          "id": "CYC-P023-012",
+          "date": "",
+          "recovery_score": 100,
+          "resting_heart_rate": 50.0,
+          "hrv": 59.4,
+          "spo2": 97.9,
+          "skin_temp": 35.5,
+          "state": "green"
+        },
+        {
+          "id": "CYC-P023-013",
+          "date": "",
+          "recovery_score": 100,
+          "resting_heart_rate": 52.0,
+          "hrv": 55.0,
+          "spo2": 98.4,
+          "skin_temp": 36.6,
+          "state": "green"
+        },
+        {
+          "id": "CYC-P023-014",
+          "date": "",
+          "recovery_score": 84,
+          "resting_heart_rate": 54.0,
+          "hrv": 55.0,
+          "spo2": 97.6,
+          "skin_temp": 36.2,
+          "state": "green"
+        },
+        {
+          "id": "CYC-P023-015",
+          "date": "",
+          "recovery_score": 94,
+          "resting_heart_rate": 51.0,
+          "hrv": 55.0,
+          "spo2": 99.3,
+          "skin_temp": 36.4,
+          "state": "green"
+        },
+        {
+          "id": "CYC-P023-016",
+          "date": "",
+          "recovery_score": 99,
+          "resting_heart_rate": 46.0,
+          "hrv": 55.0,
+          "spo2": 97.6,
+          "skin_temp": 35.7,
+          "state": "green"
+        },
+        {
+          "id": "CYC-P023-017",
+          "date": "",
+          "recovery_score": 88,
+          "resting_heart_rate": 55.0,
+          "hrv": 55.0,
+          "spo2": 99.1,
+          "skin_temp": 36.1,
+          "state": "green"
+        },
+        {
+          "id": "CYC-P023-018",
+          "date": "",
+          "recovery_score": 91,
+          "resting_heart_rate": 54.0,
+          "hrv": 55.0,
+          "spo2": 98.0,
+          "skin_temp": 36.5,
+          "state": "green"
+        },
+        {
+          "id": "CYC-P023-019",
+          "date": "",
+          "recovery_score": 73,
+          "resting_heart_rate": 52.0,
+          "hrv": 55.1,
+          "spo2": 99.1,
+          "skin_temp": 36.0,
+          "state": "green"
+        },
+        {
+          "id": "CYC-P023-020",
+          "date": "",
+          "recovery_score": 90,
+          "resting_heart_rate": 53.0,
+          "hrv": 55.0,
+          "spo2": 98.0,
+          "skin_temp": 36.1,
+          "state": "green"
+        },
+        {
+          "id": "CYC-P023-021",
+          "date": "",
+          "recovery_score": 87,
+          "resting_heart_rate": 47.0,
+          "hrv": 67.8,
+          "spo2": 98.8,
+          "skin_temp": 35.7,
+          "state": "green"
+        },
+        {
+          "id": "CYC-P023-022",
+          "date": "",
+          "recovery_score": 82,
+          "resting_heart_rate": 48.0,
+          "hrv": 55.0,
+          "spo2": 97.9,
+          "skin_temp": 36.3,
+          "state": "green"
+        },
+        {
+          "id": "CYC-P023-023",
+          "date": "",
+          "recovery_score": 84,
+          "resting_heart_rate": 46.0,
+          "hrv": 55.0,
+          "spo2": 97.9,
+          "skin_temp": 35.7,
+          "state": "green"
+        },
+        {
+          "id": "CYC-P023-024",
+          "date": "",
+          "recovery_score": 97,
+          "resting_heart_rate": 56.0,
+          "hrv": 64.7,
+          "spo2": 98.7,
+          "skin_temp": 35.7,
+          "state": "green"
+        },
+        {
+          "id": "CYC-P023-025",
+          "date": "",
+          "recovery_score": 85,
+          "resting_heart_rate": 49.0,
+          "hrv": 56.4,
+          "spo2": 97.7,
+          "skin_temp": 36.5,
+          "state": "green"
+        },
+        {
+          "id": "CYC-P023-026",
+          "date": "",
+          "recovery_score": 78,
+          "resting_heart_rate": 58.0,
+          "hrv": 55.0,
+          "spo2": 99.0,
+          "skin_temp": 35.7,
+          "state": "green"
+        },
+        {
+          "id": "CYC-P023-027",
+          "date": "",
+          "recovery_score": 97,
+          "resting_heart_rate": 51.0,
+          "hrv": 69.7,
+          "spo2": 98.2,
+          "skin_temp": 36.1,
+          "state": "green"
+        },
+        {
+          "id": "CYC-P023-028",
+          "date": "",
+          "recovery_score": 76,
+          "resting_heart_rate": 55.0,
+          "hrv": 55.0,
+          "spo2": 98.6,
+          "skin_temp": 36.4,
+          "state": "green"
+        },
+        {
+          "id": "CYC-P023-029",
+          "date": "",
+          "recovery_score": 100,
+          "resting_heart_rate": 47.0,
+          "hrv": 56.7,
+          "spo2": 99.2,
+          "skin_temp": 35.9,
+          "state": "green"
+        },
+        {
+          "id": "CYC-P023-030",
+          "date": "",
+          "recovery_score": 84,
+          "resting_heart_rate": 54.0,
+          "hrv": 69.0,
+          "spo2": 98.9,
+          "skin_temp": 35.6,
+          "state": "green"
+        },
+        {
+          "id": "CYC-P023-031",
+          "date": "",
+          "recovery_score": 87,
+          "resting_heart_rate": 48.0,
+          "hrv": 55.0,
+          "spo2": 99.0,
+          "skin_temp": 35.6,
+          "state": "green"
+        }
+      ]
+    },
+    {
+      "id": "sleep",
+      "name": "Sleep",
+      "item_count": 31,
+      "items": [
+        {
+          "id": "",
+          "date": "2026-02-02",
+          "start_time": "2026-02-02T23:10:00Z",
+          "end_time": "2026-02-03T06:50:11Z",
+          "is_nap": false,
+          "score_total": 0,
+          "efficiency": 0.0,
+          "respiratory_rate": 15.6
+        },
+        {
+          "id": "",
+          "date": "2026-02-01",
+          "start_time": "2026-02-01T23:33:00Z",
+          "end_time": "2026-02-02T07:32:39Z",
+          "is_nap": false,
+          "score_total": 0,
+          "efficiency": 0.0,
+          "respiratory_rate": 14.5
+        },
+        {
+          "id": "",
+          "date": "2026-01-31",
+          "start_time": "2026-01-31T23:39:00Z",
+          "end_time": "2026-02-01T07:29:01Z",
+          "is_nap": false,
+          "score_total": 0,
+          "efficiency": 0.0,
+          "respiratory_rate": 15.2
+        },
+        {
+          "id": "",
+          "date": "2026-01-30",
+          "start_time": "2026-01-30T23:25:00Z",
+          "end_time": "2026-01-31T08:55:43Z",
+          "is_nap": false,
+          "score_total": 0,
+          "efficiency": 0.0,
+          "respiratory_rate": 15.3
+        },
+        {
+          "id": "",
+          "date": "2026-01-29",
+          "start_time": "2026-01-29T23:28:00Z",
+          "end_time": "2026-01-30T09:13:31Z",
+          "is_nap": false,
+          "score_total": 0,
+          "efficiency": 0.0,
+          "respiratory_rate": 15.3
+        },
+        {
+          "id": "",
+          "date": "2026-01-28",
+          "start_time": "2026-01-28T23:08:00Z",
+          "end_time": "2026-01-29T07:46:42Z",
+          "is_nap": false,
+          "score_total": 0,
+          "efficiency": 0.0,
+          "respiratory_rate": 15.8
+        },
+        {
+          "id": "",
+          "date": "2026-01-27",
+          "start_time": "2026-01-27T23:08:00Z",
+          "end_time": "2026-01-28T08:45:05Z",
+          "is_nap": false,
+          "score_total": 0,
+          "efficiency": 0.0,
+          "respiratory_rate": 15.1
+        },
+        {
+          "id": "",
+          "date": "2026-01-26",
+          "start_time": "2026-01-26T23:33:00Z",
+          "end_time": "2026-01-27T08:58:15Z",
+          "is_nap": false,
+          "score_total": 0,
+          "efficiency": 0.0,
+          "respiratory_rate": 14.1
+        },
+        {
+          "id": "",
+          "date": "2026-01-25",
+          "start_time": "2026-01-25T23:30:00Z",
+          "end_time": "2026-01-26T08:22:13Z",
+          "is_nap": false,
+          "score_total": 0,
+          "efficiency": 0.0,
+          "respiratory_rate": 15.0
+        },
+        {
+          "id": "",
+          "date": "2026-01-24",
+          "start_time": "2026-01-24T22:42:00Z",
+          "end_time": "2026-01-25T07:47:49Z",
+          "is_nap": false,
+          "score_total": 0,
+          "efficiency": 0.0,
+          "respiratory_rate": 15.8
+        },
+        {
+          "id": "",
+          "date": "2026-01-23",
+          "start_time": "2026-01-23T23:45:00Z",
+          "end_time": "2026-01-24T07:18:44Z",
+          "is_nap": false,
+          "score_total": 0,
+          "efficiency": 0.0,
+          "respiratory_rate": 14.8
+        },
+        {
+          "id": "",
+          "date": "2026-01-22",
+          "start_time": "2026-01-22T23:02:00Z",
+          "end_time": "2026-01-23T08:18:02Z",
+          "is_nap": false,
+          "score_total": 0,
+          "efficiency": 0.0,
+          "respiratory_rate": 14.8
+        },
+        {
+          "id": "",
+          "date": "2026-01-21",
+          "start_time": "2026-01-21T23:33:00Z",
+          "end_time": "2026-01-22T08:23:41Z",
+          "is_nap": false,
+          "score_total": 0,
+          "efficiency": 0.0,
+          "respiratory_rate": 15.4
+        },
+        {
+          "id": "",
+          "date": "2026-01-20",
+          "start_time": "2026-01-20T22:22:00Z",
+          "end_time": "2026-01-21T07:49:45Z",
+          "is_nap": false,
+          "score_total": 0,
+          "efficiency": 0.0,
+          "respiratory_rate": 15.9
+        },
+        {
+          "id": "",
+          "date": "2026-01-19",
+          "start_time": "2026-01-19T23:34:00Z",
+          "end_time": "2026-01-20T07:13:36Z",
+          "is_nap": false,
+          "score_total": 0,
+          "efficiency": 0.0,
+          "respiratory_rate": 13.4
+        },
+        {
+          "id": "",
+          "date": "2026-01-18",
+          "start_time": "2026-01-18T23:44:00Z",
+          "end_time": "2026-01-19T08:09:38Z",
+          "is_nap": false,
+          "score_total": 0,
+          "efficiency": 0.0,
+          "respiratory_rate": 15.9
+        },
+        {
+          "id": "",
+          "date": "2026-01-17",
+          "start_time": "2026-01-17T23:31:00Z",
+          "end_time": "2026-01-18T08:14:55Z",
+          "is_nap": false,
+          "score_total": 0,
+          "efficiency": 0.0,
+          "respiratory_rate": 16.0
+        },
+        {
+          "id": "",
+          "date": "2026-01-16",
+          "start_time": "2026-01-16T23:36:00Z",
+          "end_time": "2026-01-17T09:31:52Z",
+          "is_nap": false,
+          "score_total": 0,
+          "efficiency": 0.0,
+          "respiratory_rate": 14.1
+        },
+        {
+          "id": "",
+          "date": "2026-01-15",
+          "start_time": "2026-01-15T22:03:00Z",
+          "end_time": "2026-01-16T07:00:53Z",
+          "is_nap": false,
+          "score_total": 0,
+          "efficiency": 0.0,
+          "respiratory_rate": 15.8
+        },
+        {
+          "id": "",
+          "date": "2026-01-14",
+          "start_time": "2026-01-14T22:10:00Z",
+          "end_time": "2026-01-15T07:31:06Z",
+          "is_nap": false,
+          "score_total": 0,
+          "efficiency": 0.0,
+          "respiratory_rate": 13.8
+        },
+        {
+          "id": "",
+          "date": "2026-01-13",
+          "start_time": "2026-01-13T23:40:00Z",
+          "end_time": "2026-01-14T08:49:07Z",
+          "is_nap": false,
+          "score_total": 0,
+          "efficiency": 0.0,
+          "respiratory_rate": 13.6
+        },
+        {
+          "id": "",
+          "date": "2026-01-12",
+          "start_time": "2026-01-12T22:15:00Z",
+          "end_time": "2026-01-13T07:49:05Z",
+          "is_nap": false,
+          "score_total": 0,
+          "efficiency": 0.0,
+          "respiratory_rate": 13.2
+        },
+        {
+          "id": "",
+          "date": "2026-01-11",
+          "start_time": "2026-01-11T23:01:00Z",
+          "end_time": "2026-01-12T07:07:17Z",
+          "is_nap": false,
+          "score_total": 0,
+          "efficiency": 0.0,
+          "respiratory_rate": 13.7
+        },
+        {
+          "id": "",
+          "date": "2026-01-10",
+          "start_time": "2026-01-10T23:19:00Z",
+          "end_time": "2026-01-11T08:16:12Z",
+          "is_nap": false,
+          "score_total": 0,
+          "efficiency": 0.0,
+          "respiratory_rate": 14.6
+        },
+        {
+          "id": "",
+          "date": "2026-01-09",
+          "start_time": "2026-01-09T22:24:00Z",
+          "end_time": "2026-01-10T07:33:13Z",
+          "is_nap": false,
+          "score_total": 0,
+          "efficiency": 0.0,
+          "respiratory_rate": 15.1
+        },
+        {
+          "id": "",
+          "date": "2026-01-08",
+          "start_time": "2026-01-08T23:24:00Z",
+          "end_time": "2026-01-09T07:31:04Z",
+          "is_nap": false,
+          "score_total": 0,
+          "efficiency": 0.0,
+          "respiratory_rate": 15.9
+        },
+        {
+          "id": "",
+          "date": "2026-01-07",
+          "start_time": "2026-01-07T23:32:00Z",
+          "end_time": "2026-01-08T07:12:06Z",
+          "is_nap": false,
+          "score_total": 0,
+          "efficiency": 0.0,
+          "respiratory_rate": 13.2
+        },
+        {
+          "id": "",
+          "date": "2026-01-06",
+          "start_time": "2026-01-06T23:30:00Z",
+          "end_time": "2026-01-07T07:29:35Z",
+          "is_nap": false,
+          "score_total": 0,
+          "efficiency": 0.0,
+          "respiratory_rate": 13.2
+        },
+        {
+          "id": "",
+          "date": "2026-01-05",
+          "start_time": "2026-01-05T23:39:00Z",
+          "end_time": "2026-01-06T09:00:16Z",
+          "is_nap": false,
+          "score_total": 0,
+          "efficiency": 0.0,
+          "respiratory_rate": 14.5
+        },
+        {
+          "id": "",
+          "date": "2026-01-04",
+          "start_time": "2026-01-04T23:28:00Z",
+          "end_time": "2026-01-05T07:57:59Z",
+          "is_nap": false,
+          "score_total": 0,
+          "efficiency": 0.0,
+          "respiratory_rate": 14.8
+        },
+        {
+          "id": "",
+          "date": "2026-01-03",
+          "start_time": "2026-01-03T22:40:00Z",
+          "end_time": "2026-01-04T08:22:37Z",
+          "is_nap": false,
+          "score_total": 0,
+          "efficiency": 0.0,
+          "respiratory_rate": 14.9
+        }
+      ]
+    },
+    {
+      "id": "workouts",
+      "name": "Workouts",
+      "item_count": 25,
+      "items": [
+        {
+          "id": "",
+          "date": "2026-02-03",
+          "start_time": "2026-02-03T20:25:00Z",
+          "end_time": "2026-02-03T22:00:00Z",
+          "sport_name": "Basketball",
+          "strain": 19.1,
+          "average_heart_rate": 0,
+          "max_heart_rate": 0,
+          "kilojoules": 0
+        },
+        {
+          "id": "",
+          "date": "2026-02-03",
+          "start_time": "2026-02-03T17:20:00Z",
+          "end_time": "2026-02-03T19:20:00Z",
+          "sport_name": "Esports",
+          "strain": 9.8,
+          "average_heart_rate": 0,
+          "max_heart_rate": 0,
+          "kilojoules": 0
+        },
+        {
+          "id": "",
+          "date": "2026-02-03",
+          "start_time": "2026-02-03T17:13:00Z",
+          "end_time": "2026-02-03T18:49:00Z",
+          "sport_name": "Basketball",
+          "strain": 18.3,
+          "average_heart_rate": 0,
+          "max_heart_rate": 0,
+          "kilojoules": 0
+        },
+        {
+          "id": "",
+          "date": "2026-02-03",
+          "start_time": "2026-02-03T16:01:00Z",
+          "end_time": "2026-02-03T17:34:00Z",
+          "sport_name": "Basketball",
+          "strain": 17.6,
+          "average_heart_rate": 0,
+          "max_heart_rate": 0,
+          "kilojoules": 0
+        },
+        {
+          "id": "",
+          "date": "2026-02-03",
+          "start_time": "2026-02-03T10:03:00Z",
+          "end_time": "2026-02-03T11:34:00Z",
+          "sport_name": "Basketball",
+          "strain": 18.8,
+          "average_heart_rate": 0,
+          "max_heart_rate": 0,
+          "kilojoules": 0
+        },
+        {
+          "id": "",
+          "date": "2026-02-02",
+          "start_time": "2026-02-02T06:17:00Z",
+          "end_time": "2026-02-02T07:51:00Z",
+          "sport_name": "Basketball",
+          "strain": 16.7,
+          "average_heart_rate": 0,
+          "max_heart_rate": 0,
+          "kilojoules": 0
+        },
+        {
+          "id": "",
+          "date": "2026-02-01",
+          "start_time": "2026-02-01T20:23:00Z",
+          "end_time": "2026-02-01T22:28:00Z",
+          "sport_name": "Esports",
+          "strain": 11.7,
+          "average_heart_rate": 0,
+          "max_heart_rate": 0,
+          "kilojoules": 0
+        },
+        {
+          "id": "",
+          "date": "2026-02-01",
+          "start_time": "2026-02-01T08:27:00Z",
+          "end_time": "2026-02-01T10:06:00Z",
+          "sport_name": "Basketball",
+          "strain": 17.4,
+          "average_heart_rate": 0,
+          "max_heart_rate": 0,
+          "kilojoules": 0
+        },
+        {
+          "id": "",
+          "date": "2026-02-01",
+          "start_time": "2026-02-01T07:21:00Z",
+          "end_time": "2026-02-01T08:06:00Z",
+          "sport_name": "Strength Training",
+          "strain": 12.3,
+          "average_heart_rate": 0,
+          "max_heart_rate": 0,
+          "kilojoules": 0
+        },
+        {
+          "id": "",
+          "date": "2026-01-31",
+          "start_time": "2026-01-31T20:29:00Z",
+          "end_time": "2026-01-31T21:51:00Z",
+          "sport_name": "Basketball",
+          "strain": 16.9,
+          "average_heart_rate": 0,
+          "max_heart_rate": 0,
+          "kilojoules": 0
+        },
+        {
+          "id": "",
+          "date": "2026-01-31",
+          "start_time": "2026-01-31T19:20:00Z",
+          "end_time": "2026-01-31T21:18:00Z",
+          "sport_name": "Esports",
+          "strain": 10.2,
+          "average_heart_rate": 0,
+          "max_heart_rate": 0,
+          "kilojoules": 0
+        },
+        {
+          "id": "",
+          "date": "2026-01-31",
+          "start_time": "2026-01-31T09:14:00Z",
+          "end_time": "2026-01-31T09:37:00Z",
+          "sport_name": "Running",
+          "strain": 7.7,
+          "average_heart_rate": 0,
+          "max_heart_rate": 0,
+          "kilojoules": 0
+        },
+        {
+          "id": "",
+          "date": "2026-01-31",
+          "start_time": "2026-01-31T06:04:00Z",
+          "end_time": "2026-01-31T07:28:00Z",
+          "sport_name": "Basketball",
+          "strain": 18.0,
+          "average_heart_rate": 0,
+          "max_heart_rate": 0,
+          "kilojoules": 0
+        },
+        {
+          "id": "",
+          "date": "2026-01-30",
+          "start_time": "2026-01-30T20:27:00Z",
+          "end_time": "2026-01-30T21:20:00Z",
+          "sport_name": "Strength Training",
+          "strain": 13.0,
+          "average_heart_rate": 0,
+          "max_heart_rate": 0,
+          "kilojoules": 0
+        },
+        {
+          "id": "",
+          "date": "2026-01-30",
+          "start_time": "2026-01-30T17:27:00Z",
+          "end_time": "2026-01-30T19:34:00Z",
+          "sport_name": "Esports",
+          "strain": 9.9,
+          "average_heart_rate": 0,
+          "max_heart_rate": 0,
+          "kilojoules": 0
+        },
+        {
+          "id": "",
+          "date": "2026-01-30",
+          "start_time": "2026-01-30T05:25:00Z",
+          "end_time": "2026-01-30T06:05:00Z",
+          "sport_name": "Running",
+          "strain": 9.5,
+          "average_heart_rate": 0,
+          "max_heart_rate": 0,
+          "kilojoules": 0
+        },
+        {
+          "id": "",
+          "date": "2026-01-29",
+          "start_time": "2026-01-29T07:18:00Z",
+          "end_time": "2026-01-29T07:52:00Z",
+          "sport_name": "Running",
+          "strain": 10.5,
+          "average_heart_rate": 0,
+          "max_heart_rate": 0,
+          "kilojoules": 0
+        },
+        {
+          "id": "",
+          "date": "2026-01-28",
+          "start_time": "2026-01-28T16:16:00Z",
+          "end_time": "2026-01-28T17:08:00Z",
+          "sport_name": "Strength Training",
+          "strain": 13.9,
+          "average_heart_rate": 0,
+          "max_heart_rate": 0,
+          "kilojoules": 0
+        },
+        {
+          "id": "",
+          "date": "2026-01-28",
+          "start_time": "2026-01-28T08:05:00Z",
+          "end_time": "2026-01-28T09:04:00Z",
+          "sport_name": "Strength Training",
+          "strain": 13.7,
+          "average_heart_rate": 0,
+          "max_heart_rate": 0,
+          "kilojoules": 0
+        },
+        {
+          "id": "",
+          "date": "2026-01-28",
+          "start_time": "2026-01-28T07:03:00Z",
+          "end_time": "2026-01-28T07:32:00Z",
+          "sport_name": "Running",
+          "strain": 7.8,
+          "average_heart_rate": 0,
+          "max_heart_rate": 0,
+          "kilojoules": 0
+        },
+        {
+          "id": "",
+          "date": "2026-01-27",
+          "start_time": "2026-01-27T15:11:00Z",
+          "end_time": "2026-01-27T15:52:00Z",
+          "sport_name": "Strength Training",
+          "strain": 13.9,
+          "average_heart_rate": 0,
+          "max_heart_rate": 0,
+          "kilojoules": 0
+        },
+        {
+          "id": "",
+          "date": "2026-01-27",
+          "start_time": "2026-01-27T13:28:00Z",
+          "end_time": "2026-01-27T14:03:00Z",
+          "sport_name": "Strength Training",
+          "strain": 11.6,
+          "average_heart_rate": 0,
+          "max_heart_rate": 0,
+          "kilojoules": 0
+        },
+        {
+          "id": "",
+          "date": "2026-01-26",
+          "start_time": "2026-01-26T19:14:00Z",
+          "end_time": "2026-01-26T21:20:00Z",
+          "sport_name": "Esports",
+          "strain": 11.4,
+          "average_heart_rate": 0,
+          "max_heart_rate": 0,
+          "kilojoules": 0
+        },
+        {
+          "id": "",
+          "date": "2026-01-26",
+          "start_time": "2026-01-26T17:24:00Z",
+          "end_time": "2026-01-26T19:37:00Z",
+          "sport_name": "Esports",
+          "strain": 10.1,
+          "average_heart_rate": 0,
+          "max_heart_rate": 0,
+          "kilojoules": 0
+        },
+        {
+          "id": "",
+          "date": "2026-01-26",
+          "start_time": "2026-01-26T15:23:00Z",
+          "end_time": "2026-01-26T16:18:00Z",
+          "sport_name": "Strength Training",
+          "strain": 13.8,
+          "average_heart_rate": 0,
+          "max_heart_rate": 0,
+          "kilojoules": 0
+        }
+      ]
+    }
+  ]
+}

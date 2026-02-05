@@ -229,5 +229,483 @@
     "total_orders": 347,
     "total_spent": 291143.33,
     "stores_count": 9
+  },
+  "health_profile": {
+    "demographics": {
+      "dob": "1993-08-22",
+      "gender": "male",
+      "height_cm": 183,
+      "weight_kg": 81.6,
+      "blood_type": "A+",
+      "race": {
+        "code": "2054-5",
+        "display": "Black or African American"
+      },
+      "ethnicity": {
+        "code": "2186-5",
+        "display": "Not Hispanic or Latino"
+      },
+      "location": {
+        "city": "San Jose",
+        "state": "California",
+        "zip": "95110"
+      },
+      "contact": {
+        "email": "marcus.johnson@email.com",
+        "phone": "555-0102",
+        "emergency_contact": "Diana Johnson",
+        "emergency_phone": "555-0103"
+      }
+    },
+    "conditions": [
+      {
+        "icd10": "J45.20",
+        "snomed": "195967001",
+        "name": "Mild intermittent asthma",
+        "category": "respiratory",
+        "onset": "2015-05-20",
+        "status": "active",
+        "severity": "mild",
+        "provider_ref": "primary_care",
+        "notes": "Uses rescue inhaler PRN, well controlled",
+        "effects": {
+          "activity_limit": "none",
+          "fatigue_increase": 0,
+          "glucose_impact": "none",
+          "dietary_restrictions": [],
+          "sleep_impact": "none"
+        }
+      }
+    ],
+    "medications": [
+      {
+        "name": "Albuterol",
+        "brand": "ProAir",
+        "rxnorm": "435",
+        "ndc": "00487-9801-01",
+        "dose": "90mcg",
+        "frequency": "as_needed",
+        "route": "inhalation",
+        "for_condition": "J45.20",
+        "start_date": "2023-06-10",
+        "prescriber_ref": "primary_care",
+        "pharmacy": "Walgreens",
+        "refills_remaining": 2,
+        "notes": "Rescue inhaler"
+      }
+    ],
+    "allergies": [
+      {
+        "allergen": "Sulfa drugs",
+        "type": "medication",
+        "reaction": "Difficulty breathing",
+        "severity": "severe",
+        "snomed": "91937002",
+        "notes": "Avoid all sulfonamides"
+      }
+    ],
+    "vitals": {
+      "blood_pressure": {
+        "systolic": 118,
+        "diastolic": 76,
+        "variance": 6
+      },
+      "resting_hr": 52,
+      "resting_hr_variance": 4,
+      "max_hr": 188,
+      "spo2": 99,
+      "respiratory_rate": 14,
+      "temperature_c": 36.7
+    },
+    "fitness": {
+      "level": "very_active",
+      "vo2_max": 52,
+      "training_status": "productive",
+      "daily_activity": {
+        "steps_target": 12000,
+        "steps_typical": [
+          10000,
+          18000
+        ],
+        "active_minutes_target": 60,
+        "active_calories_target": 800
+      },
+      "weekly_workouts": [
+        {
+          "type": "rock_climbing",
+          "frequency": 3,
+          "duration_min": 90,
+          "intensity": "vigorous",
+          "preferred_time": "evening"
+        },
+        {
+          "type": "basketball",
+          "frequency": 2,
+          "duration_min": 75,
+          "intensity": "vigorous",
+          "preferred_time": "evening"
+        },
+        {
+          "type": "running",
+          "frequency": 3,
+          "duration_min": 40,
+          "intensity": "moderate",
+          "preferred_time": "morning"
+        },
+        {
+          "type": "strength_training",
+          "frequency": 3,
+          "duration_min": 50,
+          "intensity": "vigorous"
+        },
+        {
+          "type": "hiking",
+          "frequency": 1,
+          "duration_min": 180,
+          "intensity": "moderate",
+          "preferred_time": "morning"
+        }
+      ],
+      "sports": {
+        "primary": "rock_climbing",
+        "secondary": "basketball"
+      },
+      "performance": {
+        "running_pace_min_per_km": 4.8,
+        "cycling_ftp_watts": null
+      }
+    },
+    "sleep": {
+      "target_hours": 7.5,
+      "typical_hours": [
+        6.5,
+        8.0
+      ],
+      "quality": "good",
+      "schedule": {
+        "chronotype": "night_owl",
+        "typical_bedtime": "00:30",
+        "typical_wake": "07:30",
+        "weekend_shift_hours": 1.5
+      },
+      "architecture": {
+        "deep_pct": 22,
+        "rem_pct": 24,
+        "light_pct": 48,
+        "awake_pct": 6
+      },
+      "issues": []
+    },
+    "nutrition": {
+      "diet_type": "standard",
+      "calorie_target": 2800,
+      "macros": {
+        "protein_pct": 30,
+        "carbs_pct": 45,
+        "fat_pct": 25
+      },
+      "restrictions": [],
+      "hydration": {
+        "target_ml": 3500,
+        "typical_ml": [
+          3000,
+          4000
+        ]
+      },
+      "meal_patterns": {
+        "meals_per_day": 3,
+        "snacks_per_day": 2,
+        "typical_meal_times": [
+          "08:00",
+          "13:00",
+          "20:00"
+        ]
+      }
+    },
+    "devices": {
+      "fitness_tracker": {
+        "enabled": true,
+        "brand": "garmin",
+        "model": "Fenix 8",
+        "device_id": "GRM-P002-001"
+      },
+      "smart_scale": {
+        "enabled": true,
+        "brand": "garmin",
+        "model": "Index S2"
+      },
+      "cgm": {
+        "enabled": false
+      },
+      "blood_pressure_monitor": {
+        "enabled": false
+      }
+    },
+    "insurance": {
+      "provider": "Aetna",
+      "plan": "PPO",
+      "member_id": "INS002",
+      "group_id": "GRP002"
+    }
+  },
+  "healthcare": {
+    "servers": [
+      {
+        "id": "myfitnesspal",
+        "name": "MyFitnessPal",
+        "item_count": 249,
+        "category_count": 3,
+        "primary_category": "Food Logs",
+        "categories": [
+          {
+            "id": "food_logs",
+            "name": "Food Logs",
+            "count": 30
+          },
+          {
+            "id": "exercise_logs",
+            "name": "Exercise Logs",
+            "count": 43
+          },
+          {
+            "id": "water_logs",
+            "name": "Water Logs",
+            "count": 176
+          }
+        ]
+      },
+      {
+        "id": "garmin_health",
+        "name": "Garmin Health",
+        "item_count": 245,
+        "category_count": 9,
+        "primary_category": "Daily Stats",
+        "categories": [
+          {
+            "id": "daily_stats",
+            "name": "Daily Stats",
+            "count": 30
+          },
+          {
+            "id": "sleep",
+            "name": "Sleep",
+            "count": 30
+          },
+          {
+            "id": "stress",
+            "name": "Stress",
+            "count": 30
+          },
+          {
+            "id": "body_battery",
+            "name": "Body Battery",
+            "count": 30
+          },
+          {
+            "id": "activities",
+            "name": "Activities",
+            "count": 25
+          },
+          {
+            "id": "heart_rate",
+            "name": "Heart Rate",
+            "count": 30
+          },
+          {
+            "id": "hrv",
+            "name": "HRV",
+            "count": 30
+          },
+          {
+            "id": "spo2",
+            "name": "SpO2",
+            "count": 30
+          },
+          {
+            "id": "body_composition",
+            "name": "Body Composition",
+            "count": 10
+          }
+        ]
+      },
+      {
+        "id": "fitbit",
+        "name": "Fitbit",
+        "item_count": 121,
+        "category_count": 5,
+        "primary_category": "Daily Activity",
+        "categories": [
+          {
+            "id": "daily_stats",
+            "name": "Daily Activity",
+            "count": 31
+          },
+          {
+            "id": "sleep",
+            "name": "Sleep Logs",
+            "count": 31
+          },
+          {
+            "id": "activities",
+            "name": "Activities",
+            "count": 20
+          },
+          {
+            "id": "heart_rate",
+            "name": "Heart Rate",
+            "count": 31
+          },
+          {
+            "id": "body",
+            "name": "Body Measurements",
+            "count": 8
+          }
+        ]
+      },
+      {
+        "id": "whoop",
+        "name": "WHOOP",
+        "item_count": 118,
+        "category_count": 4,
+        "primary_category": "Physiological Cycles",
+        "categories": [
+          {
+            "id": "cycles",
+            "name": "Physiological Cycles",
+            "count": 31
+          },
+          {
+            "id": "recovery",
+            "name": "Recovery",
+            "count": 31
+          },
+          {
+            "id": "sleep",
+            "name": "Sleep",
+            "count": 31
+          },
+          {
+            "id": "workouts",
+            "name": "Workouts",
+            "count": 25
+          }
+        ]
+      },
+      {
+        "id": "fhir",
+        "name": "FHIR EHR",
+        "item_count": 25,
+        "category_count": 4,
+        "primary_category": "Conditions",
+        "categories": [
+          {
+            "id": "conditions",
+            "name": "Conditions",
+            "count": 1
+          },
+          {
+            "id": "observations",
+            "name": "Observations",
+            "count": 22
+          },
+          {
+            "id": "medications",
+            "name": "Medications",
+            "count": 1
+          },
+          {
+            "id": "allergies",
+            "name": "Allergies",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "renpho",
+        "name": "Renpho Scale",
+        "item_count": 19,
+        "category_count": 1,
+        "primary_category": "Body Measurements",
+        "categories": [
+          {
+            "id": "measurements",
+            "name": "Body Measurements",
+            "count": 19
+          }
+        ]
+      },
+      {
+        "id": "genetics",
+        "name": "Genetics",
+        "item_count": 12,
+        "category_count": 4,
+        "primary_category": "Health Risks",
+        "categories": [
+          {
+            "id": "health_risks",
+            "name": "Health Risks",
+            "count": 4
+          },
+          {
+            "id": "pharmacogenomics",
+            "name": "Pharmacogenomics",
+            "count": 4
+          },
+          {
+            "id": "carrier_status",
+            "name": "Carrier Status",
+            "count": 3
+          },
+          {
+            "id": "screenings",
+            "name": "Recommended Screenings",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "athenahealth",
+        "name": "Athenahealth EHR",
+        "item_count": 9,
+        "category_count": 6,
+        "primary_category": "Medical Conditions",
+        "categories": [
+          {
+            "id": "conditions",
+            "name": "Medical Conditions",
+            "count": 1
+          },
+          {
+            "id": "prescriptions",
+            "name": "Prescriptions",
+            "count": 1
+          },
+          {
+            "id": "allergies",
+            "name": "Allergies",
+            "count": 1
+          },
+          {
+            "id": "encounters",
+            "name": "Encounters",
+            "count": 1
+          },
+          {
+            "id": "vitals",
+            "name": "Vitals",
+            "count": 3
+          },
+          {
+            "id": "labs",
+            "name": "Lab Results",
+            "count": 2
+          }
+        ]
+      }
+    ],
+    "stats": {
+      "total_items": 798,
+      "servers_count": 8
+    }
   }
 }

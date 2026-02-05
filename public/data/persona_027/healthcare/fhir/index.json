@@ -1,0 +1,368 @@
+{
+  "persona_id": "persona_027",
+  "server_id": "fhir",
+  "server_name": "FHIR EHR",
+  "summary": {
+    "total_items": 27,
+    "category_count": 4
+  },
+  "categories": [
+    {
+      "id": "conditions",
+      "name": "Conditions",
+      "item_count": 2,
+      "items": [
+        {
+          "id": "ebe998dd-64c4-4eee-af71-7d39106f7a62",
+          "code": "K70.30",
+          "system": "http://hl7.org/fhir/sid/icd-10-cm",
+          "name": "Alcoholic cirrhosis of liver without ascites",
+          "status": "active",
+          "onset_date": "2022-08-15",
+          "date": "2022-08-15"
+        },
+        {
+          "id": "352134fa-9643-441a-9c88-3f179371f4b6",
+          "code": "I10",
+          "system": "http://hl7.org/fhir/sid/icd-10-cm",
+          "name": "Essential hypertension",
+          "status": "active",
+          "onset_date": "2015-06-20",
+          "date": "2015-06-20"
+        }
+      ]
+    },
+    {
+      "id": "observations",
+      "name": "Observations",
+      "item_count": 22,
+      "items": [
+        {
+          "id": "1f627c8a-8352-4e66-ae5f-7919c6a1a947",
+          "code": "8480-6",
+          "system": "http://loinc.org",
+          "name": "Systolic blood pressure",
+          "value": "147 mm[Hg]",
+          "unit": "mm[Hg]",
+          "category": "Vital Signs",
+          "status": "final",
+          "date": "2026-02-04T23:54:16+00:00",
+          "datetime": "2026-02-04T23:54:16+00:00"
+        },
+        {
+          "id": "8c52d22c-02db-49b5-9137-4e11a8563842",
+          "code": "8462-4",
+          "system": "http://loinc.org",
+          "name": "Diastolic blood pressure",
+          "value": "94 mm[Hg]",
+          "unit": "mm[Hg]",
+          "category": "Vital Signs",
+          "status": "final",
+          "date": "2026-02-04T23:54:16+00:00",
+          "datetime": "2026-02-04T23:54:16+00:00"
+        },
+        {
+          "id": "0ffe9903-1315-44c1-95ca-ba06ad9339d3",
+          "code": "8867-4",
+          "system": "http://loinc.org",
+          "name": "Heart rate",
+          "value": "86 /min",
+          "unit": "/min",
+          "category": "Vital Signs",
+          "status": "final",
+          "date": "2026-02-04T23:54:16+00:00",
+          "datetime": "2026-02-04T23:54:16+00:00"
+        },
+        {
+          "id": "120a2e21-18ed-493c-addc-b6c75291cfc7",
+          "code": "29463-7",
+          "system": "http://loinc.org",
+          "name": "Body weight",
+          "value": "92.4 kg",
+          "unit": "kg",
+          "category": "Vital Signs",
+          "status": "final",
+          "date": "2026-02-04T23:54:16+00:00",
+          "datetime": "2026-02-04T23:54:16+00:00"
+        },
+        {
+          "id": "80c82148-7f0a-47e6-8f96-2985a0312927",
+          "code": "8302-2",
+          "system": "http://loinc.org",
+          "name": "Body height",
+          "value": "178 cm",
+          "unit": "cm",
+          "category": "Vital Signs",
+          "status": "final",
+          "date": "2026-02-04T23:54:16+00:00",
+          "datetime": "2026-02-04T23:54:16+00:00"
+        },
+        {
+          "id": "464a743f-d3c0-45b1-a59c-b3635d898700",
+          "code": "39156-5",
+          "system": "http://loinc.org",
+          "name": "Body mass index",
+          "value": "29.2 kg/m2",
+          "unit": "kg/m2",
+          "category": "Vital Signs",
+          "status": "final",
+          "date": "2026-02-04T23:54:16+00:00",
+          "datetime": "2026-02-04T23:54:16+00:00"
+        },
+        {
+          "id": "5a0d9b19-252c-49b7-8183-ec17edaa9f3e",
+          "code": "8310-5",
+          "system": "http://loinc.org",
+          "name": "Body temperature",
+          "value": "37.0 Cel",
+          "unit": "Cel",
+          "category": "Vital Signs",
+          "status": "final",
+          "date": "2026-02-04T23:54:16+00:00",
+          "datetime": "2026-02-04T23:54:16+00:00"
+        },
+        {
+          "id": "c336ddf2-3460-4f31-96b2-fdb760d20d28",
+          "code": "9279-1",
+          "system": "http://loinc.org",
+          "name": "Respiratory rate",
+          "value": "18 /min",
+          "unit": "/min",
+          "category": "Vital Signs",
+          "status": "final",
+          "date": "2026-02-04T23:54:16+00:00",
+          "datetime": "2026-02-04T23:54:16+00:00"
+        },
+        {
+          "id": "01a59641-bf5f-4069-b47e-fab6ec6fbc9d",
+          "code": "2708-6",
+          "system": "http://loinc.org",
+          "name": "Oxygen saturation",
+          "value": "95 %",
+          "unit": "%",
+          "category": "Vital Signs",
+          "status": "final",
+          "date": "2026-02-04T23:54:16+00:00",
+          "datetime": "2026-02-04T23:54:16+00:00"
+        },
+        {
+          "id": "6e9dc01f-ca6b-490c-bc75-3a2247cb232c",
+          "code": "2345-7",
+          "system": "http://loinc.org",
+          "name": "Glucose [Mass/volume] in Blood",
+          "value": "102 mg/dL",
+          "unit": "mg/dL",
+          "category": "Vital Signs",
+          "status": "final",
+          "date": "2026-02-04T23:54:16+00:00",
+          "datetime": "2026-02-04T23:54:16+00:00"
+        },
+        {
+          "id": "e3f08c21-3186-4663-85da-5460d1e02c95",
+          "code": "4548-4",
+          "system": "http://loinc.org",
+          "name": "Hemoglobin A1c/Hemoglobin.total in Blood",
+          "value": "5.6 %",
+          "unit": "%",
+          "category": "Vital Signs",
+          "status": "final",
+          "date": "2026-02-04T23:54:16+00:00",
+          "datetime": "2026-02-04T23:54:16+00:00"
+        },
+        {
+          "id": "ad64f4e2-8114-4151-abbc-d45a28cd9212",
+          "code": "8480-6",
+          "system": "http://loinc.org",
+          "name": "Systolic blood pressure",
+          "value": "139 mm[Hg]",
+          "unit": "mm[Hg]",
+          "category": "Vital Signs",
+          "status": "final",
+          "date": "2025-12-08T23:54:16+00:00",
+          "datetime": "2025-12-08T23:54:16+00:00"
+        },
+        {
+          "id": "1f6e6983-f2cf-49bc-823e-b6f18046813c",
+          "code": "8462-4",
+          "system": "http://loinc.org",
+          "name": "Diastolic blood pressure",
+          "value": "91 mm[Hg]",
+          "unit": "mm[Hg]",
+          "category": "Vital Signs",
+          "status": "final",
+          "date": "2025-12-08T23:54:16+00:00",
+          "datetime": "2025-12-08T23:54:16+00:00"
+        },
+        {
+          "id": "da0a4be9-7c6f-419f-a9f7-b47d878a8691",
+          "code": "8867-4",
+          "system": "http://loinc.org",
+          "name": "Heart rate",
+          "value": "85 /min",
+          "unit": "/min",
+          "category": "Vital Signs",
+          "status": "final",
+          "date": "2025-12-08T23:54:16+00:00",
+          "datetime": "2025-12-08T23:54:16+00:00"
+        },
+        {
+          "id": "f4cd78bf-553a-4b5a-9b15-42dcef489e14",
+          "code": "29463-7",
+          "system": "http://loinc.org",
+          "name": "Body weight",
+          "value": "93.4 kg",
+          "unit": "kg",
+          "category": "Vital Signs",
+          "status": "final",
+          "date": "2025-12-08T23:54:16+00:00",
+          "datetime": "2025-12-08T23:54:16+00:00"
+        },
+        {
+          "id": "6278530c-4ef1-4b00-858c-3d68899e136d",
+          "code": "8302-2",
+          "system": "http://loinc.org",
+          "name": "Body height",
+          "value": "178 cm",
+          "unit": "cm",
+          "category": "Vital Signs",
+          "status": "final",
+          "date": "2025-12-08T23:54:16+00:00",
+          "datetime": "2025-12-08T23:54:16+00:00"
+        },
+        {
+          "id": "1811610e-841d-4762-893a-c76939c42d5f",
+          "code": "39156-5",
+          "system": "http://loinc.org",
+          "name": "Body mass index",
+          "value": "29.2 kg/m2",
+          "unit": "kg/m2",
+          "category": "Vital Signs",
+          "status": "final",
+          "date": "2025-12-08T23:54:16+00:00",
+          "datetime": "2025-12-08T23:54:16+00:00"
+        },
+        {
+          "id": "5c065315-e621-403b-8945-483ec4c00677",
+          "code": "8310-5",
+          "system": "http://loinc.org",
+          "name": "Body temperature",
+          "value": "36.9 Cel",
+          "unit": "Cel",
+          "category": "Vital Signs",
+          "status": "final",
+          "date": "2025-12-08T23:54:16+00:00",
+          "datetime": "2025-12-08T23:54:16+00:00"
+        },
+        {
+          "id": "ab115f7d-aa33-4835-8a42-429ae6ce9817",
+          "code": "9279-1",
+          "system": "http://loinc.org",
+          "name": "Respiratory rate",
+          "value": "18 /min",
+          "unit": "/min",
+          "category": "Vital Signs",
+          "status": "final",
+          "date": "2025-12-08T23:54:16+00:00",
+          "datetime": "2025-12-08T23:54:16+00:00"
+        },
+        {
+          "id": "2f686603-d8f7-420f-a3d7-28530bdd72b1",
+          "code": "2708-6",
+          "system": "http://loinc.org",
+          "name": "Oxygen saturation",
+          "value": "95 %",
+          "unit": "%",
+          "category": "Vital Signs",
+          "status": "final",
+          "date": "2025-12-08T23:54:16+00:00",
+          "datetime": "2025-12-08T23:54:16+00:00"
+        },
+        {
+          "id": "950f0861-106a-4fbe-8fcd-256497297a65",
+          "code": "2345-7",
+          "system": "http://loinc.org",
+          "name": "Glucose [Mass/volume] in Blood",
+          "value": "99 mg/dL",
+          "unit": "mg/dL",
+          "category": "Vital Signs",
+          "status": "final",
+          "date": "2025-12-08T23:54:16+00:00",
+          "datetime": "2025-12-08T23:54:16+00:00"
+        },
+        {
+          "id": "93ae8c4d-d33a-4cf9-86b7-c95fce0916ae",
+          "code": "4548-4",
+          "system": "http://loinc.org",
+          "name": "Hemoglobin A1c/Hemoglobin.total in Blood",
+          "value": "5.6 %",
+          "unit": "%",
+          "category": "Vital Signs",
+          "status": "final",
+          "date": "2025-12-08T23:54:16+00:00",
+          "datetime": "2025-12-08T23:54:16+00:00"
+        }
+      ]
+    },
+    {
+      "id": "medications",
+      "name": "Medications",
+      "item_count": 2,
+      "items": [
+        {
+          "id": "b0450cca-5f4e-4cf5-862c-441a959a6a60",
+          "code": "9997",
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "name": "Spironolactone",
+          "dosage": "Take 50mg once daily",
+          "frequency": "1x per 1 d",
+          "route": "Oral route",
+          "status": "active",
+          "intent": "order",
+          "date": "2022-09-01",
+          "authored_on": "2022-09-01"
+        },
+        {
+          "id": "5bd5bb2e-9a19-40af-b44f-bc5942530e87",
+          "code": "6026",
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "name": "Lactulose",
+          "dosage": "Take 30ml three times daily",
+          "frequency": "3x per 1 d",
+          "route": "Oral route",
+          "status": "active",
+          "intent": "order",
+          "date": "2022-09-01",
+          "authored_on": "2022-09-01"
+        }
+      ]
+    },
+    {
+      "id": "allergies",
+      "name": "Allergies",
+      "item_count": 1,
+      "items": [
+        {
+          "id": "ab66ad1b-2b02-4022-9461-56145e15e401",
+          "code": "",
+          "system": "",
+          "name": "Statins (HMG-CoA reductase inhibitors)",
+          "status": "active",
+          "verification": "confirmed",
+          "criticality": "high",
+          "category": [
+            "medication"
+          ],
+          "reactions": [
+            {
+              "severity": "moderate",
+              "manifestations": [
+                "Muscle pain (myalgia)"
+              ]
+            }
+          ],
+          "date": ""
+        }
+      ]
+    }
+  ]
+}

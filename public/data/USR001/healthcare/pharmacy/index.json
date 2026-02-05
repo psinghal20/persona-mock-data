@@ -1,0 +1,63 @@
+{
+  "persona_id": "USR001",
+  "server_id": "pharmacy",
+  "server_name": "Pharmacy",
+  "summary": {
+    "total_items": 5,
+    "category_count": 1
+  },
+  "categories": [
+    {
+      "id": "purchases",
+      "name": "Purchases",
+      "item_count": 5,
+      "items": [
+        {
+          "id": "1",
+          "user_id": "USR001",
+          "medicine_id": "1",
+          "quantity": "2",
+          "total_price": "25.98",
+          "prescription_verified": "0",
+          "purchased_at": "2024-01-15 10:30:00"
+        },
+        {
+          "id": "2",
+          "user_id": "USR001",
+          "medicine_id": "18",
+          "quantity": "1",
+          "total_price": "18.99",
+          "prescription_verified": "0",
+          "purchased_at": "2024-01-20 14:45:00"
+        },
+        {
+          "id": "3",
+          "user_id": "USR001",
+          "medicine_id": "9",
+          "quantity": "1",
+          "total_price": "14.99",
+          "prescription_verified": "1",
+          "purchased_at": "2024-02-01 09:15:00"
+        },
+        {
+          "id": "4",
+          "user_id": "USR001",
+          "medicine_id": "15",
+          "quantity": "1",
+          "total_price": "24.99",
+          "prescription_verified": "0",
+          "purchased_at": "2024-02-10 16:20:00"
+        },
+        {
+          "id": "5",
+          "user_id": "USR001",
+          "medicine_id": "40",
+          "quantity": "1",
+          "total_price": "14.99",
+          "prescription_verified": "0",
+          "purchased_at": "2024-02-15 11:00:00"
+        }
+      ]
+    }
+  ]
+}
