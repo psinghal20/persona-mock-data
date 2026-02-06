@@ -904,3 +904,177 @@ a {
   color: var(--muted);
   white-space: nowrap;
 }
+
+/* ═══════════════════════════════════════════════════════════════ */
+/* OBSIDIAN CONTENT                                                */
+/* ═══════════════════════════════════════════════════════════════ */
+
+.obsidian-content {
+  line-height: 1.7;
+  font-size: 0.95rem;
+}
+
+.obsidian-content h1 {
+  font-size: 1.75rem;
+  font-weight: 700;
+  margin: 1.5rem 0 0.75rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.obsidian-content h2 {
+  font-size: 1.4rem;
+  font-weight: 600;
+  margin: 1.25rem 0 0.5rem;
+}
+
+.obsidian-content h3 {
+  font-size: 1.15rem;
+  font-weight: 600;
+  margin: 1rem 0 0.5rem;
+}
+
+.obsidian-content h4 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 0.75rem 0 0.5rem;
+}
+
+.obsidian-content p {
+  margin: 0.5rem 0;
+}
+
+.obsidian-content blockquote {
+  border-left: 3px solid var(--accent);
+  margin: 0.75rem 0;
+  padding: 0.5rem 1rem;
+  color: var(--muted);
+  background: rgba(59, 130, 246, 0.05);
+  border-radius: 0 8px 8px 0;
+}
+
+.obsidian-content ul,
+.obsidian-content ol {
+  margin: 0.5rem 0;
+  padding-left: 1.5rem;
+}
+
+.obsidian-content li {
+  margin: 0.25rem 0;
+}
+
+.obsidian-content li input[type="checkbox"] {
+  margin-right: 0.5rem;
+  accent-color: var(--accent);
+}
+
+.obsidian-content hr {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 1.5rem 0;
+}
+
+.obsidian-content em {
+  color: var(--muted);
+}
+
+.obsidian-content strong {
+  font-weight: 600;
+}
+
+/* Obsidian Links */
+.obsidian-link {
+  color: var(--accent) !important;
+  text-decoration: none;
+  border-bottom: 1px dashed rgba(59, 130, 246, 0.4);
+  transition: border-color 0.2s;
+}
+
+.obsidian-link:hover {
+  border-bottom-color: var(--accent);
+  border-bottom-style: solid;
+}
+
+/* Obsidian Tables */
+.obsidian-table-wrapper {
+  overflow-x: auto;
+  margin: 0.75rem 0;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+}
+
+.obsidian-content table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 0.875rem;
+}
+
+.obsidian-content th {
+  background: var(--card-hover);
+  font-weight: 600;
+  text-align: left;
+  padding: 0.6rem 0.8rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.obsidian-content td {
+  padding: 0.5rem 0.8rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.obsidian-content tr:last-child td {
+  border-bottom: none;
+}
+
+.obsidian-content tr:nth-child(even) {
+  background: rgba(255, 255, 255, 0.02);
+}
+
+/* Obsidian Code */
+.obsidian-inline-code {
+  background: var(--card-hover);
+  border: 1px solid var(--border);
+  padding: 0.15rem 0.4rem;
+  border-radius: 4px;
+  font-family: 'Fira Code', 'SF Mono', 'Consolas', monospace;
+  font-size: 0.85em;
+}
+
+.obsidian-code-block {
+  background: #0d0d0d;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 0.75rem 0;
+  font-family: 'Fira Code', 'SF Mono', 'Consolas', monospace;
+  font-size: 0.85rem;
+  line-height: 1.5;
+}
+
+/* Obsidian Tags */
+.obsidian-tag {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.2rem 0.5rem;
+  background: rgba(139, 92, 246, 0.15);
+  color: #a78bfa;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  font-weight: 500;
+}
+
+/* Note card styles */
+.note-card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 0.75rem 1rem;
+  transition: all 0.2s ease;
+  display: block;
+}
+
+.note-card:hover {
+  background: var(--card-hover);
+  border-color: var(--accent);
+}

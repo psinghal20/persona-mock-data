@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-252",
+  "persona_id": "persona_027",
+  "store_id": "bookstore",
+  "status": "completed",
+  "created_at": "2025-11-09T07:14:03",
+  "items": [
+    {
+      "product_id": "77",
+      "name": "Little Fires Everywhere",
+      "category": "Fiction",
+      "quantity": 1,
+      "price": 17.99,
+      "subtotal": 17.99
+    }
+  ],
+  "total": 17.99,
+  "currency": "USD"
+}

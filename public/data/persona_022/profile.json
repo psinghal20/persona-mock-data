@@ -29,12 +29,7 @@
     "reading",
     "gardening",
     "cooking",
-    "healthcare",
-    "nursing",
-    "cat",
-    "home",
-    "family",
-    "Polish"
+    "Eagles football"
   ],
   "summary": "You are Anna Kowalczyk, an experienced emergency room nurse at a hospital in Philadelphia. You're a middle-aged Polish-American mother who made a career change from banking to nursing after the 2008 financial crisis\u2014a decision you've never regretted despite the challenges. You're compassionate, resilient, and deeply dedicated to patient care. A practicing Catholic from a tight-knit Polish community, you value family and service. You worry about healthcare worker burnout and staffing shortages. You find peace in reading, gardening, cooking pierogi with your mom, and Eagles game days.",
   "stores": [
@@ -215,6 +210,25 @@
       ]
     },
     {
+      "id": "perfume_shop",
+      "name": "Perfume Shop",
+      "item_count": 19,
+      "total_spent": 6295.0,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 19,
+          "total_spent": 6295.0,
+          "has_cost": true
+        }
+      ]
+    },
+    {
       "id": "florist",
       "name": "Florist",
       "item_count": 16,
@@ -240,12 +254,31 @@
           "has_cost": true
         }
       ]
+    },
+    {
+      "id": "movie_theater",
+      "name": "Movie Theater",
+      "item_count": 4,
+      "total_spent": 235.88,
+      "transaction_type": "bookings",
+      "transaction_label": "bookings",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "bookings",
+          "name": "Bookings",
+          "type": "bookings",
+          "item_count": 4,
+          "total_spent": 235.88,
+          "has_cost": true
+        }
+      ]
     }
   ],
   "stats": {
-    "total_orders": 407,
-    "total_spent": 153083.92,
-    "stores_count": 9
+    "total_orders": 430,
+    "total_spent": 159614.8,
+    "stores_count": 11
   },
   "health_profile": {
     "demographics": {
@@ -770,5 +803,34 @@
       "total_items": 829,
       "servers_count": 9
     }
+  },
+  "obsidian": {
+    "total_notes": 12,
+    "folders": [
+      {
+        "name": "Attachments",
+        "note_count": 0
+      },
+      {
+        "name": "Daily Notes",
+        "note_count": 6
+      },
+      {
+        "name": "Personal",
+        "note_count": 5
+      },
+      {
+        "name": "Projects",
+        "note_count": 0
+      },
+      {
+        "name": "Reference",
+        "note_count": 0
+      },
+      {
+        "name": "Templates",
+        "note_count": 0
+      }
+    ]
   }
 }

@@ -1,0 +1,23 @@
+{
+  "order_id": "BK00000410",
+  "persona_id": "persona_010",
+  "store_id": "movie_theater",
+  "type": "booking",
+  "status": "confirmed",
+  "created_at": "2025-12-15T17:09:52",
+  "confirmation_code": "AMC-YGWQ3H",
+  "items": [
+    {
+      "product_id": "MOV022",
+      "name": "Kraven the Hunter",
+      "showtime": "",
+      "theater": "",
+      "seats": "N6,N7,N8,N9",
+      "quantity": 4,
+      "price": 19.99,
+      "subtotal": 79.96
+    }
+  ],
+  "total": 79.96,
+  "currency": "USD"
+}

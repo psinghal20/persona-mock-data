@@ -1,0 +1,24 @@
+{
+  "order_id": "PET-SAMPLE19",
+  "persona_id": "persona_010",
+  "store_id": "pet_store",
+  "type": "pet_profile",
+  "status": "active",
+  "items": [
+    {
+      "product_id": "PET-SAMPLE19",
+      "name": "Daisy",
+      "pet_type": "Dogs",
+      "breed": "Shih Tzu",
+      "age_years": "6",
+      "weight_lbs": "14",
+      "dietary_restrictions": "",
+      "notes": "Small dog prone to dental issues",
+      "quantity": 1,
+      "price": 0,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

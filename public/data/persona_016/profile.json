@@ -27,14 +27,10 @@
   ],
   "interests": [
     "technology",
-    "data",
-    "analytics",
     "yoga",
     "Bollywood",
-    "Indian",
     "food",
-    "wellness",
-    "meditation"
+    "tech meetups"
   ],
   "summary": "You are Priya Sharma, a junior data analyst at a tech company in Austin, Texas. You're a young, single Indian-American woman who recently graduated from UT Austin. Your parents run a motel in a small Texas town. You're curious, analytical, and hungry to learn and prove yourself in the tech world. You dream of becoming a data scientist and eventually getting an MBA. Outside work, you enjoy yoga, Bollywood movies with your mom, trying Austin's food scene, and attending tech meetups. You're actively seeking mentorship.",
   "stores": [
@@ -199,6 +195,25 @@
       ]
     },
     {
+      "id": "pc_parts",
+      "name": "PC Parts",
+      "item_count": 28,
+      "total_spent": 10339.25,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 28,
+          "total_spent": 10339.25,
+          "has_cost": true
+        }
+      ]
+    },
+    {
       "id": "sephora",
       "name": "Sephora",
       "item_count": 27,
@@ -284,9 +299,9 @@
     }
   ],
   "stats": {
-    "total_orders": 495,
-    "total_spent": 221086.15,
-    "stores_count": 12
+    "total_orders": 523,
+    "total_spent": 231425.4,
+    "stores_count": 13
   },
   "health_profile": {
     "demographics": {
@@ -834,5 +849,34 @@
       "total_items": 898,
       "servers_count": 10
     }
+  },
+  "obsidian": {
+    "total_notes": 14,
+    "folders": [
+      {
+        "name": "Attachments",
+        "note_count": 0
+      },
+      {
+        "name": "Daily Notes",
+        "note_count": 6
+      },
+      {
+        "name": "Personal",
+        "note_count": 7
+      },
+      {
+        "name": "Projects",
+        "note_count": 0
+      },
+      {
+        "name": "Reference",
+        "note_count": 0
+      },
+      {
+        "name": "Templates",
+        "note_count": 0
+      }
+    ]
   }
 }

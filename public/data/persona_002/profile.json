@@ -30,10 +30,7 @@
     "AI",
     "coding",
     "rock climbing",
-    "basketball",
-    "technology",
-    "computer",
-    "software"
+    "basketball"
   ],
   "summary": "You are Marcus Johnson, an experienced software engineer specializing in machine learning infrastructure at a Silicon Valley startup. You're a young, single African-American man who is ambitious and tech-savvy. You grew up in Oakland and were the first in your family to work in tech. You dream of becoming a tech lead and eventually launching your own startup. You're passionate about open source, clean code, and diversity in tech. Outside work, you enjoy gaming, rock climbing, basketball, and electronic music.",
   "stores": [
@@ -198,6 +195,25 @@
       ]
     },
     {
+      "id": "grocery",
+      "name": "Grocery",
+      "item_count": 18,
+      "total_spent": 1181.47,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 18,
+          "total_spent": 1181.47,
+          "has_cost": true
+        }
+      ]
+    },
+    {
       "id": "car_deals",
       "name": "Car Deals",
       "item_count": 4,
@@ -223,12 +239,31 @@
           "has_cost": false
         }
       ]
+    },
+    {
+      "id": "pet_store",
+      "name": "Pet Store",
+      "item_count": 2,
+      "total_spent": 0,
+      "transaction_type": "purchases",
+      "transaction_label": "purchases",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "pets",
+          "name": "Pet Profiles",
+          "type": "pets",
+          "item_count": 2,
+          "total_spent": 0,
+          "has_cost": false
+        }
+      ]
     }
   ],
   "stats": {
-    "total_orders": 347,
-    "total_spent": 291143.33,
-    "stores_count": 9
+    "total_orders": 367,
+    "total_spent": 292324.8,
+    "stores_count": 11
   },
   "health_profile": {
     "demographics": {
@@ -707,5 +742,34 @@
       "total_items": 798,
       "servers_count": 8
     }
+  },
+  "obsidian": {
+    "total_notes": 13,
+    "folders": [
+      {
+        "name": "Attachments",
+        "note_count": 0
+      },
+      {
+        "name": "Daily Notes",
+        "note_count": 6
+      },
+      {
+        "name": "Personal",
+        "note_count": 6
+      },
+      {
+        "name": "Projects",
+        "note_count": 0
+      },
+      {
+        "name": "Reference",
+        "note_count": 0
+      },
+      {
+        "name": "Templates",
+        "note_count": 0
+      }
+    ]
   }
 }

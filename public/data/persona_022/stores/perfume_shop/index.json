@@ -1,0 +1,337 @@
+{
+  "persona_id": "persona_022",
+  "store_id": "perfume_shop",
+  "store_name": "Perfume Shop",
+  "transaction_type": "orders",
+  "transaction_label": "orders",
+  "has_cost": true,
+  "summary": {
+    "total_count": 19,
+    "total_spent": 6295.0,
+    "first_date": "2025-10-03",
+    "last_date": "2026-01-18"
+  },
+  "items": [
+    {
+      "order_id": "ORD-20251006-PF0029",
+      "status": "delivered",
+      "total": 1040.0,
+      "item_count": 2,
+      "created_at": "2026-01-18T07:02:17",
+      "item_preview": "Roja Elysium Pour Homme, Aventus"
+    },
+    {
+      "order_id": "ORD-20251028-PF0028",
+      "status": "delivered",
+      "total": 120.0,
+      "item_count": 1,
+      "created_at": "2026-01-15T18:56:43",
+      "item_preview": "Acqua di Gio"
+    },
+    {
+      "order_id": "ORD-20251201-PF0025",
+      "status": "delivered",
+      "total": 130.0,
+      "item_count": 1,
+      "created_at": "2026-01-14T15:53:02",
+      "item_preview": "The Only One"
+    },
+    {
+      "order_id": "ORD-20251004-PF0054",
+      "status": "delivered",
+      "total": 245.0,
+      "item_count": 1,
+      "created_at": "2026-01-13T11:11:24",
+      "item_preview": "Vilhelm Parfumerie Dear Polly"
+    },
+    {
+      "order_id": "ORD-20251023-PF0050",
+      "status": "delivered",
+      "total": 345.0,
+      "item_count": 1,
+      "created_at": "2026-01-05T14:27:58",
+      "item_preview": "Aventus for Her"
+    },
+    {
+      "order_id": "ORD-20260116-PF0052",
+      "status": "delivered",
+      "total": 130.0,
+      "item_count": 1,
+      "created_at": "2026-01-04T01:12:00",
+      "item_preview": "The Only One"
+    },
+    {
+      "order_id": "ORD-20251011-PF0046",
+      "status": "delivered",
+      "total": 245.0,
+      "item_count": 1,
+      "created_at": "2025-12-07T01:01:10",
+      "item_preview": "Vilhelm Parfumerie Dear Polly"
+    },
+    {
+      "order_id": "ORD-20251223-PF0026",
+      "status": "shipped",
+      "total": 120.0,
+      "item_count": 1,
+      "created_at": "2025-11-30T11:42:37",
+      "item_preview": "Dolce"
+    },
+    {
+      "order_id": "ORD-20251228-PF0053",
+      "status": "delivered",
+      "total": 130.0,
+      "item_count": 1,
+      "created_at": "2025-11-21T01:30:18",
+      "item_preview": "The Only One"
+    },
+    {
+      "order_id": "ORD-20251010-PF0051",
+      "status": "cancelled",
+      "total": 395.0,
+      "item_count": 2,
+      "created_at": "2025-11-20T02:14:02",
+      "item_preview": "Vilhelm Parfumerie Dear Polly, Replica Beach Walk"
+    },
+    {
+      "order_id": "ORD-20251025-PF0024",
+      "status": "delivered",
+      "total": 790.0,
+      "item_count": 2,
+      "created_at": "2025-11-14T20:17:03",
+      "item_preview": "Aventus, Aventus for Her"
+    },
+    {
+      "order_id": "ORD-20251026-PF0030",
+      "status": "shipped",
+      "total": 245.0,
+      "item_count": 2,
+      "created_at": "2025-11-14T18:11:36",
+      "item_preview": "The Only One, Uomo Valentino"
+    },
+    {
+      "order_id": "ORD-20260107-PF0055",
+      "status": "shipped",
+      "total": 115.0,
+      "item_count": 1,
+      "created_at": "2025-11-10T19:25:59",
+      "item_preview": "Uomo Valentino"
+    },
+    {
+      "order_id": "ORD-20260127-PF0048",
+      "status": "delivered",
+      "total": 475.0,
+      "item_count": 2,
+      "created_at": "2025-11-08T11:43:41",
+      "item_preview": "Lost Cherry, Acqua di Gio"
+    },
+    {
+      "order_id": "ORD-20260101-PF0027",
+      "status": "delivered",
+      "total": 355.0,
+      "item_count": 1,
+      "created_at": "2025-11-07T00:57:42",
+      "item_preview": "Lost Cherry"
+    },
+    {
+      "order_id": "ORD-20251206-PF0049",
+      "status": "cancelled",
+      "total": 120.0,
+      "item_count": 1,
+      "created_at": "2025-11-06T13:13:12",
+      "item_preview": "Dolce"
+    },
+    {
+      "order_id": "ORD-20251217-PF0022",
+      "status": "shipped",
+      "total": 355.0,
+      "item_count": 1,
+      "created_at": "2025-10-11T09:17:28",
+      "item_preview": "Lost Cherry"
+    },
+    {
+      "order_id": "ORD-20260126-PF0023",
+      "status": "cancelled",
+      "total": 345.0,
+      "item_count": 1,
+      "created_at": "2025-10-10T08:23:11",
+      "item_preview": "Aventus for Her"
+    },
+    {
+      "order_id": "ORD-20251012-PF0047",
+      "status": "delivered",
+      "total": 595.0,
+      "item_count": 1,
+      "created_at": "2025-10-03T04:41:06",
+      "item_preview": "Roja Elysium Pour Homme"
+    }
+  ],
+  "categories": [
+    {
+      "id": "orders",
+      "name": "Orders",
+      "type": "orders",
+      "label": "orders",
+      "has_cost": true,
+      "summary": {
+        "total_count": 19,
+        "total_spent": 6295.0,
+        "first_date": "2025-10-03",
+        "last_date": "2026-01-18"
+      },
+      "items": [
+        {
+          "order_id": "ORD-20251006-PF0029",
+          "status": "delivered",
+          "total": 1040.0,
+          "item_count": 2,
+          "created_at": "2026-01-18T07:02:17",
+          "item_preview": "Roja Elysium Pour Homme, Aventus"
+        },
+        {
+          "order_id": "ORD-20251028-PF0028",
+          "status": "delivered",
+          "total": 120.0,
+          "item_count": 1,
+          "created_at": "2026-01-15T18:56:43",
+          "item_preview": "Acqua di Gio"
+        },
+        {
+          "order_id": "ORD-20251201-PF0025",
+          "status": "delivered",
+          "total": 130.0,
+          "item_count": 1,
+          "created_at": "2026-01-14T15:53:02",
+          "item_preview": "The Only One"
+        },
+        {
+          "order_id": "ORD-20251004-PF0054",
+          "status": "delivered",
+          "total": 245.0,
+          "item_count": 1,
+          "created_at": "2026-01-13T11:11:24",
+          "item_preview": "Vilhelm Parfumerie Dear Polly"
+        },
+        {
+          "order_id": "ORD-20251023-PF0050",
+          "status": "delivered",
+          "total": 345.0,
+          "item_count": 1,
+          "created_at": "2026-01-05T14:27:58",
+          "item_preview": "Aventus for Her"
+        },
+        {
+          "order_id": "ORD-20260116-PF0052",
+          "status": "delivered",
+          "total": 130.0,
+          "item_count": 1,
+          "created_at": "2026-01-04T01:12:00",
+          "item_preview": "The Only One"
+        },
+        {
+          "order_id": "ORD-20251011-PF0046",
+          "status": "delivered",
+          "total": 245.0,
+          "item_count": 1,
+          "created_at": "2025-12-07T01:01:10",
+          "item_preview": "Vilhelm Parfumerie Dear Polly"
+        },
+        {
+          "order_id": "ORD-20251223-PF0026",
+          "status": "shipped",
+          "total": 120.0,
+          "item_count": 1,
+          "created_at": "2025-11-30T11:42:37",
+          "item_preview": "Dolce"
+        },
+        {
+          "order_id": "ORD-20251228-PF0053",
+          "status": "delivered",
+          "total": 130.0,
+          "item_count": 1,
+          "created_at": "2025-11-21T01:30:18",
+          "item_preview": "The Only One"
+        },
+        {
+          "order_id": "ORD-20251010-PF0051",
+          "status": "cancelled",
+          "total": 395.0,
+          "item_count": 2,
+          "created_at": "2025-11-20T02:14:02",
+          "item_preview": "Vilhelm Parfumerie Dear Polly, Replica Beach Walk"
+        },
+        {
+          "order_id": "ORD-20251025-PF0024",
+          "status": "delivered",
+          "total": 790.0,
+          "item_count": 2,
+          "created_at": "2025-11-14T20:17:03",
+          "item_preview": "Aventus, Aventus for Her"
+        },
+        {
+          "order_id": "ORD-20251026-PF0030",
+          "status": "shipped",
+          "total": 245.0,
+          "item_count": 2,
+          "created_at": "2025-11-14T18:11:36",
+          "item_preview": "The Only One, Uomo Valentino"
+        },
+        {
+          "order_id": "ORD-20260107-PF0055",
+          "status": "shipped",
+          "total": 115.0,
+          "item_count": 1,
+          "created_at": "2025-11-10T19:25:59",
+          "item_preview": "Uomo Valentino"
+        },
+        {
+          "order_id": "ORD-20260127-PF0048",
+          "status": "delivered",
+          "total": 475.0,
+          "item_count": 2,
+          "created_at": "2025-11-08T11:43:41",
+          "item_preview": "Lost Cherry, Acqua di Gio"
+        },
+        {
+          "order_id": "ORD-20260101-PF0027",
+          "status": "delivered",
+          "total": 355.0,
+          "item_count": 1,
+          "created_at": "2025-11-07T00:57:42",
+          "item_preview": "Lost Cherry"
+        },
+        {
+          "order_id": "ORD-20251206-PF0049",
+          "status": "cancelled",
+          "total": 120.0,
+          "item_count": 1,
+          "created_at": "2025-11-06T13:13:12",
+          "item_preview": "Dolce"
+        },
+        {
+          "order_id": "ORD-20251217-PF0022",
+          "status": "shipped",
+          "total": 355.0,
+          "item_count": 1,
+          "created_at": "2025-10-11T09:17:28",
+          "item_preview": "Lost Cherry"
+        },
+        {
+          "order_id": "ORD-20260126-PF0023",
+          "status": "cancelled",
+          "total": 345.0,
+          "item_count": 1,
+          "created_at": "2025-10-10T08:23:11",
+          "item_preview": "Aventus for Her"
+        },
+        {
+          "order_id": "ORD-20251012-PF0047",
+          "status": "delivered",
+          "total": 595.0,
+          "item_count": 1,
+          "created_at": "2025-10-03T04:41:06",
+          "item_preview": "Roja Elysium Pour Homme"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,353 @@
+{
+  "persona_id": "persona_014",
+  "store_id": "grocery",
+  "store_name": "Grocery",
+  "transaction_type": "orders",
+  "transaction_label": "orders",
+  "has_cost": true,
+  "summary": {
+    "total_count": 20,
+    "total_spent": 1668.9,
+    "first_date": "2025-10-05",
+    "last_date": "2026-01-29"
+  },
+  "items": [
+    {
+      "order_id": "GRC000216",
+      "status": "pending",
+      "total": 105.61,
+      "item_count": 8,
+      "created_at": "2026-01-29T04:08:33",
+      "item_preview": "Croissants, Greek Yogurt, ..."
+    },
+    {
+      "order_id": "GRC000223",
+      "status": "cancelled",
+      "total": 88.47,
+      "item_count": 9,
+      "created_at": "2026-01-22T04:08:33",
+      "item_preview": "Organic Whole Milk, Mountain Fresh Organic Apples, ..."
+    },
+    {
+      "order_id": "GRC000221",
+      "status": "delivered",
+      "total": 62.82,
+      "item_count": 5,
+      "created_at": "2026-01-21T04:08:33",
+      "item_preview": "Jasmine Rice, Sourdough Bread, ..."
+    },
+    {
+      "order_id": "GRC000231",
+      "status": "delivered",
+      "total": 119.49,
+      "item_count": 10,
+      "created_at": "2026-01-20T04:08:33",
+      "item_preview": "Sourdough Bread, Atlantic Salmon, ..."
+    },
+    {
+      "order_id": "GRC000226",
+      "status": "delivered",
+      "total": 73.38,
+      "item_count": 7,
+      "created_at": "2025-12-29T04:08:33",
+      "item_preview": "Sourdough Bread, Coffee - Medium Roast, ..."
+    },
+    {
+      "order_id": "GRC000222",
+      "status": "pending",
+      "total": 52.59,
+      "item_count": 6,
+      "created_at": "2025-12-22T04:08:33",
+      "item_preview": "Greek Yogurt, Sparkling Water, ..."
+    },
+    {
+      "order_id": "GRC000228",
+      "status": "delivered",
+      "total": 133.6,
+      "item_count": 10,
+      "created_at": "2025-12-17T04:08:33",
+      "item_preview": "Greek Yogurt, Organic Choice Broccoli, ..."
+    },
+    {
+      "order_id": "GRC000220",
+      "status": "shipped",
+      "total": 70.45,
+      "item_count": 8,
+      "created_at": "2025-12-15T04:08:33",
+      "item_preview": "Organic Choice Broccoli, Croissants, ..."
+    },
+    {
+      "order_id": "GRC000232",
+      "status": "pending",
+      "total": 38.54,
+      "item_count": 5,
+      "created_at": "2025-12-13T04:08:33",
+      "item_preview": "Croissants, Organic Choice Broccoli, ..."
+    },
+    {
+      "order_id": "GRC000229",
+      "status": "delivered",
+      "total": 45.7,
+      "item_count": 6,
+      "created_at": "2025-12-06T04:08:33",
+      "item_preview": "Sparkling Water, Fresh Farms Mangoes, ..."
+    },
+    {
+      "order_id": "GRC000233",
+      "status": "delivered",
+      "total": 47.04,
+      "item_count": 5,
+      "created_at": "2025-12-06T04:08:33",
+      "item_preview": "Greek Yogurt, Green Valley Organic Blueberries, ..."
+    },
+    {
+      "order_id": "GRC000215",
+      "status": "delivered",
+      "total": 92.88,
+      "item_count": 9,
+      "created_at": "2025-11-24T04:08:33",
+      "item_preview": "Organic Choice Broccoli, Jasmine Rice, ..."
+    },
+    {
+      "order_id": "GRC000230",
+      "status": "shipped",
+      "total": 107.05,
+      "item_count": 10,
+      "created_at": "2025-11-22T04:08:33",
+      "item_preview": "Croissants, Mountain Fresh Organic Apples, ..."
+    },
+    {
+      "order_id": "GRC000219",
+      "status": "delivered",
+      "total": 56.7,
+      "item_count": 6,
+      "created_at": "2025-11-18T04:08:33",
+      "item_preview": "Fresh Farms Organic Grapes, Sourdough Bread, ..."
+    },
+    {
+      "order_id": "GRC000214",
+      "status": "delivered",
+      "total": 137.21,
+      "item_count": 10,
+      "created_at": "2025-11-16T04:08:33",
+      "item_preview": "Mountain Fresh Organic Apples, Jasmine Rice, ..."
+    },
+    {
+      "order_id": "GRC000227",
+      "status": "cancelled",
+      "total": 132.48,
+      "item_count": 8,
+      "created_at": "2025-11-07T04:08:33",
+      "item_preview": "Coffee - Medium Roast, Fresh Farms Organic Grapes, ..."
+    },
+    {
+      "order_id": "GRC000225",
+      "status": "cancelled",
+      "total": 101.3,
+      "item_count": 7,
+      "created_at": "2025-11-04T04:08:33",
+      "item_preview": "Nature's Best Organic Strawberries, Coffee - Medium Roast, ..."
+    },
+    {
+      "order_id": "GRC000218",
+      "status": "shipped",
+      "total": 44.42,
+      "item_count": 8,
+      "created_at": "2025-10-28T04:08:33",
+      "item_preview": "Organic Choice Broccoli, Fresh Farms Mangoes, ..."
+    },
+    {
+      "order_id": "GRC000217",
+      "status": "shipped",
+      "total": 63.92,
+      "item_count": 8,
+      "created_at": "2025-10-14T04:08:33",
+      "item_preview": "Fresh Farms Organic Grapes, Coffee - Medium Roast, ..."
+    },
+    {
+      "order_id": "GRC000224",
+      "status": "delivered",
+      "total": 95.25,
+      "item_count": 7,
+      "created_at": "2025-10-05T04:08:33",
+      "item_preview": "Organic Choice Broccoli, Jasmine Rice, ..."
+    }
+  ],
+  "categories": [
+    {
+      "id": "orders",
+      "name": "Orders",
+      "type": "orders",
+      "label": "orders",
+      "has_cost": true,
+      "summary": {
+        "total_count": 20,
+        "total_spent": 1668.9,
+        "first_date": "2025-10-05",
+        "last_date": "2026-01-29"
+      },
+      "items": [
+        {
+          "order_id": "GRC000216",
+          "status": "pending",
+          "total": 105.61,
+          "item_count": 8,
+          "created_at": "2026-01-29T04:08:33",
+          "item_preview": "Croissants, Greek Yogurt, ..."
+        },
+        {
+          "order_id": "GRC000223",
+          "status": "cancelled",
+          "total": 88.47,
+          "item_count": 9,
+          "created_at": "2026-01-22T04:08:33",
+          "item_preview": "Organic Whole Milk, Mountain Fresh Organic Apples, ..."
+        },
+        {
+          "order_id": "GRC000221",
+          "status": "delivered",
+          "total": 62.82,
+          "item_count": 5,
+          "created_at": "2026-01-21T04:08:33",
+          "item_preview": "Jasmine Rice, Sourdough Bread, ..."
+        },
+        {
+          "order_id": "GRC000231",
+          "status": "delivered",
+          "total": 119.49,
+          "item_count": 10,
+          "created_at": "2026-01-20T04:08:33",
+          "item_preview": "Sourdough Bread, Atlantic Salmon, ..."
+        },
+        {
+          "order_id": "GRC000226",
+          "status": "delivered",
+          "total": 73.38,
+          "item_count": 7,
+          "created_at": "2025-12-29T04:08:33",
+          "item_preview": "Sourdough Bread, Coffee - Medium Roast, ..."
+        },
+        {
+          "order_id": "GRC000222",
+          "status": "pending",
+          "total": 52.59,
+          "item_count": 6,
+          "created_at": "2025-12-22T04:08:33",
+          "item_preview": "Greek Yogurt, Sparkling Water, ..."
+        },
+        {
+          "order_id": "GRC000228",
+          "status": "delivered",
+          "total": 133.6,
+          "item_count": 10,
+          "created_at": "2025-12-17T04:08:33",
+          "item_preview": "Greek Yogurt, Organic Choice Broccoli, ..."
+        },
+        {
+          "order_id": "GRC000220",
+          "status": "shipped",
+          "total": 70.45,
+          "item_count": 8,
+          "created_at": "2025-12-15T04:08:33",
+          "item_preview": "Organic Choice Broccoli, Croissants, ..."
+        },
+        {
+          "order_id": "GRC000232",
+          "status": "pending",
+          "total": 38.54,
+          "item_count": 5,
+          "created_at": "2025-12-13T04:08:33",
+          "item_preview": "Croissants, Organic Choice Broccoli, ..."
+        },
+        {
+          "order_id": "GRC000229",
+          "status": "delivered",
+          "total": 45.7,
+          "item_count": 6,
+          "created_at": "2025-12-06T04:08:33",
+          "item_preview": "Sparkling Water, Fresh Farms Mangoes, ..."
+        },
+        {
+          "order_id": "GRC000233",
+          "status": "delivered",
+          "total": 47.04,
+          "item_count": 5,
+          "created_at": "2025-12-06T04:08:33",
+          "item_preview": "Greek Yogurt, Green Valley Organic Blueberries, ..."
+        },
+        {
+          "order_id": "GRC000215",
+          "status": "delivered",
+          "total": 92.88,
+          "item_count": 9,
+          "created_at": "2025-11-24T04:08:33",
+          "item_preview": "Organic Choice Broccoli, Jasmine Rice, ..."
+        },
+        {
+          "order_id": "GRC000230",
+          "status": "shipped",
+          "total": 107.05,
+          "item_count": 10,
+          "created_at": "2025-11-22T04:08:33",
+          "item_preview": "Croissants, Mountain Fresh Organic Apples, ..."
+        },
+        {
+          "order_id": "GRC000219",
+          "status": "delivered",
+          "total": 56.7,
+          "item_count": 6,
+          "created_at": "2025-11-18T04:08:33",
+          "item_preview": "Fresh Farms Organic Grapes, Sourdough Bread, ..."
+        },
+        {
+          "order_id": "GRC000214",
+          "status": "delivered",
+          "total": 137.21,
+          "item_count": 10,
+          "created_at": "2025-11-16T04:08:33",
+          "item_preview": "Mountain Fresh Organic Apples, Jasmine Rice, ..."
+        },
+        {
+          "order_id": "GRC000227",
+          "status": "cancelled",
+          "total": 132.48,
+          "item_count": 8,
+          "created_at": "2025-11-07T04:08:33",
+          "item_preview": "Coffee - Medium Roast, Fresh Farms Organic Grapes, ..."
+        },
+        {
+          "order_id": "GRC000225",
+          "status": "cancelled",
+          "total": 101.3,
+          "item_count": 7,
+          "created_at": "2025-11-04T04:08:33",
+          "item_preview": "Nature's Best Organic Strawberries, Coffee - Medium Roast, ..."
+        },
+        {
+          "order_id": "GRC000218",
+          "status": "shipped",
+          "total": 44.42,
+          "item_count": 8,
+          "created_at": "2025-10-28T04:08:33",
+          "item_preview": "Organic Choice Broccoli, Fresh Farms Mangoes, ..."
+        },
+        {
+          "order_id": "GRC000217",
+          "status": "shipped",
+          "total": 63.92,
+          "item_count": 8,
+          "created_at": "2025-10-14T04:08:33",
+          "item_preview": "Fresh Farms Organic Grapes, Coffee - Medium Roast, ..."
+        },
+        {
+          "order_id": "GRC000224",
+          "status": "delivered",
+          "total": 95.25,
+          "item_count": 7,
+          "created_at": "2025-10-05T04:08:33",
+          "item_preview": "Organic Choice Broccoli, Jasmine Rice, ..."
+        }
+      ]
+    }
+  ]
+}

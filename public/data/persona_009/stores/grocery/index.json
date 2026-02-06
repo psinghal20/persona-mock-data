@@ -1,0 +1,385 @@
+{
+  "persona_id": "persona_009",
+  "store_id": "grocery",
+  "store_name": "Grocery",
+  "transaction_type": "orders",
+  "transaction_label": "orders",
+  "has_cost": true,
+  "summary": {
+    "total_count": 22,
+    "total_spent": 2110.75,
+    "first_date": "2025-10-12",
+    "last_date": "2026-01-18"
+  },
+  "items": [
+    {
+      "order_id": "GRC000205",
+      "status": "cancelled",
+      "total": 115.4,
+      "item_count": 7,
+      "created_at": "2026-01-18T04:08:33",
+      "item_preview": "Sourdough Bread, Home Style Oranges, ..."
+    },
+    {
+      "order_id": "GRC000201",
+      "status": "pending",
+      "total": 142.71,
+      "item_count": 10,
+      "created_at": "2026-01-11T04:08:33",
+      "item_preview": "Sourdough Bread, Large Eggs, ..."
+    },
+    {
+      "order_id": "GRC000196",
+      "status": "delivered",
+      "total": 80.04,
+      "item_count": 7,
+      "created_at": "2026-01-10T04:08:33",
+      "item_preview": "Atlantic Salmon, Pasta - Spaghetti, ..."
+    },
+    {
+      "order_id": "GRC000211",
+      "status": "delivered",
+      "total": 95.17,
+      "item_count": 9,
+      "created_at": "2026-01-10T04:08:33",
+      "item_preview": "Orange Juice, Pasta - Spaghetti, ..."
+    },
+    {
+      "order_id": "GRC000199",
+      "status": "pending",
+      "total": 112.17,
+      "item_count": 11,
+      "created_at": "2026-01-05T04:08:33",
+      "item_preview": "Red Bell Peppers, Home Style Oranges, ..."
+    },
+    {
+      "order_id": "GRC000210",
+      "status": "cancelled",
+      "total": 55.53,
+      "item_count": 6,
+      "created_at": "2026-01-05T04:08:33",
+      "item_preview": "Classic Kitchen Carrots, Organic Whole Milk, ..."
+    },
+    {
+      "order_id": "GRC000194",
+      "status": "pending",
+      "total": 82.9,
+      "item_count": 6,
+      "created_at": "2026-01-01T04:08:33",
+      "item_preview": "Sourdough Bread, Red Bell Peppers, ..."
+    },
+    {
+      "order_id": "GRC000209",
+      "status": "shipped",
+      "total": 61.7,
+      "item_count": 8,
+      "created_at": "2025-12-12T04:08:33",
+      "item_preview": "Home Style Oranges, Orange Juice, ..."
+    },
+    {
+      "order_id": "GRC000208",
+      "status": "cancelled",
+      "total": 76.69,
+      "item_count": 7,
+      "created_at": "2025-12-09T04:08:33",
+      "item_preview": "Sharp Cheddar Cheese, Jasmine Rice, ..."
+    },
+    {
+      "order_id": "GRC000198",
+      "status": "pending",
+      "total": 66.81,
+      "item_count": 6,
+      "created_at": "2025-12-04T04:08:33",
+      "item_preview": "Sharp Cheddar Cheese, Orange Juice, ..."
+    },
+    {
+      "order_id": "GRC000212",
+      "status": "delivered",
+      "total": 71.88,
+      "item_count": 7,
+      "created_at": "2025-11-30T04:08:33",
+      "item_preview": "Pasta - Spaghetti, Orange Juice, ..."
+    },
+    {
+      "order_id": "GRC000213",
+      "status": "delivered",
+      "total": 84.38,
+      "item_count": 6,
+      "created_at": "2025-11-29T04:08:33",
+      "item_preview": "Orange Juice, Organic Whole Milk, ..."
+    },
+    {
+      "order_id": "GRC000204",
+      "status": "delivered",
+      "total": 118.51,
+      "item_count": 10,
+      "created_at": "2025-11-23T04:08:33",
+      "item_preview": "Organic Whole Milk, Sourdough Bread, ..."
+    },
+    {
+      "order_id": "GRC000200",
+      "status": "cancelled",
+      "total": 60.99,
+      "item_count": 6,
+      "created_at": "2025-11-12T04:08:33",
+      "item_preview": "Coffee - Medium Roast, Sourdough Bread, ..."
+    },
+    {
+      "order_id": "GRC000197",
+      "status": "pending",
+      "total": 75.03,
+      "item_count": 8,
+      "created_at": "2025-11-05T04:08:33",
+      "item_preview": "Orange Juice, Sharp Cheddar Cheese, ..."
+    },
+    {
+      "order_id": "GRC000195",
+      "status": "shipped",
+      "total": 109.18,
+      "item_count": 7,
+      "created_at": "2025-11-03T04:08:33",
+      "item_preview": "Pasta - Spaghetti, Orange Juice, ..."
+    },
+    {
+      "order_id": "GRC000193",
+      "status": "pending",
+      "total": 99.37,
+      "item_count": 7,
+      "created_at": "2025-10-28T04:08:33",
+      "item_preview": "Coffee - Medium Roast, Home Style Oranges, ..."
+    },
+    {
+      "order_id": "GRC000207",
+      "status": "shipped",
+      "total": 129.15,
+      "item_count": 9,
+      "created_at": "2025-10-28T04:08:33",
+      "item_preview": "Bacon, Jasmine Rice, ..."
+    },
+    {
+      "order_id": "GRC000203",
+      "status": "pending",
+      "total": 151.87,
+      "item_count": 11,
+      "created_at": "2025-10-20T04:08:33",
+      "item_preview": "Bacon, Marinara Sauce, ..."
+    },
+    {
+      "order_id": "GRC000192",
+      "status": "delivered",
+      "total": 88.71,
+      "item_count": 8,
+      "created_at": "2025-10-18T04:08:33",
+      "item_preview": "Jasmine Rice, Organic Whole Milk, ..."
+    },
+    {
+      "order_id": "GRC000202",
+      "status": "delivered",
+      "total": 101.73,
+      "item_count": 8,
+      "created_at": "2025-10-17T04:08:33",
+      "item_preview": "Red Bell Peppers, Pasta - Spaghetti, ..."
+    },
+    {
+      "order_id": "GRC000206",
+      "status": "cancelled",
+      "total": 130.83,
+      "item_count": 11,
+      "created_at": "2025-10-12T04:08:33",
+      "item_preview": "Large Eggs, Classic Kitchen Carrots, ..."
+    }
+  ],
+  "categories": [
+    {
+      "id": "orders",
+      "name": "Orders",
+      "type": "orders",
+      "label": "orders",
+      "has_cost": true,
+      "summary": {
+        "total_count": 22,
+        "total_spent": 2110.75,
+        "first_date": "2025-10-12",
+        "last_date": "2026-01-18"
+      },
+      "items": [
+        {
+          "order_id": "GRC000205",
+          "status": "cancelled",
+          "total": 115.4,
+          "item_count": 7,
+          "created_at": "2026-01-18T04:08:33",
+          "item_preview": "Sourdough Bread, Home Style Oranges, ..."
+        },
+        {
+          "order_id": "GRC000201",
+          "status": "pending",
+          "total": 142.71,
+          "item_count": 10,
+          "created_at": "2026-01-11T04:08:33",
+          "item_preview": "Sourdough Bread, Large Eggs, ..."
+        },
+        {
+          "order_id": "GRC000196",
+          "status": "delivered",
+          "total": 80.04,
+          "item_count": 7,
+          "created_at": "2026-01-10T04:08:33",
+          "item_preview": "Atlantic Salmon, Pasta - Spaghetti, ..."
+        },
+        {
+          "order_id": "GRC000211",
+          "status": "delivered",
+          "total": 95.17,
+          "item_count": 9,
+          "created_at": "2026-01-10T04:08:33",
+          "item_preview": "Orange Juice, Pasta - Spaghetti, ..."
+        },
+        {
+          "order_id": "GRC000199",
+          "status": "pending",
+          "total": 112.17,
+          "item_count": 11,
+          "created_at": "2026-01-05T04:08:33",
+          "item_preview": "Red Bell Peppers, Home Style Oranges, ..."
+        },
+        {
+          "order_id": "GRC000210",
+          "status": "cancelled",
+          "total": 55.53,
+          "item_count": 6,
+          "created_at": "2026-01-05T04:08:33",
+          "item_preview": "Classic Kitchen Carrots, Organic Whole Milk, ..."
+        },
+        {
+          "order_id": "GRC000194",
+          "status": "pending",
+          "total": 82.9,
+          "item_count": 6,
+          "created_at": "2026-01-01T04:08:33",
+          "item_preview": "Sourdough Bread, Red Bell Peppers, ..."
+        },
+        {
+          "order_id": "GRC000209",
+          "status": "shipped",
+          "total": 61.7,
+          "item_count": 8,
+          "created_at": "2025-12-12T04:08:33",
+          "item_preview": "Home Style Oranges, Orange Juice, ..."
+        },
+        {
+          "order_id": "GRC000208",
+          "status": "cancelled",
+          "total": 76.69,
+          "item_count": 7,
+          "created_at": "2025-12-09T04:08:33",
+          "item_preview": "Sharp Cheddar Cheese, Jasmine Rice, ..."
+        },
+        {
+          "order_id": "GRC000198",
+          "status": "pending",
+          "total": 66.81,
+          "item_count": 6,
+          "created_at": "2025-12-04T04:08:33",
+          "item_preview": "Sharp Cheddar Cheese, Orange Juice, ..."
+        },
+        {
+          "order_id": "GRC000212",
+          "status": "delivered",
+          "total": 71.88,
+          "item_count": 7,
+          "created_at": "2025-11-30T04:08:33",
+          "item_preview": "Pasta - Spaghetti, Orange Juice, ..."
+        },
+        {
+          "order_id": "GRC000213",
+          "status": "delivered",
+          "total": 84.38,
+          "item_count": 6,
+          "created_at": "2025-11-29T04:08:33",
+          "item_preview": "Orange Juice, Organic Whole Milk, ..."
+        },
+        {
+          "order_id": "GRC000204",
+          "status": "delivered",
+          "total": 118.51,
+          "item_count": 10,
+          "created_at": "2025-11-23T04:08:33",
+          "item_preview": "Organic Whole Milk, Sourdough Bread, ..."
+        },
+        {
+          "order_id": "GRC000200",
+          "status": "cancelled",
+          "total": 60.99,
+          "item_count": 6,
+          "created_at": "2025-11-12T04:08:33",
+          "item_preview": "Coffee - Medium Roast, Sourdough Bread, ..."
+        },
+        {
+          "order_id": "GRC000197",
+          "status": "pending",
+          "total": 75.03,
+          "item_count": 8,
+          "created_at": "2025-11-05T04:08:33",
+          "item_preview": "Orange Juice, Sharp Cheddar Cheese, ..."
+        },
+        {
+          "order_id": "GRC000195",
+          "status": "shipped",
+          "total": 109.18,
+          "item_count": 7,
+          "created_at": "2025-11-03T04:08:33",
+          "item_preview": "Pasta - Spaghetti, Orange Juice, ..."
+        },
+        {
+          "order_id": "GRC000193",
+          "status": "pending",
+          "total": 99.37,
+          "item_count": 7,
+          "created_at": "2025-10-28T04:08:33",
+          "item_preview": "Coffee - Medium Roast, Home Style Oranges, ..."
+        },
+        {
+          "order_id": "GRC000207",
+          "status": "shipped",
+          "total": 129.15,
+          "item_count": 9,
+          "created_at": "2025-10-28T04:08:33",
+          "item_preview": "Bacon, Jasmine Rice, ..."
+        },
+        {
+          "order_id": "GRC000203",
+          "status": "pending",
+          "total": 151.87,
+          "item_count": 11,
+          "created_at": "2025-10-20T04:08:33",
+          "item_preview": "Bacon, Marinara Sauce, ..."
+        },
+        {
+          "order_id": "GRC000192",
+          "status": "delivered",
+          "total": 88.71,
+          "item_count": 8,
+          "created_at": "2025-10-18T04:08:33",
+          "item_preview": "Jasmine Rice, Organic Whole Milk, ..."
+        },
+        {
+          "order_id": "GRC000202",
+          "status": "delivered",
+          "total": 101.73,
+          "item_count": 8,
+          "created_at": "2025-10-17T04:08:33",
+          "item_preview": "Red Bell Peppers, Pasta - Spaghetti, ..."
+        },
+        {
+          "order_id": "GRC000206",
+          "status": "cancelled",
+          "total": 130.83,
+          "item_count": 11,
+          "created_at": "2025-10-12T04:08:33",
+          "item_preview": "Large Eggs, Classic Kitchen Carrots, ..."
+        }
+      ]
+    }
+  ]
+}

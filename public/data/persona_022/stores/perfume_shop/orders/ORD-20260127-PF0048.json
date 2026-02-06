@@ -1,0 +1,30 @@
+{
+  "order_id": "ORD-20260127-PF0048",
+  "persona_id": "persona_022",
+  "store_id": "perfume_shop",
+  "status": "delivered",
+  "created_at": "2025-11-08T11:43:41",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "444 Polish Hill St, Philadelphia, PA 19123",
+  "items": [
+    {
+      "product_id": "PF030",
+      "name": "Lost Cherry",
+      "category": "unisex",
+      "quantity": 1,
+      "price": 355.0,
+      "subtotal": 355.0
+    },
+    {
+      "product_id": "PF005",
+      "name": "Acqua di Gio",
+      "category": "men",
+      "quantity": 1,
+      "price": 120.0,
+      "subtotal": 120.0
+    }
+  ],
+  "total": 475.0,
+  "currency": "USD"
+}

@@ -1,0 +1,23 @@
+{
+  "order_id": "BK00000478",
+  "persona_id": "persona_027",
+  "store_id": "movie_theater",
+  "type": "booking",
+  "status": "confirmed",
+  "created_at": "2025-12-06T17:09:52",
+  "confirmation_code": "AMC-QZIW0V",
+  "items": [
+    {
+      "product_id": "MOV070",
+      "name": "The Substance",
+      "showtime": "",
+      "theater": "",
+      "seats": "L10,L11,L12",
+      "quantity": 3,
+      "price": 21.99,
+      "subtotal": 65.97
+    }
+  ],
+  "total": 65.97,
+  "currency": "USD"
+}

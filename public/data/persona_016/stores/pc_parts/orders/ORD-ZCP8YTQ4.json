@@ -1,0 +1,30 @@
+{
+  "order_id": "ORD-ZCP8YTQ4",
+  "persona_id": "persona_016",
+  "store_id": "pc_parts",
+  "status": "delivered",
+  "created_at": "2026-01-02T19:52:32",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "222 Tech Campus Way, Austin, TX 78701",
+  "items": [
+    {
+      "product_id": "RAM031",
+      "name": "XPG Lancer RGB DDR5",
+      "category": "ram",
+      "quantity": 1,
+      "price": 119.99,
+      "subtotal": 119.99
+    },
+    {
+      "product_id": "SSD041",
+      "name": "Legend 960 Max",
+      "category": "ssds",
+      "quantity": 2,
+      "price": 159.99,
+      "subtotal": 319.98
+    }
+  ],
+  "total": 439.97,
+  "currency": "USD"
+}

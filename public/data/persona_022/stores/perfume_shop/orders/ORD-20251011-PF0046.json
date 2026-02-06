@@ -1,0 +1,22 @@
+{
+  "order_id": "ORD-20251011-PF0046",
+  "persona_id": "persona_022",
+  "store_id": "perfume_shop",
+  "status": "delivered",
+  "created_at": "2025-12-07T01:01:10",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "444 Polish Hill St, Philadelphia, PA 19123",
+  "items": [
+    {
+      "product_id": "PF139",
+      "name": "Vilhelm Parfumerie Dear Polly",
+      "category": "unisex",
+      "quantity": 1,
+      "price": 245.0,
+      "subtotal": 245.0
+    }
+  ],
+  "total": 245.0,
+  "currency": "USD"
+}

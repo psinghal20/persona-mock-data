@@ -182,6 +182,25 @@
       ]
     },
     {
+      "id": "perfume_shop",
+      "name": "Perfume Shop",
+      "item_count": 3,
+      "total_spent": 730.44,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 3,
+          "total_spent": 730.44,
+          "has_cost": true
+        }
+      ]
+    },
+    {
       "id": "florist",
       "name": "Florist",
       "item_count": 3,
@@ -204,25 +223,6 @@
           "type": "subscriptions",
           "item_count": 1,
           "total_spent": 49.99,
-          "has_cost": true
-        }
-      ]
-    },
-    {
-      "id": "perfume_shop",
-      "name": "Perfume Shop",
-      "item_count": 3,
-      "total_spent": 730.44,
-      "transaction_type": "orders",
-      "transaction_label": "orders",
-      "has_cost": true,
-      "categories": [
-        {
-          "id": "orders",
-          "name": "Orders",
-          "type": "orders",
-          "item_count": 3,
-          "total_spent": 730.44,
           "has_cost": true
         }
       ]
@@ -812,5 +812,34 @@
       "total_items": 867,
       "servers_count": 10
     }
+  },
+  "obsidian": {
+    "total_notes": 29,
+    "folders": [
+      {
+        "name": "Attachments",
+        "note_count": 0
+      },
+      {
+        "name": "Daily Notes",
+        "note_count": 3
+      },
+      {
+        "name": "Personal",
+        "note_count": 16
+      },
+      {
+        "name": "Projects",
+        "note_count": 2
+      },
+      {
+        "name": "Reference",
+        "note_count": 4
+      },
+      {
+        "name": "Templates",
+        "note_count": 3
+      }
+    ]
   }
 }

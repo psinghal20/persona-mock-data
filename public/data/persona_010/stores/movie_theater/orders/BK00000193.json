@@ -1,0 +1,23 @@
+{
+  "order_id": "BK00000193",
+  "persona_id": "persona_010",
+  "store_id": "movie_theater",
+  "type": "booking",
+  "status": "confirmed",
+  "created_at": "2025-11-29T17:09:52",
+  "confirmation_code": "AMC-1LWXC0",
+  "items": [
+    {
+      "product_id": "MOV044",
+      "name": "The Zone of Interest",
+      "showtime": "",
+      "theater": "",
+      "seats": "D8,D9",
+      "quantity": 2,
+      "price": 14.99,
+      "subtotal": 29.98
+    }
+  ],
+  "total": 29.98,
+  "currency": "USD"
+}

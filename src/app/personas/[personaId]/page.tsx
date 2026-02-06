@@ -551,6 +551,33 @@ export default async function PersonaPage({ params }: PageProps) {
                   </div>
                 </Link>
               ))}
+              {/* Obsidian Vault tile */}
+              {profile.obsidian && profile.obsidian.total_notes > 0 && (
+                <Link
+                  href={`/personas/${personaId}/obsidian`}
+                  className="card p-4"
+                >
+                  <div className="flex justify-between items-start">
+                    <div className="flex-1">
+                      <div className="font-semibold flex items-center gap-2">
+                        <svg className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                          <path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z" />
+                          <path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z" />
+                        </svg>
+                        Obsidian Vault
+                      </div>
+                      <div className="text-sm text-[var(--muted)] mt-1">
+                        {profile.obsidian.total_notes} notes · {profile.obsidian.folders.filter(f => f.note_count > 0).length} folders
+                      </div>
+                    </div>
+                    <div className="text-right flex-shrink-0 ml-4">
+                      <svg className="w-5 h-5 text-[var(--muted)]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                      </svg>
+                    </div>
+                  </div>
+                </Link>
+              )}
             </div>
           </div>
         </div>
@@ -561,6 +588,7 @@ export default async function PersonaPage({ params }: PageProps) {
 
       {/* Healthcare Servers Section */}
       {profile.healthcare && <HealthcareServersSection healthcare={profile.healthcare} personaId={personaId} />}
+
     </div>
   );
 }

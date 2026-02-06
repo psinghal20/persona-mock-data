@@ -1,0 +1,22 @@
+{
+  "order_id": "ORD-20251012-PF0047",
+  "persona_id": "persona_022",
+  "store_id": "perfume_shop",
+  "status": "delivered",
+  "created_at": "2025-10-03T04:41:06",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "444 Polish Hill St, Philadelphia, PA 19123",
+  "items": [
+    {
+      "product_id": "PF135",
+      "name": "Roja Elysium Pour Homme",
+      "category": "men",
+      "quantity": 1,
+      "price": 595.0,
+      "subtotal": 595.0
+    }
+  ],
+  "total": 595.0,
+  "currency": "USD"
+}

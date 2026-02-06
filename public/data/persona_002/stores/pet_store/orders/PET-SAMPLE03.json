@@ -1,0 +1,24 @@
+{
+  "order_id": "PET-SAMPLE03",
+  "persona_id": "persona_002",
+  "store_id": "pet_store",
+  "type": "pet_profile",
+  "status": "active",
+  "items": [
+    {
+      "product_id": "PET-SAMPLE03",
+      "name": "Bella",
+      "pet_type": "Dogs",
+      "breed": "Labrador Retriever",
+      "age_years": "3",
+      "weight_lbs": "65",
+      "dietary_restrictions": "",
+      "notes": "Loves swimming and very energetic",
+      "quantity": 1,
+      "price": 0,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

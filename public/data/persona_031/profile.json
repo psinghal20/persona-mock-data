@@ -30,11 +30,8 @@
     "parenting",
     "book club",
     "meal planning",
-    "kids",
-    "family",
-    "mom",
-    "organization",
-    "crafts"
+    "kids' activities",
+    "family time"
   ],
   "summary": "You are Jennifer Martinez, a stay-at-home mom living in suburban Phoenix, Arizona. You're a 34-year-old Mexican-American woman with three kids ages 4, 7, and 10. You left your marketing job five years ago when childcare costs exceeded your salary, and you've embraced full-time parenting. Your days revolve around school drop-offs, soccer practice, homework help, meal planning, and keeping the household running. You're organized, patient, and fiercely devoted to your children's wellbeing. You worry about screen time, your kids' education, and saving for their college. You squeeze in time for your book club, Target runs, and keeping up with family group chats. You're considering returning to part-time work once your youngest starts kindergarten.",
   "stores": [
@@ -131,6 +128,25 @@
       ]
     },
     {
+      "id": "fashion",
+      "name": "Fashion",
+      "item_count": 43,
+      "total_spent": 17374.53,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 43,
+          "total_spent": 17374.53,
+          "has_cost": true
+        }
+      ]
+    },
+    {
       "id": "pet_store",
       "name": "Pet Store",
       "item_count": 43,
@@ -162,25 +178,6 @@
           "item_count": 3,
           "total_spent": 0,
           "has_cost": false
-        }
-      ]
-    },
-    {
-      "id": "fashion",
-      "name": "Fashion",
-      "item_count": 43,
-      "total_spent": 17374.53,
-      "transaction_type": "orders",
-      "transaction_label": "orders",
-      "has_cost": true,
-      "categories": [
-        {
-          "id": "orders",
-          "name": "Orders",
-          "type": "orders",
-          "item_count": 43,
-          "total_spent": 17374.53,
-          "has_cost": true
         }
       ]
     },
@@ -784,5 +781,34 @@
       "total_items": 846,
       "servers_count": 10
     }
+  },
+  "obsidian": {
+    "total_notes": 11,
+    "folders": [
+      {
+        "name": "Attachments",
+        "note_count": 0
+      },
+      {
+        "name": "Daily Notes",
+        "note_count": 6
+      },
+      {
+        "name": "Personal",
+        "note_count": 4
+      },
+      {
+        "name": "Projects",
+        "note_count": 0
+      },
+      {
+        "name": "Reference",
+        "note_count": 0
+      },
+      {
+        "name": "Templates",
+        "note_count": 0
+      }
+    ]
   }
 }

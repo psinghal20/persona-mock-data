@@ -158,6 +158,16 @@ export interface EmbeddedHealthProfile {
   };
 }
 
+export interface ObsidianFolder {
+  name: string;
+  note_count: number;
+}
+
+export interface ObsidianData {
+  total_notes: number;
+  folders: ObsidianFolder[];
+}
+
 export interface PersonaProfile {
   id: string;
   name: string;
@@ -176,6 +186,7 @@ export interface PersonaProfile {
   };
   health_profile?: EmbeddedHealthProfile;
   healthcare?: HealthcareData;
+  obsidian?: ObsidianData;
 }
 
 export interface ItemSummary {

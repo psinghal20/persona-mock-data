@@ -9,10 +9,11 @@
       "city": "Philadelphia",
       "region": "Pennsylvania",
       "age_group": "middle-aged",
-      "total_orders": 407,
-      "total_spent": 153083.92,
+      "total_orders": 430,
+      "total_spent": 159614.8,
       "healthcare_items": 829,
-      "healthcare_servers": 9
+      "healthcare_servers": 9,
+      "obsidian_notes": 12
     },
     {
       "id": "persona_013",
@@ -23,10 +24,11 @@
       "city": "Houston",
       "region": "Texas",
       "age_group": "middle-aged",
-      "total_orders": 406,
+      "total_orders": 408,
       "total_spent": 325621.25,
       "healthcare_items": 891,
-      "healthcare_servers": 10
+      "healthcare_servers": 10,
+      "obsidian_notes": 12
     },
     {
       "id": "persona_031",
@@ -40,7 +42,8 @@
       "total_orders": 485,
       "total_spent": 102015.95,
       "healthcare_items": 846,
-      "healthcare_servers": 10
+      "healthcare_servers": 10,
+      "obsidian_notes": 11
     },
     {
       "id": "USR001",
@@ -54,7 +57,8 @@
       "total_orders": 53,
       "total_spent": 2744.04,
       "healthcare_items": 867,
-      "healthcare_servers": 10
+      "healthcare_servers": 10,
+      "obsidian_notes": 29
     },
     {
       "id": "persona_023",
@@ -65,10 +69,11 @@
       "city": "Cleveland",
       "region": "Ohio",
       "age_group": "teenager",
-      "total_orders": 367,
-      "total_spent": 554210.33,
+      "total_orders": 382,
+      "total_spent": 554921.38,
       "healthcare_items": 809,
-      "healthcare_servers": 8
+      "healthcare_servers": 8,
+      "obsidian_notes": 13
     },
     {
       "id": "persona_014",
@@ -79,10 +84,11 @@
       "city": "San Francisco",
       "region": "California",
       "age_group": "young",
-      "total_orders": 449,
-      "total_spent": 418791.0,
+      "total_orders": 471,
+      "total_spent": 420459.9,
       "healthcare_items": 780,
-      "healthcare_servers": 8
+      "healthcare_servers": 8,
+      "obsidian_notes": 11
     },
     {
       "id": "persona_002",
@@ -93,10 +99,11 @@
       "city": "San Jose",
       "region": "California",
       "age_group": "young",
-      "total_orders": 347,
-      "total_spent": 291143.33,
+      "total_orders": 367,
+      "total_spent": 292324.8,
       "healthcare_items": 798,
-      "healthcare_servers": 8
+      "healthcare_servers": 8,
+      "obsidian_notes": 13
     },
     {
       "id": "persona_027",
@@ -107,10 +114,11 @@
       "city": "Boston",
       "region": "Massachusetts",
       "age_group": "middle-aged",
-      "total_orders": 426,
-      "total_spent": 342430.14,
+      "total_orders": 464,
+      "total_spent": 343663.1,
       "healthcare_items": 840,
-      "healthcare_servers": 9
+      "healthcare_servers": 9,
+      "obsidian_notes": 11
     },
     {
       "id": "persona_016",
@@ -121,10 +129,11 @@
       "city": "Austin",
       "region": "Texas",
       "age_group": "young",
-      "total_orders": 495,
-      "total_spent": 221086.15,
+      "total_orders": 523,
+      "total_spent": 231425.4,
       "healthcare_items": 898,
-      "healthcare_servers": 10
+      "healthcare_servers": 10,
+      "obsidian_notes": 14
     },
     {
       "id": "persona_010",
@@ -135,10 +144,11 @@
       "city": "New Orleans",
       "region": "Louisiana",
       "age_group": "middle-aged",
-      "total_orders": 416,
-      "total_spent": 292991.25,
+      "total_orders": 422,
+      "total_spent": 293203.14,
       "healthcare_items": 782,
-      "healthcare_servers": 8
+      "healthcare_servers": 8,
+      "obsidian_notes": 12
     },
     {
       "id": "persona_009",
@@ -149,16 +159,17 @@
       "city": "Tampa",
       "region": "Florida",
       "age_group": "retired",
-      "total_orders": 403,
-      "total_spent": 135906.69,
+      "total_orders": 429,
+      "total_spent": 138231.34,
       "healthcare_items": 826,
-      "healthcare_servers": 9
+      "healthcare_servers": 9,
+      "obsidian_notes": 12
     }
   ],
   "stats": {
     "total_personas": 11,
-    "total_orders": 4254,
+    "total_orders": 4434,
     "total_stores": 21
   },
-  "generated_at": "2026-02-05T17:12:05.578626"
+  "generated_at": "2026-02-07T03:10:38.975830"
 }

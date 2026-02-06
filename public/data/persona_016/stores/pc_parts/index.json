@@ -1,0 +1,481 @@
+{
+  "persona_id": "persona_016",
+  "store_id": "pc_parts",
+  "store_name": "PC Parts",
+  "transaction_type": "orders",
+  "transaction_label": "orders",
+  "has_cost": true,
+  "summary": {
+    "total_count": 28,
+    "total_spent": 10339.25,
+    "first_date": "2025-10-17",
+    "last_date": "2026-01-22"
+  },
+  "items": [
+    {
+      "order_id": "ORD-83DC1T1B",
+      "status": "pending",
+      "total": 269.99,
+      "item_count": 1,
+      "created_at": "2026-01-22T12:17:52",
+      "item_preview": "Legend 970"
+    },
+    {
+      "order_id": "ORD-0DJ9T9CD",
+      "status": "delivered",
+      "total": 289.97,
+      "item_count": 2,
+      "created_at": "2026-01-22T09:48:03",
+      "item_preview": "SX8200 Pro, XPG Spectrix D60G DDR4"
+    },
+    {
+      "order_id": "ORD-GGP65LYU",
+      "status": "delivered",
+      "total": 269.97,
+      "item_count": 2,
+      "created_at": "2026-01-21T10:43:41",
+      "item_preview": "SX8200 Pro, Legend 960 Max"
+    },
+    {
+      "order_id": "ORD-KJ79S1AW",
+      "status": "pending",
+      "total": 539.98,
+      "item_count": 1,
+      "created_at": "2026-01-15T06:12:04",
+      "item_preview": "Legend 970"
+    },
+    {
+      "order_id": "ORD-115U5GTS",
+      "status": "cancelled",
+      "total": 209.98,
+      "item_count": 2,
+      "created_at": "2026-01-06T07:41:02",
+      "item_preview": "SX8200 Pro, XPG Lancer RGB DDR5"
+    },
+    {
+      "order_id": "ORD-88VJJYQ7",
+      "status": "shipped",
+      "total": 239.98,
+      "item_count": 1,
+      "created_at": "2026-01-06T05:54:44",
+      "item_preview": "XPG Lancer RGB DDR5"
+    },
+    {
+      "order_id": "ORD-AWC2DH1M",
+      "status": "delivered",
+      "total": 959.94,
+      "item_count": 3,
+      "created_at": "2026-01-02T21:20:50",
+      "item_preview": "Legend 960 Max, XPG Lancer RGB DDR5, ..."
+    },
+    {
+      "order_id": "ORD-ZCP8YTQ4",
+      "status": "delivered",
+      "total": 439.97,
+      "item_count": 2,
+      "created_at": "2026-01-02T19:52:32",
+      "item_preview": "XPG Lancer RGB DDR5, Legend 960 Max"
+    },
+    {
+      "order_id": "ORD-J7YI8YLS",
+      "status": "shipped",
+      "total": 89.99,
+      "item_count": 1,
+      "created_at": "2025-12-31T04:20:04",
+      "item_preview": "Legend 960 Max"
+    },
+    {
+      "order_id": "ORD-SJ2N8RZH",
+      "status": "shipped",
+      "total": 499.96,
+      "item_count": 2,
+      "created_at": "2025-12-30T08:43:39",
+      "item_preview": "Legend 960 Max, Legend 960 Max"
+    },
+    {
+      "order_id": "ORD-LA7RWUVJ",
+      "status": "pending",
+      "total": 329.97,
+      "item_count": 2,
+      "created_at": "2025-12-27T12:55:33",
+      "item_preview": "XPG Lancer RGB DDR5, Legend 960 Max"
+    },
+    {
+      "order_id": "ORD-AV6SEVWV",
+      "status": "delivered",
+      "total": 409.97,
+      "item_count": 2,
+      "created_at": "2025-12-24T13:27:11",
+      "item_preview": "SX8200 Pro, Legend 960 Max"
+    },
+    {
+      "order_id": "ORD-NJ64704S",
+      "status": "cancelled",
+      "total": 499.95,
+      "item_count": 3,
+      "created_at": "2025-12-21T05:14:38",
+      "item_preview": "SX8200 Pro, XPG Lancer RGB DDR5, ..."
+    },
+    {
+      "order_id": "ORD-NXESODJT",
+      "status": "delivered",
+      "total": 199.98,
+      "item_count": 1,
+      "created_at": "2025-12-19T21:30:18",
+      "item_preview": "XPG Spectrix D60G DDR4"
+    },
+    {
+      "order_id": "ORD-YNTS644H",
+      "status": "delivered",
+      "total": 179.98,
+      "item_count": 2,
+      "created_at": "2025-12-13T07:59:06",
+      "item_preview": "SX8200 Pro, Legend 960 Max"
+    },
+    {
+      "order_id": "ORD-J3IKXH7G",
+      "status": "delivered",
+      "total": 779.96,
+      "item_count": 2,
+      "created_at": "2025-12-10T04:45:19",
+      "item_preview": "Legend 970, XPG Lancer RGB DDR5"
+    },
+    {
+      "order_id": "ORD-O2JANBYI",
+      "status": "shipped",
+      "total": 269.99,
+      "item_count": 1,
+      "created_at": "2025-12-06T23:26:07",
+      "item_preview": "Legend 970"
+    },
+    {
+      "order_id": "ORD-74NZ3NO9",
+      "status": "delivered",
+      "total": 179.98,
+      "item_count": 1,
+      "created_at": "2025-12-06T03:40:35",
+      "item_preview": "XPG Lancer DDR5"
+    },
+    {
+      "order_id": "ORD-331EC6MN",
+      "status": "delivered",
+      "total": 329.97,
+      "item_count": 2,
+      "created_at": "2025-11-26T23:00:25",
+      "item_preview": "SX8200 Pro, XPG Lancer RGB DDR5"
+    },
+    {
+      "order_id": "ORD-0OX83Y5R",
+      "status": "shipped",
+      "total": 319.98,
+      "item_count": 1,
+      "created_at": "2025-11-24T21:50:54",
+      "item_preview": "Legend 960 Max"
+    },
+    {
+      "order_id": "ORD-6N2SHCAG",
+      "status": "delivered",
+      "total": 89.99,
+      "item_count": 1,
+      "created_at": "2025-11-12T12:34:22",
+      "item_preview": "Legend 960 Max"
+    },
+    {
+      "order_id": "ORD-A4R0BKLT",
+      "status": "delivered",
+      "total": 319.98,
+      "item_count": 1,
+      "created_at": "2025-11-10T15:38:38",
+      "item_preview": "Legend 960 Max"
+    },
+    {
+      "order_id": "ORD-E8SHY55K",
+      "status": "delivered",
+      "total": 539.98,
+      "item_count": 1,
+      "created_at": "2025-11-04T08:38:32",
+      "item_preview": "Legend 970"
+    },
+    {
+      "order_id": "ORD-91I4V6SS",
+      "status": "delivered",
+      "total": 89.99,
+      "item_count": 1,
+      "created_at": "2025-10-25T01:09:41",
+      "item_preview": "SX8200 Pro"
+    },
+    {
+      "order_id": "ORD-G26YW5XN",
+      "status": "delivered",
+      "total": 689.95,
+      "item_count": 3,
+      "created_at": "2025-10-22T07:43:37",
+      "item_preview": "Legend 970, SX8200 Pro, ..."
+    },
+    {
+      "order_id": "ORD-Z7EFSGNV",
+      "status": "pending",
+      "total": 379.96,
+      "item_count": 2,
+      "created_at": "2025-10-20T16:28:40",
+      "item_preview": "XPG Lancer DDR5, XPG Spectrix D60G DDR4"
+    },
+    {
+      "order_id": "ORD-4UDBVXP8",
+      "status": "delivered",
+      "total": 539.98,
+      "item_count": 1,
+      "created_at": "2025-10-18T23:21:01",
+      "item_preview": "Legend 970"
+    },
+    {
+      "order_id": "ORD-QR1HL0GG",
+      "status": "cancelled",
+      "total": 379.96,
+      "item_count": 2,
+      "created_at": "2025-10-17T00:27:37",
+      "item_preview": "Legend 960 Max, XPG Spectrix D60G DDR4"
+    }
+  ],
+  "categories": [
+    {
+      "id": "orders",
+      "name": "Orders",
+      "type": "orders",
+      "label": "orders",
+      "has_cost": true,
+      "summary": {
+        "total_count": 28,
+        "total_spent": 10339.25,
+        "first_date": "2025-10-17",
+        "last_date": "2026-01-22"
+      },
+      "items": [
+        {
+          "order_id": "ORD-83DC1T1B",
+          "status": "pending",
+          "total": 269.99,
+          "item_count": 1,
+          "created_at": "2026-01-22T12:17:52",
+          "item_preview": "Legend 970"
+        },
+        {
+          "order_id": "ORD-0DJ9T9CD",
+          "status": "delivered",
+          "total": 289.97,
+          "item_count": 2,
+          "created_at": "2026-01-22T09:48:03",
+          "item_preview": "SX8200 Pro, XPG Spectrix D60G DDR4"
+        },
+        {
+          "order_id": "ORD-GGP65LYU",
+          "status": "delivered",
+          "total": 269.97,
+          "item_count": 2,
+          "created_at": "2026-01-21T10:43:41",
+          "item_preview": "SX8200 Pro, Legend 960 Max"
+        },
+        {
+          "order_id": "ORD-KJ79S1AW",
+          "status": "pending",
+          "total": 539.98,
+          "item_count": 1,
+          "created_at": "2026-01-15T06:12:04",
+          "item_preview": "Legend 970"
+        },
+        {
+          "order_id": "ORD-115U5GTS",
+          "status": "cancelled",
+          "total": 209.98,
+          "item_count": 2,
+          "created_at": "2026-01-06T07:41:02",
+          "item_preview": "SX8200 Pro, XPG Lancer RGB DDR5"
+        },
+        {
+          "order_id": "ORD-88VJJYQ7",
+          "status": "shipped",
+          "total": 239.98,
+          "item_count": 1,
+          "created_at": "2026-01-06T05:54:44",
+          "item_preview": "XPG Lancer RGB DDR5"
+        },
+        {
+          "order_id": "ORD-AWC2DH1M",
+          "status": "delivered",
+          "total": 959.94,
+          "item_count": 3,
+          "created_at": "2026-01-02T21:20:50",
+          "item_preview": "Legend 960 Max, XPG Lancer RGB DDR5, ..."
+        },
+        {
+          "order_id": "ORD-ZCP8YTQ4",
+          "status": "delivered",
+          "total": 439.97,
+          "item_count": 2,
+          "created_at": "2026-01-02T19:52:32",
+          "item_preview": "XPG Lancer RGB DDR5, Legend 960 Max"
+        },
+        {
+          "order_id": "ORD-J7YI8YLS",
+          "status": "shipped",
+          "total": 89.99,
+          "item_count": 1,
+          "created_at": "2025-12-31T04:20:04",
+          "item_preview": "Legend 960 Max"
+        },
+        {
+          "order_id": "ORD-SJ2N8RZH",
+          "status": "shipped",
+          "total": 499.96,
+          "item_count": 2,
+          "created_at": "2025-12-30T08:43:39",
+          "item_preview": "Legend 960 Max, Legend 960 Max"
+        },
+        {
+          "order_id": "ORD-LA7RWUVJ",
+          "status": "pending",
+          "total": 329.97,
+          "item_count": 2,
+          "created_at": "2025-12-27T12:55:33",
+          "item_preview": "XPG Lancer RGB DDR5, Legend 960 Max"
+        },
+        {
+          "order_id": "ORD-AV6SEVWV",
+          "status": "delivered",
+          "total": 409.97,
+          "item_count": 2,
+          "created_at": "2025-12-24T13:27:11",
+          "item_preview": "SX8200 Pro, Legend 960 Max"
+        },
+        {
+          "order_id": "ORD-NJ64704S",
+          "status": "cancelled",
+          "total": 499.95,
+          "item_count": 3,
+          "created_at": "2025-12-21T05:14:38",
+          "item_preview": "SX8200 Pro, XPG Lancer RGB DDR5, ..."
+        },
+        {
+          "order_id": "ORD-NXESODJT",
+          "status": "delivered",
+          "total": 199.98,
+          "item_count": 1,
+          "created_at": "2025-12-19T21:30:18",
+          "item_preview": "XPG Spectrix D60G DDR4"
+        },
+        {
+          "order_id": "ORD-YNTS644H",
+          "status": "delivered",
+          "total": 179.98,
+          "item_count": 2,
+          "created_at": "2025-12-13T07:59:06",
+          "item_preview": "SX8200 Pro, Legend 960 Max"
+        },
+        {
+          "order_id": "ORD-J3IKXH7G",
+          "status": "delivered",
+          "total": 779.96,
+          "item_count": 2,
+          "created_at": "2025-12-10T04:45:19",
+          "item_preview": "Legend 970, XPG Lancer RGB DDR5"
+        },
+        {
+          "order_id": "ORD-O2JANBYI",
+          "status": "shipped",
+          "total": 269.99,
+          "item_count": 1,
+          "created_at": "2025-12-06T23:26:07",
+          "item_preview": "Legend 970"
+        },
+        {
+          "order_id": "ORD-74NZ3NO9",
+          "status": "delivered",
+          "total": 179.98,
+          "item_count": 1,
+          "created_at": "2025-12-06T03:40:35",
+          "item_preview": "XPG Lancer DDR5"
+        },
+        {
+          "order_id": "ORD-331EC6MN",
+          "status": "delivered",
+          "total": 329.97,
+          "item_count": 2,
+          "created_at": "2025-11-26T23:00:25",
+          "item_preview": "SX8200 Pro, XPG Lancer RGB DDR5"
+        },
+        {
+          "order_id": "ORD-0OX83Y5R",
+          "status": "shipped",
+          "total": 319.98,
+          "item_count": 1,
+          "created_at": "2025-11-24T21:50:54",
+          "item_preview": "Legend 960 Max"
+        },
+        {
+          "order_id": "ORD-6N2SHCAG",
+          "status": "delivered",
+          "total": 89.99,
+          "item_count": 1,
+          "created_at": "2025-11-12T12:34:22",
+          "item_preview": "Legend 960 Max"
+        },
+        {
+          "order_id": "ORD-A4R0BKLT",
+          "status": "delivered",
+          "total": 319.98,
+          "item_count": 1,
+          "created_at": "2025-11-10T15:38:38",
+          "item_preview": "Legend 960 Max"
+        },
+        {
+          "order_id": "ORD-E8SHY55K",
+          "status": "delivered",
+          "total": 539.98,
+          "item_count": 1,
+          "created_at": "2025-11-04T08:38:32",
+          "item_preview": "Legend 970"
+        },
+        {
+          "order_id": "ORD-91I4V6SS",
+          "status": "delivered",
+          "total": 89.99,
+          "item_count": 1,
+          "created_at": "2025-10-25T01:09:41",
+          "item_preview": "SX8200 Pro"
+        },
+        {
+          "order_id": "ORD-G26YW5XN",
+          "status": "delivered",
+          "total": 689.95,
+          "item_count": 3,
+          "created_at": "2025-10-22T07:43:37",
+          "item_preview": "Legend 970, SX8200 Pro, ..."
+        },
+        {
+          "order_id": "ORD-Z7EFSGNV",
+          "status": "pending",
+          "total": 379.96,
+          "item_count": 2,
+          "created_at": "2025-10-20T16:28:40",
+          "item_preview": "XPG Lancer DDR5, XPG Spectrix D60G DDR4"
+        },
+        {
+          "order_id": "ORD-4UDBVXP8",
+          "status": "delivered",
+          "total": 539.98,
+          "item_count": 1,
+          "created_at": "2025-10-18T23:21:01",
+          "item_preview": "Legend 970"
+        },
+        {
+          "order_id": "ORD-QR1HL0GG",
+          "status": "cancelled",
+          "total": 379.96,
+          "item_count": 2,
+          "created_at": "2025-10-17T00:27:37",
+          "item_preview": "Legend 960 Max, XPG Spectrix D60G DDR4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-113",
+  "persona_id": "persona_027",
+  "store_id": "bookstore",
+  "status": "completed",
+  "created_at": "2025-10-07T15:32:33",
+  "items": [
+    {
+      "product_id": "337",
+      "name": "Born to Run",
+      "category": "Sports",
+      "quantity": 1,
+      "price": 17.0,
+      "subtotal": 17.0
+    }
+  ],
+  "total": 17.0,
+  "currency": "USD"
+}

@@ -1,0 +1,22 @@
+{
+  "order_id": "ORD-20251223-PF0026",
+  "persona_id": "persona_022",
+  "store_id": "perfume_shop",
+  "status": "shipped",
+  "created_at": "2025-11-30T11:42:37",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "444 Polish Hill St, Philadelphia, PA 19123",
+  "items": [
+    {
+      "product_id": "PF111",
+      "name": "Dolce",
+      "category": "women",
+      "quantity": 1,
+      "price": 120.0,
+      "subtotal": 120.0
+    }
+  ],
+  "total": 120.0,
+  "currency": "USD"
+}

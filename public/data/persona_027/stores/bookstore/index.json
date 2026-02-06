@@ -1,0 +1,561 @@
+{
+  "persona_id": "persona_027",
+  "store_id": "bookstore",
+  "store_name": "Bookstore",
+  "transaction_type": "purchases",
+  "transaction_label": "purchases",
+  "has_cost": true,
+  "summary": {
+    "total_count": 33,
+    "total_spent": 912.62,
+    "first_date": "2025-10-04",
+    "last_date": "2026-01-27"
+  },
+  "items": [
+    {
+      "order_id": "PUR-121",
+      "status": "completed",
+      "total": 29.99,
+      "item_count": 1,
+      "created_at": "2026-01-27T23:42:18",
+      "item_preview": "Good to Great"
+    },
+    {
+      "order_id": "PUR-108",
+      "status": "completed",
+      "total": 37.98,
+      "item_count": 2,
+      "created_at": "2026-01-17T13:54:17",
+      "item_preview": "Pachinko"
+    },
+    {
+      "order_id": "PUR-248",
+      "status": "completed",
+      "total": 35.98,
+      "item_count": 2,
+      "created_at": "2026-01-12T18:02:37",
+      "item_preview": "Everything I Never Told You"
+    },
+    {
+      "order_id": "PUR-245",
+      "status": "completed",
+      "total": 18.0,
+      "item_count": 1,
+      "created_at": "2026-01-12T14:58:00",
+      "item_preview": "The Grapes of Wrath"
+    },
+    {
+      "order_id": "PUR-116",
+      "status": "completed",
+      "total": 25.98,
+      "item_count": 2,
+      "created_at": "2026-01-09T13:43:07",
+      "item_preview": "We Were Liars"
+    },
+    {
+      "order_id": "PUR-251",
+      "status": "completed",
+      "total": 33.98,
+      "item_count": 2,
+      "created_at": "2026-01-03T12:29:38",
+      "item_preview": "The Boys of Summer"
+    },
+    {
+      "order_id": "PUR-253",
+      "status": "completed",
+      "total": 16.99,
+      "item_count": 1,
+      "created_at": "2025-12-31T00:20:37",
+      "item_preview": "The Lean Startup"
+    },
+    {
+      "order_id": "PUR-122",
+      "status": "completed",
+      "total": 35.98,
+      "item_count": 2,
+      "created_at": "2025-12-30T03:05:29",
+      "item_preview": "Normal People"
+    },
+    {
+      "order_id": "PUR-123",
+      "status": "completed",
+      "total": 18.99,
+      "item_count": 1,
+      "created_at": "2025-12-23T11:24:50",
+      "item_preview": "The Dragon Republic"
+    },
+    {
+      "order_id": "PUR-247",
+      "status": "completed",
+      "total": 25.98,
+      "item_count": 2,
+      "created_at": "2025-12-23T05:51:58",
+      "item_preview": "We Were Liars"
+    },
+    {
+      "order_id": "PUR-118",
+      "status": "completed",
+      "total": 29.99,
+      "item_count": 1,
+      "created_at": "2025-12-22T10:03:53",
+      "item_preview": "Good to Great"
+    },
+    {
+      "order_id": "PUR-112",
+      "status": "completed",
+      "total": 18.0,
+      "item_count": 1,
+      "created_at": "2025-12-12T21:13:37",
+      "item_preview": "Educated"
+    },
+    {
+      "order_id": "PUR-249",
+      "status": "completed",
+      "total": 16.0,
+      "item_count": 1,
+      "created_at": "2025-12-12T11:25:39",
+      "item_preview": "Fun Home"
+    },
+    {
+      "order_id": "PUR-109",
+      "status": "completed",
+      "total": 12.99,
+      "item_count": 1,
+      "created_at": "2025-12-09T18:22:24",
+      "item_preview": "We Were Liars"
+    },
+    {
+      "order_id": "PUR-124",
+      "status": "completed",
+      "total": 18.0,
+      "item_count": 1,
+      "created_at": "2025-12-04T10:32:50",
+      "item_preview": "Open"
+    },
+    {
+      "order_id": "PUR-254",
+      "status": "completed",
+      "total": 18.0,
+      "item_count": 1,
+      "created_at": "2025-12-01T10:17:49",
+      "item_preview": "The Grapes of Wrath"
+    },
+    {
+      "order_id": "PUR-105",
+      "status": "completed",
+      "total": 12.99,
+      "item_count": 1,
+      "created_at": "2025-11-27T15:49:08",
+      "item_preview": "We Were Liars"
+    },
+    {
+      "order_id": "PUR-115",
+      "status": "completed",
+      "total": 36.0,
+      "item_count": 2,
+      "created_at": "2025-11-21T12:31:17",
+      "item_preview": "Open"
+    },
+    {
+      "order_id": "PUR-117",
+      "status": "completed",
+      "total": 17.99,
+      "item_count": 1,
+      "created_at": "2025-11-10T03:30:16",
+      "item_preview": "On Earth We're Briefly Gorgeous"
+    },
+    {
+      "order_id": "PUR-252",
+      "status": "completed",
+      "total": 17.99,
+      "item_count": 1,
+      "created_at": "2025-11-09T07:14:03",
+      "item_preview": "Little Fires Everywhere"
+    },
+    {
+      "order_id": "PUR-126",
+      "status": "completed",
+      "total": 28.0,
+      "item_count": 1,
+      "created_at": "2025-11-05T21:48:02",
+      "item_preview": "The Lean Startup"
+    },
+    {
+      "order_id": "PUR-111",
+      "status": "completed",
+      "total": 59.98,
+      "item_count": 2,
+      "created_at": "2025-11-05T00:04:45",
+      "item_preview": "Good to Great"
+    },
+    {
+      "order_id": "PUR-246",
+      "status": "completed",
+      "total": 59.98,
+      "item_count": 2,
+      "created_at": "2025-10-28T06:07:49",
+      "item_preview": "Good to Great"
+    },
+    {
+      "order_id": "PUR-106",
+      "status": "completed",
+      "total": 36.0,
+      "item_count": 2,
+      "created_at": "2025-10-17T11:49:02",
+      "item_preview": "Open"
+    },
+    {
+      "order_id": "PUR-107",
+      "status": "completed",
+      "total": 60.0,
+      "item_count": 2,
+      "created_at": "2025-10-15T23:03:27",
+      "item_preview": "Principles"
+    },
+    {
+      "order_id": "PUR-114",
+      "status": "completed",
+      "total": 16.95,
+      "item_count": 1,
+      "created_at": "2025-10-15T03:15:34",
+      "item_preview": "Moneyball"
+    },
+    {
+      "order_id": "PUR-110",
+      "status": "completed",
+      "total": 17.99,
+      "item_count": 1,
+      "created_at": "2025-10-15T01:43:10",
+      "item_preview": "On Earth We're Briefly Gorgeous"
+    },
+    {
+      "order_id": "PUR-119",
+      "status": "completed",
+      "total": 35.98,
+      "item_count": 2,
+      "created_at": "2025-10-14T14:58:56",
+      "item_preview": "Normal People"
+    },
+    {
+      "order_id": "PUR-113",
+      "status": "completed",
+      "total": 17.0,
+      "item_count": 1,
+      "created_at": "2025-10-07T15:32:33",
+      "item_preview": "Born to Run"
+    },
+    {
+      "order_id": "PUR-250",
+      "status": "completed",
+      "total": 35.98,
+      "item_count": 2,
+      "created_at": "2025-10-06T15:39:29",
+      "item_preview": "Everything I Never Told You"
+    },
+    {
+      "order_id": "PUR-255",
+      "status": "completed",
+      "total": 35.98,
+      "item_count": 2,
+      "created_at": "2025-10-04T23:04:28",
+      "item_preview": "The Shining"
+    },
+    {
+      "order_id": "PUR-120",
+      "status": "completed",
+      "total": 12.99,
+      "item_count": 1,
+      "created_at": "2025-10-04T15:58:19",
+      "item_preview": "We Were Liars"
+    },
+    {
+      "order_id": "PUR-125",
+      "status": "completed",
+      "total": 17.99,
+      "item_count": 1,
+      "created_at": "2025-10-04T05:56:55",
+      "item_preview": "On Earth We're Briefly Gorgeous"
+    }
+  ],
+  "categories": [
+    {
+      "id": "purchases",
+      "name": "Purchases",
+      "type": "purchases",
+      "label": "purchases",
+      "has_cost": true,
+      "summary": {
+        "total_count": 33,
+        "total_spent": 912.62,
+        "first_date": "2025-10-04",
+        "last_date": "2026-01-27"
+      },
+      "items": [
+        {
+          "order_id": "PUR-121",
+          "status": "completed",
+          "total": 29.99,
+          "item_count": 1,
+          "created_at": "2026-01-27T23:42:18",
+          "item_preview": "Good to Great"
+        },
+        {
+          "order_id": "PUR-108",
+          "status": "completed",
+          "total": 37.98,
+          "item_count": 2,
+          "created_at": "2026-01-17T13:54:17",
+          "item_preview": "Pachinko"
+        },
+        {
+          "order_id": "PUR-248",
+          "status": "completed",
+          "total": 35.98,
+          "item_count": 2,
+          "created_at": "2026-01-12T18:02:37",
+          "item_preview": "Everything I Never Told You"
+        },
+        {
+          "order_id": "PUR-245",
+          "status": "completed",
+          "total": 18.0,
+          "item_count": 1,
+          "created_at": "2026-01-12T14:58:00",
+          "item_preview": "The Grapes of Wrath"
+        },
+        {
+          "order_id": "PUR-116",
+          "status": "completed",
+          "total": 25.98,
+          "item_count": 2,
+          "created_at": "2026-01-09T13:43:07",
+          "item_preview": "We Were Liars"
+        },
+        {
+          "order_id": "PUR-251",
+          "status": "completed",
+          "total": 33.98,
+          "item_count": 2,
+          "created_at": "2026-01-03T12:29:38",
+          "item_preview": "The Boys of Summer"
+        },
+        {
+          "order_id": "PUR-253",
+          "status": "completed",
+          "total": 16.99,
+          "item_count": 1,
+          "created_at": "2025-12-31T00:20:37",
+          "item_preview": "The Lean Startup"
+        },
+        {
+          "order_id": "PUR-122",
+          "status": "completed",
+          "total": 35.98,
+          "item_count": 2,
+          "created_at": "2025-12-30T03:05:29",
+          "item_preview": "Normal People"
+        },
+        {
+          "order_id": "PUR-123",
+          "status": "completed",
+          "total": 18.99,
+          "item_count": 1,
+          "created_at": "2025-12-23T11:24:50",
+          "item_preview": "The Dragon Republic"
+        },
+        {
+          "order_id": "PUR-247",
+          "status": "completed",
+          "total": 25.98,
+          "item_count": 2,
+          "created_at": "2025-12-23T05:51:58",
+          "item_preview": "We Were Liars"
+        },
+        {
+          "order_id": "PUR-118",
+          "status": "completed",
+          "total": 29.99,
+          "item_count": 1,
+          "created_at": "2025-12-22T10:03:53",
+          "item_preview": "Good to Great"
+        },
+        {
+          "order_id": "PUR-112",
+          "status": "completed",
+          "total": 18.0,
+          "item_count": 1,
+          "created_at": "2025-12-12T21:13:37",
+          "item_preview": "Educated"
+        },
+        {
+          "order_id": "PUR-249",
+          "status": "completed",
+          "total": 16.0,
+          "item_count": 1,
+          "created_at": "2025-12-12T11:25:39",
+          "item_preview": "Fun Home"
+        },
+        {
+          "order_id": "PUR-109",
+          "status": "completed",
+          "total": 12.99,
+          "item_count": 1,
+          "created_at": "2025-12-09T18:22:24",
+          "item_preview": "We Were Liars"
+        },
+        {
+          "order_id": "PUR-124",
+          "status": "completed",
+          "total": 18.0,
+          "item_count": 1,
+          "created_at": "2025-12-04T10:32:50",
+          "item_preview": "Open"
+        },
+        {
+          "order_id": "PUR-254",
+          "status": "completed",
+          "total": 18.0,
+          "item_count": 1,
+          "created_at": "2025-12-01T10:17:49",
+          "item_preview": "The Grapes of Wrath"
+        },
+        {
+          "order_id": "PUR-105",
+          "status": "completed",
+          "total": 12.99,
+          "item_count": 1,
+          "created_at": "2025-11-27T15:49:08",
+          "item_preview": "We Were Liars"
+        },
+        {
+          "order_id": "PUR-115",
+          "status": "completed",
+          "total": 36.0,
+          "item_count": 2,
+          "created_at": "2025-11-21T12:31:17",
+          "item_preview": "Open"
+        },
+        {
+          "order_id": "PUR-117",
+          "status": "completed",
+          "total": 17.99,
+          "item_count": 1,
+          "created_at": "2025-11-10T03:30:16",
+          "item_preview": "On Earth We're Briefly Gorgeous"
+        },
+        {
+          "order_id": "PUR-252",
+          "status": "completed",
+          "total": 17.99,
+          "item_count": 1,
+          "created_at": "2025-11-09T07:14:03",
+          "item_preview": "Little Fires Everywhere"
+        },
+        {
+          "order_id": "PUR-126",
+          "status": "completed",
+          "total": 28.0,
+          "item_count": 1,
+          "created_at": "2025-11-05T21:48:02",
+          "item_preview": "The Lean Startup"
+        },
+        {
+          "order_id": "PUR-111",
+          "status": "completed",
+          "total": 59.98,
+          "item_count": 2,
+          "created_at": "2025-11-05T00:04:45",
+          "item_preview": "Good to Great"
+        },
+        {
+          "order_id": "PUR-246",
+          "status": "completed",
+          "total": 59.98,
+          "item_count": 2,
+          "created_at": "2025-10-28T06:07:49",
+          "item_preview": "Good to Great"
+        },
+        {
+          "order_id": "PUR-106",
+          "status": "completed",
+          "total": 36.0,
+          "item_count": 2,
+          "created_at": "2025-10-17T11:49:02",
+          "item_preview": "Open"
+        },
+        {
+          "order_id": "PUR-107",
+          "status": "completed",
+          "total": 60.0,
+          "item_count": 2,
+          "created_at": "2025-10-15T23:03:27",
+          "item_preview": "Principles"
+        },
+        {
+          "order_id": "PUR-114",
+          "status": "completed",
+          "total": 16.95,
+          "item_count": 1,
+          "created_at": "2025-10-15T03:15:34",
+          "item_preview": "Moneyball"
+        },
+        {
+          "order_id": "PUR-110",
+          "status": "completed",
+          "total": 17.99,
+          "item_count": 1,
+          "created_at": "2025-10-15T01:43:10",
+          "item_preview": "On Earth We're Briefly Gorgeous"
+        },
+        {
+          "order_id": "PUR-119",
+          "status": "completed",
+          "total": 35.98,
+          "item_count": 2,
+          "created_at": "2025-10-14T14:58:56",
+          "item_preview": "Normal People"
+        },
+        {
+          "order_id": "PUR-113",
+          "status": "completed",
+          "total": 17.0,
+          "item_count": 1,
+          "created_at": "2025-10-07T15:32:33",
+          "item_preview": "Born to Run"
+        },
+        {
+          "order_id": "PUR-250",
+          "status": "completed",
+          "total": 35.98,
+          "item_count": 2,
+          "created_at": "2025-10-06T15:39:29",
+          "item_preview": "Everything I Never Told You"
+        },
+        {
+          "order_id": "PUR-255",
+          "status": "completed",
+          "total": 35.98,
+          "item_count": 2,
+          "created_at": "2025-10-04T23:04:28",
+          "item_preview": "The Shining"
+        },
+        {
+          "order_id": "PUR-120",
+          "status": "completed",
+          "total": 12.99,
+          "item_count": 1,
+          "created_at": "2025-10-04T15:58:19",
+          "item_preview": "We Were Liars"
+        },
+        {
+          "order_id": "PUR-125",
+          "status": "completed",
+          "total": 17.99,
+          "item_count": 1,
+          "created_at": "2025-10-04T05:56:55",
+          "item_preview": "On Earth We're Briefly Gorgeous"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "order_id": "PET-SAMPLE26",
+  "persona_id": "persona_013",
+  "store_id": "pet_store",
+  "type": "pet_profile",
+  "status": "active",
+  "items": [
+    {
+      "product_id": "PET-SAMPLE26",
+      "name": "Spike",
+      "pet_type": "Reptiles",
+      "breed": "Bearded Dragon",
+      "age_years": "4",
+      "weight_lbs": "0.8",
+      "dietary_restrictions": "",
+      "notes": "Omnivore needs UVB lighting",
+      "quantity": 1,
+      "price": 0,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

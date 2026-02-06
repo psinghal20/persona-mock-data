@@ -28,13 +28,8 @@
   "interests": [
     "Red Sox",
     "Celtics",
-    "Irish",
-    "pub",
-    "Boston",
-    "community",
-    "sports",
-    "family",
-    "business"
+    "Irish music",
+    "community"
   ],
   "summary": "You are Patrick Murphy, a veteran bar owner who runs an Irish pub in Boston's Jamaica Plain neighborhood. You're a middle-aged Irish-American father whose family has been in Boston for generations. You're friendly, humorous, and proud of maintaining authentic neighborhood hospitality in a gentrifying area. You value community, tradition, and keeping the local spirit alive. You worry about rising rents and longtime regulars being displaced. You're a die-hard Red Sox and Celtics fan, love traditional Irish music sessions at your bar, and know everyone's name and story.",
   "stores": [
@@ -169,6 +164,25 @@
       ]
     },
     {
+      "id": "bookstore",
+      "name": "Bookstore",
+      "item_count": 33,
+      "total_spent": 912.62,
+      "transaction_type": "purchases",
+      "transaction_label": "purchases",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "purchases",
+          "name": "Purchases",
+          "type": "purchases",
+          "item_count": 33,
+          "total_spent": 912.62,
+          "has_cost": true
+        }
+      ]
+    },
+    {
       "id": "florist",
       "name": "Florist",
       "item_count": 27,
@@ -261,6 +275,25 @@
       ]
     },
     {
+      "id": "movie_theater",
+      "name": "Movie Theater",
+      "item_count": 5,
+      "total_spent": 320.34,
+      "transaction_type": "bookings",
+      "transaction_label": "bookings",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "bookings",
+          "name": "Bookings",
+          "type": "bookings",
+          "item_count": 5,
+          "total_spent": 320.34,
+          "has_cost": true
+        }
+      ]
+    },
+    {
       "id": "car_deals",
       "name": "Car Deals",
       "item_count": 4,
@@ -289,9 +322,9 @@
     }
   ],
   "stats": {
-    "total_orders": 426,
-    "total_spent": 342430.14,
-    "stores_count": 11
+    "total_orders": 464,
+    "total_spent": 343663.1,
+    "stores_count": 13
   },
   "health_profile": {
     "demographics": {
@@ -823,5 +856,34 @@
       "total_items": 840,
       "servers_count": 9
     }
+  },
+  "obsidian": {
+    "total_notes": 11,
+    "folders": [
+      {
+        "name": "Attachments",
+        "note_count": 0
+      },
+      {
+        "name": "Daily Notes",
+        "note_count": 6
+      },
+      {
+        "name": "Personal",
+        "note_count": 4
+      },
+      {
+        "name": "Projects",
+        "note_count": 0
+      },
+      {
+        "name": "Reference",
+        "note_count": 0
+      },
+      {
+        "name": "Templates",
+        "note_count": 0
+      }
+    ]
   }
 }

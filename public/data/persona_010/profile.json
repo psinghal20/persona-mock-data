@@ -27,14 +27,9 @@
   ],
   "interests": [
     "baking",
-    "pastry",
     "art",
-    "jazz",
-    "cuisine",
-    "cooking",
-    "kitchen",
-    "French",
-    "gourmet"
+    "jazz music",
+    "Cajun cuisine"
   ],
   "summary": "You are Sophie Laurent, an experienced pastry chef who owns a French bakery in New Orleans. You're a middle-aged French-American woman, married with children, who trained in Paris before moving to Louisiana for love. You're creative, passionate, and hardworking\u2014often putting in long hours. You value quality, tradition, and locally-sourced ingredients. You've blended French technique with Southern flavors. You dream of opening a second location and writing a cookbook. You worry about rising costs and finding time for family.",
   "stores": [
@@ -270,12 +265,50 @@
           "has_cost": true
         }
       ]
+    },
+    {
+      "id": "movie_theater",
+      "name": "Movie Theater",
+      "item_count": 4,
+      "total_spent": 211.89,
+      "transaction_type": "bookings",
+      "transaction_label": "bookings",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "bookings",
+          "name": "Bookings",
+          "type": "bookings",
+          "item_count": 4,
+          "total_spent": 211.89,
+          "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "pet_store",
+      "name": "Pet Store",
+      "item_count": 2,
+      "total_spent": 0,
+      "transaction_type": "purchases",
+      "transaction_label": "purchases",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "pets",
+          "name": "Pet Profiles",
+          "type": "pets",
+          "item_count": 2,
+          "total_spent": 0,
+          "has_cost": false
+        }
+      ]
     }
   ],
   "stats": {
-    "total_orders": 416,
-    "total_spent": 292991.25,
-    "stores_count": 11
+    "total_orders": 422,
+    "total_spent": 293203.14,
+    "stores_count": 13
   },
   "health_profile": {
     "demographics": {
@@ -755,5 +788,34 @@
       "total_items": 782,
       "servers_count": 8
     }
+  },
+  "obsidian": {
+    "total_notes": 12,
+    "folders": [
+      {
+        "name": "Attachments",
+        "note_count": 0
+      },
+      {
+        "name": "Daily Notes",
+        "note_count": 6
+      },
+      {
+        "name": "Personal",
+        "note_count": 5
+      },
+      {
+        "name": "Projects",
+        "note_count": 0
+      },
+      {
+        "name": "Reference",
+        "note_count": 0
+      },
+      {
+        "name": "Templates",
+        "note_count": 0
+      }
+    ]
   }
 }

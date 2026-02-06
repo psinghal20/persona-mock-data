@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-249",
+  "persona_id": "persona_027",
+  "store_id": "bookstore",
+  "status": "completed",
+  "created_at": "2025-12-12T11:25:39",
+  "items": [
+    {
+      "product_id": "348",
+      "name": "Fun Home",
+      "category": "Graphic Novel",
+      "quantity": 1,
+      "price": 16.0,
+      "subtotal": 16.0
+    }
+  ],
+  "total": 16.0,
+  "currency": "USD"
+}

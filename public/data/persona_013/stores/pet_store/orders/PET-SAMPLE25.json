@@ -1,0 +1,24 @@
+{
+  "order_id": "PET-SAMPLE25",
+  "persona_id": "persona_013",
+  "store_id": "pet_store",
+  "type": "pet_profile",
+  "status": "active",
+  "items": [
+    {
+      "product_id": "PET-SAMPLE25",
+      "name": "Murphy",
+      "pet_type": "Dogs",
+      "breed": "Goldendoodle",
+      "age_years": "2",
+      "weight_lbs": "62",
+      "dietary_restrictions": "",
+      "notes": "Hybrid needs regular grooming",
+      "quantity": 1,
+      "price": 0,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

@@ -1,0 +1,78 @@
+{
+  "order_id": "GRC000192",
+  "persona_id": "persona_009",
+  "store_id": "grocery",
+  "status": "delivered",
+  "created_at": "2025-10-18T04:08:33",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "789 Veterans Blvd, Tampa, FL 33602",
+  "items": [
+    {
+      "product_id": "prod_015",
+      "name": "Jasmine Rice",
+      "category": "Pantry",
+      "quantity": 1,
+      "price": 8.99,
+      "subtotal": 8.99
+    },
+    {
+      "product_id": "prod_005",
+      "name": "Organic Whole Milk",
+      "category": "Dairy",
+      "quantity": 3,
+      "price": 6.49,
+      "subtotal": 19.47
+    },
+    {
+      "product_id": "prod_011",
+      "name": "Atlantic Salmon",
+      "category": "Meat & Seafood",
+      "quantity": 3,
+      "price": 12.99,
+      "subtotal": 38.97
+    },
+    {
+      "product_id": "prod_021",
+      "name": "Coffee - Medium Roast",
+      "category": "Beverages",
+      "quantity": 1,
+      "price": 9.99,
+      "subtotal": 9.99
+    },
+    {
+      "product_id": "prod_014",
+      "name": "Marinara Sauce",
+      "category": "Pantry",
+      "quantity": 1,
+      "price": 4.49,
+      "subtotal": 4.49
+    },
+    {
+      "product_id": "prod_095",
+      "name": "Classic Kitchen Carrots",
+      "category": "Produce",
+      "quantity": 1,
+      "price": 1.52,
+      "subtotal": 1.52
+    },
+    {
+      "product_id": "prod_016",
+      "name": "Black Beans",
+      "category": "Pantry",
+      "quantity": 1,
+      "price": 1.29,
+      "subtotal": 1.29
+    },
+    {
+      "product_id": "prod_030",
+      "name": "Home Style Oranges",
+      "category": "Produce",
+      "quantity": 3,
+      "price": 1.33,
+      "subtotal": 3.99
+    }
+  ],
+  "total": 88.71,
+  "currency": "USD"
+}

@@ -1,0 +1,105 @@
+{
+  "persona_id": "persona_010",
+  "store_id": "movie_theater",
+  "store_name": "Movie Theater",
+  "transaction_type": "bookings",
+  "transaction_label": "bookings",
+  "has_cost": true,
+  "summary": {
+    "total_count": 4,
+    "total_spent": 211.89,
+    "first_date": "2025-11-23",
+    "last_date": "2026-01-20"
+  },
+  "items": [
+    {
+      "order_id": "BK00000095",
+      "display_name": "Queer",
+      "description": "3 seats",
+      "status": "cancelled",
+      "total": 71.97,
+      "item_count": 3,
+      "created_at": "2026-01-20T17:09:52"
+    },
+    {
+      "order_id": "BK00000410",
+      "display_name": "Kraven the Hunter",
+      "description": "4 seats",
+      "status": "confirmed",
+      "total": 79.96,
+      "item_count": 4,
+      "created_at": "2025-12-15T17:09:52"
+    },
+    {
+      "order_id": "BK00000193",
+      "display_name": "The Zone of Interest",
+      "description": "2 seats",
+      "status": "confirmed",
+      "total": 29.98,
+      "item_count": 2,
+      "created_at": "2025-11-29T17:09:52"
+    },
+    {
+      "order_id": "BK00000362",
+      "display_name": "Civil War",
+      "description": "2 seats",
+      "status": "confirmed",
+      "total": 29.98,
+      "item_count": 2,
+      "created_at": "2025-11-23T17:09:52"
+    }
+  ],
+  "categories": [
+    {
+      "id": "bookings",
+      "name": "Bookings",
+      "type": "bookings",
+      "label": "bookings",
+      "has_cost": true,
+      "summary": {
+        "total_count": 4,
+        "total_spent": 211.89,
+        "first_date": "2025-11-23",
+        "last_date": "2026-01-20"
+      },
+      "items": [
+        {
+          "order_id": "BK00000095",
+          "display_name": "Queer",
+          "description": "3 seats",
+          "status": "cancelled",
+          "total": 71.97,
+          "item_count": 3,
+          "created_at": "2026-01-20T17:09:52"
+        },
+        {
+          "order_id": "BK00000410",
+          "display_name": "Kraven the Hunter",
+          "description": "4 seats",
+          "status": "confirmed",
+          "total": 79.96,
+          "item_count": 4,
+          "created_at": "2025-12-15T17:09:52"
+        },
+        {
+          "order_id": "BK00000193",
+          "display_name": "The Zone of Interest",
+          "description": "2 seats",
+          "status": "confirmed",
+          "total": 29.98,
+          "item_count": 2,
+          "created_at": "2025-11-29T17:09:52"
+        },
+        {
+          "order_id": "BK00000362",
+          "display_name": "Civil War",
+          "description": "2 seats",
+          "status": "confirmed",
+          "total": 29.98,
+          "item_count": 2,
+          "created_at": "2025-11-23T17:09:52"
+        }
+      ]
+    }
+  ]
+}

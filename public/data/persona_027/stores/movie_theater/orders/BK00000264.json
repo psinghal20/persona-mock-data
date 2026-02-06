@@ -1,0 +1,23 @@
+{
+  "order_id": "BK00000264",
+  "persona_id": "persona_027",
+  "store_id": "movie_theater",
+  "type": "booking",
+  "status": "cancelled",
+  "created_at": "2026-01-19T17:09:52",
+  "confirmation_code": "AMC-FHEY6O",
+  "items": [
+    {
+      "product_id": "MOV055",
+      "name": "Monkey Man",
+      "showtime": "",
+      "theater": "",
+      "seats": "M10,M11,M12",
+      "quantity": 3,
+      "price": 17.49,
+      "subtotal": 52.47
+    }
+  ],
+  "total": 52.47,
+  "currency": "USD"
+}

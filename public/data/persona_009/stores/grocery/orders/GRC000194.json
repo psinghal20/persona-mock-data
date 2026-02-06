@@ -1,0 +1,62 @@
+{
+  "order_id": "GRC000194",
+  "persona_id": "persona_009",
+  "store_id": "grocery",
+  "status": "pending",
+  "created_at": "2026-01-01T04:08:33",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "789 Veterans Blvd, Tampa, FL 33602",
+  "items": [
+    {
+      "product_id": "prod_023",
+      "name": "Sourdough Bread",
+      "category": "Bakery",
+      "quantity": 2,
+      "price": 5.49,
+      "subtotal": 10.98
+    },
+    {
+      "product_id": "prod_004",
+      "name": "Red Bell Peppers",
+      "category": "Produce",
+      "quantity": 3,
+      "price": 1.99,
+      "subtotal": 5.97
+    },
+    {
+      "product_id": "prod_015",
+      "name": "Jasmine Rice",
+      "category": "Pantry",
+      "quantity": 3,
+      "price": 8.99,
+      "subtotal": 26.97
+    },
+    {
+      "product_id": "prod_020",
+      "name": "Orange Juice",
+      "category": "Beverages",
+      "quantity": 3,
+      "price": 6.99,
+      "subtotal": 20.97
+    },
+    {
+      "product_id": "prod_095",
+      "name": "Classic Kitchen Carrots",
+      "category": "Produce",
+      "quantity": 2,
+      "price": 1.52,
+      "subtotal": 3.04
+    },
+    {
+      "product_id": "prod_006",
+      "name": "Large Eggs",
+      "category": "Dairy",
+      "quantity": 3,
+      "price": 4.99,
+      "subtotal": 14.97
+    }
+  ],
+  "total": 82.9,
+  "currency": "USD"
+}

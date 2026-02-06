@@ -1,0 +1,23 @@
+{
+  "order_id": "BK00000441",
+  "persona_id": "persona_027",
+  "store_id": "movie_theater",
+  "type": "booking",
+  "status": "confirmed",
+  "created_at": "2025-12-10T17:09:52",
+  "confirmation_code": "AMC-DP44CN",
+  "items": [
+    {
+      "product_id": "MOV007",
+      "name": "Bad Boys: Ride or Die",
+      "showtime": "",
+      "theater": "",
+      "seats": "A10,A11,A12,A13",
+      "quantity": 4,
+      "price": 19.99,
+      "subtotal": 79.96
+    }
+  ],
+  "total": 79.96,
+  "currency": "USD"
+}

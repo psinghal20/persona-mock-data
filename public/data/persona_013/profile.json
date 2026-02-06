@@ -28,12 +28,8 @@
   "interests": [
     "basketball",
     "fitness",
-    "community",
-    "soccer",
-    "family",
-    "coaching",
-    "sports",
-    "health"
+    "community service",
+    "soccer"
   ],
   "summary": "You are Carlos Mendez, a veteran basketball coach who runs youth development programs in Houston, Texas. You immigrated from Colombia as a young man and became a citizen. You're a middle-aged married father who is passionate about mentoring young athletes, especially in underserved Hispanic communities. You're supportive, determined, and believe sports can transform lives. You value teamwork and community service, and dream of developing future professional players. You enjoy fitness, family cookouts, and watching both NBA and soccer.",
   "stores": [
@@ -250,12 +246,31 @@
           "has_cost": true
         }
       ]
+    },
+    {
+      "id": "pet_store",
+      "name": "Pet Store",
+      "item_count": 2,
+      "total_spent": 0,
+      "transaction_type": "purchases",
+      "transaction_label": "purchases",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "pets",
+          "name": "Pet Profiles",
+          "type": "pets",
+          "item_count": 2,
+          "total_spent": 0,
+          "has_cost": false
+        }
+      ]
     }
   ],
   "stats": {
-    "total_orders": 406,
+    "total_orders": 408,
     "total_spent": 325621.25,
-    "stores_count": 10
+    "stores_count": 11
   },
   "health_profile": {
     "demographics": {
@@ -785,5 +800,34 @@
       "total_items": 891,
       "servers_count": 10
     }
+  },
+  "obsidian": {
+    "total_notes": 12,
+    "folders": [
+      {
+        "name": "Attachments",
+        "note_count": 0
+      },
+      {
+        "name": "Daily Notes",
+        "note_count": 6
+      },
+      {
+        "name": "Personal",
+        "note_count": 5
+      },
+      {
+        "name": "Projects",
+        "note_count": 0
+      },
+      {
+        "name": "Reference",
+        "note_count": 0
+      },
+      {
+        "name": "Templates",
+        "note_count": 0
+      }
+    ]
   }
 }

@@ -1,0 +1,19 @@
+{
+  "order_id": "PUR-105",
+  "persona_id": "persona_027",
+  "store_id": "bookstore",
+  "status": "completed",
+  "created_at": "2025-11-27T15:49:08",
+  "items": [
+    {
+      "product_id": "258",
+      "name": "We Were Liars",
+      "category": "Young Adult",
+      "quantity": 1,
+      "price": 12.99,
+      "subtotal": 12.99
+    }
+  ],
+  "total": 12.99,
+  "currency": "USD"
+}

@@ -27,15 +27,10 @@
   ],
   "interests": [
     "design",
-    "UX",
     "K-drama",
     "fashion",
     "photography",
-    "K-pop",
-    "art",
-    "creative",
-    "aesthetic",
-    "tech"
+    "K-pop"
   ],
   "summary": "You are Lisa Park, an experienced UX designer specializing in mobile interfaces at a tech company in San Francisco. You're a young, single Korean-American woman who grew up in LA's Koreatown. You're creative, detail-oriented, and enthusiastic about great design. You dream of leading a design team and creating award-winning apps. You love K-dramas (your guilty pleasure), K-pop, fashion, and photography. You stay connected to Korean culture through food and music while navigating tech's demanding culture.",
   "stores": [
@@ -219,6 +214,25 @@
       ]
     },
     {
+      "id": "grocery",
+      "name": "Grocery",
+      "item_count": 20,
+      "total_spent": 1668.9,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 20,
+          "total_spent": 1668.9,
+          "has_cost": true
+        }
+      ]
+    },
+    {
       "id": "perfume_shop",
       "name": "Perfume Shop",
       "item_count": 15,
@@ -274,12 +288,31 @@
           "has_cost": true
         }
       ]
+    },
+    {
+      "id": "pet_store",
+      "name": "Pet Store",
+      "item_count": 2,
+      "total_spent": 0,
+      "transaction_type": "purchases",
+      "transaction_label": "purchases",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "pets",
+          "name": "Pet Profiles",
+          "type": "pets",
+          "item_count": 2,
+          "total_spent": 0,
+          "has_cost": false
+        }
+      ]
     }
   ],
   "stats": {
-    "total_orders": 449,
-    "total_spent": 418791.0,
-    "stores_count": 12
+    "total_orders": 471,
+    "total_spent": 420459.9,
+    "stores_count": 14
   },
   "health_profile": {
     "demographics": {
@@ -751,5 +784,34 @@
       "total_items": 780,
       "servers_count": 8
     }
+  },
+  "obsidian": {
+    "total_notes": 11,
+    "folders": [
+      {
+        "name": "Attachments",
+        "note_count": 0
+      },
+      {
+        "name": "Daily Notes",
+        "note_count": 6
+      },
+      {
+        "name": "Personal",
+        "note_count": 4
+      },
+      {
+        "name": "Projects",
+        "note_count": 0
+      },
+      {
+        "name": "Reference",
+        "note_count": 0
+      },
+      {
+        "name": "Templates",
+        "note_count": 0
+      }
+    ]
   }
 }

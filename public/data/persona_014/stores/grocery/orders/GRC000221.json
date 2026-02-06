@@ -1,0 +1,54 @@
+{
+  "order_id": "GRC000221",
+  "persona_id": "persona_014",
+  "store_id": "grocery",
+  "status": "delivered",
+  "created_at": "2026-01-21T04:08:33",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "234 Design District, Apt 8C, Seattle, WA 98101",
+  "items": [
+    {
+      "product_id": "prod_015",
+      "name": "Jasmine Rice",
+      "category": "Pantry",
+      "quantity": 2,
+      "price": 8.99,
+      "subtotal": 17.98
+    },
+    {
+      "product_id": "prod_023",
+      "name": "Sourdough Bread",
+      "category": "Bakery",
+      "quantity": 2,
+      "price": 5.49,
+      "subtotal": 10.98
+    },
+    {
+      "product_id": "prod_021",
+      "name": "Coffee - Medium Roast",
+      "category": "Beverages",
+      "quantity": 2,
+      "price": 9.99,
+      "subtotal": 19.98
+    },
+    {
+      "product_id": "prod_049",
+      "name": "Fresh Farms Mangoes",
+      "category": "Produce",
+      "quantity": 1,
+      "price": 1.9,
+      "subtotal": 1.9
+    },
+    {
+      "product_id": "prod_007",
+      "name": "Greek Yogurt",
+      "category": "Dairy",
+      "quantity": 2,
+      "price": 5.99,
+      "subtotal": 11.98
+    }
+  ],
+  "total": 62.82,
+  "currency": "USD"
+}

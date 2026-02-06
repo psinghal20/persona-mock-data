@@ -1,0 +1,22 @@
+{
+  "order_id": "ORD-20260126-PF0023",
+  "persona_id": "persona_022",
+  "store_id": "perfume_shop",
+  "status": "cancelled",
+  "created_at": "2025-10-10T08:23:11",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "444 Polish Hill St, Philadelphia, PA 19123",
+  "items": [
+    {
+      "product_id": "PF031",
+      "name": "Aventus for Her",
+      "category": "women",
+      "quantity": 1,
+      "price": 345.0,
+      "subtotal": 345.0
+    }
+  ],
+  "total": 345.0,
+  "currency": "USD"
+}

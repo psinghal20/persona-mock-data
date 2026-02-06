@@ -1,0 +1,38 @@
+{
+  "order_id": "GRC000245",
+  "persona_id": "persona_023",
+  "store_id": "grocery",
+  "status": "cancelled",
+  "created_at": "2025-10-20T04:08:33",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "123 College Ave, Dorm 204, Boston, MA 02101",
+  "items": [
+    {
+      "product_id": "prod_015",
+      "name": "Jasmine Rice",
+      "category": "Pantry",
+      "quantity": 1,
+      "price": 8.99,
+      "subtotal": 8.99
+    },
+    {
+      "product_id": "prod_014",
+      "name": "Marinara Sauce",
+      "category": "Pantry",
+      "quantity": 1,
+      "price": 4.49,
+      "subtotal": 4.49
+    },
+    {
+      "product_id": "prod_006",
+      "name": "Large Eggs",
+      "category": "Dairy",
+      "quantity": 3,
+      "price": 4.99,
+      "subtotal": 14.97
+    }
+  ],
+  "total": 28.45,
+  "currency": "USD"
+}

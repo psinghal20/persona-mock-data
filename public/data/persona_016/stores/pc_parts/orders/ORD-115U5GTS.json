@@ -1,0 +1,30 @@
+{
+  "order_id": "ORD-115U5GTS",
+  "persona_id": "persona_016",
+  "store_id": "pc_parts",
+  "status": "cancelled",
+  "created_at": "2026-01-06T07:41:02",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "222 Tech Campus Way, Austin, TX 78701",
+  "items": [
+    {
+      "product_id": "SSD087",
+      "name": "SX8200 Pro",
+      "category": "ssds",
+      "quantity": 1,
+      "price": 89.99,
+      "subtotal": 89.99
+    },
+    {
+      "product_id": "RAM031",
+      "name": "XPG Lancer RGB DDR5",
+      "category": "ram",
+      "quantity": 1,
+      "price": 119.99,
+      "subtotal": 119.99
+    }
+  ],
+  "total": 209.98,
+  "currency": "USD"
+}

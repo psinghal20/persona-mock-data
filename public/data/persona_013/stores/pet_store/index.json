@@ -1,0 +1,69 @@
+{
+  "persona_id": "persona_013",
+  "store_id": "pet_store",
+  "store_name": "Pet Store",
+  "transaction_type": "purchases",
+  "transaction_label": "purchases",
+  "has_cost": true,
+  "summary": {
+    "total_count": 2,
+    "total_spent": 0,
+    "first_date": "",
+    "last_date": ""
+  },
+  "items": [
+    {
+      "order_id": "PET-SAMPLE25",
+      "display_name": "Murphy",
+      "description": "Goldendoodle (Dogs)",
+      "status": "active",
+      "total": 0,
+      "item_count": 1,
+      "created_at": ""
+    },
+    {
+      "order_id": "PET-SAMPLE26",
+      "display_name": "Spike",
+      "description": "Bearded Dragon (Reptiles)",
+      "status": "active",
+      "total": 0,
+      "item_count": 1,
+      "created_at": ""
+    }
+  ],
+  "categories": [
+    {
+      "id": "pets",
+      "name": "Pet Profiles",
+      "type": "pets",
+      "label": "pets",
+      "has_cost": false,
+      "summary": {
+        "total_count": 2,
+        "total_spent": 0,
+        "first_date": "",
+        "last_date": ""
+      },
+      "items": [
+        {
+          "order_id": "PET-SAMPLE25",
+          "display_name": "Murphy",
+          "description": "Goldendoodle (Dogs)",
+          "status": "active",
+          "total": 0,
+          "item_count": 1,
+          "created_at": ""
+        },
+        {
+          "order_id": "PET-SAMPLE26",
+          "display_name": "Spike",
+          "description": "Bearded Dragon (Reptiles)",
+          "status": "active",
+          "total": 0,
+          "item_count": 1,
+          "created_at": ""
+        }
+      ]
+    }
+  ]
+}

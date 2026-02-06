@@ -1,0 +1,321 @@
+{
+  "persona_id": "persona_002",
+  "store_id": "grocery",
+  "store_name": "Grocery",
+  "transaction_type": "orders",
+  "transaction_label": "orders",
+  "has_cost": true,
+  "summary": {
+    "total_count": 18,
+    "total_spent": 1181.47,
+    "first_date": "2025-10-01",
+    "last_date": "2026-01-24"
+  },
+  "items": [
+    {
+      "order_id": "GRC000179",
+      "status": "shipped",
+      "total": 32.93,
+      "item_count": 4,
+      "created_at": "2026-01-24T04:08:33",
+      "item_preview": "Pasta - Spaghetti, Sharp Cheddar Cheese, ..."
+    },
+    {
+      "order_id": "GRC000188",
+      "status": "shipped",
+      "total": 57.27,
+      "item_count": 7,
+      "created_at": "2026-01-17T04:08:33",
+      "item_preview": "Frozen Pizza - Pepperoni, Greek Yogurt, ..."
+    },
+    {
+      "order_id": "GRC000189",
+      "status": "cancelled",
+      "total": 83.21,
+      "item_count": 8,
+      "created_at": "2026-01-16T04:08:33",
+      "item_preview": "Large Eggs, Pasta - Spaghetti, ..."
+    },
+    {
+      "order_id": "GRC000184",
+      "status": "delivered",
+      "total": 32.87,
+      "item_count": 4,
+      "created_at": "2025-12-31T04:08:33",
+      "item_preview": "Sharp Cheddar Cheese, Sparkling Water, ..."
+    },
+    {
+      "order_id": "GRC000191",
+      "status": "pending",
+      "total": 92.64,
+      "item_count": 8,
+      "created_at": "2025-12-15T04:08:33",
+      "item_preview": "Large Eggs, Sharp Cheddar Cheese, ..."
+    },
+    {
+      "order_id": "GRC000181",
+      "status": "delivered",
+      "total": 66.24,
+      "item_count": 8,
+      "created_at": "2025-12-12T04:08:33",
+      "item_preview": "Pasta - Spaghetti, Marinara Sauce, ..."
+    },
+    {
+      "order_id": "GRC000183",
+      "status": "shipped",
+      "total": 68.92,
+      "item_count": 8,
+      "created_at": "2025-12-08T04:08:33",
+      "item_preview": "Sharp Cheddar Cheese, Greek Yogurt, ..."
+    },
+    {
+      "order_id": "GRC000185",
+      "status": "delivered",
+      "total": 57.28,
+      "item_count": 5,
+      "created_at": "2025-12-07T04:08:33",
+      "item_preview": "Greek Yogurt, Frozen Pizza - Pepperoni, ..."
+    },
+    {
+      "order_id": "GRC000190",
+      "status": "shipped",
+      "total": 130.89,
+      "item_count": 9,
+      "created_at": "2025-12-04T04:08:33",
+      "item_preview": "Potato Chips, Coffee - Medium Roast, ..."
+    },
+    {
+      "order_id": "GRC000177",
+      "status": "delivered",
+      "total": 45.93,
+      "item_count": 4,
+      "created_at": "2025-11-23T04:08:33",
+      "item_preview": "Sharp Cheddar Cheese, Coffee - Medium Roast, ..."
+    },
+    {
+      "order_id": "GRC000178",
+      "status": "delivered",
+      "total": 30.74,
+      "item_count": 4,
+      "created_at": "2025-11-23T04:08:33",
+      "item_preview": "Potato Chips, Sparkling Water, ..."
+    },
+    {
+      "order_id": "GRC000182",
+      "status": "cancelled",
+      "total": 87.95,
+      "item_count": 9,
+      "created_at": "2025-11-09T04:08:33",
+      "item_preview": "Marinara Sauce, Bacon, ..."
+    },
+    {
+      "order_id": "GRC000186",
+      "status": "cancelled",
+      "total": 117.9,
+      "item_count": 7,
+      "created_at": "2025-11-05T04:08:33",
+      "item_preview": "Large Eggs, Classic Kitchen Apples, ..."
+    },
+    {
+      "order_id": "GRC000187",
+      "status": "cancelled",
+      "total": 75.88,
+      "item_count": 9,
+      "created_at": "2025-11-05T04:08:33",
+      "item_preview": "Ice Cream - Vanilla, Potato Chips, ..."
+    },
+    {
+      "order_id": "GRC000175",
+      "status": "shipped",
+      "total": 62.38,
+      "item_count": 5,
+      "created_at": "2025-11-04T04:08:33",
+      "item_preview": "Pasta - Spaghetti, Ice Cream - Vanilla, ..."
+    },
+    {
+      "order_id": "GRC000176",
+      "status": "delivered",
+      "total": 22.05,
+      "item_count": 4,
+      "created_at": "2025-10-10T04:08:33",
+      "item_preview": "Mountain Fresh Blueberries, Pasta - Spaghetti, ..."
+    },
+    {
+      "order_id": "GRC000180",
+      "status": "shipped",
+      "total": 70.87,
+      "item_count": 6,
+      "created_at": "2025-10-09T04:08:33",
+      "item_preview": "Potato Chips, Marinara Sauce, ..."
+    },
+    {
+      "order_id": "GRC000174",
+      "status": "delivered",
+      "total": 45.52,
+      "item_count": 6,
+      "created_at": "2025-10-01T04:08:33",
+      "item_preview": "Greek Yogurt, Bacon, ..."
+    }
+  ],
+  "categories": [
+    {
+      "id": "orders",
+      "name": "Orders",
+      "type": "orders",
+      "label": "orders",
+      "has_cost": true,
+      "summary": {
+        "total_count": 18,
+        "total_spent": 1181.47,
+        "first_date": "2025-10-01",
+        "last_date": "2026-01-24"
+      },
+      "items": [
+        {
+          "order_id": "GRC000179",
+          "status": "shipped",
+          "total": 32.93,
+          "item_count": 4,
+          "created_at": "2026-01-24T04:08:33",
+          "item_preview": "Pasta - Spaghetti, Sharp Cheddar Cheese, ..."
+        },
+        {
+          "order_id": "GRC000188",
+          "status": "shipped",
+          "total": 57.27,
+          "item_count": 7,
+          "created_at": "2026-01-17T04:08:33",
+          "item_preview": "Frozen Pizza - Pepperoni, Greek Yogurt, ..."
+        },
+        {
+          "order_id": "GRC000189",
+          "status": "cancelled",
+          "total": 83.21,
+          "item_count": 8,
+          "created_at": "2026-01-16T04:08:33",
+          "item_preview": "Large Eggs, Pasta - Spaghetti, ..."
+        },
+        {
+          "order_id": "GRC000184",
+          "status": "delivered",
+          "total": 32.87,
+          "item_count": 4,
+          "created_at": "2025-12-31T04:08:33",
+          "item_preview": "Sharp Cheddar Cheese, Sparkling Water, ..."
+        },
+        {
+          "order_id": "GRC000191",
+          "status": "pending",
+          "total": 92.64,
+          "item_count": 8,
+          "created_at": "2025-12-15T04:08:33",
+          "item_preview": "Large Eggs, Sharp Cheddar Cheese, ..."
+        },
+        {
+          "order_id": "GRC000181",
+          "status": "delivered",
+          "total": 66.24,
+          "item_count": 8,
+          "created_at": "2025-12-12T04:08:33",
+          "item_preview": "Pasta - Spaghetti, Marinara Sauce, ..."
+        },
+        {
+          "order_id": "GRC000183",
+          "status": "shipped",
+          "total": 68.92,
+          "item_count": 8,
+          "created_at": "2025-12-08T04:08:33",
+          "item_preview": "Sharp Cheddar Cheese, Greek Yogurt, ..."
+        },
+        {
+          "order_id": "GRC000185",
+          "status": "delivered",
+          "total": 57.28,
+          "item_count": 5,
+          "created_at": "2025-12-07T04:08:33",
+          "item_preview": "Greek Yogurt, Frozen Pizza - Pepperoni, ..."
+        },
+        {
+          "order_id": "GRC000190",
+          "status": "shipped",
+          "total": 130.89,
+          "item_count": 9,
+          "created_at": "2025-12-04T04:08:33",
+          "item_preview": "Potato Chips, Coffee - Medium Roast, ..."
+        },
+        {
+          "order_id": "GRC000177",
+          "status": "delivered",
+          "total": 45.93,
+          "item_count": 4,
+          "created_at": "2025-11-23T04:08:33",
+          "item_preview": "Sharp Cheddar Cheese, Coffee - Medium Roast, ..."
+        },
+        {
+          "order_id": "GRC000178",
+          "status": "delivered",
+          "total": 30.74,
+          "item_count": 4,
+          "created_at": "2025-11-23T04:08:33",
+          "item_preview": "Potato Chips, Sparkling Water, ..."
+        },
+        {
+          "order_id": "GRC000182",
+          "status": "cancelled",
+          "total": 87.95,
+          "item_count": 9,
+          "created_at": "2025-11-09T04:08:33",
+          "item_preview": "Marinara Sauce, Bacon, ..."
+        },
+        {
+          "order_id": "GRC000186",
+          "status": "cancelled",
+          "total": 117.9,
+          "item_count": 7,
+          "created_at": "2025-11-05T04:08:33",
+          "item_preview": "Large Eggs, Classic Kitchen Apples, ..."
+        },
+        {
+          "order_id": "GRC000187",
+          "status": "cancelled",
+          "total": 75.88,
+          "item_count": 9,
+          "created_at": "2025-11-05T04:08:33",
+          "item_preview": "Ice Cream - Vanilla, Potato Chips, ..."
+        },
+        {
+          "order_id": "GRC000175",
+          "status": "shipped",
+          "total": 62.38,
+          "item_count": 5,
+          "created_at": "2025-11-04T04:08:33",
+          "item_preview": "Pasta - Spaghetti, Ice Cream - Vanilla, ..."
+        },
+        {
+          "order_id": "GRC000176",
+          "status": "delivered",
+          "total": 22.05,
+          "item_count": 4,
+          "created_at": "2025-10-10T04:08:33",
+          "item_preview": "Mountain Fresh Blueberries, Pasta - Spaghetti, ..."
+        },
+        {
+          "order_id": "GRC000180",
+          "status": "shipped",
+          "total": 70.87,
+          "item_count": 6,
+          "created_at": "2025-10-09T04:08:33",
+          "item_preview": "Potato Chips, Marinara Sauce, ..."
+        },
+        {
+          "order_id": "GRC000174",
+          "status": "delivered",
+          "total": 45.52,
+          "item_count": 6,
+          "created_at": "2025-10-01T04:08:33",
+          "item_preview": "Greek Yogurt, Bacon, ..."
+        }
+      ]
+    }
+  ]
+}

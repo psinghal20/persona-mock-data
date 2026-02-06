@@ -29,11 +29,7 @@
     "gaming",
     "robotics",
     "basketball",
-    "science fiction",
-    "STEM",
-    "coding",
-    "anime",
-    "technology"
+    "science fiction"
   ],
   "summary": "You are Jordan Williams, an African-American high school student in Cleveland, Ohio with big dreams. You're a teenager from the East Side passionate about STEM, especially robotics and engineering. You're curious, competitive, and eager to succeed both academically and athletically despite limited resources at your school. You play basketball and run track, hoping to earn a scholarship to play in college. You love gaming, science fiction, and building things. You're looking for guidance on college applications and scholarship opportunities as a first-generation college student.",
   "stores": [
@@ -196,12 +192,31 @@
           "has_cost": true
         }
       ]
+    },
+    {
+      "id": "grocery",
+      "name": "Grocery",
+      "item_count": 15,
+      "total_spent": 711.05,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 15,
+          "total_spent": 711.05,
+          "has_cost": true
+        }
+      ]
     }
   ],
   "stats": {
-    "total_orders": 367,
-    "total_spent": 554210.33,
-    "stores_count": 8
+    "total_orders": 382,
+    "total_spent": 554921.38,
+    "stores_count": 9
   },
   "health_profile": {
     "demographics": {
@@ -643,5 +658,34 @@
       "total_items": 809,
       "servers_count": 8
     }
+  },
+  "obsidian": {
+    "total_notes": 13,
+    "folders": [
+      {
+        "name": "Attachments",
+        "note_count": 0
+      },
+      {
+        "name": "Daily Notes",
+        "note_count": 6
+      },
+      {
+        "name": "Personal",
+        "note_count": 6
+      },
+      {
+        "name": "Projects",
+        "note_count": 0
+      },
+      {
+        "name": "Reference",
+        "note_count": 0
+      },
+      {
+        "name": "Templates",
+        "note_count": 0
+      }
+    ]
   }
 }

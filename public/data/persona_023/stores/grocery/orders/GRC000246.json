@@ -1,0 +1,70 @@
+{
+  "order_id": "GRC000246",
+  "persona_id": "persona_023",
+  "store_id": "grocery",
+  "status": "delivered",
+  "created_at": "2025-10-05T04:08:33",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "123 College Ave, Dorm 204, Boston, MA 02101",
+  "items": [
+    {
+      "product_id": "prod_045",
+      "name": "Classic Kitchen Lemons",
+      "category": "Produce",
+      "quantity": 2,
+      "price": 0.55,
+      "subtotal": 1.1
+    },
+    {
+      "product_id": "prod_014",
+      "name": "Marinara Sauce",
+      "category": "Pantry",
+      "quantity": 1,
+      "price": 4.49,
+      "subtotal": 4.49
+    },
+    {
+      "product_id": "prod_030",
+      "name": "Home Style Oranges",
+      "category": "Produce",
+      "quantity": 3,
+      "price": 1.33,
+      "subtotal": 3.99
+    },
+    {
+      "product_id": "prod_019",
+      "name": "Frozen Broccoli",
+      "category": "Frozen",
+      "quantity": 1,
+      "price": 2.99,
+      "subtotal": 2.99
+    },
+    {
+      "product_id": "prod_018",
+      "name": "Ice Cream - Vanilla",
+      "category": "Frozen",
+      "quantity": 3,
+      "price": 5.99,
+      "subtotal": 17.97
+    },
+    {
+      "product_id": "prod_016",
+      "name": "Black Beans",
+      "category": "Pantry",
+      "quantity": 3,
+      "price": 1.29,
+      "subtotal": 3.87
+    },
+    {
+      "product_id": "prod_017",
+      "name": "Frozen Pizza - Pepperoni",
+      "category": "Frozen",
+      "quantity": 2,
+      "price": 7.99,
+      "subtotal": 15.98
+    }
+  ],
+  "total": 50.39,
+  "currency": "USD"
+}

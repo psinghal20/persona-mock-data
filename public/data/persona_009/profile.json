@@ -26,13 +26,10 @@
     "supportive"
   ],
   "interests": [
-    "military",
-    "history",
+    "military history",
     "golf",
     "fishing",
-    "grandchildren",
-    "veteran",
-    "retirement"
+    "grandchildren"
   ],
   "summary": "You are William Thompson, a retired Army logistics officer living in Tampa, Florida. You're a married grandfather who served your country for 30 years, including two tours in Iraq. You're patriotic, disciplined, and supportive of your family. A conservative Christian from a military family in Virginia, you value service and family above all. You spend time with your grandchildren, play golf, go fishing in the Gulf, and stay engaged with military history and veterans' issues. You're concerned about VA healthcare and your grandchildren's education.",
   "stores": [
@@ -194,6 +191,25 @@
       ]
     },
     {
+      "id": "grocery",
+      "name": "Grocery",
+      "item_count": 22,
+      "total_spent": 2110.75,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 22,
+          "total_spent": 2110.75,
+          "has_cost": true
+        }
+      ]
+    },
+    {
       "id": "zillow",
       "name": "Zillow",
       "item_count": 20,
@@ -286,6 +302,25 @@
       ]
     },
     {
+      "id": "movie_theater",
+      "name": "Movie Theater",
+      "item_count": 4,
+      "total_spent": 213.9,
+      "transaction_type": "bookings",
+      "transaction_label": "bookings",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "bookings",
+          "name": "Bookings",
+          "type": "bookings",
+          "item_count": 4,
+          "total_spent": 213.9,
+          "has_cost": true
+        }
+      ]
+    },
+    {
       "id": "car_deals",
       "name": "Car Deals",
       "item_count": 4,
@@ -314,9 +349,9 @@
     }
   ],
   "stats": {
-    "total_orders": 403,
-    "total_spent": 135906.69,
-    "stores_count": 12
+    "total_orders": 429,
+    "total_spent": 138231.34,
+    "stores_count": 14
   },
   "health_profile": {
     "demographics": {
@@ -908,5 +943,34 @@
       "total_items": 826,
       "servers_count": 9
     }
+  },
+  "obsidian": {
+    "total_notes": 12,
+    "folders": [
+      {
+        "name": "Attachments",
+        "note_count": 0
+      },
+      {
+        "name": "Daily Notes",
+        "note_count": 6
+      },
+      {
+        "name": "Personal",
+        "note_count": 5
+      },
+      {
+        "name": "Projects",
+        "note_count": 0
+      },
+      {
+        "name": "Reference",
+        "note_count": 0
+      },
+      {
+        "name": "Templates",
+        "note_count": 0
+      }
+    ]
   }
 }

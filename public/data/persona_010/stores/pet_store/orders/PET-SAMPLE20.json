@@ -1,0 +1,24 @@
+{
+  "order_id": "PET-SAMPLE20",
+  "persona_id": "persona_010",
+  "store_id": "pet_store",
+  "type": "pet_profile",
+  "status": "active",
+  "items": [
+    {
+      "product_id": "PET-SAMPLE20",
+      "name": "Simba",
+      "pet_type": "Cats",
+      "breed": "Orange Tabby",
+      "age_years": "4",
+      "weight_lbs": "13",
+      "dietary_restrictions": "",
+      "notes": "Indoor outdoor cat very friendly",
+      "quantity": 1,
+      "price": 0,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}
