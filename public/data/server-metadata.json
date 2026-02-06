@@ -1,0 +1,243 @@
+{
+  "shopping": {
+    "airbnb": {
+      "summary": "Search and browse Airbnb vacation rental listings with filters for location, dates, guests, and price range"
+    },
+    "amazon-shop": {
+      "summary": "Full Amazon shopping experience with product search, cart management, order history, and checkout"
+    },
+    "bakery": {
+      "summary": "Local artisan bakery with daily specials, custom cake builder with pricing, pre-orders, and dietary filtering (vegan, gluten-free)"
+    },
+    "biggo-mcp-server": {
+      "summary": "Cross-retailer price comparison engine with product search and historical price tracking"
+    },
+    "bookstore": {
+      "summary": "Browse and purchase books by genre, author, or title with stock tracking and purchase history"
+    },
+    "brave-search": {
+      "summary": "Brave Search API for web and local search — find businesses, articles, and online content"
+    },
+    "calculator": {
+      "summary": "Evaluate mathematical expressions and perform calculations"
+    },
+    "car-deals": {
+      "summary": "Used car marketplace with vehicle search by make/model/year, market stats, dealer inquiries, and test drive booking"
+    },
+    "coffee-roaster": {
+      "summary": "Specialty coffee roaster with bean catalog by origin and roast level, brewing guides, subscription plans, and cart/checkout"
+    },
+    "coles-woolworths": {
+      "summary": "Search product catalogs at Coles and Woolworths, Australia's two major supermarket chains"
+    },
+    "ddg-search": {
+      "summary": "DuckDuckGo search with web results and webpage content fetching"
+    },
+    "electronics-store": {
+      "summary": "Electronics retailer with TVs, phones, laptops, and smart home products — includes price matching, extended warranties, and cart/checkout"
+    },
+    "fashion-shop": {
+      "summary": "Fashion retail store with clothing catalog, product variants, store policies/FAQs, cart management, and order history"
+    },
+    "flights": {
+      "summary": "Search one-way, round-trip, and multi-city flights with detailed offer breakdowns"
+    },
+    "florist": {
+      "summary": "Online flower shop with arrangements by occasion and color, same-day delivery scheduling, add-ons (chocolates, vases), and recurring subscriptions"
+    },
+    "furniture-store": {
+      "summary": "Furniture retailer organized by room with product dimensions, assembly info, delivery slot scheduling, and order tracking"
+    },
+    "google-flights-mcp": {
+      "summary": "Google Flights integration for searching flights and tracking price changes"
+    },
+    "grocery-shop": {
+      "summary": "Full-service grocery store with product variants, store policies/FAQs, cart management, and order history"
+    },
+    "imdb-mcp-server": {
+      "summary": "IMDb movie and TV database — search titles, get cast/crew, ratings, and detailed film information"
+    },
+    "jewelry-store": {
+      "summary": "Jewelry retailer with product catalog, gift wrapping/engraving options, and purchase checkout"
+    },
+    "lara-translate": {
+      "summary": "Multi-language translation service supporting text translation between languages"
+    },
+    "mercari-jp": {
+      "summary": "Browse and search listings on Mercari, Japan's largest consumer-to-consumer marketplace"
+    },
+    "movie-theater": {
+      "summary": "Cinema chain with movie listings, showtimes across multiple theaters, seat selection, and ticket booking"
+    },
+    "national-parks": {
+      "summary": "US National Parks information including park details, available activities, alerts, and visitor guidance"
+    },
+    "naver-search": {
+      "summary": "Naver search engine — Korea's leading web search and content platform"
+    },
+    "obsidian": {
+      "summary": "Obsidian note-taking vault access — search, read, and edit markdown notes"
+    },
+    "osm-mcp-server": {
+      "summary": "OpenStreetMap geospatial lookups — search locations, get coordinates, and query map data"
+    },
+    "pc-parts": {
+      "summary": "PC component store with CPUs, GPUs, motherboards, RAM, SSDs, PSUs, and cases — includes compatibility checking and build tools"
+    },
+    "perfume-shop": {
+      "summary": "Fragrance retailer with perfume catalog, scent profile search, and purchase/order management"
+    },
+    "pet-store": {
+      "summary": "Pet shop with supplies, food, and toys plus grooming appointment booking and pet profile management"
+    },
+    "pharmacy": {
+      "summary": "Pharmacy with medicines searchable by ailment, ingredient, or category — includes OTC/prescription filtering, stock checking, and purchase history"
+    },
+    "rohlik": {
+      "summary": "Rohlik.cz Czech online grocery delivery — product search and ordering"
+    },
+    "sephora": {
+      "summary": "Sephora beauty retailer with cosmetics, skincare, and fragrance catalog plus cart and purchase management"
+    },
+    "shop-browser": {
+      "summary": "General-purpose shopping tool for browsing and looking up products across stores"
+    },
+    "shopify-catalog": {
+      "summary": "Shopify store integration for browsing product catalogs and managing storefront data"
+    },
+    "sporting-goods": {
+      "summary": "Sports and outdoor equipment retailer with products, sizing guides, and purchase management"
+    },
+    "toy-store": {
+      "summary": "Toy shop with product catalog, child wishlists by occasion, and purchase checkout"
+    },
+    "twelvedata": {
+      "summary": "Financial market data API — real-time and historical stock prices, charts, and market indicators"
+    },
+    "walmart": {
+      "summary": "Walmart with department/category browsing across grocery, electronics, toys, and more — full cart, checkout, and order history"
+    },
+    "weather": {
+      "summary": "US weather from NWS — current conditions, multi-day and hourly forecasts, severe weather alerts, and nearby stations"
+    },
+    "weather-data": {
+      "summary": "Historical weather observations and climate data records for analysis"
+    },
+    "wikipedia": {
+      "summary": "Wikipedia article search and full content retrieval for reference and research"
+    },
+    "zillow": {
+      "summary": "Zillow real estate with property search, listing details, tour scheduling, saved homes, and local market statistics"
+    }
+  },
+  "medical": {
+    "alphafold": {
+      "summary": "DeepMind's AlphaFold protein structure predictions — search, download, confidence analysis, batch processing, and export for PyMOL/ChimeraX"
+    },
+    "amazon-shop": {
+      "summary": "Full Amazon shopping experience with product search, cart management, order history, and checkout"
+    },
+    "apple-health": {
+      "summary": "Query Apple Health data via SQL — access activity, vitals, sleep, and nutrition records with structured health reports"
+    },
+    "athenahealth": {
+      "summary": "EHR practice management — patient search/registration, clinical summaries, drug interaction checks, prescriptions, appointments, and encounter documentation"
+    },
+    "azure-fhir": {
+      "summary": "Azure FHIR API for standardized healthcare data exchange — search patients, conditions, observations, and other clinical resources"
+    },
+    "bio-protein-mcp": {
+      "summary": "Protein active site analysis and disease-related protein discovery for structural biology research"
+    },
+    "biomcp": {
+      "summary": "Comprehensive biomedical research hub — PubMed literature, ClinicalTrials.gov, genetic variants, gene/drug/disease info, NCI cancer data, and FDA safety/approvals/recalls"
+    },
+    "biothings-mcp": {
+      "summary": "BioThings API suite — batch query genes (MyGene.info), variants (MyVariant.info), chemicals (MyChem.info), and taxa with NCBI Entrez data downloads"
+    },
+    "brave-search": {
+      "summary": "Brave Search API for web and local search — find businesses, articles, and online content"
+    },
+    "calculator": {
+      "summary": "Evaluate mathematical expressions and perform calculations"
+    },
+    "clinicaltrialsgov-mcp-server": {
+      "summary": "ClinicalTrials.gov access — fetch studies by NCT ID, search with filters (condition, phase, status, location), and analyze trial trends"
+    },
+    "dicom-mcp": {
+      "summary": "DICOM medical imaging — connect to PACS nodes, query patients/studies/series/instances, move images between nodes, and extract PDF reports"
+    },
+    "fitbit": {
+      "summary": "Fitbit wearable data — steps, distance, calories, heart rate, sleep stages, body measurements, food/water logs, active zone minutes, and lifetime stats"
+    },
+    "food-tracker-mcp": {
+      "summary": "Food and nutrition tracker — scan barcodes, check dietary restriction compatibility, analyze nutritional content, and log daily food intake"
+    },
+    "garmin-health": {
+      "summary": "Garmin wearable data — daily activity, heart rate/HRV trends, sleep stages, stress levels, Body Battery energy, SpO2, respiration, body composition, training readiness, and workout history"
+    },
+    "genetics": {
+      "summary": "Consumer genetics platform — ancestry composition, health risk predispositions, pharmacogenomics (drug-gene interactions), carrier status, and personalized screening recommendations"
+    },
+    "gget-mcp": {
+      "summary": "Query the SynergyAge database for genetic synergy, epistasis, and aging research data with lifespan effects from model organisms"
+    },
+    "health-record-mcp": {
+      "summary": "Personal health record access — search, query, and evaluate medical records including conditions, medications, and attachments"
+    },
+    "healthcare-mcp": {
+      "summary": "Multi-source healthcare toolkit — FDA drug lookup, PubMed/medRxiv literature search, BMI calculator, clinical trials, ICD-10 codes, NCBI Bookshelf, and DICOM metadata"
+    },
+    "librelink": {
+      "summary": "FreeStyle Libre CGM data — real-time glucose readings, historical trends, time-in-range statistics, pattern analysis (daily/weekly/monthly), and sensor status"
+    },
+    "medcalc": {
+      "summary": "Clinical medical calculators across specialties — BMI, GFR, cardiac risk scores, hepatology scores, and more with parameter documentation"
+    },
+    "medicaid-mcp": {
+      "summary": "Medicaid data from data.medicaid.gov — enrollment trends, drug pricing (NADAC), quality measures, and program performance metrics"
+    },
+    "myfitnesspal": {
+      "summary": "MyFitnessPal diet and exercise tracker — daily calorie/macro summaries, meal-by-meal food logs, exercise logging, water intake, date range analytics, and food/exercise database search"
+    },
+    "nexonco-mcp": {
+      "summary": "NexOnco clinical evidence search — find cancer treatment evidence by disease, therapy, molecular profile, and phenotype"
+    },
+    "npi-registry": {
+      "summary": "National Provider Identifier registry — look up and verify US healthcare providers and organizations by NPI number, name, or specialty"
+    },
+    "opengenes-mcp": {
+      "summary": "OpenGenes database of longevity-associated genes — query genes involved in aging, lifespan extension experiments, and healthspan changes in model organisms"
+    },
+    "opennutrition": {
+      "summary": "Open nutrition database — search foods by name or barcode, browse by category, and get detailed macro/micronutrient breakdowns"
+    },
+    "pharmacy": {
+      "summary": "Pharmacy with medicines searchable by ailment, ingredient, or category — includes OTC/prescription filtering, stock checking, and purchase history"
+    },
+    "pubmed": {
+      "summary": "PubMed biomedical literature — keyword and advanced search, article metadata retrieval, and PDF downloads"
+    },
+    "renpho": {
+      "summary": "Renpho smart scale data — weight, BMI, body fat, muscle mass, and other body composition metrics with health classifications and trend analysis"
+    },
+    "strava": {
+      "summary": "Strava fitness platform — activity tracking with laps/streams/photos, athlete stats, personal records, segment exploration, route management with GPX/TCX export, and club membership"
+    },
+    "synergy-age-mcp": {
+      "summary": "SynergyAge database for genetic synergy and epistasis research — query aging data with lifespan effects from model organism experiments"
+    },
+    "walmart": {
+      "summary": "Walmart with department/category browsing across grocery, electronics, toys, and more — full cart, checkout, and order history"
+    },
+    "weather": {
+      "summary": "US weather from NWS — current conditions, multi-day and hourly forecasts, severe weather alerts, and nearby stations"
+    },
+    "wger": {
+      "summary": "wger Workout Manager — search exercises by muscle group and equipment, create workout routines, and manage training plans with sets/reps/weight"
+    },
+    "whoop": {
+      "summary": "WHOOP recovery wearable — physiological cycles, recovery scores (HRV, resting HR, SpO2), detailed sleep staging, and workout strain tracking with sport classification"
+    }
+  }
+}

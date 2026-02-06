@@ -273,7 +273,7 @@
           "total": 288.72,
           "item_count": 4,
           "created_at": "2026-01-22T06:14:24",
-          "item_preview": "Chemical Sunscreen, Day Moisturizer, ..."
+          "item_preview": "Chemical Sunscreen, Day Moisturizer, Night Cream, Mineral Sunscreen"
         },
         {
           "order_id": "SPH000082",
@@ -281,7 +281,7 @@
           "total": 143.24,
           "item_count": 3,
           "created_at": "2026-01-15T08:11:13",
-          "item_preview": "Rich Cream, Overnight Mask, ..."
+          "item_preview": "Rich Cream, Overnight Mask, Vitamin C Serum"
         },
         {
           "order_id": "SPH000087",
@@ -297,7 +297,7 @@
           "total": 223.44,
           "item_count": 4,
           "created_at": "2026-01-07T06:42:03",
-          "item_preview": "Chemical Sunscreen, Hydrating Eye Cream, ..."
+          "item_preview": "Chemical Sunscreen, Hydrating Eye Cream, Clay Mask, Oil Cleanser"
         },
         {
           "order_id": "SPH000016",
@@ -313,7 +313,7 @@
           "total": 245.04,
           "item_count": 3,
           "created_at": "2026-01-05T08:19:59",
-          "item_preview": "Hydrating Toner, Exfoliating Toner, ..."
+          "item_preview": "Hydrating Toner, Exfoliating Toner, Rich Cream"
         },
         {
           "order_id": "SPH000021",
@@ -321,7 +321,7 @@
           "total": 226.26,
           "item_count": 3,
           "created_at": "2026-01-01T14:50:00",
-          "item_preview": "Natural Lashes, Anti-Aging Eye Cream, ..."
+          "item_preview": "Natural Lashes, Anti-Aging Eye Cream, Tinted Sunscreen"
         },
         {
           "order_id": "SPH000077",
@@ -369,7 +369,7 @@
           "total": 533.6,
           "item_count": 4,
           "created_at": "2025-12-04T06:03:45",
-          "item_preview": "Anti-Aging Eye Cream, Retinol Serum, ..."
+          "item_preview": "Anti-Aging Eye Cream, Retinol Serum, Hydrating Eye Cream, Natural Lashes"
         },
         {
           "order_id": "SPH000024",
@@ -385,7 +385,7 @@
           "total": 241.5,
           "item_count": 3,
           "created_at": "2025-11-18T09:33:27",
-          "item_preview": "Brightening Eye Cream, Hydrating Eye Cream, ..."
+          "item_preview": "Brightening Eye Cream, Hydrating Eye Cream, Hydrating Eye Cream"
         },
         {
           "order_id": "SPH000018",
@@ -393,7 +393,7 @@
           "total": 208.99,
           "item_count": 3,
           "created_at": "2025-11-17T01:53:14",
-          "item_preview": "Hydrating Eye Cream, Hydrating Toner, ..."
+          "item_preview": "Hydrating Eye Cream, Hydrating Toner, Natural Lashes"
         },
         {
           "order_id": "SPH000078",
@@ -417,7 +417,7 @@
           "total": 147.64,
           "item_count": 3,
           "created_at": "2025-11-04T15:17:38",
-          "item_preview": "Hydrating Eye Cream, Hyaluronic Acid Serum, ..."
+          "item_preview": "Hydrating Eye Cream, Hyaluronic Acid Serum, Vitamin C Serum"
         },
         {
           "order_id": "SPH000025",
@@ -457,7 +457,7 @@
           "total": 163.34,
           "item_count": 4,
           "created_at": "2025-10-17T07:30:25",
-          "item_preview": "Rich Cream, Oil Cleanser, ..."
+          "item_preview": "Rich Cream, Oil Cleanser, Micellar Water, Exfoliating Toner"
         },
         {
           "order_id": "SPH000083",
@@ -489,7 +489,7 @@
           "total": 208.24,
           "item_count": 3,
           "created_at": "2025-10-10T22:37:20",
-          "item_preview": "Perfume Oil, Natural Lashes, ..."
+          "item_preview": "Perfume Oil, Natural Lashes, Day Moisturizer"
         }
       ]
     }

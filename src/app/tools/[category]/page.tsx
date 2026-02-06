@@ -1,6 +1,5 @@
 import Link from "next/link";
-import { ToolDefinition, ToolServerData } from "@/types";
-import ToolBrowser from "@/components/ToolBrowser";
+import { ToolDefinition } from "@/types";
 
 interface PageProps {
   params: Promise<{ category: string }>;
@@ -19,9 +18,6 @@ const CATEGORY_ICONS: Record<string, string> = {
 };
 
 function formatServerName(serverId: string): string {
-  // Convert server ID to readable name
-  // e.g., "brave-search" -> "Brave Search"
-  // e.g., "coffee_roaster" -> "Coffee Roaster"
   return serverId
     .split(/[-_]/)
     .map(word => word.charAt(0).toUpperCase() + word.slice(1))
@@ -29,9 +25,6 @@ function formatServerName(serverId: string): string {
 }
 
 function extractServerName(toolName: string): string {
-  // Extract server name from tool name
-  // e.g., "brave-search_brave_web_search" -> "brave-search"
-  // e.g., "amazon_get-orders-history" -> "amazon"
   const underscoreIndex = toolName.indexOf("_");
   if (underscoreIndex === -1) return toolName;
   return toolName.substring(0, underscoreIndex);
@@ -43,153 +36,79 @@ const CATEGORY_TOOLS_FILES: Record<string, string> = {
   medical: "healthcare-tools.json",
 };
 
-async function getCategoryData(category: string): Promise<ToolServerData[]> {
+interface ServerCard {
+  serverId: string;
+  name: string;
+  summary?: string;
+  toolCount: number;
+  dataFileCount: number;
+}
+
+async function getCategoryCards(category: string): Promise<ServerCard[]> {
   try {
     const fs = await import("fs/promises");
     const path = await import("path");
 
-    // Check if this category has a consolidated tools file
     const toolsFileName = CATEGORY_TOOLS_FILES[category];
+    if (!toolsFileName) return [];
 
-    if (toolsFileName) {
-      const toolsFile = path.join(
-        process.cwd(),
-        "public",
-        "data",
-        toolsFileName
-      );
+    const toolsFile = path.join(process.cwd(), "public", "data", toolsFileName);
+    const mockDataDir = path.join(process.cwd(), "public", "data", "mock-data");
 
-      const mockDataDir = path.join(
-        process.cwd(),
-        "public",
-        "data",
-        "mock-data"
-      );
+    const fileData = await fs.readFile(toolsFile, "utf-8");
+    const allTools: ToolDefinition[] = JSON.parse(fileData);
 
-      try {
-        const fileData = await fs.readFile(toolsFile, "utf-8");
-        const allTools: ToolDefinition[] = JSON.parse(fileData);
+    // Load server metadata
+    let metadata: Record<string, { summary?: string }> = {};
+    try {
+      const metaFile = path.join(process.cwd(), "public", "data", "server-metadata.json");
+      const metaData = await fs.readFile(metaFile, "utf-8");
+      const allMeta = JSON.parse(metaData);
+      metadata = allMeta[category] || {};
+    } catch {
+      // No metadata file
+    }
 
-        // Group tools by server name (extracted from tool name prefix)
-        const serverMap = new Map<string, ToolDefinition[]>();
+    // Group tools by server
+    const serverMap = new Map<string, number>();
+    for (const tool of allTools) {
+      const serverId = extractServerName(tool.name);
+      serverMap.set(serverId, (serverMap.get(serverId) || 0) + 1);
+    }
 
-        for (const tool of allTools) {
-          const serverId = extractServerName(tool.name);
-          if (!serverMap.has(serverId)) {
-            serverMap.set(serverId, []);
-          }
-          serverMap.get(serverId)!.push(tool);
-        }
+    // Check mock data directories
+    let mockDataServers: Set<string> = new Set();
+    try {
+      const dirs = await fs.readdir(mockDataDir);
+      mockDataServers = new Set(dirs);
+    } catch {
+      // No mock data directory
+    }
 
-        // Get list of server directories with mock data
-        let mockDataServers: string[] = [];
+    const cards: ServerCard[] = [];
+    for (const [serverId, toolCount] of serverMap) {
+      let dataFileCount = 0;
+      if (mockDataServers.has(serverId)) {
         try {
-          mockDataServers = await fs.readdir(mockDataDir);
+          const serverDir = path.join(mockDataDir, serverId);
+          const files = await fs.readdir(serverDir);
+          dataFileCount = files.filter(f => f.endsWith(".csv")).length;
         } catch {
-          // Mock data directory may not exist
+          // No data files
         }
-
-        // Convert to ToolServerData array
-        const servers: ToolServerData[] = await Promise.all(
-          Array.from(serverMap.entries()).map(async ([serverId, tools]) => {
-            // Check if this server has mock data
-            let dataFiles: string[] = [];
-            if (mockDataServers.includes(serverId)) {
-              try {
-                const serverDataDir = path.join(mockDataDir, serverId);
-                const files = await fs.readdir(serverDataDir);
-                dataFiles = files.filter(f => f.endsWith('.csv'));
-              } catch {
-                // No data files
-              }
-            }
-
-            return {
-              filename: `${serverId}_tools.json`,
-              name: formatServerName(serverId),
-              tools,
-              dataFiles: dataFiles.length > 0 ? dataFiles : undefined,
-              dataDir: dataFiles.length > 0 ? serverId : undefined,
-            };
-          })
-        );
-
-        // Sort by server name
-        servers.sort((a, b) => a.name.localeCompare(b.name));
-
-        return servers;
-      } catch {
-        return [];
       }
+
+      cards.push({
+        serverId,
+        name: formatServerName(serverId),
+        summary: metadata[serverId]?.summary,
+        toolCount,
+        dataFileCount,
+      });
     }
 
-    // For other categories, fall back to reading individual tool files
-    const toolsDir = path.join(
-      process.cwd(),
-      "public",
-      "tools",
-      category,
-      "tools"
-    );
-
-    const dataDir = path.join(
-      process.cwd(),
-      "public",
-      "tools",
-      category,
-      "data"
-    );
-
-    // Read all files in the tools directory
-    let toolFiles: string[];
-    try {
-      const files = await fs.readdir(toolsDir);
-      toolFiles = files.filter(f => f.endsWith("_tools.json"));
-    } catch {
-      return [];
-    }
-
-    // Read all data files to check for matches
-    let dataFiles: string[] = [];
-    try {
-      const files = await fs.readdir(dataDir);
-      dataFiles = files.filter(f => f.endsWith("_data.xlsx") || f.endsWith("_data.csv"));
-    } catch {
-      // Data directory may not exist, that's ok
-    }
-
-    // Load all tool files in parallel
-    const serverPromises = toolFiles.map(async (filename) => {
-      try {
-        const filePath = path.join(toolsDir, filename);
-        const fileData = await fs.readFile(filePath, "utf-8");
-        const tools: ToolDefinition[] = JSON.parse(fileData);
-
-        // Check for matching data file
-        // e.g., amazon_tools.json -> amazon_data.xlsx or amazon_data.csv
-        const baseName = filename.replace(/_tools\.json$/, "");
-        const matchingDataFile = dataFiles.find(
-          df => df.startsWith(baseName + "_data.")
-        );
-
-        return {
-          filename,
-          name: formatServerName(baseName),
-          tools,
-          dataFile: matchingDataFile,
-        };
-      } catch {
-        return null;
-      }
-    });
-
-    const results = await Promise.all(serverPromises);
-    const servers: ToolServerData[] = results.filter((s) => s !== null);
-
-    // Sort by server name
-    servers.sort((a, b) => a.name.localeCompare(b.name));
-
-    return servers;
+    cards.sort((a, b) => a.name.localeCompare(b.name));
+    return cards;
   } catch {
     return [];
   }
@@ -205,11 +124,11 @@ export async function generateStaticParams() {
 
 export default async function ToolCategoryPage({ params }: PageProps) {
   const { category } = await params;
-  const servers = await getCategoryData(category);
+  const cards = await getCategoryCards(category);
 
   const categoryName = CATEGORY_NAMES[category] || category;
   const categoryIcon = CATEGORY_ICONS[category] || "📦";
-  const totalTools = servers.reduce((sum, s) => sum + s.tools.length, 0);
+  const totalTools = cards.reduce((sum, c) => sum + c.toolCount, 0);
 
   return (
     <div className="space-y-6">
@@ -227,15 +146,15 @@ export default async function ToolCategoryPage({ params }: PageProps) {
           <div className="flex-1">
             <h1 className="text-2xl font-bold">{categoryName} Tools</h1>
             <p className="text-[var(--muted)] mt-1">
-              Browse and copy MCP tool definitions
+              Browse MCP server tools and mock data
             </p>
           </div>
           <div className="text-right">
             <div className="text-2xl font-bold text-[var(--accent)]">
-              {servers.length}
+              {cards.length}
             </div>
             <div className="text-sm text-[var(--muted)]">
-              server{servers.length !== 1 ? "s" : ""}
+              server{cards.length !== 1 ? "s" : ""}
             </div>
           </div>
           <div className="text-right ml-4">
@@ -249,8 +168,35 @@ export default async function ToolCategoryPage({ params }: PageProps) {
         </div>
       </div>
 
-      {/* Tool Browser */}
-      <ToolBrowser category={category} servers={servers} />
+      {/* Server Card Grid */}
+      {cards.length === 0 ? (
+        <div className="card-static p-8 text-center">
+          <p className="text-[var(--muted)]">No servers in this category yet.</p>
+        </div>
+      ) : (
+        <div className="server-cards">
+          {cards.map((card) => (
+            <Link
+              key={card.serverId}
+              href={`/tools/${category}/${card.serverId}`}
+              className="server-card"
+            >
+              <h3 className="server-card-name">{card.name}</h3>
+              {card.summary && (
+                <p className="server-card-summary">{card.summary}</p>
+              )}
+              <div className="server-card-stats">
+                <span>{card.toolCount} tool{card.toolCount !== 1 ? "s" : ""}</span>
+                {card.dataFileCount > 0 && (
+                  <span className="server-card-data">
+                    {card.dataFileCount} data file{card.dataFileCount !== 1 ? "s" : ""}
+                  </span>
+                )}
+              </div>
+            </Link>
+          ))}
+        </div>
+      )}
     </div>
   );
 }

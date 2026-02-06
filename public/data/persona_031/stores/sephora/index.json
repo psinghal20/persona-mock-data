@@ -193,7 +193,7 @@
           "total": 404.6,
           "item_count": 4,
           "created_at": "2026-01-21T15:18:23",
-          "item_preview": "Hyaluronic Acid Serum, Natural Lashes, ..."
+          "item_preview": "Hyaluronic Acid Serum, Natural Lashes, Hydrating Eye Cream, Tinted Sunscreen"
         },
         {
           "order_id": "SPH000064",
@@ -209,7 +209,7 @@
           "total": 615.2,
           "item_count": 3,
           "created_at": "2026-01-05T20:10:16",
-          "item_preview": "Mineral Sunscreen, Cream Cleanser, ..."
+          "item_preview": "Mineral Sunscreen, Cream Cleanser, Mineral Sunscreen"
         },
         {
           "order_id": "SPH000062",
@@ -233,7 +233,7 @@
           "total": 252.21,
           "item_count": 3,
           "created_at": "2025-12-12T09:12:28",
-          "item_preview": "Mineral Sunscreen, Clay Mask, ..."
+          "item_preview": "Mineral Sunscreen, Clay Mask, Mineral Sunscreen"
         },
         {
           "order_id": "SPH000132",
@@ -249,7 +249,7 @@
           "total": 217.18,
           "item_count": 3,
           "created_at": "2025-12-09T06:12:31",
-          "item_preview": "Hydrating Toner, Natural Lashes, ..."
+          "item_preview": "Hydrating Toner, Natural Lashes, Chemical Sunscreen"
         },
         {
           "order_id": "SPH000063",
@@ -257,7 +257,7 @@
           "total": 255.58,
           "item_count": 3,
           "created_at": "2025-12-04T22:11:51",
-          "item_preview": "Chemical Exfoliant, Anti-Aging Eye Cream, ..."
+          "item_preview": "Chemical Exfoliant, Anti-Aging Eye Cream, Overnight Mask"
         },
         {
           "order_id": "SPH000056",
@@ -305,7 +305,7 @@
           "total": 268.38,
           "item_count": 3,
           "created_at": "2025-11-04T23:23:49",
-          "item_preview": "Sheet Mask, Day Moisturizer, ..."
+          "item_preview": "Sheet Mask, Day Moisturizer, Gel Cleanser"
         },
         {
           "order_id": "SPH000129",
@@ -345,7 +345,7 @@
           "total": 465.94,
           "item_count": 3,
           "created_at": "2025-10-02T12:03:19",
-          "item_preview": "Anti-Aging Eye Cream, Natural Lashes, ..."
+          "item_preview": "Anti-Aging Eye Cream, Natural Lashes, Exfoliating Toner"
         }
       ]
     }

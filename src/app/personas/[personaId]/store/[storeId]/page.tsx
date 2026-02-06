@@ -1,5 +1,6 @@
 import Link from "next/link";
-import { StoreIndex, StoreCategory, PersonaProfile, IndexData } from "@/types";
+import { StoreIndex, PersonaProfile, IndexData } from "@/types";
+import StoreItemBrowser from "@/components/StoreItemBrowser";
 
 interface PageProps {
   params: Promise<{ personaId: string; storeId: string }>;
@@ -81,122 +82,6 @@ function formatCurrency(amount: number): string {
   }).format(amount);
 }
 
-function formatDate(dateStr: string): string {
-  if (!dateStr) return "-";
-  const date = new Date(dateStr);
-  return date.toLocaleDateString("en-US", {
-    year: "numeric",
-    month: "short",
-    day: "numeric",
-  });
-}
-
-function getStatusClass(status: string): string {
-  const normalized = status.toLowerCase().replace(/[^a-z]/g, "_");
-  return `badge badge-${normalized}`;
-}
-
-function capitalize(str: string): string {
-  return str.charAt(0).toUpperCase() + str.slice(1);
-}
-
-function CategorySection({
-  category,
-  personaId,
-  storeId,
-}: {
-  category: StoreCategory;
-  personaId: string;
-  storeId: string;
-}) {
-  const hasCost = category.has_cost;
-  const label = category.label;
-  const labelCapitalized = capitalize(label);
-
-  return (
-    <div className="space-y-4">
-      {/* Category Header */}
-      <div className="flex items-center justify-between">
-        <h3 className="section-header mb-0">{category.name}</h3>
-        <div className="flex items-center gap-4 text-sm">
-          <span className="text-[var(--muted)]">
-            {category.summary.total_count} {label}
-          </span>
-          {hasCost && category.summary.total_spent > 0 && (
-            <span className="font-medium text-[var(--accent)]">
-              {formatCurrency(category.summary.total_spent)}
-            </span>
-          )}
-        </div>
-      </div>
-
-      {/* Category Items */}
-      <div className="card-static overflow-hidden">
-        {category.items.map((item) => (
-          <Link
-            key={item.order_id}
-            href={`/personas/${personaId}/store/${storeId}/order/${item.order_id}`}
-            className="order-row"
-          >
-            <div className="flex items-center gap-4">
-              <div>
-                {item.display_name ? (
-                  <>
-                    <div className="font-medium">{item.display_name}</div>
-                    <div className="text-xs text-[var(--muted)] mt-1">
-                      {item.description ? `${item.description} · ` : ""}{item.order_id}
-                    </div>
-                  </>
-                ) : item.item_preview ? (
-                  <>
-                    <div className="font-medium">{item.item_preview}</div>
-                    <div className="text-xs text-[var(--muted)] mt-1">
-                      {item.order_id} · {formatDate(item.created_at)}
-                    </div>
-                  </>
-                ) : (
-                  <>
-                    <div className="font-mono text-sm">{item.order_id}</div>
-                    <div className="text-xs text-[var(--muted)] mt-1">
-                      {formatDate(item.created_at)}
-                    </div>
-                  </>
-                )}
-              </div>
-            </div>
-            <div className="flex items-center gap-6">
-              <div className="text-sm text-[var(--muted)]">
-                {item.item_count} item{item.item_count !== 1 ? "s" : ""}
-              </div>
-              {hasCost && (
-                <div className="font-medium w-24 text-right">
-                  {formatCurrency(item.total)}
-                </div>
-              )}
-              <span className={getStatusClass(item.status)}>
-                {item.status}
-              </span>
-              <svg
-                className="w-4 h-4 text-[var(--muted)]"
-                fill="none"
-                stroke="currentColor"
-                viewBox="0 0 24 24"
-              >
-                <path
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  strokeWidth={2}
-                  d="M9 5l7 7-7 7"
-                />
-              </svg>
-            </div>
-          </Link>
-        ))}
-      </div>
-    </div>
-  );
-}
-
 export default async function StorePage({ params }: PageProps) {
   const { personaId, storeId } = await params;
   const storeData = await getStoreData(personaId, storeId);
@@ -275,17 +160,12 @@ export default async function StorePage({ params }: PageProps) {
         </div>
       )}
 
-      {/* Items List - always use CategorySection */}
-      <div className="space-y-8">
-        {storeData.categories.map((category) => (
-          <CategorySection
-            key={category.id}
-            category={category}
-            personaId={personaId}
-            storeId={storeId}
-          />
-        ))}
-      </div>
+      {/* Items List with filter */}
+      <StoreItemBrowser
+        categories={storeData.categories}
+        personaId={personaId}
+        storeId={storeId}
+      />
     </div>
   );
 }

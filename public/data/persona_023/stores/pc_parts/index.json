@@ -337,7 +337,7 @@
           "total": 1049.97,
           "item_count": 3,
           "created_at": "2025-12-27T06:02:23",
-          "item_preview": "Radeon RX 7700 XT, Radeon RX 7900 GRE, ..."
+          "item_preview": "Radeon RX 7700 XT, Radeon RX 7900 GRE, Ryzen 5 4500"
         },
         {
           "order_id": "ORD-G1QM28AT",
@@ -369,7 +369,7 @@
           "total": 4299.96,
           "item_count": 3,
           "created_at": "2025-12-05T05:02:12",
-          "item_preview": "GeForce RTX 4070 Ti Super, GeForce RTX 4090 D, ..."
+          "item_preview": "GeForce RTX 4070 Ti Super, GeForce RTX 4090 D, GeForce RTX 4080 Super"
         },
         {
           "order_id": "ORD-G40N6GSM",
@@ -377,7 +377,7 @@
           "total": 9449.95,
           "item_count": 3,
           "created_at": "2025-12-04T09:02:36",
-          "item_preview": "Quadro RTX A6000, GeForce GTX 1650, ..."
+          "item_preview": "Quadro RTX A6000, GeForce GTX 1650, Ryzen 5 5600X"
         },
         {
           "order_id": "ORD-9XAS7JJL",
@@ -425,7 +425,7 @@
           "total": 3699.96,
           "item_count": 3,
           "created_at": "2025-11-21T15:21:24",
-          "item_preview": "GeForce RTX 4090 D, Radeon RX 7900 XTX, ..."
+          "item_preview": "GeForce RTX 4090 D, Radeon RX 7900 XTX, Ryzen 7 7700X"
         },
         {
           "order_id": "ORD-IZEVQAVN",
@@ -513,7 +513,7 @@
           "total": 919.94,
           "item_count": 3,
           "created_at": "2025-10-16T01:26:30",
-          "item_preview": "Ryzen 5 4500, Radeon RX 6500 XT, ..."
+          "item_preview": "Ryzen 5 4500, Radeon RX 6500 XT, GeForce RTX 3050"
         },
         {
           "order_id": "ORD-W7UPB46C",
@@ -521,7 +521,7 @@
           "total": 1049.97,
           "item_count": 3,
           "created_at": "2025-10-11T05:43:58",
-          "item_preview": "Radeon RX 6500 XT, GeForce GTX 1650, ..."
+          "item_preview": "Radeon RX 6500 XT, GeForce GTX 1650, Radeon RX 7900 XT"
         },
         {
           "order_id": "ORD-DEAGR84P",

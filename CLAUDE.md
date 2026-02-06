@@ -312,6 +312,10 @@ uv run --with pyyaml python generator.py
 cp -r out/* website/public/data/
 ```
 
+### Regenerate Server Metadata
+
+After changing tool JSON files (`shopping-tools.json`, `healthcare-tools.json`), run `/generate-server-metadata` to update `public/data/server-metadata.json` with server summaries shown on the tools pages.
+
 ### Add New Persona
 
 1. Add persona to `persona_extraction_output/shortlisted_personas.json`
