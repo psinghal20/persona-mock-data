@@ -67,7 +67,7 @@ export default async function Home() {
     <div className="home-container">
       <div className="space-y-8 w-full max-w-4xl">
         <div className="text-center mb-8">
-          <h1 className="text-3xl font-bold mb-2">MCP Atlas Browser</h1>
+          <h1 className="text-3xl font-bold mb-2">MCP Long Horizon Data Browser</h1>
           <p className="text-[var(--muted)]">Browse persona data and MCP tool definitions</p>
         </div>
         

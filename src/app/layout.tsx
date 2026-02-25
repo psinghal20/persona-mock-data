@@ -8,7 +8,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "MCP Atlas Browser",
+  title: "MCP Long Horizon Data Browser",
   description: "Browse persona data and MCP tool definitions",
 };
 
@@ -24,9 +24,9 @@ export default function RootLayout({
           <div className="max-w-6xl mx-auto px-4 py-4 flex items-center justify-between">
             <Link href="/" className="flex items-center gap-3">
               <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-blue-500 to-purple-600 flex items-center justify-center text-white font-bold text-sm">
-                MA
+                LH
               </div>
-              <span className="font-semibold">MCP Atlas Browser</span>
+              <span className="font-semibold">MCP Long Horizon Data Browser</span>
             </Link>
             <nav className="flex items-center gap-4 text-sm">
               <Link href="/personas" className="text-[var(--muted)] hover:text-[var(--foreground)] transition-colors">
