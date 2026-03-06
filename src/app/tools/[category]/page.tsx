@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { ToolDefinition } from "@/types";
+import DownloadToolsButton from "@/components/DownloadToolsButton";
 
 interface PageProps {
   params: Promise<{ category: string }>;
@@ -165,6 +166,12 @@ export default async function ToolCategoryPage({ params }: PageProps) {
               tool{totalTools !== 1 ? "s" : ""}
             </div>
           </div>
+          {CATEGORY_TOOLS_FILES[category] && (
+            <DownloadToolsButton
+              fileName={CATEGORY_TOOLS_FILES[category]}
+              label="Download Tools JSON"
+            />
+          )}
         </div>
       </div>
 
