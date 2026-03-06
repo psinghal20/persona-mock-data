@@ -1,0 +1,1114 @@
+{
+  "persona_id": "persona_022",
+  "server_id": "omron_bp",
+  "server_name": "Omron Blood Pressure",
+  "summary": {
+    "total_items": 109,
+    "category_count": 2
+  },
+  "categories": [
+    {
+      "id": "readings",
+      "name": "Blood Pressure Readings",
+      "item_count": 108,
+      "items": [
+        {
+          "id": "BP-R-022-0108",
+          "date": "2026-03-02T19:21:26Z",
+          "systolic": "114",
+          "diastolic": "81",
+          "pulse": "67",
+          "measurement_position": "seated",
+          "time_of_day": "evening",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0107",
+          "date": "2026-03-02T06:12:41Z",
+          "systolic": "122",
+          "diastolic": "81",
+          "pulse": "57",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "True"
+        },
+        {
+          "id": "BP-R-022-0106",
+          "date": "2026-03-01T20:31:03Z",
+          "systolic": "129",
+          "diastolic": "77",
+          "pulse": "69",
+          "measurement_position": "seated",
+          "time_of_day": "evening",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0105",
+          "date": "2026-03-01T08:24:48Z",
+          "systolic": "126",
+          "diastolic": "84",
+          "pulse": "63",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0104",
+          "date": "2026-02-28T20:50:00Z",
+          "systolic": "128",
+          "diastolic": "78",
+          "pulse": "76",
+          "measurement_position": "seated",
+          "time_of_day": "evening",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0103",
+          "date": "2026-02-28T06:02:03Z",
+          "systolic": "129",
+          "diastolic": "72",
+          "pulse": "70",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0102",
+          "date": "2026-02-27T06:06:30Z",
+          "systolic": "122",
+          "diastolic": "77",
+          "pulse": "62",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0100",
+          "date": "2026-02-26T19:56:40Z",
+          "systolic": "121",
+          "diastolic": "80",
+          "pulse": "72",
+          "measurement_position": "seated",
+          "time_of_day": "evening",
+          "irregular_heartbeat": "True"
+        },
+        {
+          "id": "BP-R-022-0101",
+          "date": "2026-02-26T15:59:20Z",
+          "systolic": "122",
+          "diastolic": "74",
+          "pulse": "70",
+          "measurement_position": "seated",
+          "time_of_day": "other",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0099",
+          "date": "2026-02-26T08:24:10Z",
+          "systolic": "126",
+          "diastolic": "73",
+          "pulse": "65",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0098",
+          "date": "2026-02-25T19:00:09Z",
+          "systolic": "129",
+          "diastolic": "83",
+          "pulse": "68",
+          "measurement_position": "seated",
+          "time_of_day": "evening",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0097",
+          "date": "2026-02-25T06:28:42Z",
+          "systolic": "143",
+          "diastolic": "80",
+          "pulse": "69",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0096",
+          "date": "2026-02-24T20:37:55Z",
+          "systolic": "116",
+          "diastolic": "73",
+          "pulse": "63",
+          "measurement_position": "seated",
+          "time_of_day": "evening",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0095",
+          "date": "2026-02-24T06:09:35Z",
+          "systolic": "117",
+          "diastolic": "78",
+          "pulse": "75",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0094",
+          "date": "2026-02-23T18:26:12Z",
+          "systolic": "110",
+          "diastolic": "81",
+          "pulse": "65",
+          "measurement_position": "seated",
+          "time_of_day": "evening",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0093",
+          "date": "2026-02-23T07:08:43Z",
+          "systolic": "125",
+          "diastolic": "75",
+          "pulse": "59",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0092",
+          "date": "2026-02-22T18:47:54Z",
+          "systolic": "114",
+          "diastolic": "76",
+          "pulse": "67",
+          "measurement_position": "seated",
+          "time_of_day": "evening",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0091",
+          "date": "2026-02-22T08:26:37Z",
+          "systolic": "139",
+          "diastolic": "78",
+          "pulse": "67",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "True"
+        },
+        {
+          "id": "BP-R-022-0090",
+          "date": "2026-02-21T19:20:22Z",
+          "systolic": "106",
+          "diastolic": "77",
+          "pulse": "62",
+          "measurement_position": "seated",
+          "time_of_day": "evening",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0089",
+          "date": "2026-02-21T06:25:25Z",
+          "systolic": "133",
+          "diastolic": "83",
+          "pulse": "77",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0088",
+          "date": "2026-02-20T20:21:27Z",
+          "systolic": "113",
+          "diastolic": "79",
+          "pulse": "67",
+          "measurement_position": "seated",
+          "time_of_day": "evening",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0087",
+          "date": "2026-02-20T08:22:35Z",
+          "systolic": "123",
+          "diastolic": "67",
+          "pulse": "69",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0086",
+          "date": "2026-02-19T20:11:19Z",
+          "systolic": "113",
+          "diastolic": "85",
+          "pulse": "64",
+          "measurement_position": "seated",
+          "time_of_day": "evening",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0085",
+          "date": "2026-02-19T07:03:20Z",
+          "systolic": "120",
+          "diastolic": "77",
+          "pulse": "63",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0084",
+          "date": "2026-02-18T20:08:33Z",
+          "systolic": "130",
+          "diastolic": "87",
+          "pulse": "69",
+          "measurement_position": "seated",
+          "time_of_day": "evening",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0083",
+          "date": "2026-02-18T07:01:56Z",
+          "systolic": "131",
+          "diastolic": "79",
+          "pulse": "66",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0082",
+          "date": "2026-02-17T20:16:11Z",
+          "systolic": "116",
+          "diastolic": "80",
+          "pulse": "69",
+          "measurement_position": "seated",
+          "time_of_day": "evening",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0081",
+          "date": "2026-02-17T07:28:33Z",
+          "systolic": "127",
+          "diastolic": "75",
+          "pulse": "67",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0080",
+          "date": "2026-02-16T18:27:04Z",
+          "systolic": "122",
+          "diastolic": "82",
+          "pulse": "64",
+          "measurement_position": "seated",
+          "time_of_day": "evening",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0079",
+          "date": "2026-02-16T08:15:23Z",
+          "systolic": "118",
+          "diastolic": "75",
+          "pulse": "59",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0078",
+          "date": "2026-02-15T18:39:56Z",
+          "systolic": "119",
+          "diastolic": "75",
+          "pulse": "66",
+          "measurement_position": "seated",
+          "time_of_day": "evening",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0077",
+          "date": "2026-02-15T08:22:51Z",
+          "systolic": "141",
+          "diastolic": "76",
+          "pulse": "67",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0076",
+          "date": "2026-02-14T19:05:29Z",
+          "systolic": "121",
+          "diastolic": "81",
+          "pulse": "66",
+          "measurement_position": "seated",
+          "time_of_day": "evening",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0075",
+          "date": "2026-02-14T08:18:40Z",
+          "systolic": "125",
+          "diastolic": "84",
+          "pulse": "70",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0074",
+          "date": "2026-02-13T20:04:12Z",
+          "systolic": "110",
+          "diastolic": "72",
+          "pulse": "79",
+          "measurement_position": "seated",
+          "time_of_day": "evening",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0073",
+          "date": "2026-02-13T06:16:44Z",
+          "systolic": "131",
+          "diastolic": "80",
+          "pulse": "72",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0072",
+          "date": "2026-02-12T19:13:11Z",
+          "systolic": "122",
+          "diastolic": "80",
+          "pulse": "71",
+          "measurement_position": "seated",
+          "time_of_day": "evening",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0071",
+          "date": "2026-02-12T08:12:39Z",
+          "systolic": "131",
+          "diastolic": "76",
+          "pulse": "71",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0070",
+          "date": "2026-02-11T06:11:40Z",
+          "systolic": "128",
+          "diastolic": "73",
+          "pulse": "74",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0069",
+          "date": "2026-02-10T18:03:13Z",
+          "systolic": "122",
+          "diastolic": "74",
+          "pulse": "70",
+          "measurement_position": "seated",
+          "time_of_day": "evening",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0068",
+          "date": "2026-02-10T06:04:22Z",
+          "systolic": "130",
+          "diastolic": "73",
+          "pulse": "61",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0067",
+          "date": "2026-02-09T20:00:38Z",
+          "systolic": "113",
+          "diastolic": "81",
+          "pulse": "71",
+          "measurement_position": "seated",
+          "time_of_day": "evening",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0066",
+          "date": "2026-02-09T07:16:14Z",
+          "systolic": "118",
+          "diastolic": "76",
+          "pulse": "60",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0065",
+          "date": "2026-02-07T18:15:02Z",
+          "systolic": "120",
+          "diastolic": "74",
+          "pulse": "68",
+          "measurement_position": "seated",
+          "time_of_day": "evening",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0064",
+          "date": "2026-02-07T07:07:49Z",
+          "systolic": "126",
+          "diastolic": "73",
+          "pulse": "74",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0062",
+          "date": "2026-02-06T20:38:05Z",
+          "systolic": "114",
+          "diastolic": "79",
+          "pulse": "75",
+          "measurement_position": "seated",
+          "time_of_day": "evening",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0063",
+          "date": "2026-02-06T13:47:59Z",
+          "systolic": "121",
+          "diastolic": "77",
+          "pulse": "66",
+          "measurement_position": "seated",
+          "time_of_day": "other",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0061",
+          "date": "2026-02-06T06:28:34Z",
+          "systolic": "120",
+          "diastolic": "76",
+          "pulse": "67",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0060",
+          "date": "2026-02-05T18:11:13Z",
+          "systolic": "127",
+          "diastolic": "76",
+          "pulse": "63",
+          "measurement_position": "seated",
+          "time_of_day": "evening",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0059",
+          "date": "2026-02-05T06:11:30Z",
+          "systolic": "140",
+          "diastolic": "78",
+          "pulse": "63",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0058",
+          "date": "2026-02-04T18:48:36Z",
+          "systolic": "112",
+          "diastolic": "78",
+          "pulse": "67",
+          "measurement_position": "seated",
+          "time_of_day": "evening",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0057",
+          "date": "2026-02-04T07:21:59Z",
+          "systolic": "117",
+          "diastolic": "77",
+          "pulse": "74",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0056",
+          "date": "2026-02-03T20:33:10Z",
+          "systolic": "130",
+          "diastolic": "78",
+          "pulse": "72",
+          "measurement_position": "seated",
+          "time_of_day": "evening",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0055",
+          "date": "2026-02-03T07:11:19Z",
+          "systolic": "129",
+          "diastolic": "85",
+          "pulse": "63",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0054",
+          "date": "2026-02-02T20:30:55Z",
+          "systolic": "132",
+          "diastolic": "80",
+          "pulse": "73",
+          "measurement_position": "seated",
+          "time_of_day": "evening",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0053",
+          "date": "2026-02-02T06:10:31Z",
+          "systolic": "127",
+          "diastolic": "80",
+          "pulse": "66",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0052",
+          "date": "2026-02-01T19:09:59Z",
+          "systolic": "118",
+          "diastolic": "77",
+          "pulse": "73",
+          "measurement_position": "seated",
+          "time_of_day": "evening",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0051",
+          "date": "2026-02-01T06:28:15Z",
+          "systolic": "131",
+          "diastolic": "85",
+          "pulse": "57",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0050",
+          "date": "2026-01-31T18:00:11Z",
+          "systolic": "126",
+          "diastolic": "82",
+          "pulse": "71",
+          "measurement_position": "seated",
+          "time_of_day": "evening",
+          "irregular_heartbeat": "True"
+        },
+        {
+          "id": "BP-R-022-0049",
+          "date": "2026-01-31T06:23:41Z",
+          "systolic": "123",
+          "diastolic": "80",
+          "pulse": "66",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0048",
+          "date": "2026-01-30T19:48:54Z",
+          "systolic": "118",
+          "diastolic": "81",
+          "pulse": "55",
+          "measurement_position": "seated",
+          "time_of_day": "evening",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0047",
+          "date": "2026-01-30T08:20:45Z",
+          "systolic": "118",
+          "diastolic": "76",
+          "pulse": "63",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0046",
+          "date": "2026-01-29T18:19:15Z",
+          "systolic": "103",
+          "diastolic": "78",
+          "pulse": "66",
+          "measurement_position": "seated",
+          "time_of_day": "evening",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0045",
+          "date": "2026-01-29T08:10:07Z",
+          "systolic": "112",
+          "diastolic": "70",
+          "pulse": "66",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0044",
+          "date": "2026-01-27T18:10:17Z",
+          "systolic": "117",
+          "diastolic": "76",
+          "pulse": "70",
+          "measurement_position": "seated",
+          "time_of_day": "evening",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0043",
+          "date": "2026-01-27T08:30:13Z",
+          "systolic": "123",
+          "diastolic": "82",
+          "pulse": "67",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0042",
+          "date": "2026-01-26T18:38:11Z",
+          "systolic": "117",
+          "diastolic": "75",
+          "pulse": "66",
+          "measurement_position": "seated",
+          "time_of_day": "evening",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0041",
+          "date": "2026-01-26T08:09:01Z",
+          "systolic": "130",
+          "diastolic": "77",
+          "pulse": "57",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0040",
+          "date": "2026-01-25T20:55:43Z",
+          "systolic": "116",
+          "diastolic": "76",
+          "pulse": "65",
+          "measurement_position": "seated",
+          "time_of_day": "evening",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0039",
+          "date": "2026-01-25T07:20:29Z",
+          "systolic": "133",
+          "diastolic": "79",
+          "pulse": "68",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0038",
+          "date": "2026-01-24T19:57:09Z",
+          "systolic": "115",
+          "diastolic": "70",
+          "pulse": "60",
+          "measurement_position": "seated",
+          "time_of_day": "evening",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0037",
+          "date": "2026-01-24T07:30:28Z",
+          "systolic": "132",
+          "diastolic": "82",
+          "pulse": "68",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0036",
+          "date": "2026-01-23T06:01:52Z",
+          "systolic": "123",
+          "diastolic": "75",
+          "pulse": "65",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0035",
+          "date": "2026-01-21T20:34:40Z",
+          "systolic": "120",
+          "diastolic": "80",
+          "pulse": "61",
+          "measurement_position": "seated",
+          "time_of_day": "evening",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0034",
+          "date": "2026-01-21T07:00:33Z",
+          "systolic": "124",
+          "diastolic": "68",
+          "pulse": "69",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0033",
+          "date": "2026-01-20T08:15:48Z",
+          "systolic": "124",
+          "diastolic": "73",
+          "pulse": "67",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0032",
+          "date": "2026-01-19T18:10:36Z",
+          "systolic": "123",
+          "diastolic": "78",
+          "pulse": "70",
+          "measurement_position": "seated",
+          "time_of_day": "evening",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0031",
+          "date": "2026-01-19T07:10:57Z",
+          "systolic": "120",
+          "diastolic": "77",
+          "pulse": "62",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0030",
+          "date": "2026-01-18T18:56:53Z",
+          "systolic": "123",
+          "diastolic": "76",
+          "pulse": "64",
+          "measurement_position": "seated",
+          "time_of_day": "evening",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0029",
+          "date": "2026-01-18T06:08:25Z",
+          "systolic": "123",
+          "diastolic": "75",
+          "pulse": "70",
+          "measurement_position": "standing",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0028",
+          "date": "2026-01-17T19:59:58Z",
+          "systolic": "126",
+          "diastolic": "72",
+          "pulse": "70",
+          "measurement_position": "seated",
+          "time_of_day": "evening",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0027",
+          "date": "2026-01-17T08:01:43Z",
+          "systolic": "124",
+          "diastolic": "78",
+          "pulse": "70",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0026",
+          "date": "2026-01-16T06:21:50Z",
+          "systolic": "127",
+          "diastolic": "83",
+          "pulse": "64",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0025",
+          "date": "2026-01-15T18:07:22Z",
+          "systolic": "124",
+          "diastolic": "83",
+          "pulse": "69",
+          "measurement_position": "seated",
+          "time_of_day": "evening",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0024",
+          "date": "2026-01-15T07:26:36Z",
+          "systolic": "124",
+          "diastolic": "80",
+          "pulse": "64",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0023",
+          "date": "2026-01-14T18:42:33Z",
+          "systolic": "129",
+          "diastolic": "78",
+          "pulse": "63",
+          "measurement_position": "seated",
+          "time_of_day": "evening",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0022",
+          "date": "2026-01-14T08:06:04Z",
+          "systolic": "132",
+          "diastolic": "74",
+          "pulse": "58",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0021",
+          "date": "2026-01-13T20:57:39Z",
+          "systolic": "111",
+          "diastolic": "83",
+          "pulse": "74",
+          "measurement_position": "seated",
+          "time_of_day": "evening",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0020",
+          "date": "2026-01-13T07:11:49Z",
+          "systolic": "122",
+          "diastolic": "75",
+          "pulse": "61",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0018",
+          "date": "2026-01-12T19:52:24Z",
+          "systolic": "124",
+          "diastolic": "77",
+          "pulse": "65",
+          "measurement_position": "seated",
+          "time_of_day": "evening",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0019",
+          "date": "2026-01-12T13:59:47Z",
+          "systolic": "123",
+          "diastolic": "80",
+          "pulse": "66",
+          "measurement_position": "seated",
+          "time_of_day": "other",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0017",
+          "date": "2026-01-12T06:21:36Z",
+          "systolic": "138",
+          "diastolic": "74",
+          "pulse": "71",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0016",
+          "date": "2026-01-11T08:25:12Z",
+          "systolic": "115",
+          "diastolic": "75",
+          "pulse": "67",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0015",
+          "date": "2026-01-10T19:04:55Z",
+          "systolic": "113",
+          "diastolic": "78",
+          "pulse": "73",
+          "measurement_position": "seated",
+          "time_of_day": "evening",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0014",
+          "date": "2026-01-10T07:18:44Z",
+          "systolic": "129",
+          "diastolic": "78",
+          "pulse": "77",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0013",
+          "date": "2026-01-08T19:00:45Z",
+          "systolic": "111",
+          "diastolic": "74",
+          "pulse": "67",
+          "measurement_position": "seated",
+          "time_of_day": "evening",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0012",
+          "date": "2026-01-08T08:21:00Z",
+          "systolic": "120",
+          "diastolic": "78",
+          "pulse": "62",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0011",
+          "date": "2026-01-07T18:22:17Z",
+          "systolic": "128",
+          "diastolic": "75",
+          "pulse": "63",
+          "measurement_position": "seated",
+          "time_of_day": "evening",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0010",
+          "date": "2026-01-07T07:18:38Z",
+          "systolic": "129",
+          "diastolic": "71",
+          "pulse": "61",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0009",
+          "date": "2026-01-06T07:24:55Z",
+          "systolic": "128",
+          "diastolic": "77",
+          "pulse": "65",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0008",
+          "date": "2026-01-05T06:18:49Z",
+          "systolic": "119",
+          "diastolic": "79",
+          "pulse": "58",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0006",
+          "date": "2026-01-03T20:55:31Z",
+          "systolic": "123",
+          "diastolic": "84",
+          "pulse": "72",
+          "measurement_position": "seated",
+          "time_of_day": "evening",
+          "irregular_heartbeat": "True"
+        },
+        {
+          "id": "BP-R-022-0007",
+          "date": "2026-01-03T12:11:40Z",
+          "systolic": "119",
+          "diastolic": "83",
+          "pulse": "69",
+          "measurement_position": "seated",
+          "time_of_day": "other",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0005",
+          "date": "2026-01-03T08:06:14Z",
+          "systolic": "135",
+          "diastolic": "67",
+          "pulse": "70",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0004",
+          "date": "2026-01-02T20:28:47Z",
+          "systolic": "116",
+          "diastolic": "83",
+          "pulse": "67",
+          "measurement_position": "seated",
+          "time_of_day": "evening",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0003",
+          "date": "2026-01-02T06:07:03Z",
+          "systolic": "128",
+          "diastolic": "79",
+          "pulse": "76",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0002",
+          "date": "2026-01-01T20:45:11Z",
+          "systolic": "130",
+          "diastolic": "77",
+          "pulse": "60",
+          "measurement_position": "seated",
+          "time_of_day": "evening",
+          "irregular_heartbeat": "False"
+        },
+        {
+          "id": "BP-R-022-0001",
+          "date": "2026-01-01T06:27:28Z",
+          "systolic": "128",
+          "diastolic": "76",
+          "pulse": "72",
+          "measurement_position": "seated",
+          "time_of_day": "morning",
+          "irregular_heartbeat": "False"
+        }
+      ]
+    },
+    {
+      "id": "devices",
+      "name": "Devices",
+      "item_count": 1,
+      "items": [
+        {
+          "id": "BP-022",
+          "model": "HEM-7361T",
+          "device_name": "Omron Complete",
+          "serial_number": "OMR022BP2241",
+          "battery_level": "98",
+          "last_sync": "2026-03-02T22:54:00Z",
+          "status": "active"
+        }
+      ]
+    }
+  ]
+}

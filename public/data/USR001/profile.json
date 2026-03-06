@@ -5,14 +5,14 @@
   "demographics": {
     "age_group": "adult",
     "gender": "male",
-    "ethnicity": "unspecified",
-    "marital_status": "unspecified",
+    "ethnicity": "",
+    "marital_status": "single",
     "family_role": ""
   },
   "professional": {
-    "profession": "test user",
-    "industry": "testing",
-    "experience_level": "default"
+    "profession": "software developer",
+    "industry": "technology",
+    "experience_level": "experienced"
   },
   "location": {
     "city": "San Francisco",
@@ -21,16 +21,18 @@
     "address": "123 Main Street, Apt 4B, San Francisco, CA 94102"
   },
   "personality_traits": [
-    "default",
-    "test"
+    "practical",
+    "curious",
+    "easygoing"
   ],
   "interests": [
-    "testing",
-    "shopping",
+    "technology",
     "movies",
-    "books"
+    "books",
+    "food",
+    "shopping"
   ],
-  "summary": "You are John Doe, a default test user for the MCP Atlas mock server system. You live in San Francisco and have a variety of shopping habits across different stores. You're used for testing and demonstration purposes.",
+  "summary": "You are John Doe, a software developer living in San Francisco. You're the default user for the agent environment \u2014 pre-seeded order history and account data exists for you across multiple stores. You enjoy shopping online, watching movies, reading books, and exploring the city's food scene. You have a general interest in technology and keep up with the latest gadgets.",
   "stores": [
     {
       "id": "movie_theater",
@@ -182,6 +184,25 @@
       ]
     },
     {
+      "id": "pc_parts",
+      "name": "PC Parts",
+      "item_count": 3,
+      "total_spent": 2426.8,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 3,
+          "total_spent": 2426.8,
+          "has_cost": true
+        }
+      ]
+    },
+    {
       "id": "perfume_shop",
       "name": "Perfume Shop",
       "item_count": 3,
@@ -248,9 +269,9 @@
     }
   ],
   "stats": {
-    "total_orders": 53,
-    "total_spent": 2744.04,
-    "stores_count": 10
+    "total_orders": 56,
+    "total_spent": 5170.84,
+    "stores_count": 11
   },
   "health_profile": {
     "demographics": {
@@ -664,6 +685,25 @@
         ]
       },
       {
+        "id": "omron_bp",
+        "name": "Omron Blood Pressure",
+        "item_count": 101,
+        "category_count": 2,
+        "primary_category": "Blood Pressure Readings",
+        "categories": [
+          {
+            "id": "readings",
+            "name": "Blood Pressure Readings",
+            "count": 100
+          },
+          {
+            "id": "devices",
+            "name": "Devices",
+            "count": 1
+          }
+        ]
+      },
+      {
         "id": "librelink",
         "name": "LibreLink CGM",
         "item_count": 36,
@@ -678,30 +718,25 @@
         ]
       },
       {
-        "id": "fhir",
-        "name": "FHIR EHR",
-        "item_count": 28,
-        "category_count": 4,
-        "primary_category": "Conditions",
+        "id": "eight_sleep",
+        "name": "Eight Sleep Pod",
+        "item_count": 35,
+        "category_count": 3,
+        "primary_category": "Sleep Sessions",
         "categories": [
           {
-            "id": "conditions",
-            "name": "Conditions",
+            "id": "sleep_sessions",
+            "name": "Sleep Sessions",
+            "count": 31
+          },
+          {
+            "id": "temperature_schedules",
+            "name": "Temperature Schedules",
             "count": 2
           },
           {
-            "id": "observations",
-            "name": "Observations",
-            "count": 22
-          },
-          {
-            "id": "medications",
-            "name": "Medications",
-            "count": 2
-          },
-          {
-            "id": "allergies",
-            "name": "Allergies",
+            "id": "alarms",
+            "name": "Alarms",
             "count": 2
           }
         ]
@@ -809,8 +844,8 @@
       }
     ],
     "stats": {
-      "total_items": 867,
-      "servers_count": 10
+      "total_items": 975,
+      "servers_count": 11
     }
   },
   "obsidian": {

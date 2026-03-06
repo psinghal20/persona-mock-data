@@ -1,0 +1,81 @@
+{
+  "persona_id": "USR001",
+  "store_id": "pc_parts",
+  "store_name": "PC Parts",
+  "transaction_type": "orders",
+  "transaction_label": "orders",
+  "has_cost": true,
+  "summary": {
+    "total_count": 3,
+    "total_spent": 2426.8,
+    "first_date": "2024-11-10",
+    "last_date": "2024-12-08"
+  },
+  "items": [
+    {
+      "order_id": "ORD-20241208-A1B2C3D4",
+      "status": "delivered",
+      "total": 1847.94,
+      "item_count": 2,
+      "created_at": "2024-12-08T10:30:00",
+      "item_preview": "Core i9-14900K, GeForce RTX 4090"
+    },
+    {
+      "order_id": "ORD-20241122-E5F6G7H8",
+      "status": "delivered",
+      "total": 194.39,
+      "item_count": 1,
+      "created_at": "2024-11-22T14:15:00",
+      "item_preview": "Vengeance DDR5"
+    },
+    {
+      "order_id": "ORD-20241110-I9J0K1L2",
+      "status": "delivered",
+      "total": 384.47,
+      "item_count": 2,
+      "created_at": "2024-11-10T09:45:00",
+      "item_preview": "990 Pro, RM1000x"
+    }
+  ],
+  "categories": [
+    {
+      "id": "orders",
+      "name": "Orders",
+      "type": "orders",
+      "label": "orders",
+      "has_cost": true,
+      "summary": {
+        "total_count": 3,
+        "total_spent": 2426.8,
+        "first_date": "2024-11-10",
+        "last_date": "2024-12-08"
+      },
+      "items": [
+        {
+          "order_id": "ORD-20241208-A1B2C3D4",
+          "status": "delivered",
+          "total": 1847.94,
+          "item_count": 2,
+          "created_at": "2024-12-08T10:30:00",
+          "item_preview": "Core i9-14900K, GeForce RTX 4090"
+        },
+        {
+          "order_id": "ORD-20241122-E5F6G7H8",
+          "status": "delivered",
+          "total": 194.39,
+          "item_count": 1,
+          "created_at": "2024-11-22T14:15:00",
+          "item_preview": "Vengeance DDR5"
+        },
+        {
+          "order_id": "ORD-20241110-I9J0K1L2",
+          "status": "delivered",
+          "total": 384.47,
+          "item_count": 2,
+          "created_at": "2024-11-10T09:45:00",
+          "item_preview": "990 Pro, RM1000x"
+        }
+      ]
+    }
+  ]
+}

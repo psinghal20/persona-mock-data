@@ -5,6 +5,7 @@ import WhoopDashboard from "@/components/WhoopDashboard";
 import GarminDashboard from "@/components/GarminDashboard";
 import RenphoDashboard from "@/components/RenphoDashboard";
 import MyFitnessPalDashboard from "@/components/MyFitnessPalDashboard";
+import OmronBPDashboard from "@/components/OmronBPDashboard";
 
 interface PageProps {
   params: Promise<{ personaId: string; serverId: string }>;
@@ -230,6 +231,7 @@ export default async function HealthcareServerPage({ params }: PageProps) {
              serverId.includes("athena") || serverId.includes("fhir") ? "🏥" :
              serverId.includes("renpho") ? "⚖️" :
              serverId.includes("myfitnesspal") ? "🍎" :
+             serverId.includes("omron") ? "🩺" :
              serverId.includes("genetic") ? "🧬" :
              serverId.includes("pharmacy") ? "💊" : "📊"}
           </div>
@@ -265,6 +267,8 @@ export default async function HealthcareServerPage({ params }: PageProps) {
         <RenphoDashboard data={serverData} />
       ) : serverId === "myfitnesspal" ? (
         <MyFitnessPalDashboard data={serverData} />
+      ) : serverId === "omron_bp" ? (
+        <OmronBPDashboard data={serverData} />
       ) : (
         <div className="space-y-8">
           {serverData.categories.map((category) => (

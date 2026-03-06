@@ -701,6 +701,25 @@
         ]
       },
       {
+        "id": "omron_bp",
+        "name": "Omron Blood Pressure",
+        "item_count": 115,
+        "category_count": 2,
+        "primary_category": "Blood Pressure Readings",
+        "categories": [
+          {
+            "id": "readings",
+            "name": "Blood Pressure Readings",
+            "count": 114
+          },
+          {
+            "id": "devices",
+            "name": "Devices",
+            "count": 1
+          }
+        ]
+      },
+      {
         "id": "pharmacy",
         "name": "Pharmacy",
         "item_count": 43,
@@ -715,31 +734,26 @@
         ]
       },
       {
-        "id": "fhir",
-        "name": "FHIR EHR",
-        "item_count": 38,
-        "category_count": 4,
-        "primary_category": "Conditions",
+        "id": "eight_sleep",
+        "name": "Eight Sleep Pod",
+        "item_count": 36,
+        "category_count": 3,
+        "primary_category": "Sleep Sessions",
         "categories": [
           {
-            "id": "conditions",
-            "name": "Conditions",
+            "id": "sleep_sessions",
+            "name": "Sleep Sessions",
+            "count": 31
+          },
+          {
+            "id": "temperature_schedules",
+            "name": "Temperature Schedules",
+            "count": 3
+          },
+          {
+            "id": "alarms",
+            "name": "Alarms",
             "count": 2
-          },
-          {
-            "id": "observations",
-            "name": "Observations",
-            "count": 33
-          },
-          {
-            "id": "medications",
-            "name": "Medications",
-            "count": 2
-          },
-          {
-            "id": "allergies",
-            "name": "Allergies",
-            "count": 1
           }
         ]
       },
@@ -846,8 +860,8 @@
       }
     ],
     "stats": {
-      "total_items": 898,
-      "servers_count": 10
+      "total_items": 1011,
+      "servers_count": 11
     }
   },
   "obsidian": {

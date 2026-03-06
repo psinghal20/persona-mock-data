@@ -233,6 +233,18 @@
     "weather": {
       "summary": "US weather from NWS — current conditions, multi-day and hourly forecasts, severe weather alerts, and nearby stations"
     },
+    "weather-data": {
+      "summary": "Global weather data — current conditions, forecasts, historical observations, air quality, astronomy, sports weather, and timezone info for worldwide locations"
+    },
+    "aqicn-mcp": {
+      "summary": "World Air Quality Index — real-time AQI data by city or coordinates and monitoring station search"
+    },
+    "omron-bp": {
+      "summary": "Omron blood pressure monitor data — readings with AHA classification, trends, morning vs evening comparison, and BP goal tracking"
+    },
+    "who-mcp": {
+      "summary": "WHO Global Health Observatory — health indicators, country statistics, and regional data covering life expectancy, disease burden, and risk factors"
+    },
     "wger": {
       "summary": "wger Workout Manager — search exercises by muscle group and equipment, create workout routines, and manage training plans with sets/reps/weight"
     },

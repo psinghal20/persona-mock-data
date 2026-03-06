@@ -1,0 +1,30 @@
+{
+  "order_id": "ORD-20241110-I9J0K1L2",
+  "persona_id": "USR001",
+  "store_id": "pc_parts",
+  "status": "delivered",
+  "created_at": "2024-11-10T09:45:00",
+  "shipped_at": "",
+  "delivered_at": "",
+  "shipping_address": "123 Main Street",
+  "items": [
+    {
+      "product_id": "SSD001",
+      "name": "990 Pro",
+      "category": "ssds",
+      "quantity": 1,
+      "price": 169.99,
+      "subtotal": 169.99
+    },
+    {
+      "product_id": "PSU001",
+      "name": "RM1000x",
+      "category": "psus",
+      "quantity": 1,
+      "price": 185.99,
+      "subtotal": 185.99
+    }
+  ],
+  "total": 384.47,
+  "currency": "USD"
+}

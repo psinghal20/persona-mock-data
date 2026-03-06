@@ -11,8 +11,8 @@
       "age_group": "middle-aged",
       "total_orders": 430,
       "total_spent": 159614.8,
-      "healthcare_items": 829,
-      "healthcare_servers": 9,
+      "healthcare_items": 934,
+      "healthcare_servers": 10,
       "obsidian_notes": 12
     },
     {
@@ -26,8 +26,8 @@
       "age_group": "middle-aged",
       "total_orders": 408,
       "total_spent": 325621.25,
-      "healthcare_items": 891,
-      "healthcare_servers": 10,
+      "healthcare_items": 1006,
+      "healthcare_servers": 11,
       "obsidian_notes": 12
     },
     {
@@ -41,23 +41,23 @@
       "age_group": "mid-30s",
       "total_orders": 485,
       "total_spent": 102015.95,
-      "healthcare_items": 846,
-      "healthcare_servers": 10,
+      "healthcare_items": 970,
+      "healthcare_servers": 11,
       "obsidian_notes": 11
     },
     {
       "id": "USR001",
       "name": "John Doe",
       "initials": "JD",
-      "profession": "test user",
-      "industry": "testing",
+      "profession": "software developer",
+      "industry": "technology",
       "city": "San Francisco",
       "region": "California",
       "age_group": "adult",
-      "total_orders": 53,
-      "total_spent": 2744.04,
-      "healthcare_items": 867,
-      "healthcare_servers": 10,
+      "total_orders": 56,
+      "total_spent": 5170.84,
+      "healthcare_items": 975,
+      "healthcare_servers": 11,
       "obsidian_notes": 29
     },
     {
@@ -71,8 +71,8 @@
       "age_group": "teenager",
       "total_orders": 382,
       "total_spent": 554921.38,
-      "healthcare_items": 809,
-      "healthcare_servers": 8,
+      "healthcare_items": 919,
+      "healthcare_servers": 9,
       "obsidian_notes": 13
     },
     {
@@ -86,8 +86,8 @@
       "age_group": "young",
       "total_orders": 471,
       "total_spent": 420459.9,
-      "healthcare_items": 780,
-      "healthcare_servers": 8,
+      "healthcare_items": 911,
+      "healthcare_servers": 9,
       "obsidian_notes": 11
     },
     {
@@ -101,8 +101,8 @@
       "age_group": "young",
       "total_orders": 367,
       "total_spent": 292324.8,
-      "healthcare_items": 798,
-      "healthcare_servers": 8,
+      "healthcare_items": 926,
+      "healthcare_servers": 9,
       "obsidian_notes": 13
     },
     {
@@ -116,8 +116,8 @@
       "age_group": "middle-aged",
       "total_orders": 464,
       "total_spent": 343663.1,
-      "healthcare_items": 840,
-      "healthcare_servers": 9,
+      "healthcare_items": 958,
+      "healthcare_servers": 10,
       "obsidian_notes": 11
     },
     {
@@ -131,8 +131,8 @@
       "age_group": "young",
       "total_orders": 523,
       "total_spent": 231425.4,
-      "healthcare_items": 898,
-      "healthcare_servers": 10,
+      "healthcare_items": 1011,
+      "healthcare_servers": 11,
       "obsidian_notes": 14
     },
     {
@@ -146,8 +146,8 @@
       "age_group": "middle-aged",
       "total_orders": 422,
       "total_spent": 293203.14,
-      "healthcare_items": 782,
-      "healthcare_servers": 8,
+      "healthcare_items": 898,
+      "healthcare_servers": 9,
       "obsidian_notes": 12
     },
     {
@@ -161,15 +161,15 @@
       "age_group": "retired",
       "total_orders": 429,
       "total_spent": 138231.34,
-      "healthcare_items": 826,
-      "healthcare_servers": 9,
+      "healthcare_items": 937,
+      "healthcare_servers": 10,
       "obsidian_notes": 12
     }
   ],
   "stats": {
     "total_personas": 11,
-    "total_orders": 4434,
+    "total_orders": 4437,
     "total_stores": 21
   },
-  "generated_at": "2026-02-07T03:10:38.975830"
+  "generated_at": "2026-03-06T19:40:40.706966"
 }
