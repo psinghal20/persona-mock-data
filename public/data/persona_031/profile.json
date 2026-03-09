@@ -55,33 +55,6 @@
       ]
     },
     {
-      "id": "toy_store",
-      "name": "Toy Store",
-      "item_count": 73,
-      "total_spent": 6354.32,
-      "transaction_type": "orders",
-      "transaction_label": "orders",
-      "has_cost": true,
-      "categories": [
-        {
-          "id": "orders",
-          "name": "Orders",
-          "type": "orders",
-          "item_count": 50,
-          "total_spent": 6354.32,
-          "has_cost": true
-        },
-        {
-          "id": "wishlists",
-          "name": "Wishlists",
-          "type": "wishlists",
-          "item_count": 23,
-          "total_spent": 0,
-          "has_cost": false
-        }
-      ]
-    },
-    {
       "id": "bakery",
       "name": "Bakery",
       "item_count": 73,
@@ -105,6 +78,33 @@
           "item_count": 14,
           "total_spent": 1172.0,
           "has_cost": true
+        }
+      ]
+    },
+    {
+      "id": "toy_store",
+      "name": "Toy Store",
+      "item_count": 61,
+      "total_spent": 6354.32,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 50,
+          "total_spent": 6354.32,
+          "has_cost": true
+        },
+        {
+          "id": "wishlists",
+          "name": "Wishlists",
+          "type": "wishlists",
+          "item_count": 11,
+          "total_spent": 0,
+          "has_cost": false
         }
       ]
     },
@@ -259,7 +259,7 @@
     }
   ],
   "stats": {
-    "total_orders": 485,
+    "total_orders": 473,
     "total_spent": 102015.95,
     "stores_count": 10
   },

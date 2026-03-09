@@ -1,0 +1,45 @@
+{
+  "order_id": "WISH-Sophia-Good_Grades",
+  "persona_id": "persona_031",
+  "store_id": "toy_store",
+  "type": "wishlist",
+  "status": "high",
+  "created_at": "2026-01-26T06:54:08",
+  "items": [
+    {
+      "product_id": "TOY-449",
+      "name": "7 Wonders Board Game",
+      "category": "Games & Puzzles",
+      "child_name": "Sophia",
+      "occasion": "Good Grades",
+      "priority": "low",
+      "quantity": 1,
+      "price": 49.99,
+      "subtotal": 0
+    },
+    {
+      "product_id": "TOY-136",
+      "name": "Qwirkle",
+      "category": "Games & Puzzles",
+      "child_name": "Sophia",
+      "occasion": "Good Grades",
+      "priority": "low",
+      "quantity": 1,
+      "price": 24.99,
+      "subtotal": 0
+    },
+    {
+      "product_id": "TOY-274",
+      "name": "Celestron Telescope for Kids",
+      "category": "Science & Discovery",
+      "child_name": "Sophia",
+      "occasion": "Good Grades",
+      "priority": "high",
+      "quantity": 1,
+      "price": 59.99,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

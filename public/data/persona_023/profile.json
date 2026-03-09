@@ -74,7 +74,7 @@
     {
       "id": "toy_store",
       "name": "Toy Store",
-      "item_count": 62,
+      "item_count": 54,
       "total_spent": 15168.54,
       "transaction_type": "orders",
       "transaction_label": "orders",
@@ -92,7 +92,7 @@
           "id": "wishlists",
           "name": "Wishlists",
           "type": "wishlists",
-          "item_count": 12,
+          "item_count": 4,
           "total_spent": 0,
           "has_cost": false
         }
@@ -214,7 +214,7 @@
     }
   ],
   "stats": {
-    "total_orders": 382,
+    "total_orders": 374,
     "total_spent": 554921.38,
     "stores_count": 9
   },

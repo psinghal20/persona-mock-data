@@ -53,9 +53,28 @@
       ]
     },
     {
+      "id": "walmart",
+      "name": "Walmart",
+      "item_count": 62,
+      "total_spent": 15143.29,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 62,
+          "total_spent": 15143.29,
+          "has_cost": true
+        }
+      ]
+    },
+    {
       "id": "toy_store",
       "name": "Toy Store",
-      "item_count": 64,
+      "item_count": 53,
       "total_spent": 4557.67,
       "transaction_type": "orders",
       "transaction_label": "orders",
@@ -73,28 +92,9 @@
           "id": "wishlists",
           "name": "Wishlists",
           "type": "wishlists",
-          "item_count": 19,
+          "item_count": 8,
           "total_spent": 0,
           "has_cost": false
-        }
-      ]
-    },
-    {
-      "id": "walmart",
-      "name": "Walmart",
-      "item_count": 62,
-      "total_spent": 15143.29,
-      "transaction_type": "orders",
-      "transaction_label": "orders",
-      "has_cost": true,
-      "categories": [
-        {
-          "id": "orders",
-          "name": "Orders",
-          "type": "orders",
-          "item_count": 62,
-          "total_spent": 15143.29,
-          "has_cost": true
         }
       ]
     },
@@ -349,7 +349,7 @@
     }
   ],
   "stats": {
-    "total_orders": 429,
+    "total_orders": 418,
     "total_spent": 138231.34,
     "stores_count": 14
   },

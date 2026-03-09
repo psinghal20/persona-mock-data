@@ -6,7 +6,7 @@
   "transaction_label": "orders",
   "has_cost": true,
   "summary": {
-    "total_count": 62,
+    "total_count": 54,
     "total_spent": 15168.54,
     "first_date": "2025-10-04",
     "last_date": "2026-01-25"
@@ -435,115 +435,47 @@
       "label": "wishlist items",
       "has_cost": false,
       "summary": {
-        "total_count": 12,
+        "total_count": 4,
         "total_spent": 0,
         "first_date": "2025-10-04",
         "last_date": "2026-01-25"
       },
       "items": [
         {
-          "order_id": "WISH-76",
-          "display_name": "Hot Wheels Ultimate Garage",
-          "description": "For self \u2022 Christmas",
+          "order_id": "WISH-My-Christmas",
+          "display_name": "Christmas Wishlist",
+          "description": "5 items",
+          "item_preview": "Tonka Steel Classics Dump Truck, LEGO Technic RC Car, ...",
           "status": "high",
           "total": 0,
-          "item_count": 1,
+          "item_count": 5,
           "created_at": "2026-01-25T09:28:34"
         },
         {
-          "order_id": "WISH-77",
-          "display_name": "Intex Inflatable Play Center",
-          "description": "For self \u2022 Birthday",
-          "status": "low",
+          "order_id": "WISH-My-Birthday",
+          "display_name": "Birthday Wishlist",
+          "description": "3 items",
+          "item_preview": "Safari Ltd Wild Animals TOOB, Intex Inflatable Play Center, ...",
+          "status": "high",
           "total": 0,
-          "item_count": 1,
+          "item_count": 3,
           "created_at": "2025-12-25T11:43:57"
         },
         {
-          "order_id": "WISH-42",
-          "display_name": "Poolmaster Floating Hoops",
-          "description": "For self \u2022 Just Because",
+          "order_id": "WISH-My-Just_Because",
+          "display_name": "Just Because Wishlist",
+          "description": "3 items",
+          "item_preview": "Mega Bloks First Builders Big Bag, Poolmaster Floating Hoops, ...",
           "status": "high",
           "total": 0,
-          "item_count": 1,
+          "item_count": 3,
           "created_at": "2025-12-21T08:53:08"
         },
         {
-          "order_id": "WISH-74",
-          "display_name": "Safari Ltd Wild Animals TOOB",
-          "description": "For self \u2022 Birthday",
-          "status": "high",
-          "total": 0,
-          "item_count": 1,
-          "created_at": "2025-12-14T04:53:27"
-        },
-        {
-          "order_id": "WISH-72",
-          "display_name": "Yu-Gi-Oh Starter Deck",
-          "description": "For self \u2022 Just Because",
-          "status": "high",
-          "total": 0,
-          "item_count": 1,
-          "created_at": "2025-12-07T21:51:08"
-        },
-        {
-          "order_id": "WISH-39",
-          "display_name": "Mega Bloks First Builders Big Bag",
-          "description": "For self \u2022 Just Because",
-          "status": "low",
-          "total": 0,
-          "item_count": 1,
-          "created_at": "2025-12-06T21:55:29"
-        },
-        {
-          "order_id": "WISH-71",
-          "display_name": "LEGO Technic RC Car",
-          "description": "For self \u2022 Christmas",
-          "status": "high",
-          "total": 0,
-          "item_count": 1,
-          "created_at": "2025-12-02T04:46:31"
-        },
-        {
-          "order_id": "WISH-78",
-          "display_name": "Encanto Mirabel Doll",
-          "description": "For self \u2022 Birthday",
-          "status": "medium",
-          "total": 0,
-          "item_count": 1,
-          "created_at": "2025-11-24T16:19:10"
-        },
-        {
-          "order_id": "WISH-41",
-          "display_name": "Tonka Steel Classics Dump Truck",
-          "description": "For self \u2022 Christmas",
-          "status": "high",
-          "total": 0,
-          "item_count": 1,
-          "created_at": "2025-11-18T16:01:43"
-        },
-        {
-          "order_id": "WISH-75",
-          "display_name": "Pokemon Trading Card Elite Box",
-          "description": "For self \u2022 Christmas",
-          "status": "medium",
-          "total": 0,
-          "item_count": 1,
-          "created_at": "2025-11-12T23:05:21"
-        },
-        {
-          "order_id": "WISH-73",
-          "display_name": "7 Wonders Board Game",
-          "description": "For self \u2022 Christmas",
-          "status": "medium",
-          "total": 0,
-          "item_count": 1,
-          "created_at": "2025-10-14T20:53:36"
-        },
-        {
-          "order_id": "WISH-40",
-          "display_name": "VTech Kidi Star Karaoke",
-          "description": "For self \u2022 Good Grades",
+          "order_id": "WISH-My-Good_Grades",
+          "display_name": "Good Grades Wishlist",
+          "description": "1 items",
+          "item_preview": "VTech Kidi Star Karaoke",
           "status": "high",
           "total": 0,
           "item_count": 1,

@@ -1,0 +1,56 @@
+{
+  "order_id": "WISH-Sarah-Christmas",
+  "persona_id": "persona_009",
+  "store_id": "toy_store",
+  "type": "wishlist",
+  "status": "high",
+  "created_at": "2026-01-14T09:07:10",
+  "items": [
+    {
+      "product_id": "TOY-252",
+      "name": "Fat Brain Squigz",
+      "category": "Building & Construction",
+      "child_name": "Sarah",
+      "occasion": "Christmas",
+      "priority": "high",
+      "quantity": 1,
+      "price": 24.99,
+      "subtotal": 0
+    },
+    {
+      "product_id": "TOY-142",
+      "name": "ThinkFun Gravity Maze",
+      "category": "Games & Puzzles",
+      "child_name": "Sarah",
+      "occasion": "Christmas",
+      "priority": "medium",
+      "quantity": 1,
+      "price": 29.99,
+      "subtotal": 0
+    },
+    {
+      "product_id": "TOY-365",
+      "name": "LEGO Speed Champions",
+      "category": "Building & Construction",
+      "child_name": "Sarah",
+      "occasion": "Christmas",
+      "priority": "low",
+      "quantity": 1,
+      "price": 24.99,
+      "subtotal": 0
+    },
+    {
+      "product_id": "TOY-189",
+      "name": "Fat Brain Dimpl",
+      "category": "Baby & Toddler",
+      "child_name": "Sarah",
+      "occasion": "Christmas",
+      "priority": "medium",
+      "quantity": 1,
+      "price": 14.99,
+      "subtotal": 0
+    }
+  ],
+  "total": 0,
+  "currency": "USD"
+}

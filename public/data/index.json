@@ -24,7 +24,7 @@
       "city": "Houston",
       "region": "Texas",
       "age_group": "middle-aged",
-      "total_orders": 408,
+      "total_orders": 392,
       "total_spent": 325621.25,
       "healthcare_items": 1006,
       "healthcare_servers": 11,
@@ -39,7 +39,7 @@
       "city": "Phoenix",
       "region": "Arizona",
       "age_group": "mid-30s",
-      "total_orders": 485,
+      "total_orders": 473,
       "total_spent": 102015.95,
       "healthcare_items": 970,
       "healthcare_servers": 11,
@@ -69,7 +69,7 @@
       "city": "Cleveland",
       "region": "Ohio",
       "age_group": "teenager",
-      "total_orders": 382,
+      "total_orders": 374,
       "total_spent": 554921.38,
       "healthcare_items": 919,
       "healthcare_servers": 9,
@@ -159,7 +159,7 @@
       "city": "Tampa",
       "region": "Florida",
       "age_group": "retired",
-      "total_orders": 429,
+      "total_orders": 418,
       "total_spent": 138231.34,
       "healthcare_items": 937,
       "healthcare_servers": 10,
@@ -168,8 +168,8 @@
   ],
   "stats": {
     "total_personas": 11,
-    "total_orders": 4437,
+    "total_orders": 4390,
     "total_stores": 21
   },
-  "generated_at": "2026-03-06T19:40:40.706966"
+  "generated_at": "2026-03-09T19:12:51.831952"
 }

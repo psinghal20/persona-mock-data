@@ -110,33 +110,6 @@
       ]
     },
     {
-      "id": "toy_store",
-      "name": "Toy Store",
-      "item_count": 38,
-      "total_spent": 1465.57,
-      "transaction_type": "orders",
-      "transaction_label": "orders",
-      "has_cost": true,
-      "categories": [
-        {
-          "id": "orders",
-          "name": "Orders",
-          "type": "orders",
-          "item_count": 14,
-          "total_spent": 1465.57,
-          "has_cost": true
-        },
-        {
-          "id": "wishlists",
-          "name": "Wishlists",
-          "type": "wishlists",
-          "item_count": 24,
-          "total_spent": 0,
-          "has_cost": false
-        }
-      ]
-    },
-    {
       "id": "movie_theater",
       "name": "Movie Theater",
       "item_count": 34,
@@ -196,6 +169,33 @@
           "name": "Test Drives",
           "type": "test_drives",
           "item_count": 9,
+          "total_spent": 0,
+          "has_cost": false
+        }
+      ]
+    },
+    {
+      "id": "toy_store",
+      "name": "Toy Store",
+      "item_count": 22,
+      "total_spent": 1465.57,
+      "transaction_type": "orders",
+      "transaction_label": "orders",
+      "has_cost": true,
+      "categories": [
+        {
+          "id": "orders",
+          "name": "Orders",
+          "type": "orders",
+          "item_count": 14,
+          "total_spent": 1465.57,
+          "has_cost": true
+        },
+        {
+          "id": "wishlists",
+          "name": "Wishlists",
+          "type": "wishlists",
+          "item_count": 8,
           "total_spent": 0,
           "has_cost": false
         }
@@ -268,7 +268,7 @@
     }
   ],
   "stats": {
-    "total_orders": 408,
+    "total_orders": 392,
     "total_spent": 325621.25,
     "stores_count": 11
   },

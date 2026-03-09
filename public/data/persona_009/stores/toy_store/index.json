@@ -6,9 +6,9 @@
   "transaction_label": "orders",
   "has_cost": true,
   "summary": {
-    "total_count": 64,
+    "total_count": 53,
     "total_spent": 4557.67,
-    "first_date": "2025-10-03",
+    "first_date": "2025-10-04",
     "last_date": "2026-01-27"
   },
   "items": [],
@@ -395,182 +395,91 @@
       "label": "wishlist items",
       "has_cost": false,
       "summary": {
-        "total_count": 19,
+        "total_count": 8,
         "total_spent": 0,
-        "first_date": "2025-10-03",
+        "first_date": "2025-10-29",
         "last_date": "2026-01-23"
       },
       "items": [
         {
-          "order_id": "WISH-16",
-          "display_name": "Nerf Elite 2.0 Commander",
-          "description": "For Tommy \u2022 Good Grades",
-          "status": "medium",
+          "order_id": "WISH-Tommy-Good_Grades",
+          "display_name": "Tommy's Good Grades Wishlist",
+          "description": "4 items",
+          "item_preview": "Nerf Elite 2.0 Commander, Bright Starts Oball, ...",
+          "status": "high",
           "total": 0,
-          "item_count": 1,
+          "item_count": 4,
           "created_at": "2026-01-23T07:21:30"
         },
         {
-          "order_id": "WISH-56",
-          "display_name": "Fat Brain Dimpl",
-          "description": "For Sarah \u2022 Christmas",
-          "status": "medium",
+          "order_id": "WISH-Sarah-Christmas",
+          "display_name": "Sarah's Christmas Wishlist",
+          "description": "4 items",
+          "item_preview": "Fat Brain Squigz, ThinkFun Gravity Maze, ...",
+          "status": "high",
           "total": 0,
-          "item_count": 1,
+          "item_count": 4,
           "created_at": "2026-01-14T09:07:10"
         },
         {
-          "order_id": "WISH-21",
-          "display_name": "Fat Brain Squigz",
-          "description": "For Sarah \u2022 Christmas",
-          "status": "high",
-          "total": 0,
-          "item_count": 1,
-          "created_at": "2026-01-06T05:20:20"
-        },
-        {
-          "order_id": "WISH-20",
-          "display_name": "National Geographic Crystal Growing",
-          "description": "For Tommy \u2022 Good Grades",
-          "status": "high",
-          "total": 0,
-          "item_count": 1,
-          "created_at": "2026-01-04T20:19:31"
-        },
-        {
-          "order_id": "WISH-58",
-          "display_name": "National Geographic Volcano",
-          "description": "For Sarah \u2022 Just Because",
+          "order_id": "WISH-Sarah-Just_Because",
+          "display_name": "Sarah's Just Because Wishlist",
+          "description": "2 items",
+          "item_preview": "Guess Who?, National Geographic Volcano",
           "status": "low",
           "total": 0,
-          "item_count": 1,
+          "item_count": 2,
           "created_at": "2026-01-03T22:47:22"
         },
         {
-          "order_id": "WISH-53",
-          "display_name": "Plus-Plus Big",
-          "description": "For Tommy \u2022 Just Because",
+          "order_id": "WISH-Tommy-Just_Because",
+          "display_name": "Tommy's Just Because Wishlist",
+          "description": "2 items",
+          "item_preview": "Plus-Plus Big, Nintendo Switch Game - Zelda TOTK",
           "status": "high",
           "total": 0,
-          "item_count": 1,
+          "item_count": 2,
           "created_at": "2025-12-10T02:44:22"
         },
         {
-          "order_id": "WISH-60",
-          "display_name": "Squishmallows 16 inch Cat",
-          "description": "For Sarah \u2022 Birthday",
+          "order_id": "WISH-Sarah-Birthday",
+          "display_name": "Sarah's Birthday Wishlist",
+          "description": "2 items",
+          "item_preview": "Poolmaster Floating Hoops, Squishmallows 16 inch Cat",
           "status": "medium",
           "total": 0,
-          "item_count": 1,
+          "item_count": 2,
           "created_at": "2025-11-29T03:17:47"
         },
         {
-          "order_id": "WISH-57",
-          "display_name": "LEGO Duplo Farm",
-          "description": "For Sarah \u2022 Good Grades",
-          "status": "low",
+          "order_id": "WISH-Sarah-Good_Grades",
+          "display_name": "Sarah's Good Grades Wishlist",
+          "description": "2 items",
+          "item_preview": "Connect 4, LEGO Duplo Farm",
+          "status": "medium",
           "total": 0,
-          "item_count": 1,
+          "item_count": 2,
           "created_at": "2025-11-28T05:06:07"
         },
         {
-          "order_id": "WISH-17",
-          "display_name": "Super Soaker Hydra",
-          "description": "For Tommy \u2022 Christmas",
+          "order_id": "WISH-Tommy-Christmas",
+          "display_name": "Tommy's Christmas Wishlist",
+          "description": "1 items",
+          "item_preview": "Super Soaker Hydra",
           "status": "low",
           "total": 0,
           "item_count": 1,
           "created_at": "2025-11-22T13:47:35"
         },
         {
-          "order_id": "WISH-59",
-          "display_name": "Poolmaster Floating Hoops",
-          "description": "For Sarah \u2022 Birthday",
-          "status": "low",
-          "total": 0,
-          "item_count": 1,
-          "created_at": "2025-11-19T18:13:31"
-        },
-        {
-          "order_id": "WISH-19",
-          "display_name": "Magformers Vehicle Set",
-          "description": "For Tommy \u2022 Birthday",
+          "order_id": "WISH-Tommy-Birthday",
+          "display_name": "Tommy's Birthday Wishlist",
+          "description": "2 items",
+          "item_preview": "Little Live Pets Bird, Magformers Vehicle Set",
           "status": "high",
           "total": 0,
-          "item_count": 1,
+          "item_count": 2,
           "created_at": "2025-10-29T17:50:19"
-        },
-        {
-          "order_id": "WISH-18",
-          "display_name": "Bright Starts Oball",
-          "description": "For Tommy \u2022 Good Grades",
-          "status": "low",
-          "total": 0,
-          "item_count": 1,
-          "created_at": "2025-10-27T00:34:46"
-        },
-        {
-          "order_id": "WISH-55",
-          "display_name": "Guess Who?",
-          "description": "For Sarah \u2022 Just Because",
-          "status": "low",
-          "total": 0,
-          "item_count": 1,
-          "created_at": "2025-10-26T19:11:46"
-        },
-        {
-          "order_id": "WISH-23",
-          "display_name": "ThinkFun Gravity Maze",
-          "description": "For Sarah \u2022 Christmas",
-          "status": "medium",
-          "total": 0,
-          "item_count": 1,
-          "created_at": "2025-10-21T06:42:34"
-        },
-        {
-          "order_id": "WISH-15",
-          "display_name": "Little Live Pets Bird",
-          "description": "For Tommy \u2022 Birthday",
-          "status": "high",
-          "total": 0,
-          "item_count": 1,
-          "created_at": "2025-10-19T19:39:02"
-        },
-        {
-          "order_id": "WISH-54",
-          "display_name": "Nintendo Switch Game - Zelda TOTK",
-          "description": "For Tommy \u2022 Just Because",
-          "status": "medium",
-          "total": 0,
-          "item_count": 1,
-          "created_at": "2025-10-18T19:09:24"
-        },
-        {
-          "order_id": "WISH-22",
-          "display_name": "Connect 4",
-          "description": "For Sarah \u2022 Good Grades",
-          "status": "medium",
-          "total": 0,
-          "item_count": 1,
-          "created_at": "2025-10-17T13:53:07"
-        },
-        {
-          "order_id": "WISH-52",
-          "display_name": "Klutz LEGO Chain Reactions",
-          "description": "For Tommy \u2022 Good Grades",
-          "status": "low",
-          "total": 0,
-          "item_count": 1,
-          "created_at": "2025-10-12T00:16:45"
-        },
-        {
-          "order_id": "WISH-24",
-          "display_name": "LEGO Speed Champions",
-          "description": "For Sarah \u2022 Christmas",
-          "status": "low",
-          "total": 0,
-          "item_count": 1,
-          "created_at": "2025-10-03T19:38:30"
         }
       ]
     }

@@ -376,7 +376,7 @@ export default async function OrderPage({ params }: PageProps) {
                     {/* Wishlist fields */}
                     {isWishlist && (
                       <div className="mt-2 space-y-1">
-                        {item.child_name && (
+                        {item.child_name && item.child_name.toLowerCase() !== "self" && (
                           <div>
                             <span className="text-sm text-[var(--muted)]">For: </span>
                             <span className="font-medium">{item.child_name}</span>

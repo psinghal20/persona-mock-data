@@ -198,8 +198,8 @@ export default function OmronBPDashboard({ data }: OmronBPDashboardProps) {
   const device = devices[0];
 
   // Custom pie label
-  const renderPieLabel = ({ name, percent }: { name: string; percent: number }) => {
-    if (percent < 0.05) return null;
+  const renderPieLabel = ({ name, percent }: { name?: string; percent?: number }) => {
+    if (!percent || percent < 0.05) return null;
     return `${name} ${(percent * 100).toFixed(0)}%`;
   };
 
