@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { PersonaProfile, IndexData, EmbeddedHealthProfile, HealthcareData } from "@/types";
+import { PersonaProfile, IndexData, EmbeddedHealthProfile, HealthcareData, HealthcareClinicalData } from "@/types";
 
 interface PageProps {
   params: Promise<{ personaId: string }>;
@@ -390,6 +390,54 @@ function HealthcareServersSection({ healthcare, personaId }: { healthcare: Healt
   );
 }
 
+function HealthcareClinicalServersSection({ healthcare, personaId }: { healthcare: HealthcareClinicalData; personaId: string }) {
+  return (
+    <div className="space-y-6">
+      <div className="flex items-center justify-between">
+        <h2 className="text-xl font-bold flex items-center gap-2">
+          <span className="text-2xl">🩺</span> Clinical Data Sources
+        </h2>
+        <div className="text-sm text-[var(--muted)]">
+          {healthcare.stats.total_items.toLocaleString()} records from {healthcare.stats.servers_count} sources
+        </div>
+      </div>
+
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+        {healthcare.servers.map((server) => (
+          <Link
+            key={server.id}
+            href={`/personas/${personaId}/healthcare_clinical/${server.id}`}
+            className="card p-4"
+          >
+            <div className="flex justify-between items-start">
+              <div className="flex-1">
+                <div className="font-semibold">{server.name}</div>
+                <div className="text-sm text-[var(--muted)] mt-1">
+                  {server.item_count.toLocaleString()} records · {server.category_count} categories
+                </div>
+                <div className="text-xs text-[var(--muted)] mt-2">
+                  {server.categories.slice(0, 3).map((cat, i) => (
+                    <span key={cat.id}>
+                      {i > 0 && " · "}
+                      {cat.name}
+                    </span>
+                  ))}
+                  {server.categories.length > 3 && ` +${server.categories.length - 3} more`}
+                </div>
+              </div>
+              <div className="text-right flex-shrink-0 ml-4">
+                <svg className="w-5 h-5 text-[var(--muted)]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                </svg>
+              </div>
+            </div>
+          </Link>
+        ))}
+      </div>
+    </div>
+  );
+}
+
 export default async function PersonaPage({ params }: PageProps) {
   const { personaId } = await params;
   const profile = await getProfile(personaId);
@@ -588,6 +636,9 @@ export default async function PersonaPage({ params }: PageProps) {
 
       {/* Healthcare Servers Section */}
       {profile.healthcare && <HealthcareServersSection healthcare={profile.healthcare} personaId={personaId} />}
+
+      {/* Healthcare Clinical Servers Section */}
+      {profile.healthcare_clinical && <HealthcareClinicalServersSection healthcare={profile.healthcare_clinical} personaId={personaId} />}
 
     </div>
   );

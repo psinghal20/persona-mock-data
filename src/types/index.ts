@@ -11,6 +11,11 @@ export interface PersonaSummary {
   age_group: string;
   total_orders: number;
   total_spent: number;
+  healthcare_items?: number;
+  healthcare_servers?: number;
+  clinical_items?: number;
+  clinical_servers?: number;
+  obsidian_notes?: number;
 }
 
 export interface IndexData {
@@ -81,6 +86,24 @@ export interface HealthcareServer {
 
 export interface HealthcareData {
   servers: HealthcareServer[];
+  stats: {
+    total_items: number;
+    servers_count: number;
+  };
+}
+
+export interface HealthcareClinicalServer {
+  id: string;
+  name: string;
+  patient_id: string;
+  item_count: number;
+  category_count: number;
+  primary_category: string;
+  categories: HealthcareCategory[];
+}
+
+export interface HealthcareClinicalData {
+  servers: HealthcareClinicalServer[];
   stats: {
     total_items: number;
     servers_count: number;
@@ -186,6 +209,7 @@ export interface PersonaProfile {
   };
   health_profile?: EmbeddedHealthProfile;
   healthcare?: HealthcareData;
+  healthcare_clinical?: HealthcareClinicalData;
   obsidian?: ObsidianData;
 }
 

@@ -1,0 +1,95 @@
+{
+  "persona_id": "persona_027",
+  "patient_id": "PAT027",
+  "server_id": "referral_management",
+  "server_name": "Referral Management",
+  "summary": {
+    "total_items": 5,
+    "category_count": 2
+  },
+  "categories": [
+    {
+      "id": "referrals",
+      "name": "Referrals",
+      "item_count": 2,
+      "primary": true,
+      "items": [
+        {
+          "id": "REF007",
+          "referral_id": "REF007",
+          "patient_id": "PAT027",
+          "referring_provider_id": "PROV003",
+          "receiving_provider_id": "SPEC001",
+          "referring_dept_id": "DEPT002",
+          "receiving_dept_id": "",
+          "encounter_id": "ENC013",
+          "reason": "Cirrhosis management - HCC screening protocol",
+          "clinical_notes": "47-year-old male with alcoholic cirrhosis, recent ultrasound showing cirrhotic liver morphology and mild splenomegaly. Needs hepatology for HCC surveillance and transplant evaluation.",
+          "icd10_code": "K70.30",
+          "urgency": "urgent",
+          "status": "sent",
+          "auth_id": "",
+          "created_date": "2026-01-20",
+          "sent_date": "2026-01-22",
+          "scheduled_date": "",
+          "completed_date": ""
+        },
+        {
+          "id": "REF008",
+          "referral_id": "REF008",
+          "patient_id": "PAT027",
+          "referring_provider_id": "PROV003",
+          "receiving_provider_id": "SPEC004",
+          "referring_dept_id": "DEPT002",
+          "receiving_dept_id": "",
+          "encounter_id": "ENC013",
+          "reason": "Alcohol use disorder - counseling and support",
+          "clinical_notes": "Patient reports 3 months abstinence from alcohol. History of alcohol use disorder contributing to cirrhosis. Requesting ongoing substance abuse counseling and relapse prevention support.",
+          "icd10_code": "K70.30",
+          "urgency": "routine",
+          "status": "completed",
+          "auth_id": "",
+          "created_date": "2026-01-20",
+          "sent_date": "2026-01-21",
+          "scheduled_date": "2026-01-30",
+          "completed_date": "2026-02-05"
+        }
+      ]
+    },
+    {
+      "id": "econsult_messages",
+      "name": "E-Consult Messages",
+      "item_count": 3,
+      "primary": false,
+      "items": [
+        {
+          "id": "MSG005",
+          "message_id": "MSG005",
+          "referral_id": "REF007",
+          "sender_provider_id": "PROV003",
+          "sender_role": "referring",
+          "message_text": "Dr. Hayes, urgent referral for Mr. Patrick Murphy (47M) with alcoholic cirrhosis. Recent abdominal ultrasound shows cirrhotic liver morphology with mild splenomegaly (14 cm), no focal lesions identified on US. Lab values are concerning: AST 88 U/L, ALT 52 U/L, total bilirubin 2.8 mg/dL, albumin 2.9 g/dL, INR 1.4. Patient reports 3 months abstinence. Requesting urgent hepatology evaluation for HCC surveillance protocol and transplant candidacy assessment.",
+          "sent_at": "2026-01-22T08:30:00"
+        },
+        {
+          "id": "MSG006",
+          "message_id": "MSG006",
+          "referral_id": "REF007",
+          "sender_provider_id": "SPEC001",
+          "sender_role": "receiving",
+          "message_text": "Dr. Johnson, thank you for the urgent referral. The lab profile and imaging are consistent with decompensated cirrhosis \u2014 Child-Pugh B based on the values provided. While the ultrasound did not show focal lesions, sensitivity for small HCC is limited. I would like to obtain an MRI abdomen with contrast (Eovist protocol preferred) for more definitive HCC screening. Additionally, please order an AFP level if not recently checked. I will expedite his appointment. Has he been evaluated for varices? An EGD for variceal screening may also be indicated.",
+          "sent_at": "2026-01-22T14:00:00"
+        },
+        {
+          "id": "MSG007",
+          "message_id": "MSG007",
+          "referral_id": "REF007",
+          "sender_provider_id": "PROV003",
+          "sender_role": "referring",
+          "message_text": "Dr. Hayes, MRI abdomen with contrast has been ordered and is scheduled for 2/15. AFP was drawn today \u2014 will forward results when available. He has not had an EGD for variceal screening; I will add that to the referral. Agree with your assessment regarding Child-Pugh classification. We will continue spironolactone and lactulose in the interim. Thank you for the expedited evaluation.",
+          "sent_at": "2026-01-23T10:15:00"
+        }
+      ]
+    }
+  ]
+}

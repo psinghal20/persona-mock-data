@@ -1,0 +1,58 @@
+{
+  "persona_id": "persona_022",
+  "patient_id": "PAT022",
+  "server_id": "medical_billing_claims",
+  "server_name": "Medical Billing & Claims",
+  "summary": {
+    "total_items": 2,
+    "category_count": 2
+  },
+  "categories": [
+    {
+      "id": "claims",
+      "name": "Claims",
+      "item_count": 1,
+      "primary": true,
+      "items": [
+        {
+          "id": "CLM012",
+          "claim_id": "CLM012",
+          "patient_id": "PAT022",
+          "provider_id": "PROV010",
+          "encounter_id": "ENC011",
+          "payer_id": "PAY003",
+          "claim_type": "professional_837P",
+          "total_billed": "249.04",
+          "total_allowed": "178.25",
+          "total_paid": "148.25",
+          "patient_responsibility": "100.79",
+          "status": "paid",
+          "submitted_date": "2026-02-06",
+          "accepted_date": "2026-02-07",
+          "adjudicated_date": "2026-02-25",
+          "paid_date": "2026-03-03"
+        }
+      ]
+    },
+    {
+      "id": "remittance",
+      "name": "Remittance/Payments",
+      "item_count": 1,
+      "primary": false,
+      "items": [
+        {
+          "id": "REM010",
+          "remittance_id": "REM010",
+          "claim_id": "CLM012",
+          "payer_id": "PAY003",
+          "payment_amount": "148.25",
+          "adjustment_amount": "-0.0",
+          "patient_responsibility": "100.79",
+          "check_number": "CHK668532",
+          "payment_date": "2026-03-03",
+          "remittance_date": "2026-03-03"
+        }
+      ]
+    }
+  ]
+}

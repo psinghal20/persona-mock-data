@@ -1,0 +1,38 @@
+{
+  "persona_id": "persona_016",
+  "patient_id": "PAT016",
+  "server_id": "clinical_documentation",
+  "server_name": "Clinical Documentation",
+  "summary": {
+    "total_items": 1,
+    "category_count": 1
+  },
+  "categories": [
+    {
+      "id": "clinical_notes",
+      "name": "Clinical Notes",
+      "item_count": 1,
+      "primary": true,
+      "items": [
+        {
+          "id": "NOTE010",
+          "note_id": "NOTE010",
+          "patient_id": "PAT016",
+          "encounter_id": "ENC010",
+          "provider_id": "PROV014",
+          "note_type": "progress_note",
+          "subjective_preview": "Patient presents for combined diabetes and thyroid follow-up. Reports blood sugars running in the high 200s despite taking metformin 500mg daily. Taki...",
+          "objective_preview": "Vitals: BP 132/80 mmHg, HR 76 bpm, Temp 98.4F, Wt 192 lbs, BMI 29.1. Neck: Thyroid non-tender, right lobe nodule palpable approximately 1 cm, no cervi...",
+          "assessment": "1. Type 2 diabetes mellitus with hyperglycemia - not at goal on metformin monotherapy\n2. Thyroid nodule, right lobe - stable on exam, TI-RADS 3 on prior imaging",
+          "plan": "1. Order thyroid ultrasound for interval follow-up of right thyroid nodule\n2. Consider adding second oral agent (sulfonylurea or SGLT2 inhibitor) or insulin given A1c 7.2% and fasting glucose >200\n3. Increase metformin to 500mg BID as initial step\n4. Recheck A1c in 3 months\n5. Continue levothyroxine 50mcg daily\n6. Diabetes education referral for carbohydrate counting and self-monitoring",
+          "icd10_codes": "E11.65,E04.1",
+          "cpt_codes": "99214",
+          "status": "signed",
+          "created_at": "2026-01-30T11:00:00",
+          "signed_at": "2026-01-30T12:00:00",
+          "signed_by": "PROV014"
+        }
+      ]
+    }
+  ]
+}

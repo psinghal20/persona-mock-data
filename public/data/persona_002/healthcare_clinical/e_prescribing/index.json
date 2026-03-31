@@ -1,0 +1,65 @@
+{
+  "persona_id": "persona_002",
+  "patient_id": "PAT002",
+  "server_id": "e_prescribing",
+  "server_name": "E-Prescribing",
+  "summary": {
+    "total_items": 2,
+    "category_count": 2
+  },
+  "categories": [
+    {
+      "id": "prescriptions",
+      "name": "Prescriptions",
+      "item_count": 1,
+      "primary": true,
+      "items": [
+        {
+          "id": "RX00201",
+          "rx_id": "RX00201",
+          "patient_id": "PAT002",
+          "prescriber_id": "PROV001",
+          "medication_name": "Albuterol",
+          "ndc_code": "00487-9801-01",
+          "rxnorm_code": "245314",
+          "dosage": "90mcg",
+          "frequency": "as needed",
+          "route": "inhalation",
+          "quantity": "60",
+          "refills": "2",
+          "pharmacy_id": "PHARM002",
+          "status": "picked_up",
+          "written_date": "2023-06-10",
+          "sent_date": "2023-06-10",
+          "fill_date": "2023-06-11",
+          "pickup_date": "2023-06-12",
+          "expiration_date": "2024-06-09"
+        }
+      ]
+    },
+    {
+      "id": "medication_history",
+      "name": "Medication History",
+      "item_count": 1,
+      "primary": false,
+      "items": [
+        {
+          "id": "HIST0003",
+          "history_id": "HIST0003",
+          "patient_id": "PAT002",
+          "medication_name": "Albuterol",
+          "prescriber_name": "Dr. Sarah Chen",
+          "prescriber_npi": "1234567890",
+          "source": "surescripts",
+          "dosage": "90mcg",
+          "frequency": "as needed",
+          "start_date": "2023-06-10",
+          "end_date": "",
+          "status": "active",
+          "pharmacy_name": "Walgreens - Oak Ave",
+          "notes": "Rescue inhaler"
+        }
+      ]
+    }
+  ]
+}

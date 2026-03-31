@@ -1,0 +1,56 @@
+{
+  "persona_id": "persona_013",
+  "patient_id": "PAT013",
+  "server_id": "clinical_documentation",
+  "server_name": "Clinical Documentation",
+  "summary": {
+    "total_items": 2,
+    "category_count": 1
+  },
+  "categories": [
+    {
+      "id": "clinical_notes",
+      "name": "Clinical Notes",
+      "item_count": 2,
+      "primary": true,
+      "items": [
+        {
+          "id": "NOTE007",
+          "note_id": "NOTE007",
+          "patient_id": "PAT013",
+          "encounter_id": "ENC007",
+          "provider_id": "PROV007",
+          "note_type": "progress_note",
+          "subjective_preview": "Patient returns for follow-up of low back pain, ongoing for 2 months since initial injury. Pain radiating down the left leg to the calf, worse with pr...",
+          "objective_preview": "Vitals: BP 134/86 mmHg, HR 78 bpm, Temp 98.5F. Musculoskeletal: Limited lumbar flexion to 40 degrees. Paravertebral muscle spasm bilateral. Positive s...",
+          "assessment": "1. Lumbar radiculopathy - L4-L5 disc bulge with left L5 nerve root involvement confirmed on MRI\n2. Prediabetes - fasting glucose pending follow-up",
+          "plan": "1. Lumbar MRI reviewed - discussed findings with patient\n2. Physical therapy referral for core strengthening and McKenzie protocol\n3. Continue naproxen 500mg BID as needed\n4. Follow-up fasting glucose for prediabetes monitoring\n5. If no improvement in 6-8 weeks of PT, consider epidural steroid injection or pain management referral\n6. Follow-up in 6 weeks",
+          "icd10_codes": "M54.5,R73.03",
+          "cpt_codes": "99214",
+          "status": "signed",
+          "created_at": "2026-01-25T10:00:00",
+          "signed_at": "2026-01-25T11:00:00",
+          "signed_by": "PROV007"
+        },
+        {
+          "id": "NOTE008",
+          "note_id": "NOTE008",
+          "patient_id": "PAT013",
+          "encounter_id": "ENC008",
+          "provider_id": "PROV007",
+          "note_type": "progress_note",
+          "subjective_preview": "Patient presents with new onset low back pain after lifting a heavy box 5 days ago. Pain is in the central lower back, dull and aching, rated 7/10. No...",
+          "objective_preview": "Vitals: BP 138/84 mmHg, HR 80 bpm, Temp 98.6F. Musculoskeletal: Paravertebral tenderness L3-L5 bilaterally. Mild paraspinal muscle spasm. Lumbar flexi...",
+          "assessment": "Acute low back pain, mechanical - possible disc pathology given mechanism of injury",
+          "plan": "1. Lumbar spine X-ray ordered to evaluate bony structures\n2. Start naproxen 500mg BID with food\n3. Activity modification - avoid heavy lifting, gradual return to normal activities\n4. Ice for first 48 hours, then alternate heat/ice\n5. Return in 6 weeks; if not improving, will order lumbar MRI\n6. Red flag precautions discussed - return immediately for leg weakness, bowel/bladder changes",
+          "icd10_codes": "M54.5",
+          "cpt_codes": "99214",
+          "status": "signed",
+          "created_at": "2025-12-10T09:30:00",
+          "signed_at": "2025-12-10T10:30:00",
+          "signed_by": "PROV007"
+        }
+      ]
+    }
+  ]
+}

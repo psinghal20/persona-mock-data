@@ -1,0 +1,40 @@
+{
+  "persona_id": "persona_002",
+  "patient_id": "PAT002",
+  "server_id": "prior_auth",
+  "server_name": "Prior Authorization",
+  "summary": {
+    "total_items": 1,
+    "category_count": 1
+  },
+  "categories": [
+    {
+      "id": "patient_coverage",
+      "name": "Insurance Coverage",
+      "item_count": 1,
+      "primary": true,
+      "items": [
+        {
+          "id": "COV002",
+          "coverage_id": "COV002",
+          "patient_id": "PAT002",
+          "payer_id": "PAY002",
+          "plan_id": "PAY002_STANDARD",
+          "plan_name": "United Healthcare Standard PPO",
+          "member_id": "MBR642621108",
+          "group_number": "GRP133326",
+          "effective_date": "2025-01-01",
+          "termination_date": "",
+          "status": "active",
+          "copay_primary": "25",
+          "copay_specialist": "75",
+          "deductible": "2000",
+          "deductible_met": "47.68",
+          "out_of_pocket_max": "7500",
+          "oop_met": "174.91",
+          "coinsurance_rate": "0.2"
+        }
+      ]
+    }
+  ]
+}

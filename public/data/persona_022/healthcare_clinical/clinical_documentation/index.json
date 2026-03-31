@@ -1,0 +1,38 @@
+{
+  "persona_id": "persona_022",
+  "patient_id": "PAT022",
+  "server_id": "clinical_documentation",
+  "server_name": "Clinical Documentation",
+  "summary": {
+    "total_items": 1,
+    "category_count": 1
+  },
+  "categories": [
+    {
+      "id": "clinical_notes",
+      "name": "Clinical Notes",
+      "item_count": 1,
+      "primary": true,
+      "items": [
+        {
+          "id": "NOTE011",
+          "note_id": "NOTE011",
+          "patient_id": "PAT022",
+          "encounter_id": "ENC011",
+          "provider_id": "PROV010",
+          "note_type": "progress_note",
+          "subjective_preview": "Patient presents for migraine evaluation. Reports 3-4 migraines per month, down from 6-7 before starting topiramate 50mg daily. Migraines are unilater...",
+          "objective_preview": "Vitals: BP 118/72 mmHg, HR 70 bpm, Temp 98.5F. Neurological: Alert and oriented x3. Cranial nerves II-XII intact. No papilledema on fundoscopic exam. ...",
+          "assessment": "Migraine without aura - partially controlled on topiramate, frequency reduced but not at goal of <2/month",
+          "plan": "1. Continue topiramate 50mg daily - may increase to 75mg if frequency does not improve further\n2. Continue sumatriptan 50mg PRN for acute attacks (limit to <10 doses/month)\n3. Brain MRI without and with contrast ordered to rule out secondary causes\n4. Maintain headache diary\n5. Discuss CGRP inhibitor therapy if MRI normal and frequency does not improve\n6. Follow-up in 2 months after MRI",
+          "icd10_codes": "G43.909",
+          "cpt_codes": "99214",
+          "status": "signed",
+          "created_at": "2026-02-01T09:00:00",
+          "signed_at": "2026-02-01T10:00:00",
+          "signed_by": "PROV010"
+        }
+      ]
+    }
+  ]
+}

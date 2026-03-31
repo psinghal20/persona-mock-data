@@ -1,0 +1,66 @@
+{
+  "persona_id": "persona_010",
+  "patient_id": "PAT010",
+  "server_id": "referral_management",
+  "server_name": "Referral Management",
+  "summary": {
+    "total_items": 3,
+    "category_count": 2
+  },
+  "categories": [
+    {
+      "id": "referrals",
+      "name": "Referrals",
+      "item_count": 1,
+      "primary": true,
+      "items": [
+        {
+          "id": "REF004",
+          "referral_id": "REF004",
+          "patient_id": "PAT010",
+          "referring_provider_id": "PROV001",
+          "receiving_provider_id": "SPEC003",
+          "referring_dept_id": "DEPT001",
+          "receiving_dept_id": "",
+          "encounter_id": "ENC006",
+          "reason": "GERD refractory to PPI - endoscopy consideration",
+          "clinical_notes": "Patient with persistent heartburn despite omeprazole 20mg daily for 8 weeks. No alarm symptoms. Dietary modifications attempted. Requesting EGD evaluation.",
+          "icd10_code": "K21.0",
+          "urgency": "routine",
+          "status": "sent",
+          "auth_id": "AUTH011",
+          "created_date": "2026-01-22",
+          "sent_date": "2026-01-23",
+          "scheduled_date": "",
+          "completed_date": ""
+        }
+      ]
+    },
+    {
+      "id": "econsult_messages",
+      "name": "E-Consult Messages",
+      "item_count": 2,
+      "primary": false,
+      "items": [
+        {
+          "id": "MSG003",
+          "message_id": "MSG003",
+          "referral_id": "REF004",
+          "sender_provider_id": "PROV001",
+          "sender_role": "referring",
+          "message_text": "Dr. O'Brien, referring Ms. Sophie Laurent for GI evaluation. She has persistent GERD symptoms despite 8 weeks of omeprazole 20mg daily with appropriate timing (30 min before breakfast). She describes daily heartburn and occasional regurgitation, worse postprandially. No dysphagia, weight loss, or GI bleeding. I have increased her to omeprazole 40mg BID and reinforced dietary modifications. Would EGD be warranted at this point given her refractory symptoms?",
+          "sent_at": "2026-01-23T11:00:00"
+        },
+        {
+          "id": "MSG004",
+          "message_id": "MSG004",
+          "referral_id": "REF004",
+          "sender_provider_id": "SPEC003",
+          "sender_role": "receiving",
+          "message_text": "Dr. Chen, thank you for the referral. Given the failure of standard-dose PPI therapy with appropriate administration and no alarm features, an EGD is warranted to evaluate for erosive esophagitis, Barrett's esophagus, or eosinophilic esophagitis. I would also like to assess for hiatal hernia. If the EGD is unremarkable, we may consider ambulatory pH monitoring to confirm the diagnosis. I will reach out to the patient to schedule the procedure. Please ensure authorization is in place.",
+          "sent_at": "2026-01-24T09:45:00"
+        }
+      ]
+    }
+  ]
+}

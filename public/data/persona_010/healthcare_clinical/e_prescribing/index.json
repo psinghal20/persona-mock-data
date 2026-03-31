@@ -1,0 +1,65 @@
+{
+  "persona_id": "persona_010",
+  "patient_id": "PAT010",
+  "server_id": "e_prescribing",
+  "server_name": "E-Prescribing",
+  "summary": {
+    "total_items": 2,
+    "category_count": 2
+  },
+  "categories": [
+    {
+      "id": "prescriptions",
+      "name": "Prescriptions",
+      "item_count": 1,
+      "primary": true,
+      "items": [
+        {
+          "id": "RX01001",
+          "rx_id": "RX01001",
+          "patient_id": "PAT010",
+          "prescriber_id": "PROV001",
+          "medication_name": "Omeprazole",
+          "ndc_code": "00093-5122-01",
+          "rxnorm_code": "198053",
+          "dosage": "20mg",
+          "frequency": "once daily",
+          "route": "oral",
+          "quantity": "30",
+          "refills": "3",
+          "pharmacy_id": "PHARM001",
+          "status": "picked_up",
+          "written_date": "2019-08-01",
+          "sent_date": "2019-08-01",
+          "fill_date": "2019-08-02",
+          "pickup_date": "2019-08-03",
+          "expiration_date": "2020-07-31"
+        }
+      ]
+    },
+    {
+      "id": "medication_history",
+      "name": "Medication History",
+      "item_count": 1,
+      "primary": false,
+      "items": [
+        {
+          "id": "HIST0008",
+          "history_id": "HIST0008",
+          "patient_id": "PAT010",
+          "medication_name": "Omeprazole",
+          "prescriber_name": "Dr. Sarah Chen",
+          "prescriber_npi": "1234567890",
+          "source": "surescripts",
+          "dosage": "20mg",
+          "frequency": "once daily",
+          "start_date": "2019-08-01",
+          "end_date": "",
+          "status": "active",
+          "pharmacy_name": "CVS Pharmacy - Main St",
+          "notes": "Take before breakfast"
+        }
+      ]
+    }
+  ]
+}

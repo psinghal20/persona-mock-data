@@ -1,0 +1,82 @@
+{
+  "persona_id": "persona_016",
+  "patient_id": "PAT016",
+  "server_id": "radiology_info_system",
+  "server_name": "Radiology Information System",
+  "summary": {
+    "total_items": 3,
+    "category_count": 3
+  },
+  "categories": [
+    {
+      "id": "radiology_orders",
+      "name": "Radiology Orders",
+      "item_count": 1,
+      "primary": true,
+      "items": [
+        {
+          "id": "RORD006",
+          "order_id": "RORD006",
+          "patient_id": "PAT016",
+          "ordering_provider_id": "PROV014",
+          "encounter_id": "ENC010",
+          "modality": "US",
+          "body_part": "Thyroid",
+          "protocol": "Complete",
+          "clinical_indication": "Thyroid nodule evaluation",
+          "urgency": "routine",
+          "status": "completed",
+          "auth_id": "AUTH005",
+          "ordered_date": "2026-01-30",
+          "scheduled_date": "2026-01-31",
+          "completed_date": "2026-01-31"
+        }
+      ]
+    },
+    {
+      "id": "exams",
+      "name": "Exams",
+      "item_count": 1,
+      "primary": false,
+      "items": [
+        {
+          "id": "EXAM006",
+          "exam_id": "EXAM006",
+          "order_id": "RORD006",
+          "patient_id": "PAT016",
+          "performing_radiologist_id": "PROV014",
+          "modality": "US",
+          "body_part": "Thyroid",
+          "protocol": "Complete",
+          "accession_number": "ACC202610006",
+          "dicom_study_uid": "1.2.840.10008.100006",
+          "exam_date": "2026-01-31",
+          "status": "completed",
+          "department_id": "DEPT012"
+        }
+      ]
+    },
+    {
+      "id": "radiology_reports",
+      "name": "Radiology Reports",
+      "item_count": 1,
+      "primary": false,
+      "items": [
+        {
+          "id": "RPT006",
+          "report_id": "RPT006",
+          "exam_id": "EXAM006",
+          "radiologist_id": "PROV014",
+          "findings_preview": "Right lobe: 4.8 x 2.0 x 1.8 cm. A solid hypoechoic nodule measuring 1.2 x 0.9 x 0.8 cm in the mid right lobe. No suspicious calcifications or irregular margins. Left lobe: 4.5 x 1.8 x 1.6 cm, homogene...",
+          "impressions": "1.2 cm solid hypoechoic nodule in the right thyroid lobe. TI-RADS 3 (mildly suspicious). No left-sided nodules.",
+          "recommendations": "Follow-up ultrasound in 12-24 months given TI-RADS 3 classification. FNA not currently indicated per ACR TI-RADS guidelines.",
+          "critical_finding": "0",
+          "critical_finding_description": "",
+          "status": "final",
+          "created_at": "2026-01-31T14:00:00",
+          "signed_at": "2026-01-31T16:00:00"
+        }
+      ]
+    }
+  ]
+}

@@ -9,12 +9,14 @@ interface PageProps {
 const CATEGORY_NAMES: Record<string, string> = {
   shopping: "Shopping",
   medical: "Medical",
+  clinical: "Clinical",
   professional: "Professional Work",
 };
 
 const CATEGORY_ICONS: Record<string, string> = {
   shopping: "🛒",
   medical: "🏥",
+  clinical: "🩺",
   professional: "💼",
 };
 
@@ -35,6 +37,7 @@ function extractServerName(toolName: string): string {
 const CATEGORY_TOOLS_FILES: Record<string, string> = {
   shopping: "shopping-tools.json",
   medical: "healthcare-tools.json",
+  clinical: "healthcare-clinical-tools.json",
 };
 
 interface ServerCard {
@@ -119,6 +122,7 @@ export async function generateStaticParams() {
   return [
     { category: "shopping" },
     { category: "medical" },
+    { category: "clinical" },
     { category: "professional" },
   ];
 }

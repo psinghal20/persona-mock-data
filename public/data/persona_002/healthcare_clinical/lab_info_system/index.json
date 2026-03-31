@@ -1,0 +1,93 @@
+{
+  "persona_id": "persona_002",
+  "patient_id": "PAT002",
+  "server_id": "lab_info_system",
+  "server_name": "Lab Information System",
+  "summary": {
+    "total_items": 4,
+    "category_count": 3
+  },
+  "categories": [
+    {
+      "id": "lab_orders",
+      "name": "Lab Orders",
+      "item_count": 1,
+      "primary": true,
+      "items": [
+        {
+          "id": "ORD00201",
+          "order_id": "ORD00201",
+          "patient_id": "PAT002",
+          "ordering_provider_id": "PROV001",
+          "encounter_id": "ENC00201",
+          "order_date": "2026-02-04",
+          "status": "completed",
+          "priority": "routine",
+          "clinical_indication": "Monitoring - Mild intermittent asthma",
+          "department_id": "DEPT001"
+        }
+      ]
+    },
+    {
+      "id": "test_results",
+      "name": "Test Results",
+      "item_count": 2,
+      "primary": false,
+      "items": [
+        {
+          "id": "RES00009",
+          "result_id": "RES00009",
+          "order_id": "ORD00201",
+          "patient_id": "PAT002",
+          "test_name": "Creatinine",
+          "loinc_code": "2160-0",
+          "result_value": "1.0",
+          "result_unit": "mg/dL",
+          "reference_range": "0.7-1.3",
+          "abnormal_flag": "",
+          "critical_flag": "0",
+          "status": "final",
+          "resulted_at": "2026-02-05T23:54:15.986411",
+          "verified_by": "PROV001",
+          "notes": ""
+        },
+        {
+          "id": "RES00010",
+          "result_id": "RES00010",
+          "order_id": "ORD00201",
+          "patient_id": "PAT002",
+          "test_name": "BUN",
+          "loinc_code": "3094-0",
+          "result_value": "17",
+          "result_unit": "mg/dL",
+          "reference_range": "7-20",
+          "abnormal_flag": "",
+          "critical_flag": "0",
+          "status": "final",
+          "resulted_at": "2026-02-05T23:54:15.986411",
+          "verified_by": "PROV001",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "specimens",
+      "name": "Specimens",
+      "item_count": 1,
+      "primary": false,
+      "items": [
+        {
+          "id": "SPEC_ORD00201",
+          "specimen_id": "SPEC_ORD00201",
+          "order_id": "ORD00201",
+          "specimen_type": "Serum",
+          "collection_date": "2026-02-04",
+          "barcode": "BC10000002",
+          "status": "processed",
+          "collector_id": "PHLB001",
+          "notes": ""
+        }
+      ]
+    }
+  ]
+}

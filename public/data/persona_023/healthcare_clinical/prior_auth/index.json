@@ -1,0 +1,40 @@
+{
+  "persona_id": "persona_023",
+  "patient_id": "PAT023",
+  "server_id": "prior_auth",
+  "server_name": "Prior Authorization",
+  "summary": {
+    "total_items": 1,
+    "category_count": 1
+  },
+  "categories": [
+    {
+      "id": "patient_coverage",
+      "name": "Insurance Coverage",
+      "item_count": 1,
+      "primary": true,
+      "items": [
+        {
+          "id": "COV009",
+          "coverage_id": "COV009",
+          "patient_id": "PAT023",
+          "payer_id": "PAY003",
+          "plan_id": "PAY003_STANDARD",
+          "plan_name": "Medicare Part B",
+          "member_id": "MBR414797776",
+          "group_number": "",
+          "effective_date": "2024-01-01",
+          "termination_date": "",
+          "status": "active",
+          "copay_primary": "0.0",
+          "copay_specialist": "0.0",
+          "deductible": "240.0",
+          "deductible_met": "15.13",
+          "out_of_pocket_max": "0.0",
+          "oop_met": "0.0",
+          "coinsurance_rate": "0.2"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "persona_id": "persona_016",
+  "patient_id": "PAT016",
+  "server_id": "referral_management",
+  "server_name": "Referral Management",
+  "summary": {
+    "total_items": 1,
+    "category_count": 1
+  },
+  "categories": [
+    {
+      "id": "referrals",
+      "name": "Referrals",
+      "item_count": 1,
+      "primary": true,
+      "items": [
+        {
+          "id": "REF006",
+          "referral_id": "REF006",
+          "patient_id": "PAT016",
+          "referring_provider_id": "PROV001",
+          "receiving_provider_id": "PROV014",
+          "referring_dept_id": "DEPT001",
+          "receiving_dept_id": "DEPT011",
+          "encounter_id": "",
+          "reason": "Thyroid nodule and diabetes co-management",
+          "clinical_notes": "Patient with T2DM (A1c 7.2%) and 1.2 cm right thyroid nodule on ultrasound. Needs endocrinology co-management for both conditions.",
+          "icd10_code": "E04.1",
+          "urgency": "routine",
+          "status": "completed",
+          "auth_id": "",
+          "created_date": "2026-01-10",
+          "sent_date": "2026-01-11",
+          "scheduled_date": "2026-01-25",
+          "completed_date": "2026-01-30"
+        }
+      ]
+    }
+  ]
+}

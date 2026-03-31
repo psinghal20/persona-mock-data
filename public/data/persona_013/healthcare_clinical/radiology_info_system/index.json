@@ -1,0 +1,128 @@
+{
+  "persona_id": "persona_013",
+  "patient_id": "PAT013",
+  "server_id": "radiology_info_system",
+  "server_name": "Radiology Information System",
+  "summary": {
+    "total_items": 6,
+    "category_count": 3
+  },
+  "categories": [
+    {
+      "id": "radiology_orders",
+      "name": "Radiology Orders",
+      "item_count": 2,
+      "primary": true,
+      "items": [
+        {
+          "id": "RORD005",
+          "order_id": "RORD005",
+          "patient_id": "PAT013",
+          "ordering_provider_id": "PROV007",
+          "encounter_id": "ENC007",
+          "modality": "MR",
+          "body_part": "Lumbar Spine",
+          "protocol": "Without contrast",
+          "clinical_indication": "Lumbar radiculopathy - evaluate disc pathology",
+          "urgency": "routine",
+          "status": "completed",
+          "auth_id": "AUTH004",
+          "ordered_date": "2026-01-25",
+          "scheduled_date": "2026-01-28",
+          "completed_date": "2026-01-28"
+        },
+        {
+          "id": "RORD004",
+          "order_id": "RORD004",
+          "patient_id": "PAT013",
+          "ordering_provider_id": "PROV007",
+          "encounter_id": "ENC008",
+          "modality": "XR",
+          "body_part": "Lumbar Spine",
+          "protocol": "2 views",
+          "clinical_indication": "Low back pain - initial evaluation",
+          "urgency": "routine",
+          "status": "completed",
+          "auth_id": "",
+          "ordered_date": "2025-12-10",
+          "scheduled_date": "2025-12-10",
+          "completed_date": "2025-12-10"
+        }
+      ]
+    },
+    {
+      "id": "exams",
+      "name": "Exams",
+      "item_count": 2,
+      "primary": false,
+      "items": [
+        {
+          "id": "EXAM005",
+          "exam_id": "EXAM005",
+          "order_id": "RORD005",
+          "patient_id": "PAT013",
+          "performing_radiologist_id": "PROV015",
+          "modality": "MR",
+          "body_part": "Lumbar Spine",
+          "protocol": "Without contrast",
+          "accession_number": "ACC202610005",
+          "dicom_study_uid": "1.2.840.10008.100005",
+          "exam_date": "2026-01-28",
+          "status": "completed",
+          "department_id": "DEPT012"
+        },
+        {
+          "id": "EXAM004",
+          "exam_id": "EXAM004",
+          "order_id": "RORD004",
+          "patient_id": "PAT013",
+          "performing_radiologist_id": "PROV015",
+          "modality": "XR",
+          "body_part": "Lumbar Spine",
+          "protocol": "2 views",
+          "accession_number": "ACC202510004",
+          "dicom_study_uid": "1.2.840.10008.100004",
+          "exam_date": "2025-12-10",
+          "status": "completed",
+          "department_id": "DEPT012"
+        }
+      ]
+    },
+    {
+      "id": "radiology_reports",
+      "name": "Radiology Reports",
+      "item_count": 2,
+      "primary": false,
+      "items": [
+        {
+          "id": "RPT005",
+          "report_id": "RPT005",
+          "exam_id": "EXAM005",
+          "radiologist_id": "PROV015",
+          "findings_preview": "L4-L5: Broad-based disc bulge with mild left foraminal narrowing contacting the traversing left L5 nerve root. No central canal stenosis. L5-S1: Mild disc desiccation without significant bulge. Remain...",
+          "impressions": "1. L4-L5 disc bulge with mild left foraminal narrowing and left L5 nerve root contact, correlating with reported left lower extremity radiculopathy. 2. No central canal stenosis.",
+          "recommendations": "Physical therapy as initial conservative management. Neurosurgery or pain management referral if symptoms do not improve in 6-8 weeks.",
+          "critical_finding": "0",
+          "critical_finding_description": "",
+          "status": "final",
+          "created_at": "2026-01-28T14:00:00",
+          "signed_at": "2026-01-28T16:00:00"
+        },
+        {
+          "id": "RPT004",
+          "report_id": "RPT004",
+          "exam_id": "EXAM004",
+          "radiologist_id": "PROV015",
+          "findings_preview": "Mild disc space narrowing at L4-L5 and L5-S1. Small anterior osteophytes at L3-L5. Normal vertebral body heights. No spondylolisthesis. SI joints appear normal.",
+          "impressions": "Mild degenerative changes of the lumbar spine.",
+          "recommendations": "MRI recommended if symptoms persist or neurological deficits develop.",
+          "critical_finding": "0",
+          "critical_finding_description": "",
+          "status": "final",
+          "created_at": "2025-12-10T14:00:00",
+          "signed_at": "2025-12-10T16:00:00"
+        }
+      ]
+    }
+  ]
+}

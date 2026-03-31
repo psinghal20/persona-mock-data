@@ -1,0 +1,82 @@
+{
+  "persona_id": "persona_022",
+  "patient_id": "PAT022",
+  "server_id": "radiology_info_system",
+  "server_name": "Radiology Information System",
+  "summary": {
+    "total_items": 3,
+    "category_count": 3
+  },
+  "categories": [
+    {
+      "id": "radiology_orders",
+      "name": "Radiology Orders",
+      "item_count": 1,
+      "primary": true,
+      "items": [
+        {
+          "id": "RORD007",
+          "order_id": "RORD007",
+          "patient_id": "PAT022",
+          "ordering_provider_id": "PROV010",
+          "encounter_id": "ENC011",
+          "modality": "MR",
+          "body_part": "Brain",
+          "protocol": "Without and with contrast",
+          "clinical_indication": "Migraine - rule out secondary causes",
+          "urgency": "routine",
+          "status": "completed",
+          "auth_id": "AUTH007",
+          "ordered_date": "2026-02-01",
+          "scheduled_date": "2026-02-05",
+          "completed_date": "2026-02-05"
+        }
+      ]
+    },
+    {
+      "id": "exams",
+      "name": "Exams",
+      "item_count": 1,
+      "primary": false,
+      "items": [
+        {
+          "id": "EXAM007",
+          "exam_id": "EXAM007",
+          "order_id": "RORD007",
+          "patient_id": "PAT022",
+          "performing_radiologist_id": "PROV010",
+          "modality": "MR",
+          "body_part": "Brain",
+          "protocol": "Without and with contrast",
+          "accession_number": "ACC202610007",
+          "dicom_study_uid": "1.2.840.10008.100007",
+          "exam_date": "2026-02-05",
+          "status": "completed",
+          "department_id": "DEPT012"
+        }
+      ]
+    },
+    {
+      "id": "radiology_reports",
+      "name": "Radiology Reports",
+      "item_count": 1,
+      "primary": false,
+      "items": [
+        {
+          "id": "RPT007",
+          "report_id": "RPT007",
+          "exam_id": "EXAM007",
+          "radiologist_id": "PROV010",
+          "findings_preview": "No intracranial mass, hemorrhage, or acute infarct. Ventricles and sulci are normal in size and configuration. No abnormal enhancement. No restricted diffusion. Normal flow voids in the major intracra...",
+          "impressions": "Normal MRI of the brain without and with contrast. No structural cause for headaches identified.",
+          "recommendations": "Clinical correlation. Consider cervical spine MRI if headaches persist.",
+          "critical_finding": "0",
+          "critical_finding_description": "",
+          "status": "final",
+          "created_at": "2026-02-05T14:00:00",
+          "signed_at": "2026-02-05T16:00:00"
+        }
+      ]
+    }
+  ]
+}

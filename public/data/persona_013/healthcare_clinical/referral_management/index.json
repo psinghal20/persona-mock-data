@@ -1,0 +1,40 @@
+{
+  "persona_id": "persona_013",
+  "patient_id": "PAT013",
+  "server_id": "referral_management",
+  "server_name": "Referral Management",
+  "summary": {
+    "total_items": 1,
+    "category_count": 1
+  },
+  "categories": [
+    {
+      "id": "referrals",
+      "name": "Referrals",
+      "item_count": 1,
+      "primary": true,
+      "items": [
+        {
+          "id": "REF005",
+          "referral_id": "REF005",
+          "patient_id": "PAT013",
+          "referring_provider_id": "PROV007",
+          "receiving_provider_id": "SPEC002",
+          "referring_dept_id": "DEPT004",
+          "receiving_dept_id": "",
+          "encounter_id": "ENC007",
+          "reason": "Low back pain - PT for core strengthening",
+          "clinical_notes": "Patient with L4-L5 disc bulge on MRI with left L5 radiculopathy. Conservative management with PT for core stabilization and McKenzie protocol.",
+          "icd10_code": "M54.5",
+          "urgency": "routine",
+          "status": "scheduled",
+          "auth_id": "",
+          "created_date": "2026-01-25",
+          "sent_date": "2026-01-26",
+          "scheduled_date": "2026-02-20",
+          "completed_date": ""
+        }
+      ]
+    }
+  ]
+}

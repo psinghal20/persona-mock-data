@@ -1,0 +1,84 @@
+{
+  "persona_id": "persona_031",
+  "patient_id": "PAT031",
+  "server_id": "prior_auth",
+  "server_name": "Prior Authorization",
+  "summary": {
+    "total_items": 3,
+    "category_count": 3
+  },
+  "categories": [
+    {
+      "id": "patient_coverage",
+      "name": "Insurance Coverage",
+      "item_count": 1,
+      "primary": true,
+      "items": [
+        {
+          "id": "COV011",
+          "coverage_id": "COV011",
+          "patient_id": "PAT031",
+          "payer_id": "PAY001",
+          "plan_id": "PAY001_STANDARD",
+          "plan_name": "Blue Cross Blue Shield Standard PPO",
+          "member_id": "MBR491735568",
+          "group_number": "GRP498591",
+          "effective_date": "2025-01-01",
+          "termination_date": "",
+          "status": "active",
+          "copay_primary": "25",
+          "copay_specialist": "50",
+          "deductible": "1000",
+          "deductible_met": "222.38",
+          "out_of_pocket_max": "5000",
+          "oop_met": "508.55",
+          "coinsurance_rate": "0.2"
+        }
+      ]
+    },
+    {
+      "id": "prior_authorizations",
+      "name": "Prior Authorizations",
+      "item_count": 1,
+      "primary": false,
+      "items": [
+        {
+          "id": "AUTH010",
+          "auth_id": "AUTH010",
+          "patient_id": "PAT031",
+          "requesting_provider_id": "PROV009",
+          "payer_id": "PAY001",
+          "service_type": "imaging",
+          "cpt_code": "76805",
+          "icd10_code": "Z33.1",
+          "description": "Ultrasound pregnant uterus",
+          "status": "approved",
+          "urgency": "routine",
+          "requested_date": "2026-02-02",
+          "determination_date": "2026-02-07",
+          "expiration_date": "2026-05-08",
+          "approved_units": "12",
+          "notes": "Authorization approved per clinical criteria"
+        }
+      ]
+    },
+    {
+      "id": "determination_letters",
+      "name": "Determination Letters",
+      "item_count": 1,
+      "primary": false,
+      "items": [
+        {
+          "id": "LTR008",
+          "letter_id": "LTR008",
+          "auth_id": "AUTH010",
+          "determination": "approved",
+          "reason": "Requested service meets clinical criteria for coverage. Authorization valid through 2026-05-08.",
+          "appeal_deadline": "",
+          "appeal_instructions": "",
+          "letter_date": "2026-02-07"
+        }
+      ]
+    }
+  ]
+}

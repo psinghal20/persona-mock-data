@@ -1,0 +1,150 @@
+{
+  "persona_id": "persona_023",
+  "patient_id": "PAT023",
+  "server_id": "lab_info_system",
+  "server_name": "Lab Information System",
+  "summary": {
+    "total_items": 8,
+    "category_count": 3
+  },
+  "categories": [
+    {
+      "id": "lab_orders",
+      "name": "Lab Orders",
+      "item_count": 2,
+      "primary": true,
+      "items": [
+        {
+          "id": "ORD02301",
+          "order_id": "ORD02301",
+          "patient_id": "PAT023",
+          "ordering_provider_id": "PROV001",
+          "encounter_id": "ENC02301",
+          "order_date": "2026-02-04",
+          "status": "completed",
+          "priority": "routine",
+          "clinical_indication": "Monitoring - Allergic rhinitis, unspecified",
+          "department_id": "DEPT001"
+        },
+        {
+          "id": "ORD02302",
+          "order_id": "ORD02302",
+          "patient_id": "PAT023",
+          "ordering_provider_id": "PROV001",
+          "encounter_id": "ENC02302",
+          "order_date": "2025-10-10",
+          "status": "completed",
+          "priority": "routine",
+          "clinical_indication": "Monitoring - Allergic rhinitis, unspecified",
+          "department_id": "DEPT001"
+        }
+      ]
+    },
+    {
+      "id": "test_results",
+      "name": "Test Results",
+      "item_count": 4,
+      "primary": false,
+      "items": [
+        {
+          "id": "RES00047",
+          "result_id": "RES00047",
+          "order_id": "ORD02301",
+          "patient_id": "PAT023",
+          "test_name": "Creatinine",
+          "loinc_code": "2160-0",
+          "result_value": "1.0",
+          "result_unit": "mg/dL",
+          "reference_range": "0.7-1.3",
+          "abnormal_flag": "",
+          "critical_flag": "0",
+          "status": "final",
+          "resulted_at": "2026-02-06T23:54:15.986679",
+          "verified_by": "PROV001",
+          "notes": ""
+        },
+        {
+          "id": "RES00048",
+          "result_id": "RES00048",
+          "order_id": "ORD02301",
+          "patient_id": "PAT023",
+          "test_name": "BUN",
+          "loinc_code": "3094-0",
+          "result_value": "10",
+          "result_unit": "mg/dL",
+          "reference_range": "7-20",
+          "abnormal_flag": "",
+          "critical_flag": "0",
+          "status": "final",
+          "resulted_at": "2026-02-06T23:54:15.986679",
+          "verified_by": "PROV001",
+          "notes": ""
+        },
+        {
+          "id": "RES00049",
+          "result_id": "RES00049",
+          "order_id": "ORD02302",
+          "patient_id": "PAT023",
+          "test_name": "Creatinine",
+          "loinc_code": "2160-0",
+          "result_value": "1.1",
+          "result_unit": "mg/dL",
+          "reference_range": "0.7-1.3",
+          "abnormal_flag": "",
+          "critical_flag": "0",
+          "status": "final",
+          "resulted_at": "2025-10-11T23:54:15.986679",
+          "verified_by": "PROV001",
+          "notes": ""
+        },
+        {
+          "id": "RES00050",
+          "result_id": "RES00050",
+          "order_id": "ORD02302",
+          "patient_id": "PAT023",
+          "test_name": "BUN",
+          "loinc_code": "3094-0",
+          "result_value": "17",
+          "result_unit": "mg/dL",
+          "reference_range": "7-20",
+          "abnormal_flag": "",
+          "critical_flag": "0",
+          "status": "final",
+          "resulted_at": "2025-10-11T23:54:15.986679",
+          "verified_by": "PROV001",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "specimens",
+      "name": "Specimens",
+      "item_count": 2,
+      "primary": false,
+      "items": [
+        {
+          "id": "SPEC_ORD02301",
+          "specimen_id": "SPEC_ORD02301",
+          "order_id": "ORD02301",
+          "specimen_type": "Serum",
+          "collection_date": "2026-02-04",
+          "barcode": "BC10000012",
+          "status": "processed",
+          "collector_id": "PHLB001",
+          "notes": ""
+        },
+        {
+          "id": "SPEC_ORD02302",
+          "specimen_id": "SPEC_ORD02302",
+          "order_id": "ORD02302",
+          "specimen_type": "Serum",
+          "collection_date": "2025-10-10",
+          "barcode": "BC10000013",
+          "status": "processed",
+          "collector_id": "PHLB001",
+          "notes": ""
+        }
+      ]
+    }
+  ]
+}

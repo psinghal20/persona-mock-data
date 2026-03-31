@@ -1,0 +1,40 @@
+{
+  "persona_id": "USR001",
+  "patient_id": "PAT001",
+  "server_id": "referral_management",
+  "server_name": "Referral Management",
+  "summary": {
+    "total_items": 1,
+    "category_count": 1
+  },
+  "categories": [
+    {
+      "id": "referrals",
+      "name": "Referrals",
+      "item_count": 1,
+      "primary": true,
+      "items": [
+        {
+          "id": "REF001",
+          "referral_id": "REF001",
+          "patient_id": "PAT001",
+          "referring_provider_id": "PROV001",
+          "receiving_provider_id": "PROV014",
+          "referring_dept_id": "DEPT001",
+          "receiving_dept_id": "DEPT011",
+          "encounter_id": "ENC001",
+          "reason": "Diabetes management - A1c above target",
+          "clinical_notes": "Patient with T2DM, A1c 6.8% on metformin monotherapy. Needs endocrinology input on intensification strategy.",
+          "icd10_code": "E11.9",
+          "urgency": "routine",
+          "status": "completed",
+          "auth_id": "",
+          "created_date": "2026-01-15",
+          "sent_date": "2026-01-16",
+          "scheduled_date": "2026-02-05",
+          "completed_date": "2026-02-15"
+        }
+      ]
+    }
+  ]
+}

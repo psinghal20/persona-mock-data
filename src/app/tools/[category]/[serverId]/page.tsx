@@ -11,12 +11,14 @@ interface PageProps {
 const CATEGORY_NAMES: Record<string, string> = {
   shopping: "Shopping",
   medical: "Medical",
+  clinical: "Clinical",
   professional: "Professional Work",
 };
 
 const CATEGORY_TOOLS_FILES: Record<string, string> = {
   shopping: "shopping-tools.json",
   medical: "healthcare-tools.json",
+  clinical: "healthcare-clinical-tools.json",
 };
 
 function formatServerName(serverId: string): string {

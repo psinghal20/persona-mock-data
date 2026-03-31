@@ -1,0 +1,148 @@
+{
+  "persona_id": "persona_009",
+  "patient_id": "PAT009",
+  "server_id": "radiology_info_system",
+  "server_name": "Radiology Information System",
+  "summary": {
+    "total_items": 7,
+    "category_count": 4
+  },
+  "categories": [
+    {
+      "id": "radiology_orders",
+      "name": "Radiology Orders",
+      "item_count": 2,
+      "primary": true,
+      "items": [
+        {
+          "id": "RORD003",
+          "order_id": "RORD003",
+          "patient_id": "PAT009",
+          "ordering_provider_id": "PROV005",
+          "encounter_id": "ENC004",
+          "modality": "XR",
+          "body_part": "Knee Left",
+          "protocol": "3 views",
+          "clinical_indication": "Osteoarthritis evaluation",
+          "urgency": "routine",
+          "status": "completed",
+          "auth_id": "AUTH003",
+          "ordered_date": "2026-01-18",
+          "scheduled_date": "2026-01-18",
+          "completed_date": "2026-01-18"
+        },
+        {
+          "id": "RORD002",
+          "order_id": "RORD002",
+          "patient_id": "PAT009",
+          "ordering_provider_id": "PROV005",
+          "encounter_id": "ENC005",
+          "modality": "XR",
+          "body_part": "Chest",
+          "protocol": "PA and Lateral",
+          "clinical_indication": "Chest discomfort - evaluate cardiac silhouette",
+          "urgency": "routine",
+          "status": "completed",
+          "auth_id": "",
+          "ordered_date": "2025-11-15",
+          "scheduled_date": "2025-11-15",
+          "completed_date": "2025-11-15"
+        }
+      ]
+    },
+    {
+      "id": "exams",
+      "name": "Exams",
+      "item_count": 2,
+      "primary": false,
+      "items": [
+        {
+          "id": "EXAM003",
+          "exam_id": "EXAM003",
+          "order_id": "RORD003",
+          "patient_id": "PAT009",
+          "performing_radiologist_id": "PROV007",
+          "modality": "XR",
+          "body_part": "Knee Left",
+          "protocol": "3 views",
+          "accession_number": "ACC202610003",
+          "dicom_study_uid": "1.2.840.10008.100003",
+          "exam_date": "2026-01-18",
+          "status": "completed",
+          "department_id": "DEPT012"
+        },
+        {
+          "id": "EXAM002",
+          "exam_id": "EXAM002",
+          "order_id": "RORD002",
+          "patient_id": "PAT009",
+          "performing_radiologist_id": "PROV015",
+          "modality": "XR",
+          "body_part": "Chest",
+          "protocol": "PA and Lateral",
+          "accession_number": "ACC202510002",
+          "dicom_study_uid": "1.2.840.10008.100002",
+          "exam_date": "2025-11-15",
+          "status": "completed",
+          "department_id": "DEPT012"
+        }
+      ]
+    },
+    {
+      "id": "critical_findings",
+      "name": "Critical Findings",
+      "item_count": 1,
+      "primary": false,
+      "items": [
+        {
+          "id": "CRIT001",
+          "finding_id": "CRIT001",
+          "report_id": "RPT002",
+          "patient_id": "PAT009",
+          "ordering_provider_id": "PROV005",
+          "finding_description": "Mild cardiomegaly in patient with known coronary artery disease",
+          "severity": "moderate",
+          "communicated_to": "PROV005",
+          "communicated_at": "2025-11-15T16:30:00",
+          "acknowledgement_status": "acknowledged"
+        }
+      ]
+    },
+    {
+      "id": "radiology_reports",
+      "name": "Radiology Reports",
+      "item_count": 2,
+      "primary": false,
+      "items": [
+        {
+          "id": "RPT003",
+          "report_id": "RPT003",
+          "exam_id": "EXAM003",
+          "radiologist_id": "PROV007",
+          "findings_preview": "Moderate joint space narrowing of the medial compartment. Small marginal osteophytes at the medial and lateral tibial plateaus. No fracture or dislocation. Mild patellofemoral joint space narrowing.",
+          "impressions": "Moderate degenerative changes of the left knee, predominantly involving the medial compartment, consistent with osteoarthritis.",
+          "recommendations": "MRI may be considered for further evaluation if surgical intervention is being considered.",
+          "critical_finding": "0",
+          "critical_finding_description": "",
+          "status": "final",
+          "created_at": "2026-01-18T14:00:00",
+          "signed_at": "2026-01-18T16:00:00"
+        },
+        {
+          "id": "RPT002",
+          "report_id": "RPT002",
+          "exam_id": "EXAM002",
+          "radiologist_id": "PROV015",
+          "findings_preview": "Mild cardiomegaly with cardiothoracic ratio of 0.55. Lungs are clear without focal consolidation. No pleural effusion. Mild aortic calcification noted. No acute osseous abnormality.",
+          "impressions": "1. Mild cardiomegaly. 2. Atherosclerotic changes of the aorta. No acute cardiopulmonary process.",
+          "recommendations": "Clinical correlation with cardiac history recommended. Consider echocardiogram if not recently performed.",
+          "critical_finding": "1",
+          "critical_finding_description": "Mild cardiomegaly in patient with known CAD",
+          "status": "final",
+          "created_at": "2025-11-15T14:00:00",
+          "signed_at": "2025-11-15T16:00:00"
+        }
+      ]
+    }
+  ]
+}

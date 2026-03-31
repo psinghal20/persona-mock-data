@@ -779,23 +779,9 @@
         ]
       },
       {
-        "id": "renpho",
-        "name": "Renpho Scale",
-        "item_count": 20,
-        "category_count": 1,
-        "primary_category": "Body Measurements",
-        "categories": [
-          {
-            "id": "measurements",
-            "name": "Body Measurements",
-            "count": 20
-          }
-        ]
-      },
-      {
         "id": "athenahealth",
         "name": "Athenahealth EHR",
-        "item_count": 15,
+        "item_count": 21,
         "category_count": 7,
         "primary_category": "Medical Conditions",
         "categories": [
@@ -827,12 +813,26 @@
           {
             "id": "vitals",
             "name": "Vitals",
-            "count": 2
+            "count": 8
           },
           {
             "id": "labs",
             "name": "Lab Results",
             "count": 6
+          }
+        ]
+      },
+      {
+        "id": "renpho",
+        "name": "Renpho Scale",
+        "item_count": 20,
+        "category_count": 1,
+        "primary_category": "Body Measurements",
+        "categories": [
+          {
+            "id": "measurements",
+            "name": "Body Measurements",
+            "count": 20
           }
         ]
       },
@@ -867,8 +867,226 @@
       }
     ],
     "stats": {
-      "total_items": 958,
+      "total_items": 964,
       "servers_count": 10
+    }
+  },
+  "healthcare_clinical": {
+    "servers": [
+      {
+        "id": "athenahealth",
+        "name": "Athenahealth EHR",
+        "patient_id": "PAT027",
+        "item_count": 27,
+        "category_count": 9,
+        "primary_category": "Problems/Diagnoses",
+        "categories": [
+          {
+            "id": "problems",
+            "name": "Problems/Diagnoses",
+            "count": 2
+          },
+          {
+            "id": "allergies",
+            "name": "Allergies",
+            "count": 1
+          },
+          {
+            "id": "prescriptions",
+            "name": "Prescriptions",
+            "count": 2
+          },
+          {
+            "id": "encounters",
+            "name": "Encounters",
+            "count": 1
+          },
+          {
+            "id": "vitals",
+            "name": "Vitals",
+            "count": 8
+          },
+          {
+            "id": "labs",
+            "name": "Lab Results",
+            "count": 6
+          },
+          {
+            "id": "pharmacogenomics",
+            "name": "Pharmacogenomics",
+            "count": 3
+          },
+          {
+            "id": "health_risks",
+            "name": "Health Risk Assessments",
+            "count": 2
+          },
+          {
+            "id": "carrier_status",
+            "name": "Carrier Status",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "id": "lab_info_system",
+        "name": "Lab Information System",
+        "patient_id": "PAT027",
+        "item_count": 10,
+        "category_count": 3,
+        "primary_category": "Lab Orders",
+        "categories": [
+          {
+            "id": "lab_orders",
+            "name": "Lab Orders",
+            "count": 2
+          },
+          {
+            "id": "test_results",
+            "name": "Test Results",
+            "count": 6
+          },
+          {
+            "id": "specimens",
+            "name": "Specimens",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "id": "e_prescribing",
+        "name": "E-Prescribing",
+        "patient_id": "PAT027",
+        "item_count": 5,
+        "category_count": 2,
+        "primary_category": "Prescriptions",
+        "categories": [
+          {
+            "id": "prescriptions",
+            "name": "Prescriptions",
+            "count": 2
+          },
+          {
+            "id": "medication_history",
+            "name": "Medication History",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "id": "prior_auth",
+        "name": "Prior Authorization",
+        "patient_id": "PAT027",
+        "item_count": 5,
+        "category_count": 3,
+        "primary_category": "Insurance Coverage",
+        "categories": [
+          {
+            "id": "patient_coverage",
+            "name": "Insurance Coverage",
+            "count": 1
+          },
+          {
+            "id": "prior_authorizations",
+            "name": "Prior Authorizations",
+            "count": 2
+          },
+          {
+            "id": "determination_letters",
+            "name": "Determination Letters",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "id": "referral_management",
+        "name": "Referral Management",
+        "patient_id": "PAT027",
+        "item_count": 5,
+        "category_count": 2,
+        "primary_category": "Referrals",
+        "categories": [
+          {
+            "id": "referrals",
+            "name": "Referrals",
+            "count": 2
+          },
+          {
+            "id": "econsult_messages",
+            "name": "E-Consult Messages",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "id": "radiology_info_system",
+        "name": "Radiology Information System",
+        "patient_id": "PAT027",
+        "item_count": 4,
+        "category_count": 3,
+        "primary_category": "Radiology Orders",
+        "categories": [
+          {
+            "id": "radiology_orders",
+            "name": "Radiology Orders",
+            "count": 2
+          },
+          {
+            "id": "exams",
+            "name": "Exams",
+            "count": 1
+          },
+          {
+            "id": "radiology_reports",
+            "name": "Radiology Reports",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "medical_billing_claims",
+        "name": "Medical Billing & Claims",
+        "patient_id": "PAT027",
+        "item_count": 2,
+        "category_count": 2,
+        "primary_category": "Claims",
+        "categories": [
+          {
+            "id": "claims",
+            "name": "Claims",
+            "count": 1
+          },
+          {
+            "id": "denials",
+            "name": "Denials",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "id": "clinical_documentation",
+        "name": "Clinical Documentation",
+        "patient_id": "PAT027",
+        "item_count": 2,
+        "category_count": 2,
+        "primary_category": "Clinical Notes",
+        "categories": [
+          {
+            "id": "clinical_notes",
+            "name": "Clinical Notes",
+            "count": 1
+          },
+          {
+            "id": "note_addenda",
+            "name": "Note Addenda",
+            "count": 1
+          }
+        ]
+      }
+    ],
+    "stats": {
+      "total_items": 60,
+      "servers_count": 8
     }
   },
   "obsidian": {

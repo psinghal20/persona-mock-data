@@ -1,0 +1,38 @@
+{
+  "persona_id": "persona_031",
+  "patient_id": "PAT031",
+  "server_id": "clinical_documentation",
+  "server_name": "Clinical Documentation",
+  "summary": {
+    "total_items": 1,
+    "category_count": 1
+  },
+  "categories": [
+    {
+      "id": "clinical_notes",
+      "name": "Clinical Notes",
+      "item_count": 1,
+      "primary": true,
+      "items": [
+        {
+          "id": "NOTE014",
+          "note_id": "NOTE014",
+          "patient_id": "PAT031",
+          "encounter_id": "ENC014",
+          "provider_id": "PROV009",
+          "note_type": "progress_note",
+          "subjective_preview": "Patient presents for 24-week prenatal visit. Feeling well overall. Reports active fetal movement throughout the day. No vaginal bleeding or leakage of...",
+          "objective_preview": "Vitals: BP 118/72 mmHg, HR 80 bpm, Temp 98.4F, Wt 162 lbs (pre-pregnancy 148 lbs, weight gain 14 lbs). Fundal height: 24 cm - appropriate for gestatio...",
+          "assessment": "1. Intrauterine pregnancy at 24 weeks - progressing normally\n2. Carpal tunnel syndrome of pregnancy - bilateral, mild",
+          "plan": "1. Anatomy ultrasound ordered for detailed fetal survey\n2. Wrist splints for carpal tunnel, especially nighttime use\n3. Glucose challenge test (1-hour GCT) at 28-week visit\n4. Continue prenatal vitamins and iron supplementation\n5. Kick count education provided - count to 10 movements, should take <2 hours\n6. Return in 4 weeks for 28-week visit",
+          "icd10_codes": "Z34.02,O26.843",
+          "cpt_codes": "59426",
+          "status": "signed",
+          "created_at": "2026-01-25T10:00:00",
+          "signed_at": "2026-01-25T11:00:00",
+          "signed_by": "PROV009"
+        }
+      ]
+    }
+  ]
+}

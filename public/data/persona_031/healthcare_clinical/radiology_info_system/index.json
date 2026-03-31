@@ -1,0 +1,82 @@
+{
+  "persona_id": "persona_031",
+  "patient_id": "PAT031",
+  "server_id": "radiology_info_system",
+  "server_name": "Radiology Information System",
+  "summary": {
+    "total_items": 3,
+    "category_count": 3
+  },
+  "categories": [
+    {
+      "id": "radiology_orders",
+      "name": "Radiology Orders",
+      "item_count": 1,
+      "primary": true,
+      "items": [
+        {
+          "id": "RORD010",
+          "order_id": "RORD010",
+          "patient_id": "PAT031",
+          "ordering_provider_id": "PROV009",
+          "encounter_id": "ENC014",
+          "modality": "US",
+          "body_part": "Pelvis OB",
+          "protocol": "Anatomy survey",
+          "clinical_indication": "24 week prenatal anatomy scan",
+          "urgency": "routine",
+          "status": "completed",
+          "auth_id": "AUTH010",
+          "ordered_date": "2026-01-25",
+          "scheduled_date": "2026-01-27",
+          "completed_date": "2026-01-27"
+        }
+      ]
+    },
+    {
+      "id": "exams",
+      "name": "Exams",
+      "item_count": 1,
+      "primary": false,
+      "items": [
+        {
+          "id": "EXAM009",
+          "exam_id": "EXAM009",
+          "order_id": "RORD010",
+          "patient_id": "PAT031",
+          "performing_radiologist_id": "PROV009",
+          "modality": "US",
+          "body_part": "Pelvis OB",
+          "protocol": "Anatomy survey",
+          "accession_number": "ACC202610009",
+          "dicom_study_uid": "1.2.840.10008.100009",
+          "exam_date": "2026-01-27",
+          "status": "completed",
+          "department_id": "DEPT012"
+        }
+      ]
+    },
+    {
+      "id": "radiology_reports",
+      "name": "Radiology Reports",
+      "item_count": 1,
+      "primary": false,
+      "items": [
+        {
+          "id": "RPT009",
+          "report_id": "RPT009",
+          "exam_id": "EXAM009",
+          "radiologist_id": "PROV009",
+          "findings_preview": "Single live intrauterine pregnancy. Fetal heart rate 145 bpm. Estimated gestational age 24 weeks 2 days consistent with dates. Amniotic fluid index 14 cm, normal. Placenta is anterior, not low-lying. ...",
+          "impressions": "Normal 24-week anatomy scan. Single viable intrauterine pregnancy with normal biometry and anatomy survey.",
+          "recommendations": "Routine follow-up per obstetric schedule.",
+          "critical_finding": "0",
+          "critical_finding_description": "",
+          "status": "final",
+          "created_at": "2026-01-27T14:00:00",
+          "signed_at": "2026-01-27T16:00:00"
+        }
+      ]
+    }
+  ]
+}

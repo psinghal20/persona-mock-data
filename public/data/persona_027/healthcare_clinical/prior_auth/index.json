@@ -1,0 +1,112 @@
+{
+  "persona_id": "persona_027",
+  "patient_id": "PAT027",
+  "server_id": "prior_auth",
+  "server_name": "Prior Authorization",
+  "summary": {
+    "total_items": 5,
+    "category_count": 3
+  },
+  "categories": [
+    {
+      "id": "patient_coverage",
+      "name": "Insurance Coverage",
+      "item_count": 1,
+      "primary": true,
+      "items": [
+        {
+          "id": "COV010",
+          "coverage_id": "COV010",
+          "patient_id": "PAT027",
+          "payer_id": "PAY006",
+          "plan_id": "PAY006_STANDARD",
+          "plan_name": "Aetna Standard PPO",
+          "member_id": "MBR930075810",
+          "group_number": "GRP838797",
+          "effective_date": "2025-01-01",
+          "termination_date": "",
+          "status": "active",
+          "copay_primary": "30",
+          "copay_specialist": "75",
+          "deductible": "2000",
+          "deductible_met": "111.29",
+          "out_of_pocket_max": "6000",
+          "oop_met": "529.01",
+          "coinsurance_rate": "0.2"
+        }
+      ]
+    },
+    {
+      "id": "prior_authorizations",
+      "name": "Prior Authorizations",
+      "item_count": 2,
+      "primary": false,
+      "items": [
+        {
+          "id": "AUTH008",
+          "auth_id": "AUTH008",
+          "patient_id": "PAT027",
+          "requesting_provider_id": "PROV003",
+          "payer_id": "PAY006",
+          "service_type": "imaging",
+          "cpt_code": "74183",
+          "icd10_code": "K70.30",
+          "description": "MRI abdomen with and without contrast",
+          "status": "approved",
+          "urgency": "urgent",
+          "requested_date": "2026-01-30",
+          "determination_date": "2026-02-03",
+          "expiration_date": "2026-05-04",
+          "approved_units": "3",
+          "notes": "Authorization approved per clinical criteria"
+        },
+        {
+          "id": "AUTH009",
+          "auth_id": "AUTH009",
+          "patient_id": "PAT027",
+          "requesting_provider_id": "PROV003",
+          "payer_id": "PAY006",
+          "service_type": "procedure",
+          "cpt_code": "",
+          "icd10_code": "K70.30",
+          "description": "Claim appeal - additional documentation",
+          "status": "denied",
+          "urgency": "routine",
+          "requested_date": "2026-01-18",
+          "determination_date": "2026-01-21",
+          "expiration_date": "",
+          "approved_units": "0",
+          "notes": "Submitted documentation does not support medical necessity for the level of service billed"
+        }
+      ]
+    },
+    {
+      "id": "determination_letters",
+      "name": "Determination Letters",
+      "item_count": 2,
+      "primary": false,
+      "items": [
+        {
+          "id": "LTR006",
+          "letter_id": "LTR006",
+          "auth_id": "AUTH008",
+          "determination": "approved",
+          "reason": "Requested service meets clinical criteria for coverage. Authorization valid through 2026-05-04.",
+          "appeal_deadline": "",
+          "appeal_instructions": "",
+          "letter_date": "2026-02-03"
+        },
+        {
+          "id": "LTR007",
+          "letter_id": "LTR007",
+          "auth_id": "AUTH009",
+          "determination": "denied",
+          "reason": "Submitted documentation does not support medical necessity for the level of service billed",
+          "appeal_deadline": "2026-03-23",
+          "appeal_instructions": "To appeal this determination, submit a written request within 60 days of this letter along with supporting clinical documentation to the address listed on this letter. Include the authorization ID and a letter of medical necessity from the treating provider.",
+          "letter_date": "2026-01-22"
+        }
+      ]
+    }
+  ]
+}

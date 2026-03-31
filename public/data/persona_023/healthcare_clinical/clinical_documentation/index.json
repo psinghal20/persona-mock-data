@@ -1,0 +1,38 @@
+{
+  "persona_id": "persona_023",
+  "patient_id": "PAT023",
+  "server_id": "clinical_documentation",
+  "server_name": "Clinical Documentation",
+  "summary": {
+    "total_items": 1,
+    "category_count": 1
+  },
+  "categories": [
+    {
+      "id": "clinical_notes",
+      "name": "Clinical Notes",
+      "item_count": 1,
+      "primary": true,
+      "items": [
+        {
+          "id": "NOTE012",
+          "note_id": "NOTE012",
+          "patient_id": "PAT023",
+          "encounter_id": "ENC012",
+          "provider_id": "PROV008",
+          "note_type": "progress_note",
+          "subjective_preview": "15-year-old male presents for sports physical clearance for high school basketball team. No current complaints. Active and healthy. Denies chest pain,...",
+          "objective_preview": "Vitals: BP 110/68 mmHg, HR 66 bpm, Temp 98.6F, Ht 5'10\", Wt 155 lbs, BMI 22.2. General: Well-developed, athletic-appearing adolescent. HEENT: Normal. ...",
+          "assessment": "Healthy adolescent - cleared for sports participation without restrictions",
+          "plan": "1. Cleared for full sports participation including basketball\n2. Continue loratadine PRN for allergic rhinitis during outdoor activities\n3. Discussed importance of proper warm-up, hydration, and protective equipment\n4. Return for any injuries or new symptoms\n5. Next annual physical in 12 months",
+          "icd10_codes": "Z02.5",
+          "cpt_codes": "99394",
+          "status": "signed",
+          "created_at": "2026-01-15T15:00:00",
+          "signed_at": "2026-01-15T16:00:00",
+          "signed_by": "PROV008"
+        }
+      ]
+    }
+  ]
+}

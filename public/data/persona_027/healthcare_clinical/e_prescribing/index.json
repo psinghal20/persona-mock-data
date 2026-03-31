@@ -1,0 +1,118 @@
+{
+  "persona_id": "persona_027",
+  "patient_id": "PAT027",
+  "server_id": "e_prescribing",
+  "server_name": "E-Prescribing",
+  "summary": {
+    "total_items": 5,
+    "category_count": 2
+  },
+  "categories": [
+    {
+      "id": "prescriptions",
+      "name": "Prescriptions",
+      "item_count": 2,
+      "primary": true,
+      "items": [
+        {
+          "id": "RX02701",
+          "rx_id": "RX02701",
+          "patient_id": "PAT027",
+          "prescriber_id": "PROV001",
+          "medication_name": "Spironolactone",
+          "ndc_code": "00093-0175-01",
+          "rxnorm_code": "313096",
+          "dosage": "50mg",
+          "frequency": "once daily",
+          "route": "oral",
+          "quantity": "30",
+          "refills": "5",
+          "pharmacy_id": "PHARM004",
+          "status": "picked_up",
+          "written_date": "2022-09-01",
+          "sent_date": "2022-09-01",
+          "fill_date": "2022-09-02",
+          "pickup_date": "2022-09-03",
+          "expiration_date": "2023-09-01"
+        },
+        {
+          "id": "RX02702",
+          "rx_id": "RX02702",
+          "patient_id": "PAT027",
+          "prescriber_id": "PROV001",
+          "medication_name": "Lactulose",
+          "ndc_code": "00054-3057-63",
+          "rxnorm_code": "197696",
+          "dosage": "30ml",
+          "frequency": "three times daily",
+          "route": "oral",
+          "quantity": "30",
+          "refills": "3",
+          "pharmacy_id": "PHARM004",
+          "status": "picked_up",
+          "written_date": "2022-09-01",
+          "sent_date": "2022-09-01",
+          "fill_date": "2022-09-02",
+          "pickup_date": "2022-09-03",
+          "expiration_date": "2023-09-01"
+        }
+      ]
+    },
+    {
+      "id": "medication_history",
+      "name": "Medication History",
+      "item_count": 3,
+      "primary": false,
+      "items": [
+        {
+          "id": "HIST0015",
+          "history_id": "HIST0015",
+          "patient_id": "PAT027",
+          "medication_name": "Spironolactone",
+          "prescriber_name": "Dr. Sarah Chen",
+          "prescriber_npi": "1234567890",
+          "source": "surescripts",
+          "dosage": "50mg",
+          "frequency": "once daily",
+          "start_date": "2022-09-01",
+          "end_date": "",
+          "status": "active",
+          "pharmacy_name": "Memorial Hospital Pharmacy",
+          "notes": "For ascites prevention, potassium-sparing"
+        },
+        {
+          "id": "HIST0016",
+          "history_id": "HIST0016",
+          "patient_id": "PAT027",
+          "medication_name": "Lactulose",
+          "prescriber_name": "Dr. Sarah Chen",
+          "prescriber_npi": "1234567890",
+          "source": "surescripts",
+          "dosage": "30ml",
+          "frequency": "three times daily",
+          "start_date": "2022-09-01",
+          "end_date": "",
+          "status": "active",
+          "pharmacy_name": "Memorial Hospital Pharmacy",
+          "notes": "Hepatic encephalopathy prevention, titrate to 2-3 soft stools/day"
+        },
+        {
+          "id": "HIST0022",
+          "history_id": "HIST0022",
+          "patient_id": "PAT027",
+          "medication_name": "Furosemide",
+          "prescriber_name": "Dr. Emily Johnson",
+          "prescriber_npi": "1234567892",
+          "source": "surescripts",
+          "dosage": "40mg",
+          "frequency": "once daily",
+          "start_date": "2022-06-01",
+          "end_date": "2022-08-31",
+          "status": "discontinued",
+          "pharmacy_name": "Memorial Hospital Pharmacy",
+          "notes": "Switched to Spironolactone for potassium-sparing diuresis in cirrhosis management."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "persona_id": "persona_013",
+  "patient_id": "PAT013",
+  "server_id": "prior_auth",
+  "server_name": "Prior Authorization",
+  "summary": {
+    "total_items": 3,
+    "category_count": 3
+  },
+  "categories": [
+    {
+      "id": "patient_coverage",
+      "name": "Insurance Coverage",
+      "item_count": 1,
+      "primary": true,
+      "items": [
+        {
+          "id": "COV005",
+          "coverage_id": "COV005",
+          "patient_id": "PAT013",
+          "payer_id": "PAY003",
+          "plan_id": "PAY003_STANDARD",
+          "plan_name": "Medicare Part B",
+          "member_id": "MBR849621470",
+          "group_number": "",
+          "effective_date": "2024-01-01",
+          "termination_date": "",
+          "status": "active",
+          "copay_primary": "0.0",
+          "copay_specialist": "0.0",
+          "deductible": "240.0",
+          "deductible_met": "154.72",
+          "out_of_pocket_max": "0.0",
+          "oop_met": "0.0",
+          "coinsurance_rate": "0.2"
+        }
+      ]
+    },
+    {
+      "id": "prior_authorizations",
+      "name": "Prior Authorizations",
+      "item_count": 1,
+      "primary": false,
+      "items": [
+        {
+          "id": "AUTH004",
+          "auth_id": "AUTH004",
+          "patient_id": "PAT013",
+          "requesting_provider_id": "PROV007",
+          "payer_id": "PAY003",
+          "service_type": "imaging",
+          "cpt_code": "72148",
+          "icd10_code": "M54.5",
+          "description": "MRI lumbar spine without contrast",
+          "status": "approved",
+          "urgency": "routine",
+          "requested_date": "2026-01-24",
+          "determination_date": "2026-01-28",
+          "expiration_date": "2026-04-28",
+          "approved_units": "6",
+          "notes": "Authorization approved per clinical criteria"
+        }
+      ]
+    },
+    {
+      "id": "determination_letters",
+      "name": "Determination Letters",
+      "item_count": 1,
+      "primary": false,
+      "items": [
+        {
+          "id": "LTR003",
+          "letter_id": "LTR003",
+          "auth_id": "AUTH004",
+          "determination": "approved",
+          "reason": "Requested service meets clinical criteria for coverage. Authorization valid through 2026-04-28.",
+          "appeal_deadline": "",
+          "appeal_instructions": "",
+          "letter_date": "2026-01-29"
+        }
+      ]
+    }
+  ]
+}

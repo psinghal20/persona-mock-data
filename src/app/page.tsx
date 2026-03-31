@@ -56,10 +56,11 @@ async function getToolCategoryStats(category: string): Promise<{ servers: number
 }
 
 export default async function Home() {
-  const [personaStats, shoppingStats, medicalStats, professionalStats] = await Promise.all([
+  const [personaStats, shoppingStats, medicalStats, clinicalStats, professionalStats] = await Promise.all([
     getPersonaStats(),
     getToolCategoryStats("shopping"),
     getToolCategoryStats("medical"),
+    getToolCategoryStats("clinical"),
     getToolCategoryStats("professional"),
   ]);
 
@@ -110,6 +111,23 @@ export default async function Home() {
                   <span>{medicalStats.servers} Server{medicalStats.servers !== 1 ? "s" : ""}</span>
                   <span>•</span>
                   <span>{medicalStats.tools} Tool{medicalStats.tools !== 1 ? "s" : ""}</span>
+                </>
+              ) : (
+                <span>No data yet</span>
+              )}
+            </p>
+          </Link>
+
+          {/* Clinical Card */}
+          <Link href="/tools/clinical" className="category-card clinical">
+            <div className="card-icon">🩺</div>
+            <h2>Clinical</h2>
+            <p className="category-stats">
+              {clinicalStats.servers > 0 ? (
+                <>
+                  <span>{clinicalStats.servers} Server{clinicalStats.servers !== 1 ? "s" : ""}</span>
+                  <span>•</span>
+                  <span>{clinicalStats.tools} Tool{clinicalStats.tools !== 1 ? "s" : ""}</span>
                 </>
               ) : (
                 <span>No data yet</span>

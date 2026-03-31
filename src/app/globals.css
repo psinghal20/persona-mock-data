@@ -283,6 +283,10 @@ a {
   border-top-color: #22c55e;
 }
 
+.category-card.clinical {
+  border-top-color: #f59e0b;
+}
+
 .category-card.professional {
   border-top-color: #3b82f6;
 }

@@ -1,0 +1,81 @@
+{
+  "persona_id": "persona_014",
+  "patient_id": "PAT014",
+  "server_id": "e_prescribing",
+  "server_name": "E-Prescribing",
+  "summary": {
+    "total_items": 3,
+    "category_count": 2
+  },
+  "categories": [
+    {
+      "id": "prescriptions",
+      "name": "Prescriptions",
+      "item_count": 1,
+      "primary": true,
+      "items": [
+        {
+          "id": "RX01401",
+          "rx_id": "RX01401",
+          "patient_id": "PAT014",
+          "prescriber_id": "PROV001",
+          "medication_name": "Sertraline",
+          "ndc_code": "00093-7115-01",
+          "rxnorm_code": "312938",
+          "dosage": "50mg",
+          "frequency": "once daily",
+          "route": "oral",
+          "quantity": "30",
+          "refills": "5",
+          "pharmacy_id": "PHARM002",
+          "status": "picked_up",
+          "written_date": "2020-12-01",
+          "sent_date": "2020-12-01",
+          "fill_date": "2020-12-02",
+          "pickup_date": "2020-12-03",
+          "expiration_date": "2021-12-01"
+        }
+      ]
+    },
+    {
+      "id": "medication_history",
+      "name": "Medication History",
+      "item_count": 2,
+      "primary": false,
+      "items": [
+        {
+          "id": "HIST0010",
+          "history_id": "HIST0010",
+          "patient_id": "PAT014",
+          "medication_name": "Sertraline",
+          "prescriber_name": "Dr. Sarah Chen",
+          "prescriber_npi": "1234567890",
+          "source": "surescripts",
+          "dosage": "50mg",
+          "frequency": "once daily",
+          "start_date": "2020-12-01",
+          "end_date": "",
+          "status": "active",
+          "pharmacy_name": "Walgreens - Oak Ave",
+          "notes": "Anxiety management"
+        },
+        {
+          "id": "HIST0020",
+          "history_id": "HIST0020",
+          "patient_id": "PAT014",
+          "medication_name": "Sertraline",
+          "prescriber_name": "Dr. Daniel Martinez",
+          "prescriber_npi": "1234567901",
+          "source": "surescripts",
+          "dosage": "25mg",
+          "frequency": "once daily",
+          "start_date": "2020-10-01",
+          "end_date": "2020-11-30",
+          "status": "discontinued",
+          "pharmacy_name": "CVS Pharmacy - Main St",
+          "notes": "Titrated to 50mg after 2 months at starting dose"
+        }
+      ]
+    }
+  ]
+}

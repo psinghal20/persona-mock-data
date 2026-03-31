@@ -1,0 +1,102 @@
+{
+  "persona_id": "persona_016",
+  "patient_id": "PAT016",
+  "server_id": "e_prescribing",
+  "server_name": "E-Prescribing",
+  "summary": {
+    "total_items": 4,
+    "category_count": 2
+  },
+  "categories": [
+    {
+      "id": "prescriptions",
+      "name": "Prescriptions",
+      "item_count": 2,
+      "primary": true,
+      "items": [
+        {
+          "id": "RX01601",
+          "rx_id": "RX01601",
+          "patient_id": "PAT016",
+          "prescriber_id": "PROV001",
+          "medication_name": "Levothyroxine",
+          "ndc_code": "00378-1805-01",
+          "rxnorm_code": "966247",
+          "dosage": "50mcg",
+          "frequency": "once daily",
+          "route": "oral",
+          "quantity": "30",
+          "refills": "5",
+          "pharmacy_id": "PHARM001",
+          "status": "picked_up",
+          "written_date": "2023-06-15",
+          "sent_date": "2023-06-15",
+          "fill_date": "2023-06-16",
+          "pickup_date": "2023-06-17",
+          "expiration_date": "2024-06-14"
+        },
+        {
+          "id": "RX01602",
+          "rx_id": "RX01602",
+          "patient_id": "PAT016",
+          "prescriber_id": "PROV001",
+          "medication_name": "Metformin",
+          "ndc_code": "00093-7212-01",
+          "rxnorm_code": "860974",
+          "dosage": "500mg",
+          "frequency": "once daily",
+          "route": "oral",
+          "quantity": "30",
+          "refills": "3",
+          "pharmacy_id": "PHARM001",
+          "status": "picked_up",
+          "written_date": "2024-02-01",
+          "sent_date": "2024-02-01",
+          "fill_date": "2024-02-02",
+          "pickup_date": "2024-02-03",
+          "expiration_date": "2025-01-31"
+        }
+      ]
+    },
+    {
+      "id": "medication_history",
+      "name": "Medication History",
+      "item_count": 2,
+      "primary": false,
+      "items": [
+        {
+          "id": "HIST0012",
+          "history_id": "HIST0012",
+          "patient_id": "PAT016",
+          "medication_name": "Metformin",
+          "prescriber_name": "Dr. Sarah Chen",
+          "prescriber_npi": "1234567890",
+          "source": "surescripts",
+          "dosage": "500mg",
+          "frequency": "once daily",
+          "start_date": "2024-02-01",
+          "end_date": "",
+          "status": "active",
+          "pharmacy_name": "CVS Pharmacy - Main St",
+          "notes": "Starting dose, may titrate up"
+        },
+        {
+          "id": "HIST0011",
+          "history_id": "HIST0011",
+          "patient_id": "PAT016",
+          "medication_name": "Levothyroxine",
+          "prescriber_name": "Dr. Sarah Chen",
+          "prescriber_npi": "1234567890",
+          "source": "surescripts",
+          "dosage": "50mcg",
+          "frequency": "once daily",
+          "start_date": "2023-06-15",
+          "end_date": "",
+          "status": "active",
+          "pharmacy_name": "CVS Pharmacy - Main St",
+          "notes": "Take on empty stomach"
+        }
+      ]
+    }
+  ]
+}

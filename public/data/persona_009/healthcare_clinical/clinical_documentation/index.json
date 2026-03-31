@@ -1,0 +1,72 @@
+{
+  "persona_id": "persona_009",
+  "patient_id": "PAT009",
+  "server_id": "clinical_documentation",
+  "server_name": "Clinical Documentation",
+  "summary": {
+    "total_items": 3,
+    "category_count": 2
+  },
+  "categories": [
+    {
+      "id": "clinical_notes",
+      "name": "Clinical Notes",
+      "item_count": 2,
+      "primary": true,
+      "items": [
+        {
+          "id": "NOTE004",
+          "note_id": "NOTE004",
+          "patient_id": "PAT009",
+          "encounter_id": "ENC004",
+          "provider_id": "PROV005",
+          "note_type": "progress_note",
+          "subjective_preview": "Patient returns for cardiology follow-up. Reports feeling stable with no chest pain, palpitations, or dyspnea on exertion. Tolerating all cardiac medi...",
+          "objective_preview": "Vitals: BP 132/78 mmHg, HR 64 bpm, Temp 98.4F, SpO2 98%. Cardiovascular: Regular rhythm, no murmurs, gallops, or rubs. JVP not elevated. No peripheral...",
+          "assessment": "1. Coronary artery disease - stable, post-stent, on optimal medical therapy\n2. Hypercholesterolemia - LDL not at target on rosuvastatin 20mg\n3. Left knee osteoarthritis - progressive symptoms",
+          "plan": "1. Increase rosuvastatin from 20mg to 40mg daily\n2. Repeat lipid panel in 6 weeks to assess response\n3. Continue clopidogrel 75mg, metoprolol 50mg BID, amlodipine 5mg daily\n4. Refer to orthopedics (Dr. Thompson) for knee evaluation\n5. Left knee X-ray ordered\n6. Follow-up in 3 months",
+          "icd10_codes": "I25.10,E78.0,M17.11",
+          "cpt_codes": "99214",
+          "status": "signed",
+          "created_at": "2026-01-18T09:00:00",
+          "signed_at": "2026-01-18T10:00:00",
+          "signed_by": "PROV005"
+        },
+        {
+          "id": "NOTE005",
+          "note_id": "NOTE005",
+          "patient_id": "PAT009",
+          "encounter_id": "ENC005",
+          "provider_id": "PROV005",
+          "note_type": "h_and_p",
+          "subjective_preview": "Patient presents with intermittent chest tightness with exertion over the past 2 weeks. Episodes occur during walking uphill or climbing stairs, last ...",
+          "objective_preview": "Vitals: BP 128/76 mmHg, HR 68 bpm, Temp 98.5F, SpO2 99%. Cardiovascular: Regular rate and rhythm, S1/S2 normal, no S3/S4, no murmurs. Lungs: Clear bil...",
+          "assessment": "Atypical chest pain in setting of known CAD - need to rule out progression of coronary disease. Symptoms are exertional but atypical features (no radiation, short duration).",
+          "plan": "1. Order exercise stress test to evaluate for ischemia\n2. Continue all current cardiac medications\n3. PRN acetaminophen for musculoskeletal component\n4. Return for stress test results review\n5. If stress test positive, will proceed to cardiac catheterization",
+          "icd10_codes": "R07.9,I25.10",
+          "cpt_codes": "99215",
+          "status": "signed",
+          "created_at": "2025-11-15T10:00:00",
+          "signed_at": "2025-11-15T11:00:00",
+          "signed_by": "PROV005"
+        }
+      ]
+    },
+    {
+      "id": "note_addenda",
+      "name": "Note Addenda",
+      "item_count": 1,
+      "primary": false,
+      "items": [
+        {
+          "id": "ADD001",
+          "addendum_id": "ADD001",
+          "note_id": "NOTE004",
+          "provider_id": "PROV005",
+          "addendum_text": "Addendum: Lipid panel results reviewed. LDL 145 mg/dL remains above target of <70 for CAD patients. Rosuvastatin increased from 20mg to 40mg per phone call with patient. Orthopedic referral submitted for knee evaluation.",
+          "created_at": "2026-01-19T11:30:00"
+        }
+      ]
+    }
+  ]
+}

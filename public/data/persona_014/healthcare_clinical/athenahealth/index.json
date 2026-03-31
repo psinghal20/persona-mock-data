@@ -1,0 +1,315 @@
+{
+  "persona_id": "persona_014",
+  "patient_id": "PAT014",
+  "server_id": "athenahealth",
+  "server_name": "Athenahealth EHR",
+  "summary": {
+    "total_items": 16,
+    "category_count": 9
+  },
+  "categories": [
+    {
+      "id": "problems",
+      "name": "Problems/Diagnoses",
+      "item_count": 1,
+      "primary": false,
+      "items": [
+        {
+          "id": "PRB01401",
+          "problem_id": "PRB01401",
+          "patient_id": "PAT014",
+          "icd10_code": "F41.1",
+          "description": "Generalized anxiety disorder",
+          "onset_date": "2020-11-15",
+          "status": "active",
+          "severity": "mild",
+          "diagnosed_by": "PROV001",
+          "notes": "On SSRI therapy, well managed"
+        }
+      ]
+    },
+    {
+      "id": "allergies",
+      "name": "Allergies",
+      "item_count": 1,
+      "primary": false,
+      "items": [
+        {
+          "id": "ALG01401",
+          "allergy_id": "ALG01401",
+          "patient_id": "PAT014",
+          "allergen_name": "Dust mites",
+          "allergen_type": "environmental",
+          "reaction": "Allergic rhinitis",
+          "severity": "mild",
+          "onset_date": "2017-02-06",
+          "status": "active",
+          "notes": "Uses air purifier"
+        }
+      ]
+    },
+    {
+      "id": "prescriptions",
+      "name": "Prescriptions",
+      "item_count": 1,
+      "primary": false,
+      "items": [
+        {
+          "id": "RX01401",
+          "prescription_id": "RX01401",
+          "patient_id": "PAT014",
+          "provider_id": "PROV001",
+          "medication_name": "Sertraline",
+          "medication_id": "MED001",
+          "ndc": "00093-7115-01",
+          "dosage": "50mg",
+          "frequency": "once daily",
+          "route": "oral",
+          "quantity": "30",
+          "refills": "5",
+          "start_date": "2020-12-01",
+          "end_date": "",
+          "status": "active",
+          "pharmacy_name": "CVS Pharmacy",
+          "pharmacy_phone": "966-555-9863",
+          "notes": "Anxiety management",
+          "created_at": "2020-12-01T10:00:00"
+        }
+      ]
+    },
+    {
+      "id": "encounters",
+      "name": "Encounters",
+      "item_count": 1,
+      "primary": false,
+      "items": [
+        {
+          "id": "ENC009",
+          "encounter_id": "ENC009",
+          "patient_id": "PAT014",
+          "provider_id": "PROV012",
+          "department_id": "DEPT009",
+          "encounter_type": "Office Visit",
+          "encounter_date": "2026-01-28",
+          "start_time": "13:00",
+          "end_time": "13:45",
+          "status": "closed",
+          "chief_complaint": "Anxiety follow-up",
+          "assessment": "GAD stable on sertraline. Good response to therapy.",
+          "plan": "Continue sertraline 50mg. Continue CBT sessions.",
+          "notes": "Patient reports improved sleep",
+          "created_at": "2026-01-28T13:00:00",
+          "updated_at": "2026-01-28T13:45:00"
+        }
+      ]
+    },
+    {
+      "id": "vitals",
+      "name": "Vitals",
+      "item_count": 3,
+      "primary": false,
+      "items": [
+        {
+          "id": "VIT01401",
+          "vital_id": "VIT01401",
+          "patient_id": "PAT014",
+          "encounter_id": "ENC01401",
+          "recorded_at": "2026-02-04T23:54:15.986571",
+          "height_inches": "64",
+          "weight_lbs": "117",
+          "bmi": "20.1",
+          "temperature_f": "97.9",
+          "pulse": "74",
+          "respiratory_rate": "14",
+          "blood_pressure_systolic": "113",
+          "blood_pressure_diastolic": "74",
+          "oxygen_saturation": "99",
+          "pain_level": "0",
+          "notes": "",
+          "source": "in_office"
+        },
+        {
+          "id": "VIT01402",
+          "vital_id": "VIT01402",
+          "patient_id": "PAT014",
+          "encounter_id": "ENC01402",
+          "recorded_at": "2025-12-27T23:54:15.986571",
+          "height_inches": "64",
+          "weight_lbs": "119",
+          "bmi": "20.1",
+          "temperature_f": "97.9",
+          "pulse": "73",
+          "respiratory_rate": "14",
+          "blood_pressure_systolic": "110",
+          "blood_pressure_diastolic": "70",
+          "oxygen_saturation": "99",
+          "pain_level": "0",
+          "notes": "",
+          "source": "in_office"
+        },
+        {
+          "id": "VIT01403",
+          "vital_id": "VIT01403",
+          "patient_id": "PAT014",
+          "encounter_id": "ENC01403",
+          "recorded_at": "2025-10-23T23:54:15.986571",
+          "height_inches": "64",
+          "weight_lbs": "118",
+          "bmi": "20.1",
+          "temperature_f": "97.9",
+          "pulse": "72",
+          "respiratory_rate": "14",
+          "blood_pressure_systolic": "112",
+          "blood_pressure_diastolic": "70",
+          "oxygen_saturation": "99",
+          "pain_level": "0",
+          "notes": "",
+          "source": "in_office"
+        }
+      ]
+    },
+    {
+      "id": "labs",
+      "name": "Lab Results",
+      "item_count": 2,
+      "primary": false,
+      "items": [
+        {
+          "id": "LAB014001",
+          "lab_id": "LAB014001",
+          "patient_id": "PAT014",
+          "encounter_id": "ENC01401",
+          "order_id": "ORD01401",
+          "test_name": "Creatinine",
+          "loinc_code": "2160-0",
+          "result_value": "1.2",
+          "result_unit": "mg/dL",
+          "reference_range": "0.7-1.3",
+          "abnormal_flag": "",
+          "status": "final",
+          "collected_at": "2026-02-04T23:54:15.986581",
+          "resulted_at": "2026-02-06T23:54:15.986581"
+        },
+        {
+          "id": "LAB014002",
+          "lab_id": "LAB014002",
+          "patient_id": "PAT014",
+          "encounter_id": "ENC01401",
+          "order_id": "ORD01401",
+          "test_name": "BUN",
+          "loinc_code": "3094-0",
+          "result_value": "17",
+          "result_unit": "mg/dL",
+          "reference_range": "7-20",
+          "abnormal_flag": "",
+          "status": "final",
+          "collected_at": "2026-02-04T23:54:15.986581",
+          "resulted_at": "2026-02-06T23:54:15.986581"
+        }
+      ]
+    },
+    {
+      "id": "pharmacogenomics",
+      "name": "Pharmacogenomics",
+      "item_count": 3,
+      "primary": false,
+      "items": [
+        {
+          "id": "PGX01401",
+          "pgx_id": "PGX01401",
+          "patient_id": "PAT014",
+          "gene": "CYP2D6",
+          "variant": "*4/*4",
+          "metabolizer_status": "poor",
+          "affected_drugs": "codeine; tramadol; paroxetine; sertraline",
+          "clinical_recommendation": "Poor metabolizer. Codeine and tramadol will be ineffective. Current sertraline may have increased levels - monitor for side effects.",
+          "evidence_level": "strong"
+        },
+        {
+          "id": "PGX01402",
+          "pgx_id": "PGX01402",
+          "patient_id": "PAT014",
+          "gene": "CYP2C19",
+          "variant": "*1/*17",
+          "metabolizer_status": "rapid",
+          "affected_drugs": "clopidogrel; omeprazole; escitalopram",
+          "clinical_recommendation": "Rapid metabolizer. May need dose adjustments for escitalopram. Omeprazole may have reduced efficacy.",
+          "evidence_level": "strong"
+        },
+        {
+          "id": "PGX01403",
+          "pgx_id": "PGX01403",
+          "patient_id": "PAT014",
+          "gene": "HLA-B*5701",
+          "variant": "negative",
+          "metabolizer_status": "",
+          "affected_drugs": "normal",
+          "clinical_recommendation": "Low risk of abacavir hypersensitivity.",
+          "evidence_level": "strong"
+        }
+      ]
+    },
+    {
+      "id": "health_risks",
+      "name": "Health Risk Assessments",
+      "item_count": 2,
+      "primary": false,
+      "items": [
+        {
+          "id": "HRA01401",
+          "risk_id": "HRA01401",
+          "patient_id": "PAT014",
+          "condition": "Major Depression",
+          "category": "neurological",
+          "risk_level": "elevated",
+          "genetic_markers": "SLC6A4 5-HTTLPR short/short; BDNF Val66Met",
+          "risk_score": "0.62",
+          "recommended_screening": "PHQ-9 screening; Medication response monitoring",
+          "screening_frequency": "Every 6 months; Ongoing",
+          "notes": "Genetic predisposition consistent with anxiety disorder"
+        },
+        {
+          "id": "HRA01402",
+          "risk_id": "HRA01402",
+          "patient_id": "PAT014",
+          "condition": "Breast Cancer",
+          "category": "cancer",
+          "risk_level": "average",
+          "genetic_markers": "BRCA1/2 negative",
+          "risk_score": "0.13",
+          "recommended_screening": "Mammogram",
+          "screening_frequency": "Annually starting age 40",
+          "notes": "Standard screening"
+        }
+      ]
+    },
+    {
+      "id": "carrier_status",
+      "name": "Carrier Status",
+      "item_count": 2,
+      "primary": false,
+      "items": [
+        {
+          "id": "CS01401",
+          "carrier_id": "CS01401",
+          "patient_id": "PAT014",
+          "condition": "Tay-Sachs Disease",
+          "gene": "HEXA",
+          "variant": "1278insTATC",
+          "carrier_status": "not_carrier",
+          "inheritance_pattern": "autosomal_recessive"
+        },
+        {
+          "id": "CS01402",
+          "carrier_id": "CS01402",
+          "patient_id": "PAT014",
+          "condition": "Cystic Fibrosis",
+          "gene": "CFTR",
+          "variant": "F508del",
+          "carrier_status": "not_carrier",
+          "inheritance_pattern": "autosomal_recessive"
+        }
+      ]
+    }
+  ]
+}

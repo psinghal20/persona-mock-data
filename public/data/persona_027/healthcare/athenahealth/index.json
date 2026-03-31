@@ -3,7 +3,7 @@
   "server_id": "athenahealth",
   "server_name": "Athenahealth EHR",
   "summary": {
-    "total_items": 15,
+    "total_items": 21,
     "category_count": 7
   },
   "categories": [
@@ -116,8 +116,80 @@
     {
       "id": "vitals",
       "name": "Vitals",
-      "item_count": 2,
+      "item_count": 8,
       "items": [
+        {
+          "id": "",
+          "date": "2026-03-30T08:30:00",
+          "blood_pressure_systolic": "",
+          "blood_pressure_diastolic": "148",
+          "heart_rate": "",
+          "temperature": "",
+          "weight": "",
+          "height": "",
+          "spo2": "94",
+          "respiratory_rate": ""
+        },
+        {
+          "id": "",
+          "date": "2026-03-27T08:00:00",
+          "blood_pressure_systolic": "",
+          "blood_pressure_diastolic": "152",
+          "heart_rate": "",
+          "temperature": "",
+          "weight": "",
+          "height": "",
+          "spo2": "97",
+          "respiratory_rate": ""
+        },
+        {
+          "id": "",
+          "date": "2026-03-23T07:45:00",
+          "blood_pressure_systolic": "",
+          "blood_pressure_diastolic": "145",
+          "heart_rate": "",
+          "temperature": "",
+          "weight": "",
+          "height": "",
+          "spo2": "91",
+          "respiratory_rate": ""
+        },
+        {
+          "id": "",
+          "date": "2026-03-19T08:15:00",
+          "blood_pressure_systolic": "",
+          "blood_pressure_diastolic": "150",
+          "heart_rate": "",
+          "temperature": "",
+          "weight": "",
+          "height": "",
+          "spo2": "95",
+          "respiratory_rate": ""
+        },
+        {
+          "id": "",
+          "date": "2026-03-15T07:30:00",
+          "blood_pressure_systolic": "",
+          "blood_pressure_diastolic": "155",
+          "heart_rate": "",
+          "temperature": "",
+          "weight": "",
+          "height": "",
+          "spo2": "98",
+          "respiratory_rate": ""
+        },
+        {
+          "id": "",
+          "date": "2026-03-11T08:00:00",
+          "blood_pressure_systolic": "",
+          "blood_pressure_diastolic": "147",
+          "heart_rate": "",
+          "temperature": "",
+          "weight": "",
+          "height": "",
+          "spo2": "93",
+          "respiratory_rate": ""
+        },
         {
           "id": "",
           "date": "2026-02-04T23:54:15.986699",

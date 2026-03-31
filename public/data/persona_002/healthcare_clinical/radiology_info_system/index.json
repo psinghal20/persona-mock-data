@@ -1,0 +1,82 @@
+{
+  "persona_id": "persona_002",
+  "patient_id": "PAT002",
+  "server_id": "radiology_info_system",
+  "server_name": "Radiology Information System",
+  "summary": {
+    "total_items": 3,
+    "category_count": 3
+  },
+  "categories": [
+    {
+      "id": "radiology_orders",
+      "name": "Radiology Orders",
+      "item_count": 1,
+      "primary": true,
+      "items": [
+        {
+          "id": "RORD001",
+          "order_id": "RORD001",
+          "patient_id": "PAT002",
+          "ordering_provider_id": "PROV003",
+          "encounter_id": "ENC003",
+          "modality": "XR",
+          "body_part": "Chest",
+          "protocol": "PA and Lateral",
+          "clinical_indication": "Asthma baseline evaluation",
+          "urgency": "routine",
+          "status": "completed",
+          "auth_id": "",
+          "ordered_date": "2026-01-20",
+          "scheduled_date": "2026-01-20",
+          "completed_date": "2026-01-20"
+        }
+      ]
+    },
+    {
+      "id": "exams",
+      "name": "Exams",
+      "item_count": 1,
+      "primary": false,
+      "items": [
+        {
+          "id": "EXAM001",
+          "exam_id": "EXAM001",
+          "order_id": "RORD001",
+          "patient_id": "PAT002",
+          "performing_radiologist_id": "PROV015",
+          "modality": "XR",
+          "body_part": "Chest",
+          "protocol": "PA and Lateral",
+          "accession_number": "ACC202610001",
+          "dicom_study_uid": "1.2.840.10008.100001",
+          "exam_date": "2026-01-20",
+          "status": "completed",
+          "department_id": "DEPT012"
+        }
+      ]
+    },
+    {
+      "id": "radiology_reports",
+      "name": "Radiology Reports",
+      "item_count": 1,
+      "primary": false,
+      "items": [
+        {
+          "id": "RPT001",
+          "report_id": "RPT001",
+          "exam_id": "EXAM001",
+          "radiologist_id": "PROV015",
+          "findings_preview": "Heart size normal. Lungs are clear bilaterally. No pleural effusion or pneumothorax. Mediastinal contours are normal. No acute bony abnormality.",
+          "impressions": "Normal chest radiograph.",
+          "recommendations": "None.",
+          "critical_finding": "0",
+          "critical_finding_description": "",
+          "status": "final",
+          "created_at": "2026-01-20T14:00:00",
+          "signed_at": "2026-01-20T16:00:00"
+        }
+      ]
+    }
+  ]
+}

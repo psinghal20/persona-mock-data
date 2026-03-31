@@ -1,0 +1,65 @@
+{
+  "persona_id": "persona_031",
+  "patient_id": "PAT031",
+  "server_id": "e_prescribing",
+  "server_name": "E-Prescribing",
+  "summary": {
+    "total_items": 2,
+    "category_count": 2
+  },
+  "categories": [
+    {
+      "id": "prescriptions",
+      "name": "Prescriptions",
+      "item_count": 1,
+      "primary": true,
+      "items": [
+        {
+          "id": "RX03101",
+          "rx_id": "RX03101",
+          "patient_id": "PAT031",
+          "prescriber_id": "PROV001",
+          "medication_name": "Prenatal Vitamins",
+          "ndc_code": "00536-1065-01",
+          "rxnorm_code": "904462",
+          "dosage": "1 tablet",
+          "frequency": "once daily",
+          "route": "oral",
+          "quantity": "30",
+          "refills": "2",
+          "pharmacy_id": "PHARM001",
+          "status": "picked_up",
+          "written_date": "2025-08-20",
+          "sent_date": "2025-08-20",
+          "fill_date": "2025-08-21",
+          "pickup_date": "2025-08-22",
+          "expiration_date": "2026-08-20"
+        }
+      ]
+    },
+    {
+      "id": "medication_history",
+      "name": "Medication History",
+      "item_count": 1,
+      "primary": false,
+      "items": [
+        {
+          "id": "HIST0017",
+          "history_id": "HIST0017",
+          "patient_id": "PAT031",
+          "medication_name": "Prenatal Vitamins",
+          "prescriber_name": "Dr. Sarah Chen",
+          "prescriber_npi": "1234567890",
+          "source": "surescripts",
+          "dosage": "1 tablet",
+          "frequency": "once daily",
+          "start_date": "2025-08-20",
+          "end_date": "",
+          "status": "active",
+          "pharmacy_name": "CVS Pharmacy - Main St",
+          "notes": "Pregnancy supplement"
+        }
+      ]
+    }
+  ]
+}

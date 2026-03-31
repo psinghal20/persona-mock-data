@@ -1,0 +1,102 @@
+{
+  "persona_id": "persona_016",
+  "patient_id": "PAT016",
+  "server_id": "prior_auth",
+  "server_name": "Prior Authorization",
+  "summary": {
+    "total_items": 4,
+    "category_count": 3
+  },
+  "categories": [
+    {
+      "id": "patient_coverage",
+      "name": "Insurance Coverage",
+      "item_count": 1,
+      "primary": true,
+      "items": [
+        {
+          "id": "COV007",
+          "coverage_id": "COV007",
+          "patient_id": "PAT016",
+          "payer_id": "PAY006",
+          "plan_id": "PAY006_STANDARD",
+          "plan_name": "Aetna Standard PPO",
+          "member_id": "MBR593303705",
+          "group_number": "GRP733052",
+          "effective_date": "2025-01-01",
+          "termination_date": "",
+          "status": "active",
+          "copay_primary": "25",
+          "copay_specialist": "60",
+          "deductible": "1500",
+          "deductible_met": "317.43",
+          "out_of_pocket_max": "6500",
+          "oop_met": "34.76",
+          "coinsurance_rate": "0.2"
+        }
+      ]
+    },
+    {
+      "id": "prior_authorizations",
+      "name": "Prior Authorizations",
+      "item_count": 2,
+      "primary": false,
+      "items": [
+        {
+          "id": "AUTH005",
+          "auth_id": "AUTH005",
+          "patient_id": "PAT016",
+          "requesting_provider_id": "PROV014",
+          "payer_id": "PAY006",
+          "service_type": "imaging",
+          "cpt_code": "76536",
+          "icd10_code": "E04.1",
+          "description": "Ultrasound soft tissues of head and neck",
+          "status": "approved",
+          "urgency": "routine",
+          "requested_date": "2026-02-05",
+          "determination_date": "2026-02-08",
+          "expiration_date": "2026-05-09",
+          "approved_units": "6",
+          "notes": "Authorization approved per clinical criteria"
+        },
+        {
+          "id": "AUTH006",
+          "auth_id": "AUTH006",
+          "patient_id": "PAT016",
+          "requesting_provider_id": "PROV014",
+          "payer_id": "PAY006",
+          "service_type": "procedure",
+          "cpt_code": "95251",
+          "icd10_code": "E11.65",
+          "description": "CGM device interpretation and report",
+          "status": "pending",
+          "urgency": "routine",
+          "requested_date": "2026-01-22",
+          "determination_date": "",
+          "expiration_date": "",
+          "approved_units": "",
+          "notes": "Under clinical review"
+        }
+      ]
+    },
+    {
+      "id": "determination_letters",
+      "name": "Determination Letters",
+      "item_count": 1,
+      "primary": false,
+      "items": [
+        {
+          "id": "LTR004",
+          "letter_id": "LTR004",
+          "auth_id": "AUTH005",
+          "determination": "approved",
+          "reason": "Requested service meets clinical criteria for coverage. Authorization valid through 2026-05-09.",
+          "appeal_deadline": "",
+          "appeal_instructions": "",
+          "letter_date": "2026-02-08"
+        }
+      ]
+    }
+  ]
+}

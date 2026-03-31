@@ -1,0 +1,140 @@
+{
+  "persona_id": "persona_022",
+  "patient_id": "PAT022",
+  "server_id": "e_prescribing",
+  "server_name": "E-Prescribing",
+  "summary": {
+    "total_items": 6,
+    "category_count": 3
+  },
+  "categories": [
+    {
+      "id": "prescriptions",
+      "name": "Prescriptions",
+      "item_count": 2,
+      "primary": true,
+      "items": [
+        {
+          "id": "RX02201",
+          "rx_id": "RX02201",
+          "patient_id": "PAT022",
+          "prescriber_id": "PROV001",
+          "medication_name": "Topiramate",
+          "ndc_code": "00093-0152-01",
+          "rxnorm_code": "845478",
+          "dosage": "50mg",
+          "frequency": "twice daily",
+          "route": "oral",
+          "quantity": "30",
+          "refills": "5",
+          "pharmacy_id": "PHARM002",
+          "status": "picked_up",
+          "written_date": "2017-01-15",
+          "sent_date": "2017-01-15",
+          "fill_date": "2017-01-16",
+          "pickup_date": "2017-01-17",
+          "expiration_date": "2018-01-15"
+        },
+        {
+          "id": "RX02202",
+          "rx_id": "RX02202",
+          "patient_id": "PAT022",
+          "prescriber_id": "PROV001",
+          "medication_name": "Sumatriptan",
+          "ndc_code": "00093-5352-01",
+          "rxnorm_code": "313145",
+          "dosage": "50mg",
+          "frequency": "as needed",
+          "route": "oral",
+          "quantity": "60",
+          "refills": "2",
+          "pharmacy_id": "PHARM002",
+          "status": "picked_up",
+          "written_date": "2023-08-20",
+          "sent_date": "2023-08-20",
+          "fill_date": "2023-08-21",
+          "pickup_date": "2023-08-22",
+          "expiration_date": "2024-08-19"
+        }
+      ]
+    },
+    {
+      "id": "medication_history",
+      "name": "Medication History",
+      "item_count": 3,
+      "primary": false,
+      "items": [
+        {
+          "id": "HIST0014",
+          "history_id": "HIST0014",
+          "patient_id": "PAT022",
+          "medication_name": "Sumatriptan",
+          "prescriber_name": "Dr. Sarah Chen",
+          "prescriber_npi": "1234567890",
+          "source": "surescripts",
+          "dosage": "50mg",
+          "frequency": "as needed",
+          "start_date": "2023-08-20",
+          "end_date": "",
+          "status": "active",
+          "pharmacy_name": "Walgreens - Oak Ave",
+          "notes": "For acute migraine, max 2 doses per 24 hours"
+        },
+        {
+          "id": "HIST0013",
+          "history_id": "HIST0013",
+          "patient_id": "PAT022",
+          "medication_name": "Topiramate",
+          "prescriber_name": "Dr. Sarah Chen",
+          "prescriber_npi": "1234567890",
+          "source": "surescripts",
+          "dosage": "50mg",
+          "frequency": "twice daily",
+          "start_date": "2017-01-15",
+          "end_date": "",
+          "status": "active",
+          "pharmacy_name": "Walgreens - Oak Ave",
+          "notes": "Migraine prevention"
+        },
+        {
+          "id": "HIST0021",
+          "history_id": "HIST0021",
+          "patient_id": "PAT022",
+          "medication_name": "Amitriptyline",
+          "prescriber_name": "Dr. Christopher Brown",
+          "prescriber_npi": "1234567899",
+          "source": "surescripts",
+          "dosage": "25mg",
+          "frequency": "once daily at bedtime",
+          "start_date": "2016-03-10",
+          "end_date": "2017-01-14",
+          "status": "discontinued",
+          "pharmacy_name": "Walgreens - Oak Ave",
+          "notes": "Discontinued due to excessive sedation. Switched to Topiramate for migraine prevention."
+        }
+      ]
+    },
+    {
+      "id": "pdmp_records",
+      "name": "PDMP Records",
+      "item_count": 1,
+      "primary": false,
+      "items": [
+        {
+          "id": "PDMP0001",
+          "pdmp_id": "PDMP0001",
+          "patient_id": "PAT022",
+          "medication_name": "Tramadol 50mg",
+          "dea_schedule": "IV",
+          "prescriber_name": "Dr. Robert Thompson",
+          "prescriber_dea": "BT1234567",
+          "dispensing_pharmacy": "Walgreens - Oak Ave",
+          "fill_date": "2025-09-15",
+          "quantity": "20",
+          "days_supply": "10",
+          "metric_quantity": "1000"
+        }
+      ]
+    }
+  ]
+}

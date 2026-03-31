@@ -1,0 +1,66 @@
+{
+  "persona_id": "persona_010",
+  "patient_id": "PAT010",
+  "server_id": "prior_auth",
+  "server_name": "Prior Authorization",
+  "summary": {
+    "total_items": 2,
+    "category_count": 2
+  },
+  "categories": [
+    {
+      "id": "patient_coverage",
+      "name": "Insurance Coverage",
+      "item_count": 1,
+      "primary": true,
+      "items": [
+        {
+          "id": "COV004",
+          "coverage_id": "COV004",
+          "patient_id": "PAT010",
+          "payer_id": "PAY004",
+          "plan_id": "PAY004_STANDARD",
+          "plan_name": "Kaiser Permanente Standard HMO",
+          "member_id": "MBR914763202",
+          "group_number": "GRP717889",
+          "effective_date": "2025-01-01",
+          "termination_date": "",
+          "status": "active",
+          "copay_primary": "30",
+          "copay_specialist": "50",
+          "deductible": "750",
+          "deductible_met": "166.91",
+          "out_of_pocket_max": "7500",
+          "oop_met": "695.44",
+          "coinsurance_rate": "0.2"
+        }
+      ]
+    },
+    {
+      "id": "prior_authorizations",
+      "name": "Prior Authorizations",
+      "item_count": 1,
+      "primary": false,
+      "items": [
+        {
+          "id": "AUTH011",
+          "auth_id": "AUTH011",
+          "patient_id": "PAT010",
+          "requesting_provider_id": "PROV001",
+          "payer_id": "PAY004",
+          "service_type": "procedure",
+          "cpt_code": "43239",
+          "icd10_code": "K21.0",
+          "description": "EGD with biopsy",
+          "status": "pending",
+          "urgency": "routine",
+          "requested_date": "2026-01-21",
+          "determination_date": "",
+          "expiration_date": "",
+          "approved_units": "",
+          "notes": "Under clinical review"
+        }
+      ]
+    }
+  ]
+}

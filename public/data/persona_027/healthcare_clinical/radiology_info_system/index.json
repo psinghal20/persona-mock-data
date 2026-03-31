@@ -1,0 +1,99 @@
+{
+  "persona_id": "persona_027",
+  "patient_id": "PAT027",
+  "server_id": "radiology_info_system",
+  "server_name": "Radiology Information System",
+  "summary": {
+    "total_items": 4,
+    "category_count": 3
+  },
+  "categories": [
+    {
+      "id": "radiology_orders",
+      "name": "Radiology Orders",
+      "item_count": 2,
+      "primary": true,
+      "items": [
+        {
+          "id": "RORD009",
+          "order_id": "RORD009",
+          "patient_id": "PAT027",
+          "ordering_provider_id": "PROV003",
+          "encounter_id": "ENC013",
+          "modality": "MR",
+          "body_part": "Abdomen",
+          "protocol": "With and without contrast",
+          "clinical_indication": "HCC screening - cirrhosis",
+          "urgency": "urgent",
+          "status": "scheduled",
+          "auth_id": "AUTH008",
+          "ordered_date": "2026-01-22",
+          "scheduled_date": "2026-02-15",
+          "completed_date": ""
+        },
+        {
+          "id": "RORD008",
+          "order_id": "RORD008",
+          "patient_id": "PAT027",
+          "ordering_provider_id": "PROV003",
+          "encounter_id": "ENC013",
+          "modality": "US",
+          "body_part": "Abdomen",
+          "protocol": "Complete",
+          "clinical_indication": "Cirrhosis - evaluate for complications",
+          "urgency": "urgent",
+          "status": "completed",
+          "auth_id": "",
+          "ordered_date": "2026-01-20",
+          "scheduled_date": "2026-01-20",
+          "completed_date": "2026-01-20"
+        }
+      ]
+    },
+    {
+      "id": "exams",
+      "name": "Exams",
+      "item_count": 1,
+      "primary": false,
+      "items": [
+        {
+          "id": "EXAM008",
+          "exam_id": "EXAM008",
+          "order_id": "RORD008",
+          "patient_id": "PAT027",
+          "performing_radiologist_id": "PROV003",
+          "modality": "US",
+          "body_part": "Abdomen",
+          "protocol": "Complete",
+          "accession_number": "ACC202610008",
+          "dicom_study_uid": "1.2.840.10008.100008",
+          "exam_date": "2026-01-20",
+          "status": "completed",
+          "department_id": "DEPT012"
+        }
+      ]
+    },
+    {
+      "id": "radiology_reports",
+      "name": "Radiology Reports",
+      "item_count": 1,
+      "primary": false,
+      "items": [
+        {
+          "id": "RPT008",
+          "report_id": "RPT008",
+          "exam_id": "EXAM008",
+          "radiologist_id": "PROV003",
+          "findings_preview": "Liver is coarsened and nodular in echotexture consistent with cirrhosis. No focal hepatic lesion identified. Common bile duct measures 4mm, normal. Gallbladder is normal without stones. Spleen is mild...",
+          "impressions": "1. Cirrhotic liver morphology without focal lesion on ultrasound. 2. Mild splenomegaly, likely related to portal hypertension. 3. No ascites.",
+          "recommendations": "MRI with contrast recommended for more sensitive HCC screening given cirrhosis.",
+          "critical_finding": "0",
+          "critical_finding_description": "",
+          "status": "final",
+          "created_at": "2026-01-20T14:00:00",
+          "signed_at": "2026-01-20T16:00:00"
+        }
+      ]
+    }
+  ]
+}

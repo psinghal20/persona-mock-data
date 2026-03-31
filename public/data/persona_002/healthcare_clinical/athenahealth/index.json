@@ -1,0 +1,315 @@
+{
+  "persona_id": "persona_002",
+  "patient_id": "PAT002",
+  "server_id": "athenahealth",
+  "server_name": "Athenahealth EHR",
+  "summary": {
+    "total_items": 16,
+    "category_count": 9
+  },
+  "categories": [
+    {
+      "id": "problems",
+      "name": "Problems/Diagnoses",
+      "item_count": 1,
+      "primary": false,
+      "items": [
+        {
+          "id": "PRB00201",
+          "problem_id": "PRB00201",
+          "patient_id": "PAT002",
+          "icd10_code": "J45.20",
+          "description": "Mild intermittent asthma",
+          "onset_date": "2015-05-20",
+          "status": "active",
+          "severity": "mild",
+          "diagnosed_by": "PROV001",
+          "notes": "Uses rescue inhaler PRN, well controlled"
+        }
+      ]
+    },
+    {
+      "id": "allergies",
+      "name": "Allergies",
+      "item_count": 1,
+      "primary": false,
+      "items": [
+        {
+          "id": "ALG00201",
+          "allergy_id": "ALG00201",
+          "patient_id": "PAT002",
+          "allergen_name": "Sulfa drugs",
+          "allergen_type": "medication",
+          "reaction": "Difficulty breathing",
+          "severity": "severe",
+          "onset_date": "2016-02-07",
+          "status": "active",
+          "notes": "Avoid all sulfonamides"
+        }
+      ]
+    },
+    {
+      "id": "prescriptions",
+      "name": "Prescriptions",
+      "item_count": 1,
+      "primary": false,
+      "items": [
+        {
+          "id": "RX00201",
+          "prescription_id": "RX00201",
+          "patient_id": "PAT002",
+          "provider_id": "PROV001",
+          "medication_name": "Albuterol",
+          "medication_id": "MED001",
+          "ndc": "00487-9801-01",
+          "dosage": "90mcg",
+          "frequency": "as needed",
+          "route": "inhalation",
+          "quantity": "60",
+          "refills": "2",
+          "start_date": "2023-06-10",
+          "end_date": "",
+          "status": "active",
+          "pharmacy_name": "Walgreens",
+          "pharmacy_phone": "910-555-2497",
+          "notes": "Rescue inhaler",
+          "created_at": "2023-06-10T10:00:00"
+        }
+      ]
+    },
+    {
+      "id": "encounters",
+      "name": "Encounters",
+      "item_count": 1,
+      "primary": false,
+      "items": [
+        {
+          "id": "ENC003",
+          "encounter_id": "ENC003",
+          "patient_id": "PAT002",
+          "provider_id": "PROV003",
+          "department_id": "DEPT002",
+          "encounter_type": "Office Visit",
+          "encounter_date": "2026-01-20",
+          "start_time": "11:00",
+          "end_time": "11:30",
+          "status": "closed",
+          "chief_complaint": "Asthma check",
+          "assessment": "Mild intermittent asthma stable. No recent exacerbations.",
+          "plan": "Continue albuterol PRN. Return if symptoms worsen.",
+          "notes": "",
+          "created_at": "2026-01-20T11:00:00",
+          "updated_at": "2026-01-20T11:30:00"
+        }
+      ]
+    },
+    {
+      "id": "vitals",
+      "name": "Vitals",
+      "item_count": 3,
+      "primary": false,
+      "items": [
+        {
+          "id": "VIT00201",
+          "vital_id": "VIT00201",
+          "patient_id": "PAT002",
+          "encounter_id": "ENC00201",
+          "recorded_at": "2026-02-04T23:54:15.986397",
+          "height_inches": "72",
+          "weight_lbs": "177",
+          "bmi": "24.3",
+          "temperature_f": "98.1",
+          "pulse": "52",
+          "respiratory_rate": "14",
+          "blood_pressure_systolic": "118",
+          "blood_pressure_diastolic": "79",
+          "oxygen_saturation": "99",
+          "pain_level": "0",
+          "notes": "",
+          "source": "in_office"
+        },
+        {
+          "id": "VIT00202",
+          "vital_id": "VIT00202",
+          "patient_id": "PAT002",
+          "encounter_id": "ENC00202",
+          "recorded_at": "2025-12-27T23:54:15.986397",
+          "height_inches": "72",
+          "weight_lbs": "176",
+          "bmi": "24.3",
+          "temperature_f": "98.1",
+          "pulse": "57",
+          "respiratory_rate": "14",
+          "blood_pressure_systolic": "116",
+          "blood_pressure_diastolic": "76",
+          "oxygen_saturation": "99",
+          "pain_level": "0",
+          "notes": "",
+          "source": "in_office"
+        },
+        {
+          "id": "VIT00203",
+          "vital_id": "VIT00203",
+          "patient_id": "PAT002",
+          "encounter_id": "ENC00203",
+          "recorded_at": "2025-12-06T23:54:15.986397",
+          "height_inches": "72",
+          "weight_lbs": "176",
+          "bmi": "24.3",
+          "temperature_f": "98.1",
+          "pulse": "49",
+          "respiratory_rate": "14",
+          "blood_pressure_systolic": "113",
+          "blood_pressure_diastolic": "76",
+          "oxygen_saturation": "99",
+          "pain_level": "0",
+          "notes": "",
+          "source": "in_office"
+        }
+      ]
+    },
+    {
+      "id": "labs",
+      "name": "Lab Results",
+      "item_count": 2,
+      "primary": false,
+      "items": [
+        {
+          "id": "LAB002001",
+          "lab_id": "LAB002001",
+          "patient_id": "PAT002",
+          "encounter_id": "ENC00201",
+          "order_id": "ORD00201",
+          "test_name": "Creatinine",
+          "loinc_code": "2160-0",
+          "result_value": "1.0",
+          "result_unit": "mg/dL",
+          "reference_range": "0.7-1.3",
+          "abnormal_flag": "",
+          "status": "final",
+          "collected_at": "2026-02-04T23:54:15.986411",
+          "resulted_at": "2026-02-05T23:54:15.986411"
+        },
+        {
+          "id": "LAB002002",
+          "lab_id": "LAB002002",
+          "patient_id": "PAT002",
+          "encounter_id": "ENC00201",
+          "order_id": "ORD00201",
+          "test_name": "BUN",
+          "loinc_code": "3094-0",
+          "result_value": "17",
+          "result_unit": "mg/dL",
+          "reference_range": "7-20",
+          "abnormal_flag": "",
+          "status": "final",
+          "collected_at": "2026-02-04T23:54:15.986411",
+          "resulted_at": "2026-02-05T23:54:15.986411"
+        }
+      ]
+    },
+    {
+      "id": "pharmacogenomics",
+      "name": "Pharmacogenomics",
+      "item_count": 3,
+      "primary": false,
+      "items": [
+        {
+          "id": "PGX00201",
+          "pgx_id": "PGX00201",
+          "patient_id": "PAT002",
+          "gene": "CYP2D6",
+          "variant": "*1/*1",
+          "metabolizer_status": "normal",
+          "affected_drugs": "codeine; tramadol; tamoxifen",
+          "clinical_recommendation": "Standard metabolizer. Normal drug activation and metabolism expected.",
+          "evidence_level": "strong"
+        },
+        {
+          "id": "PGX00202",
+          "pgx_id": "PGX00202",
+          "patient_id": "PAT002",
+          "gene": "CYP2C19",
+          "variant": "*17/*17",
+          "metabolizer_status": "ultra-rapid",
+          "affected_drugs": "clopidogrel; omeprazole; sertraline",
+          "clinical_recommendation": "Enhanced clopidogrel activation. Reduced omeprazole efficacy - may need higher PPI dose.",
+          "evidence_level": "strong"
+        },
+        {
+          "id": "PGX00203",
+          "pgx_id": "PGX00203",
+          "patient_id": "PAT002",
+          "gene": "HLA-B*5701",
+          "variant": "negative",
+          "metabolizer_status": "",
+          "affected_drugs": "normal",
+          "clinical_recommendation": "Low risk of abacavir hypersensitivity if needed.",
+          "evidence_level": "strong"
+        }
+      ]
+    },
+    {
+      "id": "health_risks",
+      "name": "Health Risk Assessments",
+      "item_count": 2,
+      "primary": false,
+      "items": [
+        {
+          "id": "HRA00201",
+          "risk_id": "HRA00201",
+          "patient_id": "PAT002",
+          "condition": "Asthma Exacerbation",
+          "category": "autoimmune",
+          "risk_level": "elevated",
+          "genetic_markers": "ORMDL3 rs8076131 TT; IL33 rs1342326 CT",
+          "risk_score": "0.58",
+          "recommended_screening": "Pulmonary function test; Allergy panel",
+          "screening_frequency": "Annually; Every 2 years",
+          "notes": "Consistent with mild intermittent asthma diagnosis"
+        },
+        {
+          "id": "HRA00202",
+          "risk_id": "HRA00202",
+          "patient_id": "PAT002",
+          "condition": "Prostate Cancer",
+          "category": "cancer",
+          "risk_level": "average",
+          "genetic_markers": "HOXB13 G84E negative",
+          "risk_score": "0.12",
+          "recommended_screening": "PSA screening",
+          "screening_frequency": "Starting age 50",
+          "notes": "Standard risk"
+        }
+      ]
+    },
+    {
+      "id": "carrier_status",
+      "name": "Carrier Status",
+      "item_count": 2,
+      "primary": false,
+      "items": [
+        {
+          "id": "CS00201",
+          "carrier_id": "CS00201",
+          "patient_id": "PAT002",
+          "condition": "Sickle Cell Disease",
+          "gene": "HBB",
+          "variant": "rs334",
+          "carrier_status": "carrier",
+          "inheritance_pattern": "autosomal_recessive"
+        },
+        {
+          "id": "CS00202",
+          "carrier_id": "CS00202",
+          "patient_id": "PAT002",
+          "condition": "Cystic Fibrosis",
+          "gene": "CFTR",
+          "variant": "F508del",
+          "carrier_status": "not_carrier",
+          "inheritance_pattern": "autosomal_recessive"
+        }
+      ]
+    }
+  ]
+}

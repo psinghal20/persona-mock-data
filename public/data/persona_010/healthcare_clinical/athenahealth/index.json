@@ -1,0 +1,327 @@
+{
+  "persona_id": "persona_010",
+  "patient_id": "PAT010",
+  "server_id": "athenahealth",
+  "server_name": "Athenahealth EHR",
+  "summary": {
+    "total_items": 17,
+    "category_count": 9
+  },
+  "categories": [
+    {
+      "id": "problems",
+      "name": "Problems/Diagnoses",
+      "item_count": 1,
+      "primary": false,
+      "items": [
+        {
+          "id": "PRB01001",
+          "problem_id": "PRB01001",
+          "patient_id": "PAT010",
+          "icd10_code": "K21.0",
+          "description": "Gastro-esophageal reflux disease with esophagitis",
+          "onset_date": "2019-07-22",
+          "status": "active",
+          "severity": "mild",
+          "diagnosed_by": "PROV001",
+          "notes": "On PPI therapy, well controlled"
+        }
+      ]
+    },
+    {
+      "id": "allergies",
+      "name": "Allergies",
+      "item_count": 2,
+      "primary": false,
+      "items": [
+        {
+          "id": "ALG01001",
+          "allergy_id": "ALG01001",
+          "patient_id": "PAT010",
+          "allergen_name": "Peanuts",
+          "allergen_type": "food",
+          "reaction": "Throat swelling",
+          "severity": "severe",
+          "onset_date": "2017-02-06",
+          "status": "active",
+          "notes": "Carries EpiPen"
+        },
+        {
+          "id": "ALG01002",
+          "allergy_id": "ALG01002",
+          "patient_id": "PAT010",
+          "allergen_name": "Codeine",
+          "allergen_type": "medication",
+          "reaction": "Nausea and vomiting",
+          "severity": "moderate",
+          "onset_date": "2025-02-04",
+          "status": "active",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "id": "prescriptions",
+      "name": "Prescriptions",
+      "item_count": 1,
+      "primary": false,
+      "items": [
+        {
+          "id": "RX01001",
+          "prescription_id": "RX01001",
+          "patient_id": "PAT010",
+          "provider_id": "PROV001",
+          "medication_name": "Omeprazole",
+          "medication_id": "MED001",
+          "ndc": "00093-5122-01",
+          "dosage": "20mg",
+          "frequency": "once daily",
+          "route": "oral",
+          "quantity": "30",
+          "refills": "3",
+          "start_date": "2019-08-01",
+          "end_date": "",
+          "status": "active",
+          "pharmacy_name": "CVS Pharmacy",
+          "pharmacy_phone": "799-555-6649",
+          "notes": "Take before breakfast",
+          "created_at": "2019-08-01T10:00:00"
+        }
+      ]
+    },
+    {
+      "id": "encounters",
+      "name": "Encounters",
+      "item_count": 1,
+      "primary": false,
+      "items": [
+        {
+          "id": "ENC006",
+          "encounter_id": "ENC006",
+          "patient_id": "PAT010",
+          "provider_id": "PROV001",
+          "department_id": "DEPT001",
+          "encounter_type": "Office Visit",
+          "encounter_date": "2026-01-22",
+          "start_time": "14:30",
+          "end_time": "15:00",
+          "status": "closed",
+          "chief_complaint": "GERD follow-up",
+          "assessment": "GERD well controlled on PPI.",
+          "plan": "Continue omeprazole. Dietary counseling provided.",
+          "notes": "",
+          "created_at": "2026-01-22T14:30:00",
+          "updated_at": "2026-01-22T15:00:00"
+        }
+      ]
+    },
+    {
+      "id": "vitals",
+      "name": "Vitals",
+      "item_count": 3,
+      "primary": false,
+      "items": [
+        {
+          "id": "VIT01001",
+          "vital_id": "VIT01001",
+          "patient_id": "PAT010",
+          "encounter_id": "ENC01001",
+          "recorded_at": "2026-02-04T23:54:15.986499",
+          "height_inches": "64",
+          "weight_lbs": "132",
+          "bmi": "22.7",
+          "temperature_f": "98.1",
+          "pulse": "67",
+          "respiratory_rate": "14",
+          "blood_pressure_systolic": "114",
+          "blood_pressure_diastolic": "77",
+          "oxygen_saturation": "99",
+          "pain_level": "0",
+          "notes": "",
+          "source": "in_office"
+        },
+        {
+          "id": "VIT01002",
+          "vital_id": "VIT01002",
+          "patient_id": "PAT010",
+          "encounter_id": "ENC01002",
+          "recorded_at": "2025-12-16T23:54:15.986499",
+          "height_inches": "64",
+          "weight_lbs": "135",
+          "bmi": "22.7",
+          "temperature_f": "98.1",
+          "pulse": "69",
+          "respiratory_rate": "14",
+          "blood_pressure_systolic": "113",
+          "blood_pressure_diastolic": "72",
+          "oxygen_saturation": "99",
+          "pain_level": "0",
+          "notes": "",
+          "source": "in_office"
+        },
+        {
+          "id": "VIT01003",
+          "vital_id": "VIT01003",
+          "patient_id": "PAT010",
+          "encounter_id": "ENC01003",
+          "recorded_at": "2025-10-15T23:54:15.986499",
+          "height_inches": "64",
+          "weight_lbs": "129",
+          "bmi": "22.7",
+          "temperature_f": "98.1",
+          "pulse": "71",
+          "respiratory_rate": "14",
+          "blood_pressure_systolic": "113",
+          "blood_pressure_diastolic": "77",
+          "oxygen_saturation": "99",
+          "pain_level": "0",
+          "notes": "",
+          "source": "in_office"
+        }
+      ]
+    },
+    {
+      "id": "labs",
+      "name": "Lab Results",
+      "item_count": 2,
+      "primary": false,
+      "items": [
+        {
+          "id": "LAB010001",
+          "lab_id": "LAB010001",
+          "patient_id": "PAT010",
+          "encounter_id": "ENC01001",
+          "order_id": "ORD01001",
+          "test_name": "Creatinine",
+          "loinc_code": "2160-0",
+          "result_value": "0.9",
+          "result_unit": "mg/dL",
+          "reference_range": "0.7-1.3",
+          "abnormal_flag": "",
+          "status": "final",
+          "collected_at": "2026-02-04T23:54:15.986513",
+          "resulted_at": "2026-02-06T23:54:15.986513"
+        },
+        {
+          "id": "LAB010002",
+          "lab_id": "LAB010002",
+          "patient_id": "PAT010",
+          "encounter_id": "ENC01001",
+          "order_id": "ORD01001",
+          "test_name": "BUN",
+          "loinc_code": "3094-0",
+          "result_value": "18",
+          "result_unit": "mg/dL",
+          "reference_range": "7-20",
+          "abnormal_flag": "",
+          "status": "final",
+          "collected_at": "2026-02-04T23:54:15.986513",
+          "resulted_at": "2026-02-06T23:54:15.986513"
+        }
+      ]
+    },
+    {
+      "id": "pharmacogenomics",
+      "name": "Pharmacogenomics",
+      "item_count": 3,
+      "primary": false,
+      "items": [
+        {
+          "id": "PGX01001",
+          "pgx_id": "PGX01001",
+          "patient_id": "PAT010",
+          "gene": "CYP2C19",
+          "variant": "*2/*2",
+          "metabolizer_status": "poor",
+          "affected_drugs": "omeprazole; clopidogrel; escitalopram",
+          "clinical_recommendation": "Poor metabolizer of omeprazole - increased drug exposure may enhance efficacy at standard dose. Avoid clopidogrel if needed.",
+          "evidence_level": "strong"
+        },
+        {
+          "id": "PGX01002",
+          "pgx_id": "PGX01002",
+          "patient_id": "PAT010",
+          "gene": "CYP2D6",
+          "variant": "*1/*1",
+          "metabolizer_status": "normal",
+          "affected_drugs": "codeine; tramadol; ondansetron",
+          "clinical_recommendation": "Standard dosing appropriate.",
+          "evidence_level": "strong"
+        },
+        {
+          "id": "PGX01003",
+          "pgx_id": "PGX01003",
+          "patient_id": "PAT010",
+          "gene": "CYP2C9",
+          "variant": "*1/*3",
+          "metabolizer_status": "intermediate",
+          "affected_drugs": "warfarin; celecoxib; losartan",
+          "clinical_recommendation": "Reduced clearance of affected drugs. Use lower initial doses if prescribed.",
+          "evidence_level": "moderate"
+        }
+      ]
+    },
+    {
+      "id": "health_risks",
+      "name": "Health Risk Assessments",
+      "item_count": 2,
+      "primary": false,
+      "items": [
+        {
+          "id": "HRA01001",
+          "risk_id": "HRA01001",
+          "patient_id": "PAT010",
+          "condition": "Breast Cancer",
+          "category": "cancer",
+          "risk_level": "average",
+          "genetic_markers": "BRCA1/2 negative",
+          "risk_score": "0.14",
+          "recommended_screening": "Mammogram",
+          "screening_frequency": "Annually starting age 40",
+          "notes": "Standard screening"
+        },
+        {
+          "id": "HRA01002",
+          "risk_id": "HRA01002",
+          "patient_id": "PAT010",
+          "condition": "Celiac Disease",
+          "category": "autoimmune",
+          "risk_level": "reduced",
+          "genetic_markers": "HLA-DQ2/DQ8 negative",
+          "risk_score": "0.05",
+          "recommended_screening": "No specific screening recommended",
+          "screening_frequency": "",
+          "notes": "Low genetic risk"
+        }
+      ]
+    },
+    {
+      "id": "carrier_status",
+      "name": "Carrier Status",
+      "item_count": 2,
+      "primary": false,
+      "items": [
+        {
+          "id": "CS01001",
+          "carrier_id": "CS01001",
+          "patient_id": "PAT010",
+          "condition": "Cystic Fibrosis",
+          "gene": "CFTR",
+          "variant": "G551D",
+          "carrier_status": "carrier",
+          "inheritance_pattern": "autosomal_recessive"
+        },
+        {
+          "id": "CS01002",
+          "carrier_id": "CS01002",
+          "patient_id": "PAT010",
+          "condition": "Tay-Sachs Disease",
+          "gene": "HEXA",
+          "variant": "1278insTATC",
+          "carrier_status": "not_carrier",
+          "inheritance_pattern": "autosomal_recessive"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "persona_id": "persona_009",
+  "patient_id": "PAT009",
+  "server_id": "prior_auth",
+  "server_name": "Prior Authorization",
+  "summary": {
+    "total_items": 4,
+    "category_count": 3
+  },
+  "categories": [
+    {
+      "id": "patient_coverage",
+      "name": "Insurance Coverage",
+      "item_count": 1,
+      "primary": true,
+      "items": [
+        {
+          "id": "COV003",
+          "coverage_id": "COV003",
+          "patient_id": "PAT009",
+          "payer_id": "PAY003",
+          "plan_id": "PAY003_STANDARD",
+          "plan_name": "Medicare Part B",
+          "member_id": "MBR702632297",
+          "group_number": "",
+          "effective_date": "2024-01-01",
+          "termination_date": "",
+          "status": "active",
+          "copay_primary": "0.0",
+          "copay_specialist": "0.0",
+          "deductible": "240.0",
+          "deductible_met": "115.59",
+          "out_of_pocket_max": "0.0",
+          "oop_met": "0.0",
+          "coinsurance_rate": "0.2"
+        }
+      ]
+    },
+    {
+      "id": "prior_authorizations",
+      "name": "Prior Authorizations",
+      "item_count": 2,
+      "primary": false,
+      "items": [
+        {
+          "id": "AUTH002",
+          "auth_id": "AUTH002",
+          "patient_id": "PAT009",
+          "requesting_provider_id": "PROV005",
+          "payer_id": "PAY003",
+          "service_type": "procedure",
+          "cpt_code": "93015",
+          "icd10_code": "I25.10",
+          "description": "Cardiovascular stress test",
+          "status": "approved",
+          "urgency": "urgent",
+          "requested_date": "2026-02-01",
+          "determination_date": "2026-02-06",
+          "expiration_date": "2026-05-07",
+          "approved_units": "3",
+          "notes": "Authorization approved per clinical criteria"
+        },
+        {
+          "id": "AUTH003",
+          "auth_id": "AUTH003",
+          "patient_id": "PAT009",
+          "requesting_provider_id": "PROV005",
+          "payer_id": "PAY003",
+          "service_type": "imaging",
+          "cpt_code": "73721",
+          "icd10_code": "M17.11",
+          "description": "MRI lower extremity joint without contrast",
+          "status": "pending",
+          "urgency": "routine",
+          "requested_date": "2026-01-15",
+          "determination_date": "",
+          "expiration_date": "",
+          "approved_units": "",
+          "notes": "Under clinical review"
+        }
+      ]
+    },
+    {
+      "id": "determination_letters",
+      "name": "Determination Letters",
+      "item_count": 1,
+      "primary": false,
+      "items": [
+        {
+          "id": "LTR002",
+          "letter_id": "LTR002",
+          "auth_id": "AUTH002",
+          "determination": "approved",
+          "reason": "Requested service meets clinical criteria for coverage. Authorization valid through 2026-05-07.",
+          "appeal_deadline": "",
+          "appeal_instructions": "",
+          "letter_date": "2026-02-07"
+        }
+      ]
+    }
+  ]
+}

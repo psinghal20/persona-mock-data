@@ -13,6 +13,8 @@
       "total_spent": 159614.8,
       "healthcare_items": 934,
       "healthcare_servers": 10,
+      "clinical_items": 38,
+      "clinical_servers": 7,
       "obsidian_notes": 12
     },
     {
@@ -28,6 +30,8 @@
       "total_spent": 325621.25,
       "healthcare_items": 1006,
       "healthcare_servers": 11,
+      "clinical_items": 60,
+      "clinical_servers": 8,
       "obsidian_notes": 12
     },
     {
@@ -43,6 +47,8 @@
       "total_spent": 102015.95,
       "healthcare_items": 970,
       "healthcare_servers": 11,
+      "clinical_items": 35,
+      "clinical_servers": 7,
       "obsidian_notes": 11
     },
     {
@@ -56,8 +62,10 @@
       "age_group": "adult",
       "total_orders": 56,
       "total_spent": 5170.84,
-      "healthcare_items": 975,
+      "healthcare_items": 981,
       "healthcare_servers": 11,
+      "clinical_items": 67,
+      "clinical_servers": 7,
       "obsidian_notes": 29
     },
     {
@@ -73,6 +81,8 @@
       "total_spent": 554921.38,
       "healthcare_items": 919,
       "healthcare_servers": 9,
+      "clinical_items": 26,
+      "clinical_servers": 5,
       "obsidian_notes": 13
     },
     {
@@ -88,6 +98,8 @@
       "total_spent": 420459.9,
       "healthcare_items": 911,
       "healthcare_servers": 9,
+      "clinical_items": 27,
+      "clinical_servers": 6,
       "obsidian_notes": 11
     },
     {
@@ -103,6 +115,8 @@
       "total_spent": 292324.8,
       "healthcare_items": 926,
       "healthcare_servers": 9,
+      "clinical_items": 29,
+      "clinical_servers": 7,
       "obsidian_notes": 13
     },
     {
@@ -116,8 +130,10 @@
       "age_group": "middle-aged",
       "total_orders": 464,
       "total_spent": 343663.1,
-      "healthcare_items": 958,
+      "healthcare_items": 964,
       "healthcare_servers": 10,
+      "clinical_items": 60,
+      "clinical_servers": 8,
       "obsidian_notes": 11
     },
     {
@@ -133,6 +149,8 @@
       "total_spent": 231425.4,
       "healthcare_items": 1011,
       "healthcare_servers": 11,
+      "clinical_items": 61,
+      "clinical_servers": 8,
       "obsidian_notes": 14
     },
     {
@@ -148,6 +166,8 @@
       "total_spent": 293203.14,
       "healthcare_items": 898,
       "healthcare_servers": 9,
+      "clinical_items": 31,
+      "clinical_servers": 7,
       "obsidian_notes": 12
     },
     {
@@ -161,8 +181,10 @@
       "age_group": "retired",
       "total_orders": 418,
       "total_spent": 138231.34,
-      "healthcare_items": 937,
+      "healthcare_items": 945,
       "healthcare_servers": 10,
+      "clinical_items": 94,
+      "clinical_servers": 8,
       "obsidian_notes": 12
     }
   ],
@@ -171,5 +193,5 @@
     "total_orders": 4390,
     "total_stores": 21
   },
-  "generated_at": "2026-03-09T19:12:51.831952"
+  "generated_at": "2026-03-31T20:10:22.647289"
 }

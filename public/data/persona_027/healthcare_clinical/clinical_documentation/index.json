@@ -1,0 +1,54 @@
+{
+  "persona_id": "persona_027",
+  "patient_id": "PAT027",
+  "server_id": "clinical_documentation",
+  "server_name": "Clinical Documentation",
+  "summary": {
+    "total_items": 2,
+    "category_count": 2
+  },
+  "categories": [
+    {
+      "id": "clinical_notes",
+      "name": "Clinical Notes",
+      "item_count": 1,
+      "primary": true,
+      "items": [
+        {
+          "id": "NOTE013",
+          "note_id": "NOTE013",
+          "patient_id": "PAT027",
+          "encounter_id": "ENC013",
+          "provider_id": "PROV003",
+          "note_type": "progress_note",
+          "subjective_preview": "Patient presents for liver disease follow-up. Reports mild abdominal discomfort, dull aching in the right upper quadrant. Denies hematemesis, melena, ...",
+          "objective_preview": "Vitals: BP 138/84 mmHg, HR 82 bpm, Temp 98.8F, Wt 185 lbs. General: Mild jaundice of sclera and skin. Spider angiomata noted on upper chest (3-4). Abd...",
+          "assessment": "1. Alcoholic cirrhosis - stable but lab values concerning for progressive hepatic dysfunction\n2. Hypertension - borderline controlled",
+          "plan": "1. Repeat liver panel in 4 weeks to monitor trend\n2. Abdominal MRI with contrast ordered for HCC screening given cirrhosis\n3. URGENT hepatology referral to Dr. Robert Hayes at Liver & Digestive Health Center\n4. Continue spironolactone 50mg daily and lactulose 30mL three times daily\n5. Continue alcohol abstinence - referred to substance abuse counseling\n6. Low-sodium diet reinforced\n7. Follow-up in 4 weeks or sooner if worsening symptoms",
+          "icd10_codes": "K70.30,I10",
+          "cpt_codes": "99215",
+          "status": "signed",
+          "created_at": "2026-01-20T14:00:00",
+          "signed_at": "2026-01-20T15:00:00",
+          "signed_by": "PROV003"
+        }
+      ]
+    },
+    {
+      "id": "note_addenda",
+      "name": "Note Addenda",
+      "item_count": 1,
+      "primary": false,
+      "items": [
+        {
+          "id": "ADD002",
+          "addendum_id": "ADD002",
+          "note_id": "NOTE013",
+          "provider_id": "PROV003",
+          "addendum_text": "Addendum: Abdominal ultrasound results reviewed. Findings show cirrhotic liver morphology with mild splenomegaly, no focal hepatic lesions. MRI with contrast ordered for further HCC screening. Hepatology referral sent to Dr. Robert Hayes at Liver & Digestive Health Center.",
+          "created_at": "2026-01-22T16:00:00"
+        }
+      ]
+    }
+  ]
+}

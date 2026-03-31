@@ -1,0 +1,38 @@
+{
+  "persona_id": "persona_010",
+  "patient_id": "PAT010",
+  "server_id": "clinical_documentation",
+  "server_name": "Clinical Documentation",
+  "summary": {
+    "total_items": 1,
+    "category_count": 1
+  },
+  "categories": [
+    {
+      "id": "clinical_notes",
+      "name": "Clinical Notes",
+      "item_count": 1,
+      "primary": true,
+      "items": [
+        {
+          "id": "NOTE006",
+          "note_id": "NOTE006",
+          "patient_id": "PAT010",
+          "encounter_id": "ENC006",
+          "provider_id": "PROV001",
+          "note_type": "progress_note",
+          "subjective_preview": "Patient presents for GERD follow-up. Reports persistent heartburn despite taking omeprazole 20mg daily for the past 8 weeks, taken 30 minutes before b...",
+          "objective_preview": "Vitals: BP 120/76 mmHg, HR 74 bpm, Temp 98.4F, Wt 155 lbs. Abdomen: Soft, non-tender, non-distended. No organomegaly. Bowel sounds normal. No epigastr...",
+          "assessment": "Gastroesophageal reflux disease - refractory to standard-dose PPI monotherapy",
+          "plan": "1. Increase omeprazole to 40mg BID (before breakfast and dinner)\n2. Reinforce dietary modifications - avoid citrus, tomatoes, coffee, chocolate, alcohol\n3. Continue elevating head of bed\n4. If no improvement in 4 weeks, refer to GI for upper endoscopy consideration\n5. Referral to Dr. O'Brien (GI) submitted for endoscopy evaluation\n6. Follow-up in 4-6 weeks",
+          "icd10_codes": "K21.0",
+          "cpt_codes": "99214",
+          "status": "signed",
+          "created_at": "2026-01-22T14:30:00",
+          "signed_at": "2026-01-22T15:30:00",
+          "signed_by": "PROV001"
+        }
+      ]
+    }
+  ]
+}

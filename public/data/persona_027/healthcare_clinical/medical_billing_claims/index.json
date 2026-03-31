@@ -1,0 +1,59 @@
+{
+  "persona_id": "persona_027",
+  "patient_id": "PAT027",
+  "server_id": "medical_billing_claims",
+  "server_name": "Medical Billing & Claims",
+  "summary": {
+    "total_items": 2,
+    "category_count": 2
+  },
+  "categories": [
+    {
+      "id": "claims",
+      "name": "Claims",
+      "item_count": 1,
+      "primary": true,
+      "items": [
+        {
+          "id": "CLM014",
+          "claim_id": "CLM014",
+          "patient_id": "PAT027",
+          "provider_id": "PROV003",
+          "encounter_id": "ENC013",
+          "payer_id": "PAY006",
+          "claim_type": "professional_837P",
+          "total_billed": "351.76",
+          "total_allowed": "262.42",
+          "total_paid": "0.0",
+          "patient_responsibility": "351.76",
+          "status": "denied",
+          "submitted_date": "2026-01-23",
+          "accepted_date": "2026-01-24",
+          "adjudicated_date": "2026-02-04",
+          "paid_date": ""
+        }
+      ]
+    },
+    {
+      "id": "denials",
+      "name": "Denials",
+      "item_count": 1,
+      "primary": false,
+      "items": [
+        {
+          "id": "DEN003",
+          "denial_id": "DEN003",
+          "claim_id": "CLM014",
+          "line_number": "1",
+          "carc_code": "16",
+          "carc_description": "Claim/service lacks information or has submission/billing error(s)",
+          "rarc_code": "MA130",
+          "rarc_description": "Your claim contains incomplete and/or invalid information",
+          "denied_amount": "210.16",
+          "appeal_deadline": "2026-04-05",
+          "appeal_status": "pending"
+        }
+      ]
+    }
+  ]
+}

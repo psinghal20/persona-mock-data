@@ -1,0 +1,86 @@
+{
+  "persona_id": "persona_009",
+  "patient_id": "PAT009",
+  "server_id": "referral_management",
+  "server_name": "Referral Management",
+  "summary": {
+    "total_items": 4,
+    "category_count": 2
+  },
+  "categories": [
+    {
+      "id": "referrals",
+      "name": "Referrals",
+      "item_count": 2,
+      "primary": true,
+      "items": [
+        {
+          "id": "REF002",
+          "referral_id": "REF002",
+          "patient_id": "PAT009",
+          "referring_provider_id": "PROV005",
+          "receiving_provider_id": "PROV007",
+          "referring_dept_id": "DEPT003",
+          "receiving_dept_id": "DEPT004",
+          "encounter_id": "ENC004",
+          "reason": "Knee osteoarthritis evaluation - consider surgical options",
+          "clinical_notes": "67-year-old male with progressive left knee pain limiting ambulation. Trialed NSAIDs and PT with partial relief. X-ray shows moderate medial compartment narrowing.",
+          "icd10_code": "M17.11",
+          "urgency": "routine",
+          "status": "scheduled",
+          "auth_id": "AUTH003",
+          "created_date": "2026-01-18",
+          "sent_date": "2026-01-19",
+          "scheduled_date": "2026-03-10",
+          "completed_date": ""
+        },
+        {
+          "id": "REF003",
+          "referral_id": "REF003",
+          "patient_id": "PAT009",
+          "referring_provider_id": "PROV001",
+          "receiving_provider_id": "PROV005",
+          "referring_dept_id": "DEPT001",
+          "receiving_dept_id": "DEPT003",
+          "encounter_id": "",
+          "reason": "Cardiac risk management - CAD history",
+          "clinical_notes": "Patient with history of CAD status post stent placement. Needs ongoing cardiology management for secondary prevention.",
+          "icd10_code": "I25.10",
+          "urgency": "routine",
+          "status": "completed",
+          "auth_id": "",
+          "created_date": "2025-11-01",
+          "sent_date": "2025-11-02",
+          "scheduled_date": "2025-11-10",
+          "completed_date": "2025-11-15"
+        }
+      ]
+    },
+    {
+      "id": "econsult_messages",
+      "name": "E-Consult Messages",
+      "item_count": 2,
+      "primary": false,
+      "items": [
+        {
+          "id": "MSG001",
+          "message_id": "MSG001",
+          "referral_id": "REF002",
+          "sender_provider_id": "PROV005",
+          "sender_role": "referring",
+          "message_text": "Dr. Thompson, referring Mr. William Thompson (67M) for left knee OA evaluation. He has progressive medial compartment pain over the past year, limiting his walking distance to 2 blocks. He has failed conservative management with NSAIDs and 6 weeks of PT. X-ray shows moderate medial joint space narrowing with osteophyte formation. Given his functional limitations and CAD history, would appreciate your assessment regarding surgical candidacy, particularly any cardiac clearance considerations.",
+          "sent_at": "2026-01-19T10:30:00"
+        },
+        {
+          "id": "MSG002",
+          "message_id": "MSG002",
+          "referral_id": "REF002",
+          "sender_provider_id": "PROV007",
+          "sender_role": "receiving",
+          "message_text": "Thank you, Dr. Wilson. Reviewed the imaging and clinical history for Mr. Thompson. The moderate medial compartment narrowing and his functional limitations make him a reasonable candidate for evaluation. I would like to obtain a weight-bearing MRI to better characterize the cartilage loss and evaluate for meniscal pathology before making a definitive surgical recommendation. Given his cardiac history, we will need cardiology clearance prior to any operative intervention. Will see him at his scheduled appointment on 3/10.",
+          "sent_at": "2026-01-20T14:15:00"
+        }
+      ]
+    }
+  ]
+}

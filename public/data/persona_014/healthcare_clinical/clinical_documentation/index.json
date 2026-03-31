@@ -1,0 +1,38 @@
+{
+  "persona_id": "persona_014",
+  "patient_id": "PAT014",
+  "server_id": "clinical_documentation",
+  "server_name": "Clinical Documentation",
+  "summary": {
+    "total_items": 1,
+    "category_count": 1
+  },
+  "categories": [
+    {
+      "id": "clinical_notes",
+      "name": "Clinical Notes",
+      "item_count": 1,
+      "primary": true,
+      "items": [
+        {
+          "id": "NOTE009",
+          "note_id": "NOTE009",
+          "patient_id": "PAT014",
+          "encounter_id": "ENC009",
+          "provider_id": "PROV012",
+          "note_type": "progress_note",
+          "subjective_preview": "Patient returns for anxiety follow-up. Reports significant improvement since starting sertraline 50mg 3 months ago. Worry episodes have decreased from...",
+          "objective_preview": "General: Pleasant, cooperative, well-groomed. Mental status: Alert and oriented x3. Mood described as 'much better.' Affect appropriate and congruent....",
+          "assessment": "Generalized anxiety disorder - responding well to SSRI therapy and CBT",
+          "plan": "1. Continue sertraline 50mg daily - effective at current dose\n2. Continue CBT sessions biweekly\n3. Encourage continued use of relaxation techniques and mindfulness\n4. No dose adjustment needed at this time\n5. Follow-up in 3 months\n6. Return sooner if symptoms worsen or new concerns arise",
+          "icd10_codes": "F41.1",
+          "cpt_codes": "99214",
+          "status": "signed",
+          "created_at": "2026-01-28T13:00:00",
+          "signed_at": "2026-01-28T14:00:00",
+          "signed_by": "PROV012"
+        }
+      ]
+    }
+  ]
+}

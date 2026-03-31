@@ -1,0 +1,84 @@
+{
+  "persona_id": "USR001",
+  "patient_id": "PAT001",
+  "server_id": "prior_auth",
+  "server_name": "Prior Authorization",
+  "summary": {
+    "total_items": 3,
+    "category_count": 3
+  },
+  "categories": [
+    {
+      "id": "patient_coverage",
+      "name": "Insurance Coverage",
+      "item_count": 1,
+      "primary": true,
+      "items": [
+        {
+          "id": "COV001",
+          "coverage_id": "COV001",
+          "patient_id": "PAT001",
+          "payer_id": "PAY001",
+          "plan_id": "PAY001_STANDARD",
+          "plan_name": "Blue Cross Blue Shield Standard PPO",
+          "member_id": "MBR826600539",
+          "group_number": "GRP356787",
+          "effective_date": "2025-01-01",
+          "termination_date": "",
+          "status": "active",
+          "copay_primary": "25",
+          "copay_specialist": "75",
+          "deductible": "500",
+          "deductible_met": "89.28",
+          "out_of_pocket_max": "6500",
+          "oop_met": "589.18",
+          "coinsurance_rate": "0.2"
+        }
+      ]
+    },
+    {
+      "id": "prior_authorizations",
+      "name": "Prior Authorizations",
+      "item_count": 1,
+      "primary": false,
+      "items": [
+        {
+          "id": "AUTH001",
+          "auth_id": "AUTH001",
+          "patient_id": "PAT001",
+          "requesting_provider_id": "PROV001",
+          "payer_id": "PAY001",
+          "service_type": "procedure",
+          "cpt_code": "95251",
+          "icd10_code": "E11.9",
+          "description": "CGM device interpretation and report",
+          "status": "approved",
+          "urgency": "routine",
+          "requested_date": "2026-01-15",
+          "determination_date": "2026-01-19",
+          "expiration_date": "2026-04-19",
+          "approved_units": "6",
+          "notes": "Authorization approved per clinical criteria"
+        }
+      ]
+    },
+    {
+      "id": "determination_letters",
+      "name": "Determination Letters",
+      "item_count": 1,
+      "primary": false,
+      "items": [
+        {
+          "id": "LTR001",
+          "letter_id": "LTR001",
+          "auth_id": "AUTH001",
+          "determination": "approved",
+          "reason": "Requested service meets clinical criteria for coverage. Authorization valid through 2026-04-19.",
+          "appeal_deadline": "",
+          "appeal_instructions": "",
+          "letter_date": "2026-01-20"
+        }
+      ]
+    }
+  ]
+}
