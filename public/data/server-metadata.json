@@ -251,5 +251,82 @@
     "whoop": {
       "summary": "WHOOP recovery wearable — physiological cycles, recovery scores (HRV, resting HR, SpO2), detailed sleep staging, and workout strain tracking with sport classification"
     }
+  },
+  "clinical": {
+    "athenahealth": {
+      "summary": "EHR practice management — patient search/registration, clinical summaries, drug interaction checks, prescriptions, appointments, encounters, CGM glucose reports, pharmacogenomics, health risk assessments, and carrier status screening"
+    },
+    "biomcp": {
+      "summary": "Comprehensive biomedical research hub — PubMed literature, ClinicalTrials.gov, genetic variants, gene/drug/disease info, NCI cancer data, FDA safety/approvals/recalls, and AlphaGenome predictions"
+    },
+    "brave-search": {
+      "summary": "Brave Search API for web and local search — find businesses, articles, and online content"
+    },
+    "calculator": {
+      "summary": "Evaluate mathematical expressions and perform calculations"
+    },
+    "clinical-documentation": {
+      "summary": "Clinical note management — retrieve encounter notes (SOAP, H&P, discharge summaries), search by patient/date/type, track unsigned notes, view note history and amendment trails, and monitor documentation compliance"
+    },
+    "clinicaltrialsgov-mcp-server": {
+      "summary": "ClinicalTrials.gov access — fetch studies by NCT ID, search with filters (condition, phase, status, location), and analyze trial trends"
+    },
+    "dicom-mcp": {
+      "summary": "DICOM medical imaging — connect to PACS nodes, query patients/studies/series/instances, move images between nodes, and extract PDF reports"
+    },
+    "e-prescribing": {
+      "summary": "Electronic prescribing system — manage prescriptions, check formulary status and drug coverage tiers, query medication history via Surescripts, search pharmacy directories, and track controlled substance dispensing (PDMP)"
+    },
+    "healthcare-mcp": {
+      "summary": "Multi-source healthcare toolkit — FDA drug lookup, PubMed/medRxiv literature search, BMI calculator, clinical trials, ICD-10 codes, NCBI Bookshelf, and DICOM metadata"
+    },
+    "lab-info-system": {
+      "summary": "Laboratory information system — manage lab orders and results, search test catalogs, track pending orders and specimen status, flag critical results with provider notifications, and view result history with trends"
+    },
+    "mcp-icd10": {
+      "summary": "ICD-10 code lookup and search — browse diagnosis categories, translate between code versions, and get coding statistics"
+    },
+    "mcp-loinc": {
+      "summary": "LOINC code search and reference — look up lab test codes, view panel compositions, browse forms and hierarchies, and access Top 2000 most-used codes"
+    },
+    "medcalc": {
+      "summary": "Clinical medical calculators across specialties — BMI, GFR, cardiac risk scores, hepatology scores, and more with parameter documentation"
+    },
+    "medical-billing-claims": {
+      "summary": "Medical billing and claims management — submit and track claims, view adjudication status, retrieve remittance/payment details, manage denials with reason codes, monitor A/R aging, and calculate patient balances"
+    },
+    "medical-billing-mcp": {
+      "summary": "Medical coding reference — look up ICD-10/CPT codes, modifiers, denial reason codes, payer-specific rules, and CCI bundling edits for claims compliance"
+    },
+    "medicaid-mcp": {
+      "summary": "Medicaid data from data.medicaid.gov — enrollment trends, drug pricing (NADAC), quality measures, and program performance metrics"
+    },
+    "nccn-guidelines": {
+      "summary": "NCCN clinical practice guidelines — browse the guideline index, download PDFs, and extract treatment recommendations for oncology and other specialties"
+    },
+    "nexonco-mcp": {
+      "summary": "NexOnco clinical evidence search — find cancer treatment evidence by disease, therapy, molecular profile, and phenotype"
+    },
+    "npi-registry": {
+      "summary": "National Provider Identifier registry — look up and verify US healthcare providers and organizations by NPI number, name, or specialty"
+    },
+    "prior-auth": {
+      "summary": "Prior authorization workflow — check patient insurance coverage and eligibility, verify benefit details, look up auth requirements by service type, submit and track authorization requests, view determination letters, and query payer-specific rules"
+    },
+    "pubmed": {
+      "summary": "PubMed biomedical literature — keyword and advanced search, article metadata retrieval, and PDF downloads"
+    },
+    "radiology-info-system": {
+      "summary": "Radiology information system — manage imaging orders and worklists, retrieve exam details and radiology reports (including structured reports), track critical findings, search exam history, and view scheduling availability"
+    },
+    "referral-management": {
+      "summary": "Referral management system — create and track patient referrals, search specialists by specialty/location/availability, manage eConsult threads between providers, monitor referral status and completion, and view referral analytics"
+    },
+    "snomed-ct-mcp": {
+      "summary": "SNOMED CT terminology lookup — search clinical concepts, retrieve codes by ID, and explore related terms (parents, children, synonyms)"
+    },
+    "who-mcp": {
+      "summary": "WHO Global Health Observatory — health indicators, country statistics, and regional data covering life expectancy, disease burden, and risk factors"
+    }
   }
 }
