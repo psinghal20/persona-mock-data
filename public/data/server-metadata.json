@@ -331,7 +331,10 @@
   },
   "professional": {
     "akshare-one-mcp": {
-      "summary": "AkShare Chinese stock market data — historical and real-time prices, financial statements (balance sheet, income, cash flow), insider trading, and key metrics"
+      "summary": "AkShare Chinese stock market data — historical and real-time prices, financial statements (balance sheet, income, cash flow), insider trading, and key metrics",
+      "tool_notes": {
+        "akshare-one-mcp_get_realtime_data": "Only available during Chinese market trading hours"
+      }
     },
     "alpaca": {
       "summary": "Alpaca brokerage API — trade stocks, crypto, and options with portfolio management, watchlists, market data (bars/quotes/trades), and market calendar/clock status"
@@ -346,7 +349,12 @@
       "summary": "CourtListener legal database — search case law opinions, federal PACER dockets and filings, oral argument audio, judge profiles, and parse/verify legal citations"
     },
     "financial-datasets": {
-      "summary": "Financial statements and market data — income statements, balance sheets, cash flow, stock and crypto prices (current and historical), company news, and SEC filings"
+      "summary": "Financial statements and market data — income statements, balance sheets, cash flow, stock and crypto prices (current and historical), company news, and SEC filings",
+      "tool_notes": {
+        "financial-datasets_get_available_crypto_tickers": "May return incomplete results",
+        "financial-datasets_get_crypto_prices": "Limited cryptocurrency coverage",
+        "financial-datasets_get_historical_crypto_prices": "Limited cryptocurrency coverage"
+      }
     },
     "fred-mcp-server": {
       "summary": "Federal Reserve Economic Data (FRED) — browse categories, search 800K+ economic time series, and retrieve data by series ID for macroeconomic analysis"
@@ -358,16 +366,31 @@
       "summary": "US tax calculator and planning suite — federal/state tax estimates, W-4 withholding, deduction comparison, credit eligibility (EITC, education), retirement strategies, capital gains optimization, multi-year projections, and audit risk assessment"
     },
     "massive-mcp": {
-      "summary": "Financial market data aggregator — search API endpoints by natural language, fetch market data, and analyze results with SQL queries"
+      "summary": "Financial market data aggregator — search API endpoints by natural language, fetch market data, and analyze results with SQL queries",
+      "tool_notes": {
+        "massive-mcp_query_data": "Requires calling call_api first to load data before querying"
+      }
     },
     "octagon-mcp": {
       "summary": "Octagon market intelligence — deep research analysis, orchestrated multi-agent insights, and Kalshi prediction market data with historical event tracking"
     },
     "open-legal-compliance-mcp": {
-      "summary": "Multi-jurisdiction legal search — US Code, CFR, state laws, Congress bills, Federal Register, EU regulations, UK legislation, Canadian case law, SEC filings, FDA events, and Data.gov"
+      "summary": "Multi-jurisdiction legal search — US Code, CFR, state laws, Congress bills, Federal Register, EU regulations, UK legislation, Canadian case law, SEC filings, FDA events, and Data.gov",
+      "tool_notes": {
+        "open-legal-compliance-mcp_search_eu_regulations": "EU regulations search is currently unavailable"
+      }
     },
     "patent-mcp-server": {
-      "summary": "Patent search and analysis — USPTO patent operations plus Google Patents BigQuery search by keyword, inventor, assignee, or CPC code with full claim and description retrieval"
+      "summary": "Patent search and analysis — USPTO patent operations plus Google Patents BigQuery search by keyword, inventor, assignee, or CPC code with full claim and description retrieval",
+      "tool_notes": {
+        "patent-mcp-server_google_search_patents": "Google data not available",
+        "patent-mcp-server_google_get_patent": "Google data not available",
+        "patent-mcp-server_google_get_patent_claims": "Google data not available",
+        "patent-mcp-server_google_get_patent_description": "Google data not available",
+        "patent-mcp-server_google_search_by_inventor": "Google data not available",
+        "patent-mcp-server_google_search_by_assignee": "Google data not available",
+        "patent-mcp-server_google_search_by_cpc": "Google data not available"
+      }
     },
     "propublica-mcp": {
       "summary": "ProPublica nonprofit data — search organizations, analyze Form 990 financials and trends, find similar nonprofits, access PDF filings, and export data in bulk"
@@ -379,13 +402,68 @@
       "summary": "TradingView-style crypto scanner — top gainers/losers, Bollinger Band scans, volume breakout detection, consecutive candle patterns, and multi-agent symbol debate analysis"
     },
     "twelvedata": {
-      "summary": "Twelve Data financial API — real-time and historical prices, technical indicators (RSI, MACD, Bollinger Bands, EMA, SMA, ATR, ADX), company profiles, earnings, dividends, splits, and IPO calendar"
+      "summary": "Twelve Data financial API — real-time and historical prices, technical indicators (RSI, MACD, Bollinger Bands, EMA, SMA, ATR, ADX), company profiles, earnings, dividends, splits, and IPO calendar",
+      "tool_notes": {
+        "twelvedata_GetMarketState": "Currently unavailable due to a server-side issue"
+      }
     },
     "us-legal-mcp": {
-      "summary": "US legal research — search Congress bills, Federal Register documents, and court opinions with access to recent legislation, regulations, and committee information"
+      "summary": "US legal research — search Congress bills, Federal Register documents, and court opinions with access to recent legislation, regulations, and committee information",
+      "tool_notes": {
+        "us-legal-mcp_search_congress_bills": "Search results may have limited relevance"
+      }
     },
     "us-regulations-mcp": {
       "summary": "US federal and state regulatory compliance — search 15+ regulations, compare requirements across frameworks, map NIST controls, check industry applicability, and generate breach notification timelines"
+    },
+    "uspto-patent-mcp": {
+      "summary": "Comprehensive USPTO patent platform — full-text patent search (PPUBS), application prosecution data (ODP), PTAB trial proceedings and decisions, patent litigation records, CPC/status code lookups, and citation analysis",
+      "tool_notes": {
+        "uspto-patent-mcp_odp_get_application": "Currently unavailable",
+        "uspto-patent-mcp_odp_get_application_metadata": "Currently unavailable",
+        "uspto-patent-mcp_odp_get_continuity": "Currently unavailable",
+        "uspto-patent-mcp_odp_get_assignment": "Currently unavailable",
+        "uspto-patent-mcp_odp_get_adjustment": "Currently unavailable",
+        "uspto-patent-mcp_odp_get_attorney": "Currently unavailable",
+        "uspto-patent-mcp_odp_get_foreign_priority": "Currently unavailable",
+        "uspto-patent-mcp_odp_get_transactions": "Currently unavailable",
+        "uspto-patent-mcp_odp_get_documents": "Currently unavailable",
+        "uspto-patent-mcp_odp_search_applications": "Currently unavailable",
+        "uspto-patent-mcp_odp_search_datasets": "Currently unavailable",
+        "uspto-patent-mcp_odp_get_dataset": "Currently unavailable",
+        "uspto-patent-mcp_ptab_search_proceedings": "Currently unavailable",
+        "uspto-patent-mcp_ptab_get_proceeding": "Currently unavailable",
+        "uspto-patent-mcp_ptab_get_documents": "Currently unavailable",
+        "uspto-patent-mcp_ptab_search_decisions": "Currently unavailable",
+        "uspto-patent-mcp_ptab_get_decision": "Currently unavailable",
+        "uspto-patent-mcp_ptab_search_appeals": "Currently unavailable",
+        "uspto-patent-mcp_ptab_get_appeal": "Currently unavailable",
+        "uspto-patent-mcp_search_litigation": "Currently unavailable",
+        "uspto-patent-mcp_get_litigation_case": "Currently unavailable",
+        "uspto-patent-mcp_get_patent_litigation": "Currently unavailable",
+        "uspto-patent-mcp_get_party_litigation": "Currently unavailable",
+        "uspto-patent-mcp_patentsview_search_patents": "Service shut down — use ppubs_search_patents instead",
+        "uspto-patent-mcp_patentsview_get_patent": "Service shut down — use ppubs_get_patent_by_number instead",
+        "uspto-patent-mcp_patentsview_search_assignees": "Service shut down",
+        "uspto-patent-mcp_patentsview_get_assignee": "Service shut down",
+        "uspto-patent-mcp_patentsview_search_inventors": "Service shut down",
+        "uspto-patent-mcp_patentsview_get_inventor": "Service shut down",
+        "uspto-patent-mcp_patentsview_get_claims": "Service shut down — use ppubs_get_full_document instead",
+        "uspto-patent-mcp_patentsview_get_description": "Service shut down",
+        "uspto-patent-mcp_patentsview_search_by_cpc": "Service shut down",
+        "uspto-patent-mcp_patentsview_lookup_cpc": "Service shut down — use get_cpc_info instead",
+        "uspto-patent-mcp_patentsview_search_attorneys": "Service shut down",
+        "uspto-patent-mcp_patentsview_get_attorney": "Service shut down",
+        "uspto-patent-mcp_patentsview_lookup_ipc": "Service shut down",
+        "uspto-patent-mcp_patentsview_search_by_ipc": "Service shut down",
+        "uspto-patent-mcp_get_office_action_text": "Currently unavailable",
+        "uspto-patent-mcp_search_office_actions": "Currently unavailable",
+        "uspto-patent-mcp_get_office_action_citations": "Currently unavailable",
+        "uspto-patent-mcp_get_office_action_rejections": "Currently unavailable",
+        "uspto-patent-mcp_get_enriched_citations": "Currently unavailable",
+        "uspto-patent-mcp_search_citations": "Currently unavailable",
+        "uspto-patent-mcp_get_citation_metrics": "Currently unavailable"
+      }
     },
     "yahoo-finance": {
       "summary": "Yahoo Finance data — stock quotes, company info, news, historical prices, option chains, earnings reports, and sector top entities"

@@ -84,16 +84,18 @@ async function getServerData(category: string, serverId: string) {
 
   // Load server metadata
   let summary: string | undefined;
+  let toolNotes: Record<string, string> = {};
   try {
     const metaFile = path.join(process.cwd(), "public", "data", "server-metadata.json");
     const metaData = await fs.readFile(metaFile, "utf-8");
     const allMeta = JSON.parse(metaData);
     summary = allMeta[category]?.[serverId]?.summary;
+    toolNotes = allMeta[category]?.[serverId]?.tool_notes || {};
   } catch {
     // No metadata file
   }
 
-  return { tools, csvFiles, totalRecords, summary };
+  return { tools, csvFiles, totalRecords, summary, toolNotes };
 }
 
 export async function generateStaticParams() {
@@ -126,7 +128,7 @@ export async function generateStaticParams() {
 
 export default async function ServerDetailPage({ params }: PageProps) {
   const { category, serverId } = await params;
-  const { tools, csvFiles, totalRecords, summary } = await getServerData(category, serverId);
+  const { tools, csvFiles, totalRecords, summary, toolNotes } = await getServerData(category, serverId);
 
   const categoryName = CATEGORY_NAMES[category] || category;
   const serverName = formatServerName(serverId);
@@ -195,7 +197,7 @@ export default async function ServerDetailPage({ params }: PageProps) {
               Tool Definitions ({tools.length})
             </h2>
           </div>
-          <ToolsList tools={tools} />
+          <ToolsList tools={tools} toolNotes={toolNotes} />
         </div>
       )}
     </div>

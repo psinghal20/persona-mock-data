@@ -5,9 +5,10 @@ import { ToolDefinition } from "@/types";
 
 interface ToolsListProps {
   tools: ToolDefinition[];
+  toolNotes?: Record<string, string>;
 }
 
-function ToolItem({ tool }: { tool: ToolDefinition }) {
+function ToolItem({ tool, note }: { tool: ToolDefinition; note?: string }) {
   const [isOpen, setIsOpen] = useState(false);
   const [copied, setCopied] = useState(false);
 
@@ -31,6 +32,14 @@ function ToolItem({ tool }: { tool: ToolDefinition }) {
         <div className="tool-title">
           <span className="chevron">▶</span>
           <h4>{toolName}</h4>
+          {note && (
+            <span className="ml-2 inline-flex items-center gap-1 text-xs px-2 py-0.5 rounded-full bg-yellow-900/30 text-yellow-400 border border-yellow-800/30">
+              <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 9v2m0 4h.01M12 3l9.66 16.5H2.34L12 3z" />
+              </svg>
+              {note}
+            </span>
+          )}
         </div>
         <button
           className={`copy-btn ${copied ? "copied" : ""}`}
@@ -48,7 +57,7 @@ function ToolItem({ tool }: { tool: ToolDefinition }) {
   );
 }
 
-export default function ToolsList({ tools }: ToolsListProps) {
+export default function ToolsList({ tools, toolNotes }: ToolsListProps) {
   if (tools.length === 0) {
     return (
       <div className="no-tools">No tools in this server</div>
@@ -58,7 +67,7 @@ export default function ToolsList({ tools }: ToolsListProps) {
   return (
     <div className="tools-list">
       {tools.map((tool, index) => (
-        <ToolItem key={tool.name || index} tool={tool} />
+        <ToolItem key={tool.name || index} tool={tool} note={toolNotes?.[tool.name]} />
       ))}
     </div>
   );

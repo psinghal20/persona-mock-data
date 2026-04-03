@@ -45,6 +45,7 @@ interface ServerCard {
   serverId: string;
   name: string;
   summary?: string;
+  hasToolNotes: boolean;
   toolCount: number;
   dataFileCount: number;
 }
@@ -64,7 +65,7 @@ async function getCategoryCards(category: string): Promise<ServerCard[]> {
     const allTools: ToolDefinition[] = JSON.parse(fileData);
 
     // Load server metadata
-    let metadata: Record<string, { summary?: string }> = {};
+    let metadata: Record<string, { summary?: string; tool_notes?: Record<string, string> }> = {};
     try {
       const metaFile = path.join(process.cwd(), "public", "data", "server-metadata.json");
       const metaData = await fs.readFile(metaFile, "utf-8");
@@ -103,10 +104,12 @@ async function getCategoryCards(category: string): Promise<ServerCard[]> {
         }
       }
 
+      const serverToolNotes = metadata[serverId]?.tool_notes;
       cards.push({
         serverId,
         name: formatServerName(serverId),
         summary: metadata[serverId]?.summary,
+        hasToolNotes: !!serverToolNotes && Object.keys(serverToolNotes).length > 0,
         toolCount,
         dataFileCount,
       });
@@ -203,6 +206,9 @@ export default async function ToolCategoryPage({ params }: PageProps) {
                   <span className="server-card-data">
                     {card.dataFileCount} data file{card.dataFileCount !== 1 ? "s" : ""}
                   </span>
+                )}
+                {card.hasToolNotes && (
+                  <span className="text-yellow-400/70 text-xs">Some tools have limitations</span>
                 )}
               </div>
             </Link>
