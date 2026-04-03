@@ -38,6 +38,7 @@ const CATEGORY_TOOLS_FILES: Record<string, string> = {
   shopping: "shopping-tools.json",
   medical: "healthcare-tools.json",
   clinical: "healthcare-clinical-tools.json",
+  professional: "professional-tools.json",
 };
 
 interface ServerCard {

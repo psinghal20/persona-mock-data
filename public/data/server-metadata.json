@@ -328,5 +328,67 @@
     "who-mcp": {
       "summary": "WHO Global Health Observatory — health indicators, country statistics, and regional data covering life expectancy, disease burden, and risk factors"
     }
+  },
+  "professional": {
+    "akshare-one-mcp": {
+      "summary": "AkShare Chinese stock market data — historical and real-time prices, financial statements (balance sheet, income, cash flow), insider trading, and key metrics"
+    },
+    "alpaca": {
+      "summary": "Alpaca brokerage API — trade stocks, crypto, and options with portfolio management, watchlists, market data (bars/quotes/trades), and market calendar/clock status"
+    },
+    "alphavantage": {
+      "summary": "Alpha Vantage financial data API — access stock prices, forex, crypto, technical indicators, and fundamental data through a dynamic tool discovery interface"
+    },
+    "coingecko-mcp": {
+      "summary": "CoinGecko cryptocurrency data — prices, market cap, volume, and token info via SDK with searchable documentation"
+    },
+    "courtlistener-mcp": {
+      "summary": "CourtListener legal database — search case law opinions, federal PACER dockets and filings, oral argument audio, judge profiles, and parse/verify legal citations"
+    },
+    "financial-datasets": {
+      "summary": "Financial statements and market data — income statements, balance sheets, cash flow, stock and crypto prices (current and historical), company news, and SEC filings"
+    },
+    "fred-mcp-server": {
+      "summary": "Federal Reserve Economic Data (FRED) — browse categories, search 800K+ economic time series, and retrieve data by series ID for macroeconomic analysis"
+    },
+    "goldrush-mcp": {
+      "summary": "Covalent GoldRush blockchain analytics — multichain EVM token balances, transaction history, NFT holdings, portfolio valuations, gas prices, event logs, and Bitcoin wallet data"
+    },
+    "irs-taxpayer-mcp": {
+      "summary": "US tax calculator and planning suite — federal/state tax estimates, W-4 withholding, deduction comparison, credit eligibility (EITC, education), retirement strategies, capital gains optimization, multi-year projections, and audit risk assessment"
+    },
+    "massive-mcp": {
+      "summary": "Financial market data aggregator — search API endpoints by natural language, fetch market data, and analyze results with SQL queries"
+    },
+    "octagon-mcp": {
+      "summary": "Octagon market intelligence — deep research analysis, orchestrated multi-agent insights, and Kalshi prediction market data with historical event tracking"
+    },
+    "open-legal-compliance-mcp": {
+      "summary": "Multi-jurisdiction legal search — US Code, CFR, state laws, Congress bills, Federal Register, EU regulations, UK legislation, Canadian case law, SEC filings, FDA events, and Data.gov"
+    },
+    "patent-mcp-server": {
+      "summary": "Patent search and analysis — USPTO patent operations plus Google Patents BigQuery search by keyword, inventor, assignee, or CPC code with full claim and description retrieval"
+    },
+    "propublica-mcp": {
+      "summary": "ProPublica nonprofit data — search organizations, analyze Form 990 financials and trends, find similar nonprofits, access PDF filings, and export data in bulk"
+    },
+    "sec-edgar-mcp": {
+      "summary": "SEC EDGAR filings — company lookup, financial statements, 8-K event analysis, segment data, XBRL concept extraction, insider trading (Form 4) analysis, and filing section retrieval"
+    },
+    "tradingview-mcp": {
+      "summary": "TradingView-style crypto scanner — top gainers/losers, Bollinger Band scans, volume breakout detection, consecutive candle patterns, and multi-agent symbol debate analysis"
+    },
+    "twelvedata": {
+      "summary": "Twelve Data financial API — real-time and historical prices, technical indicators (RSI, MACD, Bollinger Bands, EMA, SMA, ATR, ADX), company profiles, earnings, dividends, splits, and IPO calendar"
+    },
+    "us-legal-mcp": {
+      "summary": "US legal research — search Congress bills, Federal Register documents, and court opinions with access to recent legislation, regulations, and committee information"
+    },
+    "us-regulations-mcp": {
+      "summary": "US federal and state regulatory compliance — search 15+ regulations, compare requirements across frameworks, map NIST controls, check industry applicability, and generate breach notification timelines"
+    },
+    "yahoo-finance": {
+      "summary": "Yahoo Finance data — stock quotes, company info, news, historical prices, option chains, earnings reports, and sector top entities"
+    }
   }
 }

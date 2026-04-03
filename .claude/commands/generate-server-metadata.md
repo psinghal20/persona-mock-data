@@ -6,6 +6,7 @@ Regenerate `public/data/server-metadata.json` from the tool definition files.
    - `public/data/shopping-tools.json`
    - `public/data/healthcare-tools.json`
    - `public/data/healthcare-clinical-tools.json`
+   - `public/data/professional-tools.json`
 
 2. **Read the existing metadata file** (if it exists):
    - `public/data/server-metadata.json`
@@ -47,6 +48,7 @@ Regenerate `public/data/server-metadata.json` from the tool definition files.
 | `shopping-tools.json` | `"shopping"` |
 | `healthcare-tools.json` | `"medical"` |
 | `healthcare-clinical-tools.json` | `"clinical"` |
+| `professional-tools.json` | `"professional"` |
 
 If new tool files are added in the future, extend this mapping.
 
