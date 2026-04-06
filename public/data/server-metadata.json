@@ -333,31 +333,47 @@
     "akshare-one-mcp": {
       "summary": "AkShare Chinese stock market data — historical and real-time prices, financial statements (balance sheet, income, cash flow), insider trading, and key metrics",
       "tool_notes": {
-        "akshare-one-mcp_get_realtime_data": "Only available during Chinese market trading hours"
+        "akshare-one-mcp_get_realtime_data": "Only available during Chinese market trading hours",
+        "akshare-one-mcp_get_inner_trade_data": "Returns data in Chinese. Limited to symbols with recent insider trading activity"
       }
     },
     "alpaca": {
       "summary": "Alpaca brokerage API — trade stocks, crypto, and options with portfolio management, watchlists, market data (bars/quotes/trades), and market calendar/clock status"
     },
     "alphavantage": {
-      "summary": "Alpha Vantage financial data API — access stock prices, forex, crypto, technical indicators, and fundamental data through a dynamic tool discovery interface"
+      "summary": "Alpha Vantage financial data API — access stock prices, forex, crypto, technical indicators, and fundamental data through a dynamic tool discovery interface",
+      "tool_notes": {
+        "alphavantage_TOOL_GET": "Requires a tool name from TOOL_LIST",
+        "alphavantage_TOOL_CALL": "Requires the schema from TOOL_GET to construct arguments"
+      }
     },
     "coingecko-mcp": {
       "summary": "CoinGecko cryptocurrency data — prices, market cap, volume, and token info via SDK with searchable documentation"
     },
     "courtlistener-mcp": {
-      "summary": "CourtListener legal database — search case law opinions, federal PACER dockets and filings, oral argument audio, judge profiles, and parse/verify legal citations"
+      "summary": "CourtListener legal database — search case law opinions, federal PACER dockets and filings, oral argument audio, judge profiles, and parse/verify legal citations",
+      "tool_notes": {
+        "courtlistener-mcp_get_opinion": "Requires an opinion ID from search_opinions",
+        "courtlistener-mcp_get_docket": "Requires a docket ID from search_dockets",
+        "courtlistener-mcp_get_audio": "Requires an audio ID from search_audio",
+        "courtlistener-mcp_get_cluster": "Requires a cluster ID from search_opinions",
+        "courtlistener-mcp_get_person": "Requires a person ID from search_people",
+        "courtlistener-mcp_get_court": "Requires a court ID from search results"
+      }
     },
     "financial-datasets": {
       "summary": "Financial statements and market data — income statements, balance sheets, cash flow, stock and crypto prices (current and historical), company news, and SEC filings",
       "tool_notes": {
-        "financial-datasets_get_available_crypto_tickers": "May return incomplete results",
-        "financial-datasets_get_crypto_prices": "Limited cryptocurrency coverage",
-        "financial-datasets_get_historical_crypto_prices": "Limited cryptocurrency coverage"
+        "financial-datasets_get_available_crypto_tickers": "Currently unavailable",
+        "financial-datasets_get_crypto_prices": "Use BTC-USD ticker format. Duplicate of get_historical_crypto_prices",
+        "financial-datasets_get_historical_crypto_prices": "Use BTC-USD ticker format"
       }
     },
     "fred-mcp-server": {
-      "summary": "Federal Reserve Economic Data (FRED) — browse categories, search 800K+ economic time series, and retrieve data by series ID for macroeconomic analysis"
+      "summary": "Federal Reserve Economic Data (FRED) — browse categories, search 800K+ economic time series, and retrieve data by series ID for macroeconomic analysis",
+      "tool_notes": {
+        "fred-mcp-server_fred_get_series": "Requires a series ID — use fred_browse or fred_search to find one"
+      }
     },
     "goldrush-mcp": {
       "summary": "Covalent GoldRush blockchain analytics — multichain EVM token balances, transaction history, NFT holdings, portfolio valuations, gas prices, event logs, and Bitcoin wallet data"
@@ -368,7 +384,9 @@
     "massive-mcp": {
       "summary": "Financial market data aggregator — search API endpoints by natural language, fetch market data, and analyze results with SQL queries",
       "tool_notes": {
-        "massive-mcp_query_data": "Requires calling call_api first to load data before querying"
+        "massive-mcp_get_endpoint_docs": "Requires an endpoint from search_endpoints results",
+        "massive-mcp_call_api": "Requires endpoint details from get_endpoint_docs — use store_as to save results. Some endpoints (trades, quotes) are not available",
+        "massive-mcp_query_data": "Runs SQL on data saved by call_api — call call_api with store_as first"
       }
     },
     "octagon-mcp": {
@@ -377,7 +395,8 @@
     "open-legal-compliance-mcp": {
       "summary": "Multi-jurisdiction legal search — US Code, CFR, state laws, Congress bills, Federal Register, EU regulations, UK legislation, Canadian case law, SEC filings, FDA events, and Data.gov",
       "tool_notes": {
-        "open-legal-compliance-mcp_search_eu_regulations": "EU regulations search is currently unavailable"
+        "open-legal-compliance-mcp_search_eu_regulations": "EU regulations search is currently unavailable",
+        "open-legal-compliance-mcp_get_sec_filings": "Requires a CIK from the SEC EDGAR server — no tool in this server provides CIKs"
       }
     },
     "patent-mcp-server": {
@@ -393,25 +412,47 @@
       }
     },
     "propublica-mcp": {
-      "summary": "ProPublica nonprofit data — search organizations, analyze Form 990 financials and trends, find similar nonprofits, access PDF filings, and export data in bulk"
+      "summary": "ProPublica nonprofit data — search organizations, analyze Form 990 financials and trends, find similar nonprofits, access PDF filings, and export data in bulk",
+      "tool_notes": {
+        "propublica-mcp_get_organization": "Requires an EIN — use search_nonprofits to find one",
+        "propublica-mcp_get_organization_filings": "Requires an EIN — use search_nonprofits to find one",
+        "propublica-mcp_analyze_nonprofit_financials": "Requires an EIN — use search_nonprofits to find one",
+        "propublica-mcp_search_similar_nonprofits": "Requires an EIN — use search_nonprofits to find one. May return no results for smaller organizations",
+        "propublica-mcp_get_most_recent_pdf": "Requires an EIN — use search_nonprofits to find one",
+        "propublica-mcp_export_nonprofit_data": "Requires an EIN — use search_nonprofits to find one"
+      }
     },
     "sec-edgar-mcp": {
-      "summary": "SEC EDGAR filings — company lookup, financial statements, 8-K event analysis, segment data, XBRL concept extraction, insider trading (Form 4) analysis, and filing section retrieval"
+      "summary": "SEC EDGAR filings — company lookup, financial statements, 8-K event analysis, segment data, XBRL concept extraction, insider trading (Form 4) analysis, and filing section retrieval",
+      "tool_notes": {
+        "sec-edgar-mcp_get_company_info": "Requires a CIK — use get_cik_by_ticker or search_companies first",
+        "sec-edgar-mcp_get_company_facts": "Requires a CIK — use get_cik_by_ticker or search_companies first",
+        "sec-edgar-mcp_get_recent_filings": "Requires a CIK — use get_cik_by_ticker or search_companies first",
+        "sec-edgar-mcp_get_financials": "Requires a CIK — use get_cik_by_ticker or search_companies first",
+        "sec-edgar-mcp_get_segment_data": "Requires a CIK — use get_cik_by_ticker or search_companies first",
+        "sec-edgar-mcp_get_key_metrics": "Requires a CIK — use get_cik_by_ticker or search_companies first",
+        "sec-edgar-mcp_compare_periods": "Requires a CIK — use get_cik_by_ticker or search_companies first",
+        "sec-edgar-mcp_discover_company_metrics": "Requires a CIK — use get_cik_by_ticker or search_companies first",
+        "sec-edgar-mcp_get_insider_transactions": "Requires a CIK — use get_cik_by_ticker or search_companies first",
+        "sec-edgar-mcp_get_insider_summary": "Requires a CIK — use get_cik_by_ticker or search_companies first",
+        "sec-edgar-mcp_analyze_insider_sentiment": "Requires a CIK — use get_cik_by_ticker or search_companies first",
+        "sec-edgar-mcp_get_filing_content": "Requires an accession number from get_recent_filings",
+        "sec-edgar-mcp_analyze_8k": "Requires an accession number from get_recent_filings",
+        "sec-edgar-mcp_get_filing_sections": "Requires an accession number from get_recent_filings",
+        "sec-edgar-mcp_get_xbrl_concepts": "Requires an accession number from get_recent_filings",
+        "sec-edgar-mcp_discover_xbrl_concepts": "Requires an accession number from get_recent_filings",
+        "sec-edgar-mcp_get_form4_details": "Requires an accession number from get_recent_filings",
+        "sec-edgar-mcp_analyze_form4_transactions": "Requires an accession number from get_recent_filings"
+      }
     },
     "tradingview-mcp": {
       "summary": "TradingView-style crypto scanner — top gainers/losers, Bollinger Band scans, volume breakout detection, consecutive candle patterns, and multi-agent symbol debate analysis"
     },
     "twelvedata": {
-      "summary": "Twelve Data financial API — real-time and historical prices, technical indicators (RSI, MACD, Bollinger Bands, EMA, SMA, ATR, ADX), company profiles, earnings, dividends, splits, and IPO calendar",
-      "tool_notes": {
-        "twelvedata_GetMarketState": "Currently unavailable due to a server-side issue"
-      }
+      "summary": "Twelve Data financial API — real-time and historical prices, technical indicators (RSI, MACD, Bollinger Bands, EMA, SMA, ATR, ADX), company profiles, earnings, dividends, splits, and IPO calendar"
     },
     "us-legal-mcp": {
-      "summary": "US legal research — search Congress bills, Federal Register documents, and court opinions with access to recent legislation, regulations, and committee information",
-      "tool_notes": {
-        "us-legal-mcp_search_congress_bills": "Search results may have limited relevance"
-      }
+      "summary": "US legal research — search Congress bills, Federal Register documents, and court opinions with access to recent legislation, regulations, and committee information"
     },
     "us-regulations-mcp": {
       "summary": "US federal and state regulatory compliance — search 15+ regulations, compare requirements across frameworks, map NIST controls, check industry applicability, and generate breach notification timelines"
@@ -442,6 +483,11 @@
         "uspto-patent-mcp_get_litigation_case": "Currently unavailable",
         "uspto-patent-mcp_get_patent_litigation": "Currently unavailable",
         "uspto-patent-mcp_get_party_litigation": "Currently unavailable",
+        "uspto-patent-mcp_ppubs_search_patents": "Session may expire during extended use",
+        "uspto-patent-mcp_ppubs_search_applications": "Session may expire during extended use",
+        "uspto-patent-mcp_ppubs_get_full_document": "Session may expire during extended use",
+        "uspto-patent-mcp_ppubs_get_patent_by_number": "Session may expire during extended use",
+        "uspto-patent-mcp_ppubs_download_patent_pdf": "Session may expire during extended use",
         "uspto-patent-mcp_patentsview_search_patents": "Service shut down — use ppubs_search_patents instead",
         "uspto-patent-mcp_patentsview_get_patent": "Service shut down — use ppubs_get_patent_by_number instead",
         "uspto-patent-mcp_patentsview_search_assignees": "Service shut down",
