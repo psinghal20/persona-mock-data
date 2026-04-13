@@ -364,9 +364,9 @@
     "financial-datasets": {
       "summary": "Financial statements and market data — income statements, balance sheets, cash flow, stock and crypto prices (current and historical), company news, and SEC filings",
       "tool_notes": {
-        "financial-datasets_get_available_crypto_tickers": "Currently unavailable",
-        "financial-datasets_get_crypto_prices": "Use BTC-USD ticker format. Duplicate of get_historical_crypto_prices",
-        "financial-datasets_get_historical_crypto_prices": "Use BTC-USD ticker format"
+        "financial-datasets_get_crypto_prices": "Not available",
+        "financial-datasets_get_historical_crypto_prices": "Not available",
+        "financial-datasets_get_current_crypto_price": "Not available"
       }
     },
     "fred-mcp-server": {
@@ -379,7 +379,10 @@
       "summary": "Covalent GoldRush blockchain analytics — multichain EVM token balances, transaction history, NFT holdings, portfolio valuations, gas prices, event logs, and Bitcoin wallet data"
     },
     "irs-taxpayer-mcp": {
-      "summary": "US tax calculator and planning suite — federal/state tax estimates, W-4 withholding, deduction comparison, credit eligibility (EITC, education), retirement strategies, capital gains optimization, multi-year projections, and audit risk assessment"
+      "summary": "US tax calculator and planning suite — federal/state tax estimates, W-4 withholding, deduction comparison, credit eligibility (EITC, education), retirement strategies, capital gains optimization, multi-year projections, and audit risk assessment",
+      "tool_notes": {
+        "irs-taxpayer-mcp_compare_state_taxes": "Deprecated"
+      }
     },
     "massive-mcp": {
       "summary": "Financial market data aggregator — search API endpoints by natural language, fetch market data, and analyze results with SQL queries",
@@ -425,17 +428,17 @@
     "sec-edgar-mcp": {
       "summary": "SEC EDGAR filings — company lookup, financial statements, 8-K event analysis, segment data, XBRL concept extraction, insider trading (Form 4) analysis, and filing section retrieval",
       "tool_notes": {
-        "sec-edgar-mcp_get_company_info": "Requires a CIK — use get_cik_by_ticker or search_companies first",
-        "sec-edgar-mcp_get_company_facts": "Requires a CIK — use get_cik_by_ticker or search_companies first",
-        "sec-edgar-mcp_get_recent_filings": "Requires a CIK — use get_cik_by_ticker or search_companies first",
-        "sec-edgar-mcp_get_financials": "Requires a CIK — use get_cik_by_ticker or search_companies first",
-        "sec-edgar-mcp_get_segment_data": "Requires a CIK — use get_cik_by_ticker or search_companies first",
-        "sec-edgar-mcp_get_key_metrics": "Requires a CIK — use get_cik_by_ticker or search_companies first",
-        "sec-edgar-mcp_compare_periods": "Requires a CIK — use get_cik_by_ticker or search_companies first",
-        "sec-edgar-mcp_discover_company_metrics": "Requires a CIK — use get_cik_by_ticker or search_companies first",
-        "sec-edgar-mcp_get_insider_transactions": "Requires a CIK — use get_cik_by_ticker or search_companies first",
-        "sec-edgar-mcp_get_insider_summary": "Requires a CIK — use get_cik_by_ticker or search_companies first",
-        "sec-edgar-mcp_analyze_insider_sentiment": "Requires a CIK — use get_cik_by_ticker or search_companies first",
+        "sec-edgar-mcp_get_company_info": "Accepts ticker or CIK — use get_cik_by_ticker for faster lookups",
+        "sec-edgar-mcp_get_company_facts": "Accepts ticker or CIK — use get_cik_by_ticker for faster lookups",
+        "sec-edgar-mcp_get_recent_filings": "Accepts ticker or CIK — use get_cik_by_ticker for faster lookups",
+        "sec-edgar-mcp_get_financials": "Accepts ticker or CIK — use get_cik_by_ticker for faster lookups",
+        "sec-edgar-mcp_get_segment_data": "Accepts ticker or CIK — use get_cik_by_ticker for faster lookups",
+        "sec-edgar-mcp_get_key_metrics": "Accepts ticker or CIK — use get_cik_by_ticker for faster lookups",
+        "sec-edgar-mcp_compare_periods": "Accepts ticker or CIK — use get_cik_by_ticker for faster lookups",
+        "sec-edgar-mcp_discover_company_metrics": "Accepts ticker or CIK — use get_cik_by_ticker for faster lookups",
+        "sec-edgar-mcp_get_insider_transactions": "Accepts ticker or CIK — use get_cik_by_ticker for faster lookups",
+        "sec-edgar-mcp_get_insider_summary": "Accepts ticker or CIK — use get_cik_by_ticker for faster lookups",
+        "sec-edgar-mcp_analyze_insider_sentiment": "Accepts ticker or CIK — use get_cik_by_ticker for faster lookups",
         "sec-edgar-mcp_get_filing_content": "Requires an accession number from get_recent_filings",
         "sec-edgar-mcp_analyze_8k": "Requires an accession number from get_recent_filings",
         "sec-edgar-mcp_get_filing_sections": "Requires an accession number from get_recent_filings",
@@ -449,7 +452,10 @@
       "summary": "TradingView-style crypto scanner — top gainers/losers, Bollinger Band scans, volume breakout detection, consecutive candle patterns, and multi-agent symbol debate analysis"
     },
     "twelvedata": {
-      "summary": "Twelve Data financial API — real-time and historical prices, technical indicators (RSI, MACD, Bollinger Bands, EMA, SMA, ATR, ADX), company profiles, earnings, dividends, splits, and IPO calendar"
+      "summary": "Twelve Data financial API — real-time and historical prices, technical indicators (RSI, MACD, Bollinger Bands, EMA, SMA, ATR, ADX), company profiles, earnings, dividends, splits, and IPO calendar",
+      "tool_notes": {
+        "twelvedata_GetStatistics": "Not available"
+      }
     },
     "us-legal-mcp": {
       "summary": "US legal research — search Congress bills, Federal Register documents, and court opinions with access to recent legislation, regulations, and committee information"
